@@ -20,10 +20,20 @@ entire suffix, it doesn't get appended after it.
 
 ## Protocol for consumer scripts
 
-Multiple machines may run against this queue at the same time, so treat
-`git push` rejection as expected, not an error: it means someone else
-updated the queue first. Use `queue_lib.py` (vendor a copy, or add this
-repo's clone to `sys.path` and `import queue_lib`):
+Multiple machines may run against this queue at the same time. Use
+`queue_lib.py` (vendor a copy, or add this repo's clone to `sys.path` and
+`import queue_lib`) — it does **not** rely on git merging divergent
+history to resolve races: this file's lines are short, structurally
+similar, and sit right next to each other, and git's line-based diff/merge
+(rebase's patch-apply *and* a plain three-way merge) can group two
+adjacent-but-unrelated edits into a single spurious conflict even when
+nothing actually overlaps. So `git_pull()` is strictly fast-forward-only,
+and any divergence — a genuine same-line race, or just a spuriously
+"conflicting" adjacent edit — is resolved the same way: discard the local
+attempt and redo it against a fresh pull, never merge.
+
+The high-level functions already implement this discard-and-redo loop, so
+most consumers only need two calls:
 
 ```python
 from pathlib import Path
@@ -31,34 +41,33 @@ import queue_lib
 
 repo_dir = Path("~/code/wiki-translate-queue").expanduser()
 
-queue_lib.git_pull(repo_dir)                 # 1. get the latest state
-# ... parse totranslate.txt, pick the first line with no status field
-#     (treat a CLAIMED line whose timestamp is stale — a few hours old —
-#     as pending too, in case whoever claimed it crashed) ...
+claimed = queue_lib.claim_next_pending(repo_dir)  # pulls, picks the first
+                                                   # pending (or stale-
+                                                   # CLAIMED) line, claims
+                                                   # + pushes it, retrying
+                                                   # against a fresh pull
+                                                   # on any conflict
+if claimed is None:
+    ...  # nothing pending
+line_no, url = claimed
 
-# 2. claim it before doing any slow work, so two machines can't pick the
-#    same line: replace the line's status field with
-#    "CLAIMED\t<hostname>\t<iso timestamp>"
-try:
-    queue_lib.git_commit_push(repo_dir, f"claim: {url}")
-except queue_lib.QueueSyncError:
-    # Someone else claimed a conflicting version of this line first.
-    queue_lib.git_reset_hard_to_remote(repo_dir)
-    # pull again, re-parse, pick a different line, retry.
+# do the (possibly slow) translation work
 
-# 3. do the (possibly slow) translation work
-
-# 4. replace the CLAIMED status field with DONE or FAILED, then:
-queue_lib.git_commit_push(repo_dir, f"result: {url} -> DONE")
+queue_lib.finish_line(repo_dir, line_no, url, "DONE")  # or "FAILED",
+                                                        # optionally reason=...
 ```
 
-`queue_lib.git_commit_push()` already retries pull+push a few times on
-rejection, so a normal race between two machines resolves on its own —
-`git_reset_hard_to_remote()` is only needed for the harder case where the
-retries themselves are exhausted or the rebase hits a real conflict.
-See `batch_controller.py` in `wikitranslateautorun` for a full worked
-example (`claim_line`, `set_line_status`, and the retry/reset handling
-around it).
+`finish_line()` and `claim_next_pending()` both retry internally (default
+5 attempts) via the discard-and-redo pattern; they raise `QueueSyncError`
+only if that's still failing after all attempts (e.g. no network).
+
+Lower-level building blocks (`parse_queue`, `set_line_status`,
+`claim_marker`, `is_stale_claim`, `git_pull`, `git_commit_push`,
+`git_reset_hard_to_remote`, `sync_to_remote`) are there for a consumer
+that needs custom selection logic instead of "first pending line" — see
+`batch_controller.py` in `wikitranslateautorun` for a full worked example
+(it has its own cost-based article ordering, so it claims a specific,
+already-chosen line rather than using `claim_next_pending`).
 
 ## Current consumers
 
