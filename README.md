@@ -1,9 +1,34 @@
 # wiki-translate-queue
 
 Shared queue of Wikipedia articles to translate, plus their processing
-status. This repo is *just* the shared state — no translation logic lives
-here. It exists so that translation scripts running on different machines
-can all find and safely update the same queue.
+status, plus the produced articles themselves (`output/`). This repo is
+*just* the shared state — no translation logic lives here. It exists so
+that translation scripts running on different machines can all find and
+safely update the same queue and land their finished output in the same
+place.
+
+## `output/`
+
+Flat directory of finished, paste-ready `.wiki` files, one per article,
+named the way each producing pipeline naturally names its output (usually
+the Albanian title). Not addressed by line number the way `totranslate.txt`
+is — there's no required link between a queue line and a specific filename
+here beyond both referring to the same article. Only finished, reviewed
+translations belong here: a pipeline whose own process flags a translation
+as needing human review (e.g. `multimodeltranslationpipeline`'s
+`needs_human_review` status) should not publish it here until that's
+resolved.
+
+`wikitranslateautorun` symlinks its whole `output/` directory here
+(`ln -s .../wiki-translate-queue/output output`) so its existing code
+writes here with zero changes. `translation-harness` points its
+`output_dir` config setting here directly. `multimodeltranslationpipeline`
+and `wikipedia-articles-translation` each use a richer per-article
+directory structure locally (source/draft/QA-pass/metadata files, not just
+the final article) that doesn't map cleanly onto this flat layout, so
+they're not wired for automatic publishing here yet — only the finished
+articles from their existing local output have been copied in as a
+one-time migration.
 
 ## `totranslate.txt` format
 

@@ -1,0 +1,105 @@
+
+[[File:Shën Palji - San Paolo Albanese La sposa arëreshe con amiche in abito tradizionale 03.jpg|thumb]]
+'''Wiki Loves Arbëreshë''' is an activity of the [[m:Wikimedians of Albanian Language User Group|Wikimedians of Albanian Language User Group (WoALUG)]] to document the Arbëresh people of southern Italy on the Wikimedia projects — their living heritage, settlements and Arbëresh topics in general. It is part of the international [[m:Wiki Loves Living Heritage|Wiki Loves Living Heritage]] initiative.
+
+The campaign invites heritage practitioners, Wikimedia volunteers and cultural institutions to document and celebrate Arbëresh heritage. We aim to cover the language, religion, music, costume, food, rituals and notable people, as well as the villages ''(katunde)'' and their history — working across Wikipedia, Wikimedia Commons and Wikidata. The central goal is to empower the Arbëresh community itself to become a long-term contributor.
+
+== Topic ==
+The Arbëresh people of southern Italy — living heritage, settlements and Arbëresh topics in general.
+
+== Timeline ==
+The campaign will last for 45 days: 1 September until 15 October 2026. It will be held both online and offline.  Some activities can be organised outside this window to accommodate participating communities.
+
+== Activities ==
+The campaign combines translation, article writing and an online upload campaign, supported by training and fieldwork documentation:
+
+* '''Translation, writing & upload (45 days):''' translating articles between Albanian, Italian and English, writing new articles, and an upload campaign (photos, audio, video) to Commons — following the [[/Worklist|worklist]].
+* '''Training with Arbëresh communities:''' online and offline, introducing participants to editing, uploading and documentation.
+* '''Italian-language programme (University of Prishtina):''' students and staff take part in the translation component — during the campaign or as a separate activity.
+* '''Contributions by the Arbëresh themselves:''' by arrangement with each community — audio documentation, photography and articles — with ongoing remote support.
+* '''Language documentation:''' participants are guided to record storytelling and music from the Arbëresh in each village and upload it to Commons.
+* '''Outreach:''' local governments, cultural institutions and schools are invited to take part.
+
+===Specific activities:===
+* Online editathon and multimedia upload campaign across Albania, Kosovo and Italy. 
+*In-person workshop in Hora e Arbëreshëve, September 19-20. Participants will write and translate articles and upload photographs and recordings to the Wiki projects.
+*Online training sessions for Arbëreshë outside of Piana degli Albanesi.
+**On September 8, 11:00–13:00, in Albanian
+**on September 12, 18:00- 20:00, in English 
+* Wikimedia IT will be organizing a writing week with the Italian Wikimedians Community. Dates still have to be determined.
+* Offline edit-a-thons in Prishtina and Tirana (dates to be determined).
+* Italian Language Programe at the University of Prishtina (tentative).
+
+== How to contribute ==
+There are many ways to take part — pick whichever suits you:
+
+* '''Article writing''' — create new articles on Arbëresh settlements, notable people, festivals, language, religion, costume or cuisine (see the [[/Worklist|worklist]]).
+* '''Translation between languages''' — translate articles between Albanian, Italian and English; Italian often has the most developed articles and serves as a source.
+* '''Photos''' — upload images of villages, costume, food, events and people (with permission).
+* '''Storytelling (audio)''' — record oral stories, testimony and narration in Arbërisht and upload it to Commons.
+* '''Music and song''' — recordings of Arbëresh songs, liturgical chant and festival music.
+
+=== Registration for the campaign ===
+If you want to take part ant contribute in the campaign, please register through this link [https://outreachdashboard.wmflabs.org/courses/WoALUG/Wiki_Loves_Arb%C3%ABresh%C3%AB_2026?enroll= here]. This allows us to track all of the contributions made.
+
+==Registration for workshops== 
+
+There are also two specific events which will be held:
+# In-person workshop in Hora e Arbëreshëve. Held during September 19-20. 
+#Online workshop for individuals outside of Hora e Arbëreshëve: September 8 (in Albanian), 11:00–13:00. September 12 (in English), 18:00–20:00. For online only participants.
+
+You can register for both events here in [https://docs.google.com/forms/d/e/1FAIpQLSfIqDCL3ZTuUCeERfwcGJ30-RRo0sZzeXdKS9QBN_FztbkP0g/viewform?usp=header English], and here in [https://docs.google.com/forms/d/e/1FAIpQLSebtIntYv5-ZBaIbPstlzR5PY8f7QHOv_5zq86cby4bwCgnWw/viewform?usp=header Albanian]
+
+== Goals ==
+* 100 new or improved articles/photos across the wiki projects.
+* Documentation of Arbëresh language, music, costume, food and rituals (text, photos, audio, data).
+* Contributions of photography and audio recordings (''storytelling'', song) to Wikimedia Commons.
+* Empowering the Arbëresh community for long-term contribution.
+* Building lasting links with institutions, schools and Arbëresh creatives.
+
+== Target groups ==
+* Arbëresh communities in Italy.
+*** Primary and secondary schools in the Arbëresh villages.
+* Italian Wikipedia editors.
+* Italian language / anthropology / social-science students in universities in Kosovo and Albania.
+* Albanians in Italy working in these fields.
+
+== Multimedia ==
+A  scan of [[c:Category:Arbëreshë|Category:Arbëreshë]] category on Wikimedia Commons shows:
+
+* '''Well covered:''' costume (~287 files across 34 villages) and churches/religion (the eparchies, Grottaferrata).
+* '''Missing entirely:''' any audio (spoken Arbërisht, song, chant); cuisine photography; Java e Prigatorëvet, Easter/Holy Week, Carnival, the Festival of Arbëresh Song; Gjitonia as a theme.
+
+'''Photo/media priorities''' (by impact):
+# '''Audio''' (nothing exists) — spoken Arbërisht, storytelling, poetry, liturgical chant, festival song.
+# '''Cuisine''' — strangujët, panaret, kanojët, grurët, bukë, etc.
+# '''Rituals not yet documented''' — Java e Prigatorëvet, Easter/Holy Week, Carnival.
+# '''Costume''' for villages with only 1 photo — San Demetrio Corone, San Giorgio Albanese, San Nicola dell'Alto, Castroregio, Pallagorio, Farneta.
+# '''General village views''' for the thinnest settlements — Vaccarizzo Albanese, Montecilfone, San Demetrio Corone, Portocannone, Marcedusa, Cerzeto, Firmo.
+
+===Contributing Multimedia===
+''(Klein, please add a button here or link to Commons campaign)''
+
+== Monitoring ==
+The full list of articles (existing and to be written), with Albanian / Italian / English columns, each article's status (size, references, sections, photos) and the Commons coverage per village, is kept on the [[/Worklist|worklist]].
+
+== See also ==
+* '''[[/Worklist|Worklist — list of articles]]'''
+* [[m:Wiki Loves Living Heritage|Wiki Loves Living Heritage]]
+* [[c:Category:Arbëreshë|Category:Arbëreshë (Commons)]]
+* [[voy:it:Piana degli Albanesi|Piana degli Albanesi (Wikivoyage)]]
+
+=== Contact ===
+<div style="text-align:center; margin:15px auto;">
+<div style="display:flex; justify-content:center; gap:28px; align-items:center; flex-wrap:wrap; margin-top:12px; opacity:0.65;">
+[[File:Font Awesome 5 solid envelope.svg|25px|link=mailto:info@wikimediashqip.org|Email: info@wikimediashqip.org]]
+[[File:Bootstrap whatsapp.svg|25px|link=https://chat.whatsapp.com/Bma54PiYMG4HggY31FJG7B|WhatsApp]]
+[[File:Font Awesome 5 brands facebook-square.svg|25px|link=https://www.facebook.com/SQWikimediansUG|Facebook]]
+[[File:Font Awesome 5 brands instagram.svg|25px|link=https://www.instagram.com/SQWikimediansUG/|Instagram]]
+[[File:Font Awesome 5 solid globe.svg|25px|link=https://wikimediashqip.org|Faqja në internet]]
+</div>
+</div>
+
+
+[[Category:Wiki Loves Living Heritage]]
+[[Category:Wikimedians of Albanian Language User Group]]

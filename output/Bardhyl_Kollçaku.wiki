@@ -1,0 +1,97 @@
+{{short description|Oficer ushtarak shqiptar|bot=PearBOT 5}}
+{{Infobox officeholder
+| honorific_prefix =
+| name             = Bardhyl Kollçaku
+| native_name      = 
+| native_name_lang = 
+| honorific_suffix = 
+| image            = Bardhyl Kollçaku in 2018.jpg
+| image_size       = 
+| alt              = 
+| caption          = Gjeneral major Bardhyl Kollçaku në 2018
+| order            = 
+| office           = [[:en:Chief of the Albanian General Staff|Shefi i Shtabit të Përgjithshëm të Forcave të Armatosura Shqiptare]]
+| term_start       = 28 tetor 2017
+| term_end         = 29 korrik 2020
+| monarch          = 
+| president        = [[Ilir Meta]]
+| 1blankname       = [[Ministria e Mbrojtjes (Shqipëri)|Ministri i Mbrojtjes]]
+| 1namedata        = [[Olta Xhaçka]]
+| prime_minister   = 
+| predecessor      = [[Jeronim Bazo]]
+| successor        = [[Bajram Begaj]]
+| birth_date       = {{birth date and age|1967|06|05|df=y}}
+| birth_place      = [[Berati]], [[Republika Popullore Socialiste e Shqipërisë]]
+| citizenship      = 
+| party            = 
+| other_party      = <!--For additional political affiliations-->
+| height           = <!-- "X cm", "X m"  or "X ft Y in" plus optional reference (conversions are automatic) -->
+| spouse           = Valbona Kollçaku
+| children         = 2
+| relatives        = 
+| education        = Akademia Ushtarake Shqiptare "Skënderbej"
+| alma_mater       = 
+| occupation       = 
+| profession       = Oficer ushtarak
+| known_for        = 
+| cabinet          = 
+| committees       = 
+| portfolio        = 
+| awards           = <!-- For civilian awards - appears as "Awards" if |mawards= is not set -->
+| signature        = 
+| signature_alt    = 
+| website          = <!--Military service-->
+| nickname         = 
+| allegiance       = {{flagicon|Albania|1946}} [[Republika Popullore Socialiste e Shqipërisë]]<br><small>(1985–1991)</small><br>{{flagicon|Albania}}[[Shqipëria]]<br><small>(që nga 1991)</small>
+| branch           = [[:en:Albanian Armed Forces#Cold War|Ushtria Popullore Shqiptare]]<br><small>(1985–1991)</small><br>[[Forcat e Armatosura Shqiptare]]<br><small>(1991–2020)</small>
+| service_years    = 1985–2020
+| rank             = <span style="{{Transform-rotate|90}}">[[File:ALB-Army-OF-6.svg|20px]]</span>{{spaces|7}}Gjeneral Brigade
+| unit             = 
+| commands         = 
+| battles          = 
+| mawards          = <!-- for military awards - appears as "Awards" if |awards= is not set -->
+| military_blank1  = 
+| military_data1   = 
+| military_blank2  = 
+| military_data2   = 
+| military_blank3  = 
+| military_data3   = 
+| military_blank4  = 
+| military_data4   = 
+| military_blank5  = 
+| military_data5   =  
+}}
+
+'''Bardhyl Kollçaku''' është një ish-oficer ushtarak shqiptar, i cili shërbeu si [[:en:Chief of the Albanian General Staff|Shefi i Shtabit të Përgjithshëm]] të [[Forcat e Armatosura Shqiptare|Forcave të Armatosura Shqiptare]].<ref>{{Cite web|url=https://www.nato.int/cps/en/natohq/who_is_who_146588.htm|title=Brigadier General Bardhyl Kollçaku
+|website=nato|language=en|access-date=2020-05-09}}</ref><ref>{{Cite web|url=http://www.mod.gov.al/eng/index.php/newsroom/693-brigadier-general-bardhyl-kollcaku-the-new-chief-of-staff-of-aaf|title=brigadier-general-bardhyl-kollcaku-the-new-chief-of-staff-of-aaf|website=mod.gov.al|language=en|access-date=2020-05-09}}</ref>
+
+==Shefi i Shtabit të Përgjithshëm==
+
+Në vitin 2017, Kollçaku u bë Shefi i ri i Shtabit të Përgjithshëm të [[Forcat e Armatosura Shqiptare|Forcave të Armatosura Shqiptare]] me dekret presidencial, të lëshuar nga Presidenti [[Ilir Meta]].<ref>{{Cite web|url=http://www.mod.gov.al/eng/index.php/newsroom/693-brigadier-general-bardhyl-kollcaku-the-new-chief-of-staff-of-aaf|title=brigadier-general-bardhyl-kollcaku-the-new-chief-of-staff-of-aaf|website=mod.gov.al|language=en|access-date=2020-05-09}}</ref><ref>{{Cite web|url=http://www.mod.gov.al/eng/index.php/newsroom/664-bardhyl-kollcaku-newly-appointed-brigadier-general-of-the-armed-forces|title=Bardhyl-kollcaku-newly-appointed-brigadier-general-of-the-armed-forces|website=mod.gov.al|language=en|access-date=2020-05-09|archive-date=2017-10-17|archive-url=https://web.archive.org/web/20171017181036/http://www.mod.gov.al/eng/index.php/newsroom/664-bardhyl-kollcaku-newly-appointed-brigadier-general-of-the-armed-forces|url-status=dead}}</ref> Ai u zëvendësua në këtë rol nga Gjeneral Major [[Bajram Begaj]] në 2020.
+
+==Jeta personale==
+
+Kollçaku është i martuar me Valbonën Kollçaku dhe ka dy fëmijë, Argiosin dhe Kejsin.<ref>{{Cite web|url=https://www.nato.int/cps/en/natohq/who_is_who_146588.htm|title=Brigadier General Bardhyl Kollçaku
+|website=nato|language=en|access-date=2020-05-09}}</ref>
+
+==Referime==
+<references />
+
+{{DEFAULTSORT:Kollçaku, Bardhyl}}
+[[Kategoria:Lindjet e 1967]]
+[[Kategoria:Njerëz të gjallë]]
+[[Kategoria:Njerëz nga Berati]]
+[[Kategoria:Shefat e Shtabit të Përgjithshëm të Forcave të Armatosura Shqiptare]]
+[[Kategoria:Anëtarë të Parlamentit të Shqipërisë]]
+
+{{Stub}}
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Bardhyl Kollçaku|9 gusht 2026|1368566486}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Bardhyl Kollçaku, versioni i datës 9 gusht 2026 (revizioni 1368566486).
+-->

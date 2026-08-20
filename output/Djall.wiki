@@ -1,0 +1,24 @@
+'''Djalli''' ose '''Dreqi''' është personifikimi i [[E keqja|së keqes]] në [[Mitologjia shqiptare|mitologjinë dhe folklorin shqiptar]].<ref>{{harvnb|Lurker|2004|p=52}}</ref> Emri përdoret gjithashtu për një [[Demoni|demon]] të zjarrit. Tregime të ndryshme të endura me kalimin e viteve e kanë paraqitur Djallin si antagonistin, elementin keqbërës kundër të cilit duhet të luftojnë heronjtë dhe njerëzit e thjeshtë. Si paraqitje simbolike e forcave të së keqes, Djalli shërben për të nxjerrë në pah virtytet kontrastuese të guximit, mençurisë dhe integritetit moral tek ata që guxojnë t'i kundërshtojnë atë. Por Djalli nuk është thjesht një metaforë, në këto tregime ai merr një formë që mund të manifestohet në botën fizike, më së shumti si një demon zjarri. Kjo karakteristikë elementare i shton një shtresë tjetër rreziku ekzistencës së tij tashmë të frikshme. Një infern në lëvizje, ai sjell rrezik moral dhe vdekjeprurës.{{sfn|Novik|2015|p=268}}
+
+== Etimologjia ==
+Emri ''djall'' rrjedh nga [[Gjuha latine|latinishtja]] ''diabolus'', "[[Djalli|djall]]".<ref>{{harvnb|Orel|1998|p=67}}</ref> Forma alternative janë ''dreqi'' nga latinishtja ''draco'', "[[Dragoi|drak]]",<ref>{{harvnb|Orel|1998|p=74}}</ref> ''[[Satani|satan]]'' dhe ''[[Shaitan|shejtan]]''.{{sfn|Elsie|2001|p=68}}
+
+== Shiko edhe ==
+* [[:en:Dajjal|Dajjal]]
+* [[:en:En (deity)|En (hyjni)]]
+* [[Kuçedra]]
+* [[:en:Stihi|Stihi]]
+* [[:en:Verbti|Verbti]]
+
+== Referime ==
+{{Reflist}}
+
+== Bibliografia ==
+* {{cite book|last=Elsie|first=Robert|author-link=Robert Elsie|title=A Dictionary of Albanian Religion, Mythology and Folk Culture|place=London|publisher=Hurst & Company|url=https://books.google.com/books?id=N_IXHrXIsYkC|isbn=1-85065-570-7|year=2001|language=en}}
+* {{cite book | last1 = Lurker | first1 = Manfred | title = The Routledge dictionary of gods and goddesses, devils and demons | publisher = Routledge | year = 2004 | language=en }}
+* {{cite journal|url=https://www.researchgate.net/publication/282313685|last=Novik|first=Alexander|title=Lexicon of Albanian Mythology: Areal Studies in the Polylingual Region of Azov Sea|journal=Slavia Meridionalis|volume=15|doi=10.11649/sm.2015.022|date=2015|pages=261–273|access-date=7 February 2020|doi-access=free|language=en}}
+* {{cite book|last=Orel|first=Vladimir|title=Albanian etymological dictionary|url=https://books.google.com/books?id=yJQYAQAAIAAJ|year=1998|publisher=Brill|isbn=9004110240|language=en}}
+
+[[Kategoria:Mitologjia shqiptare]]
+[[Kategoria:Krijesat legjendare shqiptare]]
+[[Kategoria:Zotat e vdekjes]]

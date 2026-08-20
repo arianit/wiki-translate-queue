@@ -1,0 +1,57 @@
+{{Short description|Donutë ballkanike}}
+{{Infobox prepared food
+| name            = Krofne
+| image           = Pokladnice Križevci 2008.JPG
+| image_size      = 250px
+| caption         = 
+| alternate_name  = Krafne, krofi, krofni, crofne
+| country         = 
+| region          = [[Ballkani]]
+| creator         = 
+| course          = 
+| type            = [[Donut]]
+| served          = 
+| main_ingredient = [[Maja e furrës]], [[Qumështi|qumësht]], [[Sheqeri|sheqer]], [[Mielli|miell]], [[Gjalpi|gjalpë]], [[Vezë|vezë]], [[Rum|rum]], [[Lëvozhgë limoni|lëvozhgë limoni]]
+Mbushje: [[Reçel]], [[Marmelatë|marmelatë]], [[Reçel|reçel]], [[Çokollata|çokollatë]], [[Kustarda|kustard]], ose [[Pana|pana]]; [[Sheqeri pluhur|sheqer pluhur]]
+| variations      = 
+| calories        = 
+| other           = 
+}}
+'''Krofne''' ([[Gjuha shqipe|shqip]] dhe {{langx|hr|krafne}}; [[Gjuha boshnjake|boshnjakisht]] dhe {{lang-sr-Latn|krofne}}, {{lang-sr-cyr|крофне}}; [[Gjuha rumune|rumunisht]]: crofne; {{langx|sl|krofi}}; {{langx|mk|крофни}}) janë donutë të fryra me mbushje. Ato janë të rrumbullakëta dhe zakonisht mbushur me [[Reçel|reçel]], [[Marmelatë|marmelatë]], [[Reçel|reçel]] ose [[Çokollata|çokollatë]] si dhe me gjalpë, [[Nutella]] dhe kanellë. Ato mund të mbushën edhe me [[Kustarda|kustard]], ose [[Pana|panë]], por kjo është zakonisht më pak e zakonshme. Emri vjen nga gjermanishtja ''[[Berliner (doughnut)|Krapfen]]'', dhe është një variacion i ëmbëlsirës së Evropës Qendrore të njohur si [[Berliner (pastry)|Berliner]]. Ato janë gjithashtu të ngjashme me [[beignet]]s.
+
+Receta për krofne shtëpiake përfshin [[Maja e furrës|majën e furrës]], [[Qumështi|qumësht]], [[Sheqeri|sheqer]], [[Mielli|miell]], kripë, [[Gjalpi|gjalpë]], [[Vezë|vezë]], [[Rum|rum]], [[Lëvozhgë limoni|lëvozhgë limoni]], [[Marmelatë|marmelatë]] dhe [[Sheqeri pluhur|sheqer pluhur]]. Brumi përzihet dhe përgatitet dhe më pas pritet në copa të vogla, pastaj bëhet në formë të topave të vegjël, duke e bërë më të lehtë gatimin.<ref>{{cite web | url = http://www.recepti.hr/recepti/jela/krafne-2 | language = hr | publisher = recepti.hr | author = Branko Ognjenović | title = Krafne | access-date = 2011-08-03}}</ref>
+
+Në Serbi, Kroaci dhe Slloveni, konsumi i krafneve, ose krofive, rritet ndjeshëm gjatë festivalit vjetor të dimrit të [[Karnavalet|Karnavalit]]. Në Kroaci, ato shërbehen në ditën e Vitit të Ri si simbol fatmirësie dhe për prosperitet,{{citation needed|date=July 2016}} si dhe për festa të tjera si Pashkët dhe Krishtlindjet.
+
+==Galeria==
+<gallery mode=packed heights = 160px>
+File:Micine krofne.jpg
+</gallery>
+
+==Shiko edhe==
+* [[Lista e varieteteve të donutave]]
+* [[Lista e ushqimeve të skuqura me brumë]]
+* [[Donut me reçel]]
+* [[Lista e ëmbëlsirave me kustard]]
+
+==Referime==
+{{Reflist}}
+
+==Lidhje të jashtme==
+{{Commonskat}}
+* [https://www.youtube.com/watch?v=qpjsd0pIzTc Krofne: recetë video]
+* [https://www.recepti-kuvar.rs/recepti/?category=797&cuisine=&cooking_method=&sort=&content-search= Recepti i Kuvar online, receta për krofne]
+__NOTOC__
+
+[[Kategoria:Ushqime të lehta shqiptare]]
+[[Kategoria:Kuzhina e Bosnjës dhe Hercegovinës]]
+[[Kategoria:Kuzhina kroate]]
+[[Kategoria:Kuzhina malazeze]]
+[[Kategoria:Kuzhina serbe]]
+[[Kategoria:Kuzhina sllovene]]
+[[Kategoria:Donutë]]
+[[Kategoria:Ëmbëlsira me kustard]]
+[[Kategoria:Ëmbëlsira sllovene]]
+[[Kategoria:Ëmbëlsira kroate]]
+
+{{Shqipëria-cung}}

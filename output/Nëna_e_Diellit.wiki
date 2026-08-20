@@ -1,0 +1,50 @@
+<!--
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Nëna e Diellit, versioni i datës 31 korrik 2024 (revizioni 1237837816)
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Nëna e Diellit|31 korrik 2024|1237837816}}
+-->
+
+'''Nëna e Diellit''' ("Nëna e Diellit" ose "E Ëma e Diellit") është një [[:en:mother goddess|perëndeshë amtare]] në [[besimet popullore shqiptare]], e ëma e [[:en:Dielli (Albanian paganism)|Diellit]]. Një [[Rituali|ritual]] i shenjtë i quajtur "varrimi i Nënës së Diellit" ishte shumë i përhapur në juglindje të [[Shqipëria|Shqipërisë]] deri në shekullin e 20-të.<ref>{{harvnb|Golan|1991|p=55}}; {{harvnb|Daum|1998|p=236}}; {{harvnb|Golan|2003|ff. 93–94}}; {{harvnb|Tirta|2004|ff. 259–260}}; {{harvnb|Neziri|2015|p=124}}.</ref> Ajo është përshkruar nga studiuesit si një perëndeshë e qiellit<ref>{{harvnb|Golan|1991|p=55}}; {{harvnb|Golan|2003|ff. 93–94}}</ref> dhe si një perëndeshë e bujqësisë, blegtorisë dhe pjellorisë së tokës, siç sugjeron rituali i shenjtë i kushtuar asaj.<ref>{{harvnb|Tirta|2004|ff. 259–260}}</ref> Nëna e Diellit shfaqet gjithashtu si një hyjni në përrallat popullore shqiptare.<ref>{{harvnb|Lambertz|1952|p=138}}</ref><ref>{{harvnb|Elsie|2001|p=98}}</ref> Nëna e Diellit përfaqëson një manifestim të [[Personifikimi|personifikimit]] të Diellit në mitologjinë shqiptare.{{sfn|Bovan|1985|p=241}}
+
+== Rituali ==
+Një [[Rituali|ritual]] i shenjtë i quajtur "varrimi i Nënës së Diellit" konsistonte në varrosjen e një figure femërore që me sa duket personifikonte një fazë sezonale të perëndeshës amtare. Ky ritual, që zhvillohej në fund të majit, ishte festa e fundit e ciklit pranveror, që përkonte me festën e [[Rrëshajët|Rrëshajëve]] (''Rusica'').<ref>{{harvnb|Golan|1991|p=55}}; {{harvnb|Daum|1998|p=236}}; {{harvnb|Golan|2003|ff. 93–94}}; {{harvnb|Tirta|2004|ff. 259–260}}; {{harvnb|Neziri|2015|p=124}}.</ref> Ai ishte shumë i përhapur në juglindje të Shqipërisë deri në shekullin e 20-të.<ref>{{harvnb|Daum|1998|p=236}}; {{harvnb|Tirta|2004|ff. 259–260}}; {{harvnb|Neziri|2015|p=124}}.</ref> Gjatë këtij zakoni, vajzat dhe gratë e reja mblidhnin lule, vallzonin dhe këndonin, duke festuar së bashku me vaktet. Pas drekës ose në fund të ditës, ata bënin një kukull prej balte që e quanin Nënë e Diellit (''Nëna e Diellit''), e vendosnin mbi një tullë dhe dilnin jashtë fshatit për të varrosur figurën femërore.<ref>{{harvnb|Daum|1998|p=236}}; {{harvnb|Tirta|2004|ff. 259–260}}; {{harvnb|Neziri|2015|p=124}}.</ref> Ai kryhej në heshtje dhe me gjithë seriozitetin e duhur të një ceremonie vdekjeje.<ref>{{harvnb|Tirta|2004|ff. 259–260}}</ref> Vajzat dhe gratë e reja [[:en:Vajtim|vajtonin]] perëndeshën amtare, duke shqiptuar vargjet tipike ''Nënë moj nënë, kuku / erdhi dielli e s'të gjeti'' "Nënë o nënë, mjerisht, / erdhi Dielli dhe nuk të gjeti".<ref>{{harvnb|Neziri|2015|p=124}}</ref>
+
+== Përrallat ==
+Nëna e Diellit shfaqet si një hyjni në disa përralla popullore shqiptare. Njëra prej tyre është mbledhur nga albanologu [[Maksimilian Lamberci]] dhe është botuar me titullin ''"Bei der Sonnenmutter"'' ["Te Nëna e Diellit"] në koleksionin ''Die geflügelte Schwester und die Dunklen der Erde: Albanische Volksmärchen'' [Motra me krahë dhe të errëtit e tokës: Përralla popullore shqiptare].<ref>{{harvnb|Lambertz|1952|p=138}}</ref> Një tjetër është mbledhur nga albanologu [[Robert Elsie]] dhe është botuar me titullin "[[:en:Tulisa, the Wood-Cutter's Daughter#Albania|Gjarpri dhe bija e mbretit]]" në koleksionin ''Albanian Folktales and Legends''.<ref>{{harvnb|Elsie|2001|p=98}}</ref>
+
+== Shiko edhe ==
+* [[:en:Zonja e Dheut|Zonja e Dheut]]
+
+== Referime ==
+
+=== Citimet ===
+{{Reflist}}
+
+=== Bibliografia ===
+{{Refbegin|30em|indent=yes}}
+<!-- B -->
+*{{cite journal|last=Bovan|first=Vlladimir|title=Branisllav Kërstiq, Indeks motiva narodnih pesama balkanskih Slovena SANU, Beograd 1984|journal=Gjurmime Albanologjike: Folklor Dhe Etnologji|volume=15|publisher=[[:en:Albanological Institute of Prishtina|Instituti Albanologjik i Prishtinës]]|year=1985|language=sq|url=https://books.google.com/books?id=O5biAAAAMAAJ}}
+<!-- D -->
+*{{cite book|last=Daum|first=Werner |author-link=Werner Daum |title=Albanien zwischen Kreuz und Halbmond|publisher=Staatliches Museum für Völkerkunde |year=1998 |isbn=9783701624614 |url=https://books.google.com/books?id=QIppAAAAMAAJ|language=de }}
+<!-- E -->
+*{{cite book|last=Elsie|first=Robert|url=https://books.google.com/books?id=ve4SAQAAIAAJ|title=Albanian Folktales and Legends|year=2001|publisher=Dukagjini Publishing House|language=en}}
+<!-- G -->
+*{{Cite book|last=Golan|first=Ariel|title=Myth and Symbol: Symbolism in Prehistoric Religions|year=1991|publisher=A. Golan |isbn=9789652222459|url=https://books.google.com/books?id=FBPM0_fQ19IC|language=en}}
+*{{cite book|last=Golan|first=Ariel|title=Prehistoric Religion: Mythology, Symbolism|year=2003|publisher=A. Golan |isbn=9789659055500|url=https://books.google.com/books?id=vfgoAAAAYAAJ|language=en}}
+<!-- L -->
+*{{cite book|last=Lambertz|first=Maximilian|title=Die geflügelte Schwester und die Dunklen der Erde: Albanische Volksmärchen|series=Das Gesicht der Völker|volume=9|publisher=Im Erich|year=1952|language=German|url=https://books.google.com/books?id=IHLgAAAAMAAJ}}
+<!-- N -->
+*{{cite book|last=Neziri|first=Zeqirja|title=Lirika gojore shqiptare|publisher=Interlingua|year=2015|place=Skopje|language=sq|isbn=978-9989-173-52-3}}
+<!-- T -->
+*{{cite book|last=Tirta|first=Mark|title=Mitologjia ndër shqiptarë|language=Albanian|editor=Petrit Bezhani|publisher=Mësonjëtorja|year=2004|place=Tirana|isbn=99927-938-9-9}}
+{{Refend}}
+
+[[Kategoria:Pagizmi shqiptar]]
+[[Kategoria:Mitologjia shqiptare]]
+[[Kategoria:Perëndeshat evropiane]]
+[[Kategoria:Perëndeshat e bujqësisë]]
+[[Kategoria:Perëndeshat e pjellorisë]]
+[[Kategoria:Perëndeshat e natyrës]]
+[[Kategoria:Hyjnitë e motit dhe të kohës]]

@@ -1,0 +1,39 @@
+<!--
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Ljubi, versioni i datës 16 mars 2025 (revizioni 1280845377)
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Ljubi|16 mars 2025|1280845377}}
+-->
+
+'''Lubia''' ose '''Ljubi''' është një [[Demoni|demon]] uji dhe stuhie në [[Mitologjia shqiptare|mitologjinë dhe folklorin shqiptar]], zakonisht e përshkruar si një [[Dragoi|drakon]] femër gjigand shumëkokësh i ngjashëm me [[Kuçedra|kuçedrën]]. Në besimet e Shqipërisë së Jugut, ajo është një hyjni e stuhive. Ajo i referohet edhe si ‘nëna lubia’.{{Sfn|Elsie|2001|p=161}} Ajo njihet për oreksin e saj shqetësues të madh dhe personalitetin e saj të mërzitshëm. Të dyja këto karakteristika bazohen në përshtypjen e egër që deti të jep në mot me stuhi. Banorët vendas përdornin hiperbolën dhe krijuan një krijesë të neveritshme nga kushtet e këqija të motit.
+
+==Pamja==
+Lubia përshkruhet si një demon femër. Besohet se jeton në një kopsht perimesh të mrekullueshëm. Lubia, si një demon i fuqishëm, mund të shkaktojë që ujërat të thahen nëse nuk i sakrifikohet një virgjëreshë. Lubia përshkruhet se ka shumë koka, nga 7 deri në 100.{{Sfn|Lurker|2005|p=112}} Ashtu si [[Hidra (mitologji)|Hidra e Lernës]], kur njëra nga kokat e saj pritet, një tjetër rritet në vend të saj. Lubia njihet gjithashtu për shijen e saj të pamohueshme për mish, veçanërisht atë të vajzave të vogla.{{Sfn|Lurker|2005|p=112}}
+
+==Lidhja me Mitologjinë Greke/Ilire==
+Lubia dhe krijesat e tjera drakonike nga mitologjia shqiptare kanë ngjashmëri me kulturën [[Kultura e Greqisë|greke]] dhe [[Ilirët|ilire]], të cilat besohet se kanë luajtur një ndikim në fenë e tyre. Drakonët dhe krijesat gjarpërore konsiderohen si një shtyllë e dy kulturave, greke dhe shqiptare, siç vërehet përmes epikave të [[Ovidi|Ovidit]] dhe epikut shqiptar [[Këngë Kreshnikësh|Këngëve të Kreshnikëve]].
+Gjithashtu nga kultura greke, Hidra e Lernës ka një pamje shumë të ngjashme me Lubianë. Kjo për shkak të [[policelalisë]] së secilës. Shumë mitologji kanë krijesa me shumë koka, megjithëse mitologjia greke është e njohur për bollëkun e tyre.
+
+==Ngjashmëritë midis Ljubit dhe Kuçedrës==
+
+Kuçedra dhe Ljubi janë shumë të ngjashme si në pamje ashtu edhe në funksion në mitologjinë shqiptare. Kuçedra përshkruhet si "një demon uji, stuhie, zjarri dhe ctonik... zakonisht përshkruhet si një drakon femër gjigand shumëkokësh".<ref>{{cite book |last1=Tirta |first1=Mark |title=Mitologjia ndër shqiptarë |year=2004 |publisher=Tirana: Mësonjëtorja |isbn=99927-938-9-9|language=sq }}</ref> Kuçedra gjithashtu qetësohet vetëm kur njerëzit i sakrifikohen asaj. Kjo përputhet me përshkrimin e dhënë për Ljubinë, dhe mund të jetë një emër tjetër për të, megjithëse një me më shumë fuqi dhe notoritet brenda kulturës shqiptare.
+
+==Shiko edhe==
+*[[Shurdhi]]
+*[[Verbti]]
+*[[Kuçedra]]
+*[[Drangoi]]
+
+==Burimet==
+===Referime===
+{{Reflist}}
+===Bibliografia===
+*{{cite book|last=Elsie|first=Robert|author-link=Robert Elsie|title=A Dictionary of Albanian Religion, Mythology and Folk Culture|place=London|publisher=Hurst & Company|url=https://books.google.com/books?id=N_IXHrXIsYkC|isbn=1-85065-570-7|year=2001|language=en}}
+*{{cite book|last=Lurker|first=Manfred|title=The Routledge Dictionary of Gods and Goddesses, Devils and Demons|publisher=Routledge, Taylor & Francis|year=2005|url=https://books.google.com/books?id=Vtj0wSsw1JcC|isbn=0-203-64351-8|language=en}}
+*{{cite book|title=Indo-European Poetry and Myth|last=West|first=Morris L.|publisher=Oxford University Press|year=2007|isbn=978-0199280759|author-link=Martin Litchfield West|url=https://books.google.com/books?id=ZXrJA_5LKlYC|language=en}}
+
+{{Shqipëria-cung}}
+
+[[Kategoria:Krijesa legjendare shqiptare]]
+[[Kategoria:Drakonë evropianë]]

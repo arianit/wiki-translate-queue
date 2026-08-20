@@ -1,0 +1,187 @@
+{{Short description|Teknikë skulpturore me thellësi të ngritur}}
+''Ky artikull trajton teknikën skulpturore. Për kuptimin gjeografik (forma e sipërfaqes së Tokës), shihni [[Relievi]].''
+[[File:Abraham (Gates of Paradise) 01.JPG|thumb|Pamje anësore e bronzit të praruar të Lorenzo Ghibertit, ''Gates of Paradise'' (Dyert e Parajsës), në [[Pagëzimorja e Firences|Pagëzimoren e Firences]] në [[Firencia|Firence]], Itali, që kombinon figurat kryesore në reliev të lartë me sfonde kryesisht në reliev të ulët.]]
+[[File:Panel of Tellus, Ara Pacis, Rome.jpg|thumb|upright=1.2|Një përzierje e zakonshme e relievit të lartë dhe të ulët, te Ara Pacis romake, e vendosur për t'u parë nga poshtë. Sfond në reliev të ulët.]]
+[[File:Albert Memorial Friese Facing South - May 2008.jpg|thumb|upright=1.2|Një anë e fryzit me reliev të lartë ''Fryzi i Parnasit'' rreth bazës së Përmendores së Albertit në Londër. Shumica e kokave dhe shumë prej këmbëve janë krejtësisht të nënprera, ndërsa trupat janë "të lidhur" me sipërfaqen prapa tyre.]]
+
+'''Relievi''' është një metodë [[Skulptura|skulpturore]] në të cilën pjesët e skalitura mbeten të ngjitura me një sfond të bërë nga i njëjti material. Termi ''[[wikt:relief|relievi]]'' vjen nga folja latine {{lang|la|relevare}}, që do të thotë "të ngresh" ({{lit|të ngresh prapa}}). Krijimi i një skulpture në reliev (e njohur edhe si '''skulpturë reliev''') synon të japë përshtypjen se materiali i skalitur është ngritur mbi rrafshin e sfondit.<ref>{{cite web |url=http://www.merriam-webster.com/dictionary/relief |title=Relief |publisher=Merriam-Webster |access-date=2012-05-31 |url-status=live |archive-url=https://web.archive.org/web/20120531162703/http://www.merriam-webster.com/dictionary/relief |archive-date=2012-05-31 |language=en}}</ref> Kur një reliev skalitet në një sipërfaqe të rrafshët druri (duke prodhuar një gdhendje në reliev) ose guri, sfondi në fakt ulet, duke i lënë zonat e paskalitura të duken më të larta. Kjo qasje kërkon heqjen me daltë të sfondit, gjë që mund të kërkojë kohë të gjatë. Nga ana tjetër, relievi kursen formimin e pjesës së pasme të subjektit dhe është më pak i brishtë e më i siguruar se sa një skulpturë e plotë në hapësirë, veçanërisht ajo e një figure në këmbë, ku nyjet e kyçeve të këmbëve janë pikë e dobët e mundshme, sidomos në gur. Në materiale të tjera si metali, argjila, stuko prej allçie, qeramika apo letra-qelqi (papier-mâché), forma mund të shtohet thjesht mbi sfond ose të ngrihet prej tij. Relievet monumentale prej [[Bronxi|bronzi]] realizohen përmes derdhjes.
+
+Ekzistojnë shkallë të ndryshme relievi, në varësi të shkallës së projeksionit të formës së skalitur nga rrafshi, për të cilat në anglisht ende përdoren ndonjëherë termat italisht dhe frëngjisht. Gama e plotë përfshin '''relievin e lartë''' (italisht {{lang|it|alto-rilievo}}, frëngjisht {{lang|fr|haut-relief}}),<ref>Në anglishten moderne, thjesht "high relief"; ''alto-rilievo'' u përdor në shekullin e 18-të dhe pak më vonë, ndërsa ''haut-relief'' gjeti, mjaft befasueshëm, një vend të vetin, të kufizuar në shkrimet arkeologjike, në dekadat e fundit, pasi u përdor në tekste franceze të papërkthyera plotësisht mbi artin e shpellave parahistorike, dhe u kopjua edhe nga autorë anglezë. Përdorimi i tij konsiderohet i papërshtatshëm sot.</ref> ku shfaqet më shumë se 50% e thellësisë dhe mund të ketë zona të nënprera, '''relievin e mesëm''' (italisht {{lang|it|mezzo-rilievo}}), '''relievin e ulët''' (italisht {{lang|it|basso-rilievo}}, frëngjisht {{lang|fr|bas-relief}}), dhe relievin e cekët (italisht {{lang|it|rilievo schiacciato}}),<ref>Murray, Peter & Linda, ''Penguin Dictionary of Art & Artists'', Londër, 1989, f. 348, "Relief"; ''bas-relief'' mbeti term i zakonshëm në anglisht deri në mesin e shekullit XX.</ref> ku rrafshi është vetëm pak më i ulët se elementet e skalitura. Ekziston edhe '''relievi i fundosur''', i cili u kufizua kryesisht në [[Egjipti i Lashtë|Egjiptin e Lashtë]] (''shih më poshtë''). Megjithatë, dallimi ndërmjet relievit të lartë dhe atij të ulët është më i qarti dhe më i rëndësishmi, dhe këta dy terma janë përgjithësisht të vetmit që përdoren për të diskutuar shumicën e veprave.<ref>Lucie-Smith, 183</ref>
+
+Përkufizimi i këtyre termave është disi i ndryshueshëm, dhe shumë vepra kombinojnë zona në më shumë se një prej tyre, rrallë duke kaluar nga njëri lloj në tjetrin brenda së njëjtës figurë; për këtë arsye disa autorë preferojnë të shmangin çdo dallim.<ref>Për shembull Avery te Grove Art Online, artikulli i gjatë i të cilit mbi "Relief sculpture" pothuajse nuk i përmend apo i përkufizon ato, përveç relievit të fundosur.</ref> E kundërta e skulpturës në reliev është '''kundër-relievi''', {{lang|it|italics=unset|intaglio}}, ose {{lang|it|cavo-rilievo}},<ref>Murray, 1989, op. cit.</ref> ku forma pritet brenda rrafshit apo sfondit në vend që të ngrihet prej tij; kjo është shumë e rrallë në skulpturën monumentale. Vizat mund të përdoren ose jo në të gjithë këta terma, megjithëse rrallë shihen te "relievi i fundosur" dhe zakonisht përdoren te "bas-relief" dhe "kundër-reliev". Veprat në këtë teknikë përshkruhen si "në reliev", dhe, veçanërisht në skulpturën monumentale, vepra vetë quhet "një reliev".
+
+Relievet janë të zakonshme në mbarë botën, në muret e ndërtesave dhe në një larmi mjedisesh më të vogla, dhe një sekuencë prej disa paneleve apo pjesësh relievi mund të përfaqësojë një rrëfim të zgjatur. Relievi është më i përshtatshëm për të përshkruar subjekte të ndërlikuara me shumë figura dhe poza shumë aktive, si betejat, sesa skulptura e pavarur "në hapësirë të plotë". Shumica e relieveve të lashta arkitekturore fillimisht ishin të lyera, gjë që ndihmonte në përcaktimin e formave në relievin e ulët. Për lehtësi referimi, në këtë artikull subjekti i relieveve supozohet zakonisht të jenë figura, por skulptura në reliev shpesh përshkruan motive dekorative gjeometrike apo bimore, siç janë arabeskat e [[Arti islam|artit islam]], dhe mund të ketë çdo lloj subjekti.
+
+'''Relievet shkëmbore''' janë ato të skalitura në shkëmb të fortë në ambient të hapur (nëse ndodhen brenda shpellash, natyrore apo të bëra nga njeriu, ato quhen më shpesh "të gdhendura në shkëmb"). Ky lloj gjendet në shumë kultura, veçanërisht në ato të Lindjes së Lashtë të Afërt dhe në vendet budiste. Një '''stele''' është një gur i vetëm në këmbë; shumë prej tyre mbajnë reliev.
+
+== Llojet ==
+Dallimi ndërmjet relievit të lartë dhe atij të ulët është disi subjektiv, dhe të dyja shpesh kombinohen në të njëjtën vepër. Në veçanti, shumica e "relieveve të larta" të mëvonshme përmbajnë pjesë në reliev të ulët, zakonisht në sfond. Që nga fryzi i Partenonit e në vazhdim, shumë figura të vetme në skulptura të mëdha monumentale kanë koka në reliev të lartë, ndërsa pjesa e poshtme e këmbëve është në reliev të ulët. Figurat pak të dalura, të krijuara në këtë mënyrë, funksionojnë mirë në relievet që shihen nga poshtë, dhe pasqyrojnë faktin që kokat e figurave zakonisht janë me më shumë interes për artistin dhe shikuesin sesa këmbët apo shputat. Siç tregojnë shembujt e papërfunduar nga periudha të ndryshme, relievet e ngritura, qofshin të larta apo të ulëta, zakonisht "vizatoheshin fillimisht" duke shënuar konturin e figurës dhe duke ulur zonat e sfondit deri në nivelin e ri të sfondit, punë që pa dyshim kryhej nga nxënësit (shih galerinë).
+
+{{anchor|Bas-relief or low relief}}
+=== Relievi i ulët ose bas-reliev ===
+[[File:PupienusSest.jpg|thumb|left|Reliev i ulët në sestert romak, viti 238 e.s.]]
+Një reliev i ulët është një imazh i dalur me thellësi të përgjithshme të cekët, i përdorur për shembull në monedha, ku të gjitha imazhet janë në reliev të ulët. Në relievet më të cekëta, thellësia relative e elementeve të shfaqura shtrembërohet plotësisht, dhe nëse shihet nga ana, imazhi nuk ka kuptim, por nga përpara variacionet e vogla të thellësisë perceptohen si një imazh tredimensional. Versione të tjera e shtrembërojnë thellësinë shumë më pak. Termi vjen nga [[Gjuha italiane|italishtja]] {{lang|it|basso rilievo}} nëpërmjet frëngjishtes {{lang|fr|bas-relief}} ({{IPA|fr|baʁəljɛf}}), të dyja me kuptimin "reliev i ulët". I pari sot është term shumë i vjetëruar në anglisht, dhe i dyti po bëhet gjithashtu i tillë.
+
+Relievi i ulët është një teknikë që kërkon më pak punë sesa relievi i lartë, dhe për këtë arsye është më i lirë për t'u prodhuar, pasi hiqet më pak sfond gjatë gdhendjes, ose kërkohet më pak modelim. Në artin e Egjiptit të Lashtë, në relievet e pallateve asire dhe në kultura të tjera të lashta të Lindjes së Afërt dhe Azisë, një reliev shumë i ulët dhe i qëndrueshëm përdorej zakonisht për të gjithë kompozimin. Këto imazhe zakonisht lyheshin pas gdhendjes, gjë që ndihmonte në përcaktimin e formave; sot bojëra ka humbur në shumicën dërrmuese të shembujve të mbijetuar, por mbetje minimale dhe të padukshme bojëra mund të zbulohen zakonisht përmes metodave kimike.
+
+[[File:Rock Relief of Iddin-Sin, King of Simurrum.jpg|thumb|upright|Reliev i ulët nga rreth viti 2000 p.e.s., nga mbretëria e Simurrum-it, sot [[Iraku|Irak]]]]
+Porta e Ishtarit e [[Babiloni|Babilonisë]], sot në Berlin, ka reliev të ulët me kafshë të mëdha, të formuara nga tulla të modeluara dhe të lyera me smalt me ngjyra. Allçia, e cila e lehtësoi shumë teknikën, u përdor gjerësisht në Egjipt dhe në Lindjen e Afërt që nga antikiteti deri në kohët islame (më vonë për dekorime arkitekturore, siç është rasti i [[Alhambra|Alhambrës]]), në Romë dhe në Evropë të paktën që nga Rilindja, si dhe ndoshta edhe gjetkë. Megjithatë, ajo ka nevojë për kushte shumë të mira për të mbijetuar gjatë në ndërtesa të pambajtura mirë – punimet romake të allçisë njihen kryesisht nga Pompeji dhe vende të tjera të mbuluara nga hiri i [[Vezuvi|Vezuvit]]. Relievi i ulët ishte relativisht i rrallë në artin mesjetar perëndimor, por mund të gjendet, për shembull, në figura apo skena prej druri në pjesët e brendshme të krahëve palosës të altarëve shumë-panele.
+
+Ringjallja e relievit të ulët, i cili shihej si stil klasik, fillon herët gjatë Rilindjes; Tempio Malatestiano në Rimini, një ndërtesë pionere e stilit klasicist, e projektuar nga Leon Battista Alberti rreth vitit 1450, përdor reliev të ulët të Agostino di Duccio-s brenda dhe në muret e jashtme. Që nga Rilindja, allçia është përdorur shumë gjerësisht për punime dekorative të brendshme, si kornizat dhe tavanet, por në shekullin XVI u përdor për figura të mëdha (shumë prej të cilave edhe në reliev të lartë) në [[Pallati i Fontainebleau|Kështjellën e Fontainebleau-së]], të cilat u imituan më ashpër gjetkë, për shembull te Hardwick Hall elizabetiane.
+
+<gallery widths="200px" heights="200px">
+File:Amarna Neues 05.JPG|Reliev i ulët i papërfunduar, "i vizatuar fillimisht", i [[Akhenatën|Akhenatënit]] dhe [[Nefertiti|Nefertitit]]; relievet e larta greke dhe perse të papërfunduara tregojnë të njëjtën metodë të fillimit të një vepre.
+File:Nowruz Zoroastrian.jpg|Reliev i ulët ose bas-reliev pers në Persepolis – simbol i Nevruzit [[Zoroastrizmi|zoroastrian]] – në ekuinoksin e pranverës, fuqia e demit (që personifikon Tokën) dhe e luanit (që personifikon Diellin) janë të barabarta.
+File:Sculpted reliefs depicting Ashurbanipal, the last great Assyrian king, hunting lions, gypsum hall relief from the North Palace of Nineveh (Irak), c. 645-635 BC, British Museum (16722131531).jpg|Reliev i ulët asir, ''Gjuetia e Luanëve e Ashurbanipalit'', Pallati Verior, Ninive
+File:Atropos.jpg|Atropos duke prerë filin e jetës. Reliev i ulët grek modern.
+File:Assunzione della verginje, donatello.jpg|Relievi i cekët (''rilievo stiacciato'') i [[Donatello]]-s, "Ngritja e Virgjëreshës", në një varr, viti 1420
+File:Санкт-Петербург, Чкаловский 46, барельеф.jpg|Bas-reliev sovjetik
+</gallery>
+
+=== Relievi i mesëm ===
+[[File:Relief-side view.jpg|thumb|Pamje anësore e relievit të mesëm: ''Madona me Fëmijën'', mermer nga rreth viti 1500/1510, i një skulptori të panjohur veri-italian]]
+
+Relievi i mesëm, "gjysmë-relievi" ose {{lang|it|mezzo-rilievo}}, është përkufizuar disi në mënyrë të paqartë,<ref>Burimet ngurrojnë të jenë më të sakta se sa të thonë se është më i cekët se relievi i lartë, por më i ngritur se relievi i ulët.</ref> dhe termi nuk përdoret shpesh në anglisht, veprat zakonisht përshkruhen si reliev i ulët. Përkufizimi tradicional është që rreth gjysma e subjektit del jashtë,<ref>Lucie-Smith, 183</ref> dhe asnjë element nuk është i nënprerë apo krejtësisht i shkëputur nga fusha e sfondit. Thellësia e elementeve të shfaqura zakonisht është disi e shtrembëruar.<ref>Quhet edhe "middle relief" dhe në frëngjisht "demi-relief" [https://frenchsculpture.org/index.php/Articles/Show/Details/id/14 FRENCH SCULPTURE CENSUS, French sculpture 1500-1960 in North American public collections] (anglisht)</ref>
+
+Relievi i mesëm është ndoshta lloji më i zakonshëm i relievit që gjendet në artin hindu dhe budist të [[India|Indisë]] dhe [[Azia Juglindore|Azisë Juglindore]]. Relievet e ulëta deri të mesme të [[Shpellat Axhanta|Shpellave të Ajantës]] (shekulli II p.e.s. deri shekulli VI e.s.) dhe [[Shpellat Ellora|Shpellave të Ellorës]] (shekulli V deri X e.s.) në Indi janë reliev shkëmbor. Shumica e këtyre relieveve përdoren për të treguar shkrime të shenjta, siç janë 1.460 panelet e tempullit të [[Borobuduri|Borobudurit]] të shekullit IX në Java Qendrore, [[Indonezia|Indonezi]], që tregojnë tregimet Jataka apo jetët e [[Gautama Buddha|Budës]]. Shembuj të tjerë janë relievet e ulëta që tregojnë eposin hindu [[Ramajana|Ramayana]] në tempullin Prambanan, gjithashtu në Java, dhe në [[Kamboxhia]], tempujt e [[Angkor|Angkorit]], me skena që përfshijnë Përzierjen e Oqeanit të Qumështit te {{ill|Angkor Wati|en|Angkor Wat}} i shekullit XII, dhe relievet e apsarave. Në tempullin Bayon në Angkor Thom gjenden skena të jetës së përditshme në [[Perandoria kmere|Perandorinë Khmere]].
+
+=== Relievi i lartë ===
+[[File:The Parthenon sculptures, British Museum (14063376069) (2) (cropped).jpg|thumb|left|Metopë me reliev të lartë nga {{ill|Mermeret e Elginit|en|Elgin Marbles}} të Partenonit klasik grek. Disa gjymtyrë të përparme janë krejtësisht të shkëputura nga sfondi, ndërsa këmba e pasme e majtë e [[Centauri|kentaurit]] është në reliev të ulët.]]
+
+Relievi i lartë (ose {{lang|it|altorilievo}}, nga italishtja) është ai ku, në përgjithësi, më shumë se gjysma e masës së figurës së skalitur del jashtë sfondit. Në fakt, elementet më të spikatura të kompozimit, veçanërisht kokat dhe gjymtyrët, shpesh janë krejtësisht të nënprera, duke i shkëputur nga fusha. Pjesët e subjektit që shihen zakonisht paraqiten me thellësinë e tyre të plotë, ndryshe nga relievi i ulët ku elementet e shfaqura janë "të shtypura" më të sheshta. Relievi i lartë përdor kështu në thelb të njëjtin stil dhe teknika si skulptura e pavarur, dhe në rastin e një figure të vetme jep pothuajse të njëjtën pamje si një person që qëndron drejtpërdrejt përpara një statuje të pavarur. Të gjitha kulturat dhe periudhat në të cilat u krijuan skulptura të mëdha e përdorën këtë teknikë në skulpturën dhe arkitekturën monumentale.
+
+Shumica e relieveve të mëdha figurative në skulpturën e Greqisë së Lashtë përdorën një version shumë "të lartë" të relievit të lartë, me elemente shpesh krejtësisht të lira nga sfondi, dhe pjesë figurash që kalojnë njëra mbi tjetrën për të treguar thellësinë. {{ill|Metopet e Partenonit|en|Elgin Marbles}} kanë humbur kryesisht elementet e tyre plotësisht të rrumbullakosura, përveç kokave, duke treguar avantazhet e relievit për sa i përket qëndrueshmërisë. Relievi i lartë ka mbetur forma dominuese për relievet me figura në skulpturën perëndimore, duke qenë i zakonshëm edhe në skulpturën e tempujve indianë. Skulptura më të vogla greke, si varret private, dhe zona më të vogla dekorative si fryzet e ndërtesave të mëdha, përdornin më shpesh reliev të ulët.
+[[File:Western Group of Temples, Khajuraho 20.jpg|thumb|Perëndi në reliev të lartë në Khajuraho, Indi]]
+[[File:Olhares sobre o Museu do Ipiranga 2017 021 (cropped).jpg|thumb|Reliev shumë i lartë te Përmendorja e Pavarësisë së Brazilit në [[Sao Paulo|São Paulo]]; paraqitje e bazuar në pikturën e vitit 1888 të Pedro Américo-s, ''Pavarësi ose Vdekje'']]
+
+Relievet helenistike dhe [[Sarkofagu|sarkofagët]] romakë prej reliev u gdhendën me trapan në vend të daltave, gjë që mundësoi dhe nxiti kompozime jashtëzakonisht të mbushura me figura, si Sarkofagu i Betejës Ludovisi (250–260 e.s.). Këto shihen edhe në shiritat e mëdhenj relievi që rrethonin kolonat triumfuese romake. Sarkofagët veçanërisht ushtruan ndikim të madh mbi skulpturën perëndimore të mëvonshme. Mesjeta evropiane priri të përdorte reliev të lartë për të gjitha qëllimet në gur, megjithëse, ashtu si skulptura romake e lashtë, relievet e saj zakonisht nuk ishin aq të larta sa në Greqinë e Lashtë.<ref>Avery, ii dhe iii</ref> Relievi shumë i lartë u ringjall gjatë Rilindjes, dhe u përdor veçanërisht në artin funerar të varur në mur dhe më vonë në frontonet neoklasike dhe në monumentet publike.
+
+Në artin budist dhe hindu të Indisë dhe Azisë Juglindore, gjendet edhe reliev i lartë, edhe pse jo aq i zakonshëm sa relievet e ulëta deri të mesme. Shembuj të njohur të relieveve të larta indiane gjenden në tempujt e Khajurahos, me figura vollupteze e të përdredhura që shpesh ilustrojnë pozicione erotike të [[Kama Sutra|Kamasutrës]]. Në tempullin Prambanan të shekullit IX, në Java Qendrore, gjenden reliev të lartë të Lokapala devatave, mbrojtësit hyjnorë të drejtimeve.
+
+Relievi më i lartë në botë sipas madhësisë është Përmendorja Konfederate e Malit Stone në shtetin amerikan të [[Xhorxhia|Xhorxhias]], e cila është gdhendur 12,8 metra (42 këmbë) thellë në mal,<ref>{{cite web |url=https://www.smithsonianmag.com/history/what-will-happen-stone-mountain-americas-largest-confederate-memorial-180964588/ |title=What Will Happen to Stone Mountain, America's Largest Confederate Memorial? |author=Boissoneault, Lorraine |magazine=Smithsonian Magazine |date=2017-08-22 |access-date=2021-05-26 |archive-date=2017-08-22 |archive-url=https://web.archive.org/web/20170822212142/https://www.smithsonianmag.com/history/what-will-happen-stone-mountain-americas-largest-confederate-memorial-180964588/ |language=en}}</ref> dhe matet 27,4 metra (90 këmbë) lartësi, 57,9 metra (190 këmbë) gjerësi,<ref>{{cite web |url=https://www.ajc.com/entertainment/celebrity-news/things-you-might-not-know-about-stone-mountain-park/bdffmFbsNskCuHX2mgEHpO/ |newspaper=The Atlanta Journal-Constitution |title=50 things you might not know about Stone Mountain Park |date=2018-07-10 |access-date=2021-05-26 |archive-date=2020-11-11 |archive-url=https://web.archive.org/web/20201111190336/https://www.ajc.com/entertainment/celebrity-news/things-you-might-not-know-about-stone-mountain-park/bdffmFbsNskCuHX2mgEHpO/ |language=en}}</ref> dhe ngrihet 121,9 metra (400 këmbë) mbi tokë.<ref>{{cite web |url=https://www.reuters.com/article/us-global-race-usa-stone-mountain/the-worlds-largest-confederate-monument-faces-renewed-calls-for-removal-idUSKBN2441C7 |author=McKay, Rich |title=The world's largest Confederate Monument faces renewed calls for removal |publisher=Reuters |date=2020-07-03 |access-date=2021-05-26 |archive-date=2020-07-03 |archive-url=https://web.archive.org/web/20200703135728/https://www.reuters.com/article/us-global-race-usa-stone-mountain/the-worlds-largest-confederate-monument-faces-renewed-calls-for-removal-idUSKBN2441C7 |language=en}}</ref>
+
+=== Relievi i fundosur ===
+[[File:Akhenaten, Nefertiri and three daughers beneath the Aten - Neues Museum - Berlin - Germany 2017 (cropped).jpg|thumb|right|Paraqitje në reliev të fundosur e Faraonit Akhenatën me gruan e tij Nefertiti dhe vajzat e tyre. Sfondi kryesor nuk është hequr, por vetëm ai në afërsi të drejtpërdrejtë të formës së skalitur. Vini re se si hijet e forta nevojiten për të përcaktuar imazhin.]]
+
+Relievi i fundosur është kryesisht i kufizuar te arti i Egjiptit të Lashtë, ku është shumë i zakonshëm, duke u bërë, pas periudhës së Amarnës të Akhenatënit, lloji dominues i përdorur, në krahasim me relievin e ulët. Ishte përdorur më herët, por kryesisht për relieve të mëdha në muret e jashtme, dhe për [[Hieroglifet|hieroglife]] dhe kartushe. Imazhi krijohet duke prerë vetë skulpturën e relievit në një sipërfaqe të rrafshët, për të përforcuar përshtypjen e tredimensionalitetit.<ref>{{cite journal |last=Wang |first=Meili |last2=Chang |first2=Jian |last3=Kerber |first3=Jens |last4=Zhang |first4=Jian J. |date=2012-11-01 |title=A framework for digital sunken relief generation based on 3D geometric models |url=https://link.springer.com/article/10.1007/s00371-011-0663-y |journal=The Visual Computer |language=en |volume=28 |issue=11 |pages=1127–1137 |doi=10.1007/s00371-011-0663-y |issn=1432-2315 |url-access=subscription}}</ref> Në një formë më të thjeshtë, imazhet zakonisht janë kryesisht lineare në natyrë, si hieroglifet, por në shumicën e rasteve vetë figura është në reliev të ulët, e vendosur brenda një zone të fundosur të formësuar rreth imazhit, në mënyrë që relievi të mos ngrihet kurrë përtej sipërfaqes së rrafshët origjinale. Në disa raste, figurat dhe elementet e tjera janë në një reliev shumë të ulët që nuk arrin sipërfaqen origjinale, ndërsa të tjera janë modeluar më plotësisht, me disa zona që ngrihen deri te sipërfaqja origjinale. Kjo metodë minimizon punën e heqjes së sfondit, duke lejuar njëkohësisht modelim normal relievi.
+
+Teknika është më e suksesshme me dritë të fortë dielli, që thekson konturet dhe format përmes hijes, pasi nuk u bë asnjë përpjekje për të zbutur skajin e zonës së fundosur, duke lënë një faqe në kënd të drejtë me sipërfaqen rreth e rreth saj. Disa reliev, veçanërisht monumente funerare me koka apo busta nga Roma e lashtë dhe arti perëndimor i mëvonshëm, lënë një "kornizë" në nivelin origjinal rreth skajit të relievit, ose vendosin një kokë në një zbrazëtirë gjysmësferike brenda bllokut (shih shembullin romak në galeri). Megjithëse në thelb shumë i ngjashëm me relievin e fundosur egjiptian, por me një hapësirë sfondi në nivelin më të ulët rreth figurës, termi normalisht nuk do të përdorej për vepra të tilla.
+
+Përdoret gjithashtu për gdhendjen e shkronjave (zakonisht ''om mani padme hum'') në gurët mani të [[Budizmi tibetian|Budizmit Tibetian]].
+
+=== Kundër-relievi ===
+Teknika e relievit të fundosur nuk duhet ngatërruar me "kundër-relievin" apo intaljon, siç shihet te vulat e gurëve të gdhendur – ku një imazh formohet plotësisht në mënyrë "negative". Imazhi hyn brenda sipërfaqes, kështu që kur shtypet mbi dyllë, jep një gjurmë në reliev normal. Megjithatë, shumë gurë të gdhendur u skalitën në kameo ose reliev normal.
+
+Disa gdhendje monumentale shumë të vona helenistike në Egjipt përdorin modelim të plotë "negativ", sikur mbi një vulë guri, ndoshta ndërsa skulptorë të trajnuar në traditën greke përpiqeshin të përdornin konvencionet tradicionale egjiptiane.<ref>Barasch, Moshe, ''Visual Syncretism: A Case Study'', f. 39–43, në Budick, Stanford & Iser, Wolfgang, red., ''The Translatability of cultures: figurations of the space between'', Stanford University Press, 1996, {{ISBN|0-8047-2561-6}} ({{ISBN|978-0-8047-2561-3}}).</ref>
+
+=== Objekte të vogla ===
+[[File:French - Diptych with Scenes from the Passion of Christ - Walters 71179 - Open.jpg|thumb|left|Diptik gotik francez, 25 cm (9,8 in) i lartë, me skena të mbushura nga Jeta e Krishtit, rreth viteve 1350–1365]]
+Relievet në shkallë të vogël janë gdhendur në materiale të ndryshme, veçanërisht fildish, dru dhe dyllë. Relievet gjenden shpesh në artet dekorative, si qeramika dhe punimet në metal; këto përshkruhen më rrallë si "reliev" sesa "në reliev". Relievet e vogla prej bronzi shpesh kanë formën e "pllakave" apo pllakëzave, të cilat mund të vendosen në mobilie ose të kornizohen, ose thjesht të ruhen ashtu siç janë, një formë e njohur për koleksionistët evropianë, veçanërisht gjatë Rilindjes.
+
+Përdoren teknika të ndryshme modelimi, si repusé ("i shtyrë prapa") në punimet me metal, ku një pllakë e hollë metali formohet nga prapa duke përdorur ndreka të ndryshme metali apo druri, duke prodhuar një imazh relievi. Derdhja është përdorur gjithashtu gjerësisht në bronz dhe metale të tjera. Derdhja dhe repuseja shpesh përdoren së bashku për të përshpejtuar prodhimin dhe për t'i shtuar më shumë detaje relievit përfundimtar. Në gur, si dhe te gurët e gdhendur, gdhendjet më të mëdha në gurë gjysmë të çmuar kanë qenë shumë prestigjioze që në kohët e lashta në shumë kultura euroaziatike. Relievet prej dylli janë prodhuar të paktën që nga Rilindja.
+
+Relievet e gdhendura në fildish janë përdorur që nga kohët e lashta, dhe për shkak se materiali, edhe pse i shtrenjtë, zakonisht nuk mund të ripërdoret, ato kanë një normë relativisht të lartë mbijetese, dhe për shembull diptikët konsullorë përfaqësojnë një pjesë të madhe të mbijetesave të artit sekular të lëvizshëm nga Antikiteti i Vonë. Në periudhën gotike, gdhendja e relieveve prej fildishi u bë një industri e konsiderueshme luksi në Paris dhe qendra të tjera. Përveç diptikëve dhe triptikëve të vegjël me skena fetare të dendura, zakonisht nga Dhiata e Re, u prodhuan edhe objekte laike, zakonisht në reliev më të ulët.
+
+Këto ishin shpesh kuti pasqyrash të rrumbullakëta, krehra, doreza dhe sende të tjera të vogla, por përfshinin edhe disa arka më të mëdha, si ''Casket with Scenes of Romances'' (Walters 71264) në Baltimore, Maryland, në Shtetet e Bashkuara. Fillimisht ato ishin shumë shpesh të lyera me ngjyra të gjalla. Relievet mund të shtypen me vula mbi baltë, ose balta të shtypet brenda një kallëpi me dizajnin, siç ishte e zakonshme me {{lang|la|terra sigillata}}-n e prodhuar masivisht të qeramikës romake të lashtë. Relievet dekorative prej allçie mund të jenë shumë më të mëdha; kjo formë dekorimi arkitekturor gjendet në shumë stile ndërtesash të brendshme në Perëndimin pas-Rilindjes, si dhe në arkitekturën islame.
+
+{{clear}}
+
+== Galeria ==
+<gallery widths="200px" heights="200px">
+File:Göbekli Tepe reliefs of animals.jpg|Reliev i ulët nga vendi arkeologjik neolitik i [[Göbekli Tepe]], që besohet të përfaqësojë një dem, një dhelpër dhe një skifter (crane), rreth viti 9.000 p.e.s.
+File:Warka_vase_(background_retouched).jpg|Vazoja e Varkës e Sumerit, një nga veprat më të hershme të mbijetuara të relievit narrativ, rreth viteve 3.200–3.000 p.e.s. Alabaster. Muzeu Kombëtar i Irakut.
+File:Luxor temple 15.jpg|Reliev i fundosur si reliev i ulët brenda një konture të fundosur, nga Tempulli i Luksorit në Egjipt, i gdhendur në granit shumë të fortë
+File:Luxor Temple 9544.JPG|Reliev i ulët brenda një konture të fundosur, reliev linear i fundosur në hieroglife, dhe reliev i lartë (djathtas), nga Luksori
+File:Borobudur Relief Panel I.b119, 0972.jpg|Reliev i ulët deri i mesëm, shekulli IX, Borobuduri. Tempulli ka 1.460 panele relievi që tregojnë shkrimet budiste.
+File:Qajari relief.jpg|Një reliev i mesëm pers (''mezzo-rilievo'') nga era e dinastisë Kaxhar, në Tangeh Savashi në Iran, i cili mund të përshkruhet edhe si dy shkallë të relievit të ulët. Ky është një reliev shkëmbor i gdhendur në një shkëmb.
+File:Rilievo funerario dei vibii, fine del I secolo ac..JPG|Reliev funerar romak me kornizë në nivelin origjinal, por jo reliev i fundosur
+File:Warren Cup BM GR 1999.4-26.1 n2.jpg|Kupa Warren romake, punim argjendi i repusesë
+File:Yaxchilan Lintel 24.jpg|Lintel 24 nga vendi maja i Yaxchilanit. Përshkruan një ritual gjakderdhjeje të kryer nga Zonja Xoc.
+File:Statues of Vaishnavi, Varahi, Indrani and Camunda, National Museum, New Delhi.jpg|Perëndeshat hinduiste (nga e majta në të djathtë: Vaishnavi, Varahi, Indrani dhe Chamunda), me sfondin e pranishëm vetëm lart e poshtë. Muzeu Kombëtar i Indisë
+File:Banteay Srei in Angkor.jpg|Reliev i ulët, Banteay Srei, Kamboxhia; Ravana duke tundur Malin Kailasa, Vendbanimin e Shivas
+File:Naghsh-e rostam, Irán, 2016-09-24, DD 12.jpg|Reliev shkëmbor në Naqsh-e Rustam; perandori sasanid pers Shapuri I (mbi kalë) me perandorë romakë që i nënshtrohen
+File:Abadia de Saint-Pierre de Moissac - Portalada Sud de Moissac.JPG|Portali romanik i shekullit XII i ''Krishtit në Madhështi'' në Abacinë e Moissac-ut, që kalon nga relievi i ulët në atë të lartë brenda së njëjtës figurë.
+File:Triptych Harbaville Louvre OA3247 recto.jpg|Triptiku Harbaville, fildish bizantin
+File:Fontainebleau escalier roi5.jpg|Relievet e allçisë të elaboruara që dekoronin Kështjellën e Fontainebleau-së ishin jashtëzakonisht ndikuese. Fryz dekorativ në reliev të ulët sipër.
+File:Adorazione dei pastori - Francesco Grassia.jpg|Reliev i lartë barok prej mermeri i Francesco Grassia-s, 1670, Romë
+File:Robert Gould Shaw Memorial (36053).jpg|Përmendorja e Robert Gould Shaw, 1897, Boston, që kombinon elemente të pavarura me reliev të lartë dhe të ulët
+File:Relief on building in Bishopsgate, London 2.JPG|Reliev i lartë relativisht modern (që përshkruan ndërtimin e anijeve) në Bishopsgate, Londër. Disa elemente dalin jashtë kornizës së imazhit.
+File:Bas relief at Ryerson University.jpg|Bas-relievi i Elizabeth Wyn Wood-it në Universitetin Metropolitan të Torontos, në Toronto
+File:Unakoti group of bas-relief sculptures, Tripura, India.jpg|Reliev shkëmbor kolosal hindu në Unakoti, Tripura, Indi
+File:Grave relief of Demetria and Pamphile (Ca. 325-310 BC) (4454381607).jpg|Reliev i lartë i Demetrias dhe Pamfiles. Shumë detaje janë krejtësisht të shkëputura.
+</gallery>
+
+== Relieve nga artistë modernë ==
+Shumë artistë modernë dhe bashkëkohorë, si [[Paul Gaugin|Paul Gauguin]], Ernst Barlach, [[Ernst Ludwig Kirchner]], [[Pablo Picasso]], Eric Gill, Jacob Epstein, {{ill|Henry Moore|en|Henry Moore}}, Claudia Cobizev, deri te Ewald Matare, kanë krijuar reliev.
+
+Në veçanti, relievet e ulëta u përdorën shpesh në shekullin XX në pjesët e jashtme të ndërtesave, ku janë relativisht të lehta për t'u përfshirë në arkitekturë si theksime dekorative.
+{{clear}}
+
+<gallery widths="200px" heights="200px">
+Danemark,_Copenhague,_Ny_Carlsberg_Glyptotek,_Femme_avec_des_mangues,_par_Paul_Gauguin_en_1889_(33150754946).jpg|Paul Gauguin, ''Grua me Mango'', 1889, lis i lyer, Ny Carlsberg Glyptotek, Kopenhagë
+File:PL Krakow, judaica, Hochman H, 2013.06.22, fot Ivonna Nowicka (3).jpg|''Pranimi i Hebrenjve në Poloni gjatë Mesjetës'' nga Henryk Hochman, 1907
+File:Refugees medal DSCF9937.JPG|Ludwig Gies, pllakëz prej gize, 8 × 9,8 cm, me mbishkrimin "1914·VERTRIEBEN·1915" = "Të përzënët 1914–1915"
+G%C3%BCstrow_Marienkirche_-_Barlach_Engel.jpg|Ernst Barlach, ''Engjëlli i Shpresës'', 1933, Kisha famullitare Shën Maria në Güstrow
+Henry_moore_relife_1_1959.jpg|Henry Moore, ''Reliev Nr. 1'', 1959, bronz, në Muzeun e Izraelit, Jerusalem
+File:WH Hudson memorial, Hyde Park, London 03.jpg|Përmendorja e William Henry Hudson-it, Hyde Park, Londër, nga Jacob Epstein
+Düsseldorf St Lambertus Portal.jpg|Ewald Matare, portali kryesor me derë bronzi, 1958–1960, Kisha St Lambertus, Düsseldorf
+%22Tisch_am_Kliff%22_zum_Thema_%225000_Jahre_Sylter_Geschichte%22_2019_aufgestellt_am_Sylt_Museum_in_Keitum_auf_Sylt.jpg|''Tavolina në shkëmb'', Keitum, Sylt, 2019
+"Boot in bewegter See" Bronzerelief von Ingo Kühl.jpg|''Varka në det të trazuar'', reliev bronzi nga Ingo Kühl, 2019
+</gallery>
+
+== Relieve të shquara ==
+Shembuj të njohur relievesh monumentale përfshijnë:
+* Egjipti i Lashtë: shumica e [[Tempujt egjiptianë|tempujve egjiptianë]], p.sh. [[Karnaku|Tempulli i Karnakut]]
+* Asiria: një koleksion i famshëm ndodhet në {{ill|Muzeun Britanik|en|British Museum}}, Obelisku i Zi i Shalmaneserit III
+* Persia e Lashtë: Persepolis, dhe relievet në shkëmb në Naqsh-e Rustam dhe Naqsh-e Rajab
+* Greqia e Lashtë: {{ill|Mermeret e Partenonit|en|Elgin Marbles}}, Fryzi i Bassaes, Altari i Madh i Pergamit, Froni Ludovisi
+* [[Mesopotamia]]: Porta e Ishtarit e Babilonisë
+* Roma e Lashtë: Ara Pacis, {{ill|Kolona e Trajanit|en|Trajan's Column}}, {{ill|Kolona e Markut Aurel|en|Column of Marcus Aurelius}}, harqet triumfues, Sarkofagu i Portonaccio-s
+* Evropa mesjetare: shumë katedrale dhe kisha të tjera, si Katedralja e Chartres dhe Katedralja e Bourges
+* Indi: Sanchi, baza e Kapitelit të Luanit të Ashokës, shpellat e gdhendura në shkëmb Elephanta dhe Ellora, tempujt e Khajurahos, Mahabalipuram me ''[[Zbritja e Gangut|Zbritjen e Gangës]]'', dhe shumë tempuj të Indisë Jugore, grupi i skulpturave (bas-reliev) i Unakotit në Kailashahar, Distrikti Unakoti, Tripura
+* Azia Juglindore: Borobuduri në Java, Indonezi, Angkor Wati në Kamboxhia
+* Hieroglife, stele maja dhe reliev të tjera të qytetërimeve maja dhe azteke
+* Shtetet e Bashkuara: Mali Stone, Përmendorja e Robert Gould Shaw-t, Boston, [[Mount Rushmore|Përmendorja Kombëtare e Mount Rushmore-it]]
+* Mbretëria e Bashkuar: panelet e bazës së Kolonës së Nelsonit, Fryzi i Parnasit
+
+Reliev në shkallë më të vogël:
+* Fildish: fildishët e Nimrudit nga pjesa më e madhe e Lindjes së Afërt, diptikët konsullorë të Antikitetit të Vonë, Triptiku Harbaville bizantin dhe Arka e Verolit, Arka e Franksit anglosaksone, Kryqi i Cloisters-it
+* Argjend: Kupa Warren, Kazani i Gundestrupit, Thesari i Mildenhallit, Thesari i Berthouville-s, Missoriumi i Teodosit I, Ibriku dhe Legeni i Lomellinit
+* Ar: Kapela e Artë e Berlinit, Arka e Bimaranit, Thesari i Panagjyrishtes
+* Qelq: Vazoja e Portlandit, Kupa e Likurgut
+
+== Shiko edhe ==
+{{Portal|Art}}
+* Reliev shkëmbor
+* Art multidimensional
+* Pargeting – reliev dekorativ me allçi në pjesën e jashtme, në Angli
+* [[Shtypi i lartë|Shtypja në reliev]] – koncept i ndryshëm
+* Repuseja dhe gdhendja e metalit – teknikë punimi me metal
+* [[Relievi|Relievi i terrenit]]
+
+== Shënime ==
+{{Reflist|2}}
+
+== Referime ==
+* Avery, Charles, te "[https://www.oxfordartonline.com/groveart/view/10.1093/gao/9781884446054.001.0001/oao-9781884446054-e-7000071316 Relief sculpture]" (anglisht). Grove Art Online. Marrë më 2011-04-07.
+* Lucie-Smith, Edward, ''The Thames & Hudson Dictionary of Art Terms'', 2003 (botimi i 2-të), Thames & Hudson, seria World of Art, {{ISBN|0500203652}}, "Relief", f. 183 (anglisht)
+
+== Lidhje të jashtme ==
+* Heilbrunn Timeline of Art History, [http://www.metmuseum.org/toah/hd/amrs/hd_amrs.htm "American Relief Sculpture"], Metropolitan Museum of Art, Nju Jork (anglisht)
+
+{{Authority control}}
+
+[[Kategoria:Teknika skulpture]]
+[[Kategoria:Terma të skulpturës]]
+[[Kategoria:Llojet e skulpturës]]
+[[Kategoria:Relievet| ]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Relief|9 korrik 2026|1363347696}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Relief, versioni i datës 9 korrik 2026 (revizioni 1363347696).
+-->

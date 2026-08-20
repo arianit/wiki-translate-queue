@@ -1,0 +1,2006 @@
+Kjo është një listë e pajisjeve në përdorim operacional nga [[Forcat e Armatosura Serbe]], pa përfshirë pajisjet e ruajtura në rezervë.
+
+==Pajisje personale==
+{| class="wikitable"
+|-
+! style="text-align: left; width:12%;"|Emri
+! style="text-align: left; width:8%;"|Origjina
+! style="text-align: left; width:18%;"|Lloji
+! style="text-align: left; width:7%;"|Sasia
+! style="text-align: left;width:8%;"|Foto
+! style="text-align: left;width:47%;"|Shënime
+|-
+! style="align: center;" colspan="7" | Uniforma
+|-
+| M10
+| {{SRB}}
+| [[Kamuflazhi ushtarak|Motiv kamuflazhi]]
+|
+| [[File:M10 Camo pattern.jpg|120px]]
+| Motiv standard kamuflazhi.
+Model dixhital i pikselizuar, pyjor.
+|-
+| M20
+| {{SRB}}
+| Uniformë lufte
+|
+| [[File:M10 Camo.jpg|120px]]
+| Uniformë standarde lufte.
+|-
+| M20
+| {{SRB}}
+| Kompleti i luftimit
+|
+| [[File:M10 Combat uniform.jpg|120px]]
+| Komplet standard luftimi.
+|-
+! style="align: center;" colspan="7"  | Helmeta
+|-
+| Yumco T18
+| {{SRB}}
+| [[Helmeta e luftës|Helmetë lufte]]
+|
+| [[File:Yumco helmet.jpg|120px]]
+| Helmetë standarde lufte.
+|-
+! style="align: center;" colspan="7" | Jelekë antiplumb
+|-
+| Yumco T18
+| {{SRB}}
+| [[Jeleku rezistent ndaj plumbit|Jelek antiplumb]]
+|
+| [[File:Yumco Vest 2.jpg|120px]]
+| Jelek standard antiplumb.
+|-
+! style="align: center;" colspan="7"  | Maska antigaz
+|-
+| M3
+| {{SRB}}
+| [[Gas-maska|Maskë antigaz]]
+|
+| [[File:M3 gas mask.jpg|120px]]
+| Maskë standarde antigaz.
+Version i prodhuar vendas i modelit amerikan EOD M45.
+|}
+
+==Optoelektronika==
+{| class="wikitable"
+|-
+! style="text-align: left; width:12%;"|Emri
+! style="text-align: left; width:8%;"|Origjina
+! style="text-align: left; width:18%;"|Lloji
+! style="text-align: left; width:7%;"|Sasia
+! style="text-align: left;width:8%;"|Foto
+! style="text-align: left;width:47%;"|Shënime
+|-
+! style="align: center;" colspan="7" | Dylbi
+|-
+| MOSKITO
+| {{SUI}}
+| [[Dylbitë|Dylbi me rreze të shkurtër]]
+|
+| [[File:Moskito 2.png|120px]]
+| rowspan="2"| Përdoret nga njësitë e zbulimit të katër brigadave të Ushtrisë.<ref name="mod.gov.rs">[https://www.mod.gov.rs/lat/16471/optoelektronska-oprema-u-vojsci-srbije-16471 Optoelektronska oprema u Vojsci Srbije], Ministarstvo odbrane Republike Srbije (serbisht)</ref>
+|-
+| Spoter 60
+| {{SRB}}
+| [[Dylbitë|Dylbi me rreze të gjatë]]
+|
+| [[File:Spoter 60 (telescopic durbin).jpg|120px]]
+|-
+| JIM UC
+| {{FRA}}
+| [[Dylbitë|Dylbi me imazherim termik]]
+|
+| [[File:Thermal imaging camera JIM UC.png|120px]]
+| Përdoret nga njësitë e forcave speciale (Brigada e 72-të për Operacione Speciale dhe Brigada e 63-të Parashutiste).<ref name="mod.gov.rs"/>
+|-
+! style="align: center;" colspan="7" | Pajisje për shikim natën
+|-
+|-
+| DVS-8
+| {{RUS}}
+| [[Pajisja për shikim natën|Syze për shikim natën]]
+|
+| [[File:Sloboda 2019 - smotra 02 - 05.jpg|120px]]
+| Përdoret nga njësitë e forcave speciale (Brigada e 72-të për Operacione Speciale dhe Brigada e 63-të Parashutiste).
+|-
+! style="align: center;" colspan="7" | Pajisje shumëpërdorimshe
+|-
+|-
+| MIP-1
+| {{SRB}}
+| Pajisje optoelektronike
+|
+| [[File:Izvidjacka platforma mip 1.jpg|120px]]
+| Përdoret nga njësitë e zbulimit të katër brigadave të Ushtrisë.<ref name="mod.gov.rs"/>
+|-
+|-
+| MIP-11
+| {{SRB}}
+| Pajisje optoelektronike
+|
+| [[File:BOV_KIV_-_Partner_2019_-_1.jpg|120px]]
+| Përdoret nga njësitë e zbulimit të katër brigadave të Ushtrisë.<ref name="mip3-mo">[https://www.mod.gov.rs/eng/22593/podeselon-izvidjackih-jedinica Reconnaissance Units Sub-Echelon] - Ministarstvo Mbrojtjes i Republikës së Serbisë</ref>
+Montohet mbi automjetet e zbulimit [[Humvee]] dhe [[:en:BOV (armoured personnel carrier)|BOV KIV]] mbi një shtyllë teleskopike që zgjatet deri në një lartësi 4 metra.<ref name="mip11-vti">[http://www.vti.mod.gov.rs/index.php?view=actuality&type=projects&category=1&id=76 Мултисензорска интелигентна платформа МИП-11], Vojnotehnički institut (VTI) (serbisht)</ref>
+|}
+==Armët e zjarrit==
+{| class="wikitable"
+|-
+! style="text-align: left; width:12%;"|Emri
+! style="text-align: left; width:8%;"|Origjina
+! style="text-align: left; width:18%;"|Lloji
+! style="text-align: left; width:7%;"|Sasia
+! style="text-align: left;width:8%;"|Foto
+! style="text-align: left;width:47%;"|Shënime
+|-
+! style="align: center;" colspan="7"  | Pistoleta
+|-
+| [[:en:Zastava CZ99|Zastava CZ99]]
+| {{YUG}}
+| [[Pistoleta|Pistoletë]]
+|
+| [[File:CZ 99 Compact-G.jpg|120px]]
+| Pistoletë standarde shërbimi.<ref name="SRB">{{cite web |title=Infantry {{!}} Serbian Armed Forces |url=https://www.vs.rs/en/about-saf/armament/infantry |website=Serbian Armed Forces |language=en |access-date=2023-04-30}}</ref>
+|-
+| [[Heckler & Koch USP]]
+| {{GER}}
+| [[Pistoleta|Pistoletë]]
+|
+| [[File:HKUSP.png|120px]]
+| rowspan="2"|Përdoret nga njësitë e forcave speciale (Brigada e 72-të për Operacione Speciale dhe Brigada e 63-të Parashutiste).<ref name="Najsavremeniji hekleri">{{Cite web|url=http://www.politika.rs/scc/clanak/130383/Najsavremeniji-hekleri-za-Vojsku-Srbije|title=Најсавременији "хеклери" за Војску Србије|website=Politika Online|language=sr}}</ref><ref>{{Cite web |title=Specijalne-jedinice.com {{!}} Glock 17 |url=https://specijalne-jedinice.com/oprema/pistolji/glock-17.html |access-date=2024-01-16 |website=specijalne-jedinice.com |language=sr}}</ref>
+|-
+|[[Glock|Glock-17]]
+|{{AUT}}
+|[[Pistoleta|Pistoletë]]
+|
+| [[File:GLOCK 17 Gen 4 Pistol MOD 45160305.jpg|120x120px]]
+|-
+! style="align: center;" colspan="7"  | Karabina
+|-
+| [[Heckler & Koch HK416|HK416]]
+| {{GER}}
+| [[Karabina|Karabinë]]
+|
+| [[File:HK416.jpg|frameless|122x122px]]
+| Përdoret nga Brigada e 72-të për Operacione Speciale.
+|-
+| [[:en:Zastava M59/66|Zastava M59/66]]
+| {{YUG}}
+| [[Karabina|Karabinë]]
+|
+| [[File:Yugo SKS.jpg|120px]]
+| Përdoret nga Batalioni i Nderit i Gardës.
+|-
+! style="align: center;" colspan="7"  | Pushkë
+|-
+| [[Zastava M19]]
+| {{SRB}}
+| [[Pushka e sulmit|Pushkë sulmi]]
+|
+| [[File:M19 modular assault rifle.jpg|center|frameless|122x122px]]
+| Pushkë standarde shërbimi.<ref>[https://www.mod.gov.rs/lat/16290/nova-modularna-puska-6-5-7-62-mm-u-naoruzanju-vojske-srbije-16290 Nova modularna puška 6,5/7,62 mm u naoružanju Vojske Srbije], Ministarstvo odbrane Republike Srbije (serbisht)</ref>
+Pushkë modulare me aftësi dy-kalibrash (6,5/7,62&nbsp;mm).
+|-
+| [[Zastava M21]]
+| {{SRB}}
+| [[Pushka e sulmit|Pushkë sulmi]]
+|
+| [[File:M21A.jpg|120px]]
+| Pushkë shërbimi e rezervës.<ref name="SRB"/>
+|-
+| [[FN SCAR]]
+| {{BEL}}
+| [[Pushka e betejës|Pushkë beteje]]
+|
+| [[File:FN SCAR-L noBG.png|frameless|122x122px]]
+| Përdoret nga njësitë e forcave speciale (Brigada e 72-të për Operacione Speciale dhe Brigada e 63-të Parashutiste).<ref>{{cite web|url=https://specijalne-jedinice.com/Oprema/Jurisne-puske/FN-SCAR.html#sthash.84jTUyOD.dpbs|title=Specijalne-jedinice.com – FN SCAR|website=specijalne-jedinice.com|language=sr}}</ref>
+|-
+! colspan="7"  | Pushkë snajper
+|-
+| [[Zastava M91]]
+| {{SRB}}
+| [[Pushka e shënjestruesit të caktuar|Pushkë shënjestruesi]]
+|
+| [[File:Sniper Zastava M91.jpg|120px]]
+| Pushkë standarde shënjestruesi.<ref>{{Cite web |title=Министар Вучевић у Никинцима: Војска Србије из дана у дан све јача |url=http://www.mod.gov.rs/cir/20836/ministar-vucevic-u-nikincima-vojska-srbije-iz-dana-u-dan-sve-jaca20836 |access-date=2024-01-06 |website=Министарство одбране Републике Србије |language=sr}}</ref>
+|-
+|[[Zastava M07]]
+|{{SRB}}
+|[[Pushka snajper]]
+|
+|[[File:Zastava M07.JPG|120x120px]]
+| Pushkë e ardhshme standarde snajper.<ref>{{Cite web |title=Интензивна обука у 72. бригади за специјалне операције {{!}} Војска Србије |url=https://www.vs.rs/sr_cyr/vesti/C13AF5358EC411EE9E880050568F5424/intenzivna-obuka-u-72brigadi-za-specijalne-operacije |access-date=2024-01-06 |website=www.vs.rs |language=sr}}</ref>
+|-
+| [[Sako TRG]]
+| {{FIN}}
+| [[Pushka snajper]]
+|
+| [[File:Sako TRG folding stock + Zeiss 3-12x56 SSG P.JPG|120px]]
+| Përdoret nga njësitë e forcave speciale (Brigada e 72-të për Operacione Speciale dhe Brigada e 63-të Parashutiste). Modelet TRG-22 A1 dhe TRG-42 A1.<ref>{{Cite web| url=http://www.specijalne-jedinice.com/img/dummies/7b.jpg | title=Soldier with a rifle in the snow | format=JPG | access-date=2014-02-09 | url-status=dead | archiveurl=https://web.archive.org/web/20140222181738/http://www.specijalne-jedinice.com/img/dummies/7b.jpg | archivedate=2014-02-22 |language=sr}}</ref>
+|-
+| [[Zastava M93 Black Arrow|Zastava M93]]
+| {{SRB}}
+| [[Pushka kundër materialit|Pushkë kundër materialit]]
+|
+| [[File:Sniper Zastava M93.jpg|120px]]
+| Pushkë standarde kundër materialit.<ref name="SRB"/>
+|-
+|[[Zastava Arms|Zastava M12M]]
+|{{SRB}}
+|[[Pushka kundër materialit|Pushkë kundër materialit]]
+|
+|[[File:Zastava M12 Black Spear.jpg|120x120px]]
+|Pushkë e ardhshme standarde kundër materialit.<ref>{{Cite web |last=Peranović |first=Jelena |date=2023-12-18 |title=Precizne i efikasne: Srpsko naoružanje jedno od najmodernijih, naš vojnik uz rame sa jakim armijama |url=https://www.telegraf.rs/vesti/srbija/3795226-vojska-srbije-rame-u-rame-sa-najmodernijim-jakim-armijama |access-date=2024-01-06 |website=Telegraf.rs |language=sr}}</ref>
+|-
+|[[Barrett M95]]
+|{{USA}}
+|[[Pushka kundër materialit|Pushkë kundër materialit]]
+|
+|[[File:Barrett M95SP.jpg|120x120px]]
+|Përdoret nga njësitë e forcave speciale (Brigada e 72-të për Operacione Speciale dhe Brigada e 63-të Parashutiste).<ref name="vs.rs">{{Cite web |title=Naoružanje specijalnih jedinica {{!}} Vojska Srbije |url=https://www.vs.rs/sr_lat/o-vojsci/naoruzanje/specijalne-jedinice |access-date=2024-01-16 |website=www.vs.rs |language=sr}}</ref>
+|-
+! style="align: center;" colspan="7"  | Mitraloz
+|-
+| [[Zastava M84]]
+| {{YUG}}
+| [[Mitralozi i përgjithshëm|Mitraloz i përgjithshëm]]
+|
+| [[File:M84 mg.jpg|120px]]
+| Mitraloz standard i përgjithshëm.
+Version i prodhuar vendas i [[:en:PKM machine gun|PKM]].<ref name="SRB"/>
+|-
+| [[:en:Zastava M77|Zastava M77]]
+| {{YUG}}
+| [[Mitralozi i lehtë|Mitraloz i lehtë]]
+|
+| [[File:M77B1.jpg|120px]]
+| Mitraloz standard i lehtë.
+|-
+| [[:en:FN Minimi|FN Minimi]]
+| {{BEL}}
+| [[Mitralozi i lehtë|Mitraloz i lehtë]]
+|
+| [[File:FN_MINIMI_Standard_Right.jpg|120px]]
+| Përdoret nga njësitë e forcave speciale (Brigada e 72-të për Operacione Speciale dhe Brigada e 63-të Parashutiste).<ref name="Serbian army Special Brigade gallery">{{cite web|url=http://www.specijalne-jedinice.com/Specijalna-brigada.html#sthash.ar7yu443.dpbs|title=Serbian army Special Brigade gallery|access-date=2014-02-09|archive-url=https://web.archive.org/web/20140204043452/http://www.specijalne-jedinice.com/Specijalna-brigada.html#sthash.ar7yu443.dpbs|archive-date=2014-02-04|url-status=dead|language=sr}}</ref>
+|-
+| [[:en:Zastava M87|Zastava M87]]
+| {{YUG}}
+| [[Mitralozi i rëndë|Mitraloz i rëndë]]
+|
+| [[File:NSV machine gun-01.jpg|120px]]
+| Mitraloz standard i rëndë.
+|-
+| [[:en:Zastava M02 Coyote|Zastava M02 Coyote]]
+| {{SRB}}
+| [[Mitralozi i rëndë|Mitraloz i rëndë]]
+|
+| [[File:M02_Kojot.jpg|120px]]
+| rowspan="2"| Montohet mbi automjete [[Humvee]].
+|-
+|[[M2 Browning]]
+|{{USA}}
+|[[Mitralozi i rëndë|Mitraloz i rëndë]]
+|
+|[[File:PEO Browning M2E2 QCB (c1).jpg|120x120px]]
+|-
+! style="align: center;" colspan="7"  | Gjysmëmitraloz
+|-
+| [[:en:Škorpion|M84 Škorpion]]
+| {{flag|Czechoslovakia|name=Çekosllovakia}}<br>{{YUG}}
+| [[Gjysmë mitralozi|Gjysmëmitraloz]]
+|
+| [[File:Normal skorpion 01.jpg|120px]]
+| Përdoret nga ekuipazhet e tankeve dhe automjeteve luftarake të këmbësorisë.
+Version i prodhuar vendas i modelit çek [[:en:Škorpion|Škorpion]].<ref name="SRB"/>
+|-
+| [[Heckler & Koch UMP#Heckler & Koch UMP9|Heckler & Koch UMP9]]
+| {{GER}}
+| [[Gjysmë mitralozi|Gjysmëmitraloz]]
+|
+| [[File:HKUMP45.JPG|120px]]
+| rowspan="2"| Përdoret nga njësitë e forcave speciale (Brigada e 72-të për Operacione Speciale dhe Brigada e 63-të Parashutiste).<ref name="vs.rs"/>
+|-
+|[[Heckler & Koch MP5]]
+|{{GER}}
+|[[Gjysmë mitralozi|Gjysmëmitraloz]]
+|
+|[[File:Heckler & Koch MP5-1.jpg|120x120px]]
+|-
+! style="align: center;" colspan="7"  | Armë zjarri nënujore
+|-
+| [[:en:SPP-1 underwater pistol|SPP-1]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[:en:Underwater firearm|Pistoletë nënujore]]
+|
+| [[File:Подводный пистолет СПП-1М - ЦНИИТОЧМАШ 01.jpg|120px]]
+| rowspan="2"|Përdoret nga Kompania e 82-të Lumore e Demolicionit Nënujor e Brigadës së 72-të për Operacione Speciale.<ref name="Underwater firearm testing">{{Cite web|url=https://www.novosti.rs/vesti/naslovna/aktuelno.290.html:381422-VS-testira-podvodni-kalasnjikov|title=VS testira podvodni kalašnjikov|website=Novosti|language=sr}}</ref><ref>{{Cite web| url=http://www.vs.rs/content/gallery/2d2b3e76-ec87-102e-9d5d-000c29270931.jpg | title=Military making a boy to enjoy guns | format=JPG | access-date=2014-02-27 | archive-url=https://web.archive.org/web/20160304110217/http://www.vs.rs/content/gallery/2d2b3e76-ec87-102e-9d5d-000c29270931.jpg | archive-date=2016-03-04 | url-status=dead |language=sr}}</ref>
+|-
+| [[:en:APS underwater rifle|APS]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[:en:Underwater firearm|Pushkë nënujore]]
+|
+| [[File:APS underwater rifle REMOV.jpg|120px]]
+|-
+! style="align: center;" colspan="7"  | Granatëhedhës
+|-
+| M93 AGL
+| {{SRB}}
+| [[Granatëhedhësi automatik|Granatëhedhës automatik]]
+|
+| [[File:Zastava BGA 30mm 01.jpg|120px]]
+| Granatëhedhës standard.<ref>{{cite web|url=http://www.yugoimport.com/en/proizvodi/30-mm-m93-automatic-grenade-launcher|title=30 mm M93 automatic grenade launcher {{!}} SDPR – Yugoimport|website=www.yugoimport.com|language=en|access-date=2017-05-28}}</ref>
+Version i prodhuar vendas i [[:en:AGS-17|AGS-17]].
+|-
+| M11 PD-51
+| {{SRB}}
+| [[Granatëhedhësi]]
+|
+|
+|Granatëhedhës gjashtëplumbësh i tipit [[:en:Revolver|revolver]].<ref>{{Cite web |title=Приказ нових средстава за Војску Србије на полигону "Никинци" |url=http://www.mod.gov.rs/cir/20663/prikaz-novih-sredstava-za-vojsku-srbije-na-poligonu-nikinci20663 |access-date=2024-01-06 |website=Министарство одбране Републике Србије |language=sr}}</ref>
+|-
+! style="align: center;" colspan="7"  | Granata dhe mina
+|-
+| LRB M3/93
+| {{SRB}}
+| [[Granata e tymit|Granatë tymi]]
+|
+|
+| rowspan="2"| Përdoret nga batalionet e këmbësorisë të katër brigadave të Ushtrisë dhe njësitë e forcave speciale (Brigada e 72-të për Operacione Speciale dhe Brigada e 63-të Parashutiste).
+|-
+| RŠB P98
+| {{SRB}}
+| [[Granata e tymit|Granatë tymi]]
+|
+|
+|-
+| BRK M79
+| {{YUG}}
+| [[:en:Anti-tank grenade|Granatë kundër tankut]]
+|
+|
+| rowspan="6"| Përdoret nga batalionet e këmbësorisë të katër brigadave të Ushtrisë.
+|-
+| [[:en:PROM-1|PROM-1]]
+| {{YUG}}
+| [[Mina kundër personelit]]
+|
+| [[File:PROM-1 mine.jpg|120px]]
+|-
+| [[:en:PMA-2 mine|PMA-2]]
+| {{YUG}}
+| [[Mina kundër personelit]]
+|
+| [[File:PMA-2 (Mine).jpg|120px]]
+|-
+| [[:en:TMA-3 mine|TMA-3 mine]]
+| {{YUG}}
+| [[Mina kundër tankut]]
+|
+| [[File:Panzermine_TMA-3.jpg|120px]]
+|-
+| [[:en:TMA-4 mine|TMA-4 mine]]
+| {{YUG}}
+| [[Mina kundër tankut]]
+|
+|[[File:Panzermine TMA-4.jpg|120px]]
+|-
+| [[:en:TMA-5 mine|TMA-5 mine]]
+| {{YUG}}
+| [[Mina kundër tankut]]
+|
+| [[File:Panzermine_TMA-2%28A%29.jpg|120px]]
+|-
+|}
+==Automjete të blinduara==
+{| class="wikitable"
+|-
+! style="text-align: left; width:12%;"|Emri
+! style="text-align: left; width:8%;"|Origjina
+! style="text-align: left; width:18%;"|Lloji
+! style="text-align: left; width:7%;"|Sasia
+! style="text-align: left;width:8%;"|Foto
+! style="text-align: left;width:47%;"|Shënime
+|-
+! style="align: center;" colspan="7"  | Tanke kryesore luftarake
+|-
+| [[M-84]]<hr>[[:en:M-84AS1/2/3|M-84AS2]]
+| {{YUG}}<hr>{{SRB}}
+| [[Tanku kryesor i betejës|Tank kryesor i betejës]]
+| 186<hr>26+
+| [[File:M-84 VS.jpg|120px]]<br><br>[[File:M84AS2 tank of the Serbian Army.jpg|120x120px]]
+| Versioni bazë, M-84, i vendosur në batalionet e tankeve të katër brigadave të Ushtrisë, po i nënshtrohet modernizimit serik në variantet M-84AS2/3.<ref name="IISS2022">{{cite book |last1=International Institute for Strategic Studies |title=The Military Balance. 2022 |date=2022 |location=Abingdon, Oxon |isbn=978-1032279008 |author1-link=International Institute for Strategic Studies |language=en}}</ref><ref>{{cite web|author=Petar Vojinović|date=2023-02-21|title=[IDEX 2023] Srbija od domaće industrije kupuje 200 oruđa u vrednosti od 300 miliona evra, Jugoimport investira u Utvu, PR-DC potpisao sporazum o saradnji sa ćerkom kompanijom Edža|language=sr|website=tangosix.rs|url=https://tangosix.rs/2023/21/02/idex-2023-srbija-od-domace-industrije-kupuje-200-orudja-u-vrednosti-od-300-miliona-evra-jugoimport-investira-u-utvu-pr-dc-potpisao-sporazum-o-saradnji-sa-cerkom-kompanijom-edza/|access-date=2025-10-01}}</ref>
+
+Varianti i modernizuar përfshin një kullë dhe trup të mbuluar me blindazh reaktiv shpërthyes vendas të gjeneratës së dytë, sistem të përmirësuar kontrolli zjarri me shikues të integruar ditë/natë, teleskop komandanti me gjashtë kamera me ndriçim të ulët për ndërgjegjësim të përmirësuar situacional, sensorë për zbulimin e radarit, shënjestrimit me lazer dhe lëshimeve të raketave, të kombinuar me lëshim automatik të granatave të tymit për mbrojtje, si dhe lëvizshmëri të përmirësuar me motor të përditësuar.
+|-
+| [[:en:T-72 operators and variants#Variants|T-72B1MS]]
+| {{RUS}}
+| [[Tanku kryesor i betejës|Tank kryesor i betejës]]
+| 30
+| [[File:Zastava 2024 - T-72B1MS - 01.jpg|frameless|120x120px]]
+| Vendosur në Batalionin e Tankeve të Komandës së Ushtrisë.
+Version i modernizuar i T-72B, i pajisur me sisteme optoelektronike.<ref name=":0">{{Cite book |title=Military Balance 2024 |publisher=IISS |year=2024 |isbn=978-1032780047 |language=en}}</ref>
+|-
+! style="align: center;" colspan="7" | Automjete luftarake të këmbësorisë
+|-
+| [[:en:Lazar 3|Lazar 3M]]
+| {{SRB}}
+| [[Automjeti luftarak i këmbësorisë|Automjet luftarak i këmbësorisë me rrota]]
+| 20+
+| [[File:Lazar 3M infantry fighting vehicle.jpg|120x120px]]
+| Vendosur në batalionet e këmbësorisë të katër brigadave të Ushtrisë.<ref>[https://www.vs.rs/sr_lat/vesti/6D05D55837D711F09E880050568F5424/obilazak-centra-za-ispitivanje-naoruzanja-i-vojne-opreme Obilazak centra za ispitivanje naoružanja i vojne opreme], Vojska Srbije (serbisht)</ref><ref name="Snaga jedinstva - vojna parada">{{citation |url=https://www.youtube.com/watch?v=hSLCHmAA7DM | title=Snaga jedinstva - vojna parada| newspaper=RTS Sajt - Zvanični kanal| date=2025-09-20 |language=sr}}</ref>
+
+Varianti automjet luftarak këmbësorie i Lazar 3-shit, i armatosur me RCWS me top 30&nbsp;mm.
+
+Prokurimi shtesë është në vazhdim.<ref name="alo.rs">{{cite web | url=https://www.alo.rs/vesti/politika/863055/vucic-narucili-smo-80-lazara-i-112-milosa/vest | title="Čekamo Važan Sistem Iz Rusije" Vučić: Naručili smo 80 Lazara i 112 Miloša |language=sr}}</ref>
+|-
+| [[:en:BVP M-80|BVP M-80A]]<hr>[[:en:BVP M-80#Variants|BVP M-80AB1]]
+| {{YUG}}<hr>{{SRB}}
+| [[Automjeti luftarak i këmbësorisë|Automjet luftarak i këmbësorisë me zinxhirë]]
+| 296<hr>29+
+| [[File:BVP М80А VS.jpg|120px]]<br><br>[[File:Zastava 2024 - BVP M-80AB1.jpg|120px]]
+| Versioni bazë, BVP M-80A, i vendosur në batalionet e mekanizuara të katër brigadave të Ushtrisë, po i nënshtrohet modernizimit serik në variantin M-80AB1.{{sfn|The Military Balance 2022|p=134}}
+
+Varianti i modernizuar përfshin blindazh më të avancuar, pajisje kontrolli zjarri të kullës, sisteme optoelektronike, lëshues granatash tymi, aftësinë për të montuar dhe lëshuar raketa kundërtank, si dhe lëvizshmëri të përmirësuar me motor të përditësuar.<ref>[https://www.balkansec.net/post/srbija-po%C4%8Dela-serijsku-modernizaciju-jugoslovenskih-borbenih-vozila-pe%C5%A1adije-m-80a Srbija počela serijsku modernizaciju jugoslovenskih borbenih vozila pešadije M-80A], BalkanSec (serbisht)</ref>
+|-
+! style="align: center;" colspan="7"  | Transportues personeli të blinduar
+|-
+| [[:en:Lazar 3|Lazar 3]]
+| {{SRB}}
+| [[Transportues personeli i blinduar|Transportues personeli i blinduar 8×8]]
+| 80+
+| [[File:Lazar 3 APC.jpg|120x120px]]
+| Vendosur në batalionet e këmbësorisë të katër brigadave të Ushtrisë.<ref>{{cite web | url=https://www.balkansec.net/post/vojske-balkana-imaju-9-vrsta-oklopnih-osmoto%C4%8Dka%C5%A1a | title=Vojske Balkana imaju 9 vrsta oklopnih osmotočkaša | date=2024-01-27 |language=sr}}</ref>
+
+Prokurimi shtesë është në vazhdim.<ref name="alo.rs"/>
+|-
+| [[BTR-80|BTR-80AMS]]
+| {{RUS}}<br>{{SRB}}
+| [[Transportues personeli i blinduar|Transportues personeli i blinduar amfib]] 8×8
+| 108
+| [[File:BTR-80 of the Serbian Armed Forces, recently acquired from Hungary.jpg|120x120px]]
+| Versioni bazë, BTR-80A, i vendosur në batalionet e këmbësorisë të katër brigadave të Ushtrisë, i është nënshtruar modernizimit serik në variantin BTR-80AMS.<ref name="RTV">{{cite web|website=RTV |agency=Tanjug |title=Vučić: Prvi put dobre vesti po pitanju odziva za jedinice u Vojsci Srbije; Doneta odluka o digitalnoj vojnoj platformi, redovni vojni rok će se vratiti |language=sr |date=2025-06-23 |url=https://www.rtv.rs/sr_lat/politika/vucic-prvi-put-dobre-vesti-po-pitanju-odziva-za-jedinice-u-vojsci-srbije_1637759.html |access-date=2025-07-20}}</ref>
+
+Varianti i modernizuar përfshin blindazh më të avancuar, sisteme optoelektronike, dhe stabilizim xhiroskopik të topit 30&nbsp;mm.<ref name="Snaga jedinstva - vojna parada"/><ref>{{Cite web |title=Srbija dobila moćna borbena vozila od Mađarske |url=https://www.politika.rs/sr/clanak/617372/Srbija-dobila-mocna-borbena-vozila-od-Madarske |access-date=2024-06-01 |website=Politika Online |language=sr}}</ref>
+|-
+| [[:en:BOV (armoured personnel carrier)#Variants|BOV OT]]
+| {{SRB}}
+| [[Transportues personeli i blinduar|Transportues personeli i blinduar 4×4]]
+| 10+
+| [[File:Zastava 2024 - FAP M-21 - 01.jpg|120x120px]]
+| Vendosur në batalionet e këmbësorisë të katër brigadave të Ushtrisë.<ref name=zb/>
+Prokurimi shtesë është në vazhdim.<ref name="Više od 70 novih sredstava u naoruž">{{cite web |url=https://www.mod.gov.rs/lat/21897/vise-od-70-novih-sredstava-u-naoruzanju-vojske-srbije21897 |title=Više od 70 novih sredstava u naoružanju Vojske Srbije |website=mod.gov.rs |language=sr}}</ref><ref name="Snaga jedinstva - vojna parada"/>
+|-
+! style="align: center;" colspan="7"  | Automjete të blinduara
+|-
+| [[:en:Zastava M20 MRAP|M20 MRAP]]
+| {{SRB}}
+| [[:en:MRAP|MRAP 6×6]]
+| 22+
+| [[File:Zastava M20.jpg|120x120px]]
+| Vendosur në batalionet e këmbësorisë të katër brigadave të Ushtrisë.<ref name=zb>{{Cite web |last=Banković |first=Živojin |date=2023-04-24 |title=[Foto-Rerportaža] "Granit 2023": Kako je petina Vojske Srbije proslavila svoj Dan na batajničkom aerodromu |url=https://tangosix.rs/2023/24/04/foto-reportaza-granit-2023-kako-je-petina-vojske-srbije-proslavila-svoj-dan-na-batajnickom-aerodromu/ |access-date=2023-06-12 |website=Tango Six |language=sr}}</ref><ref name="Snaga jedinstva - vojna parada"/>
+Prokurimi shtesë është në vazhdim.
+|-
+| [[:en:BOV M16 Miloš|BOV M16 Miloš]]
+| {{SRB}}
+| [[:en:MRAP|MRAP 4×4]]
+| 109+
+| [[File:Zastava 2024 - BOV M-16 Miloš - 01.jpg|frameless|120px]]
+| Vendosur në batalionet e këmbësorisë të katër brigadave të Ushtrisë dhe njësitë e forcave speciale (Brigada e 72-të për Operacione Speciale dhe Brigada e 63-të Parashutiste).
+Prokurimi shtesë është në vazhdim.<ref>{{cite web|author=Petar Vojinović|date=2023-02-21|title=[IDEX 2023] Srbija od domaće industrije kupuje 200 oruđa u vrednosti od 300 miliona evra, Jugoimport investira u Utvu, PR-DC potpisao sporazum o saradnji sa ćerkom kompanijom Edža|language=sr|website=tangosix.rs|url=https://tangosix.rs/2023/21/02/idex-2023-srbija-od-domace-industrije-kupuje-200-orudja-u-vrednosti-od-300-miliona-evra-jugoimport-investira-u-utvu-pr-dc-potpisao-sporazum-o-saradnji-sa-cerkom-kompanijom-edza/|access-date=2025-10-01}}</ref>
+|-
+| [[:en:BRDM-2|BRDM-2]]<hr>[[:en:BRDM-2#Variants|BRDM-2MS]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}<hr>{{RUS}}
+| [[Automjeti i zbulimit|Automjet zbulimi]]
+| 46<hr>30
+| [[File:BRDM-2 VS smotra 1.jpg|120px]]<br /><br />[[File:Zastava_2024_-_BRDM-2MS_-_01.jpg|frameless|120px]]
+| Varianti bazë i vendosur në batalionet e tankeve dhe të mekanizuara të katër brigadave të Ushtrisë.<ref name="Army Armaments">{{cite web|url=http://www.vs.rs/index.php?content=5701ab10-fc9c-102b-9fa8-28e40361dc2e|title=Army Armaments|access-date=2014-02-10|archive-url=https://web.archive.org/web/20141007013516/http://www.vs.rs/index.php?content=5701ab10-fc9c-102b-9fa8-28e40361dc2e|archive-date=2014-10-07|url-status=dead|language=sr}}</ref>
+Varianti i modernizuar BRDM-2MS i vendosur në Batalionin e Blinduar të Zbulimit të Komandës së Ushtrisë.<ref>{{cite news | url=https://www.slobodnaevropa.org/a/srbija-tenkovi-rusija-donacija/31269345.html | title=Vojsci Srbije isporučeno 30 tenkova i oklopnih automobila iz ruske donacije | newspaper=Radio Slobodna Evropa | date=2021-05-23 |language=sr}}</ref>
+|-
+| [[:en:BOV (armoured personnel carrier)#Variants|BOV KIV]]
+| {{SRB}}
+| Automjet komandimi
+| 20+
+| [[File:Granit_2023_-_58_-_BOV_KIV.jpg|frameless|120px]]
+| Vendosur në Brigadën e Artilerisë së Përzier.<ref name=":0" />
+Prokurimi shtesë është planifikuar.
+|-
+| [[:en:MT-LBu|MT-LBu]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Autoblinda|Automjet i blinduar]] komandimi
+| 32
+| [[File:MT-LBu_-_VS_-_01.jpg|120px]]
+| Vendosur në batalionet e artilerisë vetëlëvizëse të katër brigadave të Ushtrisë.<ref name=":0" />
+
+Modernizimi u krye midis viteve 2020 dhe 2025.
+|-
+| [[:en:BOV (armoured personnel carrier)#Variants|BOV-1 POLO M83]]<hr>[[:en:BOV (armoured personnel carrier)#Variants|BOV-1 POLO M83M]]
+| {{YUG}}<hr>{{SRB}}
+| [[:en:Tank destroyer|Shkatërrues tankesh]]
+| 38<hr>10
+| [[File:BOV-1_VS-1.jpg|120px]]<br><br>[[File:Polo 83M.jpg|120px]]
+| Versioni bazë, BOV-1 POLO M83, i vendosur në batalionet e mekanizuara të katër brigadave të Ushtrisë, po i nënshtrohet modernizimit serik në variantin BOV-1 POLO M83M.<ref name=":0" />
+
+Varianti i modernizuar përfshin, përveç platformës së pajisur me katër lëshues të raketave të drejtuara kundërtank [[:en:9M14 Malyutka|9M14 Malyutka]] të përmirësuara (të pranishme edhe në versionin bazë), edhe një platformë shtesë lëshimi të pajisur me katër lëshues të municionit lëvizës [[:en:Osica (drone)|Osica]] (rreze veprimi 20&nbsp;km).
+|-
+| [[:en:BOV (armoured personnel carrier)#Variants|BOV-VP]]
+| {{YUG}}
+| [[Autoblinda|Automjet i blinduar]]
+| 52
+| [[File:Zastava_2024_-_BOV_M-86_-_01.jpg|frameless|120px]]
+| Vendosur në Policinë Ushtarake.<ref name=zb/><ref name="Više od 70 novih sredstava u naoruž"/>
+|-
+| [[Humvee]]
+| {{USA}}
+| [[Autoblinda|Automjet i blinduar]]
+| 158
+| [[File:Zastava_2024_-_HMMWV_-_06.jpg|120px]]
+| Vendosur në batalionet e këmbësorisë të katër brigadave të Ushtrisë dhe njësitë e forcave speciale (Brigada e 72-të për Operacione Speciale dhe Brigada e 63-të Parashutiste).<ref name="Snaga jedinstva - vojna parada"/><ref>[https://vojnopolitickaosmatracnica.wordpress.com/2024/09/10/oklopna-borbena-vozila-tockasi-u-naoruzanju-vojske-srbije/ Oklopna borbena vozila točkaši u naoružanju Vojske Srbije], Vojnopolitička osmatračnica, 2024-09-10 (serbisht)</ref>
+|-
+| [[:en:Lenco BearCat|BearCat G3]]
+| {{USA}}
+| [[Autoblinda|Automjet i blinduar]]
+| 5
+| [[File:Granit 2023 - 71 - Lenco Bercat.jpg|frameless|120x120px]]
+| Vendosur në Batalionin e 25-të të Policisë Ushtarake të Gardës.
+|-
+! style="align: center;" colspan="7"  | Automjete blinduara shpëtimi
+|-
+| [[M-84#M-84AI|M-84AI]]
+| {{YUG}}
+| [[:en:Armoured recovery vehicle|Automjet blinduar shpëtimi]]
+| 5
+| [[File:M-84AI.jpg|120px]]
+| Vendosur në batalionet e mekanizuara të katër brigadave të Ushtrisë.{{sfn|Oklopne jedinice Vojske Srbije}}
+Version i prodhuar vendas i modelit polak [[:en:WZT#WZT-3|WZT-3]].<ref name="Armoured recovery vehicles of the Serbian Army">{{cite web|url=http://www.oklop.net23.net/tzi/opis.html|title=Armoured recovery vehicles of the Serbian Army|access-date=2014-02-10|archive-url=https://web.archive.org/web/20130605065744/http://www.oklop.net23.net/tzi/opis.html|archive-date=2013-06-05|url-status=dead|language=sr}}</ref>
+|-
+| [[:en:T-54/T-55 operators and variants#JVBT|JVBT]]
+| {{flag|Czechoslovakia|name=Çekosllovakia}}
+| [[:en:Armoured recovery vehicle|Automjet blinduar shpëtimi]]
+| 12
+| [[File:VIU-55_Munja.jpg|120px]]
+| Vendosur në batalionet e mekanizuara dhe të artilerisë vetëlëvizëse të katër brigadave të Ushtrisë.{{sfn|Oklopne jedinice Vojske Srbije}}<ref name="Armoured recovery vehicles of the Serbian Army" />
+|-
+| [[:en:WZT#WZT-2|WZT-2]]
+| {{POL}}
+| [[:en:Armoured recovery vehicle|Automjet blinduar shpëtimi]]
+| 16
+| [[File:Anakonda_2008_(37).jpg|120px]]
+| Vendosur në batalionet e mekanizuara të katër brigadave të Ushtrisë.{{sfn|Oklopne jedinice Vojske Srbije}}<ref name="Armoured recovery vehicles of the Serbian Army" />
+|-
+! style="align: center;" colspan="7"  | Ura lëvizëse të blinduara
+|-
+| [[:en:MT-55|MT-55]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[:en:Military engineering vehicle#Bridging vehicles|Urë blinduar lëvizëse]]
+| 24
+| [[File:MT-55A.jpg|120px]]
+| Vendosur në batalionet e tankeve dhe të mekanizuara të katër brigadave të Ushtrisë.{{sfn|Oklopne jedinice Vojske Srbije}}<ref name="Armoured recovery vehicles of the Serbian Army"/>
+|-
+! style="align: center;" colspan="7"  | Automjete tokësore pa pilot
+|-
+| [[:en:Miloš (unmanned ground vehicle)|Mali Miloš]]
+| {{SRB}}
+| [[Automjeti tokësor pa pilot|Automjet tokësor pa pilot]]
+| 26+
+| [[File:DUBP_Miloš_-_VS_04.jpg|120px]]
+| Vendosur në Brigadën e 72-të për Operacione Speciale.<ref>{{cite web | url=https://www.novosti.rs/drustvo/vesti/1075988/mali-milos-napada-tenkove-vojska-srbije-ove-godine-ocekuje-isporuku-nove-serije-domacih-besposadnih-platformi | title="Mali Miloš" Napada Tenkove: Vojska Srbije ove godine očekuje isporuku nove serije domaćih besposadnih platformi |language=sr}}</ref><ref name=zb/><ref name="Snaga jedinstva - vojna parada"/>
+|-
+|}
+==Automjete të pablinduara==
+{| class="wikitable"
+|-
+! style="text-align: left; width:12%;"|Emri
+! style="text-align: left; width:8%;"|Origjina
+! style="text-align: left; width:18%;"|Lloji
+! style="text-align: left; width:7%;"|Sasia
+! style="text-align: left;width:8%;"|Foto
+! style="text-align: left;width:47%;"|Shënime
+|-
+! style="align: center;" colspan="7"  | Kamionë
+|-
+| [[:en:FAP 1118|FAP 1118]]
+| {{SRB}}
+| [[Kamioni|4×4]] [[:en:Off-road vehicle|kamion terreni]]
+| 124+
+| [[File:FAP1118 2.jpg|120px]]
+| rowspan="24" |Vendosur në batalionet e logjistikës të katër brigadave të Ushtrisë.
+|-
+| [[:en:TAM 110 T7 B/BV|TAM 110 T7 B/BV]]
+| {{YUG}}
+| [[Kamioni|4×4]] [[:en:Off-road vehicle|kamion terreni]]
+| 360
+| [[File:TAM 110 inž.jpg|120px]]
+|-
+| [[:en:Fabrika automobila Priboj|FAP]] 13
+| {{YUG}}
+| [[Kamioni|4×4]] [[:en:Off-road vehicle|kamion terreni]]
+|
+| [[File:FAP 1314 S-ACG VS 01.jpg|120px]]
+|-
+| [[:en:Fabrika automobila Priboj|FAP]] 3040
+| {{SRB}}
+| [[Kamioni|6×6]] [[:en:Off-road vehicle|kamion terreni]]
+|
+| [[File:Dan_srpskog_jedinstva_slobode_i_zastave_-_FAP_3040_BK-A_-_03.jpg|120x120px]]
+|-
+| [[:en:Fabrika automobila Priboj|FAP]] 2228
+| {{SRB}}
+| [[Kamioni|6×6]] [[:en:Off-road vehicle|kamion terreni]]
+| 20+
+| [[File:FAP 2228 VS1.jpg|border|frameless|120px]]
+|-
+| [[:en:TAM 150 T11 B/BV|TAM 150 T11 B/BV]]
+| {{YUG}}
+| [[Kamioni|6×6]] [[:en:Off-road vehicle|kamion terreni]]
+| 210
+| [[File:TAM-Vojska Srbije.jpg|120px]]
+|-
+| [[:en:TAM-Europe|TAM]] 260 T22
+| {{YUG}}
+| [[Kamioni|6×6]] [[:en:Off-road vehicle|kamion terreni]]
+|
+| [[File:TAM 130 2.jpg|120px]]
+|-
+| [[:en:FAP 2026|FAP 2026]]
+| {{YUG}}
+| [[Kamioni|6×6]] [[:en:Off-road vehicle|kamion terreni]]
+| 200
+| [[File:FAP_2026_BS-AV_Vojska_Srbije.jpg|120px]]
+|-
+| [[:en:KrAZ-255|KrAZ-255]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Kamioni|6×6]] [[:en:Off-road vehicle|kamion terreni]]
+|
+| [[File:KrAZ-255B VS2.jpg|120px]]
+|-
+| [[:en:Ural-375|Ural-375]]D
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Kamioni|6×6]] [[:en:Off-road vehicle|kamion terreni]]
+|
+| [[File:Granit_2023_-_111_-_UKUV_9S416M.jpg|120px]]
+|-
+| [[:en:ZIL-131|ZIL-131]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Kamioni|6×6]] [[:en:Off-road vehicle|kamion terreni]]
+|
+| [[File:Granit_2023_-_117_-_KIPSt_-_5K21.jpg|120px]]
+|-
+| [[:en:Fabrika automobila Priboj|FAP]] 3240
+| {{SRB}}
+| [[Kamioni|8×8]] [[:en:Off-road vehicle|kamion terreni]]
+| 4+
+| [[File:Zastava_2024_-_FAP_3240_BS-AV_-_02.jpg|120px]]
+|-
+| [[:en:Fabrika automobila Priboj|FAP]] 3232
+| {{YUG}}
+| [[Kamioni|8×8]] [[:en:Off-road vehicle|kamion terreni]]
+| 8
+|
+|-
+| [[:en:Shaanxi HMV3|Shaanxi HMV3]]
+| {{CHN}}
+| [[Kamioni|8×8]] [[:en:Off-road vehicle|kamion terreni]]
+|
+| [[File:Zastava_2024_-_HQ-17AE_vozilo_za_dotur_-_01.jpg|120px]]
+|-
+| [[:en:Fabrika automobila Priboj|FAP]] 2026 BST AV
+| {{YUG}}
+| [[:en:Semi-trailer|Gjysmërimorkio]]
+| 7
+| [[File:FAP_2026_BST_AV_-_Odbrana_slobode_2019_Niš_3.jpg|frameless|120px]]
+|-
+| [[:en:MAN Truck & Bus|MAN]] TGS 33.480
+| {{GER}}
+| [[:en:Semi-trailer|Gjysmërimorkio]]
+| 6
+| [[File:MAN TGS 33-480 VS1.jpg|120px]]
+|-
+| [[:en:MAZ-537|MAZ-537]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[:en:Semi-trailer|Gjysmërimorkio]]
+| 10
+| [[File:Maz M-84 1.jpg|120px]]
+|-
+| [[:en:Fabrika automobila Priboj|FAP]] 2632
+| {{YUG}}
+| [[:en:Semi-trailer|Gjysmërimorkio]]
+|
+| [[File:FAP2632BT.jpg|120px]]
+|-
+| [[:en:Fabrika automobila Priboj|FAP]] 1921
+| {{YUG}}
+| [[:en:Semi-trailer|Gjysmërimorkio]]
+|
+| [[File:FAP1921BT 3.jpg|120px]]
+|-
+| HOWO 336
+| {{CHN}}
+| [[:en:Semi-trailer|Gjysmërimorkio]]
+|
+| [[File:Granit 2023 - 158 - HOWO Sinotruk 336 tegljač.jpg|120x120px]]
+|-
+| [[:en:Iveco S-Way|Iveco S-way]]
+| {{ITA}}
+| [[:en:Semi-trailer|Gjysmërimorkio]]
+| 5
+|
+|-
+| [[:en:TAM-Europe|TAM]] 130 T10
+| {{YUG}}
+| [[:en:Dump truck|Kamion vetëshkarkues]]
+|
+| [[File:TAM_130T11_Vojska_Srbije.jpg|120px]]
+|-
+| [[:en:China National Heavy Duty Truck Group|HOWO TAZ 3190C 4х4]]
+| {{CHN}}
+| [[:en:Dump truck|Kamion vetëshkarkues]]
+|
+| [[File:Granit 2023 - 161 - HOWO Sinotruk 266 kiper.jpg|120x120px]]
+|-
+| [[Iveco Trakker]]
+| {{ITA}}
+| [[:en:Dump truck|Kamion vetëshkarkues]]
+|
+| [[File:Granit 2023 - 163 - IVECO Trakker 360 kiper.jpg|120x120px]]
+|-
+| [[:en:Scania AB|Scania]] 113M 310
+| {{SWE}}
+| [[Kamioni cisternë|Kamion-cisternë]]
+| 8
+| [[File:Skanije i zil.jpg|120px]]
+| rowspan="4" |Vendosur në batalionet teknike ajrore të dy brigadave Ajrore.
+|-
+| MAN TGS 18.430
+| {{GER}}
+| [[Kamioni cisternë|Kamion-cisternë]]
+|
+| [[File:Granit 2023 - 198 - MAN TGS 18-430 tegljač sa cisternom.jpg|120x120px]]
+|-
+| [[:en:MAN Truck & Bus|MAN]] 17.192
+| {{GER}}
+| [[Kamioni cisternë|Kamion-cisternë]]
+| 3
+| [[File:MAN_17-192_VS_2.jpg|120px]]
+|-
+| [[:en:MAN Truck & Bus|MAN]] TGM 18.250
+| {{GER}}
+| [[Kamioni cisternë|Kamion-cisternë]]
+|
+| [[File:MAN TGM 18-250 cisterna za vodu VS 2.jpg|120px]]
+|-
+! style="align: center;" colspan="7" | Automjete inxhinierike
+|-
+| Liu Gong 926E
+| {{CHN}}
+| [[Gërmuesi|Gërmues]]
+|
+| [[File:Granit 2023 - 184 - Liu Gong 926E bager.jpg|120x120px]]
+| rowspan="17" |Vendosur në batalionet e inxhinierëve të katër brigadave të Ushtrisë.
+|-
+| [[:en:14. oktobar|IMK]] ULT-150<br />[[:en:14. oktobar|IMK]] [[:en:ULT-160|ULT-160B]]<br />[[:en:14. oktobar|IMK]] [[:en:ULT-160|ULT-160C]]
+| {{YUG}}
+| [[:en:Loader (equipment)|Ngarkues me rrota]]
+|
+| [[File:11 ULT-160CK.jpg|120px]]
+|-
+| ЈСB 436
+| {{UK}}
+| [[:en:Loader (equipment)|Ngarkues me rrota]]
+|
+| [[File:Granit 2023 - 177 - JCB 436 utovarivač.jpg|120x120px]]
+|-
+| ZL 3500<br />ZL 5001F
+| {{GER}}
+| [[:en:Loader (equipment)|Ngarkues me rrota dhe buldozer]]
+|
+| [[File:11 Zettelmeyer3500.jpg|120px]]
+|-
+| [[:en:JCB (heavy equipment manufacturer)|JCB 4CX]]
+| {{UK}}
+| [[:en:Backhoe loader|Ngarkues-gërmues]]
+|
+| [[File:11 JCB.jpg|120px]]
+|-
+| VOLVO BM
+| {{SWE}}
+| [[:en:Backhoe loader|Ngarkues-gërmues]]
+|
+|
+|-
+| KN-251
+| {{YUG}}
+| [[:en:Backhoe loader|Ngarkues-gërmues]]
+|
+| [[File:KN-251VS.JPG|120px]]
+|-
+| [[:en:14. oktobar|IMK]] TG-140<br />IMK TG-160<br />IMK TG-170<br />IMK TG-200
+| {{YUG}}
+| [[:en:Bulldozer|Buldozer me zinxhirë]]
+|
+| [[File:TG-190 VS.JPG|120px]]
+|-
+| LiuGong 230C
+| {{CHN}}
+| [[:en:Bulldozer|Buldozer me zinxhirë]]
+|
+| [[File:Granit 2023 - 180 - Liu Gong CLGB 230C dozer.jpg|120x120px]]
+|-
+| Dressta TD15M
+| {{POL}}
+| [[:en:Bulldozer|Buldozer me zinxhirë]]
+|
+| [[File:Granit 2023 - 182 - Dressta TD15M dozer.jpg|120x120px]]
+|-
+| [[Caterpillar D8|Caterpillar D8]]
+| {{USA}}
+| [[:en:Bulldozer|Buldozer me zinxhirë]]
+|
+| [[File:Granit_2023_-_183_-_CAT_D5K2_XL_dozer.jpg|120x120px]]
+|-
+| Liu Gong GJT 112А
+| {{CHN}}
+| [[:en:Bulldozer|Buldozer me rrota]]
+|
+| [[File:Dan_Kopnene_Vojske_2021_u_Šapcu_-_TTZ_11_-_GJT-112A.jpg|120px]]
+|-
+| LiuGong 4140
+| {{CHN}}
+| [[:en:Grader|Grejder]]
+|
+| [[File:Granit 2023 - 186 - Liu Gong CLG 4180 grejder.jpg|120x120px]]
+|-
+| Liu Gong 6616B
+| {{CHN}}
+| [[:en:Road roller|Rul rruge]]
+|
+| [[File:Granit 2023 - 191 - Liu Gong 6616B valjak.jpg|120x120px]]
+|-
+| Bomag BW-200
+| {{GER}}
+| [[:en:Road roller|Rul rruge]]
+|
+|
+|-
+| САТ CS78B
+| {{USA}}
+| [[:en:Road roller|Rul rruge]]
+|
+|
+|-
+| BMB
+| {{YUG}}
+| Shpuese pusesh minash
+|
+| [[File:TAM 110 bušilica.jpg|120px]]
+|-
+| [[:en:PM M71 Floating Bridge|PM M71]]
+| {{YUG}}
+| [[Ura lundruese]]
+|
+| [[File:FAP2026 BSD A PM M71 VS.jpg|120px]]
+| rowspan="2"|Vendosur në Flotiljen e Lumit.
+|-
+| [[:en:PTS (vehicle)#PTS-M|PTS-M]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[:en:Amphibious vehicle#Tracked|Automjet amfib]]
+| 12
+| [[File:PTS-M_VS8.jpg|120px]]
+|-
+! style="align: center;" colspan="7"  | Automjete utilitare terreni
+|-
+| [[:en:Zastava NTV|Zastava NTV]]
+| {{SRB}}
+| [[:en:Off-road vehicle|Automjet terreni]]
+| 40+
+| [[File:Zastava_NTV_kombi_-_Odbrana_slobode_2019_Niš_5.jpg|120x120px]]
+| Vendosur në disa versione në Ushtri, në njësitë e forcave speciale (Brigada e 72-të për Operacione Speciale dhe Brigada e 63-të Parashutiste) dhe në Qendrën e 224-të për Veprim Elektronik.
+Prokurimi shtesë është në vazhdim.
+|-
+| [[Steyr-Puch Pinzgauer|Pinzgauer 710]]
+| {{AUT}}
+| [[:en:Off-road vehicle|Automjet terreni]]
+|
+| [[File:Zastava_2024_-_Pinzgauer_-_01.jpg|120px]]
+| Vendosur në batalionet e këmbësorisë të katër brigadave të Ushtrisë.
+|-
+| [[Mercedes-Benz G-Class|Puch 300GD]]
+| {{GER}}
+| [[:en:Off-road vehicle|Automjet terreni]]
+|
+| [[File:Puch_G_-_72_brigada_za_specijalne_operacije_-_01.jpg|120px]]
+| rowspan="2" |Vendosur në batalionet e këmbësorisë të katër brigadave të Ushtrisë.
+|-
+| [[:en:UAZ-469|UAZ-469]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[:en:Off-road vehicle|Automjet terreni]]
+|
+| [[File:UAZ 469 of Serbian Army.jpg|120px]]
+|-
+| [[Land Rover Defender]]
+| {{UK}}
+| [[:en:Off-road vehicle|Automjet terreni]]
+| 70
+| [[File:Land Rover-Vojska Srbije.jpg|120px]]
+| Vendosur në njësitë e forcave speciale (Brigada e 72-të për Operacione Speciale dhe Brigada e 63-të Parashutiste).
+|-
+| [[:en:UAZ Patriot|UAZ Patriot]]
+| {{RUS}}
+| [[:en:Off-road vehicle|Automjet terreni]]
+| 64
+| [[File:Granit_2023_-_125_-_UAZ_Patriot_-_vojna_policija.jpg|120px]]
+| rowspan="3"|Vendosur në batalionet e Policisë Ushtarake.
+|-
+| [[Toyota Hilux|Toyota Hilux]]
+| {{JPN}}
+| [[:en:Off-road vehicle|Automjet terreni]]
+| 100
+| [[File:Zastava_2024_-_Toyota_-_01.jpg|120x120px]]
+|-
+| [[Isuzu D-Max|Isuzu]]
+| {{JPN}}
+| [[:en:Off-road vehicle|Automjet terreni]]
+|
+| [[File:Granit 2023 - 128 - ISUZU.jpg|120x120px]]
+|-
+| [[Mercedes-Benz G-Class]]
+| {{GER}}
+| [[:en:Off-road vehicle|Automjet terreni]]
+|
+| [[File:Mercedes-Benz G 500 Sport-Paket (W 463, 3. Facelift) – Frontansicht, 7. August 2012, Stuttgart.jpg|120px]]
+| Vendosur në Detashmentin e Policisë Ushtarake për Operacione Speciale "Kobrat".
+|-
+! style="align: center;" colspan="7"  | Automjete utilitare
+|-
+| [[:en:Iveco Daily|Nanjing-Iveco Turbo Daily]]
+| {{CHN}}
+| [[Ambulanca]]
+| 20
+| [[File:Nanjing-Iveco Turbo Daily VS.jpg|120px]]
+|rowspan="6" |Vendosur në batalionet e logjistikës të katër brigadave të Ushtrisë.
+|-
+| [[:en:Unimog|Unimog U1300L]]
+| {{GER}}
+| [[Ambulanca]]
+| 3
+| [[File:Zajednička vežba 72 brSO VS i 2 br Specnaz OSRF - Mercedes-Benz Unimog sanitet VS.jpg|120px]]
+|-
+| [[:en:Dingo 2|Dingo 2]]
+| {{GER}}
+| [[Ambulanca]]
+| 2
+| [[File:Zastava_2024_-_Dingo_sanitet_-_01.jpg|frameless|120x120px]]
+|-
+| [[:en:BOV (APC)#Variants|BOV SN]]
+| {{YUG}}
+| [[Ambulanca]]
+|
+| [[File:BOV Sn.jpg|120px]]
+|-
+| [[:en:Citroen Jumper|Citroen Jumper]]
+| {{FRA}}
+| [[Ambulanca]]
+|
+| [[File:Citroen Jumper ambulance VS.jpg|120x120px]]
+|-
+| [[:en:Fiat Ducato|Fiat Ducato]]
+| {{ITA}}
+| [[Ambulanca]]
+|
+| [[File:Fiat Ducato sanitet Garda VS 01.jpg|120x120px]]
+|-
+| Fiat Ducato
+| {{ITA}}
+| [[Furgoni]]
+|
+| [[File:Fiat Ducato Vojna Policija.jpg|120x120px]]
+| rowspan="4" |Vendosur në batalionet e Policisë Ushtarake.
+|-
+| [[:en:Škoda Superb|Škoda Superb]]
+| {{CZE}}
+| [[Police car|Veturë patrullimi]]
+|
+| [[File:Škoda_superb_VP_VS1.jpg|120px]]
+|-
+| [[:en:Škoda Fabia|Škoda Fabia]]
+| {{CZE}}
+| [[Police car|Veturë patrullimi]]
+|
+| [[File:Škoda_Fabia_VP_VS_02.jpg|120px]]
+|-
+| [[:en:Škoda Scala|Škoda Scala]]
+| {{CZE}}
+| [[Police car|Veturë patrullimi]]
+|
+| [[File:Granit 2023 - 122 - Škoda Scala - vojna policija.jpg|120x120px]]
+|-
+| [[:en:BMW R1200RT|BMW R1200RT]]
+| {{GER}}
+| [[Motoçikleta|Motoçikletë]]
+| 12
+| [[File:BMW_motorcikl_vojne_policije_Vojske_Srbije_-_Odbrana_slobode_2019_Niš_5.jpg|120px]]
+| Vendosur në Batalionin e 25-të të Policisë Ushtarake të Gardës.
+|-
+| [[:en:Polaris Inc.|Polaris Sportsman S XP1000]]
+| {{USA}}
+| [[:en:All-terrain vehicle|ATV]]
+| 16
+| [[File:Polaris Vojske Srbije.jpg|120px]]
+| Vendosur në njësitë e forcave speciale (Brigada e 72-të për Operacione Speciale dhe Brigada e 63-të Parashutiste).
+|}
+==Artileria==
+{| class="wikitable"
+|-
+! style="text-align: left; width:12%;"|Emri
+! style="text-align: left; width:8%;"|Origjina
+! style="text-align: left; width:18%;"|Lloji
+! style="text-align: left; width:7%;"|Sasia
+! style="text-align: left;width:8%;"|Foto
+! style="text-align: left;width:47%;"|Shënime
+|-
+! style="align: center;" colspan="7"  | Artileri vetëlëvizëse
+|-
+| [[Nora B-52]]
+| {{SRB}}
+| [[Artileria vetëlëvizëse|Obus vetëlëvizës 155 mm]]
+| 24+
+| [[File:Nora_B52_M15_VS_-_Odbrana_slobode_2019_Niš_1.jpg|120px]]
+| Vendosur në Brigadën e Artilerisë së Përzier.<ref name=":0" />
+
+Prokurimi shtesë është në vazhdim.<ref>{{cite web | url=https://www.b92.net/biz/vesti/srbija/srbija-spremila-186-miliona-evra-za-oruzje-vucic-objavio-sta-se-kupuje-2464505 | title=Srbija spremila 186 miliona evra za oružje: Vučić objavio šta se kupuje |language=sr}}</ref>
+|-
+| [[:en:2S1 Gvozdika|2S1 Gvozdika]]<hr>[[:en:2S1 Gvozdika#Variants|2S1M Gvozdika]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}<hr>{{SRB}}
+| [[Artileria vetëlëvizëse|Obus vetëlëvizës 122 mm]]
+| 18<hr>54
+| [[File:2S1_VS.jpg|120px]]
+| Versioni bazë, 2S1, i vendosur në batalionet e artilerisë vetëlëvizëse të katër brigadave të Ushtrisë, po i nënshtrohet modernizimit serik në variantin 2S1M.
+
+Varianti i modernizuar përfshin një sistem të ri kontrolli zjarri me rreze veprimi 22&nbsp;km, si dhe sistem navigimi inercial dhe GPRS.<ref>{{cite web | url=https://www.telegraf.rs/vesti/srbija/3803952-domaca-pamet-modernizovala-samohodnu-haubicu-posada-za-dejstvo-spremna-za-manje-od-minuta | title=Domaća pamet modernizovala samohodnu haubicu: Posada za dejstvo spremna za manje od minuta | date=2024-01-03 |language=sr}}</ref><ref>{{cite web | url=https://vojnopolitickaosmatracnica.wordpress.com/2024/02/06/modernizacija-samohodne-haubice-2s1-gvozdika/ | title=Modernizacija Samohodne Haubice 2S1 Gvozdika! | date=2024-02-06 |language=sr}}</ref><ref name="Snaga jedinstva - vojna parada"/>
+|-
+! style="align: center;" colspan="7"  | Artileri e tërhequr
+|-
+| [[:en:Nora M-84|Nora M-84]]
+| {{YUG}}
+| [[:en:Gun-howitzer|Top-obus 152 mm]]
+| 36<ref name=":0" />
+| [[File:M84 Nora A.jpg|120px]]
+| Vendosur në Brigadën e Artilerisë së Përzier.
+|-
+| [[:en:130 mm towed field gun M1954 (M-46)|M-46]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Obusi|Obus 130 mm]]
+| 36
+| [[File:M46_155mm_02.jpg|120px]]
+| Vendosur në Brigadën e Artilerisë së Përzier.
+Konvertim kalibri në 155&nbsp;mm i kryer në një numër të caktuar copash.
+|-
+| [[:en:122 mm howitzer 2A18 (D-30)|D-30J]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Obusi|Obus 122 mm]]
+| 80
+| [[File:Хаубица Д-30 122мм.jpg|120px]]
+| Vendosur në Brigadën e Artilerisë së Përzier.<ref>The Military Balance 2020, f. 212–214.</ref>
+|-
+|[[:en:76 mm divisional gun M1942 (ZiS-3)|ZiS-3]]
+|{{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+|[[:en:Field gun|Top fushor]]
+|18
+|[[File:ZIS-3 Garda VS 01.jpg|120x120px]]
+|Vendosur në Batalionin e Nderit të Gardës.
+|-
+! style="align: center;" colspan="7"  | Artileri raketore
+|-
+| [[:en:PULS (multiple rocket launcher)|PULS]]
+| {{ISR}}
+| [[Raketëhedhësi i shumëfishtë|Raketëhedhës i shumëfishtë 370mm/306mm/160mm/122mm]]
+| 8
+| [[File:PULS_MLRS_Landmacht_2.jpg|120px]]
+| Vendosur në Brigadën e Artilerisë së Përzier.<ref>{{cite web | title=[Analiza] Šta je sve od novih i modernizovanih sistema naoružanja viđeno na vojnoj paradi ''Snaga jedinstva'' | url=https://tangosix.rs/2025/21/09/analiza-sta-je-sve-od-novih-i-modernizovanih-sistema-naoruzanja-vidjeno-na-vojnoj-paradi-snaga-jedinstva/ |language=sr}}</ref><ref name="Snaga jedinstva - vojna parada"/>
+
+I armatosur me raketa balistike taktike [[:en:Predator Hawk|Predator Hawk]] (kalibri 370&nbsp;mm dhe rreze veprimi 300&nbsp;km), si dhe raketa artilerie [[:en:EXTRA artillery rocket system|EXTRA]] dhe [[:en:ACCULAR|ACCULAR]] (kalibrat 306&nbsp;mm dhe 160&nbsp;mm, përkatësisht; rreze veprimi 150&nbsp;km dhe 40&nbsp;km, përkatësisht).
+|-
+| [[:en:M-87 Orkan|M-87 Orkan]]
+| {{YUG}}
+| [[Raketëhedhësi i shumëfishtë|Raketëhedhës i shumëfishtë 262 mm]]
+| 4
+| [[File:Orkan_II_1.jpg|frameless|120px]]
+| Vendosur në Brigadën e Artilerisë së Përzier.<ref>[https://www.mod.gov.rs/lat/19045/obuka-vojnika-na-raketnim-sistemima-artiljerije-19045 Obuka vojnika na raketnim sistemima artiljerije], Ministarstvo odbrane Republike Srbije (serbisht)</ref>
+|-
+| [[:en:RM-70 multiple rocket launcher|RM-70 Vampire]]
+| {{CZE}}
+| [[Raketëhedhësi i shumëfishtë|Raketëhedhës i shumëfishtë 122 mm]]
+| 30
+| [[File:UA_RM-70_Vampire_01.jpg|120x120px]]
+| Vendosur në batalionet e artilerisë me raketëhedhës të shumëfishtë të katër brigadave të Ushtrisë.
+Variant i modernizuar i RM-70-ës, me kabinë të blinduar dhe kontroll digjital zjarri.<ref>[https://tangosix.rs/2026/28/06/poslednja-vest-vucic-nabavljamo-pvo-sistem-hq-9-i-kineske-lovce/ Poslednja vest: Vučić – nabavljamo PVO sistem HQ-9 i kineske lovce], Tango Six (serbisht)</ref>
+|-
+| [[:en:M-18 Oganj|M-18 Oganj]]
+| {{SRB}}
+| [[Raketëhedhësi i shumëfishtë|Raketëhedhës i shumëfishtë 175mm/128mm/122mm]]
+| 8+
+| [[File:Zastava_2024_-_M-18_Oganj_-_01.jpg|120px]]
+| Vendosur në batalionet e artilerisë me raketëhedhës të shumëfishtë të katër brigadave të Ushtrisë.
+I armatosur me raketën e drejtuar [[:en:ALAS (missile)|ALAS]] (kalibri 175&nbsp;mm dhe rreze veprimi 25&nbsp;km) dhe raketën Oganj (kalibri 128&nbsp;mm dhe rreze veprimi 40&nbsp;km), i pajisur me elektronikë digjitale (sistem udhëheqjeje të kompjuterizuar, radio të re digjitale dhe navigim inercial).<ref>[https://www.mod.gov.rs/lat/22006/brzina-preciznost-i-razorna-moc-modernizovanog-ognja22006 Brzina, preciznost i razorna moć modernizovanog Ognja], Ministarstvo odbrane Republike Srbije (serbisht)</ref><ref>[https://tangosix.rs/2025/29/09/partner-edepro-raketa-alas-xx-usla-u-naoruzanje-vojske-srbije/ Partner Edepro: raketa ALAS XX ušla u naoružanje Vojske Srbije], Tango Six (serbisht)</ref><ref>{{cite web|author=Petar Vojinović|date=2023-02-21|title=[IDEX 2023] Srbija od domaće industrije kupuje 200 oruđa u vrednosti od 300 miliona evra, Jugoimport investira u Utvu, PR-DC potpisao sporazum o saradnji sa ćerkom kompanijom Edža|language=sr|website=tangosix.rs|url=https://tangosix.rs/2023/21/02/idex-2023-srbija-od-domace-industrije-kupuje-200-orudja-u-vrednosti-od-300-miliona-evra-jugoimport-investira-u-utvu-pr-dc-potpisao-sporazum-o-saradnji-sa-cerkom-kompanijom-edza/|access-date=2025-10-01}}</ref>
+|-
+| [[:en:M-77 Oganj|M-77 Oganj]]<hr>[[:en:M-77 Oganj#Modernization|M-17D Oganj]]
+| {{YUG}}<hr>{{SRB}}
+| [[Raketëhedhësi i shumëfishtë|Raketëhedhës i shumëfishtë 128 mm]]
+| 30<hr>30
+| [[File:Modernizovani_Ognjevi_-_Odbrana_slobode_2019_Niš_2.jpg|120px]]
+| Versioni bazë, M77, i vendosur në batalionet e artilerisë me raketëhedhës të shumëfishtë të katër brigadave të Ushtrisë, po i nënshtrohet modernizimit serik në variantin M-17D.
+
+Varianti i modernizuar përfshin sistem të ri kontrolli zjarri, sistem navigimi inercial, dhe GPRS.<ref>{{Cite web |title=Trinaesti divizion jedna od najbolje opremljenih jedinica naše artiljerije |url=http://www.mod.gov.rs/lat/tekst/17066/trinaesti-divizion-jedna-od-najbolje-opremljenih-jedinica-nase-artiljerije-17066 |access-date=2024-01-06 |website=Ministarstvo odbrane Republike Srbije |language=sr}}</ref><ref name=zb/><ref>{{cite web|author=Petar Vojinović|date=2023-02-21|title=[IDEX 2023] Srbija od domaće industrije kupuje 200 oruđa u vrednosti od 300 miliona evra, Jugoimport investira u Utvu, PR-DC potpisao sporazum o saradnji sa ćerkom kompanijom Edža|language=sr|website=tangosix.rs|url=https://tangosix.rs/2023/21/02/idex-2023-srbija-od-domace-industrije-kupuje-200-orudja-u-vrednosti-od-300-miliona-evra-jugoimport-investira-u-utvu-pr-dc-potpisao-sporazum-o-saradnji-sa-cerkom-kompanijom-edza/|access-date=2025-10-01}}</ref>
+|-
+| [[:en:M-63 Plamen|M-94 Plamen S]]
+| {{SRB}}
+| [[Raketëhedhësi i shumëfishtë|Raketëhedhës i shumëfishtë 128 mm]]
+| 18
+| [[File:M94_PlamenS.jpg|120px]]
+| Vendosur në batalionet e artilerisë me raketëhedhës të shumëfishtë të katër brigadave të Ushtrisë.<ref>{{Cite web |title=Obuka vojnika na visecevnim lanserima |url=http://www.vs.rs/sr_lat/vesti/E9AE8E1097FC11ED98D60050568F5424/obuka-vojnika-na-visecevnim-lanserima-raketa|access-date=2023-01-19 |website=Sajt Vojske Srbije |language=sr}}</ref>
+
+Variant i modernizuar i [[:en:M-63 Plamen|M-63 Plamen]].<ref>[https://www.mod.gov.rs/lat/19045/obuka-vojnika-na-raketnim-sistemima-artiljerije-19045 Obuka vojnika na raketnim sistemima artiljerije], Ministarstvo odbrane Republike Srbije (serbisht)</ref>
+|-
+! style="align: center;" colspan="7"  | Mortaja
+|-
+| [[:en:M95 mortar|M95]]
+| {{SRB}}
+| [[Mortaja|Mortajë 120&nbsp;mm]]
+| 24
+| [[File:120mm-mozdzierz-01.jpg|120px]]
+| rowspan="4"|Përdoret nga batalionet e këmbësorisë të katër brigadave të Ushtrisë.<ref name="Army Armaments" />
+|-
+| [[:en:M74 light mortar|M74/M75]]
+| {{YUG}}
+| [[Mortaja|Mortajë 120&nbsp;mm]]
+| 57<ref name=":0"/>
+| [[File:Mortar 120 mm M-75 Croatian Army.JPG|120px]]
+|-
+| [[:en:M69 mortar|M69]]
+| {{YUG}}
+| [[Mortaja|Mortajë 82&nbsp;mm]]
+| 106<ref name=":0"/>
+| [[File:Минобацач М69 82мм.jpg|120px]]
+|-
+| [[:en:M57 mortar|M57]]
+| {{YUG}}
+| [[Mortaja|Mortajë 60&nbsp;mm]]
+|
+| [[File:Минобацач_М57_60мм.jpg|frameless|120px]]
+|}
+
+==Armët kundër automjeteve të blinduara==
+{| class="wikitable"
+|-
+! style="text-align: left; width:12%;"|Emri
+! style="text-align: left; width:8%;"|Origjina
+! style="text-align: left; width:18%;"|Lloji
+! style="text-align: left; width:7%;"|Sasia
+! style="text-align: left;width:8%;"|Foto
+! style="text-align: left;width:47%;"|Shënime
+|-
+! style="align: center;" colspan="7" | Lëshues raketash
+|-
+| [[:en:M90 Stršljen|M90 Stršljen]]
+| {{SRB}}
+| [[Raketa e lëshuar nga shpatulla|Lëshues raketash portativ]]
+|
+| [[File:Stršljen_M90.jpg|120px]]
+| rowspan="3"|Përdoret nga batalionet e këmbësorisë të katër brigadave të Ushtrisë.<ref name="Army Armaments" />
+|-
+| [[M80 Zolja]]
+| {{YUG}}
+| [[Raketa e lëshuar nga shpatulla|Lëshues raketash portativ]]
+| 200
+| [[File:Zolja1.jpg|120px]]
+|-
+| [[M79 Osa]]
+| {{YUG}}
+| [[Raketa e lëshuar nga shpatulla|Lëshues raketash portativ]]
+|
+| [[File:M79-OSA.jpg|120px]]
+|}
+==Aviacioni==
+{| class="wikitable"
+|-
+! style="text-align: left; width:12%;"|Emri
+! style="text-align: left; width:8%;"|Origjina
+! style="text-align: left; width:18%;"|Lloji
+! style="text-align: left; width:7%;"|Sasia
+! style="text-align: left;width:8%;"|Foto
+! style="text-align: left;width:47%;"|Shënime
+|-
+! style="align: center;" colspan="7"  | Avionë luftarakë
+|-
+| [[Dassault Rafale|Rafale]]
+| {{FRA}}
+| [[Avioni luftarak shumërolësh|Avion shumërolësh]]
+| 0/12
+| [[File:Rafale - RIAT 2009 (3751416421).jpg|120px]]
+| Do të futet në shërbim në Brigadën e 204-të Ajrore midis viteve 2028 dhe 2030.<ref>{{Cite web |date=2024-08-31 |title=Serbia signed contract to purchase 12 Rafale fighter jets from Dassault Aviation |url=https://www.globaldefensecorp.com/2024/08/31/serbia-signed-contract-to-purchase-12-rafale-fighter-jets-from-dassault-aviation/ |access-date=2024-08-31 |website=Global Defense Corp |language=en}}</ref><ref>{{cite web | url=https://www.avionslegendaires.net/2024/08/actu/en-2028-la-serbie-volera-sur-dassault-aviation-rafale-f4/ | title=En 2028 la Serbie volera sur Dassault Aviation Rafale F4 ! | date=2024-08-30 |language=fr}}</ref>
+Dymbëdhjetë copë (versioni F4) të porositura.
+|-
+| [[:en:MiG-29|MiG-29]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}<br>{{RUS}}
+| [[Avioni luftarak shumërolësh|Avion shumërolësh]]
+| 11
+| [[File:Zastava 2024 - MiG-29 18206 - 01.jpg|120px]]
+| Versioni bazë, MiG-29S, i vendosur në Skuadrilën e 101-të Luftarake të Brigadës së 204-të Ajrore, i është nënshtruar modernizimit serik në variantin MiG-29SM.<ref>{{cite web | url=https://tangosix.rs/2022/03/05/kako-je-lovac-postao-visenamenski-borbeni-avion-detalji-novog-naoruzanja-na-premijeri-modernizovanih-mig-ova-29sm/ | title=Kako je lovac postao višenamenski borbeni avion: Detalji novog naoružanja na premijeri modernizovanih MiG-ova 29SM | date=2022-05-03 |language=sr}}</ref>
+|-
+| [[:en:Soko J-22 Orao|J-22]]
+| {{YUG}} {{SRB}}
+| [[:en:Attack aircraft|Avion sulmues]]
+| 13
+| [[File:Zastava 2024 - NJ-22 Orao 25531 - 01.jpg|120px]]
+| Versioni bazë, NJ-22, i vendosur në Skuadrilën e 241-të Luftarake-Bombarduese të Brigadës së 98-të Ajrore, po i nënshtrohet modernizimit serik në variantin J-22 M1A (katër copë të modernizuara që nga viti 2023).<ref>{{Cite web |last=Banković |first=Živojin |date=2023-10-04 |title=[Partner 2023] Miloradović za Tango Six o trenutnom statusu projekta Orao 2.0: "Modernizovani Orao je u serijskoj proizvodnji, određen broj aviona već je u upotrebi" |url=https://tangosix.rs/2023/04/10/partner-2023-miloradovic-za-tango-six-o-trenutnom-statusu-projekta-orao-2-0-modernizovani-orao-je-u-serijskoj-proizvodnji-odredjen-broj-aviona-vec-je-u-upotrebi/ |access-date=2024-01-06 |website=Tango Six |language=sr}}</ref><ref>{{Cite web |last=Banković |first=Živojin |date=2023-11-23 |title=Nove informacije vezane za osavremenjavanje jurišnih aviona Orao: Serijska modernizacija, obuka pilota, oprema i naoružanje |url=https://tangosix.rs/2023/23/11/nove-informacije-vezane-za-osavremenjavanje-jurisnih-aviona-orao-serijska-modernizacija-obuka-pilota-oprema-i-naoruzanje/ |access-date=2024-01-06 |website=Tango Six |language=sr}}</ref>
+|-
+! style="align: center;" colspan="7"  | Avionë transporti
+|-
+| [[:en:EADS CASA C-295|C-295]]
+| {{ESP}}
+| [[Avioni ushtarak i transportit|Avion transporti]]
+| 2
+|[[File:Zastava 2024 - C-295 29501 - 02.jpg|120px]]
+| rowspan="2"|Vendosur në Skuadrilën e 138-të të Transportit të Brigadës së 204-të Ajrore.
+|-
+|[[:en:Antonov An-26|An-26]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Avioni ushtarak i transportit|Avion transporti]]
+| 1
+|[[File:Antonov_An-26_of_SAF.JPG|120px]]
+|-
+! style="align: center;" colspan="7" | Avionë zbulimi
+|-
+| [[:en:Piper PA-34 Seneca|PA-34]]
+| {{USA}}
+| [[Fotografia ajrore|Avion vëzhgimi fotogrametrik]]
+| 1
+| [[File:Piper_PA-34-220T_Seneca_V_YU-VGI_RV_i_PVO_VS.jpg|120px]]
+| Vendosur në Skuadrilën e 138-të të Transportit të Brigadës së 204-të Ajrore.
+|-
+! style="align: center;" colspan="7"   | Avionë stërvitjeje
+|-
+| [[:en:MiG-29|MiG-29UB]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| Avion stërvitjeje konvertimi
+| 3
+| [[File:Mig-29_on_landing.jpg|120px]]
+| rowspan="3"|Vendosur në Skuadrilën e 252-të të Stërvitjes së Brigadës së 204-të Ajrore.
+|-
+| [[:en:Soko G-4 Super Galeb|G-4]]
+| {{YUG}}
+| Avion stërvitjeje me reaktor
+| 4
+| [[File:Zastava 2024 - G-4 Super Galeb 23627 - 01.jpg|120px]]
+|-
+| [[:en:Utva Lasta|Lasta 95]]
+| {{SRB}}
+| Avion stërvitjeje bazë
+| 14
+| [[File:Zastava 2024 - Lasta 54011 - 03.jpg|120px]]
+|-
+! style="align: center;" colspan="7" | Helikopterë
+|-
+| [[Mil Mi-24|Mi-35]]
+| {{RUS}}
+| [[:en:Attack helicopter|Helikopter sulmues]]
+| 15+
+| [[File:Mi-35 Serbian Air Force.jpg|120px]]
+| Vendosur në Skuadrilën e 714-të të Helikopterëve Kundër-Blindazh të Brigadës së 98-të Ajrore.
+
+Katër copë në versionin Mi-35M (katër të tjera të porositura, dërgesa e shtyrë për shkak të sanksioneve ndaj Rusisë) dhe njëmbëdhjetë copë në versionin Mi-35P.
+|-
+| [[Mil Mi-17|Mi-17]]
+| {{RUS}}
+| [[Helikopteri i përgjithshëm|Helikopter i përgjithshëm]]
+| 5+
+| [[File:Zastava 2024 - Mi-17V5 12494 - 01.jpg|120px]]
+| Vendosur në Skuadrilën e Përzier të Helikopterëve 890 të Brigadës së 204-të Ajrore.
+Tri të tjera të porositura, dërgesa e shtyrë për shkak të sanksioneve ndaj Rusisë.<ref name=":1">{{Cite web |last=Kostić |first=Vojkan |date=2022-04-18 |title=Avijacije Balkana: održavanje naoružanja ruskog porekla postaje nemoguća misija? |url=https://www.balkansec.net/post/avijacije-balkana-održavanje-naoružanja-ruskog-porekla-postaje-nemoguća-misija |access-date=2022-04-20 |website=Balkansec.net |language=bs}}</ref>
+|-
+| [[Eurocopter EC145|H145M]]
+| {{GER}}
+| [[Helikopteri i përgjithshëm|Helikopter i përgjithshëm]]
+| 15
+| [[File: Sloboda 2019 - 03 - H-145M 001.jpg|120x120px]]
+| Vendosur në Skuadrilën e Përzier të Helikopterëve 119 të Brigadës së 98-të Ajrore.
+Dhjetë copë të armatosura (shtatë me sistemin e armëve HForce 3 dhe tri me sistemin HForce 1), pesë të paarmatosura.<ref>{{cite press release|url=https://tangosix.rs/2022/05/07/poslednja-vest-prva-fotografija-prvog-od-10-novih-helikoptera-h145m-namenjenog-rv-i-pvo-vojske-srbije/|title=Prva fotografija prvog od 10 novih helikoptera H145M namenjenog RV i PVO Vojske Srbije|publisher=Tango Six|access-date=2022-07-03|date=2022-07-04|language=sr}}</ref><ref name="tangosix.rs">{{cite web | url=https://tangosix.rs/2023/23/11/poslednja-vest-na-batajnici-prikazani-helikopteri-mi-35p-nabavljeni-sa-kipra-kupljena-22-talesova-radara-najavljena-kupovina-jos-erbasovih-helikoptera/ | title=[Poslednja Vest] Na Batajnici prikazani helikopteri Mi-35P nabavljeni sa Kipra, kupljena 22 Talesova radara, najavljena kupovina još Erbasovih helikoptera | date=2023-11-23 |language=sr}}</ref>
+|-
+| [[Aérospatiale Gazelle#Variants|SA341H]]
+| {{FRA}}
+| [[:en:Military helicopter#Observation|Helikopter vëzhgimi]]
+| 25
+| [[File:SA341_Gazelle_GAMA_12803_V_I_PVO_VS,_september_02,_2012.jpg|120px]]
+| Vendosur në Skuadrilën e 714-të të Helikopterëve Kundër-Blindazh (versioni i armatosur me raketa kundër-blindazh 9K11 Malyutka) dhe në Skuadrilën e Përzier të Helikopterëve 119 (versioni i paarmatosur) të Brigadës së 98-të Ajrore.<ref name="World Air Forces 2024">{{cite web |last = Hoyle |first = Craig |url= https://www.flightglobal.com/download?ac=98881|title = World Air Forces 2024|publisher= [[:en:FlightGlobal|FlightGlobal]] |year= 2023 |access-date=2024-03-27 |language=en}}</ref>
+|-
+! style="align: center;" colspan="7"  | Automjete ajrore pa pilot
+|-
+| [[Elbit Hermes 900|Hermes 900]]
+| {{ISR}}
+| [[Automjeti ajror luftarak pa pilot|Luftarak]] / [[Automjeti ajror pa pilot|Dron zbulimi]]
+| 3
+| [[File:Elbit_Systems_900_take_off.jpg|120px]]
+| rowspan="4"|Vendosur në Skuadrilën e 353-të të Zbulimit të Brigadës së 98-të Ajrore.
+|-
+| CH-95
+| {{CHN}}
+| [[Automjeti ajror luftarak pa pilot|Dron luftarak]]
+| 10
+| [[File:Zastava 2024 - CH-95 - 01.jpg|120px]]
+|-
+| [[:en:CASC Rainbow#CH-92|CH-92]]
+| {{CHN}}
+| [[Automjeti ajror luftarak pa pilot|Dron luftarak]]
+| 6
+| [[File:CH-92A_Serbia.jpg|120px]]
+|-
+| [[:en:Pegaz|Pegaz]]
+| {{SRB}}
+| [[Automjeti ajror pa pilot|Dron luftarak]]
+| 12+
+| [[File:Zastava 2024 - Pegaz 82018 - 01.jpg|120px]]
+|-
+| Skylark 3
+| {{ISR}}
+| [[Automjeti ajror pa pilot|Dron zbulimi]]
+|
+| [[File:Elbit_Skylark.jpg|120px]]
+| rowspan="3"|Vendosur në batalionet e këmbësorisë të katër brigadave të Ushtrisë.
+|-
+| [[:en:Aeronautics Defense Orbiter|Orbiter]]
+| {{ISR}}
+| [[Automjeti ajror pa pilot|Dron zbulimi]]
+| 10
+| [[File:Aeronautics_Orbiter_UAV.jpg|120px]]
+|-
+| [[:en:Vrabac (drone)|Vrabac]]
+| {{SRB}}
+| [[Automjeti ajror pa pilot|Dron zbulimi]]
+| 50+
+| [[File: BPL Vrabac VS 01.jpg |120px]]
+|-
+| SkyStriker
+| {{ISR}}
+| [[Municioni lëvizës|Municion lëvizës]]
+|
+| [[File:Elbit_Systems_SkyStriker_SIAF-2022.jpg|120px]]
+| rowspan="6" |Vendosur në Brigadën e Artilerisë së Përzier.
+|-
+|Shadow 50
+|{{UAE}}
+|[[Municioni lëvizës|Municion lëvizës]]
+|
+|[[File:Shadow 50 loitering munition.jpg|120px]]
+|-
+|Shadow 25
+|{{UAE}}
+|[[Municioni lëvizës|Municion lëvizës]]
+|
+|[[File:EDGE Shadow 25 loitering munition.jpg|120px]]
+|-
+|SM2
+|{{UAE}}
+|[[Municioni lëvizës|Municion lëvizës]]
+|
+|[[File:Edge SM2 Kamikaze drone Serbian Army.jpg|120px]]
+|-
+|[[:en:Gavran 145|Gavran 145]]
+|{{SRB}}
+|[[Municioni lëvizës|Municion lëvizës]]
+|
+|[[File:Gavran_145.jpg|120px]]
+|-
+|[[:en:Osica (drone)|Osica]]
+|{{SRB}}
+|[[Municioni lëvizës|Municion lëvizës]]
+|
+|
+|-
+| Lanius-X
+| {{ISR}}
+| [[Municioni lëvizës|Municion lëvizës]]
+|
+|
+| Vendosur në njësitë e forcave speciale (Brigada e 72-të për Operacione Speciale dhe Brigada e 63-të Parashutiste).
+|-
+| [[:en:Komarac|Komarac]]
+| {{SRB}}
+| [[Municioni lëvizës|Municion lëvizës]]
+| 5.000+
+|
+| rowspan="7" |Vendosur në batalionet e këmbësorisë të katër brigadave të Ushtrisë.<ref name="Banković">{{Cite web |last=Banković |first=Živojin |date=2024-01-30 |title=Vučić: Blizu smo kompletiranja tri baterije FK-3, Repelent je u našim rukama, nabavljen je kineski PVO sistem HQ-17 |url=https://tangosix.rs/2024/30/01/vucic-blizu-smo-kompletiranja-tri-baterije-fk-3-repelent-je-u-nasim-rukama-nabavljen-je-kineski-pvo-sistem-hq-17/ |access-date=2024-01-30 |website=Tango Six |language=sr}}</ref><ref name="novosti.rs">{{cite web | url=https://www.novosti.rs/vesti/politika/1327674/svi-hoce-kupe-lazara-3-nora-nasa-velika-prednost-vucic-prikazu-naoruzanja-ako-nemate-jaku-vojsku-necete-imati-drzavu | title="Svi Hoće Da Kupe Lazara 3, Nora Je Naša Velika Prednost" Vučić na prikazu naoružanja: Ako nemate jaku vojsku, nećete imati ni državu | work=Novosti |language=sr}}</ref>
+|-
+|  AR-100C
+| {{GER}}
+| [[:en:Multirotor|Multirotor]]
+| 60
+| [[File:ILA_Berlin_2012_PD_349.JPG|120px]]
+|-
+| [[:en:DJI Matrice|DJI Matrice 350]]
+| {{CHN}}
+| [[:en:Multirotor|Multirotor]]
+| 38
+| [[File:2025-07-10-Waldbrandübung-3652.jpg|120px]]
+|-
+| DJI Matrice 30
+| {{CHN}}
+| [[:en:Multirotor|Multirotor]]
+| 50
+| [[File:DJI_M30T_RTK_Matrice_30T_(FA34A9EFLE)_(11-16-2024).jpg|120px]]
+|-
+| DJI Mini 3 Pro
+| {{CHN}}
+| [[:en:Multirotor|Multirotor]]
+| 60
+| [[File:DJI MT3M3VD Mini 3 Pro (2-3-2023).jpg|120px]]
+|-
+| DJI Mavic 3
+| {{CHN}}
+| [[:en:Multirotor|Multirotor]]
+| 90
+| [[File:DJI_-_Drohne_Mavic_3.JPG|120px]]
+|-
+| IKA-20
+| {{SRB}}
+|[[:en:Multirotor|Multirotor]]
+| 50+
+| [[File:IKA-20.jpg|120px]]
+|}
+==Mbrojtja ajrore==
+{| class="wikitable"
+|-
+! style="text-align: left; width:12%;"|Emri
+! style="text-align: left; width:8%;"|Origjina
+! style="text-align: left; width:18%;"|Lloji
+! style="text-align: left; width:7%;"|Sasia
+! style="text-align: left;width:8%;"|Foto
+! style="text-align: left;width:47%;"|Shënime
+|-
+! colspan="6" |Sisteme raketash tokë-ajër
+|-
+| [[:en:HQ-9|HQ-9]]
+| {{CHN}}
+| [[Raketa tokë-ajër|Sistem raketor tokë-ajër me rreze të gjatë veprimi]]
+| e porositur<ref>[https://militarywatchmagazine.com/article/serbia-europe-longest-ranged-air-defence-hq9 Serbia: Europe's Longest Ranged Air Defence], Military Watch Magazine (anglisht)</ref>
+| [[File:HQ-9 Surface-to-air missiles 20170919.jpg|120x120px]]
+| Do të futet në shërbim në Brigadën e 250-të Raketore të Mbrojtjes Ajrore.
+
+Do të përdoret versioni HQ-9BE i sistemit (rreze veprimi 260&nbsp;km).
+|-
+| [[:en:HQ-22|HQ-22]]
+| {{CHN}}
+| [[Raketa tokë-ajër|Sistem raketor tokë-ajër me rreze mesatare veprimi]]
+| 4 bateri<ref>[https://www.slobodnaevropa.org/a/kinesko-oruzje-srbija-nabavke/33624779.html Kinesko oružje: Srbija - nabavke], Radio Slobodna Evropa (serbisht)</ref>
+| [[File:Zastava 2024 - FK-3 - 03.jpg|frameless|134x134px]]
+| Vendosur në Brigadën e 250-të Raketore të Mbrojtjes Ajrore.<ref>[https://thedefensepost.com/2025/01/08/serbia-china-air-defense/ Serbia China Air Defense], The Defense Post (anglisht)</ref>
+Përdoret versioni FK-3 i sistemit (rreze veprimi 100&nbsp;km).
+|-
+| [[:en:HQ-17|HQ-17]]
+| {{CHN}}
+| [[Raketa tokë-ajër|Sistem raketor tokë-ajër me rreze të shkurtër veprimi]]
+| 2 bateri<ref>[https://www.politika.rs/scc/clanak/719798/intenzivno-se-spremamo-za-prijem-rafala Intenzivno se spremamo za prijem Rafala], Politika (serbisht)</ref>
+| [[File:Zastava 2024 - HQ-17AE - 02.jpg|120x120px]]
+| Vendosur në Brigadën e 250-të Raketore të Mbrojtjes Ajrore.<ref>{{cite web | url=https://tangosix.rs/2024/12/06/rv-i-pvo-vojske-srbije-izvelo-vezbu-uz-primenu-elektronskog-ometanja-divizion-u-kragujevcu-najverovatnije-dobio-sistem-fk-3-kao-i-hq-17ae/ | title=RV i PVO Vojske Srbije izvelo vežbu uz primenu elektronskog ometanja: Divizion u Kragujevcu najverovatnije dobio sistem FK-3 kao i HQ-17AE | date=2024-06-12 |language=sr}}</ref><ref>{{cite web | url=https://www.sd.rs/vesti/naoruzanje/nova-isporuka-sistema-hq-17ae-vojska-srbije-sve-mocnija-i-mocnija-video-2024-12-30 | title=Nova Isporuka Sistema HQ-17AE: Vojska Srbije sve moćnija i moćnija (Video) - Srbija danas | date=2024-12-30 |language=sr}}</ref>
+
+Përdoret versioni HQ-17AE i sistemit.
+|-
+| [[Pantsir missile system|Pantsir]]
+| {{RUS}}
+| [[Raketa tokë-ajër|Sistem raketor tokë-ajër me rreze të shkurtër veprimi]]
+| 1 bateri
+| [[File:Granit_2023_-_97_-_Pancir-S1.jpg|120x120px]]
+| Vendosur në Brigadën e 250-të Raketore të Mbrojtjes Ajrore.
+Dy bateri Pantsir-S1M të porositura, dërgesa e shtyrë për shkak të sanksioneve ndaj Rusisë.<ref name=":0" /><ref>{{cite web | url=https://www.sd.rs/sr/vesti/naoruzanje/srbiji-isporucen-sistemi-pvo-pancir-s1m-pogledajte-razornu-moc-novog-oruzja-video-2024-12-31 | title=Србији испоручен системи ПВО Панцир С1М: Погледајте разорну моћ новог оружја (ВИДЕО) - Србија данас | date=2024-12-31 |language=sr}}</ref>
+|-
+| [[:en:2K12 Kub|2K12 Kub]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Raketa tokë-ajër|Sistem raketor tokë-ajër me rreze të shkurtër veprimi]]
+| 3 bateri
+| [[File:2P25_VS_2.jpg|120px]]
+| Vendosur në Brigadën e 250-të Raketore të Mbrojtjes Ajrore.<ref name=":0" />
+
+Modernizimi (versioni Kub M2) u krye midis viteve 2016 dhe 2018.
+|-
+| [[:en:S-125 Neva/Pechora|S-125 Neva]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Raketa tokë-ajër|Sistem raketor tokë-ajër me rreze të shkurtër veprimi]]
+| 5 bateri
+| [[File:S125_Neva_250_brPVO_VS,_september_01,_2012.jpg|120px]]
+| Vendosur në Brigadën e 250-të Raketore të Mbrojtjes Ajrore.<ref name=":0" /><ref>{{cite web|url=http://www.vs.rs/index.php?content=ba8508ec-0221-102c-a202-2f44c9235232|title=Војска Србије – Наоружање Ваздухопловства и противваздухопловне одбране – Ракетни системи – Ракетни систем ПВО С-125М НЕВА-М|website=Vojska Srbije|access-date=2016-11-20|archive-url=https://web.archive.org/web/20111016133106/http://vs.rs/index.php?content=ba8508ec-0221-102c-a202-2f44c9235232|archive-date=2011-10-16|url-status=dead|language=sr}}</ref>
+
+Modernizimi (versioni Neva M1T) u krye midis viteve 2013 dhe 2015.
+|-
+| [[PASARS-16]]
+| {{SRB}}
+| [[Raketa tokë-ajër|Sistem raketor tokë-ajër me rreze të shkurtër veprimi]]<br />[[Lufta kundër-ajrore|Top kundërajror]] [[:en:Autocannon|automatik]]
+| 5 bateri
+| [[File:PASARS_16_-_VS_-_03.jpg|120px]]
+| Vendosur në batalionet e artilerisë së mbrojtjes ajrore të katër brigadave të Ushtrisë.
+Sistem hibrid i armatosur me topin kundërajror [[:en:Bofors 40 mm Automatic Gun L/70|Bofors L/70]] 40&nbsp;mm, si dhe, në varësi të versionit, me raketa franceze [[Mistral (missile)|Mistral 3]] ose 9K32 Strela-2M/9K38 Igla.<ref>{{cite web | url=https://tangosix.rs/2021/28/10/partner-2021-novi-i-unapredjeni-pvo-sistemi/ | title=[Partner 2021] Novi i unapređeni PVO sistemi | date=2021-10-28 |language=sr}}</ref><ref name="Banković"/>
+|-
+| [[:en:9K35 Strela-10|9K35 Strela-10]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Raketa tokë-ajër|Sistem raketor tokë-ajër me rreze të shkurtër veprimi]]
+| 1 bateri
+| [[File:Granit 2023 - 91 - Strela-10.jpg|120px]]
+| Vendosur në batalionet e artilerisë së mbrojtjes ajrore të katër brigadave të Ushtrisë.
+
+Modernizimi (versioni 9K35 Strela-10M) u krye midis viteve 2020 dhe 2025.<ref>{{cite web|url=http://www.vs.rs/index.php?content=a5d46cc0-0335-102c-8859-e480d5acdc4a|title=Војска Србије – Наоружање Копнене војске – Средства за противваздухопловна дејства – Ракетни систем ПВД СТРЕЛА-10М|website=Vojska Srbije|access-date=2016-11-20|archive-url=https://web.archive.org/web/20141126132331/http://www.vs.rs/index.php?content=a5d46cc0-0335-102c-8859-e480d5acdc4a|archive-date=2014-11-26|url-status=dead|language=sr}}</ref><ref>{{cite web|url=http://www.srpskioklop.paluba.info/m90/opis.html|title=Sistemi PVO 9K35 Strela 10M i Sava Strela 10M2J|access-date=2014-12-24|language=sr}}</ref>
+|-
+| [[:en:9K31 Strela-1|9K31 Strela-1]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Raketa tokë-ajër|Sistem raketor tokë-ajër me rreze të shkurtër veprimi]]
+| 4 bateri
+| [[File:Sa13 Serbia.jpg|120px]]
+| Vendosur në batalionet e artilerisë së mbrojtjes ajrore të brigadave të 2-të, 3-të dhe 4-t të Ushtrisë.<ref>{{cite web|url=http://i1228.photobucket.com/albums/ee441/ujkozavlanje/parada/Picture444.jpg |title=Photo |website=i1228.photobucket.com |format=JPG}}</ref>
+|-
+! colspan="6" style="align: center;" | MANPADS
+|-
+| [[Mistral (missile)|Mistral 3]]
+| {{FRA}}
+| [[MANPADS]]
+| 18
+| [[File:Mistral 3 Serbian Army.jpg|120px]]
+| rowspan="3"|Përdoret nga batalionet e këmbësorisë të katër brigadave të Ushtrisë.<ref>{{cite web|author=Živojin Banković|website=tangosix.rs|date=2024-01-30|title=Vučić: Blizu smo kompletiranja tri baterije FK-3, Repelent je u našim rukama, nabavljen je kineski PVO sistem HQ-17|language=sr|url=https://tangosix.rs/2024/30/01/vucic-blizu-smo-kompletiranja-tri-baterije-fk-3-repelent-je-u-nasim-rukama-nabavljen-je-kineski-pvo-sistem-hq-17/|access-date=2025-11-27}}</ref><ref>{{cite web | url=https://tangosix.rs/2024/01/11/prva-javna-potvrda-mistrali-3-u-jedinicima-kopnene-vojske/ | title=Prva javna potvrda: Mistrali 3+ u jedinicima Kopnene vojske | date=2024-11 |language=sr}}</ref>
+|-
+| [[:en:9K38 Igla|9K38 Igla]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[MANPADS]]
+| 54
+| [[File:Igla Vojska Srbije.jpg|120px]]
+|-
+| [[:en:9K32 Strela-2|9K32 Strela-2]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[MANPADS]]
+|
+| [[File:Strela Serbian Army.jpg|120px]]
+|}
+
+==Radarët==
+{| class="wikitable"
+|-
+! style="text-align: left; width:12%;"|Emri
+! style="text-align: left; width:8%;"|Origjina
+! style="text-align: left; width:18%;"|Lloji
+! style="text-align: left; width:7%;"|Sasia
+! style="text-align: left;width:8%;"|Foto
+! style="text-align: left;width:47%;"|Shënime
+|-
+! colspan="6" | 3D
+|-
+| [[:en:Ground Master 400|GM400α]]
+| {{FRA}}
+| Vëzhgim me rreze të gjatë
+| 4
+| [[File:Zastava_2024_-_GM_400_-_01.jpg|frameless|120x120px]]
+| rowspan="3"| Vendosur në Brigadën e 126-të të Vëzhgimit Ajror, Paralajmërimit të Hershëm dhe Udhëheqjes.<ref name="tangosix.rs"/><ref>{{Cite web |last=tim |first=Urednički |date=2023-12-30 |title=Novi radar Vojske Srbije vidi do Trsta, Beča i Ukrajine |url=https://www.balkansec.net/post/novi-radar-vojske-srbije-vidi-do-rijeke-be%C4%8Da-i-ukrajine |access-date=2024-01-06 |website=Balkansec.net |language=bs}}</ref><ref>{{Cite web |title=Obuka na novim radarima u Ratnom vazduhoplovstvu i PVO {{!}} Vojska Srbije |url=https://www.vs.rs/sr_lat/vesti/8C37DED6A33D11EE9E880050568F5424/obuka-na-novim-radarima-u-ratnom-vazduhoplovstvu-i-pvo |access-date=2024-01-06 |website=www.vs.rs |language=sr}}</ref>
+|-
+| [[:en:Ground Master 200|GM200]]
+| {{FRA}}
+| Vëzhgim me rreze mesatare
+| 6
+| [[File:Zastava_2024_-_GM_200_-_01.jpg|frameless|129x129px]]
+|-
+| GS-40
+| {{FRA}}
+| Vëzhgim dhe kapje objektivi me rreze të shkurtër
+| 12
+|
+|-
+! style="align: center;" colspan="7"  | Komponentë të sistemeve raketore tokë-ajër
+|-
+|TTDR
+|{{CHN}}
+|Vëzhgim me rreze të gjatë
+|1
+|[[File:TTDR Radar HQ22 Serbian Army.jpg|120px]]
+| rowspan="3"|Vendosur në Brigadën e 250-të Raketore të Mbrojtjes Ajrore si pjesë e sistemit [[:en:HQ-22|HQ-22]].
+|-
+| H-200
+| {{CHN}}
+| Vëzhgim dhe kapje objektivi me rreze të gjatë
+| 4
+| [[File:Zastava_2024_-_H-200_radar_FK-3_-_01.jpg|120px]]
+|-
+| JSG-100
+| {{CHN}}
+| Vëzhgim dhe kapje objektivi me rreze të gjatë
+| 4
+| [[File:Granit 2023 - 103 - JSG-100.jpg|120px]]
+|-
+| [[:en:P-18 radar|P-18]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| Vëzhgim dhe kapje objektivi me rreze mesatare
+| 5
+| [[File:P18_VS.jpg|120px]]
+| rowspan="2"| Vendosur në Brigadën e 250-të Raketore të Mbrojtjes Ajrore si pjesë e sistemit [[:en:S-125 Neva/Pechora|S-125 Neva]].<ref>{{cite web |url=http://www.airspacemag.com/military-aviation/unconventional-weapon-23371597/?no-ist |title=Unconventional Weapon |access-date=2008-12-29 |date=2008-01-01 |publisher=Air & Space Magazine |archive-url=https://web.archive.org/web/20161114085617/http://www.airspacemag.com/military-aviation/unconventional-weapon-23371597/?no-ist |archive-date=2016-11-14 |url-status=live |language=en}}</ref>
+|-
+| [[:en:P-12 radar|P-12]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| Matje lartësie
+| 5
+| [[File:P-12 VS 1.jpg|120px]]
+|-
+| [[:en:P-40 radar|P-40]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| Vëzhgim dhe kapje objektivi me rreze mesatare
+| 3
+| [[File:P40 Mečka 2.jpg|120px]]
+| rowspan="2"|Vendosur në Brigadën e 250-të Raketore të Mbrojtjes Ajrore si pjesë e sistemit [[:en:2K12 Kub|2K12 Kub]].
+|-
+| PRV-16B
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| Matje lartësie
+| 3
+| [[File:Granit_2023_-_110_-_radar_PRV-16B.jpg|120px]]
+|-
+| RPS-42
+| {{ISR}}
+|Vëzhgim dhe kapje objektivi me rreze të shkurtër
+| 60+
+|
+| rowspan="2"| Vendosur në batalionet e artilerisë së mbrojtjes ajrore të katër brigadave të Ushtrisë si pjesë e sistemit [[PASARS-16]].
+|-
+| [[:en:Giraffe radar|Giraffe]]
+| {{SWE}}
+| [[:en:Early-warning radar|Paralajmërim i hershëm]]
+| 18
+| [[File:Granit_2023_-_55_-_M-85_Žirafa.jpg|120px]]
+|-
+|}
+==Lufta elektronike==
+{| class="wikitable"
+|-
+! style="text-align: left; width:12%;" |Emri
+! style="text-align: left; width:8%;" |Origjina
+! style="text-align: left; width:18%;" |Lloji
+! style="text-align: left; width:7%;" |Sasia
+! style="text-align: left;width:8%;" |Foto
+! style="text-align: left;width:47%;" |Shënime
+|-
+|[[:en:Krasukha|Krasukha-4]]
+|{{RUS}}
+|[[Lufta elektronike|Sistem lufte elektronike]]
+|3
+| [[File:1RL257E_Krasukha-4_Army-2022_2022-08-20_2459.jpg|120px]]
+|rowspan="6"|Vendosur në Qendrën e 224-të për Veprim Elektronik.<ref>{{Cite web |title=Snaga jedinstva - vojna parada |url=https://www.youtube.com/watch?v=hSLCHmAA7DM&t=5043s |website=RTS Sajt - Zvanični kanal |language=sr}}</ref>
+|-
+|[[:en:Krasukha|Krasukha-2]]
+|{{RUS}}
+|[[Lufta elektronike|Sistem lufte elektronike]]
+|1
+| [[File:Krasukha-2_(Красуха-2)_Unloaded.jpg|120px]]
+|-
+|Moskva-1
+|{{RUS}}
+|[[Lufta elektronike|Sistem lufte elektronike]]
+|3
+|[[File:MAKS2015part6-37.jpg|120px]]
+|-
+| [[:en:Repellent-1|Repellent-1]]
+| {{RUS}}
+| Sistem kundër-dronësh
+|
+| [[File:Zastava 2024 - Krasuha - 01.jpg|120px]]
+|-
+|Kobac-1PR
+|{{SRB}}
+|Sistem kundër-dronësh
+|
+|[[File:BPV_Kobac.jpg|120px]]
+|-
+|RG Vera
+|{{SRB}}
+|[[:en:Goniometer|Goniometër radio]]
+|
+|[[File:Vera goniometer.jpg|120px]]
+|}
+
+==Anijet lumore==
+{| class="wikitable"
+|-
+! style="text-align: left; width:12%;"|Emri
+! style="text-align: left; width:8%;"|Origjina
+! style="text-align: left; width:18%;"|Lloji
+! style="text-align: left; width:7%;"|Sasia
+! style="text-align: left;width:8%;"|Foto
+! style="text-align: left;width:47%;"|Shënime
+|-
+! style="align: center;" colspan="7"  | Anije
+|-
+| RPB-30 "Kozara"
+| {{AUT}}
+| [[:en:Command ship|Anije komandimi]]
+| 1
+|[[File:Kozara Command Ship.jpg|120px]]
+| rowspan="6"|Vendosur në Flotiljen e Lumit.
+|-
+| [[:en:Neštin-class river minesweeper|Klasa Neštin]]
+| {{YUG}}
+| [[:en:Minesweeper|Minëpastrues]]
+| 4
+| [[File:RRF_336_Djerdap.jpg|120px]]
+|-
+| Biscaya-class
+| {{YUG}}
+| [[:en:Patrol Boat, River|Anije patrullimi]]
+| 3
+| [[File:RRF 214 VS2.jpg|120px]]
+|-
+| 411-class
+| {{YUG}}
+| [[:en:Landing Craft Assault|Anije zbarkimi]]
+| 5
+| [[File:RRF 411 VS3.jpg|120px]]
+|-
+| RSRB-36 "Šabac"
+| {{YUG}}
+| [[:en:Degaussing|Anije degausing]]
+| 1
+| [[File:RSRB-39 Šabac.jpg|120px]]
+|-
+| RPN 43
+| {{YUG}}
+| [[:en:Tanker (ship)|Tanker]]
+| 1
+|
+|-
+! style="align: center;" colspan="7"  | Barka
+|-
+| ČMP
+| {{YUG}}
+| [[Varka patrulluese|Varkë patrullimi]]
+| 3
+|
+| rowspan="2"|Vendosur në Flotiljen e Lumit.
+|-
+| Premax 39
+| {{SRB}}
+| [[Varka patrulluese|Varkë patrullimi]]
+| 1
+|
+|-
+| RIB 720
+| {{CHN}}
+| [[:en:Inflatable boat|Varkë gome]]
+| 24
+| [[File:Serbian RIB 720 Patrol Boat.jpg|120px]]
+| Vendosur në Brigadën e 72-të për Operacione Speciale (14) dhe në Flotiljen e Lumit (10).
+|}
+==Municioni==
+{| class="wikitable"
+|-
+! style="text-align: left; width:12%;"|Emri
+! style="text-align: left; width:8%;"|Origjina
+! style="text-align: left; width:18%;"|Lloji
+! style="text-align: left; width:7%;"|Sasia
+! style="text-align: left;width:8%;"|Foto
+! style="text-align: left;width:47%;"|Shënime
+|-
+! style="align: center;" colspan="6" | Armatimi ajror
+|-
+| [[:en:CM-400|CM-400]]
+| {{PRC}}
+| [[:en:Supersonic missile|Supersonike]] me rreze të gjatë [[:en:Anti-radiation missile|raketë kundër rrezatimi]]
+|
+| [[File:Mig-29-cm400.jpg|120px]]
+| Përdoret në Skuadrilën e 101-të Luftarake të Brigadës së 204-të Ajrore.
+Përdoret varianti CM-400AKG mbi avionët shumërolësh [[:en:MiG-29|MiG-29SM]].<ref>{{cite web|author=Aleksandar Vasovic|date=2026-03-13|title=NATO-partner Serbia admits buying Chinese missiles after photos leaked|website=Reuters|url=https://www.reuters.com/business/aerospace-defense/nato-partner-serbia-admits-buying-chinese-missiles-after-photos-leaked-2026-03-13/|access-date=2026-07-10|language=en}}</ref>
+|-
+| [[:en:Kh-31|Kh-31]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| Raketë kundër rrezatimi me rreze të gjatë
+|
+| [[File:Kh-31 Armia-2018 1.jpg|120px]]
+| Përdoret në Skuadrilën e 101-të Luftarake të Brigadës së 204-të Ajrore.
+Përdoren variantet Kh-31A dhe Kh-31P mbi avionët shumërolësh [[:en:MiG-29|MiG-29SM]].<ref name="TS22-04-2025">{{cite web|author=Petar Vojinović|date=2025-04-22|title=Srpski MiG-ovi 29SM+ prvi put prikazani sa ruskim protivradarskim raketama H-31P|language=sr|website=tangosix.rs|url=https://tangosix.rs/2025/22/04/srpski-mig-ovi-29sm-prvi-put-prikazani-sa-ruskim-protivradarskim-raketama-h-31p/|access-date=2026-07-10}}</ref>
+|-
+| [[:en:R-77|R-77]]
+| {{RUS}}
+| [[Raketa ajër-ajër|Raketë ajër-ajër me rreze mesatare]]
+| 32
+| [[File:Vympel-R-77-maks2009.jpg|120px]]
+| Përdoret në Skuadrilën e 101-të Luftarake të Brigadës së 204-të Ajrore.
+Përdoret mbi avionët shumërolësh [[:en:MiG-29|MiG-29SM]].<ref name="TS22-04-2025"/>
+|-
+| [[:en:R-73 (missile)|R-73]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Raketa ajër-ajër|Raketë ajër-ajër me rreze të shkurtër]]
+|
+| [[File:MAKS2015part7-21.jpg|120px]]
+| Përdoret në Skuadrilën e 101-të Luftarake të Brigadës së 204-të Ajrore.
+Përdoret varianti R-73E mbi avionët shumërolësh [[:en:MiG-29|MiG-29SM]].<ref name="TS22-04-2025"/>
+|-
+| [[:en:R-60 (missile)|R-60]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Raketa ajër-ajër|Raketë ajër-ajër me rreze të shkurtër]]
+|
+| [[File:Sukhoi SU-15TM 2008 G4.jpg|120px]]
+| Përdoret në Skuadrilën e 101-të Luftarake të Brigadës së 204-të Ajrore.
+Përdoren variantet R-60M dhe R-60K mbi avionët shumërolësh [[:en:MiG-29|MiG-29SM]].<ref name="TS22-04-2025"/>
+|-
+| [[:en:R-27 (air-to-air missile)|R-27]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Raketa ajër-ajër|Raketë ajër-ajër me rreze të shkurtër]]
+|
+| [[File:R-27_T_3D.jpg|120px]]
+| Përdoret në Skuadrilën e 101-të Luftarake të Brigadës së 204-të Ajrore.
+Përdoren variantet R-27ER1, R-27R1, R-27ET1 dhe R-27T1 mbi avionët shumërolësh [[:en:MiG-29|MiG-29SM]].<ref name="TS22-04-2025"/>
+|-
+| [[:en:Kh-29|Kh-29]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Raketa ajër-tokë|Raketë ajër-tokë me rreze të shkurtër]]
+|
+| [[File:Kh-29L (1).jpg|120px]]
+| Përdoret në Skuadrilën e 101-të Luftarake të Brigadës së 204-të Ajrore.
+Përdoret varianti Kh-29TE mbi avionët shumërolësh [[:en:MiG-29|MiG-29SM]].<ref name="TS22-04-2025"/>
+|-
+| [[:en:Kh-25|Kh-25]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Raketa ajër-tokë|Raketë ajër-tokë me rreze të shkurtër]]
+|
+| [[File:Kh-25ML.jpg|120px]]
+| Përdoret në Skuadrilën e 101-të Luftarake të Brigadës së 204-të Ajrore.
+Përdoret mbi avionët shumërolësh [[:en:MiG-29|MiG-29SM]].<ref name="TS22-04-2025"/>
+|-
+| [[AGM-65 Maverick]]
+| {{USA}}
+| [[Raketa ajër-tokë|Raketë ajër-tokë me rreze të shkurtër]]
+| 136
+| [[File:AGM-65 Maverick MG 1382.jpg|120px]]
+| Përdoret në Skuadrilën e 241-të Luftarake-Bombarduese të Brigadës së 98-të Ajrore.
+Përdoret varianti AGM-65B mbi avionin sulmues [[:en:Soko J-22 Orao|J-22 Orao]].<ref>{{cite web|author=Živojin Banković|date=2020-09-24|title=[EKSKLUZIVNO] Orao srpskog RV i PVO lansirao Maverik prvi put posle više od 25 godina|language=sr|url=https://tangosix.rs/2020/24/09/ekskluzivno-orao-srpskog-rv-i-pvo-lansirao-maverik-prvi-put-posle-vise-od-25-godina/|access-date=2026-07-10}}</ref>
+|-
+| [[:en:FZ275 LGR|FZ275 LGR]]
+| {{BEL}}
+| Raketë e drejtuar me rreze ultra-të shkurtër
+| 600
+| [[File:FZ275_LGR.jpg|120px]]
+| Përdoret në Skuadrilën e Përzier të Helikopterëve 119 të Brigadës së 98-të Ajrore.
+Përdoret mbi helikopterët [[Eurocopter EC145|H145M]].<ref>{{cite web|author=Živojin Banković|date=2026-04-24|title=[POSLEDNJA VEST] Srbiji isporučen poslednji od 10 vojnih lakih višenamenskih helikoptera Erbas H145M BK.117D3m|language=sr|website=tangosix.rs|url=https://tangosix.rs/2026/24/04/poslednja-vest-srbiji-isporucen-poslednji-od-10-vojnih-lakih-visenamenskih-helikoptera-erbas-h145m-bk-117d3m/|access-date=2026-07-10}}</ref>
+|-
+| [[:en:9M120 Ataka|9M120 Ataka]]
+| {{RUS}}
+| Raketë e drejtuar me rreze ultra-të shkurtër
+|
+| [[File:9M120_ATGM_Ataka.jpg|120px]]
+| Përdoret nga Skuadrila e 714-të e Helikopterëve Kundër-Blindazh e Brigadës së 98-të Ajrore.
+Përdoret mbi helikopterët sulmues [[:en:List of Mil Mi-24 variants|Mi-35]].
+|-
+| [[:en:KAB-500|KAB-500]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[:en:Guided bomb|Bombë e drejtuar me saktësi]]
+|
+| [[File:KAB-500OD maks2009.jpg|120px]]
+| Përdoret në Skuadrilën e 101-të Luftarake të Brigadës së 204-të Ajrore.
+Përdoren variantet KAB-500Kr, KAB-500KrU dhe KAB-500-OD mbi avionët shumërolësh [[:en:MiG-29|MiG-29SM]].<ref name="TS22-04-2025"/>
+|-
+| [[:en:FT PGB|FT PGB]]
+| {{PRC}}
+| [[:en:Guided bomb|Bombë e drejtuar me saktësi]]
+|
+|
+| Përdoret në Skuadrilën e 353-të të Zbulimit të Brigadës së 98-të Ajrore.
+Përdoren variantet FT-8B, FT-8C dhe FT-8D mbi automjetet ajrore luftarake pa pilot CH-92A, CH-95 dhe [[:en:Pegaz|Pegaz]].<ref>{{cite web|author=Petar Vojinović|date=2026-01-21|title=[UMEX 2026] Premijera srpskog Tandem Ikara, dominacija Kineza i povratak Izraela na sajmove odbrambenih tehnologija|language=sr|website=tangosix.rs|url=https://tangosix.rs/2026/21/01/umex-2026-premijera-srpskog-tandem-ikara-dominacija-kineza-i-povratak-izraela-na-sajmove-odbrambenih-tehnologija/|access-date=2026-07-10}}</ref>
+|-
+| [[:en:S-24 rocket|S-24]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| Raketë e paudhëhequr
+|
+| [[File:S24B maks2009.jpg|120px]]
+| rowspan="3"| Përdoret në Skuadrilën e 101-të Luftarake të Brigadës së 204-të Ajrore.
+Përdoret mbi avionët shumërolësh [[:en:MiG-29|MiG-29SM]].<ref name="TS22-04-2025"/>
+|-
+| [[:en:S-13 rocket|S-13]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| Raketë e paudhëhequr
+|
+| [[File:Будни авиагруппы ВКС РФ на аэродроме «Хмеймим» (Сирийская Арабская Республика) (58).JPG|120px]]
+|-
+| [[:en:S-5 rocket|S-5]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| Raketë e paudhëhequr
+|
+| [[File:S-5M 57 mm rocket.jpg|120px]]
+|-
+| [[:en:S-8 (rocket)|S-8]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| Raketë e paudhëhequr
+|
+| [[File:Sri Lanka Military 0029.jpg|120px]]
+| Përdoret nga Skuadrila e 714-të e Helikopterëve Kundër-Blindazh e Brigadës së 98-të Ajrore.
+Përdoret mbi helikopterët sulmues [[:en:List of Mil Mi-24 variants|Mi-35]].
+|-
+| [[:en:FAB-500|FAB-500]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[:en:General-purpose bomb|Bombë me qëllim të përgjithshëm]]
+|
+| [[File:ФАБ-500М-62 - МАКС-2009 01 (cropped).jpg|120px]]
+| rowspan="4"| Përdoret në Skuadrilën e 101-të Luftarake të Brigadës së 204-të Ajrore.
+Përdoret mbi avionët shumërolësh [[:en:MiG-29|MiG-29SM]].<ref name="TS22-04-2025"/>
+|-
+| [[:en:FAB-250|FAB-250]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[:en:General-purpose bomb|Bombë me qëllim të përgjithshëm]]
+|
+| [[File:FAB-250-M62.JPG|120px]]
+|-
+| [[:en:OFAB-100-120|FAB-100]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[:en:General-purpose bomb|Bombë me qëllim të përgjithshëm]]
+|
+|
+|-
+| [[:en:FAB-50|FAB-50]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[:en:General-purpose bomb|Bombë me qëllim të përgjithshëm]]
+|
+|
+|-
+! style="align: center;" colspan="7" | Raketa të drejtuara kundërtank
+|-
+| [[:en:ALAS (missile)|ALAS]]
+| {{SRB}}
+| [[Raketa e drejtuar kundër-tank|Raketë e drejtuar kundërtank]]
+| 60
+| [[File:Ракета АЛАС изложена на сајму наоружања и војне опреме Партнер 2011.jpg|120px]]
+| Përdoret nga batalionet e artilerisë me raketëhedhës të shumëfishtë të katër brigadave të Ushtrisë.<ref>{{cite web | url=https://www.edepro.com/news/new-year-with-new-milestones | title=EDePro, Engine Development & Production |language=en}}</ref>
+
+Përdoret mbi raketëhedhësit e shumëfishtë [[:en:M18 Oganj|M-18 Oganj]].<ref>{{cite web | url=https://tangosix.rs/2024/20/04/reportaza-zdruzena-takticka-vezba-vihor-2024-izazovni-meteo-uslovi-premijere-i-atraktivni-nastupi-avijacije/ | title=[Reportaža] Združena taktička vežba ''Vihor 2024'': Izazovni meteo-uslovi, premijere i atraktivni nastupi avijacije | date=2024-04-20 |language=sr}}</ref>
+|-
+| [[:en:9M133 Kornet|9M133 Kornet]]
+| {{RUS}}
+| [[Raketa e drejtuar kundër-tank|Raketë e drejtuar kundërtank]]
+|
+| [[File:Корнет_-_Контрольная_проверка_курсантов_Учебного_центра_боевого_применения_ракетных_войск_и_артиллерии_07.jpg|120px]]
+|  Përdoret nga Brigada e 72-të për Operacione Speciale.<ref>{{cite news | url=https://www.slobodnaevropa.org/a/31629492.html | title=Ministar odbrane Srbije: Ruske rakete 'Kornet' stižu u 72. Specijalnu brigadu | newspaper=Radio Slobodna Evropa | date=2021-12-28 |language=sr}}</ref>
+
+Përdoret mbi automjetet e blinduara [[Humvee]] dhe lëshuesit me tripod 9P163-1.
+|-
+| [[:en:9M119 Svir/Refleks|9M119 Svir/Refleks]]
+| {{RUS}}
+| [[Raketa e drejtuar kundër-tank|Raketë e drejtuar kundërtank]]
+|
+| [[File:9M119F1_Invar-M.jpg|120px]]
+| Përdoret nga Batalioni i Tankeve T-72M i Komandës së Ushtrisë.
+Përdoret mbi tanket [[:en:T-72 operators and variants|T-72B1MS]].
+|-
+| [[:en:9K111 Fagot|9K111 Fagot]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Raketa e drejtuar kundër-tank|Raketë kundërtank e drejtuar me tel]]
+| 250
+| [[File:POLK 9K111 Fagot.jpg|120px]]
+| Përdoret nga batalionet e këmbësorisë të katër brigadave të Ushtrisë.
+Përdoret mbi lëshuesit me tripod POLK.<ref name="SRB"/>
+|-
+| [[:en:9M14 Malyutka|9K11 Malyutka]]
+| {{Flag|Soviet Union|name=Bashkimi Sovjetik}}
+| [[Raketa e drejtuar kundër-tank|Raketë kundërtank e drejtuar me tel]]
+|
+| [[File:Malyutka.JPG|120px]]
+| Përdoret nga batalionet e këmbësorisë të katër brigadave të Ushtrisë.
+Përdoret varianti i modernizuar 2T5 mbi shkatërruesit e tankeve [[:en:BOV (armoured personnel carrier)|BOV-1 POLO M83]].<ref>{{cite web | url=https://www.politika.rs/sr/clanak/370016/Drustvo/Nove-rakete-VS-efikasne-i-protiv-savremenih-tenkova | title=Nove rakete VS – efikasne i protiv savremenih tenkova |language=sr}}</ref>
+|}
+==Referime==
+{{Reflist|30em}}
+
+==Burimet==
+*{{cite web|author=Srpski Oklop|title=Oklopne jedinice Vojske Srbije|publisher=Srpski Oklop|url=http://oklop2.tripod.com/srpskavojska/vs.htm|ref={{harvid|Oklopne jedinice Vojske Srbije}} }} {{in lang|sr}}
+
+==Lidhje të jashtme==
+*{{cite web|title=Наоружање Копнене војске: Наоружање КoВ|publisher=VS|url=http://www.vs.rs/index.php?content=5701ab10-fc9c-102b-9fa8-28e40361dc2e|access-date=2014-02-10|archive-url=https://web.archive.org/web/20141007013516/http://www.vs.rs/index.php?content=5701ab10-fc9c-102b-9fa8-28e40361dc2e|archive-date=2014-10-07|url-status=dead|language=sr}}
+
+[[Kategoria:Ushtria Serbe]]
+[[Kategoria:Pajisje ushtarake të Serbisë]]
+[[Kategoria:Listat e pajisjeve të forcave të armatosura|Forcat e Armatosura Serbe]]
+[[Kategoria:Lista në lidhje me ushtrinë serbe|Pajisje]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|List of equipment of the Serbian Armed Forces|22 korrik 2026|1365426201}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:List of equipment of the Serbian Armed Forces, versioni i datës 22 korrik 2026 (revizioni 1365426201).
+-->

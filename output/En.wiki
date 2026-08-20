@@ -1,0 +1,14 @@
+<!--
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:En, versioni i datës 4 janar 2020 (revizioni 934114119)
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|En|4 janar 2020|934114119}}
+-->
+
+#RIDREJTO [[EN]]
+
+{{Redirect category shell|1=
+{{R from other capitalisation}}
+{{R from ambiguous}}
+}}

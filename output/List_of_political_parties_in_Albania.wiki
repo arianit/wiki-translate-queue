@@ -1,0 +1,494 @@
+[[Shqipëria]] ka një [[sistem shumëpartiak]] i cili që nga fillimi i viteve 1990 dominon nga [[Partia Socialiste e Shqipërisë]] (PS) dhe [[Partia Demokratike e Shqipërisë]] (PD), ndërsa partitë më të vogla dhe koalicionet zgjedhore shpesh kanë fituar përfaqësim në kuvend, qeverisje lokale ose politikë koalicioni. Për [[Zgjedhjet kuvendore në Shqipëri, 2025|zgjedhjet kuvendore të vitit 2025]], 53 partitë politike konkurruan përmes 11 listave kandidate ose subjekte zgjedhore për 140 vende në [[Kuvendi i Shqipërisë]].<ref name="IFES-2025-snapshot">{{Cite web |title=Zgjedhjet në Shqipëri: Zgjedhjet Kuvendore 11 Maj 2025 |url=https://www.ifes.org/tools-resources/election-snapshots/elections-albania |website=[[International Foundation for Electoral Systems]] |access-date=22 qershor 2026|language=sq }}</ref> Gjashtë subjekte zgjedhore fituan vende: Partia Socialiste, [[Aleanca për Shqipërinë Madhështore]] e udhëhequr nga PD, [[Partia Socialdemokrate e Shqipërisë|Partia Socialdemokrate]], [[Partia Mundësia|Partia Mundësi]], [[Lëvizja Shqipëria Bëhet]] dhe [[Lëvizja Bashkë]].<ref name="IPU-2025-results">{{Cite web |title=Zgjedhjet Kuvendore në Shqipëri Maj 2025 |url=https://data.ipu.org/parliament/AL/AL-LC01/election/AL-LC01-E20250511/ |website=[[Inter-Parliamentary Union]] |access-date=22 qershor 2026|language=sq }}</ref>
+
+Të dhënat e mëparshme zyrtare nga [[Komisioni Qendror i Zgjedhjeve (Shqipëri)|Komisioni Qendror i Zgjedhjeve]] rendisnin 124 partitë politike në regjistrin e partive për vitin 2014.<ref>[http://www.cec.org.al/Portals/0/Images/CEC/Legjislacioni_2015/VENDIME_2015/VENDIM_29/KQZ-Raporti%20per%20Kuvend%20%202014.pdf Regjistri i Partive]</ref> Nga këto, 54 partitë morën pjesë në [[Zgjedhjet vendore në Shqipëri, 2015|zgjedhjet vendore të vitit 2015]].<ref>[http://koha.net/?id=&l=53015 Për zgjedhjet vendore në Shqipëri garojnë 54 parti politike]</ref>
+
+==Partitë e përfaqësuara në Kuvendin e Shqipërisë==
+Ky është një listë e partive politike ose subjekteve zgjedhore me përfaqësim në [[Kuvendi i Shqipërisë|Kuvendin Shqiptar]] pas zgjedhjeve të përgjithshme kuvendore të vitit [[Zgjedhjet kuvendore në Shqipëri, 2025|2025]]. Rreshtat e koalicionit tregojnë subjektin zgjedhor që fitoi vende; partitë përbërëse janë renditur ku është e zbatueshme. Sipas [[Inter-Parliamentary Union|Bashkimit Ndërkombëtar Parlamentar]], Partia Socialiste fitoi 83 vende, Aleanca për Shqipërinë Madhështore e udhëhequr nga PD fitoi 50 vende, Partia Socialdemokrate fitoi 3 vende, Partia Mundësi fitoi 2 vende, ndërsa Lëvizja Shqipëria Bëhet dhe Lëvizja Bashkë fituan nga 1 vend secila.<ref name="IPU-2025-results" />
+
+Vëzhguesit ndërkombëtarë përshkruan zgjedhjet e vitit 2025 si konkurruese dhe të menaxhuara në mënyrë profesionale, por thanë se atyre u mungonte një fushëbarazim, duke cituar shfrytëzimin e gjerë të burimeve publike dhe pushtetit institucional, presionin mbi punonjësit publikë dhe votuesit, frikësimin dhe shqetësimet për mjedisin mediatik.<ref name="OSCEPA-2025">{{Cite web |date=12 maj 2025 |title=Zgjedhjet parlamentare në Shqipëri konkurruese dhe të menaxhuara mirë, por pa fushëbarazim, thonë vëzhguesit ndërkombëtarë |url=https://www.oscepa.org/en/news-a-media/press-releases/2025/albanias-parliamentary-elections-competitive-and-well-run-but-lacked-level-playing-field-international-observers-say |website=[[Organization for Security and Co-operation in Europe Parliamentary Assembly]] |access-date=22 qershor 2026|language=sq }}</ref>
+
+[[File:Parliament of Albania (2025-2029).svg|500px|frameless|center]]
+
+{| class="wikitable sortable"
+! Logo
+! colspan="2" | Emri
+! Shk.
+! Drejtuesi
+! Përbërësit / shënime
+! Ideologjia
+! [[Kuvendi i Shqipërisë|Kuvendi]]
+! Pozicion<br/>politik
+! Evropian
+|-
+| [[File:Partia Socialiste.svg|center|60x60px]]
+! {{party color cell|Partia Socialiste e Shqipërisë}}
+| [[Partia Socialiste e Shqipërisë]]<br />{{lang|sq|size=85%|Partia Socialiste e Shqipërisë}}
+| PS
+| [[Edi Rama]]
+| Partia në qeveri
+| {{ubl|[[Socialdemokracia]]|[[Evropianizmi]]}}
+| {{Composition bar|83|140|{{party color|Partia Socialiste e Shqipërisë}}}}
+| [[Politika e qendrës së majtë|Qendrë-majtë]]
+| [[Partia e Socialistëve Evropianë|PSE]] {{small|(asociuar)}}
+|-
+| [[File:Logoja e Partia Demokratike.svg|center|60x60px]]
+! {{party color cell|Partia Demokratike e Shqipërisë}}
+| [[Partia Demokratike e Shqipërisë]] – [[Aleanca për Shqipërinë Madhështore]]<br />{{lang|sq|size=85%|Partia Demokratike e Shqipërisë – Aleanca për Shqipërinë Madhështore}}
+| PD–ASHM
+| [[Sali Berisha]]
+| Koalicion i udhëhequr nga PD; përfshin partitë si [[Partia e Lirisë|PL]], [[Partia për Drejtësi, Integrim dhe Unitet|PDIU]], [[Partia Republikane e Shqipërisë|PR]], [[Partia Agrare Ambientaliste|PAA]], [[Partia Bashkimi për të Drejtat e Njeriut|PBDNJ]] dhe [[Partia Lëvizja e Legalitetit|PLL]]
+| {{ubl|[[Konservatizmi]]|[[Evropianizmi]]}}
+| {{Composition bar|50|140|{{party color|Partia Demokratike e Shqipërisë}}}}
+| [[Politika e qendrës së djathtë|Qendrë-djathtë]] deri në [[Politika e djathtë|djathtë]]
+| [[Partia Popullore Evropiane|PPE]] {{small|(asociuar, PD)}}
+|-
+| [[File:Partia Socialdemokrate e Shqipërisë.png|center|70x70px]]
+! {{party color cell|Partia Socialdemokrate e Shqipërisë (2021)}}
+| [[Partia Socialdemokrate e Shqipërisë]]<br />{{lang|sq|size=85%|Partia Socialdemokrate e Shqipërisë}}
+| PSD
+| [[Tom Doshi]]
+| —
+| {{ubl|[[Socialdemokracia]]|[[Evropianizmi]]}}
+| {{Composition bar|3|140|{{party color|Partia Socialdemokrate e Shqipërisë (2021)}}}}
+| [[Politika e qendrës së majtë|Qendrë-majtë]]
+| {{Ska}}
+|-
+| [[File:Logo of the Opportunity Party (Albania).svg|center|70x70px]]
+! {{party color cell|Partia Mundësia}}
+| [[Partia Mundësia]]<br />{{lang|sq|size=85%|Partia Mundësia}}
+| PM
+| [[Agron Shehaj]]
+| —
+| {{ubl|[[Liberalizmi ekonomik]]|[[Evropianizmi]]}}
+| {{Composition bar|2|140|{{party color|Partia Mundësia}}}}
+| [[Politika e qendrës së djathtë|Qendrë-djathtë]]
+| {{Ska}}
+|-
+| [[File:Shqiperia Behet logo.png|center|70x70px]]
+! {{party color cell|Lëvizja Shqipëria Bëhet}}
+| [[Lëvizja Shqipëria Bëhet]]<br />{{lang|sq|size=85%|Lëvizja Shqipëria Bëhet}}
+| LSHB
+| [[Adriatik Lapaj]]
+| Zgjedhur si pjesë e Iniciativës Shqipëria Bëhet me [[Nisma Thurje]] dhe LDPSH
+| {{ubl|[[Demokracia e drejtpërdrejtë]]|[[Nationalizmi qytetar]]}}
+| {{Composition bar|1|140|{{party color|Lëvizja Shqipëria Bëhet}}}}
+| [[Centrizmi|Qendër]]
+| {{Ska}}
+|-
+| [[File:Lëvizja_Bashkë_Logo.jpg|center|70x70px]]
+! {{party color cell|Lëvizja Bashkë}}
+| [[Lëvizja Bashkë]]<br />{{lang|sq|size=85%|Lëvizja Bashkë}}
+| BASHKË
+| [[Arlind Qori]]
+| —
+| {{ubl|[[Progresivizmi]]|[[Populizmi i majtë]]}}
+| {{Composition bar|1|140|{{party color|Lëvizja Bashkë}}}}
+| [[Politika e majtë|Majtë]]
+| {{Ska}}
+|}
+</onlyinclude>
+==Subjekte të tjera zgjedhore në zgjedhjet parlamentare të 2025-s==
+Subjektet e mëposhtme zgjedhore morën pjesë në [[Zgjedhjet kuvendore në Shqipëri, 2025|zgjedhjet parlamentare të 2025-s]] por nuk fituan vende. Zgjedhjet u ndeshën nga 11 lista kandidatësh ose subjekte zgjedhore.<ref name="IFES-2025-snapshot" />
+
+{| class="wikitable sortable"
+! Emri
+! Shkurtesa
+! Drejtuesi
+! Shënime
+! Vende
+|-
+| [[Demokratët EuroAtlantikë|Koalicioni EuroAtlantik / Demokratët EuroAtlantikë]]
+| KEA / DEA
+| [[Endri Hasa]] / [[Lulzim Basha]]
+| U regjistrua për zgjedhjet e 2025-s nën Endri Hasa; lidhur me fraksionin e Bashës pas ndarjes nga PD.<ref>{{Cite web |date=3 mars 2025 |title=Partia e re e Lulzim Bashës regjistrohet për zgjedhjet e 11 majit, kryetar Endri Hasa |url=https://www.balkanweb.com/en/partia-e-re-e-lulzim-bashes-regjistrohet-ne-zgjedhjet-e-11-majit-kryetar-endri-hasa/ |website=BalkanWeb |access-date=22 qershor 2026|language=sq }}</ref>
+| {{Composition bar|0|140|#808080}}
+|-
+| [[Djathtas për Zhvillim]]
+| DZh
+| [[Dashamir Shehi]]
+| Koalicioni përfshin [[Movement for National Development (Albania)|LZHK]] dhe [[Djathtas 1912]].
+| {{Composition bar|0|140|#808080}}
+|-
+| Aleanca Kombëtare Shqiptare
+| AKSH
+| —
+| Mori pjesë në zgjedhjet parlamentare të 2025-s.
+| {{Composition bar|0|140|#808080}}
+|-
+| [[Partia Shqiptare “Atdheu”|Lëvizja Atdheu]]
+| LAV
+| —
+| Mori pjesë në zgjedhjet parlamentare të 2025-s.
+| {{Composition bar|0|140|#808080}}
+|-
+| Partia Aleanca për Demokraci të Re
+| ADR
+| —
+| Mori pjesë në zgjedhjet parlamentare të 2025-s.
+| {{Composition bar|0|140|#808080}}
+|}
+</nowiki>
+==Partitë politike në Shqipëri (1921–sot)==
+{{Shiko gjithashtu|Lista e zgjedhjeve në Shqipëri}}
+Kjo është një listë e partive politike të shquara që kanë marrë pjesë në zgjedhjet në Shqipëri nga viti 1921 deri sot.<ref>{{cite web|title=Regjistri i Partive sipas Gjykatës (2015)|url=http://www.gazetadita.al/wp-content/uploads/2016/04/Rregjistri-i-Partive-nga-Gjykata-2015.xlsx|language=sq}}</ref>
+{| class="wikitable sortable"
+|- style="background:#d4c0ba;"
+! Shkurtesa
+! Emri
+! Themeluar
+! Regjistruar
+! Drejtues
+|-
+|'''PFSH'''
+|[[Partia Fashiste Shqiptare]]
+|align=center|2 qershor 1939
+|align=center|
+|{{Highlight|''Shpërbërë''|#f9f0b9}}
+|-
+|'''PPSH'''
+|[[Partia e Punës e Shqipërisë]]<br />{{Highlight|<small>''Paraardhëse e [[Partia Socialiste e Shqipërisë]]''</small>|#d9e8d3}}
+|align=center|8 nëntor 1941
+|align=center|
+|{{Highlight|''Shpërbërë''|#f9f0b9}}
+|-
+|'''FDSH'''
+|[[Fronti Demokratik i Shqipërisë]]
+|align=center|16 shtator 1942
+|align=center|
+|{{Highlight|''Shpërbërë''|#f9f0b9}}
+|-
+|'''PSD'''
+|[[Social Democratic Party of Albania (1943)|Partia Socialdemokrate e Shqipërisë]]
+|align=center|1943
+|align=center|1946
+|{{Highlight|''Shpërbërë''|#f9f0b9}}
+|-
+|'''KKVLAPSH'''
+|Komiteti Kombëtar i Veteranëve
+|align=center|20 korrik 1957
+|align=center|
+|Rustem Peçi
+|-
+|'''PDSH'''
+|[[Partia Demokratike e Shqipërisë]]
+|align=center|12 dhjetor 1990
+|align=center|19 dhjetor 1990
+|[[Sali Berisha]]
+|-
+|'''OMONIA'''
+|[[Omonoia (Organizatë)|Bashkimi Demokrat i Minoritetit Grek]]
+|align=center|11 janar 1991
+|align=center|
+|
+|-
+|'''PAA'''
+|[[Partia Agrare Ambientaliste]]<br /><small>{{Highlight|''Ish-Partia Agrare; riemëruar më 21 korrik 2003''|#d9e8d3}}</small>
+|align=center|
+|align=center|9 shkurt 1991
+|Agron Duka
+|-
+|'''PBDNJ'''
+|[[Partia Bashkimi për të Drejtat e Njeriut]]
+|align=center|
+|align=center|24 shkurt 1991
+|[[Vangjel Dule]]
+|-
+|'''PUKSH'''
+|[[Partia e Unitetit Kombëtar]]
+|align=center|
+|align=center|15 mars 1991
+|Idajet Beqiri
+|-
+|'''PSDSH'''
+|[[Partia Socialdemokrate e Shqipërisë]]
+|align=center|
+|align=center|23 prill 1991
+|[[Tom Doshi]]
+|-
+|'''PSSH'''
+|[[Partia Socialiste e Shqipërisë]]
+|align=center|13 qershor 1991
+|align=center|15 gusht 1991
+|[[Edi Rama]]
+|-
+|'''PBSH'''
+|[[Partia e Gjelbër e Shqipërisë]]
+|align=center|
+|align=center|2 tetor 1991
+|Edlir Petanaj
+|-
+|'''PBK'''
+|[[Partia Balli Kombëtar Shqiptar]]<br /><small>{{Highlight|''Ish-Bashkimi Demokrat i Shqipërisë; riemëruar më 3 prill 1993''|#d9e8d3}}</small>
+|align=center|
+|align=center|4 tetor 1991
+|Adriatik Alimadhi
+|-
+|'''PRSH'''
+|[[Partia Republikane e Shqipërisë]]
+|align=center|10 janar 1991
+|align=center|10 tetor 1991
+|[[Fatmir Mediu]]
+|-
+|'''PDKSH'''
+|[[Partia Demokristiane e Shqipërisë]]<br /><small>{{Highlight|''Ish-Bashkimi Popullor i Shqipërisë; riemëruar më 11 dhjetor 1991''|#d9e8d3}}</small>
+|align=center|
+|align=center|10 tetor 1991
+|[[Nard Ndoka]]
+|-
+|'''PLL'''
+|[[Partia Lëvizja e Legalitetit]]
+|align=center|
+|align=center|20 shkurt 1992
+|Sulejman Gjana
+|-
+|'''BDSH'''
+||[[Partia Bashkimi Demokrat Shqiptar]]
+|align=center|
+|align=center|3 prill 1992
+|Ylber Valteri
+|-
+|'''BLD'''
+|[[Liberal Democratic Union (Albania)|Bashkimi Liberal Demokrat]]<br /><small>{{Highlight|''Ish-Bashkimi Socialdemokrat; riemëruar më 13 prill 2005''|#d9e8d3}}</small>
+|align=center|
+|align=center|24 janar 1995
+|Arian Starova
+|-
+|'''———'''
+|Partia e Rilindjes Kombëtare
+|align=center|
+|align=center|28 shkurt 1996
+|[[Abdi Baleta]]
+|-
+|'''PKSH'''
+|[[Partia Komuniste e Shqipërisë]]
+|align=center|
+|align=center|9 korrik 1998
+|Qemal Cicollari
+|-
+|'''ADK'''
+|Aleanca Demokristiane e Shqipërisë<br /><small>{{Highlight|''Ish-Partia Socialkristiane; riemëruar më 25 shkurt 2011''|#d9e8d3}}</small>
+|align=center|
+|align=center|18 korrik 2000
+|Zef Bushati
+|-
+|'''PLMDSH'''
+|[[Partia Lëvizja Monarkiste Demokrate Shqiptare]]
+|align=center|
+|align=center|7 mars 2001
+|Guri Durollari
+|-
+|'''PDR'''
+|[[Partia Demokrate e Re (Shqipëri)]]<br /><small>{{Highlight|''Ish-Partia Demokrat; riemëruar më 11 prill 2003''|#d9e8d3}}</small>
+|align=center|
+|align=center|16 mars 2001
+|[[Genc Pollo]]
+|-
+|'''PKD'''
+|[[Christian Democratic Party of Albania|Partia Kristian Demokratike]]<br /><small>{{Highlight|''Ish-Partia Kristian Demokratike e Shqipërisë; riemëruar më 29 mars 2013''|#d9e8d3}}</small>
+|align=center|
+|align=center|17 maj 2002
+|Mirela Ferracaku
+|-
+|'''LZHK'''
+|[[Movement for National Development (Albania)|Lëvizja për Zhvillim Kombëtar]]<br /><small>{{Highlight|''Ish-Partia për Rinovim Demokratik; riemëruar më 16 qershor 2008''|#d9e8d3}}</small>
+|align=center|
+|align=center|17 korrik 2002
+|Dashamir Shehi
+|-
+|'''PDS'''
+|[[Partia Demokracia Sociale]]
+|align=center|
+|align=center|7 maj 2003
+|[[Paskal Milo]]
+|-
+|'''PL'''
+|[[Partia e Lirisë]]<br /><small>{{Highlight|''Ish-Lëvizja Socialiste për Integrim; riemëruar më 25 korrik 2022''|#d9e8d3}}</small>
+|align=center|
+|align=center|6 shtator 2004
+|[[Ilir Meta]]
+|-
+|'''LDLNJ'''
+|Lëvizja për Liri dhe të Drejtat e Njeriut
+|align=center|
+|align=center|5 janar 2005
+|Ligoraq Karamelo
+|-
+|'''AMS'''
+|Lista për Shqipërinë Natyrore<br /><small>{{Highlight|''Ish-[[Alliance for Welfare and Solidarity|Aleanca për Mirëqenie dhe Solidaritet]]; riemëruar më 26 prill 2011''|#d9e8d3}}</small>
+|align=center|
+|align=center|15 shkurt 2005
+|Koço Danaj
+|-
+|'''———'''
+|Partia Rruga e Lirisë
+|align=center|
+|align=center|3 mars 2005
+|Kurt Kola
+|-
+|'''LBSH'''
+|Lidhja e Gjelbër Shqiptare
+|align=center|
+|align=center|21 mars 2005
+|Brixhida Kokëdhima
+|-
+|'''AMIE'''
+|[[Macedonian Alliance for European Integration|Aleanca Maqedonase për Integrim Europian]]
+|align=center|
+|align=center|8 qershor 2005
+|[[Edmond Temelko|Edmond Themelko]]
+|-
+|'''PVSH'''
+|[[Partia e Vllehëve të Shqipërisë]]<br /><small>{{Highlight|''Ish-Aleanca për Barazi dhe Drejtësi Europiane''|#d9e8d3}}</small>
+|align=center|28 tetor 2011
+|align=center|17 shkurt 2012
+|Edmond Petraj
+|-
+|'''———'''
+|[[Partia e Punës së Shqipërisë e Riorganizuar|Partia e Frontit të Majtë]]<br /><small>{{Highlight|''Ish-Partia e Popullit e Riorganizuar; riemëruar më 14 korrik 2014''|#d9e8d3}}</small>
+|align=center|
+|align=center|4 korrik 2007
+|Marko Dajti
+|-
+|'''LDK'''
+|Bashkimi Kristian Demokrat
+|align=center|
+|align=center|27 nëntor 2007
+|[[Nikoll Lesi]]
+|-
+|'''PLiDr'''
+|Partia Ligj dhe Drejtësi
+|align=center|
+|align=center|17 shkurt 2009
+|Spartak Ngjela
+|-
+|'''PSV91'''
+|Partia Socialiste e Vërtetë 91
+|align=center|
+|align=center|26 shkurt 2009
+|Petro Koçi
+|-
+|'''ADS'''
+|Aleanca për Demokraci dhe Solidaritet
+|align=center|
+|align=center|3 mars 2009
+|Gaqo Apostoli
+|-
+|'''G99'''
+|[[G99]]
+|align=center|
+|align=center|7 prill 2009
+|Ervin Mete
+|-
+|'''LDE'''
+|Partia Ligj, Demokraci dhe Etikë
+|align=center|
+|align=center|25 mars 2010
+|Arjan Galdini
+|-
+|'''MEGA'''
+|[[Ethnic Greek Minority for the Future|Minoriteti Etnik Grek për të Ardhmen]]
+|align=center|
+|align=center|21 qershor 2010
+|Kristo Kiço
+|-
+|'''AEE'''
+|Aleanca Ekologjike Europiane
+|align=center|
+|align=center|7 dhjetor 2010
+|Sazan Guri
+|-
+|'''PDIU'''
+|[[Partia për Drejtësi, Integrim dhe Unitet]]
+|align=center|
+|align=center|1 mars 2011
+|[[Shpëtim Idrizi]]
+|-
+|'''OP'''
+|[[Organizata Politike]]
+|align=center|2011
+|align=center|
+|Drejtuesi i përbashkët
+|-
+|'''AKZ'''
+|[[Aleanca Kuq e Zi]]
+|align=center|
+|align=center|21 mars 2012
+|Lumturi Ratkoceri
+|-
+|'''FRD'''
+|[[Fryma e Re Demokratike]]
+|align=center|
+|align=center|20 qershor 2012
+|Gazment Oketa
+|-
+|'''NTH'''
+|[[Nisma Thurje|Nisma #]]
+|align=center|12 dhjetor 2013
+|align=center|
+|Pano Soko
+|-
+|'''SFIDA'''
+|[[Sfida për Shqipërinë|Sfida për Shqipërinë]]
+|align=center|11 qershor 2016
+|align=center|
+|Hektor Ruci
+|-
+|'''LIBRA'''
+|[[Libra Party (Albania)|Lista e Barabartë]]
+|align=center|1 nëntor 2016
+|align=center|
+|Gjergj Prifti
+|-
+|'''BD'''
+|[[Partia Bindja Demokratike]]
+|align=center|
+|align=center|23 prill 2019
+|[[Astrit Patozi]]
+|-
+|'''BASHKË'''
+|[[Lëvizja Bashkë]]
+|align=center|18 dhjetor 2022
+|align=center|21 mars 2023
+|[[Arlind Qori]]
+|-
+|'''LSHB'''
+|[[Lëvizja Shqipëria Bëhet]]
+|align=center|18 shtator 2023
+|align=center|15 tetor 2024
+|[[Adriatik Lapaj]]
+|-
+|'''PM'''
+|[[Partia Mundësia]]
+|align=center|1 qershor 2024
+|align=center|
+|[[Agron Shehaj]]
+|-
+|'''KEA'''
+|[[Demokratët EuroAtlantikë]]<br /><small>{{Highlight|''Regjistruar për zgjedhjet 2025 si Koalicioni EuroAtlantik''|#d9e8d3}}</small>
+|align=center|14 qershor 2024
+|align=center|3 mars 2025
+|[[Lulzim Basha]] / [[Endri Hasa]]
+|-
+|'''DJATHTAS'''
+|[[Djathtas 1912|Djathtas 1912]]
+|align=center|12 tetor 2024
+|align=center|
+|[[Enkelejd Alibeaj]]
+|-
+|'''AKPSH'''
+|Aleanca Konservatore për Shqipërinë
+|align=center|19 janar 2025
+|align=center|
+|[[Altin Goxhaj]]
+|}
+== Shiko edhe ==
+* [[Politika e Shqipërisë]]
+
+== Referime ==
+{{Reflist}}
+
+[[Kategoria:Lista të partive politike sipas vendit|Shqipëri]]
+[[Kategoria:Partitë politike në Shqipëri| ]]
+[[Kategoria:Lista të lidhura me politikën e Shqipërisë|Partitë politike]]
+[[Kategoria:Lista të organizatave me seli në Shqipëri|Partitë politike]]
+[[Kategoria:Lista të partive politike në Evropë|Shqipëri]]

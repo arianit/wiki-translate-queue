@@ -1,0 +1,29 @@
+<!--
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Baloz, versioni i datës 8 korrik 2026 (revizioni 1363121362)
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Baloz|8 korrik 2026|1363121362}}
+-->
+
+'''Baloz''' ose '''bajloz''' është një personazh legjendar në [[mitologjia shqiptare|mitologjinë dhe folklorin shqiptar]], i cili shfaqet si një [[Antagonisti|antagonist]] i heronjve legjendarë shqiptarë. Ndonjëherë përshkruhet si një përbindësh deti.
+
+== Etimologjia ==
+Fjala ''baloz'' ose ''bajloz'' duket se rrjedh nga fjala latine ''[https://en.wiktionary.org/wiki/baiulus baiulus]''. Fjala ''baloz'', në formën e saj latine, u përdor gjatë periudhës bizantine, ndërsa titulli ''[[:en:bailo|bailo]]'' përcaktonte sunduesit ose përfaqësuesit e [[:en:Angevins|Angevinëve]] dhe të [[Republika e Venedikut|Venedikut]].<ref name="Fetiu1979">{{cite journal |last1=Fetiu |first1=Sadri |title=Aspekte krahasimtare të këngës popullore „Gjergj Elez Alija” |journal=Gjurmime Albanologjike |date=1 mars 1979 |issue=9 |pages=7–20 |url=https://albanica.al/gjurmealbanlogjike/article/view/7874 |language=sq |issn=3136-1595}}</ref> [[Maksimilian Lamberci|Maximilian Lambertz]] sugjeroi gjithashtu se fjala 'Baloz' rrjedh nga italishtja ''[[:en:bailo|bailo]]'', titulli i ambasadorit venedikas te [[Perandoria Osmane|Osmanët]].<ref name=Elsie>{{cite book|author1=Robert Elsie|author2=Janice Mathie-Heck|title=Songs of the Frontier Warriors|url=https://books.google.com/books?id=5xgxBY81S7IC&pg=PA367|year=2004|publisher=Bolchazy-Carducci Publishers|isbn=978-0-86516-412-3|pages=367–|language=en}}</ref>
+
+== Folklori ==
+
+Baloz (si personazh) gjendet në shumë mite dhe legjenda shqiptare për luftën kundër fisnikëve shqiptarë si: Muji, Halili, [[Gjergj Elez Alia]] dhe [[:en:Constantin and Doruntinë|Constantin]]. Përbindëshi gjendet në [[:en:Albanian Songs of the Frontier Warriors|Këngët e Kreshnikëve Shqiptarë]].<ref name=Elsie/>
+
+Përshkrime të hollësishme janë gjetur në një koleksion të miteve shqiptare me titull ''Tregime të Moçme Shqiptare''<ref>{{cite book |title=Tregime të moçme shqiptare
+ |last=Kuteli |first=Mitrush |year=1987 |publisher=Naim Frashëri |location=Tiranë |url=https://books.google.com/books?id=10rhAAAAMAAJ&q=P%C3%ABrralla+t%C3%AB+Mo%C3%A7me+Shqiptare |access-date=8 korrik 2010 |language=sq }}</ref> të mbledhura dhe rishkruara nga [[:en:Dhimitër Pasko|Dhimitër Pasko]].
+
+'''Baloz Sedelija''' ishte një luftëtar sllav në folklorin shqiptar.<ref name=Elsie/> Një tjetër personazh ishte '''Baloz(i) i Zi'''.
+
+== Referime ==
+{{Reflist}}
+
+{{Shqipëria-cung}}
+
+[[Kategoria:Folklor shqiptar]]
+[[Kategoria:Krijesa mitologjike shqiptare]]

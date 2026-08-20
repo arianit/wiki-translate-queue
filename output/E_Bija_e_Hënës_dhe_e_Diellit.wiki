@@ -1,0 +1,43 @@
+<!--
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:E Bija e Hënës dhe e Diellit, versioni i datës 18 korrik 2025 (revizioni 1301161062)
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|E Bija e Hënës dhe e Diellit|18 korrik 2025|1301161062}}
+-->
+
+'''E Bija e Hënës dhe e Diellit''' ("Vajza e Hënës dhe e Diellit") është një personazh në [[Mitologjia shqiptare|mitologjinë dhe folklorin shqiptar]], vajza e [[Hëna|Hënës]] dhe [[Dielli|Diellit]].<ref>{{harvnb|Shuteriqi|1959|p=66}}; {{harvnb|Tirta|2004|ff. 72, 128}}; {{harvnb|West|2007|p=233}}; {{harvnb|Dushi|2020|p=21}}.</ref> Ajo përshkruhet si {{Lang|sq|pika e qiellit}} ("pika e qiellit" ose "rrufeja") që bie nga qielli kudo mbi malet dhe luginat dhe godet mendjemadhësinë dhe të keqen. Në legjendat ajo ndihmon një hero në fitoren e tij kundër një [[Kuçedra|kuçedre]].<ref>{{harvnb|West|2007|p=233}}; {{harvnb|Tirta|2004|ff. 72, 128}}; {{harvnb|Shuteriqi|1959|p=66}}; {{harvnb|Lambertz|1922|p=77}}.</ref> Fitorea e saj mbi kuçedrën simbolizon mbizotërimin e hyjnisë së qiellit mbi atë të nëntokës në [[Paganizmi shqiptar#Lufta dualiste – rinovimi kozmik|luftën dualiste midis dritës dhe errësirës]].<ref>{{harvnb|Tirta|2004|ff. 72, 128}}</ref>
+
+== Mitologjia ==
+Në [[Mitologjia shqiptare|besimet popullore shqiptare]], dielli (''Dielli'') dhe hëna (''Hëna'') janë hyjni të personifikuara. Në përralla, mite dhe legjenda, dielli shfaqet si një figurë mashkullore, ndërsa hëna si një figurë femërore. Në disa tradita, dielli dhe hëna konsiderohen si bashkëshortë, ndërsa në tradita të tjera si vëllezër dhe motra. Në rastin e E Bijës së Hënës dhe e Diellit, dielli është i ati i saj dhe hëna është e ëma e saj.<ref>{{harvnb|Tirta|2004|ff. 72, 128}}</ref><ref>{{harvnb|Dushi|2020|p=21}}</ref>
+
+E Bija e Hënës dhe e Diellit përshkruhet si {{Lang|sq|pika e qiellit}} ("pika e qiellit" ose "rrufeja") që bie nga qielli kudo mbi malet dhe luginat dhe godet mendjemadhësinë dhe të keqen. Në legjendat ajo ndihmon një hero në luftën e tij kundër një [[Kuçedra|kuçedre]], një hyjni ose demon tokësor/nëntokësor që buron nga errësira.<ref>{{harvnb|West|2007|p=233}}; {{harvnb|Tirta|2004|ff. 72, 128}}; {{harvnb|Shuteriqi|1959|p=66}}; {{harvnb|Lambertz|1922|p=77}}.</ref> Në mitologjinë shqiptare, kuçedra zakonisht luftohet dhe mposhtet nga [[Drangoi|drangoi]], i cili konsiderohet gjithashtu si një hyjni ose hero hyjnor i qiellit dhe i rrufesë. Mbizotërimi i E Bijës së Hënës dhe e Diellit dhe i personazheve të tjerë qiellorë shqiptarë – si [[The Twins (Albanian tale)|Zjermi]] që lind me Diellin në ballë – mbi kuçedrën, pasqyron mbizotërimin e hyjnisë së qiellit mbi atë të nëntokës në [[Paganizmi shqiptar#Lufta dualiste – rinovimi kozmik|luftën dualiste midis dritës dhe errësirës]].{{Sfn|Tirta|2004|ff. 72, 127–128}}
+
+== Në letërsi ==
+Legjenda e E Bijës së Hënës dhe e Diellit është treguar gjithashtu nga shkrimtari shqiptar [[Mitrush Kuteli]] në koleksionin ''Tregime të moçme shqiptare'', botuar në vitin 1965.<ref>{{harvnb|Kuteli|1965|ps=: "E Bija e Hënës dhe e Diellit"}}</ref>
+
+== Referime ==
+
+=== Citime ===
+{{Reflist}}
+
+=== Bibliografia ===
+{{Refbegin|30em|indent=yes}}
+<!-- D -->
+*{{Cite journal|last=Dushi|first=Arbnora|title=The Sister-Brother Recognition Motif in the Albanian Folk Ballad: Meaning and Contexts within the National Culture|year=2020|journal=Tautosakos Darbai|volume=59|pages=17–29|doi=10.51554/TD.2020.28363|s2cid=253540847 |doi-access=free|language=en}}
+<!-- K -->
+*{{Cite book|last=Kuteli|first=Mitrush|author-link=Mitrush Kuteli|title=Tregime të Moçme Shqiptare|year=1965|publisher=Naim Frashëri|location=Tirana|language=sq}}
+<!-- L -->
+*{{Cite book|last=Lambertz|first=Maximilian|author-link=Maximilian Lambertz|title=Albanische Märchen (und andere Texte zur albanischen Volkskunde)|place=Wien|publisher=A. Hölder|year=1922|url=https://books.google.com/books?id=0lxtzwEACAAJ|language=de}}
+<!-- S -->
+*{{Cite book|last=Shuteriqi|first=Dhimitër S.|title=Historia e letërsisë shqipe|volume=1|publisher=Universiteti Shtetëror i Tiranës, Instituti i Historisë dhe Gjuhësisë|year=1959|url=https://books.google.com/books?id=lgI-AQAAIAAJ|language=sq}}
+<!-- T -->
+*{{Cite book|last=Tirta|first=Mark|title=Mitologjia ndër shqiptarë|language=sq|editor=Petrit Bezhani|publisher=Mësonjëtorja|year=2004|place=Tirana|isbn=99927-938-9-9}}
+<!-- W -->
+*{{Cite book|last=West|first=Morris L.|title=Indo-European Poetry and Myth|publisher=Oxford University Press|year=2007|isbn=978-0-19-928075-9|author-link=Martin Litchfield West|url=https://books.google.com/books?id=ZXrJA_5LKlYC|language=en}}
+{{Refend}}
+
+[[Kategoria:Paganizmi shqiptar]]
+[[Kategoria:Mitologjia shqiptare]]
+[[Kategoria:Krijesat legjendare shqiptare]]
+[[Kategoria:Hyjnitë e qiellit dhe të motit]]

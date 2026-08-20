@@ -1,0 +1,112 @@
+{{Infobox football biography
+|name                = Bright Friday
+|image               = 
+|fullname            = 
+|birth_date          = {{Birth date and age|1998|12|13|df=y}}
+|birth_place         = Lagosi, [[Nigeria]]
+|height              = {{height|m=}}
+|position            = [[mesfushor]]
+|currentclub         = Maejo United
+|clubnumber          = 70
+|youthyears1         = 
+|youthclubs1         = 
+|years1              = 2017–2018 |clubs1 = [[FK Egnatia]]               |caps1 = 8  |goals1 = 0
+|years2              = 2018      |clubs2 = → [[Shkumbini Peqin]] (huazim) |caps2 = 14 |goals2 = 3
+|years3              = 2018      |clubs3 = [[FK Tomori Berat]]          |caps3 = 12 |goals3 = 3
+|years4              = 2019      |clubs4 = [[FK Shënkolli]]             |caps4 = 12 |goals4 = 2
+|years5              = 2022      |clubs5 = [[Dakkada]] |caps5 = 6  |goals5 = 0
+|years6              = 2023–2024      |clubs6 = Thonburi United |caps6 = 23 |goals6 = 11
+|years7              = 2024     |clubs7 = Saimit Kabin United |caps7 = 6 |goals7 = 2
+|years8              = 2025–     |clubs8 = Maejo United  |caps8 = 0 |goals8 = 0
+|nationalteam1       = 
+|nationalcaps1       = 
+|nationalgoals1      = 
+|club-update         = 18 maj 2019
+|nationalteam-update = 
+}}
+
+'''Bright Friday''' (lindur 13 dhjetor 1998) është një futbollist nigerjan që aktualisht luan si [[mesfushor]].
+
+==Statistika e karrierës==
+
+===Klubi===
+{{updated|22 korrik 2018.}}<ref>{{cite web|title=Bright Friday|url=https://www.soccerway.com/players/bright-friday/517186/|website=Soccerway|access-date=22 korrik 2018|language=en}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="2"|Klubi
+!rowspan="2"|Sezoni
+!colspan="3"|Ligë
+!colspan="2"|Kup
+!colspan="2"|Kontinental
+!colspan="2"|Tjetër
+!colspan="2"|Gjithsej
+|-
+!Divizioni
+!Paraqitje
+!Golat
+!Paraqitje
+!Golat
+!Paraqitje
+!Golat
+!Paraqitje
+!Golat
+!Paraqitje
+!Golat
+|-
+|rowspan="3"|[[FK Egnatia]]
+|2017–18
+|rowspan="2"|Kategoria e Parë
+|8||0||0||0||colspan="2"|–||0||0||8||0
+|-
+|2018–19
+|0||0||0||0||colspan="2"|–||0||0||0||0
+|-
+! colspan="2" |'''Gjithsej'''
+!8!!0!!0!!0!!0!!0!!0!!0!!8!!0
+|-
+|[[Shkumbini Peqin]] (huazim)
+|2017–18
+|Kategoria e Parë
+|14||3||0||0||colspan="2"|–||0||0||14||3
+|-
+! colspan="3" |'''Gjithsej karriere'''
+!22!!3!!0!!0!!0!!0!!0!!0!!22!!3
+|}
+;Shënime
+{{Reflist|group=lower-alpha}}
+
+==Referime==
+{{reflist}}
+
+{{DEFAULTSORT:Friday, Bright}}
+[[Kategoria:Njerëz të lindur në 1998]]
+[[Kategoria:Njerëz të gjallë]]
+[[Kategoria:Futbollistë nga Lagosi]]
+[[Kategoria:Futbollistë nigerjanë]]
+[[Kategoria:Futbollistë nigerjanë të ardhur]]
+[[Kategoria:Mesfushorë të futbollit]]
+[[Kategoria:Lojtarë të Kategoria e Parë]]
+[[Kategoria:Lojtarë të Kategoria e Dytë]]
+[[Kategoria:Lojtarë të Nigeria Professional Football League]]
+[[Kategoria:Lojtarë të Thai League 3|Bright Friday]]
+[[Kategoria:Lojtarë të FK Egnatia]]
+[[Kategoria:Lojtarë të Shkumbini Peqin]]
+[[Kategoria:Lojtarë të FK Tomori Berat]]
+[[Kategoria:Lojtarë të FK Shënkolli]]
+[[Kategoria:Lojtarë të Dakkada]]
+[[Kategoria:Njerëz nigerjanë të ardhur në Shqipëri]]
+[[Kategoria:Futbollistë të ardhur në Shqipëri]]
+[[Kategoria:Njerëz nigerjanë të ardhur në Tajlandë]]
+[[Kategoria:Futbollistë të ardhur në Tajlandë]]
+[[Kategoria:Burra sportistë nigerjanë të shekullit 21]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Bright Friday (footballer)|20 dhjetor 2025|1328624679}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Bright Friday (footballer), versioni i datës 20 dhjetor 2025 (revizioni 1328624679).
+-->

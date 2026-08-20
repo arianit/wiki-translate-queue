@@ -1,0 +1,121 @@
+{{Infobox country
+| conventional_long_name = Arbëria nën dinastinë Hohenstaufen<br><small>Arbëria Hohenstaufen</small>
+| native_name            =
+| national_motto         =
+| national_anthem        =
+| image_map              = Kingdom of Sicily (cropped).jpg
+| image_map_caption      = Harta e Arbërisë nën sundimin e dinastisë Hohenstaufen
+| map_width              =
+| religion               = [[Krishtërimi në Shqipëri|Krishtërimi]] ([[Kisha Katolike Romake në Shqipëri|Katolicizmi Romak]] (fetare shtetërore), [[Ortodoksia Lindore në Shqipëri|Ortodoksia Lindore]])
+| capital                = [[Durrësi]]
+| demonym                = [[Shqiptarët|Shqiptar]]
+| government_type        = [[Monarkia|Monarki]]
+| leader_title1          = Mbreti
+| leader_name1           = {{ill|Manfredi, Mbret i Sicilisë|en|Manfred, King of Sicily}}
+| area_km2               =
+| area_rank              =
+| GDP_PPP                =
+| GDP_PPP_year           =
+| HDI                    =
+| HDI_year               =
+| currency               =
+| year_end               = 1267
+| year_start             = 1258
+| common_languages       = [[Gjuha latine|Latinisht]], [[Gjuha italiane|Italisht]], [[Gjuha shqipe|Shqip]], [[Gjuha greke|Greqisht]]
+| title_leader           =
+| title_deputy           = Komandant dhe Guvernator
+| year_deputy1           = 1258–1267
+| deputy1                = [[Philippe Chinard|Filip Çinardi]]
+| year_deputy2           =
+| deputy2                =
+| event_start            = Kapja e Durrësit
+| event_end              = Vdekja e Manfredit në {{ill|Betejën e Beneventos|en|Battle of Benevento}}
+| event1                 = Lufta me Perandorinë e Nikesë
+| date_event1            = 1259–1261
+| today                  = {{Unbulleted list|[[Shqipëria]]|[[Greqia]]}}
+| p1                     = Despotati i Epirit
+| s1                     = Mbretëria e Arbërisë
+}}
+{{Historia e Shqipërisë}}
+'''Arbëria nën dinastinë Hohenstaufen''' ishte një periudhë e [[Historia e Shqipërisë|Historisë së Shqipërisë]] që zgjati nga viti 1258 deri në 1267, kur [[Shqipëria]] ra nën sundimin e {{ill|dinastisë Hohenstaufen|en|Hohenstaufen}} të [[Mbretëria e Sicilisë|Sicilisë]]. Sundimtari i saj, Manfredi, e kontrollonte Shqipërinë nga selia e tij në [[Durrësi|Durrës]] (it. Durazzo).
+
+Megjithëse mbretër të mëparshëm Hohenstaufen të Sicilisë kishin pretenduar tokat e Shqipërisë, këto aspirata u realizuan vetëm nga Manfredi pas fushatës së tij kundër [[Perandoria e Nikesë|Perandorisë së Nikesë]] midis viteve 1257–1258, e cila solli kapjen e Durrësit, [[Vlora|Vlorës]], Spinaricës dhe [[Berati|Beratit]]. Pas një aleance me [[Despotati i Epirit|Despotatin e Epirit]], zotërimet e tij do të përfshinin gjithashtu [[Bashkia Himarë|Himarën]], Sopotin, [[Butrinti|Butrintin]] dhe [[Korfuzi|Korfuzin]]. Pavarësisht dobësimit të shtetit të tij pas {{ill|Betejës së Pelagonisë|en|Battle of Pelagonia}} dhe fushatës së Paleologëve në bregdetin shqiptar në 1259, Hohenstaufenët vazhduan praninë e tyre në Durrës dhe dy vjet më vonë do të rimerrnin tokat e humbura. Sundimi Hohenstaufen zgjati deri në Betejën e Beneventos në 1266, pas vdekjes së Manfredit. Kjo çoi në rënien e [[Siçilia|Siçilisë]] dhe të zotërimeve Hohenstaufen në Shqipëri nën [[Anzhuinët]].
+
+{{Multiple image
+ | align = left
+ | direction = vertical
+ | width = 160
+ | header =
+ | image1 = Manfred_Sizilien_Manfredi_Sicilia_De_Arte_Venandi_cum_Avibus_-_dated_MSS_1258-1266.png
+ | alt1 =
+ | caption1 = Paraqitje e Manfredit, Mbret i Sicilisë
+ | image2 = Manfred siegel.jpg
+ | alt2 =
+ | caption2 = Vula e mbretit Manfred
+}}
+
+== Historia ==
+=== Sfondi ===
+Hohenstaufenët ishin një familje fisnike gjermane që u ngritën në pushtet duke sunduar Dukatin e Suabisë në 1079 dhe [[Perandoria e Shenjtë Romake|Perandorinë e Shenjtë Romake]] gjatë viteve 1138–1254.<ref>{{cite book |url=https://www.grin.com/document/11046 |title=Die Staufer – Ursprung und Aufstieg eines Herrschergeschlechts |trans-title=Hohenstaufenët – origjina dhe ngritja e një dinastie sunduese |publisher=Grin |last=Schindler |first=Thomas Oliver |date=20 shkurt 2003 |access-date=29 shkurt 2020 |language=de |url-access=subscription}}</ref> Pas konflikteve të tyre me Shtëpinë e Welfëve dhe dobësimit të tyre në hapësirën gjermane, Hohenstaufenët e zhvendosën vëmendjen drejt [[Siçilia|Siçilisë]], të cilën do ta pushtonin me rënien e normanëve gjatë fundshekullit XII.<ref>{{cite book|url=https://books.google.com/books?id=oe_JpPohuQgC&q=Hohenstaufen+Ancient+Rome&pg=PA300|title=A History of the Middle Ages, 300–1500|isbn=9781442210042|last1=Riddle|first1=John M.|date=13 mars 2008|publisher=Rowman & Littlefield Publishers|language=en}}</ref> Përveç Siçilisë, një interes tjetër për Hohenstaufenët ishte [[Shqipëria]]. Henriku VI Hohenstaufen synonte të zgjeronte sferën e tij të ndikimit në [[Deti Adriatik]]. Sipas historianit Niketë Koniati, Henriku dëshironte të sundonte tokat midis Durrësit dhe [[Selaniku|Selanikut]]. Edhe [[Frederiku i II, Perandor i Shenjtë Romak|Perandori Frederik II]] kishte ambicie për Shqipërinë, por ato nuk u realizuan kurrë.{{sfn|Anamali|2002|p=204}}
+
+Gjatë fillimit të shekullit XIII, tokat e Shqipërisë ishin ndarë midis [[Despotati i Epirit|Despotatit të Epirit]] dhe [[Perandoria e Nikesë|Perandorisë së Nikesë]]. Nikenët e kishin forcuar më tej ndikimin e tyre në zonë pas një fushate në Maqedoni midis viteve 1222–1254.{{sfn|Mihajlovski|2006|p=275}}
+
+=== Ekspedita shqiptare e Manfredit ===
+Hohenstaufenët do t'i realizonin aspiratat e tyre në Shqipëri vetëm nën sundimin e Manfredit. Duke shfrytëzuar kryengritjen e Despotatit të Epirit, të udhëhequr nga despoti Mihal II Komnen Duka, kundër Nikenëve gjatë dimrit të vitit 1257, Manfredi, së bashku me admiralin e tij Filip Çinardi, udhëhoqi një ekspeditë në Shqipëri. I mbështetur nga [[Feudalët arbërorë|fisnikëria shqiptare]], ai zbarkoi dhe kapi Durrësin. Më pas kapi pjesën më të madhe të bregdetit shqiptar, përfshirë Vlorën dhe Spinaricën. Në fund, udhëhoqi një fushatë në brendësi të Shqipërisë, duke kapur Beratin. Pavarësisht se ishin në tokë epirote, këto qytete ishin ende nën juridiksionin e Nikesë, megjithatë asnjëra palë nuk kishte administrim të plotë mbi to, për shkak të një kryengritjeje shqiptare më herët atë vit. Mihali II, duke e parë Manfredin si një kundërshtar të denjë, i ofroi dorën e vajzës së tij Helenë Angjelina Duka për martesë. Pas pranimit, Manfredi mori gjithashtu si prikë Korfuzin, Himarën, Butrintin dhe Sopotin.{{sfn|Anamali|2002|p=205}}{{sfn|Treadgold|1997|p=731}}
+
+=== Lufta me Nikenët ===
+Përveç Shqipërisë, Manfredi kishte ambicie edhe për të kapur [[Kostandinopoja|Kostandinopojën]]. Këto ambicie u nxitën më tej nga robëria politike e motrës së tij në oborrin nikean.{{sfn|Treadgold|1997|p=731}} Kjo e çoi atë në përballje të drejtpërdrejtë me Perandorinë e Nikesë. Hohenstaufenët, së bashku me aleatët e tyre, morën pjesë në Betejën e Pelagonisë në pranverën e vitit 1259, por u mundën shpejt nga Perandoria e Nikesë, e cila tashmë kishte kaluar nën komandën e [[Paleologët|dinastisë Paleologe]].{{sfn|Geanakoplos|1953|p=132–133}} Pavarësisht se vetëm 300 ushtarë Hohenstaufen morën pjesë në betejë, humbja e dobësoi dhe e ekspozoi Manfredin. Të njëjtin vit, Nikenët organizuan një fushatë në Shqipëri nën Mihal VIII Paleologun, duke pushtuar të gjitha tokat Hohenstaufen përveç Durrësit, të cilin nuk arritën ta kapnin. Në 1261, i përforcuar me ushtarë të rinj, Manfredi organizoi një kundërsulm dhe i rimori tokat e tij, duke mundur Nikenët.{{sfn|Anamali|2002|p=205}}
+
+=== Rënia dhe fundi ===
+[[File:Villani Benevento.jpg|thumb|350px|Miniaturë që përshkruan Betejën e Beneventos (1266), me [[Anzhuinët|forcat anzhuine]] në të majtë dhe forcat Hohenstaufen në të djathtë]]
+
+Manfredi vazhdoi sundimin e tij mbi Shqipërinë deri në 1267. Po atë vit, u mund nga [[Anzhuinët]] në Betejën e Beneventos. U vra në betejë së bashku me shumicën e ushtrisë Hohenstaufen. Pjesa tjetër e Siçilisë ra gjithashtu me pak apo aspak rezistencë ndaj rivalit të tij, [[Karli I i Anzhusë|Karlit I të Anzhusë]]. Në Shqipëri, zëvendëskomandanti i Manfredit, Filip Çinardi, u vra në një komplot të organizuar nga Despotati i Epirit. Pavarësisht suksesit të komplotit të tyre, epirotët nuk arritën të merrnin kontrollin mbi Shqipërinë.{{sfn|Anamali|2002|p=206}}{{sfn|Oman|2012|p=560}} Pas vdekjes së Manfredit, Traktati i Viterbos, nënshkruar në 1267, njohu të drejtat e Karlit I mbi territoret shqiptare të Manfredit. Gazo Çinardi, i cili ishte ose vëllai, ose djali i Filip Çinardit, fillimisht u përpoq t'i bindte fisnikët vendas shqiptarë t'ia nënshtronin këto toka Karlit, dhe më vonë u emërua Vikar i Përgjithshëm i [[Mbretëria e Arbërisë|Mbretërisë së Arbërisë]] në 1272. Tokat Hohenstaufen në Shqipëri do të pësonin një fat të ngjashëm me Siçilinë, duke rënë nën Anzhuinët me pak rezistencë.{{sfn|Anamali|2002|p=206–207}}
+
+== Politika dhe ndikimi ==
+=== Administrata ===
+[[File:ShepherdByzempire1265.jpg|thumb|right|300px|alt=Harta politike e Ballkanit dhe e Azisë së Vogël rreth vitit 1265|Harta e [[Perandoria Bizantine|Perandorisë Bizantine]] të rivendosur nga Mihal VIII Paleologu në 1265, duke përfshirë pronën e Manfredit në Shqipëri]]
+Hohenstaufenët kontrollonin disa qytete në Shqipëri. Durrësi ishte kryeqyteti i tyre në rajon. Kryeqyteti i tyre dytësor, Korfuzi, ishte selia e zëvendëskomandantit, Filip Çinardit, i cili vepronte si sundimtar i Hohenstaufenëve në Shqipëri kur Manfredi ishte në fushatë në [[Italia|Itali]]. Përfundimisht, Filipi e zhvendosi selinë e tij në [[Kanina, Vlorë|Kaninë]].{{sfn|Anamali|2002|p=206}}
+
+[[File:Kaninë Castle 1571 (cropped).jpg|thumb|Paraqitje e [[Kalaja e Kaninës|Kalasë së Kaninës]] nga viti 1571]]
+
+Kështjellat luajtën një rol shumë të rëndësishëm në territoret Hohenstaufen. Të ndërtuara kryesisht rreth qyteteve, ato shërbenin jo vetëm për mbrojtje, por edhe për të shënuar bashkitë. Çdo bashki kishte zotërinë e vet, zakonisht italian ose gjerman, megjithëse në disa raste ishin edhe fisnikë shqiptarë. Këto bashki përbënin provinca të ndryshme, më e madhja prej të cilave ishte Provinca e Kaninës, e qeverisur nga Jakob Blasiniani. Ajo përfshinte vetë Kaninën, së bashku me Vlorën, [[Orikumi|Orikumin]], [[Vranisht|Vranishtin]] dhe Voniçën. Kalaja e Kaninës ishte gjithashtu më e rëndësishmja prej tyre. Të gjithë fisnikët në Shqipërinë Hohenstaufen duhej të kryenin shërbim garnizoni brenda kalasë për një muaj çdo vit.{{sfn|Anamali|2002|p=205–206}}
+
+=== Aleancat ===
+Pushtimi i Shqipërisë krijoi një sferë të re ndikimi për Hohenstaufenët në Ballkan. Ky ndikim u arrit përmes shumë aleancash. Aleancat e tyre më të rëndësishme ishin ato me zotërinjtë shqiptarë, të cilët e pranuan Manfredin si mbretin e tyre dhe i dhanë tokat e tyre pa rezistencë. Shumë prej fisnikëve shqiptarë vazhduan të mbanin tituj të lartë. Një prej këtyre fisnikëve ishte [[Andrea Vrana]], i cili u bë gjithashtu kapiten i ushtrisë Hohenstaufen. Përveç kësaj, shumë shqiptarë përbënin ushtrinë e Manfredit dhe madje morën pjesë në fushatat e tij në Itali.{{sfn|Anamali|2002|p=206}}
+
+Manfredi krijoi gjithashtu aleanca me vende të tjera të rajonit. Aleanca e tij me Despotatin e Epirit i siguroi toka në [[Toskëria|Shqipërinë e Jugut]] dhe [[Epiri|Epir]], si dhe një aleat kundër Perandorisë së Nikesë. Manfredi gjithashtu u bë pjesë e një aleance më të gjerë antinikease në rajon, e cila, përveç Epirit dhe Hohenstaufenëve, përfshinte edhe Principatën e Akaias, Dukatin e Athinës, Dukatin e Naksosit dhe Triarkinë e Negropontit.{{sfn|Nicol|1993|p=28}}{{sfn|Bartusis|1997|p=37}}
+
+== Shiko edhe ==
+* {{ill|Shqipëria nën Serbinë në Mesjetë|en|Albania under Serbia in the Middle Ages}}
+* [[Arbëria nën Perandorinë Bizantine]]
+* [[Arbëria nën Perandorinë Bullgare]]
+* [[Arbëria në Mesjetë]]
+
+== Referime ==
+{{Reflist}}
+
+== Burimet ==
+* {{cite book|title=Historia e popullit shqiptar I, Mesjeta|url=https://books.google.com/books?id=UlUtAQAAIAAJ|year=2002|first=Skënder|last=Anamali|publisher=Toena|isbn=9789992716229|oclc=52411919|language=sq}}
+* {{cite journal|last=Mihajlovski|first=Robert|title=The Battle of Pelagonia 1259: A New Look through the March Routes and Topography|pages=275–284|journal=Byzantinoslavica|volume=64|year=2006|issn=0007-7712|url=https://www.academia.edu/11217477|language=en}}
+* {{cite book|url=https://books.google.com/books?id=nYbnr5XVbzUC|title=A History of the Byzantine State and Society|first=Warren T.|last=Treadgold|year=1997|publisher=Stanford University Press|isbn=9780804726306|language=en}}
+* {{cite journal|last=Geanakoplos|first=Deno John|title=Greco-Latin Relations on the Eve of the Byzantine Restoration: The Battle of Pelagonia–1259|journal=Dumbarton Oaks Papers|year=1953|volume=7|pages=99–141|doi=10.2307/1291057|jstor=1291057|url=https://www.jstor.org/stable/1291057|language=en}}
+* {{cite book|last=Oman|first=Charles|url=https://books.google.com/books?id=ue5hyJlCGzcC&q=charles+oman+battle+of+muret&pg=PT553|title=A History of the Art of War: The Middle Ages from the Fourth to the Fourteenth Century|year=2012|publisher=Tales End Press|isbn=978-1-62358-003-2|language=en}}
+* {{cite book|url=https://books.google.com/books?id=y2d6OHLqwEsC|title=The Last Centuries of Byzantium, 1261–1453|first=Donald M.|last=Nicol|year=1993|publisher=Cambridge University Press|isbn=9780521439916|language=en}}
+* {{cite book|title=The Late Byzantine Army: Arms and Society 1204–1453|first=Mark C.|last=Bartusis|location=Philadelphia, Pennsylvania|publisher=University of Pennsylvania Press|year=1997|isbn=978-0-8122-1620-2|url=https://books.google.com/books?id=rUs-hHd89xAC|language=en}}
+
+[[Kategoria:Historia e Shqipërisë]]
+[[Kategoria:Historia mesjetare e Shqipërisë]]
+[[Kategoria:Mbretëria e Arbërisë]]
+[[Kategoria:Historia e Durrësit]]
+[[Kategoria:Durrësi]]
+[[Kategoria:Familja Hohenstaufen]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Albania under the Hohenstaufen|11 korrik 2026|1363568605}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Albania under the Hohenstaufen, versioni i datës 11 korrik 2026 (revizioni 1363568605).
+-->

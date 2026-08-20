@@ -1,0 +1,34 @@
+<!--
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Shtojzovalle, versioni i datës 31 korrik 2024 (revizioni 1237820243)
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Shtojzovalle|31 korrik 2024|1237820243}}
+-->
+
+Në [[Mitologjia shqiptare|mitologjinë shqiptare]], '''shtojzovalleja''', e njohur edhe si '''shtojzorreshta''' ose '''shtozote''', është një krijesë e vogël me fuqi mbinatyrale dhe me bukuri të jashtëzakonshme. Ato janë krijesa të padukshme të pyjeve, të cilat mund të shihen nga njerëzit vetëm në raste të rralla dhe janë të dhëna pas këngës dhe vallëzimit.
+
+== Emri ==
+Termi ''shtojzovalle'' rrjedh nga fjalët shqipe ''shtoj'' (anglisht: add), ''zot'' (anglisht: god, deity) dhe ''valle'' (anglisht: dance), ku termi në anglisht do të thotë "le të japë Zoti rritje vallëzimit të tyre" ose "shumo, Zot, korin e tyre".<ref name="elsie">{{cite book|last=Elsie|first=Robert|title=A dictionary of Albanian religion, mythology and folk culture|publisher=C. Hurst & Co. Publishers|year=2001|pages=235–6|isbn=1-85065-570-7|url=https://books.google.com/books?id=N_IXHrXIsYkC|language=en}}</ref><ref name="bonefoy">{{cite book|last=Bonefoy|first=Yves|title=American, African, and Old European mythologies|publisher=[[University of Chicago Press]]|year=1993|pages=253|isbn=0-226-06457-3|url=https://books.google.com/books?id=GYjc5POwJjAC|language=en}}</ref> Emri ''shtojzovalle'' është produkt i [[Paganizmi|paganizmit]] dhe [[Krishtërimi|krishtërimit]] në [[sinqretizëm|sinqretizmin]] fetar.<ref name="bonefoy"/> Termi alternativ ''shtojzorreshta'' do të thotë "le të japë Zoti rritje radhëve të tyre" në anglisht.<ref name="elsie"/>
+
+== Tiparet ==
+Shtojzovallet janë krijesa të vogla mashkullore dhe femërore me bukuri të jashtëzakonshme. Ato jetojnë në pyje dhe kullota dhe kalojnë kohën duke kënduar dhe duke vallëzuar.<ref name="elsie"/> Ato kanë aftësinë të fluturojnë dhe natën e përdredhin fillin e ekzistencës njerëzore. Ato janë të padukshme për njerëzit dhe një njeri mund t'i shohë vetëm nëse e ngre një vel të padukshëm para syve të tyre.<ref name="elsie"/> Herë pas here njerëzit dhe shtojzovallet martohen, por një njeri mund ta mbajë një vajzë shtojzovalle vetëm nëse i jep rrobat e tij për t'i veshur. Nëse një njeri ndërton shtëpinë e tij në toka të banuara nga shtojzovallet, shtëpia do të jetë e ndjekur nga shtojzovallet që tundin zinxhirë të rëndë hekuri. Kur njerëzit shkojnë për një shëtitje dhe shkelin një shtojzovalle, ata mund të hanë prej saj.<ref name="elsie"/>
+
+== Sinqretizmi fetar ==
+
+Kristianët shqiptarë dhe veçanërisht [[Katolicizmi në Shqipëri|katolikët]] e Shqipërisë së Veriut dhe [[Malësia|Malësisë]] i kanë atribuar disa karakteristika kristiane shtojzovalleve.<ref name="elsie"/> Sipas këtyre traditave, kur [[Mëhilli (kryeengjëll)|Kryeengjëlli Mëhilli]] luftoi kundër [[Satani|Satanit]], engjëjt që mbetën neutralë u bënë shtojzovallet.<ref name="elsie"/> Shtojzovallet qajnë në pendim për neutralitetin e tyre dhe nëse lotët e tyre bien mbi një njeri, ai do të vdesë.<ref name="elsie"/> Fraza shqipe ''i ka rënë pika'' (anglisht: "a drop fell upon him"), metaforikisht do të thotë se dikush ka vdekur dhe fraza rrjedh nga ky besim.<ref name="elsie"/>
+
+== Shiko edhe ==
+
+* [[Mitologjia shqiptare]]
+* [[Shurdhi]]
+* [[Drangoi]]
+* [[Zana e malit]]
+
+== Burimet ==
+{{Reflist}}
+
+[[Kategoria:Paganizmi shqiptar]]
+[[Kategoria:Mitologjia shqiptare]]
+[[Kategoria:Krijesa mitologjike shqiptare]]
+[[Kategoria:Frymë pyjore]]

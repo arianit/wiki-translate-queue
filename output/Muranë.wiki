@@ -1,0 +1,33 @@
+<!--
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Muranë, versioni i datës 7 korrik 2026 (revizioni 1362921774)
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Muranë|7 korrik 2026|1362921774}}
+-->
+
+'''Murana''' ([[Gjuha shqipe|shqip]]: '''murana''') është një [[varre tumulare]] prej gurësh e ndërtuar tradicionalisht nga [[Shqiptarët|shqiptarët]] me funksionin e ruajtjes së kujtesës së [[Paraardhësi|paraardhësve]] dhe monumentalizimit të [[Vdekja|vdekjes]]. Në [[Paganizmi shqiptar|paganizmin shqiptar]] muranat lidhen me kultin e gurit, [[adhurimin e paraardhësve]] dhe kultin e [[Heroi|heroit]]. Ato rregullohen nga [[Kanuni|Kanuni]], ligji tradicional zakonor shqiptar që ka drejtuar të gjitha aspektet e [[Fiset shqiptare|shoqërisë fisnore shqiptare]].<ref>{{harvnb|Galaty|2018|p=100–102}}; {{harvnb|Sokoli|2013|p=181}}; {{harvnb|Tirta|2004|p=87}}.</ref>
+
+== Historia ==
+{{Fise shqiptare}}
+Murana konsiderohen pasardhës të largët të [[tumul]]eve parahistorike të Shqipërisë, me të vërtetë të dyja kanë shërbyer si kodra kujtese dhe për të monumentalizuar vdekjen. Peizazhi [[tradita gojore|gojor]] shqiptar dhe sistemet e kujtesës fuqizoheshin nga gurët dhe kockat, nderi dhe gjaku, me rregullim përmes [[Kanuni|Kanunit]], një ligj zakonor i transmetuar gojarisht përmes brezave nga pleqtë shqiptarë.{{Sfn|Galaty|2018|p=100–102}}
+
+Sistemet tradicionale të kujtesës kanë mbijetuar të paprekura deri në kohët moderne në Shqipëri, një fenomen që shpjegohet nga mungesa e formimit të shtetit midis shqiptarëve dhe paraardhësve të tyre – [[Ilirët|ilirëve]], duke qenë në gjendje të ruajnë shoqërinë e tyre të organizuar "fisnore". Kjo i dallonte ata nga civilizimet si [[Egjipti i Lashtë|Egjipti i lashtë]], [[Minoanët]] dhe [[Mikenasit]], të cilët kishin kaluar nëpër formim shtetëror.{{Sfn|Galaty|2018|p=102}}
+
+== Referime ==
+{{Reflist}}
+
+== Bibliografi ==
+{{Refbegin|30em|indent=yes}}
+<!-- G -->
+*{{Cite book|last=Galaty|first=Michael L.|title=Memory and Nation Building: From Ancient Times to the Islamic State|publisher=Rowman & Littlefield|year=2018|url=https://books.google.com/books?id=SEBiDwAAQBAJ|isbn=9780759122628|language=en}}
+<!-- S -->
+*{{Cite book|last=Sokoli|first=Ramadan|editor=Margaret Read MacDonald|translator=Pranvera Xhelo|chapter=The Albanian World in the Folk Teller's Stories|title=Traditional Storytelling Today: An International Sourcebook|publisher=Routledge|year=2013|orig-year=1999|isbn=9781135917142|chapter-url=https://books.google.com/books?id=i8RdAgAAQBAJ&pg=PA181|language=en}}
+<!-- T -->
+*{{Cite book|last=Tirta|first=Mark|title=Mitologjia ndër shqiptarë|language=sq|editor=Petrit Bezhani|publisher=Mësonjëtorja|year=2004|place=Tirana|isbn=99927-938-9-9}}
+{{Refend}}
+
+[[Kategoria:Paganizmi shqiptar]]
+[[Kategoria:Kultura e Shqipërisë]]
+[[Kategoria:Varret]]
+[[Kategoria:Zakone të vdekjes]]

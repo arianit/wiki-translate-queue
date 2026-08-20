@@ -1,0 +1,49 @@
+<!--
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Nëna e Vatrës, versioni i datës 10 nëntor 2024 (revizioni 1256607389)
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Nëna e Vatrës|10 nëntor 2024|1256607389}}
+-->
+
+'''Nëna e Votrës''' ose '''Nana e Votrës''' ("E Ëma e Vatrës") është një figurë mitologjike shqiptare, mbrojtëse e [[Mangalli|vatrës]] ([[Votra]]), e lidhur me adhurimin e zjarrit të shtëpisë, [[Kulti i të parëve|kultin e të parëve]] dhe jetën [[Familja|familjare]].{{sfn|Gjoni|2012|pp=95–96}}{{sfn|Tirta|2004|pp=176, 410}} Ndonjëherë ajo konsiderohet si hyjni (''hyjni e zjarrit të [[Votra|votrës]]'' "hyjnia e zjarrit të vatrës") në traditat shqiptare.{{sfn|Gjoni|2012|p=95}}{{sfn|Monaghan|1997|p=350}}{{sfn|Poghirc|1987|p=179}}
+
+==Emrat dhe etimologjia==
+Nëna e Votrës është një figurë mitologjike e zjarrit të vatrës që gjendet zakonisht në besimet popullore të [[Shqiptarët|shqiptarëve]], prandaj ka shumë variante [[Dialektet e gjuhës shqipe|dialektorale]], në numër njëjës ose shumës: ''Nëna e Votrës/Nana e Votrës'', ''E Ëma e Votrës/E Ama e Votrës'', ''Mëma e Votrës/Mama e Votrës'', ''Shtriga e Votrës'', ''Plaka e Votrës'', ''Mëmat e Votrës/Mamat e Votrës'', ''Xhuxhet e Votrës'' etj.{{sfn|Tirta|2004|pp=176}}{{sfn|Gjoni|2012|p=95}} Pjesa e parë ''nënë/nanë'' ose ''ëmë/amë'', do të thotë "[[Nëna|nënë]]"; ndërsa pjesa e fundit ''vatër/votër'', do të thotë "[[Mangalli|vatër]]", "[[Oxhaku|oxhak]]", dhe është e lidhur me fjalën avestane ''[[atar]]'', "zjarr".{{sfn|Poghirc|1987|p=179}}{{sfn|Mallory|Adams|1997|p=263}}
+
+==Besimet popullore==
+[[File:Fireplace of a House of Shkreli.png|thumb|250px|Oxhaku (''[[Votra]]'') i një shtëpie të [[Shkrel|Shkrelit]], Shqipëria veriore, vizuar nga [[Edith Durham]] në 1909.]]
+
+Sipas besimeve popullore shqiptare, Nëna e Votrës është mbrojtëse e [[Mangalli|vatrës]], [[Oxhaku|oxhakut të shtëpisë]]. Thuhet se oxhaku duhet të pastrohet në mbrëmje. Nëse lihet i papastruar, Nëna e Votrës zemërohet.{{sfn|Tirta|2004|pp=176}}{{sfn|Gjoni|2012|p=96}} Anëtarët e familjes duhet të sillen me respekt ndaj saj.{{sfn|Gjoni|2012|p=96}} Në festa, njerëzit zakonisht praktikonin oferta flijimi për hyjninë duke hedhur një pjesë të ushqimit që përgatisnin në zjarr dhe rreth vatrës.{{sfn|Tirta|2004|pp=177, 179}}{{sfn|Gjoni|2012|p=96}}
+
+Nëna e Votrës ka ngjashmëri me [[Hestia|Hestinë]] [[Mitologjia greke|greke]] dhe [[Vesta (mythology)|Vestën]] [[Mitologjia romake|romake]].{{sfn|Poghirc|1987|p=179}}{{sfn|Tirta|2004|pp=176, 410}}{{sfn|Monaghan|1997|p=350}}{{sfn|Gjoni|2012|p=90}} Për hyjnat greke dhe romake u kushtoheshin vende të përcaktuara publike për adhurim, ndërsa në traditën shqiptare vendi i adhurimit të Nënës së Votrës është vatra e çdo shtëpie.{{sfn|Gjoni|2012|p=96}}
+
+==Shiko edhe==
+* [[Enji (hyjni)]]
+* [[I Verbti]]
+* [[Prende]]
+* [[Fatia]]
+* [[Ora (mitologji)]]
+* [[Vitore]]
+* [[Gabija]]
+* [[Nimfeu i Apollonisë]]
+
+==Burimet==
+===Citimet===
+{{reflist}}
+
+===Bibliografia===
+{{refbegin|30em|indent=yes}}
+*{{cite thesis|type=PhD|last=Gjoni|first=Irena|title=Marrëdhënie të miteve dhe kulteve të bregdetit të Jonit me areale të tjera mitike|publisher=Universiteti i Tiranës, Fakulteti i Historisë dhe i Filologjisë|language=sq|year=2012|place=Tirana}}
+*{{citation|title=Encyclopedia of Indo-European Culture|url=https://books.google.com/books?id=tzU3RIV2BWIC|year=1997|editor1-last=Mallory|editor1-first=James P.|place=London|publisher=Routledge|isbn=978-1-884964-98-5|id=(EIEC)|editor2-last=Adams|editor2-first=Douglas Q.|editor1-link=J. P. Mallory|editor2-link=Douglas Q. Adams|language=en}}
+*{{cite book |last=Monaghan |first=Patricia |title=The New Book of Goddesses & Heroines |date=1997 |publisher=Llewellyn Publications |isbn=9781567184655 |pages=324 |url=https://books.google.com/books?id=aUMNAQAAMAAJ |language=en }}
+*{{cite book|last=Poghirc|first=Cicerone|title=The Encyclopedia of Religion|volume=1|chapter=Albanian Religion|editor=Mircea Eliade|place=New York|publisher=MacMillan Publishing Co|year=1987|pages=178–180|language=en}}
+*{{cite book|last=Tirta|first=Mark|title=Mitologjia ndër shqiptarë|language=sq|editor=Petrit Bezhani|publisher=Mësonjëtorja|year=2004|place=Tirana|isbn=99927-938-9-9}}
+
+{{refend}}
+
+[[Kategoria:Mitologjia shqiptare]]
+[[Kategoria:Paganizmi shqiptar]]
+[[Kategoria:Mitologjia paleo-ballkanike]]
+[[Kategoria:Hyjnitë e shtëpisë dhe të vatrës]]
+[[Kategoria:Hyjnitë e zjarrit]]

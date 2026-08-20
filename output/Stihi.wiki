@@ -1,0 +1,32 @@
+<!--
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Stihi, versioni i datës 27 tetor 2024 (revizioni 1253698599)
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Stihi|27 tetor 2024|1253698599}}
+-->
+
+'''Stihi''' është një demon stuhie që frymëron zjarr në [[Mitologjia shqiptare|mitologjinë dhe folklorin shqiptar]], i ngjashëm me [[Kuçedra|kuçedrën]].{{Sfn|Lurker|2004|p=176}}{{Sfn|Elsie|2001|pp=241-242}}{{Sfn|Tirta|2004|p=164}}
+
+== Etimologjia ==
+Termi shqip ''stihí'' është një variant i ''stuhí'', "[[Stuhia|stuhi]]", i lidhur me (greqishtja e vjetër: στοιχείο), "element, frymë".{{Sfn|Elsie|2001|pp=241-242}}
+
+== Pamja ==
+Një demon femër në besimin popullor të [[Toskët|Shqipërisë së Jugut]] dhe [[Arbëreshët në Itali|arbëreshëve]]. Ndonjëherë përshkruhet si një dragua e frikshme që frymëron zjarr dhe ruan një thesar.{{Sfn|Lurker|2004|p=176}}{{Sfn|Elsie|2001|pp=241-242}}
+
+== Shiko edhe ==
+* [[Kuçedra]]
+* [[Perria]]
+
+== Burimet ==
+=== Citimet ===
+{{Reflist}}
+=== Bibliografia ===
+*{{Cite book |last1= Elsie |first1= Robert |author-link=Robert Elsie |title= A dictionary of Albanian religion, mythology and folk culture |year= 2001| isbn = 978-1-85065-570-1 |publisher= NYU Press | url=https://books.google.com/books?id=N_IXHrXIsYkC |page=236 | language=en }}
+*{{Cite book |last1= Lurker |first1= Manfred |title= The Routledge dictionary of gods and goddesses, devils and demons |publisher= Routledge |year= 2004 | url=https://books.google.com/books?id=Vtj0wSsw1JcC | isbn = 978-0-415-34018-2 | language=en}}
+*{{Cite book|last=Tirta|first=Mark|title=Mitologjia ndër shqiptarë|language=sq|editor=Petrit Bezhani|publisher=Mësonjëtorja|year=2004|location=Tirana|isbn=99927-938-9-9}}
+
+{{Shqipëria-cung}}
+[[Kategoria:Qenie mitologjike shqiptare]]
+[[Kategoria:Folklor shqiptar]]
+[[Kategoria:Demonë]]

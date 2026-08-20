@@ -1,0 +1,555 @@
+{{Infobox festival muzikor
+| name         = DokuFest
+| image        = [[File:DokuFest logo.svg|frameless|125px|class=skin-invert]]
+| image_size   =
+| alt          =
+| caption      =
+| genre        = [[Festivali i filmit|Festival filmik]]
+| dates        = Gusht
+| location     = [[Prizreni]], [[Kosova|Kosovë]]
+| coordinates  =
+| years_active = 2002–aktualisht
+| founders     = Veton Nurkollari
+| organised    = [[Organizata joqeveritare|OJQ]]
+| attendance   =
+| capacity     =
+| website      = {{URL|https://dokufest.com/}}
+}}
+
+'''DokuFest''' është një festival ndërkombëtar i filmit [[Filmi dokumentar|dokumentar]] dhe të filmit [[Filmi i shkurtër|të shkurtër]] që mbahet në qytetin e [[Prizreni]]t në [[Kosova|Kosovë]], zakonisht në fillim të gushtit. U themelua në vitin 2002 nga një grup miqsh. Që atëherë festivali është rritur në një ngjarje kulturore që tërheq artistë dhe audiencë ndërkombëtare dhe rajonale. Filmat shfaqen gjatë gjithë festivalit tetë-ditor, të shoqëruar me programe, aktivitete dhe punëtori.<ref name="FEK1">{{cite encyclopedia|editor-last=Kraja|editor-first=Mehmet|editor-link=Mehmet Kraja|encyclopedia=Fjalori Enciklopedik i Kosovës|title=Fjalori Enciklopedik i Kosovës|url=https://books.google.com/books?id=WHo-wAEACAAJ|language=sq|year=2018|publisher=[[Akademia e Shkencave dhe e Arteve e Kosovës]]|volume=1|location=[[Prishtinë]]|isbn=9789951615846|oclc=1080379844|page=440}}</ref>
+
+Në vitin 2022, DokuFest u bë festival nominues për Çmimet e Filmit Evropian ([[:en:European Film Awards|European Film Awards]]) në dy kategori, film i shkurtër dhe film dokumentar.<ref>{{cite web |title=DOKUFEST BECOMES EFA NOMINATING FESTIVAL |url=https://dokufest.com/en/news/dokufest-becomes-efa-nominating-festival |website=DokuFest |publisher=DokuFest |language=en |access-date=2022-06-04}}</ref>
+
+== Sfondi ==
+[[File:Kino-Kalaja.jpg|thumb|300px|Kino Kalaja]]
+
+DokuFest u themelua si organizatë me bazë vullnetare në vitin 2002, pothuajse pa asnjë financim në fillim, dhe vazhdon të marrë mbështetje nga komuniteti dhe agjencitë brenda Kosovës. Megjithatë, rruga e tij shpesh është shoqëruar me vështirësi të mëdha, për shkak të kontekstit të veçantë në të cilin ka vepruar organizata (siç janë [[Lufta e Kosovës|situata e pasluftës]], mungesa e ngjarjeve të ngjashme referuese, mungesa e besimit nga institucionet dhe donatorët e mundshëm etj.).<ref>{{Cite news |last=Willis |first=Kim |date=2014-08-02 |title=Moving pictures: a film festival in Kosovo |language=en |work=The Guardian |url=https://www.theguardian.com/travel/2014/aug/02/kosovo-film-festival-prizren |access-date=2023-08-04 |issn=0261-3077}}</ref>
+
+Festivali u drejtua nga vullnetarë deri sa u futën kontratat me kohë të plotë dhe të pjesshme në vitin 2008, gjë që solli punësimin e një numri të vogël stafi. Nevoja për një strukturë organizative lindi kur organizata u përfshi në zbatimin e projekteve vjetore, krahas organizimit të festivalit. Kjo çoi në krijimin e një ekipi bazë që mori përsipër hartimin, planifikimin dhe zbatimin e shumë nismave, duke rezultuar në zbatimin e suksesshëm të disa projekteve.
+
+Përveç organizimit të ngjarjeve kulturore në shkallë të gjerë, DokuFest merret gjithashtu me kulturën, arsimin dhe aktivizmin për politika të shëndosha kulturore dhe një sistem alternativ arsimor në Kosovë.
+
+Sipas një raporti të vitit 2015 të ''Institutit GAP'', rreth 14.000–15.000 vizitorë nga e gjithë bota shkuan në Prizren gjatë DokuFestit (në rritje nga vlerësimi prej 10.000 vizitorësh i vitit 2011),<ref>{{Cite web |date=2011-02-01 |title=Economic Impact of DokuFest for the period of 2011-2014 |url=https://www.institutigap.org/documents/22462_TheEconomicImpactofDokuFest.pdf |url-status=live |archive-url=https://web.archive.org/web/20220811114907/https://www.institutigap.org/documents/7369_TheEconomicimpactDokuFest2015.pdf |archive-date=2022-08-11 |access-date=2023-08-04 |website=Institute for Advanced Studies - GAP |language=en}}</ref> duke e çuar ndikimin ekonomik të festivalit në mbi 4,7 milionë euro.<ref>{{Cite web |date=2016-02-01 |title=The Economic Impact of DokuFest 2015: forecasts for 2016-2018 |url=https://www.institutigap.org/documents/7369_TheEconomicimpactDokuFest2015.pdf |url-status=live |archive-url=https://web.archive.org/web/20220811111908/https://www.institutigap.org/documents/22462_TheEconomicImpactofDokuFest.pdf |archive-date=2022-08-11 |access-date=2023-08-04 |website=Institute for Advanced Studies - GAP |language=en}}</ref><ref>{{Cite news |last=Bami |first=Xhorxhina |last2=Isufi |first2=Antigonë |date=2022-08-12 |title=Against Bleak Global Backdrop, Kosovo's Dokufest Ponders 'How to Survive?' |work=Balkan Insight |url=https://balkaninsight.com/2022/08/12/against-bleak-global-backdrop-kosovos-dokufest-ponders-how-to-survive/ |language=en}}</ref>
+
+Sot, DokuFest është edhe organizatë joqeveritare, e cila punon për të nxitur arsimimin mediatik përmes filmit në mbarë Kosovën, përveç detyrave të saj si festival.
+
+== Struktura e programit ==
+
+Festivali përfshin shfaqjen e filmave në shtatë kinema të improvizuara në qytetin e Prizrenit, ekspozitën fotografike "DokuPhoto", punëtori, [[Master class|klasa master]] dhe debate, ndër të tjera.<ref>{{cite web|title=DokuFest {{!}} About DokuFest|url=http://www.dokufest.com/2019/info/about-dokufest|website=DokuFest|url-status=live|archive-url=https://web.archive.org/web/20190923124155/https://dokufest.com/2019/info/about-dokufest/ |archive-date=2019-09-23 |access-date=2020-05-17 |language=en}}</ref>
+
+Drejtor krijues i festivalit është një nga themeluesit e tij, Veton Nurkollari.
+
+*'''Nisma për trajnim filmi''' e quajtur "Human Rights Film Factory – Stories from Kosovo's Margins", që përfshin një seri punëtorish për kineastë, prodhimin e gjashtë dokumentarëve për të drejtat e njeriut, të shoqëruar me një seri debatesh mbi të drejtat e njeriut në mbarë Kosovën.
+*'''Promovimi i të Drejtave të Njeriut dhe Vlerave Demokratike përmes Filmit''', që përfshin përdorimin e filmave dokumentarë për të drejtat e njeriut si mjete edukative dhe themelimin e Kino Klubeve në shkolla të mesme, si dhe një shkollë filmi dokumentar që udhëheq nxënësit e shkollave të mesme të Kosovës gjatë procesit të shndërrimit të ideve të tyre filmike në një dokumentar të përfunduar.
+*'''Kinema Udhëtuese''' "Cinema at Your Door", e cila synon shfaqjen e filmave dokumentarë në zonat rurale të rajonit të Prizrenit, të shoqëruara me diskutime mbi vështirësitë që përjetojnë komunitetet rurale në jetën e tyre të përditshme dhe mungesën e aktiviteteve kulturore në rrethinat e tyre.
+*'''Pjesë e një rrjeti më të gjerë OJQ-sh''' që punon në mënyrë aktive për çështje mjedisore dhe promovimin e burimeve të ripërtëritshme në Kosovë.
+*'''Pjesëmarrje dhe kontribut aktiv në rrjete kombëtare dhe rajonale''', me synim zhvillimin e politikave të shëndosha kulturore dhe organizimin e debateve me palët relevante të interesit, si në Kosovë ashtu edhe në rajon.
+
+== Përvoja në kinema ==
+[[File:DokuKino at night.jpg|thumb|DokuKino, kinemaja vendase e DokuFestit]]
+Rrënjët e festivalit janë te kinemaja më e vjetër e Prizrenit, Kinemaja Lumbardhi, ku u mbajt edicioni i parë. DokuFest vazhdon të ketë një lidhje të fortë me OJQ-në amë të kinemasë, Fondacioni Lumbardhi, si strehues i dy vendeve kryesore të festivalit, Lumbardhi Indoor (përdoret gjatë ditës) dhe Lumbardhi Outdoor (përdoret gjatë natës, i njohur edhe si "Lumbardhi Bahçe").<ref>{{Cite web |title=Lumbardhi Cinema |url=https://lumbardhi.org/about/lumbardhi-cinema/ |url-status=live |archive-url=https://web.archive.org/web/20220812115508/https://lumbardhi.org/about/lumbardhi-cinema/ |archive-date=2022-08-12 |access-date=2022-08-12 |website=Lumbardhi |language=en}}</ref> DokuFest përdor gjithashtu kinemanë e vet, DokuKino (e vendosur në Kompleksin Europa, ngjitur me selinë e festivalit), me një ekran të brendshëm dhe një të jashtëm (i njohur edhe si DokuKino Plato/Plateau).
+
+Disa vende me rëndësi kulturore dhe historike në Prizren përdoren si vende të improvizuara shfaqjeje. Këto përfshijnë:
+* '''River Cinema''' (Kino Lum) është ndërtuar mbi një platformë direkt sipër [[Lumbardhi i Prizrenit|lumit Lumbardhi]].
+* '''Sonar Cinema''' është ndërtuar mbi një platformë menjëherë jashtë [[Kalaja e Prizrenit|Kalasë së Prizrenit]].
+* '''Lunar Cinema''' është ndërtuar brenda Kalasë, shpesh edhe si vend për aktivitete muzikore.
+* '''Kino Klubi''', një klub/pub filmi pranë shkollës së mesme "Remzi Ademaj", shpesh vend për biseda.
+
+== Seksionet e festivalit ==
+
+=== DokuNights ===
+Çdo vit DokuFest sjell akte të njohura muzikore ndërkombëtare dhe vendase për të performuar në DokuNights.<ref>{{Cite web|title=DokuFest |url=https://filmfreeway.com/DokuFest |access-date=2022-07-22 |website=FilmFreeway |language=en}}</ref> DokuNights është bërë ngjarja kryesore muzikore e Kosovës, me këngëtarë, grupe dhe DJ ndërkombëtarë dhe vendas; performanca të kaluara kanë përfshirë akte si [[:en:PJ Harvey|PJ Harvey]]. Mbahet rregullisht në Skenën Andrra në Parkun Marash.
+
+=== DokuTech ===
+Zhvillohet njëkohësisht me DokuFest dhe përqendrohet në inovacionin teknik dhe kreativitetin.
+
+=== DokuFest Productions ===
+DokuFest u nderua me [[:en:British Academy Film Awards|Çmimin e Akademisë Britanike të Filmit]] për ''[[:en:Home (2016 British-Kosovan film)|Home]]'' në vitin 2017.
+
+=== DokuKids ===
+Program filmash dhe punëtorish të krijuar posaçërisht për mysafirët e rinj.
+
+== Tema dhe slogani ==
+
+Çdo vit festivali programohet dhe krijohet rreth një teme që formëson një identitet unik vjetor.
+{| class="wikitable"
+|-
+! Viti !! Tema !! Slogani !! Artist/Dizajner
+|-
+| 2011
+| 10 (X)
+|
+| DokuFest
+|-
+| 2012 || Protestë Punk || Punk Protest Prizren || Bardhi Haliti
+|-
+| 2013 || Kufij || You Brake Mine, I'll Brake Yours || [[:en:Daniel Mulloy|Daniel Mulloy]]
+|-
+| 2014 || Ndryshim || Don't Hide || [[:en:Daniel Mulloy|Daniel Mulloy]]
+|-
+| 2015 || Migrim || But We Do Not Have Wings To Fly Free || [[:en:Daniel Mulloy|Daniel Mulloy]]
+|-
+| 2016 || colspan="2" | Korrupsion || [[:en:Daniel Mulloy|Daniel Mulloy]]
+|-
+| 2017 || E ardhmja || Is Not Dead || DokuFest
+|-
+| 2018 || Reflektim || I'll Be Your Mirror / Come As You Are || DokuFest
+|-
+| 2019 || E vërteta || Truth Lies Here || DokuFest
+|-
+| 2020 || Transmetim || Transmission, Transmission, Transformation || DokuFest
+|-
+| 2021 || Njëzet vjet || Re:set Re:mix Re:act || DokuFest
+|-
+| 2022 || Mbijetesa || How To Survive...? || DokuFest
+|-
+| 2023
+| Jam [[Inteligjenca artificiale|IA]] a Jam Unë
+| I Contain Human Stories
+| DokuFest
+|-
+| 2024<ref name="DokuFest2024Theme">{{cite web |title=New Order |url=https://dokufest.com/en/news/new-order |website=DokuFest |date=2024-07-09 |access-date=2026-08-07 |language=en}}</ref> || colspan="2" | New Order || Rrethi
+|-
+| 2025<ref name="DokuFest2025Theme">{{cite web |title=Welcome to DokuFest 2025 |url=https://dokufest.com/en/news/welcome-to-dokufest-2025 |website=DokuFest |date=2025-08-01 |access-date=2026-08-07 |language=en}}</ref> || colspan="2" | Endless Greed Mental Void || DokuFest
+|-
+| 2026<ref name="DokuFest2026Theme">{{cite web |title=Show Up or It Doesn't Count! |url=https://dokufest.com/en/news/show-up-or-it-doesnt-count |website=DokuFest |date=2026-07-06 |access-date=2026-08-07 |language=en}}</ref> || Twenty-Five for Twenty-Five || Show Up or It Doesn't Count! || DokuFest
+|}
+
+== Çmimet ==
+* Konkursi më i mirë kombëtar
+* Dokumentari më i mirë ndërkombëtar me metrazh të gjatë
+* Dokumentari më i mirë i shkurtër ndërkombëtar
+* Filmi më i mirë i shkurtër ndërkombëtar
+* Dox më i mirë ballkanik
+* Çmimi më i mirë për të drejtat e njeriut
+* Çmimi më i mirë mjedisor
+* Çmimi i publikut
+* Videoja më e mirë Procredit EKO
+
+Në vitin 2010, DokuFest u votua si një nga 25 festivalet më të mira ndërkombëtare të dokumentarit.<ref>{{Cite web |date=2010-03-03 |title=International Success of DOKUFEST |url=https://fincakosovo.org/en/news-press/international-success-of-dokufest/ |access-date=2023-08-04 |website=[[:en:FINCA International|FINCA International]] |language=en}}</ref>
+
+== Fituesit e çmimeve ==
+
+DokuFest ndan çmime në një sërë seksionesh konkurruese, emrat dhe fushëveprimi i të cilave kanë ndryshuar disi gjatë historisë së festivalit. Fituesit që nga viti 2012 janë renditur më poshtë sipas kategorive; secili vit është referuar veçmas.
+
+=== Konkursi më i mirë kombëtar ===
+{| class="wikitable"
+! Viti !! Filmi !! Regjisori
+|-
+| 2012 || ''Portreti i Humbur'' || Lulzim Zeqiri
+|-
+| 2013 || ''Guri në Breg'' || Jonada Jashari
+|-
+| 2014 || ''Heshtje'' || Bekim Guri
+|-
+| 2015 || ''Të Pafajshmit'' || Amir Vitija
+|-
+| 2016 || colspan="2" | ''i panjohur''
+|-
+| 2017<ref name="DokuFest2017" /> || ''Sans le Kosovo'' (''Pa Kosovë'') || Dea Gjinovci
+|-
+| 2018<ref name="DokuFest2018" /> || ''Waiting'' || Laura Kajtazi-Testa
+|-
+| 2019<ref name="DokuFest2019" /> || ''Zgjedhe Një Emër'' || Dritëro Mehmetaj
+|-
+| 2020<ref name="DokuFest2020" /> || ''She Asked Me Where I Was From'' || Aulona Fetahaj
+|-
+| 2021<ref name="DokuFest2021" /> || ''A Child'' || Bekim Gurri
+|-
+| 2022<ref name="DokuFest2022" /> || ''Ka Me Kalu'' || Flonja Kodheli
+|-
+| 2023<ref name="DokuFest2023" /> || ''Prishtinë, 2002'' || Trëndelina Halili
+|-
+| 2024<ref name="DokuFest2024" /> || ''Like a Sick Yellow'' || [[Norika Sefa]]
+|-
+| 2025<ref name="DokuFest2025" /> || ''SOS'' || Anita Morina
+|-
+| 2026<ref name="DokuFest2026" /> || ''Searching for Poetry'' || Lorin Terezi
+|}
+
+=== Dox më i mirë ballkanik ===
+{| class="wikitable"
+! Viti !! Filmi !! Regjisori
+|-
+| 2012 || ''Letter to Dad'' || Srđan Keča
+|-
+| 2013 || ''When I Was a Boy I Was a Girl'' || Ivana Todorović
+|-
+| 2014 || ''Evaporating Borders'' || Iva Radivojević
+|-
+| 2015 || ''Flotel Europa'' || Vladimir Tomić
+|-
+| 2016 || colspan="2" | ''i panjohur''
+|-
+| 2017 || colspan="2" | ''i panjohur''
+|-
+| 2018<ref name="DokuFest2018" /> || ''Distant Constellation'' || Shevaun Mizrahi
+|-
+| 2019<ref name="DokuFest2019" /> || ''Timebox'' || Nora Agapi
+|-
+| 2020<ref name="DokuFest2020" /> || ''Once Upon a Youth'' || Ivan Ramljak
+|-
+| 2021<ref name="DokuFest2021" /> || ''Reconciliation'' || Marija Zidar
+|-
+| 2022<ref name="DokuFest2022" /> || ''Factory to the Workers'' || Srđan Kovačević
+|-
+| 2023<ref name="DokuFest2023" /> || ''Drifting'' || Somnur Vardar
+|-
+| 2024<ref name="DokuFest2024" /> || ''Another Day'' || Eneos Çarka
+|-
+| 2025<ref name="DokuFest2025" /> || ''A Strange Colour of Dream'' || Yasemin Akıncı
+|-
+| 2026<ref name="DokuFest2026" /> || ''As the Spring Arrives, Water Recalls the Nomads'' || Merve Dilşad Aladağ
+|}
+
+=== Dox i shkurtër më i mirë ballkanik ===
+Prezantuar në vitin 2025.
+{| class="wikitable"
+! Viti !! Filmi !! Regjisori
+|-
+| 2025<ref name="DokuFest2025" /> || ''Merging Bodies'' || Adrian Paci
+|-
+| 2026<ref name="DokuFest2026" /> || ''Towards Where to Breathe'' || Stefan Pavlović
+|}
+
+=== Të ardhurin e ri më i mirë ballkanik ===
+Dhënë afërsisht nga viti 2017 deri në 2021.
+{| class="wikitable"
+! Viti !! Filmi !! Regjisori
+|-
+| 2017<ref name="DokuFest2017" /> || ''My Life Without Air'' || Bojana Burnać
+|-
+| 2018<ref name="DokuFest2018" /> || ''Momsy'' || Josip Lukić
+|-
+| 2019<ref name="DokuFest2019" /> || ''Centar'' || Ivan Marković
+|-
+| 2020<ref name="DokuFest2020" /> || colspan="2" | ''nuk u mbajt (edicion online)''
+|-
+| 2021<ref name="DokuFest2021" /> || ''Rampart'' || Marko Grba Singh
+|}
+
+=== Dox më i mirë ndërkombëtar me metrazh të gjatë ===
+{| class="wikitable"
+! Viti !! Filmi !! Regjisori
+|-
+| 2012 || ''People I Could Have Been and Maybe Am'' || [[:en:Boris Gerrets|Boris Gerrets]]
+|-
+| 2013 || ''Belleville Baby'' || Mia Engberg
+|-
+| 2014 || ''Domino Effect'' || Elwira Niewiera & Piotr Rosołowski
+|-
+| 2015 || ''Machine Gun or Typewriter?'' || [[:en:Travis Wilkerson|Travis Wilkerson]]
+|-
+| 2016 || colspan="2" | ''i panjohur''
+|-
+| 2017 || colspan="2" | ''i panjohur''
+|-
+| 2018<ref name="DokuFest2018" /> || ''Meteors'' || Gürcan Keltek
+|-
+| 2019<ref name="DokuFest2019" /> || ''Present.Perfect.'' || Shengze Zhu
+|-
+| 2020<ref name="DokuFest2020" /> || ''The Metamorphosis of Birds'' || [[:en:Catarina Vasconcelos|Catarina Vasconcelos]]
+|-
+| 2021<ref name="DokuFest2021" /> || ''We'' || [[:en:Alice Diop|Alice Diop]]
+|-
+| 2022<ref name="DokuFest2022" /> || ''Dry Ground Burning'' || Adirley Queirós & Joana Pimenta
+|-
+| 2023<ref name="DokuFest2023" /> || ''Hypermoon'' || Mia Engberg
+|-
+| 2024<ref name="DokuFest2024" /> || ''A Fidai Film'' || Kamal Aljafari
+|-
+| 2025<ref name="DokuFest2025" /> || ''Action Item'' || Paula Ďurinová
+|-
+| 2026<ref name="DokuFest2026" /> || ''From Dawn to Dawn'' || Xisi Sofia Ye Chen
+|}
+
+=== Dox i shkurtër më i mirë ndërkombëtar ===
+{| class="wikitable"
+! Viti !! Filmi !! Regjisori
+|-
+| 2012 || ''Out of Reach'' || Jakub Stożek
+|-
+| 2013 || ''Belleville Baby'' || Mia Engberg
+|-
+| 2014 || ''Emergency Calls'' || [[:en:Hannes Vartiainen and Pekka Veikkolainen|Hannes Vartiainen & Pekka Veikkolainen]]
+|-
+| 2015 || ''Things'' || [[:en:Ben Rivers|Ben Rivers]]
+|-
+| 2016 || colspan="2" | ''i panjohur''
+|-
+| 2017 || colspan="2" | ''i panjohur''
+|-
+| 2018<ref name="DokuFest2018" /> || ''Aliens'' || [[:en:Luis López Carrasco|Luis López Carrasco]]
+|-
+| 2019<ref name="DokuFest2019" /> || ''Wild Berries'' || Hedda Bednarszky & Marianna Vas
+|-
+| 2020<ref name="DokuFest2020" /> || ''Tender'' ||
+|-
+| 2021<ref name="DokuFest2021" /> || ''The Rifleman'' || Sierra Pettengill
+|-
+| 2022<ref name="DokuFest2022" /> || ''Haulout'' || [[:en:Evgenia Arbugaeva|Evgenia Arbugaeva]] & Maxim Arbugaev
+|-
+| 2023<ref name="DokuFest2023" /> || ''Pacific Club'' || Valentin Noujaïm
+|-
+| 2024<ref name="DokuFest2024" /> || ''History Is Written at Night'' || Alejandro Alonso Estrella
+|-
+| 2025<ref name="DokuFest2025" /> || ''We Were the Scenery'' || Christopher Radcliff
+|-
+| 2026<ref name="DokuFest2026" /> || ''Normal Planet'' || Ekiem Barbier, Guilhem Causse & Quentin L'helgoualc'h
+|}
+
+=== Filmi më i mirë i shkurtër ndërkombëtar ===
+{| class="wikitable"
+! Viti !! Filmi !! Regjisori
+|-
+| 2012 || ''Gardfrend'' || Cüneyt Karaahmetoğlu
+|-
+| 2013 || ''A Society'' || [[:en:Jens Assur|Jens Assur]]
+|-
+| 2014 || ''Subtotal'' || Gunhild Enger
+|-
+| 2015 || ''Listen'' || Hamy Ramezan & [[:en:Rungano Nyoni|Rungano Nyoni]]
+|-
+| 2016 || colspan="2" | ''i panjohur''
+|-
+| 2017 || colspan="2" | ''i panjohur''
+|-
+| 2018<ref name="DokuFest2018" /> || ''Fence'' || Lendita Zeqiraj
+|-
+| 2019<ref name="DokuFest2019" /> || ''Brotherhood'' || [[:en:Meryam Joobeur|Meryam Joobeur]]
+|-
+| 2020<ref name="DokuFest2020" /> || ''Sun Dog'' || Dorian Jespers
+|-
+| 2021<ref name="DokuFest2021" /> || ''The Criminals'' || Serhat Karaaslan
+|-
+| 2022<ref name="DokuFest2022" /> || ''Will My Parents Come to See Me'' || [[:en:Mo Harawe|Mo Harawe]]
+|-
+| 2023<ref name="DokuFest2023" /> || ''Neighbour Abdi'' || Douwe Dijkstra
+|-
+| 2024<ref name="DokuFest2024" /> || ''The Death of a Hero'' || Karin Franz Körlöf
+|-
+| 2025<ref name="DokuFest2025" /> || ''Blue Heart'' || Samuel Suffren
+|-
+| 2026<ref name="DokuFest2026" /> || ''Kleptomania'' || Jingkai Qu
+|}
+
+=== Dox më i mirë për të drejtat e njeriut ===
+{| class="wikitable"
+! Viti !! Filmi !! Regjisori
+|-
+| 2012 || ''You Don't Like the Truth: 4 Days Inside Guantánamo'' || [[:en:Luc Côté|Luc Côté]] & [[:en:Patricio Henríquez|Patricio Henríquez]]
+|-
+| 2013 || ''Dance of Outlaws'' || Mohamed El Aboudi
+|-
+| 2014 || ''Judgment in Hungary'' || Eszter Hajdú
+|-
+| 2015 || ''Democrats'' || Camilla Nielsson
+|-
+| 2016 || colspan="2" | ''i panjohur''
+|-
+| 2017 || colspan="2" | ''i panjohur''
+|-
+| 2018<ref name="DokuFest2018" /> || ''A Woman Captured'' || Bernadett Tuza-Ritter
+|-
+| 2019<ref name="DokuFest2019" /> || ''Tiny Souls'' || Dina Naser
+|-
+| 2020<ref name="DokuFest2020" /> || ''The Earth Is Blue as an Orange'' || Iryna Tsilyk
+|-
+| 2021<ref name="DokuFest2021" /> || ''Our Memory Belongs to Us'' || Rami Farah & [[:en:Signe Byrge Sørensen|Signe Byrge Sørensen]]
+|-
+| 2022<ref name="DokuFest2022" /> || ''Myanmar Diaries'' || The Myanmar Film Collective
+|-
+| 2023<ref name="DokuFest2023" /> || ''A Golden Life'' || Boubacar Sangaré
+|-
+| 2024<ref name="DokuFest2024" /> || ''Silence of Reason'' || Kumjana Novakova
+|-
+| 2025<ref name="DokuFest2025" /> || ''My Dear Theo'' || [[:en:Alisa Kovalenko|Alisa Kovalenko]]
+|-
+| 2026<ref name="DokuFest2026" /> || ''The Clearing'' || Sabine Groenewegen
+|}
+
+=== Dox më i mirë mjedisor ===
+{| class="wikitable"
+! Viti !! Filmi !! Regjisori
+|-
+| 2012 || ''Kingdom of Coal'' || [[:en:Antoneta Kastrati|Antoneta Kastrati]]
+|-
+| 2013 || ''Future My Love'' || Maja Borg
+|-
+| 2014 || ''Metamorphosen'' || Sebastian Mez
+|-
+| 2015 || ''Virunga'' || [[:en:Orlando von Einsiedel|Orlando von Einsiedel]]
+|-
+| 2016 || colspan="2" | ''i panjohur''
+|-
+| 2017 || colspan="2" | ''i panjohur''
+|-
+| 2018<ref name="DokuFest2018" /> || ''Wild Relatives'' || [[:en:Jumana Manna|Jumana Manna]]
+|-
+| 2019<ref name="DokuFest2019" /> || ''Earth'' || [[:en:Nikolaus Geyrhalter|Nikolaus Geyrhalter]]
+|-
+| 2020<ref name="DokuFest2020" /> || ''Smog Town'' || Meng Han
+|-
+| 2021<ref name="DokuFest2021" /> || ''White on White'' || Viera Čákanyová
+|-
+| 2022<ref name="DokuFest2022" /> || ''Foragers'' || [[:en:Jumana Manna|Jumana Manna]]
+|-
+| 2023<ref name="DokuFest2023" /> || ''Last Things'' || [[:en:Deborah Stratman|Deborah Stratman]]
+|-
+| 2024<ref name="DokuFest2024" /> || ''Apple Cider Vinegar'' || Sofie Benoot
+|-
+| 2025<ref name="DokuFest2025" /> || ''Shifting Baselines'' || Julien Elie
+|-
+| 2026<ref name="DokuFest2026" /> || ''Krakatoa'' || [[:en:Carlos Casas|Carlos Casas]]
+|}
+
+=== Dox më i mirë "E vërteta" ===
+Prezantuar në vitin 2020.
+{| class="wikitable"
+! Viti !! Filmi !! Regjisori
+|-
+| 2020<ref name="DokuFest2020" /> || ''Collective'' || [[:en:Alexander Nanau|Alexander Nanau]]
+|-
+| 2021<ref name="DokuFest2021" /> || ''Writing with Fire'' || [[:en:Rintu Thomas|Rintu Thomas]] & [[:en:Sushmit Ghosh|Sushmit Ghosh]]
+|-
+| 2022<ref name="DokuFest2022" /> || ''The Killing of a Journalist'' || Matt Sarnecki
+|-
+| 2023<ref name="DokuFest2023" /> || ''Total Trust'' || Jialing Zhang
+|-
+| 2024<ref name="DokuFest2024" /> || ''23 Mile'' || Mitch McCabe
+|}
+
+=== Çmimi i publikut ===
+{| class="wikitable"
+! Viti !! Filmi !! Regjisori
+|-
+| 2012 || [[:en:The Black Power Mixtape 1967–1975|The Black Power Mixtape 1967–1975]] || [[:en:Göran Hugo Olsson|Göran Hugo Olsson]]
+|-
+| 2013 || ''Kolona'' || Ujkan Hysaj
+|-
+| 2014 || ''Përqafimi'' || Lulzim Guhelli
+|-
+| 2015 || ''Remake, Remix, Rip-Off'' || Cem Kaya
+|-
+| 2016 || colspan="2" | ''i panjohur''
+|-
+| 2017 || colspan="2" | ''i panjohur''
+|-
+| 2018 || colspan="2" | ''i panjohur''
+|-
+| 2019<ref name="DokuFest2019" /> || ''The Reformist – A Female Imam'' || Marie Skovgaard
+|-
+| 2020 || colspan="2" | ''i panjohur''
+|-
+| 2021<ref name="DokuFest2021" /> || ''The Driver'' || Valter Lucaj
+|-
+| 2022<ref name="DokuFest2022" /> || ''Love, Deutschmarks & Death'' || Cem Kaya
+|-
+| 2023<ref name="DokuFest2023" /> || ''Snajka: Diary of Expectations'' || Tea Vidović Dalipi
+|-
+| 2024<ref name="DokuFest2024" /> || ''Afterwar'' || [[:en:Birgitte Stærmose|Birgitte Stærmose]]
+|-
+| 2025<ref name="DokuFest2025" /> || ''Palace of Youth'' || Maddie Gwin
+|-
+| 2026<ref name="DokuFest2026" /> || ''The Beauty of the Donkey'' || Dea Gjinovci
+|}
+
+=== Çmimi i shpërndarjes ===
+Jepet për një film nga Konkursi Kombëtar.
+{| class="wikitable"
+! Viti !! Filmi !! Regjisori
+|-
+| 2017<ref name="DokuFest2017" /> || ''Routine'' || Bekim Guri
+|-
+| 2018<ref name="DokuFest2018" /> || ''Evidence'' || Lum Radoniqi
+|-
+| 2021<ref name="DokuFest2021" /> || ''The Driver'' || Valter Lucaj
+|-
+| 2022<ref name="DokuFest2022" /> || ''Shpija'' || Flaka Kokolli
+|-
+| 2023<ref name="DokuFest2023" /> || ''Hana e Re'' || Jehona Berisha
+|-
+| 2024<ref name="DokuFest2024" /> || ''reMemBer2.human'' || Durim Klaiqi
+|-
+| 2025<ref name="DokuFest2025" /> || ''Ndera'' || Endrit Qarolli
+|-
+| 2026<ref name="DokuFest2026" /> || ''Dance'' || Hana Bucalija
+|}
+
+=== Çmimi Talent Doc ===
+Jepet nga Qendra Kinematografike e Kosovës (QKK).
+{| class="wikitable"
+! Viti !! Filmi !! Regjisori
+|-
+| 2023<ref name="DokuFest2023" /> || ''The Future Is Better, Comrade'' || Blerta Haziraj
+|-
+| 2024<ref name="DokuFest2024" /> || ''Workers' Wings'' || Ilir Hasanaj
+|}
+
+=== Videoja më e mirë PROCREDIT EKO ===
+E ndërprerë pas vitit 2015.
+{| class="wikitable"
+! Viti !! Filmi(t) !! Regjisori(ët)
+|-
+| 2013 || ''Paradox'' (dhe të tjerë) || Trim Kasemi
+|-
+| 2014 || ''A Day of Clear Weather'' (dhe të tjerë) || Odeta Çunaj & Alketa Ramaj
+|-
+| 2015 || ''Je Polic i Vetvetes'' (dhe të tjerë) || Albulena Veliu
+|}
+
+=== Çmime të tjera ===
+Çmime shtesë janë prezantuar në vite të ndryshme, përfshirë '''Çmimin Le Fresnoy''' (2023, ''The Future Is Better, Comrade'' nga Blerta Haziraj), '''New Wave Grant''' (2022, ''Transmission'' nga Flutura Balaj; 2023, projekte nga Aurela Berila dhe Flaka Kokolli), çmimin '''Filmi më i mirë i të rinjve''' (prezantuar në vitin 2025, ''Coexistence My Ass'' nga [[:en:Amber Fares|Amber Fares]]), si dhe kandidati vjetor i DokuFestit për '''[[:en:European Film Awards|Çmimin e Filmit Evropian për Filmin më të Mirë të Shkurtër]]''' (2022, ''Memoir of a Veering Storm'' nga Sofia Georgovassili; 2023, ''Daydreaming So Vividly About Our Spanish Holidays'' nga Christian Avilés; 2024, ''The Death of a Hero'' nga Karin Franz Körlöf; 2025, ''Masterpiece Mommy'' nga Dorothy Sing Zhang; 2026, ''Tarik'' nga Adem Tutić).
+
+Në edicionin e 25-të, në vitin 2026, jurutë dhanë gjithashtu përmendje të veçanta në disa kategori: ''The Thing to Be Done'' nga Srđan Kovačević (Dox më i mirë ballkanik), ''A City in the Forest'' nga Lev Omelchenko dhe Nolan Huber (Dox më i mirë për të drejtat e njeriut), dhe ''Venezia Diorama'' nga Nicolas Piret (Filmi më i mirë i shkurtër ndërkombëtar).<ref name="DokuFest2026" />
+
+Në vitin 2023, si festival mysafir, DokuFest priti gjithashtu '''[[:en:Doc Alliance|Çmimin Doc Alliance]]''': Filmi më i Mirë me Metrazh të Gjatë shkoi te ''Death of a City'' (João Rosas, përmendje e veçantë për ''Disturbed Earth'' nga Kumjana Novakova & Guillermo Carreras-Candi), ndërsa Filmi më i Mirë i Shkurtër shkoi te ''The Cervix Pass'' (Marie Bottois).
+
+== Referime ==
+{{reflist|refs=
+
+<ref name="DokuFest2017">{{cite web |title="DokuFest 16" Announces the Winners! |url=https://telegrafi.com/en/dokufest-16-shpall-fituesit/ |website=Telegrafi |date=2017-08-12 |access-date=2026-08-07 |language=sq}}</ref>
+
+<ref name="DokuFest2018">{{cite web |last=Poglajen |first=Tina |title=''Distant Constellation'', ''Meteors'' and other European docs shine at the 17th DokuFest |url=https://cineuropa.org/en/newsdetail/358356/ |website=Cineuropa |date=2018-08-14 |access-date=2026-08-07 |language=en}}</ref>
+
+<ref name="DokuFest2019">{{cite web |title=DokuFest XVIII Winners Announced |url=https://dokufest.com/en/news/dokufest-xviii-winners-announced |website=DokuFest |date=2019-08-10 |access-date=2026-08-07 |language=en}}</ref>
+
+<ref name="DokuFest2020">{{cite web |title=DokuFest XIX Winners Announced! |url=https://dokufest.com/en/news/dokufest-xix-winners |website=DokuFest |date=2020-08-15 |access-date=2026-08-07 |language=en}}</ref>
+
+<ref name="DokuFest2021">{{cite web |title=Winners of DokuFest Announced |url=https://dokufest.com/en/news/winners-of-dokufest-announced |website=DokuFest |date=2021-08-15 |access-date=2026-08-07 |language=en}}</ref>
+
+<ref name="DokuFest2022">{{cite web |title=Winners of DokuFest 2022 |url=https://dokufest.com/en/news/winners-of-dokufest-2022 |website=DokuFest |date=2022-08-16 |access-date=2026-08-07 |language=en}}</ref>
+
+<ref name="DokuFest2023">{{cite web |title=Winners of DokuFest Announced |url=https://dokufest.com/en/news/dokufest-xxii-winners-of-2023 |website=DokuFest |date=2023-08-14 |access-date=2026-08-07 |language=en}}</ref>
+
+<ref name="DokuFest2024">{{cite web |title=Winners of DokuFest Announced |url=https://dokufest.com/en/news/winners-of-dokufest-announced-2024 |website=DokuFest |date=2024-08-14 |access-date=2026-08-07 |language=en}}</ref>
+
+<ref name="DokuFest2025">{{cite web |title=DokuFest 2025 Announces the Winners of Its 24th Edition |url=https://dokufest.com/en/news/dokufest-2025-announces-the-winners-of-its-24th-edition |website=DokuFest |date=2025-08-09 |access-date=2026-08-07 |language=en}}</ref>
+
+<ref name="DokuFest2026">{{cite web |title=DokuFest Announces the Winners for the 25th Edition |url=https://dokufest.com/en/news/dokufest-announces-the-winners-for-the-25th-edition |website=DokuFest |date=2026-08-15 |access-date=2026-08-16 |language=en}}</ref>
+
+}}
+
+== Lidhje të jashtme ==
+{{Commonscat|DokuFest}}
+
+* [http://www.dokufest.com/ Faqja zyrtare e festivalit]
+* [http://www.balkaninsight.com/en/main/life_and_style/10974/ Një artikull rreth DokuFest] (anglisht)
+* [https://web.archive.org/web/20061110132243/http://www.britfilms.com/festivals/browse/?id=527244120ef7922D28QrU29478DF Drejtoria e Festivaleve Ndërkombëtare të Filmit dhe Videos në BritFilms.com] (anglisht)
+
+[[Kategoria:Festivale filmi në Kosovë]]
+[[Kategoria:Kultura në Prizren]]
+[[Kategoria:Atraksione turistike në Prizren]]
+[[Kategoria:Kosovë]]
+[[Kategoria:Ngjarje në Prizren]]
+{{Prizreni}}
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Dokufest|7 gusht 2026|1368176586}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer dhe përditësuar nga anglishtja, sipas artikullit en:Dokufest, versioni i datës 7 gusht 2026 (revizioni 1368176586). Përditësim: shtuar lidhje të reja në seksionin "Fituesit e çmimeve" dhe rreshtat e temës/sloganit 2024–2026, të kërkuara dhe verifikuara veçmas nga dokufest.com. Përditësim i mëvonshëm (16 gusht 2026): shtuar fituesit e edicionit të 25-të (2026) në të gjitha tabelat e çmimeve, kandidati i EFA-s për 2026, dhe përmendjet e veçanta, sipas njoftimit të DokuFest "DokuFest Announces the Winners for the 25th Edition" (dokufest.com, 15 gusht 2026).
+-->

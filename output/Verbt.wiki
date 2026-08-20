@@ -1,0 +1,13 @@
+<!--
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Verbt, versioni i datës 28 maj 2023 (revizioni 1157480212)
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Verbt|28 maj 2023|1157480212}}
+-->
+
+#RIDREJTO [[Verbti]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

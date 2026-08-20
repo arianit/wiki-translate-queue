@@ -1,0 +1,30 @@
+'''Bardha''' (anglisht: 'e bardha') është një figurë mitologjike shqiptare, që shfaqet ose si një [[Zana e malit|zana]] (nimfë) ose si një [[Ora e maleve|ora]] (perëndeshë e fatit) e lidhur me fatin e mirë.
+
+== Besimet popullore ==
+Banorët e [[Malet e Dukagjinit|Malëve të Dukagjinit]] besonin se ekzistojnë tre lloje të [[Ora e maleve|Orave]] (perëndeshave të fatit): "e Bardha (E Bardha) shpërndan fatin e mirë dhe u dëshiron mirë njerëzve, e Verdha (E Verdha) shpërndan fatkeqësinë dhe hedh mallkime të këqija, dhe e Zeza (E Zeza) e cila vendos vdekjen".{{Sfn|Doja|2005|p=457}}
+
+Sipas besimeve të vjetra që i konsiderojnë si krijesa të ngjashme me nimfat, një bardha është e ngjashme me [[Zana e malit|zanën e malit]]. Për t'i qetësuar ato, njerëzit shpërndajnë sheqer ose lënë ëmbëlsira në tokë.{{Sfn|Elsie|2001|p=269}}{{Sfn|Lurker|2004|p=30}} Në besimin popullor shqiptar, ato janë figura të zbehta dhe të mjegullta që banojnë nën tokë.{{Sfn|Lurker|2004|p=30}}
+
+== Referime ==
+{{Reflist}}
+
+== Bibliografia ==
+*{{cite journal|last=Doja|first=Albert|title=Mythology and Destiny|journal=Anthropos|volume=100|number=2|year=2005|url=http://discovery.ucl.ac.uk/18364/1/18364.pdf|pages=449–462|doi=10.5771/0257-9774-2005-2-449|jstor=40466549|language=en}}
+*{{cite book|last=Elsie|first=Robert|author-link=Robert Elsie|title=A Dictionary of Albanian Religion, Mythology and Folk Culture|place=London|publisher=Hurst & Company|url=https://books.google.com/books?id=N_IXHrXIsYkC|isbn=1-85065-570-7|year=2001|language=en}}
+*{{cite book|last=Lurker|first=Manfred|title=The Routledge dictionary of gods and goddesses, devils and demons|publisher=Routledge|year=2004|pages=207|isbn=978-04-15340-18-2|url=https://books.google.com/books?id=Vtj0wSsw1JcC&q=bardha|language=en}}
+
+[[Kategoria:Krijesa legjendare shqiptare]]
+[[Kategoria:Mitologjia shqiptare]]
+[[Kategoria:Paganizmi shqiptar]]
+[[Kategoria:Zanat]]
+[[Kategoria:Frymë të tokës]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Bardha|30 tetor 2024|1254257696}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Bardha, versioni i datës 30 tetor 2024 (revizioni 1254257696).
+-->

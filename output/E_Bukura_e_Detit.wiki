@@ -1,0 +1,46 @@
+<!--
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:E Bukura e Detit, versioni i datës 30 dhjetor 2025 (revizioni 1330192856)
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|E Bukura e Detit|30 dhjetor 2025|1330192856}}
+-->
+
+'''E Bukura e Detit''' ("Bukuria e Detit") është një personazh në [[mitologjia shqiptare|mitologjinë dhe folklorin shqiptar]], e përshkruar në disa tradita si një zanë deti, dhe në tradita të tjera si një [[perëndeshë e detit]], kundërpartia e [[E bukura e dheut|e Bukurës së Dheut]] dhe [[Dielli (mitologji shqiptare)|i Bukurit të Qiellit]].<ref>{{harvnb|Fishta|Lambertz|1958|p=284}}; {{harvnb|Bane|2013|p=70}}; {{harvnb|Elsie|2001|pp=79–81}}; {{harvnb|Çabej|1975|p=120}}; {{harvnb|Halimi|1972|p=132}}; {{harvnb|Ushaku|1988|p=101}}.</ref> {{sfn|Bane|2013|p=70}}{{Sfn|Elsie|2001|pp=252–254}} Në disa tradita shqiptare ajo konsiderohet si motra e [[E bukura e dheut|e Bukurës së Dheut]].{{sfn|Bane|2013|p=70}}{{Sfn|Elsie|2001|pp=252–254}}
+
+== Mitologjia ==
+Paraardhësit e shqiptarëve me sa duket kishin të përbashkët me [[Mitologjia greke|teogoninë greke]] të lashtë ndarjen e trefishtë të administrimit të botës në qiell, det dhe nëntokë, dhe në të njëjtat funksione si perënditë greke [[Zeusi]], [[Poseidoni]], dhe [[Hadi]], ata do të kishin adhuruar perënditë e referuara si Bukuria e Qiellit (''[[Dielli (mitologji shqiptare)|i Bukuri i Qiellit]]''), Bukuria e Detit (''e Bukura e Detit''), dhe Bukuria e Dheut (''[[E bukura e dheut|e Bukura e Dheut]]''). Shprehjet "Bukuria e Detit" dhe "Bukuria e Dheut" ruhen për t'iu referuar figurave të besimeve dhe përrallave popullore shqiptare, "Bukuria e Qiellit" vazhdon të përdoret në shqip për t'iu referuar [[Perëndia|Perëndisë]] monoteiste.<ref>{{harvnb|Fishta|Lambertz|1958|p=284}}</ref><ref>{{harvnb|Lurker|2005|p=38}}</ref>
+
+Me atributet e një zane deti (''nuse deti''), e Bukura e Detit është e ngjashme me figurat mitologjike shqiptare të ''[[Perria|perrisë së detit]]'', ''ksheta/floçka e detit'', dhe ''[[Zana e malit|zanës së ujit]]''.<ref>{{harvnb|Halimi|1972|p=132}}</ref><ref>{{harvnb|Tirta|2004|pp=115, 132}}</ref><ref>{{harvnb|Elsie|2001|pp=101, 191}}</ref>
+
+== Shiko gjithashtu ==
+*[[Drangoi]]
+*[[Kuçedra]]
+*[[Perria]]
+*[[Prende]]
+*[[Zojzi (mitologji)]]
+
+== Burimet ==
+=== Citimet ===
+{{Reflist}}
+
+=== Bibliografia ===
+*{{Cite book|last=Bane|first=Theresa|title=Encyclopedia of Fairies in World Folklore and Mythology|publisher=McFarland|year=2013|isbn=9781476612423|url=https://books.google.com/books?id=nSuXAAAAQBAJ|language=en}}
+<!-- C -->
+* {{cite book|last=Çabej|first=Eqrem|author-link=Eqrem Çabej|title=Studime gjuhësore: Gjuhë. Folklor. Letërsi. Diskutime|volume=5|publisher=Rilindja|year=1975|url=https://books.google.com/books?id=sA8i1qSHXdQC|language=sq}}
+<!-- E -->
+*{{cite book|last=Elsie|first=Robert|author-link=Robert Elsie|title=A Dictionary of Albanian Religion, Mythology and Folk Culture|place=London|publisher=Hurst & Company|url=https://books.google.com/books?id=N_IXHrXIsYkC|isbn=1-85065-570-7|year=2001|language=en}}
+<!-- F -->
+*{{cite journal|last1=Fishta|first1=Gjergj|last2=Lambertz|first2=Maximilian|title=Die Laute des Hochlandes (Lahuta e malcis)|publisher=R. Oldenbourg|year=1958|journal=Südosteuropäische Arbeiten|volume=51|issn=0933-6850|url=https://books.google.com/books?id=59rqAAAAMAAJ|language=de}}
+<!-- H -->
+*{{cite journal|last=Halimi|first=Mehmet|title=Vëzhgime mbi të folmen e Moravës së Poshtme|journal=Gjurmime Albanologjike|volume=1-4|publisher=Instituti Albanologjik i Prishtinës|year=1972|url=https://books.google.com/books?id=ladiAAAAMAAJ|language=sq}}
+<!-- L -->
+*{{cite book|last=Lurker|first=Manfred|title=The Routledge Dictionary of Gods and Goddesses, Devils and Demons|publisher=Routledge, Taylor & Francis|year=2005|url=https://books.google.com/books?id=Vtj0wSsw1JcC|isbn=0-203-64351-8|language=en}}
+<!-- T -->
+*{{cite book|last=Tirta|first=Mark|title=Mitologjia ndër shqiptarë|language=sq|editor=Petrit Bezhani|publisher=Mësonjëtorja|year=2004|place=Tirana|isbn=99927-938-9-9}}
+<!-- U -->
+*{{cite journal|last=Ushaku|first=Ruzhdi|title=Mbi strukturën leksiko-semantike dhe etimologjike të tipit të togfjalëshit të shqipes burri i dheut (Mundësia për një rindërtim)|journal=Gjurmime Albanologjike|volume=17-18|publisher=Instituti Albanologjik i Prishtinës|year=1988|pages=63–76|url=https://books.google.com/books?id=Da1iAAAAMAAJ|language=sq}}
+
+[[Kategoria:Paganizmi shqiptar]]
+[[Kategoria:Mitologjia shqiptare]]
+[[Kategoria:Perëndeshat ilire]]

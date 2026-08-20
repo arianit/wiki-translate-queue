@@ -1,0 +1,30 @@
+<!--
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Xhindi, versioni i datës 26 shkurt 2026 (revizioni 1340646844)
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Xhindi|26 shkurt 2026|1340646844}}
+-->
+
+{{Short description|Krijesë mitike në mitologjinë shqiptare}}
+{{One source|date=dhjetor 2024}}
+
+'''Xhindi''' është një [[krijesë mitologjike]] në [[mitologjia shqiptare|mitologjinë shqiptare]].<ref name="Lurker">Lurker, Manfred (1984). ''The Routledge Dictionary of Gods and Goddesses, Devils and Demons, Taylor & Francis e-Library''. f.38</ref>
+
+==Pamja==
+Xhinditë zakonisht përshkruhen si shpirte të padukshëm, disi analoge me [[elves|elfët]] në folklorin shqiptar. Ashtu si djalli, Xhindi kanë hyrë në demonologjinë shqiptare nga sfera e demonologjisë së feve monoteiste, konkretisht nga demonologjia islame. Xhinditë e supersticionit popullor shqiptar gjenden kudo natën, jashtë në kopsht ose në tualet. Vendet ku u pëlqen të mblidhen janë grykat e lumenjve, ku pikat e shiut derdhen nga pellgu. Ardhja e tyre sinjalizohet nga kërcitja e dyerve dhe ndezja-fikja e dritave. Qëllimet e tyre mund të jenë [[E mira dhe e keqja|të mira ose të këqija]], prandaj ndonjëherë përfaqësohen si të sjellshëm e ndihmues, ndërsa ndonjëherë shfaqen si shtypës.<ref name="Lurker"/>
+
+==Shiko edhe==
+* [[Kuçedra]]
+* [[Perria]]
+* [[Stihi]]
+
+==Referime==
+{{Reflist}}
+
+[[Kategoria:Krijesa mitike shqiptare]]
+[[Kategoria:Folklor shqiptar]]
+[[Kategoria:Xhind]]
+
+{{Shqipëria-cung}}
+{{Europe-myth-stub}}

@@ -1,0 +1,98 @@
+<!--
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Albanian traditional tattooing, versioni i datës 8 korrik 2026 (revizioni 1363237075)
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Albanian traditional tattooing|8 korrik 2026|1363237075}}
+-->
+
+{{Shkronja|for=kohezionin|date=shkurt 2026}}
+{{Multiple image
+| align = djathtas
+| direction = vertikale
+| image_style = border:none
+| total_width = 260
+| image1 = Albanian tattoo patterns – Sun and Fire symbols.png
+| alt1 = 
+| image2 = Albanian tattoo patterns.png
+| alt2 = 
+| footer = Motivet e tatuazheve tradicionale shqiptare: shekulli i 19-të (lart), fillimi i shekullit të 20-të (poshtë). Ato janë simbole të Diellit ([[Dielli (Albanian paganism)|Dielli]]) dhe Hënës ([[Hëna (Albanian paganism)|Hëna]]); kryqi (gjithashtu [[svastika]] në disa tatuazhe) është mënyra tradicionale shqiptare për të përfaqësuar Zjarrin e përhyjnë – [[Zjarri (Albanian paganism)|Zjarri]], që me sa duket quhej edhe me teonimin [[Eni|Enji]].<ref>{{harvnb|Treimer|1971|p=32}}; {{harvnb|Murray-Aynsley|1891|pp=29, 31}}.</ref>}}
+
+Tatuazhi midis [[Shqiptarët|shqiptarëve]] është një traditë e vjetër që daton që nga koha e [[Ilirët|ilirëve]] dhe është ruajtur në rajonet malore të [[Ballkani|Ballkanit]] perëndimor.<ref>{{harvnb|Lelaj|2015|p=94}}; {{harvnb|Tirta|2004|pp=68–70}}; {{harvnb|Durham|2004|p=94}}; {{harvnb|Norman|2018|pp=63}}.</ref>
+
+==Historia==
+Bazuar në autorët e lashtë si [[Herodoti]] (shekulli V p.e.s.), [[Ciceroni]] dhe [[Straboni]] (shekulli I p.e.s.) — deklaratat e të cilëve janë konfirmuar nga gjetjet arkeologjike — studimet etnografike kanë konkluduar se [[tatuazhi]] praktikohej midis popujve të gadishullit ballkanik që nga [[Historia e lashtë|kohët e lashta]]. Kjo praktikë u vu re midis fiset [[Ilirët|ilire]] dhe [[Trakët|trake]], të cilët përdornin tatuazhin për të dalluar origjinën fisnore.{{sfn|Lelaj|2015|p=94}}
+
+[[File:Stele daunienne mariemont.JPG|thumb|upright|majtas|Përfaqësimi figurativ i hershëm i zakonit paleo-ballkanik të tatuazhit në stelën varrore [[Daunët|daune]] nga 610-550 p.e.s. nga [[Pulia|Apulia]].]]
+
+Gjilpëra të gjata prej bronzi me doreza druri të gjetura në [[Vendet arkeologjike në Glasinac|Glasinac]] dhe [[Donja Dolina]] konsiderohen mjete për praktikimin e tatuazheve.{{sfn|Norman|2018|p=62}} Përfaqësimet e hershme figurative të tatuazheve shfaqen në [[Pulia|Apuli]], në juglindje të [[Italia|Italisë]], brenda kulturës materiale të [[Daunët|daunëve]], të cilët kanë origjinë nga Ballkani perëndimor. Zakoni i tatuazhit midis daunëve është i dukshëm në [[Daunian stele|stelat dauniane]] dhe në enët e lyera me shtrat. Mund të identifikohet edhe në murin e një dhome varr të shekullit të 4-të nga [[Arpi]], ku një pikturë përshkruan tatuazhe në krahët e një 'priftëreshë' që hipë në një [[quadriga|kuadrigë]].{{sfn|Norman|2018|p=61}} Kultura materiale dauniane tregon se krahët ishin pjesët më të zakonshme të trupit ku bëheshin tatuazhet.{{sfn|Norman|2018|pp=61–62}}
+
+Në botën greko-romake, tatuazhi shpesh konsiderohej si një shenjë ndëshkuese ose pronësie; përkundrazi, popujt e lashtë ballkanikë duket se e kanë konsideruar atë si një shenjë të rëndësishme kulturore. Shkrimet e lashta tregojnë se në Ballkan, tatuazhi praktikohej kryesisht nga elita. Për më tepër, burimet ikonografike dhe letrare zbulojnë se ai ishte veçanërisht i zakonshëm midis anëtarëve femërore të shoqërisë.{{sfn|Norman|2018|pp=63}}
+
+Praktika e tatuazhit u gjet më së shpeshti në komunitete [[preliterate|para-letrare]] fisnore, ku gratë luajtën një rol qendror — si në kryerjen e ritualit ashtu edhe në veshjen e tatuazheve. Shenjat mund të kenë simbolizuar pjekurinë seksuale, prejardhjen, lidhjet fisnore ose besimet fetare.{{sfn|Norman|2018|pp=61–62}} Në Ballkanin perëndimor, të izoluar nga ndikimet e jashtme, tatuazhi vazhdoi deri në fillim të shekullit të 20-të në [[Shqipëria|Shqipëri]] dhe [[Bosnja dhe Hercegovina|Bosnje]], rajone që ishin pjesë e zonës së lashtë të [[Iliria|Ilirisë]].{{sfn|Norman|2018|pp=63}}
+
+==Praktika të ngjashme==
+
+Tatuazhi tradicional është praktikuar gjithashtu nga katolikët në [[Bosnja dhe Hercegovina|Bosnje dhe Hercegovinë]] dhe [[Dalmacia|Dalmaci]], i njohur si ''[[sicanje]]'', dhe nga gratë e disa komuniteteve [[Vllehët|vllahe]] (në Ballkanin perëndimor).
+
+==Dokumentimi==
+===Shekulli i 19-të===
+Tatuazhi tradicional shqiptar me simbolet e Diellit ([[Dielli (Albanian paganism)|Dielli]]) dhe Zjarrit ([[Zjarri (Albanian paganism)|Zjarri]]), vizatuar fillimisht me dorë nga J. C. Murray-Aynsley [Harriet Georgiana Maria Murray-Ainsley] (1827–1898), u botua në 1891 në revistën Ars Quatuor Coronatorum (vëllimi IV) në një studim për [[svastika|svastikën]].{{sfn|Murray-Aynsley|1891|pp=26, 29, 31}}
+
+===Shekulli i 20-të===
+====Hulumtimet e Edith Durham====
+Gjysmën e parë të shekullit të 20-të, antropologja britanike [[Edith Durham]] vizitoi Shqipërinë e Veriut dhe zona të tjera të Ballkanit perëndimor, duke mbledhur dhe studiuar veçanërisht materialin [[Traditat e Shqipërisë|kulturor]] dhe [[Folklor shqiptar|folklorik]] të [[Fiset shqiptare|shoqërisë fisnore shqiptare]].{{sfn|Elsie|2010|p=120}}
+
+Durham zbuloi se në [[Bosnia|Bosni]] tatuazhi ishte [[Sicanje|i kufizuar]] për popullsinë sllave katolike, ndërsa popullsia sllave ortodokse e refuzoi këtë praktikë, duke e konsideruar atë "latine". Nga ana tjetër, Durham zbuloi se në Shqipërinë e Veriut ai ishte i përhapur midis [[Shqiptarët|shqiptarëve]] pavarësisht nga feja e tyre katolike ose myslimane.<ref>{{harvnb|Lelaj|2015|p=94}}; {{harvnb|Norman|2018|pp=63}}.</ref>
+
+Durham raportoi se vajzat tatuoheshin më 19 mars, që bie në ditët e festimeve të [[Dita e Verës|pranverës shqiptare]].{{sfn|Tirta|2004|p=254}}
+
+==Motivet==
+{{Multiple image
+| align             = djathtas
+| direction         = vertikale
+| image_style       = border:none
+| total_width       = 300
+| image1            = Albanian tattoo patterns.png
+| alt1              = 
+| image2            = Tattoos of Catholic women – Jajce, Bosnia.png
+| alt2              = 
+| footer            = Motivet e tatuazheve të shqiptarëve të veriut (lart); motivet e tatuazheve të grave katolike (dhe një burri) në Bosni (poshtë). Vizatuar nga Edith Durham në fillim të shekullit të 20-të. Shumë nga këto motive shfaqen edhe në artin tradicional shqiptar (varre, bizhuteri, qëndisje dhe dekorime shtëpish). Ato përfaqësojnë adhurimin qiellor, të dritës, zjarrit dhe vatrës, duke shprehur favorin e dritës brenda [[Paganizmi shqiptar#Lufta dualiste – rinovimi kozmik|luftës dualiste midis dritës dhe errësirës]].<ref>{{harvnb|Durham|1928|pp=102–106}}; {{harvnb|Treimer|1971|p=32}}; {{harvnb|Murray-Aynsley|1891|pp=26, 29, 31}}.</ref>
+}}
+
+Motivet më të zakonshme të tatuazheve tradicionale shqiptare përfshijnë diellin (gjithashtu yjet), hënën (ose gjysmëhënën) dhe kryqin. Këto motive shfaqen edhe në forma të ndryshme të artit tradicional shqiptar, si varre, bizhuteri, qëndisje dhe dekorime shtëpish.{{sfn|Durham|1928|pp=102–106}} Ato përfaqësojnë adhurimin qiellor, të dritës, zjarrit dhe vatrës, duke shprehur favorin e dritës brenda [[Paganizmi shqiptar#Lufta dualiste – rinovimi kozmik|luftës dualiste midis dritës dhe errësirës]] në [[mitologjia shqiptare|mitologjinë shqiptare]].{{sfn|Durham|1928|pp=102–106}}{{sfn|Treimer|1971|p=32}}{{sfn|Murray-Aynsley|1891|pp=26, 29, 31}}
+
+[[Edith Durham]], e cila studioi gjerësisht tatuazhin tradicional ballkanik së bashku me hulumtimet në terren, arriti të shpjegojë plotësisht motivet e tatuazheve tradicionale vetëm pasi i kërkoi shqiptarëve të [[Shala|Thethit-Shalës]] një përshkrim të të gjitha vijave të vogla (ose degëve) që shoqëronin një gjysmërreth të gdhendur në një gur të vjetër varri. Ata u përgjigjën se ato degë ishin "drita që vjen nga Hëna, sigurisht". Për shqiptarët, degët ose vijat e vogla ishin mënyra tradicionale për të përfaqësuar dritën, që emanohej nga Dielli ([[Dielli (Albanian paganism)|Dielli]]) dhe nga Hëna ([[Hana (Albanian paganism)|Hana]]), e cila shpesh përfaqësohej si një [[Gjysmëhëna|gjysmëhënë]]. Kështu, motivet e tatuazheve katolike në Bosni, të cilat deri atëherë njiheshin si "rrethe, gjysmërrethe dhe vija ose degë", më në fund u shpjeguan qartë si përbërje të diellit me rreze (që emanon dritë), hënës dhe kryqeve, nga një shprehje e adhurimit të natyrës dhe vatrës.{{sfn|Durham|1928|pp=102–106}} Për më tepër, kryqet (përfshirë [[svastika|svastikat]]) janë shpjeguar nga studiuesit si simbole të Zjarrit të përhyjnë ([[Zjarri (Albanian paganism)|Zjarri]]),<ref>{{harvnb|Treimer|1971|p=32}}; {{harvnb|Murray-Aynsley|1891|pp=26, 29, 31}}.</ref> dhe veçanërisht të zotit të zjarrit [[Eni|Enji]],{{sfn|Treimer|1971|p=32}} i cili me sa duket ishte zoti më i shquar i [[Paganizmi shqiptar|panteonit shqiptar]] në kohën romake nga [[interpretatio romana|interpretimi]] i [[Jupiteri (zot)|Jupiterit]], kur u formuan emrat e ditëve të javës në [[Gjuha shqipe|gjuhën shqipe]] pasi e enjteja ({{lang|sq|e enjte}}) i ishte kushtuar atij.{{sfn|Treimer|1971|p=32}}
+== Shpërndarja gjeografike ==
+{{Fise shqiptare}}
+Kërkimet etnografike të shekullit të 20-të tregojnë se tatuazhi tradicional praktikohej në të gjitha rajonet e banuara nga shqiptarët{{Sfn|Lelaj|2015|p=98–100}}
+
+== Shiko edhe ==
+* [[Folklor shqiptar]]
+* [[Paganizmi shqiptar]]
+* [[Kultura e Shqipërisë]]
+
+== Referime ==
+{{Reflist}}
+
+== Bibliografia ==
+{{Refbegin|30em|indent=yes}}
+<!-- D -->
+*{{Cite book|last=Durham|first=Edith|title=Albania and the Albanians: Selected Articles and Letters, 1903–1944|editor=Bejtullah D. Destani|publisher=I.B.Tauris|year=2004|isbn=1850439397|language=en}}
+*{{Cite book|last1=Durham|first1=Edith|author-link=Edith Durham|title=Some tribal origins, laws and customs of the Balkans|year=1928|url=https://books.google.com/books?id=dSSBAAAAMAAJ|language=en}}
+<!-- E -->
+*{{Cite book|last=Elsie|first=Robert|url=http://dualibra.com/wp-content/uploads/2011/10/Historical_Dictionary_of_Albania__Second_Edition.pdf|page=255|author-link=Robert Elsie|title=Historical Dictionary of Albania|volume=75|publisher=Scarecrow Press|year=2010|edition=2|series=Historical Dictionaries of Europe|isbn=978-0810861886|url-status=dead|archive-url=https://web.archive.org/web/20141006083419/http://dualibra.com/wp-content/uploads/2011/10/Historical_Dictionary_of_Albania__Second_Edition.pdf|archive-date=6 October 2014|language=en}}
+*{{Cite journal|last=Lelaj|first=Olsi|title=Mbi tatuazhin në shoqërinë shqiptare|trans-title=On Tattoo in the Albanian Society|journal=Kultura Popullore|volume=34|issue=71–72|year=2015|issn=2309-5717|publisher=Centre of Albanological Studies|pages=91–118|language=sq}}
+<!-- M -->
+*{{Cite journal|last=Murray-Aynsley|first=J. C.|title=Swastika|journal=Ars Quatuor Coronatorum|volume=IV|year=1891}}
+<!-- N -->
+*{{Cite book|last=Norman|first=Camilla|chapter=Illyrian Vestiges in Daunian Costume: tattoos, string aprons and a helmet|title=Realtà medioadriatiche a confronto: contatti e scambi tra le due sponde. Atti del convegno Termoli 22-23 luglio 2016|editor=Gianfranco De Benedittis|publisher=Università degli Studi del Molise|place=Campobasso|year=2018|pages=57–71|language=it}}
+<!-- T -->
+*{{Cite book|last=Tirta|first=Mark|title=Mitologjia ndër shqiptarë|language=sq|editor=Petrit Bezhani|publisher=Mësonjëtorja|year=2004|place=Tirana|isbn=99927-938-9-9}}
+*{{Cite book|last=Treimer|first=Karl|editor=Henrik Barić |title=Arhiv za Arbanasku starinu, jezik i etnologiju|volume=I|chapter=Zur Rückerschliessung der illyrischen Götterwelt und ihre Bedeutung für die südslawische Philologie|pages=27–33|publisher=R. Trofenik|year=1971|url=https://books.google.com/books?id=dTIBAAAAMAAJ|language=hr}}
+{{Refend}}
+
+[[Kategoria:Folklor shqiptar]]
+[[Kategoria:Paganizmi shqiptar]]
+[[Kategoria:Kultura e Shqipërisë]]
+[[Kategoria:Traditat e tatuazhit]]

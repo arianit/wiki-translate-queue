@@ -1,0 +1,42 @@
+<!--
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Talas (deity), versioni i datës 22 korrik 2025 (revizioni 1301867132)
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Talas (deity)|22 korrik 2025|1301867132}}
+-->
+
+'''Talas''' ({{Lang|sq|Talasi}}) është një zot i [[Deti|detit]] dhe i [[Stuhia|stuhisë]] në [[Mitologjia shqiptare|mitologjinë dhe folklorin shqiptar]].<ref>{{harvnb|Ajeti|1982|p=100}}; {{harvnb|Poghirc|1987|p=179}}; {{harvnb|Elsie|2001|p=249}}; {{harvnb|Bane|2016|p=306}}.</ref> Një tregim mitik që përmend zotin Talas është dokumentuar në fillim të shekullit të 20-të nga rajoni i [[Shala|Shalës]] në veri të [[Shqipëria|Shqipërisë]].<ref>{{harvnb|Lambertz|1922|pp=47, 146–148}}</ref>
+
+== Emri ==
+Teonimi shqip ''Talas'' mund të jetë me origjinë nga [[Gjuha greke e lashtë|greqishtja e lashtë]] ose para-greke (krahaso ''Θάλασσα'' ''[[Thalassa|Thálassa]]'', "det"). Fjala ''talas'' do të thotë "valë" në [[Gjuha shqipe|shqip]], sinonim me ''valë''.<ref>{{harvnb|Ajeti|1982|pp=38, 100}}</ref> Fjala ''θάλασσα'', me variantin e saj me paranzal δαλάγχαν, është tipikisht para-greke.<ref>{{harvnb|Beekes|2009|p=530}}</ref>
+
+== Miti ==
+Sipas një tregimi mitik nga rajoni i [[Shala|Shalës]], ndërsa gruaja e [[Zojzi (mitologji)|zotit më të lartë]] fluturonte mbi detet për të kënaqur me pamjen e rendit që mençuria e burrit të saj kishte krijuar, zoti Talas e vuri re. Ajo ishte aq e bukur sa asnjë perëndeshë tjetër nuk mund ta barazonte. Kështu zoti Talas shkoi pas gruas së zotit më të lartë dhe sapo e arriti, e dhunoi me forcë brutale. Më pas gruaja e zotit më të lartë, pavarësisht se ishte mbi të gjitha perëndeshat e tjera, vendosi t'i merrte jetën vetes për shkak të përdhosjes që pësoi,{{Refn|Talas e kishte sulmuar dhe përdhosur në një mënyrë të turpshme, në mënyrë që në të ardhmen të mos mund të shihej më mes të tjerëve.<ref>{{harvnb|Lambertz|1922|pp=47, 146–148}}</ref> Vini re se ''[[Besa]]'' dhe ''[[Nderi|nderi]]'' janë me rëndësi të madhe në [[Kanuni|ligjin zakonor shqiptar]] si themel i sjelljes personale dhe sociale.<ref>{{harvnb|Gawrych|2006|p=115}}</ref>|group=note}} por vetëm pasi i tregoi burrit të saj çfarë kishte përjetuar. Kështu ajo u paraqit para burrit të saj, dhe menjëherë pasi raportoi çfarë kishte ndodhur, mori një armë dhe u shtri si kufomë para zotit më të lartë. Për shkak të atij vetëvrasjeje të tmerrshme, por më shumë se kaq, për shkak të përdhosjes që gruaja e tij kishte pësuar nga zoti Talas, zoti më i lartë [[Besa|u betua]] për t'i marrë hak zotit që i bëri atë turp. Pas një kohe zoti më i lartë e plotësoi hakmarrjen e tij duke goditur Talasin me një nga rrufetë e tij mizore që e copëtoi në copa, pas së cilës kufoma e tij do të kishte lëshuar një erë stuhish që askush nuk mund t'i afrohej, kështu që i gjithë trupi i tij u varros në tokë. Zoti Talas nuk kishte erë si njerëzit, por më të këndshme. Prandaj interpretimi se ai ishte zoti i stuhisë detare ose zoti i [[storm surge|valës stuhish]].<ref>{{harvnb|Lambertz|1922|pp=47, 146–148}}</ref>
+
+==Referenca==
+===Shënime===
+{{Reflist|30em|group=note}}
+
+=== Citime ===
+{{Reflist}}
+
+===Bibliografi===
+<!-- A -->
+*{{cite book|last=Ajeti|first=Idriz|title=Studije iz istorije albanskog jezika|publisher=Akademija nauka i umetnosti Kosova|year=1982|url=https://books.google.com/books?id=ytnqAAAAMAAJ|language=hr}}
+<!-- B -->
+*{{cite book|last=Bane|first=Theresa|title=Encyclopedia of Beasts and Monsters in Myth, Legend and Folklore|year=2016|publisher=McFarland|isbn=978-0-7864-9505-4|url=https://books.google.com/books?id=DvYWDAAAQBAJ|language=en}}
+*{{Cite book|url=https://books.google.com/books?id=lw7KxwEACAAJ|title=Etymological Dictionary of Greek|last=Beekes|first=Robert S. P.|editor-last=Beek|editor-first=Lucien van|year=2009|publisher=Brill|isbn=978-90-04-32186-1|language=en|author-link=Robert S. P. Beekes}}
+<!-- E -->
+*{{cite book|last=Elsie|first=Robert|author-link=Robert Elsie|title=A Dictionary of Albanian Religion, Mythology and Folk Culture|place=London|publisher=Hurst & Company|url=https://books.google.com/books?id=N_IXHrXIsYkC|isbn=1-85065-570-7|year=2001|language=en}}
+<!-- G -->
+*{{cite book|last=Gawrych|first=George|title=The Crescent and the Eagle: Ottoman rule, Islam and the Albanians, 1874–1913|year=2006|location=London|publisher=IB Tauris|url=https://books.google.com/books?id=wPOtzk-unJgC|isbn=9781845112875|pages=36|language=en}}
+<!-- L -->
+*{{cite book|last=Lambertz|first=Maximilian|title=Albanische Märchen (und andere Texte zur albanischen Volkskunde)|place=Wien|publisher=A. Hölder|year=1922|url=https://books.google.com/books?id=0lxtzwEACAAJ|language=de}}
+<!-- P -->
+*{{cite book|last=Poghirc|first=Cicerone|title=The Encyclopedia of Religion|volume=1|chapter=Albanian Religion|editor=Mircea Eliade|place=New York|publisher=MacMillan Publishing Co|year=1987|pages=178–180|language=en}}
+
+[[Kategoria:Paganizmi shqiptar]]
+[[Kategoria:Mitologjia shqiptare]]
+[[Kategoria:Zotërat e erës]]
+[[Kategoria:Zotërat e detit dhe të lumenjve]]

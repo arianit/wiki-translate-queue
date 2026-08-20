@@ -1,0 +1,85 @@
+Një '''sëmundje e parandalueshme me vaksinë''' është një {{ill|sëmundje infektive|en|Infectious disease}} për të cilën ekziston një [[Vaksina|vaksinë]] parandaluese efektive.<ref name="Jong2022">{{cite book |last=Hickey |first=Patrick W. |editor1-last=Jong |editor1-first=Elaine C. |editor2-last=Stevens |editor2-first=Dennis L. |title=Netter's Infectious Diseases |date=2022 |publisher=Elsevier |location=Philadelphia |isbn=978-0-323-71159-3 |pages=2–4 |edition=2nd |chapter-url=https://books.google.com/books?id=l8skEAAAQBAJ&pg=PA2 |language=en |chapter=1. Introduction to vaccine preventable diseases in children and adolescents |access-date=2023-09-25 |archive-date=2023-09-25 |archive-url=https://web.archive.org/web/20230925171913/https://books.google.com/books?id=l8skEAAAQBAJ&pg=PA2 |url-status=live }}</ref><ref name="CDC">{{cite web |title=Fast Facts on Global Immunization |url=https://www.cdc.gov/globalhealth/immunization/data/fast-facts.html |website=Centers for Disease Control and Prevention |access-date=2023-09-25 |language=en-us |date=2023-04-20 |archive-date=2023-09-25 |archive-url=https://web.archive.org/web/20230925171248/https://www.cdc.gov/globalhealth/immunization/data/fast-facts.html |url-status=live }}</ref> Nëse një person kontrakton një sëmundje të parandalueshme me vaksinë dhe vdes prej saj, vdekja konsiderohet '''vdekje e parandalueshme me vaksinë'''.{{Citim i duhur|data=qershor 2022}}
+
+Sëmundjet e parandalueshme me vaksinë më të zakonshme dhe më të rënda, të ndjekura nga [[Organizata Botërore e Shëndetësisë]] (OBSH), janë: [[Difteria|difteria]], infeksioni me {{ill|''Haemophilus influenzae'' serotipi b|en|Haemophilus influenzae}}, [[Hepatiti B|hepatiti B]], [[Fruthi|fruthi]], [[Meningjiti|meningjiti]], [[Parotiti|parotiti]], {{ill|pertusisi|en|Pertussis}}, [[Poliomieliti|poliomieliti]], rubeola, [[Tetanosi|tetanosi]], [[Tuberkulozi|tuberkulozi]] dhe {{ill|ethet e verdha|en|Yellow fever}}.<ref name="Vaccine-preventable diseases">{{cite web |url=https://www.who.int/immunization_monitoring/diseases/en/ |archive-url=https://web.archive.org/web/20050707082527/http://www.who.int/immunization_monitoring/diseases/en/ |url-status=dead |archive-date=2005-07-07 |title=WHO &#124; Vaccine-preventable diseases |language=en }}</ref> OBSH-ja raporton se ekzistojnë vaksina të licencuara për të parandaluar, ose për të kontribuar në parandalimin dhe kontrollin e, 31 infeksioneve të parandalueshme me vaksinë.<ref name="WHOglobal">{{cite web |title=Global Vaccine Action Plan |url=https://www.who.int/teams/immunization-vaccines-and-biologicals/strategies/global-vaccine-action-plan |access-date=2023-09-06 |website=www.who.int |language=en |archive-date=2017-12-19 |archive-url=https://web.archive.org/web/20171219204322/http://www.who.int/immunization/global_vaccine_action_plan/GVAP_doc_2011_2020/en/ |url-status=live }}</ref>
+
+==Sfondi==
+Në vitin 2012, [[Organizata Botërore e Shëndetësisë]] vlerësoi se vaksinimi parandalon 2,5 milionë vdekje çdo vit.<ref name="WHOglobal" /> Me imunizim 100% dhe efikasitet 100% të vaksinave, një nga çdo shtatë vdekje te fëmijët e vegjël mund të parandalohej, kryesisht në vendet në zhvillim, gjë që e bën këtë një çështje të rëndësishme të shëndetit global.<ref name="Vaccine-preventable diseases" /> Katër sëmundje ishin përgjegjëse për 98% të vdekjeve të parandalueshme me vaksinë: [[Fruthi|fruthi]], ''Haemophilus influenzae'' serotipi b, pertusisi, dhe [[Tetanosi|tetanosi]] neonatal.<ref name="Vaccine-preventable diseases" />
+
+Programi i Mbikëqyrjes, Vlerësimit dhe Monitorimit të Imunizimit i OBSH-së mbikëqyr dhe vlerëson sigurinë dhe efektivitetin e programeve dhe vaksinave në uljen e sëmundshmërisë dhe [[Vdekja|vdekjeve]] nga sëmundjet që mund të parandalohen me vaksina.<ref name="urlWHO-immunization-surveillance">{{cite web |url=https://www.who.int/immunization_monitoring/en/ |archive-url=https://web.archive.org/web/20050707020426/http://www.who.int/immunization_monitoring/en/ |url-status=dead |archive-date=2005-07-07 |title=Immunization Surveillance, Assessment and Monitoring |access-date=2009-05-16 |language=en }}</ref>
+
+Vdekjet e parandalueshme me vaksinë shkaktohen zakonisht nga mosmarrja e vaksinës në kohën e duhur. Kjo mund të vijë nga kufizime financiare ose nga mungesa e qasjes në vaksinë. Një vaksinë që rekomandohet përgjithësisht mund të jetë e papërshtatshme mjekësisht për një numër të vogël njerëzish, për shkak të [[Alergjia|alergjive]] të rënda ose një sistemi imunitar të dëmtuar. Përveç kësaj, një vaksinë kundër një sëmundjeje të caktuar mund të mos rekomandohet për përdorim të përgjithshëm në një vend të caktuar, ose mund të rekomandohet vetëm për popullata të caktuara, si fëmijët e vegjël apo të moshuarit. Çdo vend përcakton rekomandimet e veta të imunizimit, bazuar në sëmundjet e zakonshme në zonën e tij dhe në përparësitë e kujdesit shëndetësor. Nëse një sëmundje e parandalueshme me vaksinë është e rrallë në një vend, atëherë banorët e atij vendi kanë më pak të ngjarë të marrin një vaksinë kundër saj. Për shembull, banorët e Kanadasë dhe të Shteteve të Bashkuara nuk marrin rregullisht vaksina kundër ethe të verdha, gjë që i lë të pambrojtur nëse udhëtojnë në zona ku rreziku i ethes së verdhë është më i lartë (rajone endemike ose kalimtare).<ref>{{cite web |date=2021-03-25 |title=Canadian Immunization Guide: Part 4. Immunizing agents |url=https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-4-active-vaccines.html |access-date=2023-09-06 |website=www.canada.ca |language=en |archive-date=2023-05-25 |archive-url=https://web.archive.org/web/20230525150651/https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-4-active-vaccines.html |url-status=live }}</ref><ref>{{cite web |title=Vaccine-Preventable Diseases - Yellow Fever |url=https://vaccineinformation.org/yellow-fever/ |access-date=2023-09-06 |website=vaccineinformation.org |language=en |archive-date=2017-07-07 |archive-url=https://web.archive.org/web/20170707065437/http://www.vaccineinformation.org/yellow-fever/ |url-status=live }}</ref>
+
+==Listat e sëmundjeve të parandalueshme me vaksinë==
+[[File:Poliodrops.jpg|right|thumb|Një fëmijë duke u imunizuar kundër [[Poliomieliti|poliomielitit]]]]
+'''Shiko edhe:''' Lista e normave të vdekshmërisë sipas rasteve për sëmundjet njerëzore
+
+===Lista e OBSH-së===
+[[Organizata Botërore e Shëndetësisë|OBSH-ja]] rendit 28 sëmundje për të cilat ekzistojnë vaksina:<ref>{{Cite web |title=Vaccine-preventable Diseases |url=https://www.who.int/teams/immunization-vaccines-and-biologicals/diseases |access-date=2024-02-15 |website=www.who.int |language=en }}</ref>
+# Çikungunja
+# [[Kolera]]
+# [[COVID-19]]
+# Ethet e dengës
+# [[Difteria]]
+# ''Haemophilus influenzae'' tipi b
+# [[Hepatiti]] (vetëm A dhe [[Hepatiti B|B]])
+# Infeksioni me papilomavirusin njerëzor
+# [[Gripi]]
+# Encefaliti japonez
+# [[Malaria]]
+# [[Fruthi]]
+# Meningjiti meningokoksik
+# [[Parotiti]]
+# Pertusisi
+# Sëmundja pneumokoksike
+# [[Poliomieliti]]
+# [[Tërbimi]]
+# Virusi respirator sincicial (RSV)
+# Rotavirusi
+# Rubeola
+# [[Lia]] dhe [[Lia e majmunit|lia e majmunit]]
+# [[Tetanosi]]
+# Encefaliti i transmetuar nga rriqrat
+# [[Tuberkulozi]]
+# Ethet tifoide
+# Lia e dhenve
+# Ethet e verdha
+
+===Përdorimi te kafshët jo-njerëzore===
+# Bordetella
+# Distemperi qenor
+# Gripi qenor
+# Parvovirusi qenor
+# Klamidia
+# Kalicivirusi i maceve
+# Distemperi i maceve
+# Leuçemia e maceve
+# Rinotrakeiti viral i maceve
+# [[Leptospirosisi]]
+# Sëmundja Lyme
+
+==Sëmundje të parandalueshme me vaksinë të demonstruara në laborator te kafshë të tjera==
+{{Zgjerim}}
+* ''Enterococcus gallinarum'' te [[Miu|minjtë]] (për të parandaluar sëmundjen autoimune të shkaktuar nga bakteret)<ref>{{cite web |last=Wein |first=Harrison |date=2018-03-26 |title=Gut microbe drives autoimmunity |url=https://www.nih.gov/news-events/nih-research-matters/gut-microbe-drives-autoimmunity |access-date=2020-07-24 |website=National Institutes of Health (NIH) |language=en |archive-date=2020-07-17 |archive-url=https://web.archive.org/web/20200717005122/https://www.nih.gov/news-events/nih-research-matters/gut-microbe-drives-autoimmunity |url-status=live }}</ref><ref>{{cite web |last=Kashef |first=Ziba |date=2018-03-08 |title=The enemy within: Gut bacteria drive autoimmune disease |url=https://news.yale.edu/2018/03/08/enemy-within-gut-bacteria-drive-autoimmune-disease |access-date=2020-07-24 |website=YaleNews |language=en |archive-date=2020-09-27 |archive-url=https://web.archive.org/web/20200927112645/https://news.yale.edu/2018/03/08/enemy-within-gut-bacteria-drive-autoimmune-disease |url-status=live }}</ref>
+
+==Shiko edhe==
+* {{ill|Politika e vaksinimit|en|Vaccination policy}}
+
+==Referime==
+{{Reflist}}
+
+==Lidhje të jashtme==
+* {{Commonskat|Vaccine-preventable diseases|Sëmundjet e parandalueshme me vaksinë}}
+
+[[Kategoria:Sëmundjet e parandalueshme me vaksinë| ]]
+[[Kategoria:Vaksinimi|Sëmundje të parandalueshme]]
+[[Kategoria:Sëmundjet infektive]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Vaccine-preventable disease|3 qershor 2026|1357552707}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Vaccine-preventable disease, versioni i datës 3 qershor 2026 (revizioni 1357552707).
+-->

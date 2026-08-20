@@ -1,0 +1,31 @@
+<!--
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Kukudh, versioni i datës 20 korrik 2026 (revizioni 1365146536)
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Kukudh|20 korrik 2026|1365146536}}
+-->
+
+'''Kukudh''' ([[Gjuha shqipe|shqip]] [[Trajta e shquar|e shquar]]: '''Kukudhi''') është një krijesë [[e pafund|e pafundme]] në [[mitologjia shqiptare|mitologjinë shqiptare]].
+
+== Etimologjia ==
+E papërcaktuar. Me shumë gjasa një derivat i [[Gjuha shqipe|shqipes]] [[wikt:kuku|kuku]] ("vajtoj, qaj."), siç sugjeron sinonimi i tij [[wikt:kukuvriq|kukuvriq]]. Në folklorin [[tosk]] dhe [[geg]], Kukudhi lidhet me ëndrrat e këqija dhe vdekjen, duke e lidhur atë me zogun nate, [[bufin]], dhe [[qyqen]] ({{langx|sq|qyqe}}), të cilat konsiderohen si shenja të këqija; lajmëtarë të lajmeve të këqija.
+
+== Paraqitja ==
+Kukudhi është një [[revenant]], shpirti i varfër i një [[koprrac]]i që përndjek shtëpinë e tij pas vdekjes së tij. Për këtë arsye, njerëzit i frikësoheshin shtëpisë së një koprraci dhe do të shmangeshin të qëndronin gjatë natës nga frika se do të vriteshin. Vetëm një djalë i guximshëm mund ta mposhtë krijesën dhe t'i sjellë paqen e përjetshme shpirtit të saj të mallkuar, duke u emëruar trashëgimtar si shpërblim.<ref name="lambertz">{{citation | editor=[[Hans Wilhelm Haussig]] | author=[[Maksimilian Lamberci]] | title=Wörterbuch der Mythologie | chapter=Die Mythologie der Albaner |volume=2 | year=1973 | pages=455–509 | language=de}}</ref>
+
+Në dhe rreth [[Mali i Tomorit|Tomorrit]], ekziston një legjendë se një [[Lugati|lugat]] që nuk digjet në kohën e duhur do të bëhet një Kukudh.<ref name="lambertz" />
+
+Në disa zona, Kukudhi shfaqet si një njeri i fortë dhe me këmbë të shkurtra me bisht dhi. Ai është i pavulnerueshëm dhe mund të mbytet vetëm me një lak të bërë nga [[Hardhia e rrushit|hardhia e rrushit]]. Meqenëse sjell trazira, një njeri i keq quhet gjithashtu zakonisht Kukudh.<ref name="lambertz" />
+
+Kukudhi dhe [[Karakoncolos|Karkanxholli]] (etimologjikisht i lidhur me [[Kallikantzaros|Kallikantzarosin]] {{langx|el|καλικάντζαρος}}, i njohur gjithashtu si ''Karkançoli'') janë gjithashtu kufoma [[rom|romane]] "[[e pafund|të pafundme]]", të cilët shkojnë rreth në janar, të ngarkuar me zinxhirë dhe që lëshojnë një frymë vdekjeprurëse, të njohur veçanërisht në mes të [[Arbëreshët në Itali|shqiptarëve kalabrezë]]. Sipas një versioni tjetër, Karkançoli është i veshur me rroba hekuri, prandaj [[parzmore|parzmorja]] njihet si ''këmish karkançoli'' në [[Gjuha shqipe|shqip]].<ref name="lambertz" />
+
+Në Shqipërinë e Jugut, Kukudhi është një [[Demoni|demon]] i verbë femëror i sëmundjes, që bart [[Murtaja (sëmundje)|murtajën]]. "Kukudh" është gjithashtu emri i një sëmundjeje si [[Kolera|kolerë]], por më e keqe. [[Aleksandri i Madh|Aleksandri i Madh]] thuhet se e solli atë, pasi ka përdhunuar kufomën e një princeshe [[epirote]], e cila nuk do t'i kthente dashurinë e tij gjatë jetës së saj. Si pasojë, ekziston një thënie tallëse [[tosk]], ''As të ha kukudhi!'', që përkthehet: "As murtaja nuk do të të hajë!"<ref name="lambertz" />
+
+== Referime ==
+{{reflist}}
+
+[[Kategoria:Krijesa mitologjike shqiptare]]
+[[Kategoria:Folklori shqiptar]]
+[[Kategoria:Krijesa të pafundme]]
+[[Kategoria:Demonë]]
