@@ -14,7 +14,7 @@ https://en.wikipedia.org/wiki/Ottoman_Empire	DONE
 https://en.wikipedia.org/wiki/Chemistry	DONE
 https://en.wikipedia.org/wiki/European_Union	DONE
 https://en.wikipedia.org/wiki/Climate_change	DONE
-https://en.wikipedia.org/wiki/Relief	CLAIMED	pop-os	2026-08-20T17:17:53.626981+02:00
+https://en.wikipedia.org/wiki/Relief	DONE
 https://en.wikipedia.org/wiki/Architecture
 https://en.wikipedia.org/wiki/Plato
 https://en.wikipedia.org/wiki/Mongol Empire	DONE
