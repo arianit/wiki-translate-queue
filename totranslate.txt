@@ -1,0 +1,119 @@
+# One Wikipedia article per line (URL or title). Lines starting with # are
+# ignored. After a nightly run, the processed line gets "\tDONE" or
+# "\tFAILED" appended. Add new articles anywhere below; the script always
+# picks the first line with no status mark.
+
+https://en.wikipedia.org/wiki/Albania_under_the_Hohenstaufen	DONE
+https://en.wikipedia.org/wiki/Muzaka-Serbian_Conflict	DONE
+https://en.wikipedia.org/wiki/Geography	DONE
+https://en.wikipedia.org/wiki/Ancient_Greece	DONE
+https://en.wikipedia.org/wiki/Ottoman_Empire	DONE
+https://en.wikipedia.org/wiki/Chemistry	DONE
+https://en.wikipedia.org/wiki/European_Union	DONE
+https://en.wikipedia.org/wiki/Climate_change	DONE
+https://en.wikipedia.org/wiki/Architecture
+https://en.wikipedia.org/wiki/Plato
+https://en.wikipedia.org/wiki/Mongol Empire	DONE
+https://en.wikipedia.org/wiki/Infection	DONE
+https://en.wikipedia.org/wiki/Vaccine-preventable_disease	DONE
+https://en.wikipedia.org/wiki/Relief
+https://en.wikipedia.org/wiki/Adam_Smith
+https://en.wikipedia.org/wiki/Max_Weber
+https://en.wikipedia.org/wiki/Moses
+https://en.wikipedia.org/wiki/Nagarjuna
+https://en.wikipedia.org/wiki/Ashoka
+https://en.wikipedia.org/wiki/Otto_von_Bismarck
+https://en.wikipedia.org/wiki/Winston_Churchill
+https://en.wikipedia.org/wiki/Cyrus_the_Great
+https://en.wikipedia.org/wiki/Rosa_Luxemburg
+https://en.wikipedia.org/wiki/Nelson_Mandela
+https://en.wikipedia.org/wiki/Mao_Zedong
+https://en.wikipedia.org/wiki/Jawaharlal_Nehru
+https://en.wikipedia.org/wiki/Kwame_Nkrumah
+https://en.wikipedia.org/wiki/Qin_Shi_Huang
+https://en.wikipedia.org/wiki/Sun_Yat-sen
+https://en.wikipedia.org/wiki/Timur
+https://en.wikipedia.org/wiki/Tim_Berners-Lee
+https://en.wikipedia.org/wiki/Brahmagupta
+https://en.wikipedia.org/wiki/Henry_Ford
+https://en.wikipedia.org/wiki/Galen
+https://en.wikipedia.org/wiki/David_Hilbert
+https://en.wikipedia.org/wiki/James_Prescott_Joule
+https://en.wikipedia.org/wiki/Johannes_Kepler
+https://en.wikipedia.org/wiki/Al-Khwarizmi
+https://en.wikipedia.org/wiki/Carl_Linnaeus
+https://en.wikipedia.org/wiki/James_Clerk_Maxwell
+https://en.wikipedia.org/wiki/Max_Planck
+https://en.wikipedia.org/wiki/Ernest_Rutherford
+https://en.wikipedia.org/wiki/Francisco_Goya
+https://en.wikipedia.org/wiki/Hokusai
+https://en.wikipedia.org/wiki/Rembrandt
+https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez
+https://en.wikipedia.org/wiki/Andy_Warhol
+https://en.wikipedia.org/wiki/Frank_Lloyd_Wright
+https://en.wikipedia.org/wiki/Louis_Armstrong
+https://en.wikipedia.org/wiki/The_Beatles
+https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin
+https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k
+https://en.wikipedia.org/wiki/Gustav_Mahler
+https://en.wikipedia.org/wiki/Giacomo_Puccini
+https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky
+https://en.wikipedia.org/wiki/Richard_Wagner
+https://en.wikipedia.org/wiki/Sergei_Eisenstein
+https://en.wikipedia.org/wiki/Akira_Kurosawa
+https://en.wikipedia.org/wiki/Marilyn_Monroe
+https://en.wikipedia.org/wiki/Satyajit_Ray
+https://en.wikipedia.org/wiki/Geoffrey_Chaucer
+https://en.wikipedia.org/wiki/James_Joyce
+https://en.wikipedia.org/wiki/Naguib_Mahfouz
+https://en.wikipedia.org/wiki/Marcel_Proust
+https://en.wikipedia.org/wiki/Alexander_Pushkin
+https://en.wikipedia.org/wiki/Sophocles
+https://en.wikipedia.org/wiki/Rabindranath_Tagore
+https://en.wikipedia.org/wiki/Virgil
+https://en.wikipedia.org/wiki/Jacques_Cartier
+https://en.wikipedia.org/wiki/James_Cook
+https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s
+https://en.wikipedia.org/wiki/Zheng_He
+https://en.wikipedia.org/wiki/Dialectic
+https://en.wikipedia.org/wiki/Epistemology
+https://en.wikipedia.org/wiki/Free_will
+https://en.wikipedia.org/wiki/Logic
+https://en.wikipedia.org/wiki/Materialism
+https://en.wikipedia.org/wiki/Reality
+https://en.wikipedia.org/wiki/Truth
+https://en.wikipedia.org/wiki/Monotheism
+https://en.wikipedia.org/wiki/Polytheism
+https://en.wikipedia.org/wiki/Soul
+https://en.wikipedia.org/wiki/Jainism
+https://en.wikipedia.org/wiki/Judaism
+https://en.wikipedia.org/wiki/Behavior
+https://en.wikipedia.org/wiki/Mind
+https://en.wikipedia.org/wiki/Man
+https://en.wikipedia.org/wiki/Woman
+https://en.wikipedia.org/wiki/Politics
+https://en.wikipedia.org/wiki/Colonialism
+https://en.wikipedia.org/wiki/Dictatorship
+https://en.wikipedia.org/wiki/Ideology
+https://en.wikipedia.org/wiki/Anarchism
+https://en.wikipedia.org/wiki/Conservatism
+https://en.wikipedia.org/wiki/Marxism
+https://en.wikipedia.org/wiki/Imperialism
+https://en.wikipedia.org/wiki/Political_party
+https://en.wikipedia.org/wiki/Propaganda
+https://en.wikipedia.org/wiki/Capital_(economics)
+https://en.wikipedia.org/wiki/Currency
+https://en.wikipedia.org/wiki/Tax
+https://en.wikipedia.org/wiki/African_Union
+https://en.wikipedia.org/wiki/Arab_League
+https://en.wikipedia.org/wiki/ASEAN
+https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement
+https://en.wikipedia.org/wiki/Nobel_Prize
+https://en.wikipedia.org/wiki/International_Court_of_Justice
+https://en.wikipedia.org/wiki/UNESCO
+https://en.wikipedia.org/wiki/World_Bank
+https://en.wikipedia.org/wiki/World_Trade_Organization
+https://en.wikipedia.org/wiki/Military
+https://en.wikipedia.org/wiki/Peace
+https://en.wikipedia.org/wiki/War
+https://en.wikipedia.org/wiki/Civil_war
