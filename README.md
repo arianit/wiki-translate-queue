@@ -7,11 +7,16 @@ can all find and safely update the same queue.
 
 ## `totranslate.txt` format
 
-One Wikipedia article per line (URL or title). Lines starting with `#` are
-ignored (comments / explanations). After a run, a processed line gets
-`\tDONE`, `\tFAILED`, or `\tIN_PROGRESS\t<hostname>` appended. A consumer
-picks the first line with no status mark. Add new articles anywhere below
-the header; order doesn't matter beyond that.
+One Wikipedia article per line (URL or title), followed by a single status
+field: nothing (pending), `\tCLAIMED\t<hostname>\t<iso timestamp>` (picked
+up but not finished — treated as abandoned and reclaimed if the timestamp
+is more than a few hours old), or `\tDONE` / `\tFAILED` (finished). Lines
+starting with `#` are comments. A consumer picks the first line with no
+status field; new articles can be added anywhere below the header.
+
+Status is always a *replacement* of the whole field after the URL, never
+an append — e.g. going from `CLAIMED\t<host>\t<ts>` to `DONE` replaces that
+entire suffix, it doesn't get appended after it.
 
 ## Protocol for consumer scripts
 
@@ -27,24 +32,33 @@ import queue_lib
 repo_dir = Path("~/code/wiki-translate-queue").expanduser()
 
 queue_lib.git_pull(repo_dir)                 # 1. get the latest state
-# ... parse totranslate.txt, pick the first unmarked line ...
+# ... parse totranslate.txt, pick the first line with no status field
+#     (treat a CLAIMED line whose timestamp is stale — a few hours old —
+#     as pending too, in case whoever claimed it crashed) ...
 
-# 2. claim it before doing any slow work, so two machines can't pick
-#    the same line
-#    (write "\tIN_PROGRESS\t<hostname>" to that line)
-claimed = queue_lib.git_commit_push(repo_dir, f"claim: {url}")
-# If push kept failing after retries, queue_lib raises QueueSyncError.
-# In that case: pull again, re-check the line you wanted — if someone
-# else's IN_PROGRESS marker got there first, pick a different line.
+# 2. claim it before doing any slow work, so two machines can't pick the
+#    same line: replace the line's status field with
+#    "CLAIMED\t<hostname>\t<iso timestamp>"
+try:
+    queue_lib.git_commit_push(repo_dir, f"claim: {url}")
+except queue_lib.QueueSyncError:
+    # Someone else claimed a conflicting version of this line first.
+    queue_lib.git_reset_hard_to_remote(repo_dir)
+    # pull again, re-parse, pick a different line, retry.
 
 # 3. do the (possibly slow) translation work
 
-# 4. overwrite the IN_PROGRESS marker with DONE/FAILED, then:
+# 4. replace the CLAIMED status field with DONE or FAILED, then:
 queue_lib.git_commit_push(repo_dir, f"result: {url} -> DONE")
 ```
 
 `queue_lib.git_commit_push()` already retries pull+push a few times on
-rejection, so a normal race between two machines resolves on its own.
+rejection, so a normal race between two machines resolves on its own —
+`git_reset_hard_to_remote()` is only needed for the harder case where the
+retries themselves are exhausted or the rebase hits a real conflict.
+See `batch_controller.py` in `wikitranslateautorun` for a full worked
+example (`claim_line`, `set_line_status`, and the retry/reset handling
+around it).
 
 ## Current consumers
 

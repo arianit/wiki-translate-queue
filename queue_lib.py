@@ -47,22 +47,30 @@ def git_pull(repo_dir: Path) -> None:
 def git_commit_push(repo_dir: Path, message: str, retries: int = 3) -> bool:
     """Commit any pending changes to totranslate.txt and push.
 
-    Returns False if there was nothing to commit. Retries pull+push on
-    rejection (another machine pushed first) up to `retries` times, using
-    `git pull --rebase` between attempts so a concurrent claim/result from
-    elsewhere is never silently clobbered.
+    Returns False if there was nothing to commit and nothing already
+    committed-but-unpushed (e.g. left over from a previous call whose push
+    exhausted its retries). Retries pull+push on rejection (another machine
+    pushed first) up to `retries` times, using `git pull --rebase` between
+    attempts so a concurrent claim/result from elsewhere is never silently
+    clobbered.
     """
     add = _run(["add", "totranslate.txt"], repo_dir)
     if add.returncode != 0:
         raise QueueSyncError(f"git add failed: {add.stderr.strip()}")
 
-    status = _run(["diff", "--cached", "--quiet"], repo_dir)
-    if status.returncode == 0:
-        return False  # nothing staged, nothing to do
+    staged = _run(["diff", "--cached", "--quiet"], repo_dir)
+    if staged.returncode != 0:  # something staged
+        commit = _run(["commit", "-m", message], repo_dir)
+        if commit.returncode != 0:
+            raise QueueSyncError(f"git commit failed: {commit.stderr.strip()}")
 
-    commit = _run(["commit", "-m", message], repo_dir)
-    if commit.returncode != 0:
-        raise QueueSyncError(f"git commit failed: {commit.stderr.strip()}")
+    # Whether or not we just committed, there may already be earlier
+    # unpushed commits (e.g. a prior call whose push exhausted its retries)
+    # — always check against the upstream rather than only pushing when we
+    # ourselves just committed, or a stranded commit would never get retried.
+    ahead = _run(["rev-list", "--count", "@{u}..HEAD"], repo_dir)
+    if ahead.returncode == 0 and ahead.stdout.strip() == "0":
+        return False  # nothing to push
 
     for attempt in range(1, retries + 1):
         push = _run(["push"], repo_dir)
@@ -74,3 +82,19 @@ def git_commit_push(repo_dir: Path, message: str, retries: int = 3) -> bool:
         git_pull(repo_dir)  # rebase local commit onto the remote's newer state, then retry push
 
     return True
+
+
+def git_reset_hard_to_remote(repo_dir: Path, branch: str = "main") -> None:
+    """Discard any local commits/changes and reset to the remote branch.
+
+    Use this to recover after a claim genuinely conflicts with another
+    machine's claim on the same line (git_pull's rebase failed and was
+    aborted, or git_commit_push exhausted its retries) — the failed local
+    attempt is discarded so the repo is clean for picking a different line.
+    """
+    fetch = _run(["fetch", "origin", branch], repo_dir)
+    if fetch.returncode != 0:
+        raise QueueSyncError(f"git fetch failed: {fetch.stderr.strip()}")
+    reset = _run(["reset", "--hard", f"origin/{branch}"], repo_dir)
+    if reset.returncode != 0:
+        raise QueueSyncError(f"git reset --hard failed: {reset.stderr.strip()}")

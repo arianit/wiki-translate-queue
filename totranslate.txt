@@ -1,7 +1,10 @@
 # One Wikipedia article per line (URL or title). Lines starting with # are
-# ignored. After a nightly run, the processed line gets "\tDONE" or
-# "\tFAILED" appended. Add new articles anywhere below; the script always
-# picks the first line with no status mark.
+# ignored. A run first replaces the (empty) status field with
+# "CLAIMED\t<hostname>\t<iso timestamp>" to claim the line, then with
+# "DONE" or "FAILED" when finished. Add new articles anywhere below; a
+# consumer always picks the first line with no status field (a CLAIMED
+# line whose timestamp is stale is treated as abandoned and reclaimed).
+# Shared across machines via git — see README.md.
 
 https://en.wikipedia.org/wiki/Albania_under_the_Hohenstaufen	DONE
 https://en.wikipedia.org/wiki/Muzaka-Serbian_Conflict	DONE
