@@ -32,10 +32,16 @@ def _run(args: list[str], repo_dir: Path) -> subprocess.CompletedProcess:
 
 
 def git_pull(repo_dir: Path) -> None:
-    """Fetch and rebase onto the latest remote state."""
+    """Fetch and rebase onto the latest remote state.
+
+    On conflict (e.g. two machines claimed the same line at once), aborts
+    the rebase so the repo is left clean for the next attempt, rather than
+    stuck mid-rebase.
+    """
     proc = _run(["pull", "--rebase"], repo_dir)
     if proc.returncode != 0:
-        raise QueueSyncError(f"git pull --rebase failed: {proc.stderr.strip()}")
+        _run(["rebase", "--abort"], repo_dir)
+        raise QueueSyncError(f"git pull --rebase failed (aborted): {proc.stderr.strip()}")
 
 
 def git_commit_push(repo_dir: Path, message: str, retries: int = 3) -> bool:
