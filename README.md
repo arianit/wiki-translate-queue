@@ -71,12 +71,22 @@ already-chosen line rather than using `claim_next_pending`).
 
 ## Current consumers
 
-- [`wikitranslateautorun`](https://github.com/arianit) `batch_controller.py`
-  — the nightly cron controller. Clones this repo locally and symlinks
-  `totranslate.txt` into its working directory.
-- `translation-harness` / `multimodeltranslationpipeline` — not wired up
-  yet, but should follow the same protocol via `queue_lib.py` rather than
-  reinventing it, when they're ready to consume this queue.
+- `wikitranslateautorun`'s `batch_controller.py` — the nightly cron
+  controller. Clones this repo locally and symlinks `totranslate.txt` into
+  its working directory. Has its own cost-based article ordering, so it
+  claims a specific, already-chosen line via the low-level building blocks
+  rather than `claim_next_pending`.
+- `translation-harness`'s `wiki-translate-harness queue` subcommand
+  (`wiki_translate_harness/queue_runner.py`) — drains the queue via
+  `claim_next_pending`/`finish_line`, translating each article with the
+  same `run_pipeline()` its manual `--title`/`--titles`/`--category` modes
+  use.
+- `multimodeltranslationpipeline`'s `mmtp queue` subcommand
+  (`mmtp/queue_runner.py`) — same pattern, calling `translate_article()`.
+
+All three dynamically import `queue_lib.py` from a local clone of this
+repo rather than vendoring a copy, so a fix here (like the merge-safety
+rewrite in the commit history) only needs to land once.
 
 ## Not shared here
 
