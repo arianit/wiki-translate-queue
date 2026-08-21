@@ -16,7 +16,8 @@ https://en.wikipedia.org/wiki/European_Union	DONE
 https://en.wikipedia.org/wiki/Climate_change	DONE
 https://en.wikipedia.org/wiki/Relief	DONE
 https://en.wikipedia.org/wiki/Architecture	DONE
-https://en.wikipedia.org/wiki/Plato	CLAIMED	pop-os	2026-08-21T23:58:43.971900+02:00
+https://en.wikipedia.org/wiki/Plato	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Mongol Empire	DONE
 https://en.wikipedia.org/wiki/Infection	DONE
 https://en.wikipedia.org/wiki/Vaccine-preventable_disease	DONE
