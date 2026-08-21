@@ -25,7 +25,7 @@ https://en.wikipedia.org/wiki/Adam_Smith	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Max_Weber	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Moses
+https://en.wikipedia.org/wiki/Moses	CLAIMED	pop-os	2026-08-22T00:10:08.770436+02:00
 https://en.wikipedia.org/wiki/Nagarjuna
 https://en.wikipedia.org/wiki/Ashoka
 https://en.wikipedia.org/wiki/Otto_von_Bismarck
