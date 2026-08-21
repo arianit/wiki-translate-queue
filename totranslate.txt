@@ -31,7 +31,8 @@ https://en.wikipedia.org/wiki/Nagarjuna	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Ashoka	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Otto_von_Bismarck	CLAIMED	pop-os	2026-08-22T00:12:10.239503+02:00
+https://en.wikipedia.org/wiki/Otto_von_Bismarck	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Winston_Churchill
 https://en.wikipedia.org/wiki/Cyrus_the_Great
 https://en.wikipedia.org/wiki/Rosa_Luxemburg
