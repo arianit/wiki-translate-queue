@@ -15,7 +15,7 @@ https://en.wikipedia.org/wiki/Chemistry	DONE
 https://en.wikipedia.org/wiki/European_Union	DONE
 https://en.wikipedia.org/wiki/Climate_change	DONE
 https://en.wikipedia.org/wiki/Relief	DONE
-https://en.wikipedia.org/wiki/Architecture	CLAIMED	pop-os	2026-08-21T17:01:55.932809+02:00
+https://en.wikipedia.org/wiki/Architecture	DONE
 https://en.wikipedia.org/wiki/Plato
 https://en.wikipedia.org/wiki/Mongol Empire	DONE
 https://en.wikipedia.org/wiki/Infection	DONE
