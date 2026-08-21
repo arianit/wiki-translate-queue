@@ -29,7 +29,7 @@ https://en.wikipedia.org/wiki/Moses	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Nagarjuna	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Ashoka
+https://en.wikipedia.org/wiki/Ashoka	CLAIMED	pop-os	2026-08-22T00:11:28.469532+02:00
 https://en.wikipedia.org/wiki/Otto_von_Bismarck
 https://en.wikipedia.org/wiki/Winston_Churchill
 https://en.wikipedia.org/wiki/Cyrus_the_Great
