@@ -21,7 +21,8 @@ https://en.wikipedia.org/wiki/Plato	FAILED
 https://en.wikipedia.org/wiki/Mongol Empire	DONE
 https://en.wikipedia.org/wiki/Infection	DONE
 https://en.wikipedia.org/wiki/Vaccine-preventable_disease	DONE
-https://en.wikipedia.org/wiki/Adam_Smith	CLAIMED	pop-os	2026-08-22T00:08:43.288682+02:00
+https://en.wikipedia.org/wiki/Adam_Smith	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Max_Weber
 https://en.wikipedia.org/wiki/Moses
 https://en.wikipedia.org/wiki/Nagarjuna
