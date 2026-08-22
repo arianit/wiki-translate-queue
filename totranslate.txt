@@ -57,7 +57,7 @@ https://en.wikipedia.org/wiki/Tim_Berners-Lee	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Brahmagupta	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Henry_Ford
+https://en.wikipedia.org/wiki/Henry_Ford	CLAIMED	pop-os	2026-08-22T06:25:07.177892+02:00
 https://en.wikipedia.org/wiki/Galen
 https://en.wikipedia.org/wiki/David_Hilbert
 https://en.wikipedia.org/wiki/James_Prescott_Joule
