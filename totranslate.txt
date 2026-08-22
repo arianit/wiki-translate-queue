@@ -39,7 +39,8 @@ https://en.wikipedia.org/wiki/Cyrus_the_Great	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Rosa_Luxemburg	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Nelson_Mandela	CLAIMED	pop-os	2026-08-22T06:18:36.961576+02:00
+https://en.wikipedia.org/wiki/Nelson_Mandela	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Mao_Zedong
 https://en.wikipedia.org/wiki/Jawaharlal_Nehru
 https://en.wikipedia.org/wiki/Kwame_Nkrumah
