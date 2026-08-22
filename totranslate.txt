@@ -53,7 +53,7 @@ https://en.wikipedia.org/wiki/Sun_Yat-sen	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Timur	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Tim_Berners-Lee
+https://en.wikipedia.org/wiki/Tim_Berners-Lee	CLAIMED	pop-os	2026-08-22T06:24:22.656409+02:00
 https://en.wikipedia.org/wiki/Brahmagupta
 https://en.wikipedia.org/wiki/Henry_Ford
 https://en.wikipedia.org/wiki/Galen
