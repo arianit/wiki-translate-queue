@@ -45,7 +45,8 @@ https://en.wikipedia.org/wiki/Mao_Zedong	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Jawaharlal_Nehru	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Kwame_Nkrumah	CLAIMED	pop-os	2026-08-22T06:21:36.113628+02:00
+https://en.wikipedia.org/wiki/Kwame_Nkrumah	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Qin_Shi_Huang
 https://en.wikipedia.org/wiki/Sun_Yat-sen
 https://en.wikipedia.org/wiki/Timur
