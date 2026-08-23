@@ -59,7 +59,7 @@ https://en.wikipedia.org/wiki/Brahmagupta	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Henry_Ford	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Galen
+https://en.wikipedia.org/wiki/Galen	CLAIMED	pop-os	2026-08-23T17:55:42.070467+02:00
 https://en.wikipedia.org/wiki/David_Hilbert
 https://en.wikipedia.org/wiki/James_Prescott_Joule
 https://en.wikipedia.org/wiki/Johannes_Kepler
