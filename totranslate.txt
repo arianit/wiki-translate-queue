@@ -60,7 +60,7 @@ https://en.wikipedia.org/wiki/Brahmagupta	FAILED
 https://en.wikipedia.org/wiki/Henry_Ford	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Galen	DONE
-https://en.wikipedia.org/wiki/David_Hilbert
+https://en.wikipedia.org/wiki/David_Hilbert	CLAIMED	pop-os	2026-08-24T19:27:21.661073+02:00
 https://en.wikipedia.org/wiki/James_Prescott_Joule
 https://en.wikipedia.org/wiki/Johannes_Kepler
 https://en.wikipedia.org/wiki/Al-Khwarizmi
