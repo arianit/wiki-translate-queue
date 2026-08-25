@@ -35,7 +35,7 @@ https://en.wikipedia.org/wiki/Jawaharlal_Nehru
 https://en.wikipedia.org/wiki/Kwame_Nkrumah	
 https://en.wikipedia.org/wiki/Qin_Shi_Huang	
 https://en.wikipedia.org/wiki/Sun_Yat-sen	
-https://en.wikipedia.org/wiki/Timur	
+https://en.wikipedia.org/wiki/Timur	CLAIMED	pop-os	2026-08-25T22:40:22.585251+02:00
 https://en.wikipedia.org/wiki/Tim_Berners-Lee	DONE
 https://en.wikipedia.org/wiki/Brahmagupta	
 https://en.wikipedia.org/wiki/Henry_Ford	
