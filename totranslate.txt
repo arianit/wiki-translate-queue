@@ -17,48 +17,28 @@ https://en.wikipedia.org/wiki/Climate_change	DONE
 https://en.wikipedia.org/wiki/Relief	DONE
 https://en.wikipedia.org/wiki/Architecture	DONE
 https://en.wikipedia.org/wiki/Plato	DONE
-# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Mongol Empire	DONE
 https://en.wikipedia.org/wiki/Infection	DONE
 https://en.wikipedia.org/wiki/Vaccine-preventable_disease	DONE
-https://en.wikipedia.org/wiki/Adam_Smith	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Max_Weber	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Moses	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Nagarjuna	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Ashoka	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Otto_von_Bismarck	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Winston_Churchill	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Cyrus_the_Great	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Rosa_Luxemburg	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Nelson_Mandela	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Mao_Zedong	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Jawaharlal_Nehru	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Kwame_Nkrumah	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Qin_Shi_Huang	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Sun_Yat-sen	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Timur	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Tim_Berners-Lee	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Brahmagupta	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Henry_Ford	FAILED
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Adam_Smith	
+https://en.wikipedia.org/wiki/Max_Weber	
+https://en.wikipedia.org/wiki/Moses	
+https://en.wikipedia.org/wiki/Nagarjuna	
+https://en.wikipedia.org/wiki/Ashoka	
+https://en.wikipedia.org/wiki/Otto_von_Bismarck	
+https://en.wikipedia.org/wiki/Winston_Churchill	
+https://en.wikipedia.org/wiki/Cyrus_the_Great	
+https://en.wikipedia.org/wiki/Rosa_Luxemburg	
+https://en.wikipedia.org/wiki/Nelson_Mandela	
+https://en.wikipedia.org/wiki/Mao_Zedong	
+https://en.wikipedia.org/wiki/Jawaharlal_Nehru	
+https://en.wikipedia.org/wiki/Kwame_Nkrumah	
+https://en.wikipedia.org/wiki/Qin_Shi_Huang	
+https://en.wikipedia.org/wiki/Sun_Yat-sen	
+https://en.wikipedia.org/wiki/Timur	
+https://en.wikipedia.org/wiki/Tim_Berners-Lee	
+https://en.wikipedia.org/wiki/Brahmagupta	
+https://en.wikipedia.org/wiki/Henry_Ford	
 https://en.wikipedia.org/wiki/Galen	DONE
 https://en.wikipedia.org/wiki/David_Hilbert	DONE
 https://en.wikipedia.org/wiki/James_Prescott_Joule
