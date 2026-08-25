@@ -42,7 +42,7 @@ https://en.wikipedia.org/wiki/Henry_Ford
 https://en.wikipedia.org/wiki/Galen	DONE
 https://en.wikipedia.org/wiki/David_Hilbert	DONE
 https://en.wikipedia.org/wiki/James_Prescott_Joule
-https://en.wikipedia.org/wiki/Johannes_Kepler	CLAIMED	pop-os	2026-08-25T23:02:58.203834+02:00
+https://en.wikipedia.org/wiki/Johannes_Kepler	DONE
 https://en.wikipedia.org/wiki/Al-Khwarizmi
 https://en.wikipedia.org/wiki/Carl_Linnaeus
 https://en.wikipedia.org/wiki/James_Clerk_Maxwell
