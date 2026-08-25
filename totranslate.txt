@@ -21,7 +21,7 @@ https://en.wikipedia.org/wiki/Mongol Empire	DONE
 https://en.wikipedia.org/wiki/Infection	DONE
 https://en.wikipedia.org/wiki/Vaccine-preventable_disease	DONE
 https://en.wikipedia.org/wiki/Adam_Smith	DONE
-https://en.wikipedia.org/wiki/Max_Weber	
+https://en.wikipedia.org/wiki/Max_Weber	CLAIMED	pop-os	2026-08-25T18:21:05.813801+02:00
 https://en.wikipedia.org/wiki/Moses	
 https://en.wikipedia.org/wiki/Nagarjuna	
 https://en.wikipedia.org/wiki/Ashoka	
