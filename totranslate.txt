@@ -43,7 +43,7 @@ https://en.wikipedia.org/wiki/Galen	DONE
 https://en.wikipedia.org/wiki/David_Hilbert	DONE
 https://en.wikipedia.org/wiki/James_Prescott_Joule
 https://en.wikipedia.org/wiki/Johannes_Kepler	DONE
-https://en.wikipedia.org/wiki/Al-Khwarizmi	CLAIMED	pop-os	2026-08-25T23:25:01.239557+02:00
+https://en.wikipedia.org/wiki/Al-Khwarizmi	DONE
 https://en.wikipedia.org/wiki/Carl_Linnaeus
 https://en.wikipedia.org/wiki/James_Clerk_Maxwell
 https://en.wikipedia.org/wiki/Max_Planck
