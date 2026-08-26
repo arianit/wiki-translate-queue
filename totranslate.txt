@@ -50,7 +50,7 @@ https://en.wikipedia.org/wiki/Max_Planck	DONE
 https://en.wikipedia.org/wiki/Ernest_Rutherford
 https://en.wikipedia.org/wiki/Francisco_Goya
 https://en.wikipedia.org/wiki/Hokusai
-https://en.wikipedia.org/wiki/Rembrandt
+https://en.wikipedia.org/wiki/Rembrandt	CLAIMED	pop-os	2026-08-26T23:19:48.432934+02:00
 https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez
 https://en.wikipedia.org/wiki/Andy_Warhol
 https://en.wikipedia.org/wiki/Frank_Lloyd_Wright
