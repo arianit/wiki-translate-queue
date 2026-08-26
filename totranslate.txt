@@ -122,5 +122,5 @@ https://en.wikipedia.org/wiki/War
 https://en.wikipedia.org/wiki/Civil_war
 https://en.wikipedia.org/wiki/Christianity	DONE
 https://en.wikipedia.org/wiki/Islam	DONE
-https://en.wikipedia.org/wiki/Physics
+https://en.wikipedia.org/wiki/Physics	CLAIMED	pop-os	2026-08-26T18:22:49.532143+02:00
 https://en.wikipedia.org/wiki/Biology
