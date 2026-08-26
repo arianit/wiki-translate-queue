@@ -1,0 +1,177 @@
+{{Short description|Poet romak i shekullit I p.e.s.}}
+{{Use dmy dates|date=gusht 2026}}
+{{Infobox writer
+| image             = Virgil mosaic in the Bardo National Museum (Tunis) (12241228546).jpg
+| caption           = Mozaik i Virgjilit nga shekulli III, i ulur mes muzave Klio dhe Melpomene (nga Hadrumetumi [Suza], Tunizi)
+| birth_name        = Publius Vergilius Maro
+| birth_date        = 15 tetor 70 p.e.s.
+| birth_place       = Andes, Galia Cisalpine, [[Republika Romake]]
+| death_date        = 21 shtator 19 p.e.s. (50 vjeç)
+| death_place       = [[Brindizi]], Itali, [[Perandoria Romake]]
+| occupation        = Poet
+| genre             = Poezi epike, poezi didaktike, poezi baritore
+| movement          = Poezia augustiane
+| notable_works     = ''{{ill|Eklogat|en|Eclogues}}''<br />''[[Gjeorgjiket]]''<br />''[[Eneida]]''
+}}
+
+'''Publius Vergilius Maro''' ({{IPA|la|ˈpuːbliʊs wɛrˈɡɪliʊs ˈmaroː}}; 15 tetor 70 p.e.s. – 21 shtator 19 p.e.s.), i njohur zakonisht si '''Virgjili''' (ose '''Vergjili'''), ishte një poet [[Roma e Lashtë|romak i lashtë]] i periudhës augustiane. Ai shkroi tri nga poemat më të njohura të [[Letërsia latine|letërsisë latine]]: ''{{ill|Eklogat|en|Eclogues}}'' (ose ''Bucolica''), ''[[Gjeorgjiket]]'', dhe [[Poezia epike|poemën epike]] ''[[Eneida]]''. Disa poema të vogla, të mbledhura nën titullin ''{{ill|Appendix Vergiliana|en|Appendix Vergiliana}}'', iu atribuuan atij në kohët e lashta, por studiuesit modernë i konsiderojnë të rreme, me përjashtim të mundshëm të disa pjesëve të shkurtra.
+
+I nderuar tashmë si autor klasik që gjatë jetës së tij, Virgjili zëvendësoi shpejt [[Kuint Eni|Enin]] dhe autorë të tjerë të hershëm si tekst standard shkollor, dhe mbeti poeti latin më i njohur gjatë antikitetit të vonë, mesjetës, dhe fillimeve të kohës moderne, duke ushtruar një ndikim të madh mbi letërsinë perëndimore. [[Geoffrey Chaucer]] i dha Virgjilit një vend unikisht të spikatur në veprën ''The House of Fame'' (1374–1385), duke e përshkruar si të qëndruar "mbi një shtyllë prej hekuri të kallajisur të shndritshme". Në ''[[Komedia Hyjnore]]'', ku Virgjili shfaqet si udhërrëfyesi i autorit nëpër [[Ferri|Ferr]] dhe [[Purgatori (Komedia Hyjnore)|Purgator]], [[Dante Aligieri]] i jep haraç Virgjilit me fjalët "ti je i vetmi prej të cilit mora stilin e bukur që më ka nderuar" (''Inf.'' I.86–87). Në shekullin XX, [[T. S. Eliot]] filloi një ligjëratë të famshme mbi temën "Çfarë është një klasik?" duke pohuar si të vetëkuptueshme se "cilido përkufizim të cilit t'i arrijmë, nuk mund të jetë një i tillë që përjashton Virgjilin".<ref>{{cite book|last=Eliot|first=T. S.|editor1-last=Chinitz|editor1-first=David E.|editor2-last=Schuchard|editor2-first=Ronald|chapter=What Is a Classic?|title=The Complete Prose of T. S. Eliot: The Critical Edition|volume=6: The War Years, 1940–1946|publisher=Johns Hopkins University Press|pages=669–687|language=en}}</ref>
+
+== Biografia tradicionale ==
+
+=== Burimet biografike ===
+Informacioni biografik për Virgjilin transmetohet kryesisht nëpërmjet ''vitae'' ("jetëshkrimeve") të poetit, të vendosura para komentimeve mbi veprën e tij nga {{ill|Probusi|en|Marcus Valerius Probus}}, {{ill|Donati|en|Aelius Donatus}}, dhe {{ill|Servius Gramatikani|en|Servius the Grammarian}}. Jetëshkrimi i dhënë nga Donati konsiderohet të riprodhojë nga afër jetën e Virgjilit siç e kishte shkruar [[Svetoni]] në një vepër të humbur mbi jetët e autorëve të famshëm. Jetëshkrimi shumë më i shkurtër i dhënë nga Servius gjithashtu duket të jetë një përmbledhje e Suetonit, me përjashtim të një apo dy pohimeve. Thuhet se {{ill|Vari|en|Lucius Varius Rufus}} shkroi një kujtim për mikun e tij Virgjilin, dhe Suetoni ka gjasa të jetë mbështetur në këtë vepër të humbur dhe në burime të tjera bashkëkohore me poetin. Një jetëshkrim i shkruar në vargje nga gramatikani Fokas (ndoshta aktiv në shekujt IV–V e.s.) ndryshon në disa detaje nga Donati dhe Servius. Studiuesi Henry Nettleship besonte se jetëshkrimi i atribuuar Probusit mund të jetë mbështetur në mënyrë të pavarur në të njëjtat burime si Suetoni, por atribohet nga autoritete të tjera një autori anonim të shekullit V ose VI e.s. që u mbështet te Donati, Servius, dhe Fokasi. Jetëshkrimi i Servius ishte burimi kryesor i biografisë së Virgjilit për lexuesit mesjetarë, ndërsa jetëshkrimi i Donatit pati një qarkullim më të kufizuar, dhe jetëshkrimet e Fokasit e Probusit mbetën kryesisht të panjohura.<ref>{{cite encyclopedia|last=Stok|first=Fabio|title=Lives|encyclopedia=The Virgil Encyclopedia|publisher=John Wiley &amp; Sons|year=2014|pages=751–755|doi=10.1002/9781118351352.wbve1235|isbn=978-1-4051-5498-7|language=en}}</ref>
+
+[[File:Parco della Grotta di Posillipo5 (crop).jpg|thumb|upright=.8|Bust modern i Virgjilit te hyrja e kriptit të tij në [[Napoli]]]]
+
+Megjithëse komentimet regjistrojnë shumë informacion faktik për Virgjilin, disa nga dëshmitë e tyre mund të tregohen se mbështeten në alegorizim dhe në përfundime të nxjerra nga vetë poezia e tij. Për këtë arsye, detajet mbi jetën e Virgjilit konsiderohen deri diku problematike.<ref>Fowler, Don. 1996. "Virgil (Publius Vergilius Maro)". Në ''The Oxford Classical Dictionary'' (bot. 3). Oxford: Oxford University Press, f. 1602.</ref>
+
+=== Familja dhe lindja ===
+Sipas ''vitae'' të lashta, Publius Vergilius Maro lindi ditën e Ideve të tetorit gjatë konsullatës së [[Pompeu]]t dhe Krasit (15 tetor 70 p.e.s.) në fshatin Andes, afër Mantovës në Galinë Cisalpine (Italia e veriut, e shtuar në Itali gjatë jetës së tij). Jetëshkrimi Donatian raporton se disa thonë babai i Virgjilit ishte një poçar, por shumica thonë ai ishte punonjës i një ''apparitor''-i (nëpunësi gjyqësor) të quajtur Magius, vajza e të cilit ai u martua. Sipas Fokasit dhe Probusit, nëna e Virgjilit quhej Magia Polla. Emri gentilik i familjes së nënës së Virgjilit, ''Magius'', dhe mospërputhja mes formës gjinore të këtij emri (''Magi'') te jetëshkrimi i Servius me gjinoren ''magi'' të emrit ''magus'' ("magjistar"), ndoshta kontribuoi në lindjen e legjendës mesjetare se babai i Virgjilit punonte për një magjistar shëtitës, dhe se vetë Virgjili ishte magjistar.
+
+Analiza e emrit të tij ka çuar disa të besojnë se ai rridhte nga kolonë romakë të hershëm; kjo spekulim modern nuk mbështetet nga dëshmi narrative nga shkrimet e tij apo nga biografë të mëvonshëm.
+
+==== Vendndodhja e Andes ====
+Një traditë me origjinë të paqartë, e pranuar nga Dante, identifikon Andes-in me Pietole-n moderne, dy a tre milje në juglindje të Mantovës. Biografia e lashtë e atribuuar Probusit regjistron se Andes ndodhej tridhjetë milje romake (rreth 45 km) nga Mantova. Ekzistojnë tetë a nëntë referenca ndaj ''gens''-it (fisit) të cilit i përkiste Virgjili, ''gens Vergilia'', në mbishkrime nga Italia veriore — katër prej tyre nga qytete larg Mantovës, tri nga Verona, dhe një nga Calvisano, një ofertë votive drejtuar Matronae-ve (një grup hyjnish) nga një grua e quajtur Vergilia. Një varr i ngritur nga një pjesëtar i ''gens Magia'', fisi të cilit i përkiste nëna e Virgjilit, gjendet në Casalpoglio, vetëm 12 km nga Calvisano. Studiuesi Robert Seymour Conway teorizoi se këto mbishkrime kanë të bëjnë me të afërm të Virgjilit, dhe se Calvisano ose Carpenedolo, jo Pietole, është vendndodhja e Andes-it. E. K. Rand mbrojti vendin tradicional në Pietole. Debati mbi vendndodhjen e saktë të Andes-it mbetet i pazgjidhur mes studiuesve modernë.
+
+==== Drejtshkrimi i emrit ====
+Deri në shekullin IV apo V e.s., drejtshkrimi origjinal ''Vergilius'' ishte ndryshuar në ''Virgilius'', dhe ky drejtshkrim i fundit u përhap në gjuhët moderne evropiane. Ky drejtshkrim i fundit vazhdoi të përdoret edhe pse, që në shekullin XV, studiuesi klasik Poliziano kishte treguar se ''Vergilius'' ishte drejtshkrimi origjinal. Sot, të dyja anglicizimet ''Vergil'' dhe ''Virgil'' konsiderohen të pranueshme.
+
+Ka spekulime se drejtshkrimi ''Virgilius'' mund të ketë lindur nga një lojë fjalësh, pasi ''virg-'' bart një jehonë të fjalës latine për "shkop magjik" (''uirga''), Virgjili duke qenë veçanërisht i lidhur me magjinë në mesjetë. Ekziston edhe mundësia se ''virg-'' synon të evokojë latinishten ''virgo'' ("virgjëreshë"); kjo do të ishte një referencë ndaj ekloges së katërt, e cila ka një histori interpretimesh të krishtera, veçanërisht mesianike.
+
+=== Fëmijëria dhe arsimimi ===
+Virgjili e kaloi fëmijërinë e tij në Cremona deri në vitin e tij të 15-të (55 p.e.s.), kur thuhet se mori ''toga virilis''-in (togën e burrërisë) pikërisht ditën kur vdiq [[Lukreci]]. Nga Cremona, ai u zhvendos në Milano, dhe shpejt më pas në Romë. Pas një konsiderimi të shkurtër për një karrierë në retorikë dhe drejtësi, Virgjili i drejtoi talentet e tij drejt poezisë. Përkundër pohimeve të biografëve se familja e Virgjilit ishte me mjete modeste, këto rrëfime mbi arsimimin e tij, si dhe mbi marrjen ceremoniale të ''toga virilis''-it, sugjerojnë se babai i tij ishte një pronar toke i pasur nga rendi ekuestër.
+
+Thuhet se ishte i gjatë e i fuqishëm, me lëkurë të errët dhe pamje fshatare. Virgjili duket të ketë vuajtur nga shëndeti i keq gjatë gjithë jetës së tij dhe në disa mënyra jetoi jetën e një të sëmuri. Shokët e shkollës e konsideronin Virgjilin të turpshëm dhe të tërhequr, dhe atij iu vu nofka "Parthenias" ("virgjëreshë") për shkak të largësisë së tij.
+
+=== Karriera poetike ===
+Tradita biografike pohon se Virgjili filloi ''{{ill|Eklogat|en|Eclogues}}'' hekzametrike në vitin 42 p.e.s., dhe mendohet se përmbledhja u botua rreth viteve 39–38 p.e.s., megjithëse kjo mbetet e diskutueshme. Pas mundjes së ushtrisë së drejtuar nga vrasësit e [[Jul Çezari]]t në {{ill|Betejën e Filipeve|en|Battle of Philippi}} (42 p.e.s.), [[Oktaviani]] u përpoq t'i paguante veteranët e tij me tokë të konfiskuar nga qytete të Italisë veriore, gjë që — sipas traditës — përfshinte një pronë afër Mantovës që i përkiste Virgjilit. Humbja e fermës familjare të Virgjilit dhe përpjekja nëpërmjet peticioneve poetike për të rifituar pronën e tij u panë si motivet e tij në kompozimin e ''Eklogave''. Kjo tashmë konsiderohet si një përfundim i pambështetur i nxjerrë nga interpretimet e ''Eklogave''. Në ''Eklogat'' 1 dhe 9, Virgjili në të vërtetë dramatizon ndjenjat kontradiktore të shkaktuara nga brutaliteti i konfiskimeve të tokës nëpërmjet idiomës baritore, por nuk ofron dëshmi të pakontestueshme për incidentin biografik të supozuar.
+
+Pak pas botimit të ''Eklogave'', ndoshta para vitit 37 p.e.s., Virgjili u bë pjesë e rrethit të {{ill|Gaius Maecenas-it|en|Gaius Maecenas}}, këshilltari i aftë politik i Oktavianit, i cili kërkonte të kundërbalanconte simpatinë ndaj Antonit mes familjeve udhëheqëse duke i rreshtuar figurat letrare romake në krah të Oktavianit. Virgjili erdhi të njohë shumë figura të tjera letrare udhëheqëse të kohës, përfshirë [[Horaci]]n, në poezinë e të cilit përmendet shpesh, dhe {{ill|Varius Rufus-in|en|Lucius Varius Rufus}}, i cili më vonë ndihmoi të përfundonte ''Eneidën''. Me këmbënguljen e Maecenas-it, sipas traditës, Virgjili i kaloi vitet e ardhshme (ndoshta 37–29 p.e.s.) në poemën e gjatë hekzametrike të quajtur ''[[Gjeorgjiket]]'' (nga greqishtja, "Mbi punën e tokës"), të cilën ia kushtoi Maecenas-it.
+
+Virgjili punoi mbi ''[[Eneida]]'' gjatë njëmbëdhjetë viteve të fundit të jetës së tij (29–19 p.e.s.), e komisionuar, sipas {{ill|Propercit|en|Propertius}}, nga [[Augusti]].<ref>{{cite journal|last1=Avery|first1=W. T.|year=1957|title=Augustus and the "Aeneid"|journal=The Classical Journal|volume=52|issue=5|pages=225–229|language=en}}</ref> Sipas traditës, Virgjili udhëtoi drejt provincës senatoriale të Akesë në Greqi, rreth vitit 19 p.e.s., për të rishikuar ''Eneidën''. Pas takimit me Augustin në Athinë dhe vendimit për t'u kthyer në shtëpi, Virgjili kapi një ethe teksa vizitonte një qytet afër Megaras. Pasi kaloi në Itali me anije, i dobësuar nga sëmundja, Virgjili vdiq në Puli më 21 shtator 19 p.e.s. Augusti urdhëroi ekzekutorët letrarë të Virgjilit, Varius Rufus-in dhe Plotius Tucca-n, të mos e respektonin dëshirën e Virgjilit që poema të digjej, duke urdhëruar në vend të kësaj që të botohej me sa më pak ndryshime redaktuese të ishte e mundur.<ref>{{cite EB1911|wstitle=Virgil|volume=28|pages=111–116|last1=Sellar|first1=William Young|last2=Glover|first2=Terrot Reaveley|last3=Bryant|first3=Margaret|language=en}}</ref>
+
+==== Varrimi dhe varri ====
+{{Hatnote|Artikulli kryesor: {{ill|Varri i Virgjilit|en|Virgil's tomb}}}}
+
+Pas vdekjes së tij në Brindizi sipas Donatit, ose në Tarent sipas dorëshkrimeve të vona të Servius-it, mbetjet e Virgjilit u transportuan në Napoli, ku varri i tij u gdhend me një epitaf që ai vetë e kishte kompozuar: ''Mantua me genuit; Calabri rapuere; tenet nunc Parthenope. Cecini pascua, rura, duces''; "Mantova më dha jetë, kalabrezët ma morën, Napoli më mban tani; kënduam për kullota, ferma, dhe komandantë." (përkth. Bernard Knox). [[Mark Valerio Marciali|Marciali]] raporton se Silius Italicus e shtoi vendin te prona e tij, dhe [[Plini i Riu]] thotë se Silius "do ta vizitonte varrin e Virgjilit sikur të ishte tempull".<ref>{{cite encyclopedia|last=Berenbeim|first=Jessica|title=Virgil, tomb of|encyclopedia=The Virgil Encyclopedia|publisher=John Wiley &amp; Sons|year=2014|page=1361|doi=10.1002/9781118351352.wbve2205|isbn=978-1-4051-5498-7|language=en}}</ref>
+
+Struktura e njohur si varri i Virgjilit gjendet te hyrja e një tuneli të lashtë romak (''grotta vecchia'') në Piedigrotta, një rreth 3&nbsp;km nga qendra e Napolit, pranë portit të Mergellinës, në rrugën drejt veriut për në Pozzuoli. Ndërsa Virgjili ishte tashmë objekt admirimi letrar edhe para vdekjes së tij, në mesjetë emri i tij u shoqërua me fuqi mrekullibërëse, dhe për një çift shekujsh varri i tij ishte destinacion pelegrinazhesh dhe adhurimi. Një legjendë e famshme mesjetare sipas së cilës [[Pali i Tarsusit|Pali Apostulli]] kishte vizituar varrin e Virgjilit dhe kishte qarë që një poet kaq i madh kishte vdekur pa besimin e krishterë përmendet në një himn liturgjik që thuhet se ishte përdorur në ditën e festës së Palit në Mantova.
+
+Deri në shekullin XIX, varri i supozuar tërhoqi udhëtarë të Turit të Madh, dhe ende sot tërheq vizitorë.
+
+== Veprat ==
+
+=== Veprat e hershme ===
+{{Hatnote|Artikulli kryesor: {{ill|Appendix Vergiliana|en|Appendix Vergiliana}}}}
+
+Sipas komentuesve, Virgjili mori arsimin e tij të parë kur ishte pesë vjeç, dhe më vonë shkoi në Cremona, Milano, dhe përfundimisht Romë për të studiuar retorikën, mjekësinë, dhe astronominë, të cilat do t'i braktiste për filozofinë. Nga referencat admiruese të Virgjilit ndaj shkrimtarëve neoterikë Asinius Polioni dhe Cina, është konkluduar se ai ishte, për një kohë, i lidhur me rrethin neoterik të Katulit. Sipas ''Catalepton''-it, ai filloi të shkruante poezi teksa ishte në shkollën epikureiane të Siros në Napoli. Një grup veprash të vogla të atribuuara Virgjilit të ri nga komentuesit mbijetojnë të mbledhura nën titullin ''Appendix Vergiliana'', por konsiderohen të rreme nga studiuesit. Njëra, ''Catalepton''-i, përbëhet nga katërmbëdhjetë poema të shkurtra, disa prej të cilave mund të jenë të Virgjilit, dhe një poemë e shkurtër narrative, ''Culex'' ("Mushkonja"), iu atribuua Virgjilit që në shekullin I e.s.
+
+=== ''Eklogat'' ===
+{{Hatnote|Artikulli kryesor: {{ill|Eklogat|en|Eclogues}}}}
+
+[[File:RomanVirgilFolio001rEclogues.jpg|thumb|Faqja nga fillimi i ''Eklogave'' në ''Vergilius Romanus''-in e shekullit V]]
+
+''Eklogat'' (nga greqishtja për "përzgjedhje") janë një grup prej dhjetë poemash të modeluara përafërsisht sipas poezisë baritore ("pastorale" ose "rurale") të poetit helenistik {{ill|Theokritit|en|Theocritus}}, të shkruara në hekzametër daktilik. Ndërsa disa lexues e kanë identifikuar Virgjilin me personazhe të ndryshëm dhe përjetimet e tyre, studiuesit modernë kryesisht i refuzojnë përpjekjet për të nxjerrë detaje biografike nga fiksioni, duke preferuar t'i interpretojnë personazhet dhe temat e autorit si ilustrime të jetës dhe mendimit bashkëkohor.
+
+Dhjetë ''Eklogat'' paraqesin tema tradicionale baritore me një perspektivë të freskët. Eklogat 1 dhe 9 adresojnë konfiskimet e tokave dhe efektet e tyre mbi fshatin italian. 2 dhe 3 janë baritore dhe erotike, duke diskutuar dashurinë homoseksuale (''Ekl.'' 2) dhe tërheqjen ndaj njerëzve të çdo gjinie (''Ekl.'' 3). Ekloga 4, e adresuar Asinius Polionit, e ashtuquajtura "Ekloga Mesianike", përdor imazhërinë e epokës së artë në lidhje me lindjen e një fëmije (identiteti i fëmijës është debatuar). 5 dhe 8 përshkruajnë mitin e Dafnisit në një konkurs kënge, 6, këngën kozmike dhe mitologjike të Silenit; 7, një konkurs poetik të nxehtë, dhe 10 vuajtjet e poetit elegjiak bashkëkohor Kornelius Galus. Virgjilit i njihet merita, në ''Eklogat'' e tij, i vendosjes së Arkadisë si ideal poetik që ende jehon në letërsi dhe arte pamore, dhe i hapjes së rrugës për zhvillimin e poezisë baritore latine nga Calpurnius Siculus, Nemesianus, dhe shkrimtarë të mëvonshëm.
+
+=== ''Gjeorgjiket'' ===
+{{Hatnote|Artikulli kryesor: [[Gjeorgjiket]]}}
+
+Tema e dukshme e ''Gjeorgjikeve'' është udhëzimi mbi metodat e drejtimit të një ferme. Në trajtimin e kësaj teme, Virgjili ndjek traditën didaktike ("si të bësh") të poetit grek [[Hesiodi]]t, veprën e tij ''Punët dhe ditët'', si dhe veprat e poetëve të mëvonshëm helenistikë. Katër librat e ''Gjeorgjikeve'' fokusohen përkatësisht në: rritjen e të lashtave; rritjen e pemëve; bagëtinë dhe kuajt; dhe bletarinë e cilësitë e bletëve.
+
+Pasazhe të njohura përfshijnë ''Laus Italiae''-n e dashur të Librit 2, përshkrimin hyrës të tempullit në Librin 3, dhe përshkrimin e murtajës në fund të Librit 3. Libri 4 përfundon me një rrëfim të gjatë mitologjik, në formën e një ''epylliumi'', që përshkruan gjallërisht zbulimin e bletarisë nga {{ill|Aristeu|en|Aristaeus}}, dhe historinë e udhëtimit të [[Orfeu]]t drejt botës së të vdekurve. Studiues të lashtë, si Servius, kanë supozuar se episodi i Aristeut zëvendësoi, me kërkesën e perandorit, një pjesë të gjatë lavdërimi për mikun e Virgjilit, poetin Galus, i cili u turpërua nga Augusti, dhe u vetëvra në vitin 26 p.e.s.
+
+Toni i ''Gjeorgjikeve'' luhatet mes optimizmit dhe pesimizmit, duke ndezur debat kritik mbi qëllimet e poetit, por vepra hedh themelet për poezinë didaktike të mëvonshme. Thuhet se Virgjili dhe Maecenas i kaluan radhët duke ia lexuar ''Gjeorgjiket'' Oktavianit gjatë kthimit të tij pas mundjes së Antonit dhe [[Kleopatra]]s në {{ill|Betejën e Aktiumit|en|Battle of Actium}} në vitin 31 p.e.s.
+
+=== ''Eneida'' ===
+{{Hatnote|Artikulli kryesor: [[Eneida]]}}
+
+''Eneida'' konsiderohet gjerësisht si vepra më e mirë e Virgjilit, dhe një nga poemat më të rëndësishme në historinë e letërsisë ([[T. S. Eliot]] e quajti "klasikun e mbarë Evropës"). Vepra, e modeluar sipas ''[[Iliada]]s'' dhe ''[[Odiseja]]s'' të [[Homeri]]t, tregon udhëtimin e një luftëtari dhe refugjati të [[Lufta e Trojës|Luftës së Trojës]], i quajtur [[Enea Ankiziadi|Enea]], teksa përpiqet të përmbushë fatin e tij. Pasi ikën nga rrënimi i [[Troja]]s, ai udhëton drejt Italisë, ku lufton me {{ill|Turnusin|en|Turnus}}, dhe pasardhësit e tij, [[Remi dhe Romuli]], themelojnë qytetin e Romës.
+
+Poema epike përbëhet nga 12 libra në varg hekzametrik daktilik. Gjashtë librat e parë të ''Eneidës'' përshkruajnë udhëtimin e Eneas nga Troja drejt Romës. Virgjili përdori disa modele në kompozimin e epikës së tij; Homeri, autori parësor i epikës klasike, është i pranishëm kudo, por Virgjili gjithashtu bën përdorim të veçantë të poetit latin [[Kuint Eni|Enit]] dhe poetit helenistik {{ill|Apolonit të Rodit|en|Apollonius of Rhodes}}, mes shkrimtarëve të tjerë të cilëve u referohet. Megjithëse ''Eneida'' hidhet fort në modelin epik, ajo shpesh e zgjeron zhanrin duke përfshirë elemente të zhanreve të tjera, si tragjedia dhe poezia etiologjike. Komentuesit e lashtë vunë re se Virgjili duket ta ndajë ''Eneidën'' në dy pjesë bazuar në poezinë e Homerit; gjashtë librat e parë u panë si përdorues të ''Odisesë'' si model, ndërsa gjashtë të fundit u lidhën me ''Iliadën''.
+
+Libri 1, në krye të seksionit odisean, hapet me një stuhi që {{ill|Junona|en|Juno (mythology)}}, armiqja e Eneas gjatë gjithë poemës, e ngre kundër flotës. Stuhia e shtyn heroin drejt bregut të [[Kartagjena (qytet)|Kartagjenës]], armikja më vdekjeprurëse e Romës. Mbretëresha, {{ill|Didona|en|Dido}}, e mirëpret paraardhësin e romakëve, dhe nën ndikimin e perëndive bie thellë në dashuri me të. Në një banket në Librin 2, Enea tregon historinë e rrënimit të Trojës, vdekjen e gruas së tij, dhe ikjen e tij, karagjenasve të mahnitur, ndërsa në Librin 3 ai u rrëfen atyre endjet e tij mbi Mesdhe në kërkim të një shtëpie të re të përshtatshme — udhëtim gjatë të cilit Enea qëndroi për një kohë të shkurtër edhe në [[Butrinti|Butrint]]. [[Jupiteri (zot)|Jupiteri]] në Librin 4 e kujton Enean e ngurruar për detyrën e tij për të themeluar një qytet të ri, dhe ai largohet fshehurazi nga Kartagjena, duke e lënë Didonën të vetëvritet, duke mallkuar Enean dhe duke thirrur hakmarrje në parashikim simbolik të luftërave të egra mes Kartagjenës dhe Romës. Në Librin 5, lojëra funerale kremtohen për babain e Eneas, [[Ankizi]]n, i cili kishte vdekur një vit më parë. Duke arritur në Kume, në Itali, në Librin 6, Enea konsultohet me {{ill|Sibila e Kumeve|en|Cumaean Sibyl}}, e cila e udhëheq nëpër [[Nëntoka|Botën e të Vdekurve]] ku Enea takon Ankizin e vdekur, i cili i zbulon të birit fatin e Romës.
+
+Libri 7, duke filluar gjysmën iliadike, hapet me një drejtim ndaj muzës dhe tregon mbërritjen e Eneas në Itali dhe fejesën e tij me {{ill|Lavinia|en|Lavinia}}, vajza e mbretit {{ill|Latinus|en|Latinus}}. Lavinia i ishte premtuar tashmë {{ill|Turnus|en|Turnus}}-it, mbretit të rutulëve, i cili ngrihet për luftë nga Furia Aleto dhe Amata, nëna e Lavinias. Në Librin 8, Enea bëhet aleat me mbretin Evander, i cili banon vendin ku më vonë do të ngrihej Roma, dhe i jepet armaturë e re dhe një mburojë që përshkruan historinë romake. Libri 9 regjistron një sulm nga Nisus dhe Euryalus mbi rutulët; Libri 10, vdekjen e djalit të ri të Evanderit, Palasit; dhe 11 vdekjen e princeshës luftëtare volske, Kamilës, dhe vendimin për ta zgjidhur luftën me një duel mes Eneas dhe Turnusit. ''Eneida'' përfundon në Librin 12 me marrjen e qytetit të Latinusit, vdekjen e Amatas, dhe mundjen e vrasjen e Turnusit nga Enea, lutjet e të cilit për mëshirë nuk merren parasysh. Libri i fundit përfundon me imazhin e shpirtit të Turnusit që vajton teksa ikën drejt botës së të vdekurve.
+
+=== Pritja e ''Eneidës'' ===
+Kritikët e ''Eneidës'' fokusohen mbi një sërë çështjesh. Toni në tërësi është një çështje veçanërisht e diskutueshme; disa e shohin poemën si përfundimisht pesimiste dhe politikisht subversive ndaj regjimit augustian, ndërsa të tjerë e shohin si një kremtim të dinastisë së re perandorake. Virgjili bën përdorim të simbolizmit të regjimit, dhe disa studiues shohin lidhje të forta mes Augustit dhe Eneas, njëri si themelues e tjetri si rithemelues i Romës. Është zbuluar një teleologji e fortë, apo shtytje drejt një kulmi. ''Eneida'' është plot me profeci mbi të ardhmen e Romës, veprat e Augustit, paraardhësit e tij, dhe romakë të famshëm, si dhe Luftërat Kartagjenase; mburoja e Eneas madje përshkruan fitoren e Augustit në Aktium kundër Mark Antonit dhe Kleopatrës në vitin 31 p.e.s. Një fokus tjetër studimi është karakteri i Eneas. Si protagonist, Enea duket të lëkundet vazhdimisht mes emocioneve të tij dhe përkushtimit ndaj detyrës së tij profetike për të themeluar Romën; kritikët vënë re shpërbërjen e kontrollit emocional të Eneas në pjesët e fundit të poemës ku Enea "i devotshëm" dhe "i drejtë" e vret pa mëshirë Turnusin.
+
+''Eneida'' duket të ketë qenë një sukses i madh. Thuhet se Virgjili i recitoi Librat 2, 4, dhe 6 Augustit; dhe Libri 6 me sa duket e bëri motrën e perandorit, Oktavia, të lëngonte. Megjithëse vërtetësia e këtij pohimi i nënshtrohet skepticizmit shkencor, ai ka shërbyer si bazë për art, si p.sh. vepra e Jean-Baptiste Wicar-it ''Virgil Reading the Aeneid''.
+
+Disa vargje të poemës mbetën të papërfunduara, dhe e gjitha ishte e paredaktuar, në vdekjen e Virgjilit në vitin 19 p.e.s. Si rezultat, teksti i ''Eneidës'' që ekziston sot mund të përmbajë gabime që Virgjili do t'i kishte korrigjuar para botimit. Megjithatë, të vetmet papërsosmëri të dukshme janë disa vargje metrikisht të paplota, d.m.th. jo një varg i plotë hekzametri daktilik. Disa studiues kanë argumentuar se Virgjili i la qëllimisht të papërfunduara për efekt dramatik. Papërsosmëri të tjera të pretenduara mbeten të diskutueshme.
+== Trashëgimia dhe pritja ==
+
+=== Antikiteti ===
+[[File:RomanVirgilFolio014rVergilPortrait.jpg|thumb|Portret nga shekulli V i Virgjilit, nga ''Vergilius Romanus''-i]]
+
+Veprat e Virgjilit, pothuajse që nga momenti i botimit të tyre, revolucionarizuan poezinë latine. ''Eklogat'', ''Gjeorgjiket'', dhe mbi të gjitha ''Eneida'' u bënë tekste standarde në kurrikulat shkollore me të cilat ishin të njohur të gjithë romakët e arsimuar. Poetët pas Virgjilit shpesh i referohen ndërtekstualisht veprave të tij për të gjeneruar kuptim në poezinë e tyre. Poeti augustian [[Ovidi]] parodizon vargjet hapëse të ''Eneidës'' në ''Amores'' 1.1.1–2, dhe përmbledhja e tij e historisë së Eneas në Librin 14 të ''[[Metamorfozat]]ve'', e ashtuquajtura "mini-Eneida", është konsideruar një shembull i rëndësishëm i përgjigjes pas-virgjiliane ndaj zhanrit epik. Epika e [[Lukani]]t, ''Bellum Civile'' (''Pharsalia''), është konsideruar një epikë anti-virgjiliane, duke hequr dorë nga mekanizmi hyjnor, duke trajtuar ngjarje historike, dhe duke u larguar nga praktika epike virgjiliane. Poeti i epokës flaviane [[Statius|Statius-i]] në epikën e tij prej 12 librash ''Thebaid'' angazhohet ngushtë me poezinë e Virgjilit; në epilogun e tij ai i këshillon poemës së tij të mos "rivalizojë ''Eneidën'' hyjnore, por ta ndjekë nga larg dhe të nderojë gjithmonë gjurmët e saj". Virgjili gjen një nga admiruesit e tij më të zjarrtë te [[Silius Italicus|Silius Italicus-i]]. Me pothuajse çdo varg të epikës së tij ''Punica'', Silius i referohet Virgjilit.
+
+Virgjili gjithashtu gjeti komentues në antikitet. Servius, një komentues i shekullit IV e.s., e bazoi veprën e tij mbi komentimin e Donatit. Komentimi i Servius-it na ofron shumë informacion mbi jetën, burimet, dhe referencat e Virgjilit; megjithatë, shumë studiues modernë e gjejnë cilësinë e ndryshueshme të veprës së tij dhe interpretimet shpesh të thjeshtëzuara si frustruese.
+
+=== Antikiteti i vonë ===
+Edhe teksa [[Perandoria Romake e Perëndimit]] po shembej, njerëzit e shkolluar pranonin se Virgjili ishte një poet mjeshtër; {{ill|Agostini|en|Augustine of Hippo}} rrëfeu se si kishte qarë duke lexuar vdekjen e Didonës. Dorëshkrimet më të njohura të mbijetuara të veprave të Virgjilit përfshijnë dorëshkrime nga antikiteti i vonë, si {{ill|Vergilius Augusteus|en|Vergilius Augusteus}}, {{ill|Vergilius Vaticanus|en|Vergilius Vaticanus}}, dhe ''Vergilius Romanus''-i.
+
+=== Mesjeta ===
+{{ill|Gregori i Turit|en|Gregory of Tours}} e lexoi Virgjilin, të cilin e citon në disa vende, së bashku me poetë të tjerë latinë, edhe pse paralajmëron se "nuk duhet t'i tregojmë fabulat e tyre gënjeshtare, që të mos biem nën dënimin e vdekjes së përjetshme". Në Rilindjen e shekullit XII, Alexander Neckham e vendosi ''Eneidën'' "hyjnore" në kurrikulën e tij standarde të arteve, dhe Didona u bë heroina romantike e epokës. Murgj si Maiolus i Cluny-t mund të mos e pranonin atë që e quanin "elokuenca luksoze e Virgjilit", por nuk mund ta mohonin fuqinë e tërheqjes së tij.
+
+Dante e paraqet Virgjilin si udhërrëfyesin e tij nëpër Ferr dhe pjesën më të madhe të Purgatorit në ''Komedinë Hyjnore''. Ai gjithashtu e përmend Virgjilin në ''De vulgari eloquentia'', si një nga katër ''regulati poetae'' bashkë me Ovidin, Lukanin, dhe Statius-in (ii, vi, 7).
+
+=== Rilindja dhe fillimet e kohës moderne ===
+Rilindja pa disa autorë të frymëzuar për të shkruar epikë në gjurmët e Virgjilit: [[Edmund Spenser]] e quajti veten Virgjili anglez; ''Parajsa e humbur'' u ndikua nga ''Eneida''; dhe artistë të mëvonshëm të ndikuar përfshijnë [[Hector Berlioz|Berliozin]] dhe Hermann Broch-un.
+
+Në periudhën e hershme moderne deri në mesin e shekullit XVIII, Virgjili shpesh konsiderohej poeti kryesor që poetët evropianë duhej të përpiqeshin ta emulonin. Një ndryshim filloi në Gjermani kur kultura klasike greke u ngrit në prestigj në kurriz të asaj romake, veçanërisht nëpërmjet ndikimit të Johann Joachim Winckelmann-it. Përkundër një humbjeje prestigji, Virgjili vazhdoi të lexohej dhe studiohej gjerësisht, dhe pati ndikim të rëndësishëm edhe mbi shkrimtarë gjermanishtfolës nga gjysma e dytë e shekullit XVIII, si Salomon Gessner, Maler Müller, Johann Heinrich Voß, [[Johann Wolfgang von Goethe]], dhe Novalis.
+
+=== Legjendat ===
+[[File:Lucas van Leyden 034.jpg|thumb|''Virgjili në shportën e tij'', [[Lucas van Leyden]], 1525 (shporta lart majtas)]]
+Legjenda e "Virgjilit në shportën e tij" lindi në mesjetë, dhe shfaqet shpesh në art dhe përmendet në letërsi si pjesë e ''topos''-it letrar të Fuqisë së Grave, duke demonstruar forcën shpërbërëse të tërheqjes femërore mbi burrat. Në këtë histori Virgjili u dashurua me një grua të bukur, ndonjëherë e përshkruar si vajza ose e dashura e perandorit dhe e quajtur Lucretia. Ajo e mashtroi dhe pranoi një takim në shtëpinë e saj, ku ai duhej të futej fshehurazi natën, duke u ngjitur në një shportë të madhe të lëshuar nga një dritare. Kur e bëri këtë, ai u ngjit vetëm gjysmën e murit dhe mbeti i kapur atje deri të nesërmen, i ekspozuar ndaj tallje publike. Historia paralelizonte atë të Filisë që kalëronte mbi Aristotelin. Mes artistëve të tjerë që përshkruan skenën, Lucas van Leyden bëri një gdhendje druri dhe më vonë një gravurë.
+
+Pjesërisht si rezultat i së ashtuquajturës Ekloga IV "Mesianike" — e interpretuar që nga shekulli III nga mendimtarë të krishterë si parashikuese e lindjes së Jezusit — Virgjilit iu atribuuan në antikitetin e vonë aftësi magjike si një shikues. Ekloga 4 përshkruan lindjen e një djali që sjell një epokë të artë. Si pasojë, Virgjili erdhi të shihej në një nivel të ngjashëm me profetët hebraikë të Biblës si dikush që kishte parathënë krishterimin.
+
+Ndoshta që në shekullin II e.s., dhe deri në mesjetë, veprat e Virgjilit u shihen si me veti magjike dhe u përdorën për falltari. Në atë që u bë e njohur si ''{{ill|Sortes Vergilianae|en|Sortes Vergilianae}}'' ("Shortet Virgjiliane"), pasazhe zgjidheshin rastësisht dhe interpretoheshin për t'iu përgjigjur pyetjeve. Në një mënyrë të ngjashme, Macrobius në ''Saturnalia'' e njeh veprën e Virgjilit si mishërimin e njohurisë dhe përvojës njerëzore, duke pasqyruar konceptin grek të Homerit. Në shekullin XII, duke filluar rreth Napolit por përfundimisht duke u përhapur në mbarë Evropën, u zhvillua një traditë sipas së cilës Virgjili konsiderohej një magjistar i madh. Legjendat për Virgjilin dhe fuqitë e tij magjike mbetën të njohura për mbi dyqind vjet, ndoshta duke u bërë po aq të spikatura sa vetë shkrimet e tij. Në Uellsin mesjetar, versioni uellsian i emrit të tij, ''Fferyllt'' ose ''Pheryllt'', u bë term i përgjithshëm për magjistarin, dhe mbijeton në fjalën për farmacist, ''fferyllydd''.
+
+== Shiko edhe ==
+* [[Iliria]]
+* [[Iliriku]]
+* [[Mbretëria e Ilirisë]]
+* [[Ilirët dhe Iliria te autorët antikë]]
+* {{ill|Varri i Virgjilit|en|Virgil's tomb}}
+* {{ill|Appendix Vergiliana|en|Appendix Vergiliana}}
+
+== Referime ==
+{{reflist|30em}}
+
+== Burimet ==
+* {{cite journal|last=Braunholtz|first=G. E. K.|title=The Nationality of Vergil|journal=The Classical Review|volume=29|issue=4|date=qershor 1915|pages=104–110|doi=10.1017/S0009840X00048368|jstor=696876|language=en}}
+* {{cite book|editor-last=Brummer|editor-first=Jacob|title=Vitae Vergilianae|location=Leipzig|publisher=B. G. Teubner|year=1912|url=https://books.google.com/books?id=iqkNAAAAIAAJ|language=la}}
+* {{cite journal|last=Conway|first=R. S.|title=Where Was Vergil's Farm?|journal=Bulletin of the John Rylands Library|volume=7|issue=2|date=janar 1923|pages=184–210|doi=10.7227/BJRL.7.2.2|language=en}}
+* {{cite journal|last=Conway|first=R. S.|title=Further Considerations on the Site of Vergil's Farm|journal=The Classical Quarterly|volume=25|issue=2|date=prill 1931|pages=65–76|doi=10.1017/S0009838800013483|language=en}}
+* {{cite book|last=Nettleship|first=H.|title=Ancient Lives of Vergil|location=Oxford|publisher=Clarendon Press|year=1879|url=https://books.google.com/books?id=_STSsb7otPcC|language=en}}
+* {{cite book|last=Rand|first=Edward Kennard|title=In Quest of Virgil's Birthplace|location=Cambridge, MA|publisher=Harvard University Press|year=1930|url=https://books.google.com/books?id=EKAyAQAAIAAJ|language=en}}
+* {{cite encyclopedia|last=Stok|first=Fabio|title=Lives|encyclopedia=The Virgil Encyclopedia|publisher=John Wiley &amp; Sons|year=2014|pages=751–755|doi=10.1002/9781118351352.wbve1235|isbn=978-1-4051-5498-7|language=en}}
+
+== Lidhje të jashtme ==
+{{Commonskat|Virgil|Virgjilin}}
+* [https://www.perseus.tufts.edu/hopper/searchresults?q=P.+Vergilius+Maro Veprat e Virgjilit] te Perseus Digital Library — tekste latine, përkthime, dhe komentime
+* [http://www.thelatinlibrary.com/verg.html P. Vergilius Maro] te The Latin Library
+* [http://vergil.classics.upenn.edu/ The Vergil Project]
+
+[[Kategoria:Shkrimtarë romakë]]
+[[Kategoria:Poetë romakë]]
+[[Kategoria:Lindje 70 p.e.s.]]
+[[Kategoria:Vdekje 19 p.e.s.]]
+
+{{AutorAntik}}
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Virgil|11 korrik 2026|1363626195}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Virgil, versioni i datës 11 korrik 2026 (revizioni 1363626195)
+-->
