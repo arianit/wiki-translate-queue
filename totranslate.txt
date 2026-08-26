@@ -120,3 +120,7 @@ https://en.wikipedia.org/wiki/Military
 https://en.wikipedia.org/wiki/Peace
 https://en.wikipedia.org/wiki/War
 https://en.wikipedia.org/wiki/Civil_war
+https://en.wikipedia.org/wiki/Christianity
+https://en.wikipedia.org/wiki/Islam
+https://en.wikipedia.org/wiki/Physics
+https://en.wikipedia.org/wiki/Biology
