@@ -1,0 +1,417 @@
+{{Short description|Piktor dhe gdhendës hollandez (1606–1669)}}
+{{About|artistin hollandez}}
+{{Use dmy dates|date=gusht 2026}}
+{{Infobox artist
+| name             = Rembrandt
+| image            = Rembrandt van Rijn - Self-Portrait - Google Art Project.jpg
+| caption          = ''Vetë-portret me beretë dhe jakë të ngritur'' (1659)
+| birth_name       = Rembrandt Harmenszoon van Rijn
+| birth_date       = {{Birth date|df=y|1606|7|15}}<ref name="BY">Ose ndoshta 1607, pasi më 10 qershor 1634 ai vetë pretendoi të ishte 26 vjeç. Shumica e burimeve vazhdojnë të përdorin 1606.</ref>
+| birth_place      = [[Leiden]], [[Republika e Provincave të Bashkuara Holandeze]]
+| death_date       = {{Death date and age|1669|10|4|1606|7|15|df=y}}
+| death_place      = [[Amsterdami]], Republika Holandeze
+| spouse           = {{marriage|{{ill|Saskia van Uylenburgh|en|Saskia van Uylenburgh}}|1634|1642|end=died}}
+| children         = 2, përfshirë {{ill|Titusin van Rijn|en|Titus van Rijn}}
+| field            = [[Pikturë]], [[gdhendje]], [[vizatim]]
+| training         = {{ill|Jacob van Swanenburg|en|Jacob van Swanenburg}}<br />{{ill|Pieter Lastman|en|Pieter Lastman}}
+| movement         = {{ill|Epoka e Artë Hollandeze (pikturë)|en|Dutch Golden Age painting}}<br />[[Piktura baroke|Baroke]]
+| works            = Vetë-portretet<br />''Mësimi i Anatomisë së Dr. Nicolaes Tulp'' (1632)<br />''Stuhia në Detin e Galilesë'' (1633)<br />''Gostia e Belshazarit'' (1635–1638)<br />''Roja e Natës'' (1642)<br />''Stampa Njëqind Guldenësh'' (rreth 1647–1649)<br />''Bathsheba në Banjën e Saj'' (1654)<br />''Sindikët e Gildës së Prodhuesve të Pëlhurës'' (1662)<br />''Kthimi i Birit Plëngprishës'' (1661–1669)
+| module           = {{Infobox person|child=yes
+| signature        = Rembrandt autograph.svg}}
+}}
+
+'''Rembrandt Harmenszoon van Rijn'''{{efn|{{IPA|nl|ˈrɛmbrɑnt ˈɦɑrmə(n)ˌsoːɱ vɑn ˈrɛin|lang}}}} (15 korrik 1606<ref name="BY" /> – 4 tetor 1669), i njohur thjesht si '''Rembrandt''', ishte piktor, gdhendës dhe vizatues i Epokës së Artë Hollandeze. Ai konsiderohet përgjithësisht si një nga artistët më të mëdhenj vizualë në historinë e artit perëndimor.<ref>Gombrich, f. 420.</ref> Vlerësohet se veprat e mbijetuara të Rembrandtit arrijnë rreth treqind piktura, treqind gdhendje dhe disa qindra vizatime.
+
+Ndryshe nga shumica e piktorëve hollandezë të shekullit të 17-të, veprat e Rembrandtit paraqesin një gamë të gjerë stilesh dhe subjektesh, nga portretet dhe vetë-portretet te peizazhet, skenat e zhanrit, skenat alegorike dhe historike, subjektet biblike e mitologjike dhe studimet e kafshëve. Kontributet e tij në art erdhën në një periudhë që historianët e quajnë Epoka e Artë Hollandeze.
+
+Rembrandt nuk shkoi kurrë jashtë vendit, por u ndikua ndjeshëm nga vepra e mjeshtrave të vjetër italianë dhe artistëve hollandezë e flamandë që kishin studiuar në Itali. Pas suksesit rinor si piktor portretesh, vitet e mëvonshme të Rembrandtit u shënuan nga tragjedi personale dhe vështirësi financiare. Megjithatë, gdhendjet dhe pikturat e tij ishin të popullarizuara gjatë gjithë jetës së tij; reputacioni i tij si artist mbeti i lartë,<ref>Gombrich, f. 427.</ref> dhe për njëzet vjet ai mësoi shumë piktorë të rëndësishëm hollandezë.<ref name="Clark_203">{{Harvnb|Clark|1969|p=203}}</ref> Portretet e Rembrandtit të bashkëkohësve të tij, vetë-portretet dhe ilustrimet e skenave nga Bibla konsiderohen triumfet e tij më të mëdha krijuese. Rreth 100 vetë-portretet e tij, mbi 40 prej të cilave janë piktura, formojnë një autobiografi intime.<ref>W. Liedtke (2007) Dutch painting in the Metropolitan Museum of Art, f. 687</ref>
+
+== Fëmijëria dhe arsimimi ==
+[[File:Latijnse school Lokhorststraat 16 Leiden.jpg|thumb|upright|Shkolla latine në Lokhorststraat 16, Leiden]]
+
+Rembrandt{{efn|Kjo formë e emrit të tij, "Rembrandt" me "d," u shfaq për herë të parë në nënshkrimet e tij në 1633. Deri atëherë, ai kishte nënshkruar me një kombinim inicialesh ose monogramesh. Në fund të 1632, filloi të nënshkruante vetëm me emrin, "Rembrant". Shtoi "d"-në vitin pasardhës dhe e mbajti këtë drejtshkrim pjesën tjetër të jetës.}} Harmenszoon (Harmensz., formë e shkurtuar e patronimikut) van Rijn lindi më 15 korrik 1606 në Leiden,<ref name="BY" /> në Republikën Holandeze, sot Holandë. Ishte fëmija i nëntë i lindur nga Harmen Gerritszoon van Rijn dhe Neeltgen Willemsdochter van Zuijtbrouck.<ref>Bull, et al., f. 28.</ref> Familja e tij ishte mjaft e pasur; babai i tij ishte mullis, ndërsa nëna ishte bijë furrtari. Nëna e tij ishte katolike, ndërsa babai i takonte Kishës së Reformuar Hollandeze. Feja është një temë qendrore në veprat e Rembrandtit, dhe periudha e ngarkuar fetarisht në të cilën jetoi e bën besimin e tij çështje interesi.<ref>Ruprecht, Louis A. (Jr.), "Rembrandt at 350: Light and Shadow in the Modern World", ''Sacred Matters Magazine''.</ref>
+
+Si djalë, ai ndoqi një shkollë latine. Në 1620, u regjistrua në Universitetin e Leidës, edhe pse kishte prirje më të madhe drejt pikturës dhe shpejt u bë nxënës i {{ill|Jacob van Swanenburg|en|Jacob van Swanenburg}}, me të cilin kaloi tre vjet.<ref name="Houbraken">Sipas biografisë në ''De groote schouburgh der Nederlantsche konstschilders en schilderessen'' (1718) nga [[Arnold Houbraken]], |language=nl</ref> Pas një nxënësie të shkurtër por të rëndësishme prej gjashtë muajsh me piktorin historik {{ill|Pieter Lastman|en|Pieter Lastman}} në Amsterdam, Rembrandt qëndroi disa muaj me Jacob Pynas në 1625, ndonëse Simon van Leeuwen pretendoi se Rembrandt ishte mësuar nga Joris van Schooten dhe pastaj hapi punëtorinë e vet.<ref name="Houbraken"/>
+
+== Karriera ==
+Në 1625, Rembrandt hapi një punëtori në Leiden, të cilën e ndau me mikun dhe kolegun e tij {{ill|Jan Lievens|en|Jan Lievens}}. Në 1627, Rembrandt filloi të pranonte nxënës, mes tyre {{ill|Gerrit Dou|en|Gerrit Dou}} dhe Isaac de Jouderville.<ref>Slive (1995) ka një biografi të plotë, f. 55 e në vazhdim.</ref> Joan Huydecoper përmendet si blerësi i parë i një pikture të Rembrandtit në 1628.<ref>Schwarz, G. (1987) Rembrandt, f. 134.</ref> Në 1629, Rembrandt u zbulua nga shtetari {{ill|Constantijn Huygens|en|Constantijn Huygens}}, i cili i siguroi Rembrandtit porosi të rëndësishme nga oborri i Hagës. Si rezultat i kësaj lidhjeje, princi Frederik Hendrik vazhdoi të blinte piktura nga Rembrandt.<ref>Slive (1995), f. 60, 65</ref>
+
+Në fund të 1631, Rembrandt u shpërngul në Amsterdam, qytet që po zgjerohej me shpejtësi si kryeqendër e biznesit dhe tregtisë. Ai filloi të praktikonte për herë të parë si portretist profesionist, me sukses të madh. Fillimisht qëndroi me tregtarin e artit Hendrick van Uylenburgh, dhe në 1634 u martua me kushërirën e Hendrickut, {{ill|Saskia van Uylenburgh|en|Saskia van Uylenburgh}}.<ref>Slive (1995), f. 60–61</ref> Saskia vinte nga një familje e respektuar: babai i saj Rombertus ishte avokat dhe kishte qenë ''burgomaster'' (kryetar bashkie) i Leeuwardenit. Çifti u martua në kishën lokale të St. Annaparochie pa praninë e të afërmve të Rembrandtit.<ref>Regjistrimi i kushërisë së martesës së Rembrandtit dhe Saskias, ruajtur në Arkivin e Qytetit të Amsterdamit</ref> Të njëjtin vit, Rembrandt u bë qytetar i Amsterdamit dhe anëtar i gildës lokale të piktorëve. Fitoi gjithashtu një numër nxënësish, mes tyre {{ill|Ferdinand Bol|en|Ferdinand Bol}} dhe {{ill|Govert Flinck|en|Govert Flinck}}.<ref name="Bull-28">Bull, et al., f. 28</ref>
+
+Në 1635, Rembrandt dhe Saskia morën me qira një banesë të modës me pamje nga lumi Amstel.<ref name="Rijksmuseum">Rijksmuseum, faqja zyrtare</ref> Në 1637, Rembrandt u zhvendos në rrjedhën e sipërme të lumit, në Vlooienburg. Në maj 1639 u zhvendosën në një shtëpi të modernizuar së fundmi në rrugën e njohur 'Breestraat', me artistë e tregtarë arti fqinjë; Nicolaes Pickenoy, piktor portretesh, ishte fqinji i tij. Kredia hipotekore për financimin e blerjes prej 13.000 guldenësh do të bëhej shkak për vështirësi financiare të mëvonshme.{{efn|Rembrandt i premtoi pronares — një grua me probleme mendore — të paguante një çerek të çmimit brenda një viti; pjesën tjetër brenda pesë deri gjashtë vjetësh. Për një arsye, blerja nuk u regjistrua në bashki dhe duhej të rinovohej në 1653.}}<ref name="Bull-28"/> Lagjja strehonte shumë emigrantë dhe po bëhej lagjja hebraike. Aty Rembrandt shpesh kërkoi fqinjët e tij hebrenj si modele për skenat e tij nga Bibla Hebraike.<ref>Adams, f. 660</ref> Një nga patronët e mëdhenj në fazat e hershme të karrierës së tij ishte shtetari i Amsterdamit Andries de Graeff.<ref>Pieter C. Vis: Andries de Graeff (1611–1678) 't Gezagh is heerelyk: doch vol bekommeringen</ref>
+
+Megjithëse tashmë ishin të pasur, çifti pësoi disa goditje personale; tre fëmijë vdiqën brenda javëve nga lindja.{{efn|Djali i tyre Rombartus vdiq dy muaj pas lindjes, ndërsa vajza Cornelia vdiq vetëm tri javë e lindur. Një vajzë e dytë, gjithashtu me emrin Cornelia, vdiq pasi jetoi vetëm pak më shumë se një muaj.}} Vetëm fëmija i tyre i katërt, {{ill|Titus van Rijn|en|Titus van Rijn}}, lindur në 1641, mbijetoi deri në moshë madhore. Saskia vdiq në 1642, ndoshta nga tuberkulozi. Vizatimet e Rembrandtit të saj në shtratin e sëmurë dhe të vdekjes janë mes veprave të tij më prekëse.<ref name="Slive-71">Slive (1995), f. 71</ref><ref name="Rijksmuseum" /> Pas sëmundjes së Saskias, e veja {{ill|Geertje Dircx|en|Geertje Dircx}} u punësua si kujdestare dhe dado e Titusit; në një farë kohe, u bë edhe dashnorja e Rembrandtit. Në maj 1649 ajo u largua dhe e akuzoi Rembrandtin për thyerje premtimi martese, duke kërkuar t'i akordohej alimentacion.<ref name="Bull-28" /> Rembrandt u përpoq ta zgjidhte çështjen me mirëkuptim, por për t'i paguar avokatin ajo lëngoi unazën me diamant që Rembrandt i kishte dhuruar dhe që dikur i kishte përkitur Saskias. Më 14 tetor arritën një marrëveshje; gjykata deklaroi veçanërisht se Rembrandt duhej të paguante një pension vjetor mirëmbajtjeje, me kusht që Titusi të mbetej trashëgimtari i saj i vetëm dhe ajo të mos shiste asnjë nga pronat e Rembrandtit.<ref>Crenshaw, Paul (2006) Rembrandt's bankruptcy: the artist, his patrons, and the art market in seventeenth-century Nederlands</ref> Meqë Dircx e theu premtimin, Rembrandt dhe pjesëtarë të familjes së saj e futën në një shtëpi korrigjimi për gra në Gouda, në gusht 1650. Rembrandt gjithashtu ndërmori masa për ta mbajtur atje sa më gjatë të ishte e mundur.<ref>Dircks, Geertje (rreth 1610-1656?), Resources Huygens ING</ref> Rembrandt mbuloi shpenzimet.<ref>C. Driessen, f. 151–157</ref>
+
+Në fillim të 1649, Rembrandt filloi një marrëdhënie me {{ill|Hendrickje Stoffels|en|Hendrickje Stoffels}}, 23 vjeçe, e cila fillimisht i kishte qenë shërbëtore. Ajo mund të ketë qenë shkaku i largimit të Geertjes. Atë vit nuk bëri asnjë pikturë apo gdhendje të datuar.<ref>Gary Schwartz (1987) Rembrandt. Zijn leven, zijn schilderijen, f. 248.</ref> Në 1654 Rembrandt pikturoi një ''Bathsheba nudo në Banjën e Saj''. Në qershor Hendrickje mori tre thirrje nga Kisha e Reformuar për t'u përgjigjur akuzës "se kishte kryer veprimet e një kurve me piktorin Rembrandt". Në korrik e pranoi fajin dhe iu ndalua kungimi.<ref>G. Schwartz, f. 292–293</ref> Rembrandt nuk u thirr të paraqitej para këshillit të Kishës.<ref>Slive (1995), f. 82</ref> Në tetor patën një vajzë, Cornelia. Po të ishte rimartuar, do të kishte humbur qasjen te një fond i vendosur për Titusin në testamentin e Saskias.<ref name="Slive-71"/>
+
+=== Falimentimi ===
+
+Rembrandt, pavarësisht suksesit të tij artistik, u gjend në telashe financiare. Prirja e tij për të blerë art, gdhendje dhe sende të rralla e bëri të jetonte përtej mundësive. Në janar 1653 shitja e pronës u finalizua zyrtarisht, por Rembrandt ende duhej të mbulonte gjysmën e mbetjes së hipotekës. Kreditorët filluan të kërkonin këste, por Rembrandt, nën shtrëngesë financiare, kërkoi shtyrje. Shtëpia kishte nevojë për riparime, gjë që e detyroi Rembrandtin të huazonte para nga miq, mes tyre Jan Six.<ref>Voetnoot.org, "Rembrandt"</ref>
+
+Në nëntor 1655, në një vit të errësuar nga murtaja dhe hartimi i testamenteve, djali 14-vjeçar i Rembrandtit, Titus, hartoi një testament që e caktonte të atin trashëgimtar të vetëm, duke përjashtuar praktikisht familjen e nënës.<ref name="oudholland.rkd.nl">Wexuan, Li, "Review of: 'Rembrandts plan: De ware geschiedenis van zijn faillissement", Oud Holland Reviews, prill 2020.</ref> Në dhjetor Rembrandt organizoi një shitje të pikturave të tij, por fitimet nuk arritën pritshmëritë.<ref name="Geschiedenis">Geschiedenismagazine.nl, "Drie vragen aan Machiel Bosman"</ref> Kjo periudhë e trazuar ndikoi thellë në industrinë e artit, duke e shtyrë Rembrandtin të kërkonte një marrëveshje gjyqësore të njohur si ''cessio bonorum''. Pavarësisht vështirësive financiare, falimentimi i Rembrandtit nuk qe i detyruar.<ref name="Geschiedenis"/><ref name="oudholland.rkd.nl"/> Në korrik 1656, ai deklaroi paaftësinë paguese, duke bërë inventar dhe duke dorëzuar me vullnet asetet e tij.<ref name="Bosman">M. Bosman (2019) Rembrandts plan. De ware geschiedenis van zijn faillissement</ref> Ai kishte tashmë ia kishte kaluar shtëpinë të birit. Si autoritetet ashtu edhe kreditorët treguan tolerancë, duke i dhënë kohë të mjaftueshme për t'i shlyer borxhet.
+
+Në nëntor 1657 u mbajt një ankand tjetër për të shitur pikturat e tij, si dhe një numër të konsiderueshëm pllakash gdhendjesh dhe vizatimesh, disa prej të fundit nga artistë të njohur, përfshirë Rafaelin, Mantegnën dhe Giorgionen. Rembrandtit iu lejua në mënyrë të jashtëzakonshme të mbante veglat e punës si mjet për të gjeneruar të ardhura.<ref name="DBNL">Rembrandt's boedelafstand door jhr. mr. J.F. Backer, Elseviers Geïllustreerd Maandschrift</ref> Rembrandt humbi kujdestarinë e të birit dhe kështu kontrollin mbi veprimet e tij. Një kujdestar i ri, Louis Crayers, e kërkoi shtëpinë si shlyerje të borxhit të Titusit.<ref name="DeRuysscher2021">De Ruysscher, Dave; In 't Veld, Cornelis, "Rembrandt's insolvency: The artist as legal actor", Oud Holland – Journal for Art of the Low Countries, 2021.</ref>
+
+Lista e shitjes, me 363 zëra, ofron një pasqyrë të koleksioneve të larmishme të Rembrandtit, që përfshinin piktura të mjeshtrave të vjetër, vizatime, biusta të perandorëve romakë, statuja të filozofëve grekë, libra (përfshirë një bibël), dy globe, kapele, armatura dhe sende të ndryshme nga Azia (porcelan), si dhe një koleksion ekzemplarësh të historisë natyrore (dy lëkura luani, një zog parajse, koralet dhe minerale).<ref>Schwartz (1984), f. 288–291</ref> Megjithatë, çmimet e shitjes ishin zhgënjyese.<ref>Slive (1995), f. 84</ref>
+
+Në shkurt 1658, shtëpia e Rembrandtit ishte shitur në një ankand ekzekutimi hipotekor, dhe familja u zhvendos në banesa më modeste në Rozengracht.<ref>Arkivi i Amsterdamit, Inventarissen</ref> Në 1660, ai përfundoi ''Ahasueri dhe Hamani në gostinë e Esterës'', të cilën ia shiti Jan J. Hinlopen.<ref>Dudok van Heel, S.A.C. (1969) De Rembrandt's in de verzamelingen Hinlopen</ref> Në fillim të dhjetorit 1660, shitja e shtëpisë u finalizua, por të ardhurat shkuan drejtpërdrejt te kujdestari i Titusit.<ref name="oudholland.rkd.nl"/>
+
+Dy javë më vonë, Hendrickje dhe Titusi themeluan një shoqëri fasadë si tregtarë arti, duke i lejuar Rembrandtit, i cili kishte strehim e ushqim, të vazhdonte veprimtarinë e tij artistike.<ref>Clark, 1974 f. 105</ref> Në 1661, siguruan një kontratë për një projekt të madh në bashkinë e sapopërfunduar. Vepra që rezultoi, ''Komploti i Klaudius Civilis'', u refuzua nga kryebashkiakët dhe iu kthye piktorit brenda pak javëve; fragmenti i mbijetuar (në Stokholm) është vetëm një çerek i origjinalit.<ref>Clark 1974, f. 60–61</ref>
+
+Pavarësisht këtyre goditjeve, Rembrandt vazhdoi të merrte porosi të rëndësishme portretesh dhe përfundoi vepra të shquara, si ''Zyrtarët Vlerësues'' në 1662.<ref>Bull, et al., f. 29.</ref> Mbetet sfidë të vlerësohet saktë pasuria e Rembrandtit, pasi ai mund ta ketë mbivlerësuar vlerën e koleksionit të tij artistik.<ref name="Bosman" /> Sidoqoftë, gjysma e aseteve të tij ishte caktuar për trashëgiminë e Titusit.<ref>Jan Veth (1906) Rembrandt's verwarde zaken</ref>
+
+Në mars 1663, me sëmundjen e Hendrickjes, Titusi mori një rol më të spikatur. Isaac van Hertsbeeck, kreditori kryesor i Rembrandtit, iu drejtua Gjykatës së Lartë dhe kundërshtoi prioritetin e Titusit për pagesë, duke çuar në beteja ligjore që Titusi përfundimisht i fitoi në 1665, kur arriti moshën madhore.<ref name="DeRuysscher2021"/> Gjatë kësaj kohe, Rembrandt punoi vepra të shquara si ''Nusja Hebreje'' dhe vetë-portretet e tij të fundit, por përballej me borxhe qiraje.<ref>Garyschwartzarthistorian.nl, "380 Whitewashing Rembrandt, part 2"</ref> Vlen të përmendet se Cosimo III de' Medici, Duka i Madh i Toskanës, e vizitoi Rembrandtin dy herë, dhe u kthye në Firence me një nga vetë-portretet.<ref>Clark 1978, f. 34</ref>
+
+Rembrandt i mbijetoi si Hendrickjes ashtu edhe Titusit; vdiq të premten, më 4 tetor 1669, dhe u varros katër ditë më vonë në një varr me qira në Westerkerk.<ref>Regjistri i varrimeve në Westerkerk me shënimin e varrimit të Rembrandtit, ruajtur në Arkivin e Qytetit të Amsterdamit</ref> Fëmija e tij e paligjshme, Cornelia (1654–1684), përfundimisht u shpërngul në Batavia në 1670, e shoqëruar nga një piktor i panjohur dhe trashëgimia e nënës së saj.<ref>Cornelia van Rijn, ecartico.uva.nl</ref> Trashëgimia e konsiderueshme e Titusit i kaloi fëmijës së tij të vetme, Titia (1669-1715), e cila u martua me kushëririn e vet dhe jetoi në Blauwburgwal.<ref>Dudok van Heel, S.A.C. (1987) Dossier Rembrandt, f. 86–88</ref> Jeta e Rembrandtit u shënua nga më shumë sesa vetëm arritje artistike; ai përballoi shumë sfida ligjore dhe financiare, duke lënë pas një trashëgimi komplekse.<ref>"Rembrandt made a mess of his legal and financial life", Universiteti i Leidenit, 16 nëntor 2021</ref>
+== Veprat ==
+
+=== Përmbledhje ===
+[[File:Rembrandt Christ in the Storm on the Lake of Galilee.jpg|thumb|upright=1|E vetmja skenë deti e njohur e Rembrandtit, ''Stuhia në Detin e Galilesë'' (1633), mbetet e zhdukur pas grabitjes së famshme nga Muzeu Isabella Stewart Gardner në 1990.|left]]
+
+Në një letër drejtuar Huygensit, Rembrandt ofroi shpjegimin e vetëm të mbijetuar për atë çfarë kërkonte të arrinte përmes artit të tij, duke shkruar se kërkonte "lëvizjen më të madhe dhe më natyrale", përkthyer nga hollandishtja ''de meeste en de natuurlijkste beweegelijkheid''. Fjala "''beweegelijkheid''" përkthehet si "emocion" ose "motiv". Nuk dihet nëse kjo i referohet objektivave, materialit apo diçkaje tjetër, por kritikët kanë tërhequr vëmendjen veçanërisht te mënyra si Rembrandt bashkoi pa u dukur tokësoren dhe shpirtëroren.<ref>Hughes, f. 6</ref>
+
+Ndërsa njohja e artit u zhvillua në shekujt 19 dhe 20, vepra e Rembrandtit u rrit në përmasa. Në fillim të shekullit 20, njohësit mendonin se Rembrandt kishte prodhuar mbi 600 piktura, afër 400 gdhendje dhe 2.000 vizatime. Studimet më të fundit, nga vitet 1960 e këtej (të udhëhequra nga Projekti i Kërkimit Rembrandt), shpesh në mënyrë të diskutueshme, e kanë ngushtuar veprën e tij në afër 300 piktura. Gdhendjet e tij kanë një total më të qëndrueshëm, pak nën 300. Ka gjasa që Rembrandt të ketë bërë shumë më tepër se 2.000 vizatime gjatë jetës së tij, por ato të mbijetuara janë më të rralla sesa supozohej. Dy ekspertë pretendojnë se numri i vizatimeve, statusi autograf i të cilave mund të konsiderohet praktikisht "i sigurt", nuk kalon rreth 75, edhe pse kjo diskutohet.
+
+[[File:Rembrandt van Rijn - A Polish nobleman.jpg|thumb|upright=1|''Fisniku polak'' (1637)]]
+
+Njëherë e një kohë, rreth 90 piktura numëroheshin si vetë-portrete të Rembrandtit, por tashmë dihet se ai i bënte nxënësit e tij të kopjonin vetë-portretet e tij si pjesë e stërvitjes së tyre. Studimet moderne e kanë ulur numrin autograf në mbi dyzet piktura, plus disa vizatime dhe tridhjetë e një gdhendje, që përfshijnë disa nga imazhet "më të jashtëzakonshme" të grupit.<ref>White dhe Buvelot 1999, f. 10.</ref> Disa e paraqesin duke pozuar me veshje fantazi gjysmë-historike, ose duke bërë grimasa ndaj vetes. Pikturat e tij me vaj gjurmojnë ecurinë nga një i ri i pasigurt, përmes portretistit të suksesshëm e elegant të viteve 1630, deri te portretet e trazuara por fuqiplote të pleqërisë. Së bashku, besohet se japin një pamje jashtëzakonisht të qartë të njeriut, pamjes së tij dhe strukturës psikologjike, siç zbulohet nga fytyra e tij e stërvjetruar.
+
+Në portretet dhe vetë-portretet e tij, ai e kthen fytyrën e subjektit në atë mënyrë që kurrizi i hundës formon pothuajse gjithmonë vijën ndarëse mes zonave të ndriçuara fort dhe atyre në hije.<ref>Taylor, Michael, ''Rembrandt's nose: of flesh & spirit in the master's portraits'', 2007.</ref>
+
+[[File:Rembrandt Winterlandschap 1646.jpg|thumb|''Peizazh dimëror'' (1646), i vetmi kompozim i tij në këtë zhanër|left]]
+
+Në disa nga veprat e tij biblike, përfshirë ''Ngritjen e Kryqit'', ''Jozefi duke Treguar Ëndrrat e Tij'', dhe ''Gurëzimin e Shën Stefanit'', Rembrandt pikturoi veten si personazh mes turmës. Durham sugjeron se kjo ndodhte sepse Bibla për Rembrandtin ishte "një lloj ditari, një rrëfim i momenteve në jetën e tij".<ref>Durham, f. 60.</ref>
+
+Ndër tiparet më të spikatura të veprës së Rembrandtit është përdorimi i tij i chiaroscuro-s, përdorimi teatral i dritës dhe hijes, i marrë nga Karavaxho, ose, më me gjasë, nga karavaxhistët hollandezë të Utrehtit, por i përshtatur për qëllime shumë personale.<ref>Bull, et al., f. 11–13.</ref> Të spikatura janë gjithashtu paraqitja e tij dramatike dhe e gjallë e subjekteve, e çliruar nga formaliteti i ngurtë që shfaqnin shpesh bashkëkohësit e tij, dhe një dhembshuri e thellë për njerëzimin, pavarësisht pasurisë dhe moshës. Familja e tij e ngushtë — gruaja Saskia, biri Titus dhe bashkëshortja e tij sipas ligjit të zakonshëm Hendrickje — shfaqej shpesh në pikturat e tij, shumica prej të cilave kishin subjekte mitologjike, biblike ose historike.
+
+=== Periudhat, subjektet dhe stilet ===
+[[File:Rembrandt - The Abduction of Europa - Google Art Project.jpg|thumb|upright=1|''Rrëmbimi i Evropës'' (1632) është përshkruar si "...një shembull i shndritshëm i 'epokës së artë' të pikturës baroke".<ref>Clough, f. 23</ref>]]
+
+Gjatë gjithë karrierës, Rembrandt mori si subjekte më të zakonshme portretet, "pikturat narrative" ose historike, kryesisht biblike, dhe peizazhet. U vlerësua veçanërisht nga bashkëkohësit për subjektet e tij biblike, për aftësinë në paraqitjen e emocioneve dhe vëmendjen ndaj detajeve. Stilistikisht, pikturat e tij ecën nga maniera e hershme "e lëmuar", e karakterizuar nga teknika e hollë në portretizimin e formës iluzioniste, drejt trajtimit të vonë "të vrazhdë" të sipërfaqeve me ngjyra shumë të larmishme, e cila lejoi një iluzionizëm forme të sugjeruar nga cilësia prekshme e vetë bojës.
+
+Një zhvillim paralel mund të shihet në aftësinë e Rembrandtit si gdhendës. Në gdhendjet e pjekurisë së tij, veçanërisht nga fundi i viteve 1640 e këtej, liria dhe gjerësia e vizatimeve dhe pikturave të tij gjetën shprehje edhe në mediumin e gdhendjes. Veprat përfshijnë një gamë të gjerë subjektesh dhe teknikash, ndonjëherë duke lënë zona të gjera letre të bardhë për të sugjeruar hapësirën, herë të tjera duke përdorur rrjeta komplekse vijash për të prodhuar tone të errëta e të pasura.<ref>Ackley, f. 14.</ref>
+
+[[File:Rembrandt, Portret van Haesje v.Cleyburg 1634.jpg|thumb|upright=1|Portreti i Haesje Jacobsdr. van Cleyburg nga Roterdami (1634), përfunduar në kulmin e suksesit të tij tregtar|left]]
+
+Ndikimi i Lastmanit mbi Rembrandtin ishte më i spikatur gjatë periudhës së tij në Leiden, nga 1625 deri 1631. Pikturat ishin mjaft të vogla por të pasura me detaje (për shembull, në kostume dhe stoli). Subjektet fetare dhe alegorike preferoheshin, ashtu si dhe "tronie"-t. Në 1626 Rembrandt prodhoi gdhendjet e tij të para, shpërndarja e gjerë e të cilave do të llogariste kryesisht për famën e tij ndërkombëtare. Në 1629, përfundoi ''Juda i Penduar, duke Kthyer Monedhat e Argjendta'' dhe ''Artisti në Studion e Tij'', vepra që dëshmojnë interesin e tij për trajtimin e dritës dhe larminë e aplikimit të bojës, dhe përbëjnë ecurinë e parë të madhe në zhvillimin e tij si piktor.
+
+Gjatë viteve të tij të hershme në Amsterdam (1632–1636), Rembrandt filloi të pikturonte skena dramatike biblike dhe mitologjike, në kontrast të fortë dhe formate të mëdha (''Verbimi i Sansonit'', 1636, ''Gostia e Belshazarit'', rreth 1635, ''Danaja'', 1636 por e ripunuar më vonë), duke kërkuar të emulonte stilin barok të Rubensit. Me ndihmën e rastësishme të asistentëve në punëtorinë e Uylenburghut, ai pikturoi shumë porosi portretesh, si të vogla ashtu edhe të mëdha.
+
+[[File:Rembrandt van Rijn (Leiden 1606-Amsterdam 1669) - Self-Portrait in a Flat Cap - RCIN 404120 - Royal Collection.jpg|thumb|Vetë-portret me kapelë të sheshtë (1642), Koleksioni Mbretëror]]
+
+Deri në fund të viteve 1630, Rembrandt kishte prodhuar disa piktura dhe shumë gdhendje peizazhesh. Shpesh këto peizazhe theksonin dramën natyrore, me pemë të shkulura dhe qiej kërcënues (''Kasolle përpara një Qielli Stuhior'', rreth 1641; ''Tre Pemët'', 1643). Nga 1640 vepra e tij u bë më pak e gëzueshme dhe më e ashpër në ton, ndoshta duke pasqyruar tragjedinë personale. Skenat biblike tashmë vinin më shpesh nga Dhiata e Re e krishterimit sesa nga Bibla Hebraike e judaizmit, siç ndodhte më parë. Në 1642 pikturoi ''Roja e Natës'', më e rëndësishmja e porosive të mëdha të portreteve grupore që mori në këtë periudhë, dhe përmes së cilës kërkoi zgjidhje për probleme kompozicionale dhe narrative që kishte tentuar në vepra të mëparshme.
+
+Në dekadën pas ''Rojës së Natës'', pikturat e Rembrandtit ndryshuan shumë në përmasa, subjekt dhe stil. Tendenca e mëparshme për të krijuar efekte dramatike kryesisht përmes kontrasteve të forta dritë-hije la vend përdorimit të dritës frontale dhe zonave më të mëdha e më të ngopura ngjyre. Njëkohësisht, figurat filluan të vendoseshin paralel me rrafshin e pikturës. Këto ndryshime mund të shihen si një lëvizje drejt një mënyre klasike kompozicioni dhe, duke pasur parasysh përdorimin më shprehës të penelit, mund të tregojnë njohje me artin venedikas.
+
+[[File:Rembrandt - Zelfportret - Google Art Project.jpg|thumb|upright=1|''Vetë-portret'' (1658), sot në Koleksionin Frick, Nju Jork, është përshkruar si "më i qeti dhe më madhështori i të gjitha portreteve të tij".|left]]
+
+Në vitet 1650, stili i Rembrandtit ndryshoi përsëri. Ngjyrat u bënë më të pasura dhe goditjet e penelit më të theksuara. Me këto ndryshime, Rembrandt u largua nga vepra e tij e mëparshme dhe moda e kohës, e cila po priste gjithnjë e më shumë drejt veprave të hollë e të detajuara. Përdorimi i dritës nga ana e tij bëhet më i thepisur e i vrazhdë, dhe shkëlqimi bëhet pothuajse i papranishëm. Qasja e tij unike ndaj aplikimit të bojës mund të jetë sugjeruar pjesërisht nga njohja me veprën e Ticianit. Rezultati është një trajtim i pasur dhe i larmishëm i bojës, i shtresuar thellë dhe shpesh në dukje i rastësishëm, i cili sugjeron formë dhe hapësirë në një mënyrë njëkohësisht iluzore dhe shumë individuale.
+
+Në vitet e mëvonshme, subjektet biblike shpesh vazhdonin të paraqiteshin, por theksi kaloi nga skenat dramatike grupore te figurat intime, portret-ngjashme. Në vitet e tij të fundit, Rembrandt pikturoi vetë-portretet e tij më thellësisht introspektive (nga 1652 deri 1669 pikturoi pesëmbëdhjetë), dhe disa imazhe prekëse, si të burrave ashtu edhe të grave (''Nusja Hebreje'', rreth 1666) — në dashuri, në jetë dhe përpara Zotit.
+
+=== Veprat grafike ===
+{{Hatnote|Artikulli kryesor: {{ill|Gdhendjet e Rembrandtit|en|Rembrandt's prints}}}}
+[[File:Rembrandt Harmensz. van Rijn - Christ with the Sick around Him, Receiving Little Children (The 'Hundred Guilder Print') - Google Art Project.jpg|thumb|upright=1|''Stampa Njëqind Guldenësh'' (rreth 1647–1649)]]
+
+Rembrandt prodhoi gdhendje gjatë pjesës më të madhe të karrierës së tij, nga 1626 deri 1660, kur u detyrua të shiste shtypshkronjën e tij dhe praktikisht braktisi gdhendjen. Vetëm viti i trazuar 1649 nuk prodhoi vepër të datuar. E mësoi lehtë gdhendjen dhe, edhe pse mësoi të përdorte burinin dhe gdhendi pjesërisht shumë pllaka, liria e teknikës së gdhendjes ishte thelbësore për veprën e tij. Ishte i përfshirë ngushtë në gjithë procesin e shtypjes së gdhendjeve, dhe duhet të ketë shtypur vetë të paktën shembujt e hershëm të gdhendjeve të tij. Fillimisht përdori një stil të bazuar në vizatim, por shpejt kaloi te njëri i bazuar në pikturë, duke përdorur mase vijash dhe kafshime të shumta me acid për të arritur forca të ndryshme vije. Drejt fundit të viteve 1630, reagoi kundër kësaj maniere dhe kaloi te një stil më i thjeshtë, me më pak kafshime.
+
+Punoi mbi të ashtuquajturën ''Stampë Njëqind Guldenësh'' në faza gjatë gjithë viteve 1640, dhe ishte "vepra kritike në mes të karrierës së tij", nga e cila filloi të lindte stili i tij përfundimtar i gdhendjes. Në veprat e pjekura të viteve 1650, Rembrandt ishte më i gatshëm të improvizonte mbi pllakë, dhe stampat e mëdha zakonisht mbijetojnë në disa gjendje, deri në njëmbëdhjetë, shpesh të ndryshuara rrënjësisht. Tani përdori vijëzim për të krijuar zonat e tij të errëta, që shpesh zënë pjesën më të madhe të pllakës. Eksperimentoi gjithashtu me efektet e shtypjes në lloje të ndryshme letre, përfshirë letrën japoneze, dhe në pergamenë. Filloi të përdorte "tonin e sipërfaqes", duke lënë një shtresë të hollë boje në pjesë të pllakës në vend që ta pastronte plotësisht për të shtypur çdo shtypje. Përdori më shumë teknikën e drypoint-it, duke shfrytëzuar, veçanërisht në peizazhe, "puplat" e pasura e të buta që kjo teknikë u jep shtypjeve të para.
+
+Gdhendjet e tij kanë subjekte të ngjashme me pikturat e tij, ndonëse 27 vetë-portretet janë relativisht më të shpeshta, ndërsa portretet e njerëzve të tjerë më pak. Peizazhet, kryesisht të vogla, përcaktuan gjerësisht kursin e trajtimit grafik të peizazhit deri në fund të shekullit 19. Nga qindra vizatimet që bëri Rembrandt, vetëm rreth dyqind kanë motiv peizazhi si subjekt, dhe nga rreth treqind gdhendjet, rreth tridhjetë tregojnë një peizazh. Sa u përket peizazheve të pikturuara, nuk ka as tetë vepra. Një e treta e gdhendjeve të tij janë me subjekte fetare, shumë të trajtuara me thjeshtësi familjare, ndërsa të tjera janë mes stampave të tij më monumentale. Disa kompozime erotike, apo thjesht të pandershme, nuk kanë ekuivalent në pikturat e tij. Rembrandt zotëronte, deri sa u detyrua ta shiste, një koleksion madhështor veprash nga artistë të tjerë. U ndikua nga artistë përfshirë Karavaxhon me ndriçimin e tij chiaroscuro. Huazime dhe ndikime në veprën e tij mund të gjurmohen te artistë aq të ndryshëm sa Andrea Mantegna, Anthony van Dyck, Rafaeli, Ticiani, Peter Paul Rubens, {{ill|Hercules Seghers|en|Hercules Seghers}}, dhe Giovanni Benedetto Castiglione.
+
+Vizatimet nga Rembrandt dhe nxënësit e tij janë studiuar gjerësisht nga shumë artistë dhe studiues, si Otto Benesch, David Hockney, Nigel Konstam, Jakob Rosenberg, Gary Schwartz, dhe Seymour Slive, gjatë shekujve.
+
+=== Frymëzimi aziatik ===
+{{Hatnote|Artikulli kryesor: {{ill|Vizatimet Mughal të Rembrandtit|en|Rembrandt's Mughal drawings}}}}
+[[File:Rembrandt 208 (cropped).jpg|thumb|Vizatimi i Rembrandtit i një pikture indiane Mughal (detaj)]]
+
+Rembrandt ishte i interesuar për miniaturat Mughal, veçanërisht rreth viteve 1650. Vizatoi versione të rreth 23 pikturave Mughal dhe ndoshta zotëronte një album me to. Këto miniatura përfshinin piktura të Shah Xhahanit, Akbarit, Xhahangirit dhe Dara Shikohut, dhe mund të kenë ndikuar në kostumet dhe aspekte të tjera të veprave të tij.
+
+=== ''Roja e Natës'' ===
+{{Hatnote|Artikulli kryesor: {{ill|Roja e Natës|en|The Night Watch}}}}
+[[File:La ronda de noche, por Rembrandt van Rijn.jpg|thumb|upright=1.15|''Roja e Natës'', ose ''Kompania e Milicisë e Kapiten Frans Banninck Cocq'' (1642), portret vaj në pëlhurë, sot në Rijksmuseum, Amsterdam|left]]
+
+Rembrandt pikturoi ''Kompaninë e Milicisë të Kapiten Frans Banninck Cocq'', të njohur si ''Roja e Natës'', mes 1640 dhe 1642, dhe u bë vepra e tij më e famshme. Vepra u porosit për sallën e re të ''Kloveniersdoelen''-it, dega e musketierëve e milicisë civile. Rembrandt u largua nga konventa e pikturës narrative dhe portreteve, e cila kërkonte që skena të tilla zhanri të ishin madhështore dhe formale. Në vend të kësaj, krijoi një shtresëzim kompleks figurash në një paraqitje dramatike të një veprimi, shkrepja e një musketë, që prek disa nga personazhet por jo të tjerë. Piktura nuk vendoset natën, errësira e saj shkaktohet nga plakja; dhe nuk është roje apo patrullë, por ceremoni.
+
+Piktura ka marrë shumë interpretime. Nëse, siç sugjeron Joseph Manca, ishte menduar të funksiononte në shumë nivele, shumë prej interpretimeve mund të jenë të sakta. Kështu, ndryshe nga në një pikturë narrative konvencionale, njerëzit e paraqitur përfaqësohen në portrete individuale të gjalla. Stili duket se tregon një ngjarje reale në një vend real, por struktura e saj komplekse duket e sajuar apo teatrale, ndërsa vendosja rrugore është e shpikur. Mund të shihet si pamje e një milicie të ngarkuar me ruajtjen e rendit, por gjithashtu duket njësoj si një skenë e çrregullt.
+
+== Vlerësimet e ekspertëve ==
+[[File:Rembrandtselfportraitweb.jpg|thumb|upright|''Vetë-portret me shpatë të ngritur'' (rreth 1634)]]
+
+Në 1968, Projekti i Kërkimit Rembrandt filloi nën patronazhin e Organizatës Hollandeze për Përparimin e Kërkimit Shkencor; fillimisht pritej të zgjaste dhjetë vjet, pritje shumë optimiste. Historianë arti u bashkuan me ekspertë nga fusha të tjera për të rivlerësuar autenticitetin e veprave të atribuara Rembrandtit, duke përdorur të gjitha metodat e disponueshme, përfshirë diagnostikimin teknik më të fundit, dhe për të përpiluar një katalog të plotë e të ri të pikturave të tij. Si rezultat i gjetjeve të tyre, shumë piktura më parë të atribuara Rembrandtit u hoqën nga lista, ndonëse të tjera u shtuan sërish.
+
+[[File:Rembrandt - De Poolse ruiter, c.1655 (Frick Collection).jpg|thumb|''Kalorësi polak'' (rreth 1655), ndoshta një lisowczyk mbi kalë|left]]
+
+Një shembull i kësaj veprimtarie është ''Kalorësi Polak'', sot në Koleksionin Frick në Nju Jork. Autorësia e Rembrandtit ishte vënë në dyshim nga të paktën një studiues, Alfred von Wurzbach, në fillim të shekullit 20, por për shumë dekada të mëvonshme shumica e studiuesve, përfshirë autoritetin kryesor në gjuhën angleze, Julius S. Held, ranë dakord se ishte vërtet vepër e mjeshtrit. Në vitet 1980, megjithatë, Dr. Josua Bruyn i Fondacionit të Projektit të Kërkimit Rembrandt ia atribuoi me kujdes dhe në mënyrë tentative pikturën njërit prej nxënësve më të afërt e më të talentuar të Rembrandtit, {{ill|Willem Drost|en|Willem Drost}}. Por mendimi i Bruynit mbeti minoritar, dhe sugjerimi për autorësinë e Drostit sot refuzohet përgjithësisht.
+
+Një çështje e ngjashme u ngrit nga Schama lidhur me verifikimin e titujve të lidhur me subjektin e paraqitur në veprat e Rembrandtit. Për shembull, subjekti i saktë i portretizuar në ''Aristoteli me një Bust të Homerit'', i ritituluar së fundmi nga kuratorët e Muzeut Metropolitan, është sfiduar drejtpërdrejt nga Schama, duke aplikuar studimin e Paul Crenshaw. Schama paraqet një argument të konsiderueshëm se ishte piktori i famshëm i lashtësisë greke Apeli ai që paraqitet në kontemplim nga Rembrandt, dhe jo Aristoteli.
+
+Praktika e Rembrandtit e vetë punëtorisë është një faktor i madh në vështirësinë e atribuimit, pasi, si shumë mjeshtër para tij, ai i inkurajonte nxënësit e tij të kopjonin pikturat e tij, ndonjëherë duke i përfunduar ose retushuar për t'u shitur si origjinale, ndonjëherë duke i shitur si kopje të autorizuara. Për më tepër, stili i tij ishte mjaft i lehtë për nxënësit më të talentuar për ta emuluar. Çështjen e komplikon më tej cilësia jo e njëtrajtshme e disa veprave të vetë Rembrandtit, dhe evolucionet e tij të shpeshta stilistike dhe eksperimentet.
+
+== Materialet e pikturës ==
+[[File:Rembrandt - Saskia van Uylenburgh in Arcadian Costume - WGA19164.jpg|thumb|upright=0.8|''Saskia si Flora'' (1635)|left]]
+
+Hulumtimi teknik i pikturave të Rembrandtit në pronësi të Gemäldegalerie Alte Meister dhe në Gemäldegalerie Alte Meister (Kassel) u krye nga Hermann Kühn në 1977. Analizat e pigmenteve të rreth tridhjetë pikturave kanë treguar se paleta e Rembrandtit përbëhej nga pigmentet e mëposhtme: bardhë plumbi, oksidë të ndryshëm, kafe van Dyke, e zezë kockash, e zezë qymyri, e zezë llambe, cinabar, lak zhguni (madder), azurit, ultramarin, lak i verdhë dhe verdhë plumbi-kallaji. Orpiment sintetik u shfaq në hijet e mëngës së dhëndrit hebre në një pikturë. Ky verdhë arseniku toksik përdorej rrallë në pikturën me vaj. Një pikturë (Saskia van Uylenburgh si Flora) përmban, sipas raporteve, gambogë. Rembrandt shumë rrallë përdori ngjyra blu apo jeshile të pastra, me përjashtimin më të theksuar ''Gostinë e Belshazarit'' në Galerinë Kombëtare në Londër.
+
+Libri i Bomfordit përshkruan hulumtime teknike dhe analiza pigmentesh më të fundit të pikturave të Rembrandtit, kryesisht ato në Galerinë Kombëtare në Londër. E gjithë gama e pigmenteve të përdorura nga Rembrandt mund të gjendet te ColourLex. Burimi më i mirë për informacion teknik mbi pikturat e Rembrandtit në internet është Baza e të Dhënave Rembrandt, që përmban të gjitha veprat e Rembrandtit me raporte hetimi të detajuara, imazhe infra të kuqe dhe radiografike, si dhe detaje të tjera shkencore.
+
+== Emri dhe nënshkrimi ==
+[[File:Rembrandt, bue squartato, 1655, 02.JPG|thumb|upright=1|''Kau i Therur'' (1655), Luvri]]
+
+"Rembrandt" është një modifikim i drejtshkrimit të emrit të artistit, që ai vetë e futi në 1633. Patronimiku "Harmenszoon" tregon se emri i babait të tij ishte Harmen. "van Rijn" tregon se familja e tij jetonte pranë lumit Rin.
+
+Nënshkrimet më të hershme të Rembrandtit (rreth 1625) përbëheshin nga një inicial "R," ose monogrami "RH" (për Rembrant Harmenszoon), dhe që nga 1629, "RHL" ("L"-ja qëndronte, me sa duket, për Leiden). Në 1632, e përdori këtë monogram në fillim të vitit, pastaj i shtoi emrin e familjes, "RHL-van Rijn," por e zëvendësoi këtë formë atë vit dhe filloi të përdorte vetëm emrin e tij, me drejtshkrimin origjinal, "Rembrant." Në 1633 shtoi një "d," dhe e ruajti këtë formë vazhdimisht që nga ai moment. Ky ndryshim është thjesht vizual; nuk ndryshon mënyrën si shqiptohet emri i tij. Pavarësisht numrit të madh të pikturave dhe gdhendjeve të nënshkruara me këtë emër të modifikuar, shumica e dokumenteve që e përmendin gjatë jetës së tij mbajnë drejtshkrimin origjinal "Rembrant."
+
+Praktika e tij e nënshkrimit të veprave me emrin, e ndjekur më vonë nga Vincent van Gogh, u frymëzua me gjasë nga Rafaeli, Leonardo da Vinçi dhe Mikelanxhelo, të cilët, si atëherë ashtu edhe sot, njihen vetëm me emrin.
+
+== Punëtoria ==
+[[File:Rembrandt.fallhut.jpg|thumb|Një nga 500 vizatimet e Rembrandtit që zotëronte {{ill|Jan van de Cappelle|en|Jan van de Cappelle}}]]
+
+Rembrandt drejtoi një punëtori të madhe dhe pati shumë nxënës. Lista e nxënësve të Rembrandtit nga periudha e tij në Leiden si dhe koha e tij në Amsterdam është mjaft e gjatë, kryesisht sepse ndikimi i tij mbi piktorët përreth ishte aq i madh sa është e vështirë të thuhet nëse dikush punonte për të në punëtorinë e tij apo thjesht kopjonte stilin e tij për patronë të etur për të fituar një Rembrandt. Një listë e pjesshme duhet të përfshijë Ferdinand Bol, Adriaen Brouwer, Gerrit Dou, Willem Drost, Heiman Dullaart, Gerbrand van den Eeckhout, Carel Fabritius, Govert Flinck, Hendrick Fromantiou, Aert de Gelder, Samuel Dirksz van Hoogstraten, Abraham Janssens, Godfrey Kneller, Philip de Koninck, Jacob Levecq, Nicolaes Maes, Jürgen Ovens, Christopher Paudiß, Willem de Poorter, Jan Victors, dhe Willem van der Vliet.
+
+== Koleksionet e muzeve ==
+[[File:Rembrandts house, Amsterdam.jpg|thumb|upright=1|Muzeu Shtëpia e Rembrandtit, Amsterdam]]
+
+Shtetet e Bashkuara kanë numrin më të madh të pikturave të Rembrandtit, të shpërndara në disa muze, përfshirë Muzeun Metropolitan të Artit (kryesisht portrete) dhe Koleksionin Frick në Nju Jork, Galerinë Kombëtare të Artit në Uashington D.C., Muzeun e Arteve të Bukura në Boston, dhe Muzeun J. Paul Getty në Los Anxhelos, gjithsej 86 piktura. Grupe të tjera të mëdha gjenden në Gjermani, me 69 piktura, në Gemäldegalerie në Berlin, Gemäldegalerie Alte Meister në Drezden, dhe Schloss Wilhelmshöhe në Kassel, e gjetkë. Britania e Madhe ka gjithsej 51, veçanërisht në Galerinë Kombëtare dhe Koleksionin Mbretëror. Ka 49 në Holandë, shumë prej të cilave në Rijksmuseum, që zotëron ''Rojën e Natës'' dhe ''Nusen Hebreje'', si dhe Mauritshuis-in në Hagë. Të tjera gjenden në Luvër, Muzeun Hermitage, dhe Nationalmuseum në Stokholm. Kështjella Mbretërore në Varshavë ka dy piktura nga Rembrandt.
+
+Koleksione të mëdha vizatimesh të Rembrandtit ruhen në Rijksmuseum, Luvër dhe Muzeun Britanik. Muzeu Shtëpia e Rembrandtit ruan shumë prej vizatimeve të tij dhe "pothuajse të gjitha" gdhendjet, disa prej të cilave ekspozohen me radhë në shtëpi.
+
+Me përjashtim të disa gdhendjeve shumë të rralla, kryesisht studime të hershme më pak të rëndësishme, shumica e gdhendjeve të tij nuk janë shumë të rralla sipas standardeve të muzeve, dhe dhomat kryesore të stampave kanë koleksione të mira. Si Rijksmuseum ashtu edhe Muzeu Britanik, që pretendojnë të kenë koleksionet më të mira, kanë mbi 1.000 shtypje të rreth 300 gdhendjeve; shumica prej tyre mund të shihen me detaje të mëdha në internet.
+
+Shtypjet vazhduan shpesh të bëheshin nga të tjerë deri të paktën në shekullin 19, me shumë prej pllakave të ripunuara ndërsa konsumoheshin. Në 1986, 79 nga pllakat origjinale prej bakri të Rembrandtit ende ekzistonin.
+== Vepra të zgjedhura ==
+[[File:Rembrandt laughing.jpg|thumb|upright=1|''Rembrandt duke qeshur'' (1628), Muzeu J. Paul Getty, Malibu]]
+
+* ''Varrimi i Krishtit'' (rreth 1624) – <small>Muzeu dhe Galeria e Artit Hunterian, Glasgou</small>
+* ''Gurëzimi i Shën Stefanit'' (1625) – <small>Musée des Beaux-Arts, Lion</small>
+* ''Andromeda e Lidhur me Zinxhirë te Shkëmbinjtë'' (1630) – <small>Mauritshuis, Haga</small>
+* ''Plaku me Zinxhir Ari'' (rreth 1631) – <small>Instituti i Artit i Çikagos</small>
+* ''Jacob de Gheyn III'' (1632) – <small>Galeria Dulwich, Londër</small>
+* ''Filozofi në Meditim'' (1632) – <small>Luvri, Paris</small>
+* ''Mësimi i Anatomisë së Dr. Nicolaes Tulp'' (1632) – <small>Mauritshuis, Haga</small>
+* ''Judita në Gostinë e Holofernit'' (1634) – <small>Museo del Prado, Madrid</small>
+* ''Zbritja nga Kryqi'' (1634) – <small>Muzeu Hermitage, Shën Petersburg</small>
+* ''Gostia e Belshazarit'' (rreth 1635–1638) – <small>Galeria Kombëtare, Londër</small>
+* ''Biri Plëngprishës në Tavernë'' (rreth 1635) – <small>Gemäldegalerie Alte Meister, Drezden</small>
+* ''Danaja'' (rreth 1635, ripunuar para 1643) – <small>Muzeu Hermitage, Shën Petersburg</small>
+* ''Studiuesi te Tryeza e Leximit'' (1641) – <small>Kështjella Mbretërore, Varshavë</small>
+* ''Vajza në Kornizë'' (1641) – <small>Kështjella Mbretërore, Varshavë</small>
+* ''Roja e Natës'', zyrtarisht ''Kompania e Milicisë e Kapiten Frans Banning Cocq'' (1642) – <small>Rijksmuseum, Amsterdam</small>
+* ''Boaz dhe Ruthi'' (1643) – <small>Woburn Abbey, Bedfordshire dhe Gemäldegalerie, Berlin</small>
+* ''Mulliri'' (1645/48) – <small>Galeria Kombëtare e Artit, Uashington D.C.</small>
+* ''Suzana dhe Pleqtë'' (1647) – <small>Gemäldegalerie, Berlin</small>
+* ''Krishti duke Shëruar të Sëmurët'', njohur edhe si Stampa Njëqind Guldenësh (rreth 1648) – <small>Muzeu Memorial i Artit Allen, Oberlin, Ohio</small>
+* ''Koka e Krishtit'' (1648) – <small>Gemäldegalerie, Berlin</small>
+* ''Aristoteli duke Kontempluar një Bust të Homerit'' (1653) – <small>Muzeu Metropolitan i Artit, Nju Jork</small>
+* ''Tre Kryqet'' (1653) – <small>Muzeu i Arteve të Bukura, Boston</small>
+* ''Bathsheba në Banjën e Saj'' (1654) – <small>Luvri, Paris</small>
+* ''Krishti i Paraqitur para Popullit'' (rreth 1655) – <small>Versione të ndryshme në muze të ndryshëm</small>
+* ''Pallas Athina'' (rreth 1657) – <small>Muzeu Calouste Gulbenkian, Lisbonë</small>
+* ''Portreti i Dirck van Os'' (rreth 1658) – <small>Muzeu i Artit Joslyn, Omaha, Nebraska</small>
+* ''Vetë-portret me beretë dhe jakë të ngritur'' (1659) – <small>Galeria Kombëtare e Artit, Uashington D.C.</small>
+* ''Ahasueri dhe Hamani në Gostinë e Esterës'' (1660) – <small>Muzeu Pushkin, Moskë</small>
+* ''Komploti i Klaudius Civilis'' (rreth 1661–1662) – <small>Nationalmuseum, Stokholm; pjesa më e madhe e origjinalit ka humbur pasi Rembrandt e preu për ta shitur; edhe pikturë e tij e fundit historike laike</small>
+* ''Sindikët e Gildës së Prodhuesve të Pëlhurës'' (1662) – <small>Rijksmuseum, Amsterdam</small>
+* ''Nusja Hebreje'' (rreth 1665–1669) – <small>Rijksmuseum, Amsterdam</small>
+* ''Hamani para Esterës'' (1665) – <small>Muzeu Kombëtar i Artit i Rumanisë, Bukuresht</small>
+* ''Vetë-portret në Moshën 63-vjeçare'' (1669) – <small>Galeria Kombëtare, Londër; një nga vetë-portretet e fundit të Rembrandtit</small>
+* ''Kthimi i Birit Plëngprishës'' (1669) – <small>Muzeu Hermitage, Shën Petersburg; një nga pikturat e fundit të Rembrandtit</small>
+
+== Ekspozita ==
+[[File:Moving Rembrandt's 'Nightwatch'.jpg|thumb|upright=1|Zhvendosja e ''Rojës së Natës'' të Rembrandtit për Ekspozitën Rembrandt të vitit 1898]]
+* Shtator–tetor 1898: ''Rembrandt Tentoonstelling'' (''Ekspozita Rembrandt''), Muzeu Stedelijk, Amsterdam
+* Janar–shkurt 1899: ''Rembrandt Tentoonstelling'', Akademia Mbretërore, Londër
+* 30 janar – 1 maj 2005: ''Gdhendjet Fetare të Rembrandtit'', Galeria Kombëtare e Artit
+* 30 janar – 1 maj 2005: ''Portretet e Fundit Fetare të Rembrandtit'', Galeria Kombëtare e Artit, e udhëtuar te Muzeu J. Paul Getty, Los Anxhelos, 7 qershor – 28 gusht 2005
+* 21 prill 2011 – 18 korrik 2011: ''Rembrandt dhe Fytyra e Jezusit'', Musée du Louvre
+* 22 shkurt 2012 – 17 qershor 2012: ''Aty ku Errësira Takon Dritën: Rembrandt dhe Bashkëkohësit e Tij – Epoka e Artë e Artit Hollandez'', Muzeu Sakıp Sabancı, Stamboll
+* 23 shkurt – 20 maj 2012: ''Rembrandt dhe Degas: Portreti i Artistit si i Ri'', Muzeu Metropolitan i Artit
+* 16 shtator 2013 – 14 nëntor 2013: ''Rembrandt: Gdhendësi i Përsosur'', Galeritë e Artit të Universitetit Syracuse
+* 12 shkurt 2015 – 17 maj 2015: ''Rembrandt i Vonë'', Rijksmuseum, Amsterdam
+* 16 shtator 2018 – 6 janar 2019: ''Rembrandt – Piktor si Gdhendës'', Muzeu i Artit i Denverit
+* 24 gusht 2019 – 1 dhjetor 2019: ''Leiden rreth 1630: Rembrandt Shfaqet'', Qendra e Artit Agnes Etherington, Kingston, Ontario
+* 4 tetor 2019 – 2 shkurt 2020: ''Drita e Rembrandtit'', Galeria Dulwich, Londër
+* 18 shkurt 2020 – 30 gusht 2020: ''Rembrandt dhe Portretizimi Amsterdamas, 1590–1670'', Museo Nacional Thyssen-Bornemisza, Madrid
+* 10 gusht 2020 – 1 nëntor 2020: ''Rembrandt i Ri'', Muzeu Ashmolean, Oksford
+* 18 nëntor 2023 – 19 shkurt 2024: ''Rembrandt: Gdhendje nga Muzeu Boijmans Van Beuningen'', Muzeu i Artit i Worcesterit, Worcester, Masaçusets
+
+== Pikturat ==
+=== Vetë-portretet ===
+{{Hatnote|Artikulli kryesor: {{ill|Vetë-portretet e Rembrandtit|en|Self-portraits by Rembrandt}}}}
+
+<gallery heights="150">
+File:Self-portrait_(1628-1629),_by_Rembrandt.jpg|Rembrandti i ri (rreth 1628), 22 vjeç, ushtrim pjesor në chiaroscuro, Rijksmuseum
+File:Rembrandt van Rijn 184.jpg|''Vetë-portret me gorxhet'' (rreth 1629), Germanisches Nationalmuseum, Nurnberg
+File:Selfportrait_(Rembrandt_Harmensz._van_Rijn)_-_Nationalmuseum_-_22374.tif|''Vetë-portret'' (1630), Nationalmuseum, Stokholm
+File:Rembrandt - Self-Portrait with Velvet Beret - Google Art Project.jpg|''Vetë-portret me beretë kadifeje dhe mantel me gëzof'' (1634)
+File:Rembrandt1640.png|''Vetë-portret në moshën 34-vjeçare'' (1640), Galeria Kombëtare, Londër
+File:Rembrandt Harmenszoon van Rijn - Large Self-Portrait - Google Art Project.jpg|''Vetë-portret'', vaj në pëlhurë (1652), Kunsthistorisches Museum, Vjenë
+File:Rembrandt Harmensz. van Rijn 132.jpg|''Vetë-portret'' (1655), vaj në arrëz, i cunguar në përmasa, Kunsthistorisches Museum, Vjenë
+File:Rembrant Self-Portrait, 1660.jpg|''Vetë-portret'' (1660)
+File:Rembrandt Harmensz. van Rijn 142.jpg|''Vetë-portret si Zeuksi duke Qeshur'' (rreth 1662), Wallraf-Richartz Museum, Këln
+File:Rembrandt Self-portrait (Kenwood).jpg|''Vetë-portret me Dy Rrathë'' (rreth 1665–69), Kenwood House, Londër
+File:Rembrandt Harmensz. van Rijn 134.jpg|''Vetë-portret'' (1669)
+File:Rembrandt Harmensz. van Rijn 135.jpg|''Vetë-portret në moshën 63-vjeçare'' (1669, viti i vdekjes), Galeria Kombëtare, Londër
+File:Rembrandt, Self-portrait, 1668–1669, Galleria degli Uffizi, Florence.jpg|Vetë-portret, 1668–69, Galleria degli Uffizi, Firence
+</gallery>
+
+=== Piktura të tjera të rëndësishme ===
+<gallery widths="170" heights="170">
+File:Rembrandt-Lapidation-Saint-Étienne-MBA-Lyon.jpg|''Gurëzimi i Shën Stefanit'' (1625), piktura e parë e Rembrandtit, përfunduar në moshën 19-vjeçare, Musée des Beaux-Arts de Lyon
+File:Rembrandt Two old men disputing 1628.jpg|''Dy pleq duke debatuar'' (1628), Galeria Kombëtare e Viktorias, Melburn
+File:Rembrandt The Artist in his studio.jpg|''Artisti në Studion e Tij'' (1628), Muzeu i Arteve të Bukura, Boston
+File:Rembrandt van Rijn - Borststuk van een oude man met bontmuts (1630).jpg|''Bust plaku me kapelë gëzofi'' (1630), pikturë e babait të Rembrandtit
+File:Rembrandt Harmensz. van Rijn - Jeremia treurend over de verwoesting van Jeruzalem - Google Art Project.jpg|''Jeremia duke Vajtuar Shkatërrimin e Jerusalemit'' (rreth 1630)
+File:Rembrandt Harmensz. van Rijn 011.jpg|''Andromeda'' (rreth 1630)
+File:Rembrandt - The Anatomy Lesson of Dr Nicolaes Tulp.jpg|''Mësimi i Anatomisë së Dr. Nicolaes Tulp'' (rreth 1632)
+File:Aeltje Uylenburgh, by Rembrandt.jpg|''Portreti i Aeltje Uylenburgh'' (1632), Muzeu i Arteve të Bukura, Boston
+File:Rembrandt, Portrait of Saskia van Uylenburgh (1612–1642), circa 1633–1634, Gemäldegalerie Alte Meister, Kassel.jpg|''Portreti i Saskia van Uylenburgh'' (rreth 1633–34)
+File:Harmensz van Rijn Rembrandt - Флора - Google Art Project.jpg|''Flora'' (1634), Muzeu Hermitage, Shën Petersburg
+File:Rembrandt Abraham en Isaac, 1634.jpg|''Flijimi i Isakut'' (1634), Muzeu Hermitage, Shën Petersburg
+File:Descent from the Cross (Rembrant).jpg|''Zbritja nga Kryqi'' (1634), Muzeu Hermitage, Shën Petersburg
+File:Rembrandt - The Abduction of Ganymede - Google Art Project - cropped.jpg|''Rrëmbimi i Ganimedit'' (1635), Staatliche Kunstsammlungen Dresden
+File:The Blinding of Samson (SM 1383).png|''Verbimi i Sansonit'' (1636), dhuratë e Rembrandtit për Huygensin
+File:Suzanna, Rembrandt van Rijn, 1636, Mauritshuis, The Hague.jpg|''Suzana'' (1636)
+File:Rembrandt-Belsazar.jpg|''Gostia e Belshazarit'' (rreth 1636–38)
+File:Rembrandt Harmensz. van Rijn 026.jpg|''Danaja'' (rreth 1636–43), Muzeu Hermitage, Shën Petersburg
+File:Rembrandt De aartsengel verlaat Tobias en zijn gezin. 1637.jpg|''Kryeengjëlli Rafael Duke Lënë Familjen e Tobias'' (1637), Luvri
+File:Landscape with the Good Samaritan - Rembrandt.jpg|''Peizazhi me Samaritanin e Mirë'' (1638), Muzeu Czartoryski, Krakov
+File:Rembrandt Scholar at the Lectern.jpg|''Studiuesi te Tryeza e Shkrimit'' (1641), Kështjella Mbretërore, Varshavë
+File:Rembrandt van Rijn 195.jpg|''Ëndrra e Jozefit'' (rreth 1645)
+File:Rembrandt - Susanna and the Elders - WGA19104.jpg|''Suzana dhe Pleqtë'' (1647)
+File:Rembrandt van Rijn - The Mill - Google Art Project.jpg|''Mulliri'' (1648)
+File:Rembrandt Harmenszoon van Rijn - An Old Man in Red.JPG|''Plak me të kuqe'' (rreth 1652–54), Muzeu Hermitage, Shën Petersburg
+File:Rembrandt Harmensz. van Rijn 013.jpg|''Aristoteli me një Bust të Homerit'' (1653), Muzeu Metropolitan i Artit, Nju Jork
+File:The Kitchen Maid (Rembrandt Harmensz. van Rijn) - Nationalmuseum - 17587.tif|''Vajza e Re te Dritarja'' (1654), Nationalmuseum, Stokholm
+File:JanSix.jpg|''Portreti i Jan Six'', pikturë e një miku të pasur të Rembrandtit (1654)
+File:Rembrandt Harmensz. van Rijn 016.jpg|''Bathsheba në Banjën e Saj'', me model Hendrickje (1654)
+File:A Woman Bathing in a Stream by Rembrandt.jpg|''Grua duke u Larë në një Përrua'', me model Hendrickje (1654)
+File:Pallas Athena by Rembrandt Museu Calouste Gulbenkian 1488.jpg|''Pallas Athina'' (rreth 1655)
+File:Rembrandt - Anatomische les van Dr. Jan Deijman.jpg|''Mësimi i Anatomisë së Dr. Deijman'' (1656)
+File:Rembrandt Harmensz. van Rijn 062.jpg|''Jakobi Duke Bekuar Bijtë e Jozefit'' (1656)
+File:Rembrandt - Portrait of Hendrickje Stoffels - Google Art Project.jpg|''Grua në Derë'' (1657–58)
+File:Rembrandt Harmensz van Rijn - Ahasuerus, Haman and Esther - Google Art Project.jpg|''Ahasueri, Hamani dhe Estera'' (1660), Muzeu Pushkin, Moskë
+File:Rembrandt - The Incredulity of St Thomas - WGA19095.jpg|''Mosbesimi i Shën Thomait'' (1660), Muzeu Pushkin, Moskë
+File:Rembrandt Harmensz. van Rijn (Dutch - St. Bartholomew) - Google Art Project.jpg|''Shën Bartolomeu'' (1661), Muzeu J. Paul Getty, Malibu
+File:Netherlands-4183 - The Syndics, Rembrandt.jpg|''Sindikët e Gildës së Prodhuesve të Pëlhurës'' (1662)
+File:The Conspiracy of the Batavians under Claudius Civilis (Rembrandt Harmensz. van Rijn) - Nationalmuseum - 17581.tif|''Komploti i Klaudius Civilis'' (e cunguar) (1661–62)
+File:Rembrandt Harmensz. van Rijn - Lucretia - 34.19 - Minneapolis Institute of Arts.jpg|''Lukrecia'' (1666), Instituti i Artit i Minneapolisit
+File:Rembrandt Harmensz van Rijn - Return of the Prodigal Son - Google Art Project.jpg|''Kthimi i Birit Plëngprishës'' (rreth 1669), Muzeu Hermitage, Shën Petersburg
+</gallery>
+
+== Vizatime dhe gdhendje ==
+<gallery>
+File:Rembrandt van Rijn - Zelfportret.jpg|''Vetë-portret'', rreth 1628–29, penë e furçë me bojë në letër
+File:B320 Rembrandt.jpg|''Vetë-portret me kapelë, me sy të hapur gjerë'', 1630, gdhendje dhe burin
+File:Rembrandt Seated Old Man.jpg|''Plak ulur'' (rreth 1630), shkumës e kuqe dhe e zezë në letër, Nationalmuseum, Stokholm
+File:Rembrandt Susanna Zeichnung.jpg|''Suzana dhe pleqtë'', 1634, vizatim me shkumës të kuqe (sanguine) në letër, Kupferstichkabinett, Berlin
+File:Self-portrait with Saskia.jpg|''Vetë-portret me Saskian'', 1636, gdhendje
+File:Rembrandt Harmenszoon van Rijn - An Elephant, 1637 - Google Art Project.jpg|''Një elefant'', 1637, vizatim me shkumës të zi në letër, Albertina, Austri
+File:Self portrait leaning on si 373x470.jpg|''Vetë-portret i mbështetur në një pragdritare'', 1639, gdhendje
+File:Jesus und Ehebrecherin.jpg|''Krishti dhe gruaja e kapur në kurorëshkelje'', rreth 1639–41, vizatim me bojë, Luvri
+File:Rembrandt Beggars I.jpg|''Lypësit I'', rreth 1640–42, bojë në letër, Biblioteka e Universitetit të Varshavës
+File:Rembrandt - The windmill - Google Art Project.jpg|''Mulliri me erë'', 1641, gdhendje
+File:Rembrandt 254.jpg|''Diemerdijk-u te Houtewael'' (pranë Amsterdamit), 1648–49, penë me bojë kafe, larje kafe, Museum Boijmans Van Beuningen
+File:Rembrandt Harmensz. van Rijn - Christ Crucified Between the Two Thieves ("The Three Crosses") - Google Art Project.jpg|''Tre Kryqet'', 1653, gdhendje drypoint, gjendja III nga V
+File:Virgin and child with cat.jpg|''Virgjëresha dhe Fëmija me Mace'', 1654, pllakë origjinale bakri e gdhendjes (sipër) dhe shembulli i stampës (poshtë), Muzeu Victoria and Albert
+File:Rembrandt Christus aan het volk getoond.jpg|''Krishti i paraqitur para popullit'', gdhendje drypoint, 1655, gjendja I nga VIII
+File:Rembrandt Two Jews in Discussion, Walking.jpg|''Dy pleq në bisedë / Dy hebrenj duke diskutuar, duke ecur'', vit i panjohur, shkumës i zi dhe bojë kafe në letër, Teylers Museum
+File:Rembrandt A Child Being Taught to Walk.jpg|''Fëmijë duke mësuar të ecë'' (rreth 1635)
+File:Amsterdam - Late Rembrandt Exposition 2015 - Young Woman Sleeping 1654 B (cropped).jpg|''Grua e re duke fjetur'' (rreth 1654), shembull i vizatimit kaligrafik të Rembrandtit
+</gallery>
+
+== Vepra rreth Rembrandtit ==
+{{Hatnote|Artikulli kryesor: {{ill|Lista e veprave rreth Rembrandtit|en|List of works about Rembrandt}}}}
+[[File:Rembrandt Girl in a Picture Frame.jpg|thumb|upright=1|''Vajza në Kornizë'' (1641), Kështjella Mbretërore, Varshavë]]
+[[File:Rembrandt Harmensz. van Rijn 049.jpg|thumb|upright=1|''Ungjilltari Mateu dhe Engjëlli'' (1661)]]
+
+=== Vepra letrare (poezi dhe prozë) ===
+* ''Pikturës së Rembrandtit'', poemë ruse nga Mikhail Lermontov, 1830
+* ''Gaspard de la Nuit: Fantaisies à la manière de Rembrandt et de Callot'', seri poezish frëngjisht nga Aloysius Bertrand, 1842
+* ''Picture This'', roman nga Joseph Heller, 1988
+* ''Moi, la Putain de Rembrandt'', roman frëngjisht nga Sylvie Matton, 1998
+* ''Van Rijn'', roman nga Sarah Emily Miano, 2006
+* ''I Am Rembrandt's Daughter'', roman nga Lynn Cullen, 2007
+* ''The Rembrandt Affair'', roman nga Daniel Silva, 2011
+* ''The Anatomy Lesson'', roman nga Nina Siegal, 2014
+* ''Rembrandt's Mirror'', roman nga Kim Devereux, 2015
+
+=== Muzikë ===
+* Kënga "Dinner with Gershwin" e Donna Summer përmban vargjet "I want to watch Rembrandt sketch."
+* Kënga "Duchess" e Scott Walker përfshin vargjet "It's your bicycle bells / and your Rembrandt swells"
+* Kënga "Rembrand... Run it Back" në albumin ''Revenge of the Dreamers III'' të Dreamville
+
+=== Filma ===
+* ''The Stolen Rembrandt'', film i vitit 1914, regjisor Leo D. Maloney dhe J. P. McGowan
+* ''Die Tragödie eines Großen'', film gjermanisht i vitit 1920, regjisor Arthur Günsburg
+* ''The Missing Rembrandt'', film i vitit 1932, regjisor Leslie S. Hiscott
+* ''Rembrandt'', film i vitit 1936, regjisor Alexander Korda, me Charles Laughton
+* ''Rembrandt'', film i vitit 1940
+* ''Rembrandt in de schuilkelder'', film hollandisht i vitit 1941, regjisor Gerard Rutten
+* ''Rembrandt'', film gjermanisht i vitit 1942, regjisor Hans Steinhoff
+* ''Rembrandt: A Self-Portrait'', film dokumentar i vitit 1954, nga Morrie Roizman
+* ''Rembrandt, schilder van de mens'', film hollandisht i vitit 1957, regjisor Bert Haanstra
+* ''Rembrandt fecit 1669'', film i vitit 1977, regjisor Jos Stelling
+* ''Rembrandt: The Public Eye and the Private Gaze'', film dokumentar i vitit 1992, nga Simon Schama
+* ''Rembrandt'', film i vitit 1999, regjisor Charles Matton
+* ''Rembrandt: Fathers & Sons'', film i vitit 1999, regjisor David Devine
+* ''Stealing Rembrandt'', film i vitit 2003, regjisor Jannik Johansen dhe Anders Thomas Jensen
+* ''Simon Schama's Power of Art: Rembrandt'', seri filmash dokumentarë të BBC-së, 2006
+* ''Nightwatching'', film i vitit 2007, regjisor Peter Greenaway
+* ''Rembrandt's J'Accuse'', film dokumentar i vitit 2008, nga Peter Greenaway
+* ''Rembrandt en ik'', film hollandisht i vitit 2011, regjisor Marleen Gorris
+* ''Schama on Rembrandt: Masterpieces of the Late Years'', film dokumentar i vitit 2014, nga Simon Schama
+
+== Shënime ==
+{{notelist}}
+
+== Referime ==
+{{reflist}}
+
+=== Burimet e cituara ===
+{{refbegin|30em}}
+* Ackley, Clifford, et al., ''Rembrandt's Journey'', Museum of Fine Arts, Boston, 2004. {{ISBN|0-87846-677-0}}
+* Adams, Laurie Schneider, ''Art Across Time. Volume II'', McGraw-Hill College, 1999.
+* Bomford, David, et al., ''Art in the Making: Rembrandt'', New edition, Yale University Press, 2006.
+* Bull, Duncan, et al., ''Rembrandt-Caravaggio'', Rijksmuseum, 2006.
+* Buvelot, Quentin; White, Christopher (red.), ''Rembrandt by himself'', 1999, National Gallery.
+* Clark, Kenneth, ''Civilisation: A Personal View'', Harper & Row, 1969. {{ISBN|978-0-06-010801-4}}
+* Clark, Kenneth, ''An Introduction to Rembrandt'', John Murray/Readers Union, Londër, 1978.
+* Clough, Shepard B., ''European History in a World Perspective'', D.C. Heath and Company, 1975. {{ISBN|978-0-669-85555-5}}
+* Driessen, Christoph, ''Rembrandts vrouwen'', Bert Bakker, Amsterdam, 2012. {{ISBN|978-90-351-3690-8}}
+* Durham, John I., ''Biblical Rembrandt: Human Painter in a Landscape of Faith'', Mercer University Press, 2004. {{ISBN|978-0-86554-886-2}}
+* Gombrich, E. H., ''The Story of Art'', Phaidon, 1995. {{ISBN|0-7148-3355-X}}
+* Hinterding, Eric; Luijten, Ger; Royalton-Kisch, Martin, ''Rembrandt the Printmaker'', British Museum Press/Rijksmuseum, Amsterdam, 2000. {{ISBN|071412625X}}
+* Hughes, Robert, "The God of Realism", ''The New York Review of Books'', vëll. 53, nr. 6, 6 prill 2006.
+* Schwartz, Gary (red.), ''The Complete Etchings of Rembrandt Reproduced in Original Size'', Dover, Nju Jork, 1988. {{ISBN|0-486-28181-7}}
+* Slive, Seymour (red.), ''Dutch Painting, 1600–1800'', Yale University Press, 1995. {{ISBN|0-300-07451-4}}
+* van de Wetering, Ernst, në ''Rembrandt by himself'', National Gallery, Londër/Mauritshuis, Haga, 1999. {{ISBN|1-85709-270-8}}
+* van de Wetering, Ernst, ''Rembrandt: The Painter at Work'', Amsterdam University Press, 2000. {{ISBN|0-520-22668-2}}
+* White, Christopher, ''The Late Etchings of Rembrandt'', British Museum/Lund Humphries, Londër, 1999. {{ISBN|978-90-400-9315-9}}
+{{refend}}
+
+== Lidhje të jashtme ==
+{{commons|Rembrandt}}
+{{Wikiquote|Rembrandt}}
+* [http://www.nationalgallery.org.uk/artists/rembrandt Biografi e artistit Rembrandt Harmensz. van Rijn nga Galeria Kombëtare, Londër]
+* [http://www.pubhist.com/person/1/rembrandt Vepra dhe literaturë mbi Rembrandtin te Pubhist.com]
+* [http://www.rembrandtcatalogue.net Vizatimet e Rembrandtit: rishikim i katalogut të Otto Benesch nga Martin Royalton-Kisch]
+* [http://www.rembrandthuis.nl/ Shtëpia e Rembrandtit në Amsterdam] – faqja e Muzeut Shtëpia e Rembrandtit
+* [http://colourlex.com/project/resources-rembrandt/ Rembrandt van Rijn, Burime të Përgjithshme]
+* [http://www.rembrandtdatabase.org/ Baza e të Dhënave Rembrandt] – të dhëna kërkimore mbi pikturat
+
+{{Authority control}}
+
+[[Kategoria:Lindje 1606]]
+[[Kategoria:Vdekje 1669]]
+[[Kategoria:Piktorë holandezë]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Rembrandt|26 gusht 2026|1371431908}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Rembrandt, versioni i datës 26 gusht 2026 (revizioni 1371431908)
+-->
