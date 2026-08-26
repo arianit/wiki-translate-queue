@@ -1,0 +1,380 @@
+{{Short description|Fizikant gjerman (1858–1947)}}
+{{Use dmy dates|date=shkurt 2021}}
+{{Infobox scientist
+| name              = Max Planck
+| image             = Max Planck by Hugo Erfurth 1938cr - restoration1.jpg
+| caption           = Planck në 1938
+| birth_name        = Max Karl Ernst Ludwig Planck
+| birth_date        = {{Birth date|1858|04|23|df=yes}}
+| birth_place       = [[Kieli]], Dukati i Holstein-it
+| death_date        = {{Death date and age|1947|10|04|1858|04|23|df=yes}}
+| death_place       = [[Göttingen]], Gjermani
+| resting_place     = Stadtfriedhof, Göttingen
+| education         = {{Plainlist|
+* Universiteti Ludwig Maximilian i Mynihut (diplomuar 1879)
+* Universiteti Friedrich Wilhelm i Berlinit}}
+| known_for         = {{Plainlist|
+* Themelues i {{ill|teorisë së vjetër kuantike|en|Old quantum theory}}
+* {{ill|Konstantja e Plankut|en|Planck constant}}
+* {{ill|Ligji i Plankut|en|Planck's law}}
+* {{ill|Postulati i Plankut|en|Planck postulate}}
+* {{ill|Njësitë e Plankut|en|Planck units}}}}
+| spouses           = {{Plainlist|
+* {{Marriage|Marie Merck|1887|1909|end=died}}
+* {{Marriage|Marga von Hösslin|1911}}}}
+| children          = 5, përfshirë [[Erwin Planck|Erwinin]]
+| awards            = {{Plainlist|
+* [[Çmimi Nobel për Fizikë]] (1918)
+* Medalja Franklin (1927)
+* Medalja Lorentz (1927)
+* Medalja Copley (1929)
+* Medalja Max Planck (1929)
+* Çmimi Gëte (1945)}}
+| fields            = [[Fizika]]
+| work_institutions = {{Plainlist|
+* Universiteti Ludwig Maximilian i Mynihut
+* [[Universiteti i Kielit]]
+* Universiteti Friedrich Wilhelm i Berlinit}}
+| thesis_title      = Über den zweiten Hauptsatz der mechanischen Wärmetheorie
+| thesis_url        = https://edoc.hu-berlin.de/handle/18452/734
+| thesis_year       = 1879
+| doctoral_advisor  = Alexander von Brill<ref name=MGP>{{Cite web|title=Max Planck|url=https://www.genealogy.math.ndsu.nodak.edu/id.php?id=20750|work=Mathematics Genealogy Project|publisher=North Dakota State University|access-date=2025-05-31|language=en}}</ref>
+| academic_advisors = {{Plainlist|
+* Hermann von Helmholtz
+* Philipp von Jolly
+* [[Gustav Robert Kirchhoff|Gustav Kirchhoff]]
+* Karl Weierstrass}}
+| signature         = Max Planck signature.svg
+}}
+
+'''Max Karl Ernst Ludwig Planck''' ({{IPA|de|ˈmaks ˈplaŋk|lang}}; 23 prill 1858 – 4 tetor 1947)<ref name=NYTObit>{{cite news|title=Max Planck Dead; Noted Physicist, 89|date=1947-10-05|work=[[The New York Times]]|url=https://archive.nytimes.com/www.nytimes.com/learning/general/onthisday/bday/0423.html|language=en}}</ref> ishte fizikant teorik gjerman. Ai u nderua me [[Çmimi Nobel për Fizikë|Çmimin Nobel për Fizikë]] të vitit 1918 "për shërbimet e dhëna përparimit të fizikës nëpërmjet zbulimit të kuanteve të energjisë".<ref name=N1918>{{cite web|title=The Nobel Prize in Physics 1918|publisher=[[Nobel Foundation]]|url=http://nobelprize.org/nobel_prizes/physics/laureates/1918/index.html|access-date=2019-01-09|archive-url=https://web.archive.org/web/20081007223546/http://nobelprize.org/nobel_prizes/physics/laureates/1918/index.html|archive-date=2008-10-07|url-status=live|language=en}}</ref>
+
+Planck dha kontribute të shumta në fizikën teorike, kryesisht si themeluesi i {{ill|teorisë kuantike|en|Quantum mechanics}} dhe një nga themeluesit e {{ill|fizikës moderne|en|Modern physics}}, e cila revolucionarizoi kuptimin e proceseve atomike dhe nënatomike. Ai njihet për {{ill|konstanten e Plankut|en|Planck constant}}, <math>h</math>, me rëndësi themelore për fizikën kuantike, të cilën e përdori për të nxjerrë një grup {{ill|njësish|en|Unit of measurement}}, të quajtura sot {{ill|njësitë e Plankut|en|Planck units}}, të shprehura në funksion të konstanteve fizike. Relacioni i Plankut, {{mvar|E}} = <math>h</math>{{mvar|ν}}, thotë se energjia e një fotoni është në përpjesëtim të drejtë me frekuencën e tij.
+
+Planck ishte dy herë president i [[Shoqëria Kaiser Wilhelm|Shoqërisë Kaiser Wilhelm]]. Në vitin 1948 ajo u riemërua si Shoqata Max-Planck, e cila sot përfshin 83 institucione që përfaqësojnë një gamë të gjerë disiplinash shkencore.
+
+== Fëmijëria dhe arsimimi ==
+Max Karl Ernst Ludwig Planck lindi më 23 prill 1858 në [[Kieli|Kiel]], djali i Johann Julius Wilhelm Planck-ut dhe gruas së tij të dytë, Emma Patzig. Ai u pagëzua me emrin ''Karl Ernst Ludwig Marx Planck''; nga emrat e tij, ''Marx'' ishte caktuar si "emri i thirrjes". Megjithatë, në moshën dhjetë vjeç ai filloi të nënshkruante me emrin ''Max'' dhe e përdori këtë emër për pjesën tjetër të jetës.
+
+Planck vinte nga një familje tradicionale, intelektuale. Stërgjyshi dhe gjyshi i tij nga ana e babait ishin të dy profesorë teologjie në Universitetin e Gëtingenit; babai i tij ishte profesor drejtësie në Universitetin e Kielit dhe në Universitetin Ludwig Maximilian të Mynihut. Njëri prej xhaxhallarëve të tij ishte gjithashtu gjyqtar.
+
+Planck ishte fëmija i gjashtë në familje, megjithëse dy nga vëllezërit e motrat e tij ishin nga martesa e parë e babait. Lufta ishte diçka e zakonshme gjatë fëmijërisë së Planck-ut dhe një ndër kujtimet e tij më të hershme ishte marshimi i trupave prusiane dhe austriake nëpër Kiel gjatë Luftës së Dytë të Schleswig-ut në vitin 1864.
+
+Në vitin 1867, familja u shpërngul në Mynih, ku Planck u regjistrua në gjimnazin Maximiliansgymnasium. Aty aftësitë e tij matematikore u zbuluan herët dhe më vonë ai ra nën kujdesin e Hermann Müller-it, një matematikan që u interesua për të riun dhe i mësoi astronomi e mekanikë, përveç matematikës. Ishte nga Müller-i që Planck mësoi për herë të parë ligjin e ruajtjes së energjisë. Kështu Planck erdhi për herë të parë në kontakt me fushën e fizikës. Planck u diplomua herët, në moshën 17 vjeç.
+
+Planck kishte talent në muzikë; mori mësime këndimi dhe luante piano, organo dhe çelo, si dhe komponoi këngë e opera. Sipas ''Encyclopædia Britannica'', "ai zotëronte dhuratën e [[dëgjimi absolut|dëgjimit absolut]] dhe ishte një pianist i shkëlqyer që gjente çdo ditë qetësi dhe kënaqësi te tastiera, duke shijuar veçanërisht veprat e Shubertit dhe Bramsit".<ref name=Britannica>{{cite web|title=Max Planck|url=https://www.britannica.com/biography/Max-Planck/Later-life|work=Encyclopædia Britannica|language=en}}</ref><ref name=NYTObit/>
+
+Në vitin 1874, Planck u regjistrua në Universitetin Ludwig Maximilian të Mynihut. Nën mbikëqyrjen e profesorit Philipp von Jolly, Planck kreu eksperimentet e vetme të karrierës së tij shkencore, duke studiuar difuzionin e hidrogjenit nëpër platin të nxehtë, por më pas kaloi te fizika teorike. Jolly e këshilloi Planck-un kundër fizikës teorike; Planck kujton se në vitin 1878 Jolly argumentonte se fizika ishte pothuajse e përfunduar, duke qenë një "shkencë shumë e zhvilluar, pothuajse plotësisht e pjekur, e cila, përmes arritjes kurorëzuese të zbulimit të parimit të ruajtjes së energjisë, do të marrë me siguri së shpejti formën e saj përfundimtare".
+
+Në vitin 1877, Planck shkoi në Universitetin Friedrich Wilhelm të Berlinit për një vit studimesh me fizikantët Hermann von Helmholtz dhe Gustav Kirchhoff, si dhe me matematikanin Karl Weierstrass. Ai shkroi se Helmholtz-i nuk ishte kurrë plotësisht i përgatitur, fliste ngadalë, gabonte pafundësisht në llogaritje dhe i mërzitte dëgjuesit, ndërsa Kirchhoff-i mbante leksione të përgatitura me kujdes, por të thata dhe monotone. Së shpejti ai u bë mik i ngushtë me Helmholtz-in. Ndërsa ishte atje, ndoqi një program vetëstudimi mbi shkrimet e Rudolf Clausius-it, gjë që e drejtoi drejt zgjedhjes së termodinamikës si fushë të tij.
+
+[[Skeda:Max Planck 1878.GIF|majtas|miniaturë|Planck në 1878]]
+
+Në tetor 1878, Planck kaloi provimet kualifikuese dhe në shkurt 1879 mbrojti tezën e tij ''Über den zweiten Hauptsatz der mechanischen Wärmetheorie'' (''Mbi ligjin e dytë të teorisë mekanike të nxehtësisë''). Për një kohë të shkurtër dha mësim matematikë dhe fizikë në shkollën e tij të mëparshme në Mynih.
+
+Deri në vitin 1880, Planck kishte marrë dy gradat më të larta akademike të ofruara në Evropë. E para ishte grada e doktoraturës, pas përfundimit të punimit të tij mbi teorinë e termodinamikës. Më pas paraqiti tezën e habilitimit, të titulluar ''Gleichgewichtszustände isotroper Körper in verschiedenen Temperaturen'' (''Gjendjet e ekuilibrit të trupave izotropikë në temperatura të ndryshme'').
+
+== Karriera dhe kërkimi ==
+Në vitin 1880, Planck u bë ''Privatdozent'' (lektor pa pagë) në Universitetin Ludwig Maximilian të Mynihut, duke pritur derisa iu ofrua një pozicion akademik. Megjithëse fillimisht u injorua nga komuniteti akademik, ai vazhdoi punën e tij në fushën e teorisë së nxehtësisë dhe zbuloi, njëra pas tjetrës, të njëjtat formalizma termodinamike si Gibbs-i, pa e ditur këtë. Idetë e Clausius-it mbi entropinë zinin një rol qendror në punën e tij.
+
+Në prill 1885, Planck u emërua profesor i asocuar i Fizikës Teorike në Universitetin e Kielit. Vijoi punë e mëtejshme mbi entropinë dhe trajtimin e saj, veçanërisht siç zbatohej në kiminë fizike. Ai botoi ''Traktatin mbi Termodinamikën'' në vitin 1897.<ref>{{cite book|last=Planck|first=Max|title=Vorlesungen über Thermodynamik|year=1897|publisher=Verlag Von Veit & Company|location=Leipzig|language=de}}</ref> Propozoi një bazë termodinamike për teorinë e Svante Arrhenius-it mbi disociimin elektrolitik.
+
+Në vitin 1889, Planck u emërua pasardhësi i Kirchhoff-it në Universitetin Friedrich Wilhelm të Berlinit — me sa duket falë ndërhyrjes së Helmholtz-it — dhe deri në vitin 1892 u bë Profesor i Plotë. Në vitin 1907, iu ofrua pozicioni i Ludwig Boltzmann-it në Vjenë, por e refuzoi për të mbetur në Berlin. Gjatë vitit 1909, si profesor në Universitetin Friedrich Wilhelm të Berlinit, u ftua të bëhej lektor i Fizikës Teorike në ciklin e leksioneve Ernest Kempton Adams në Universitetin Columbia në Nju Jork. Ai u tërhoq nga Berlini më 10 janar 1926, dhe u pasua nga Erwin Schrödinger.
+
+=== Profesor në Universitetin Friedrich Wilhelm të Berlinit ===
+Si profesor në Universitetin Friedrich Wilhelm të Berlinit, Planck u bë anëtar i Shoqërisë Fizike lokale. Më vonë ai shkroi për këtë periudhë: "Në ato ditë isha në thelb fizikanti i vetëm teorik atje, prandaj gjërat nuk ishin aq të lehta për mua, sepse fillova të përmendja entropinë, gjë që nuk ishte aspak në modë, pasi konsiderohej si një fantazmë matematikore". Falë iniciativës së tij, shoqëritë e ndryshme fizike lokale të Gjermanisë u bashkuan në vitin 1898 për të formuar Shoqërinë Fizike Gjermane (Deutsche Physikalische Gesellschaft, DPG); nga viti 1905 deri në 1909 Planck ishte president i saj.
+
+[[Skeda:Max Planck Wirkungsquantums 20050815.jpg|miniaturë|Pllakë përkujtimore në Universitetin Humboldt të Berlinit: "Max Planck, zbuluesi i kuantit elementar të veprimit ''h'', dha mësim në këtë ndërtesë nga viti 1889 deri në 1928."]]
+
+Planck filloi një cikël gjashtësemestral leksionesh mbi fizikën teorike, "të thatë, disi jopersonale", sipas Lise Meitner-it, "pa përdorur asnjë shënim, pa gabuar kurrë, pa u lëkundur kurrë; lektori më i mirë që kam dëgjuar ndonjëherë", sipas një pjesëmarrësi anglez, James R. Partington, i cili vijon: "Kishte gjithmonë shumë vetë të mbledhur në këmbë nëpër sallë. Meqë salla e leksioneve ishte e ngrohtë dhe mjaft e mbyllur, disa nga dëgjuesit herë pas here binin në dysheme, por kjo nuk e prishte leksionin." Planck nuk krijoi një "shkollë" të mirëfilltë; numri i studentëve të tij të doktoraturës ishte vetëm rreth 20, ndër ta:
+* 1897 Max Abraham (1875–1922)
+* 1903 Max von Laue (1879–1960)
+* 1904 Moritz Schlick (1882–1936)
+* 1906 Walther Meissner (1882–1974)
+* 1907 Fritz Reiche (1883–1960)
+* 1912 Walter Schottky (1886–1976)
+* 1914 Walther Bothe (1891–1957)
+
+=== Entropia ===
+{{ill|Termodinamika|en|Thermodynamics}}, e njohur gjithashtu si "teoria mekanike e nxehtësisë" në fund të shekullit të 19-të, ishte shfaqur në fillim të këtij shekulli nga një përpjekje për të kuptuar funksionimin e makinave me avull dhe për të përmirësuar eficiencën e tyre. Në vitet 1840, disa studiues zbuluan dhe formuluan në mënyrë të pavarur ligjin e ruajtjes së energjisë, i njohur sot si {{ill|ligji i parë i termodinamikës|en|First law of thermodynamics}}. Në vitin 1850, Rudolf Clausius formuloi të ashtuquajturin {{ill|ligj i dytë i termodinamikës|en|Second law of thermodynamics}}, sipas të cilit një transferim vullnetar (ose spontan) energjie është i mundur vetëm nga një trup më i ngrohtë drejt një trupi më të ftohtë, por jo anasjelltas. Në Angli, në të njëjtën kohë, William Thomson arriti në të njëjtin përfundim.
+
+Clausius e përgjithësoi formulimin e tij gjithnjë e më shumë dhe në vitin 1865 doli me një formulim të ri. Për këtë qëllim, ai futi konceptin e {{ill|entropisë|en|Entropy}}, të cilin e përkufizoi si një masë të furnizimit të kthyeshëm të nxehtësisë në lidhje me temperaturën absolute.
+
+Formulimi i ri i ligjit të dytë, i cili mbetet i vlefshëm edhe sot, ishte: "Entropia mund të krijohet, por kurrë të shkatërrohet". Clausius, veprën e të cilit Planck e lexoi si student i ri gjatë qëndrimit të tij në Berlin, e zbatoi me sukses këtë ligj të ri natyror në proceset mekanike, termoelektrike dhe kimike.
+
+Në tezën e tij të vitit 1879, Planck përmblodhi shkrimet e Clausius-it, duke vënë në dukje kontradikta dhe pasaktësi në formulimin e tyre dhe më pas duke i qartësuar. Për më tepër, ai përgjithësoi vlefshmërinë e ligjit të dytë për të gjitha proceset në natyrë; Clausius e kishte kufizuar zbatimin e tij në proceset e kthyeshme dhe proceset termike. Gjithashtu, Planck u mor intensivisht me konceptin e ri të entropisë dhe theksoi se entropia nuk është vetëm një veti e një sistemi fizik, por njëkohësisht një masë e pakthyeshmërisë së një procesi: nëse gjenerohet entropi në një proces, ai është i pakthyeshëm, pasi entropia nuk mund të shkatërrohet sipas ligjit të dytë. Në proceset e kthyeshme, entropia mbetet konstante. Ai e paraqiti këtë fakt në detaje në vitin 1887, në një seri traktatesh të titulluara "Mbi Parimin e Rritjes së Entropisë".
+
+Në studimin e tij mbi konceptin e entropisë, Planck nuk ndoqi interpretimin molekular dhe probabilistik që mbizotëronte në atë kohë, pasi ky i fundit nuk jepte prova absolute universaliteti. Në vend të kësaj, ai ndoqi një qasje fenomenologjike dhe ishte gjithashtu skeptik ndaj atomizmit. Edhe pse më vonë e braktisi këtë qëndrim gjatë punës së tij mbi ligjin e rrezatimit, punimet e tij të hershme tregojnë në mënyrë mbresëlënëse mundësitë e termodinamikës në zgjidhjen e problemeve konkrete fiziko-kimike.
+
+Kuptimi që Planck kishte për entropinë përfshinte edhe njohjen se maksimumi i entropisë përkon me gjendjen e ekuilibrit. Përfundimi shoqërues, se njohja e entropisë mundëson nxjerrjen e të gjitha ligjeve të gjendjeve të ekuilibrit termodinamik, përputhet me kuptimin modern të gjendjeve të tilla. Planck zgjodhi kështu proceset e ekuilibrit si fokus të kërkimit të tij dhe, në bazë të tezës së tij të habilitimit, hulumtoi bashkekzistencën e gjendjeve agregate dhe ekuilibrin e reaksioneve të gazit, për shembull. Ky punim, në kufirin e termodinamikës kimike, mori gjithashtu vëmendje të madhe për shkak të zgjerimit të shpejtë të punës kimike në atë kohë.
+
+Në mënyrë të pavarur nga Planck, Josiah Willard Gibbs kishte zbuluar gjithashtu pothuajse të gjitha njohuritë që Planck fitoi mbi vetitë e ekuilibrave fiziko-kimikë dhe i botoi ato duke filluar nga viti 1876. Planck nuk ishte në dijeni të këtyre eseve, të cilat nuk u shfaqën në gjermanisht deri në vitin 1892. Sidoqoftë, të dy shkencëtarët iu qasën temës në mënyra të ndryshme: ndërsa Planck merrej me proceset e pakthyeshme, Gibbs shikonte ekuilibrat. Kjo qasje arriti më në fund të mbizotëronte për shkak të thjeshtësisë së saj, por qasjes së Planck-ut i atribuohet universaliteti më i madh.
+
+=== Elektrolitet dhe tretësirat ===
+Përveç kërkimit të tij mbi entropinë, Planck ia kushtoi dekadën e parë të karrierës së tij shkencore studimit të proceseve elektrike në tretësira. Gjatë kësaj periudhe, ai arriti të nxirrte teorikisht marrëdhënien midis përcjellshmërisë dhe hollimit të një tretësire, duke vendosur kështu themelet e teorisë moderne të elektroliteve. Ai gjithashtu ishte në gjendje të jepte një nxjerrje teorike për kushtet që rregullojnë ndryshimet në pikat e ngrirjes dhe të vlimit të tretësirave të holluara, dukuri të cilat ishin zbuluar në mënyrë empirike nga François-Marie Raoult dhe Jacobus Henricus van 't Hoff në vitin 1886.
+
+=== Rrezatimi i trupit të zi ===
+[[Skeda:Max Planck 1901.GIF|miniaturë|upright=0.8|Planck në 1901]]
+
+Në vitin 1894, Planck e ktheu vëmendjen e tij te problemi i {{ill|rrezatimit të trupit të zi|en|Black-body radiation}}. Problemi ishte shtruar nga Kirchhoff-i në vitin 1859: "si varet intensiteti i rrezatimit elektromagnetik të lëshuar nga një trup i zi (një përthithës i përsosur, i njohur gjithashtu si rezonator zgavre) nga frekuenca e rrezatimit (pra, ngjyra e dritës) dhe temperatura e trupit?". Kjo pyetje ishte eksploruar në mënyrë eksperimentale, por asnjë trajtim teorik nuk përputhej me provat e vëzhguara eksperimentalisht. Wilhelm Wien propozoi ligjin e Wien-it, i cili parashikonte saktë sjelljen në frekuenca të larta, por dështonte në frekuenca të ulëta. {{ill|Ligji Rayleigh–Jeans|en|Rayleigh–Jeans law}}, një qasje tjetër ndaj problemit, përputhej me rezultatet eksperimentale në frekuenca të ulëta, por krijonte atë që më vonë u quajt "{{ill|katastrofa ultravjollcë|en|Ultraviolet catastrophe}}" në frekuenca të larta, siç parashikohej nga fizika klasike.
+
+Zgjidhja e parë e propozuar nga Planck për problemin, në vitin 1899, rrodhi nga ajo që ai e quajti "parimi i çrregullimit elementar", i cili i mundësoi të nxirrte ligjin e Wien-it nga një sërë supozimesh mbi entropinë e një osciluesi ideal, duke krijuar atë që u quajt ligji Wien–Planck. Së shpejti, megjithatë, u konstatua se provat eksperimentale nuk e konfirmonin fare ligjin e ri, për zhgënjimin e Planck-ut. Ai e rishikoi qasjen e tij dhe tani nxori versionin e parë të ligjit të famshëm të Plankut për rrezatimin e trupit të zi, i cili përshkruante qartë spektrin e vëzhguar eksperimentalisht të trupit të zi. Ai u propozua për herë të parë në një mbledhje të DPG-së më 19 tetor 1900 dhe u botua në vitin 1901. (Kjo nxjerrje e parë nuk përfshinte kuantizimin e energjisë dhe nuk përdorte mekanikën statistikore, ndaj së cilës ai kishte një neveri.) Në nëntor 1900, Planck e rishikoi këtë version të parë, duke u mbështetur tani në interpretimin statistikor të Boltzmann-it të ligjit të dytë të termodinamikës, si një mënyrë për të fituar një kuptim më themelor të parimeve pas ligjit të tij të rrezatimit. Planck ishte thellësisht i dyshimtë ndaj implikimeve filozofike dhe fizike të një interpretimi të tillë të qasjes së Boltzmann-it; kështu, kthimi i tij drejt tyre ishte, siç e tha më vonë, "një akt dëshpërimi ... isha gati të sakrifikoja çdo bindje të mëparshme timen mbi fizikën".
+
+Supozimi qendror pas nxjerrjes së tij të re, i paraqitur para DPG-së më 14 dhjetor 1900, ishte supozimi, i njohur sot si postulati i Plankut, se energjia elektromagnetike mund të lëshohej vetëm në formë të kuantizuar, me fjalë të tjera, energjia mund të ishte vetëm një shumëfish i një njësie elementare:
+: <math>E = h\nu</math>
+ku {{math|''h''}} është konstantja e Plankut, e njohur gjithashtu si kuanti i veprimit i Plankut (i futur tashmë në vitin 1899), dhe {{math|''ν''}} është frekuenca e rrezatimit. Vini re se njësitë elementare të energjisë të diskutuara këtu përfaqësohen nga {{math|''hν''}} dhe jo thjesht nga {{math|''ν''}}. Fizikanët i quajnë tani këto kuante fotone, dhe një foton me frekuencë {{math|''ν''}} do të ketë energjinë e tij specifike dhe unike. Energjia totale në atë frekuencë është atëherë e barabartë me {{math|''hν''}} shumëzuar me numrin e fotoneve në atë frekuencë. Ai shpjegoi: "Nxehtësia rrezatuese nuk është një rrjedhë e vazhdueshme dhe pafundësisht e ndashme. ... Ajo duhet të përkufizohet si një masë e ndërprerë, e përbërë nga njësi që janë të gjitha të ngjashme me njëra-tjetrën." Ai i quajti kuantet "qindarkat e botës atomike".
+
+[[Skeda:Max Planck Nobel 1918.jpg|miniaturë|majtas|Planck në 1918, viti kur u nderua me Çmimin Nobel për Fizikë për punën e tij mbi teorinë kuantike.]]
+
+Fillimisht Planck e konsideroi kuantizimin vetëm si "një supozim thjesht formal ... në fakt nuk mendova shumë për të ..."; sot, ky supozim, i papajtueshëm me fizikën klasike, konsiderohet si lindja e fizikës kuantike dhe arritja më e madhe intelektuale e karrierës së Planck-ut. (Boltzmann-i kishte diskutuar në një punim teorik të vitit 1877 mundësinë që gjendjet e energjisë së një sistemi fizik të ishin diskrete). Zbulimi i konstantes së Plankut i mundësoi atij të përkufizonte një grup të ri universal njësish fizike (si gjatësia e Plankut dhe masa e Plankut), të gjitha të bazuara në konstante fizike themelore, mbi të cilat mbështetet pjesa më e madhe e teorisë kuantike. Në një bisedë me djalin e tij në dhjetor 1918, Planck e përshkroi zbulimin e tij si "një zbulim të rangut të parë, i krahasueshëm ndoshta vetëm me zbulimet e Njutonit". Në njohje të kontributit themelor të Planck-ut ndaj një dege të re të fizikës, ai u nderua me Çmimin Nobel për Fizikë për vitin 1918; e mori çmimin në 1919.
+
+Në vazhdim, Planck u përpoq të kuptonte kuptimin e kuanteve të energjisë, por pa sukses. "Përpjekjet e mia të pafrytshme për ta riintegruar disi kuantin e veprimit në teorinë klasike vazhduan për disa vjet dhe më shkaktuan shumë telashe." Edhe disa vjet më vonë, fizikantë të tjerë si Rayleigh, Jeans dhe Lorentz e vendosën konstanten e Plankut në zero, për t'u përshtatur me fizikën klasike, por Planck e dinte mirë se kjo konstante kishte një vlerë të saktë jozero. "Nuk arrij ta kuptoj kokëfortësinë e Jeans-it – ai është një shembull teoricieni siç nuk duhet të ekzistojë kurrë, njësoj siç ishte Hegeli për filozofinë. Aq më keq për faktet, nëse ato nuk përshtaten."
+
+Max Born shkroi për Planck-un: "Ai ishte, nga natyra, një mendje konservatore; nuk kishte asgjë nga revolucionari dhe ishte thellësisht skeptik ndaj spekulimeve. Megjithatë, besimi i tij në forcën e detyrueshme të arsyetimit logjik nga faktet ishte aq i fortë sa nuk u tërhoq nga shpallja e idesë më revolucionare që ka tronditur ndonjëherë fizikën."
+
+=== Ajnshtajni dhe teoria e relativitetit ===
+Në vitin 1905, Albert Einstein botoi tre punime në revistën ''Annalen der Physik''. Planck ishte ndër të paktët që njohu menjëherë rëndësinë e teorisë speciale të relativitetit. Falë ndikimit të tij, kjo teori u pranua shpejt gjerësisht në Gjermani. Planck gjithashtu kontribuoi ndjeshëm në zgjerimin e teorisë speciale të relativitetit. Për shembull, ai e riformuloi teorinë në terma të veprimit klasik.
+
+Hipoteza e Ajnshtajnit për kuantet e dritës (fotonet), e bazuar në zbulimin e Heinrich Hertz-it në vitin 1887 (dhe hulumtimin e mëtejshëm nga Philipp Lenard) mbi efektin fotoelektrik, fillimisht u refuzua nga Planck. Ai nuk ishte i gatshëm të hidhte tërësisht poshtë teorinë e elektrodinamikës të Maxwell-it. "Teoria e dritës do të kthehej mbrapsht jo me dekada, por me shekuj, në epokën kur Christiaan Huygens guxoi të luftonte kundër teorisë së fuqishme të emetimit të Isak Njutonit ..."
+
+Në vitin 1910, Ajnshtajni theksoi sjelljen anomale të nxehtësisë specifike në temperatura të ulëta si një shembull tjetër i një dukurie që i shpëton shpjegimit nga fizika klasike. Planck dhe Walther Nernst, duke kërkuar të qartësonin numrin në rritje të kontradiktave, organizuan Konferencën e Parë të Solvay-t (Bruksel 1911). Në këtë takim, Ajnshtajni arriti ta bindte Planck-un.
+
+Ndërkohë, Planck ishte emëruar dekan i Universitetit Friedrich Wilhelm të Berlinit, gjë që i mundësoi ta emëronte Ajnshtajnin në Berlin dhe të krijonte për të një kolegjialitet të ri profesorial (1914). Së shpejti, të dy shkencëtarët u bënë miq të ngushtë dhe takoheshin shpesh për të bërë muzikë së bashku.
+
+=== Lufta e Parë Botërore ===
+Në fillim të Luftës së Parë Botërore, Planck mbështeti eksitimin e përgjithshëm të publikut, duke shkruar se "Përveç shumë gjërave të tmerrshme, ka gjithashtu shumë gjëra papritmas të mëdha dhe të bukura: zgjidhja e qetë e problemeve më të vështira politike të brendshme përmes bashkimit të të gjitha partive (dhe) ... lartësimi i gjithçkaje të mirë dhe fisnike." Planck gjithashtu nënshkroi të ashtuquajturin "Manifest i të Nëntëdhjetë e Tre Intelektualëve", një fletushkë propagande polemike lufte (ndërsa Ajnshtajni ruajti një qëndrim rreptësisht pacifist që pothuajse e çoi drejt burgosjes, duke u shpëtuar vetëm falë shtetësisë së tij zvicerane).
+
+Në vitin 1915, kur Italia ishte ende një fuqi neutrale, Planck votoi me sukses për një punim shkencor nga Italia, i cili mori një çmim nga Akademia Prusiane e Shkencave, ku Planck ishte një nga katër presidentët e përhershëm.
+
+=== Pas luftës dhe Republika e Weimarit ===
+Në vitet e trazuara pas luftës, Planck, tashmë autoriteti më i lartë i fizikës gjermane, i drejtoi kolegëve të tij thirrjen "ngulmoni dhe vazhdoni të punoni".
+
+Në tetor 1920, ai dhe Fritz Haber themeluan Notgemeinschaft der Deutschen Wissenschaft, me qëllim ofrimin e mbështetjes financiare për kërkimin shkencor. Një pjesë e konsiderueshme e parave që organizata do të shpërndante u mblodh jashtë vendit.
+
+Planck mbajti pozicione udhëheqëse në Universitetin Friedrich Wilhelm të Berlinit, Akademinë Prusiane të Shkencave, Shoqërinë Fizike Gjermane dhe Shoqërinë Kaiser Wilhelm (e cila u bë Shoqata Max-Planck në vitin 1948). Gjatë kësaj periudhe, kushtet ekonomike në Gjermani ishin të tilla që ai vështirë se mund të kryente kërkime.
+
+Gjatë periudhës midis dy luftërave, Planck u bë anëtar i Partisë Popullore Gjermane, partia e laureatit të Çmimit Nobel për Paqe Gustav Stresemann, e cila synonte qëllime liberale për politikën e brendshme dhe qëllime mjaft revizioniste për politikën botërore.
+
+Planck nuk pajtohej me futjen e votës së përgjithshme dhe më vonë shprehu mendimin se diktatura naziste rezultoi nga "ngritja e sundimit të turmave".
+
+=== Mekanika kuantike ===
+Në fund të viteve 1920, Niels Bohr, Werner Heisenberg dhe Wolfgang Pauli kishin punuar interpretimin e Kopenhagenit të mekanikës kuantike, por ai u refuzua nga Planck, si dhe nga Schrödinger-i, Laue-ja dhe Ajnshtajni. Planck priste që mekanika valore së shpejti do ta bënte të panevojshme teorinë kuantike — fëmijën e tij vetë — por kjo nuk rezultoi kështu. Puna e mëtejshme shërbeu vetëm për të theksuar rëndësinë e vazhdueshme qendrore të teorisë kuantike, madje edhe kundër përçmimeve të tij filozofike dhe të Ajnshtajnit. Këtu Planck përjetoi vërtetësinë e vëzhgimit të tij të mëparshëm nga përpjekjet e tij kundër pikëpamjeve më të vjetra gjatë viteve të tij të reja: "Një e vërtetë e re shkencore nuk triumfon duke i bindur kundërshtarët e saj dhe duke i bërë ata të shohin dritën, por më tepër sepse kundërshtarët e saj përfundimisht vdesin, dhe një brez i ri rritet i njohur me të."
+
+=== Diktatura naziste dhe Lufta e Dytë Botërore ===
+Kur nazistët erdhën në pushtet në vitin 1933, Planck ishte 74 vjeç. Ai dëshmoi shumë miq dhe kolegë hebrenj të përjashtuar nga pozicionet e tyre dhe të poshtëruar, si dhe qindra shkencëtarë që emigruan nga Gjermania naziste. Ai përsëri u përpoq të "ngulmonte dhe të vazhdonte të punonte" dhe u kërkoi shkencëtarëve që po mendonin të emigronin të mbeteshin në Gjermani. Sidoqoftë, ai e ndihmoi nipin e tij, ekonomistin Hermann Kranold, të emigronte në Londër pas arrestimit të tij. Shpresonte se kriza do të shuhej së shpejti dhe situata politike do të përmirësohej.
+
+Otto Hahn i kërkoi Planck-ut të mblidhte profesorë gjermanë të njohur për të lëshuar një proklamatë publike kundër trajtimit të profesorëve hebrenj, por Planck iu përgjigj: "Nëse jeni në gjendje të mblidhni sot 30 zotërinj të tillë, atëherë nesër 150 të tjerë do të vijnë dhe do të flasin kundër, sepse janë të etur për të marrë pozicionet e të tjerëve." Nën udhëheqjen e Planck-ut, Shoqëria Kaiser Wilhelm (KWG) shmangu një konflikt të hapur me regjimin nazist, përveçse në rastin e hebreut Fritz Haber. Në maj 1933, Planck kërkoi dhe mori një takim me kancelarin e sapoemëruar të Gjermanisë Adolf Hitler për të diskutuar çështjen, duke i thënë atij se "emigrimi i detyruar i hebrenjve do të vriste shkencën gjermane dhe se hebrenjtë mund të ishin gjermanë të mirë", të cilit kancelari iu përgjigj "por ne nuk kemi asgjë kundër hebrenjve, vetëm kundër komunistëve". Planck nuk pati sukses, pasi kjo përgjigje "i mori atij çdo bazë për negociata të mëtejshme", pasi për Hitlerin "hebrenjtë janë të gjithë komunistë, dhe këta janë armiqtë [e tij]". Vitin pasardhës, 1934, Haber vdiq në mërgim.<ref>{{Cite journal|last=O'Flaherty|first=James C.|date=1956|title=Max Planck and Adolf Hitler|url=https://www.jstor.org/stable/40222051|journal=AAUP Bulletin|volume=42|issue=3|pages=437–444|doi=10.2307/40222051|jstor=40222051|issn=0001-026X|language=en}}</ref>
+
+Një vit më vonë, Planck, i cili kishte qenë president i KWG-së që nga viti 1930, organizoi, në një stil disi provokues, një mbledhje zyrtare përkujtimore për Haber-in. Ai gjithashtu ia doli mbanë të mundësonte fshehurazi vazhdimin e punës për disa vjet të një numri shkencëtarësh hebrenj në institutet e KWG-së. Në vitin 1936, mandati i tij si president i KWG-së përfundoi, dhe qeveria naziste e shtyu që të mos kërkonte një mandat tjetër.
+
+Ndërsa klima politike në Gjermani u bë gradualisht më armiqësore, Johannes Stark, eksponent i shquar i ''Deutsche Physik'' ("Fizika Gjermane", e quajtur gjithashtu "Fizika Ariane"), sulmoi Planck-un, Arnold Sommerfeld-in dhe Heisenberg-un për vazhdimin e mësimdhënies së teorive të Ajnshtajnit, duke i quajtur "hebrenj të bardhë". "Hauptamt Wissenschaft" (zyra qeveritare naziste për shkencën) filloi një hetim mbi prejardhjen e Planck-ut, duke pretenduar se ai ishte "1/16 hebre", por Planck e mohoi këtë.
+
+Në vitin 1938, Planck kremtoi ditëlindjen e tij të 80-të. DPG-ja mbajti një festim, gjatë të cilit medalja Max-Planck (themeluar si medalja më e lartë e DPG-së në 1928) iu dha fizikantit francez Louis de Broglie. Në fund të vitit 1938, Akademia Prusiane humbi pavarësinë e saj të mbetur dhe u mor nën kontroll nga nazistët, si pjesë e procesit të tyre të ''Gleichschaltung''-ut. Planck protestoi duke dhënë dorëheqjen nga presidenca. Ai vazhdoi të udhëtonte shpesh, duke dhënë ligjërata publike të shumta, si ajo mbi Fenë dhe Shkencën, dhe, pesë vjet më vonë, ishte ende mjaft i shëndetshëm për të ngjitur maja 3.000-metra në Alpe.
+
+Gjatë Luftës së Dytë Botërore, numri në rritje i misioneve bombarduese aleate kundër Berlinit e detyroi Planck-un dhe gruan e tij të largoheshin përkohësisht nga qyteti dhe të jetonin në fshat. Në vitin 1942, ai shkroi: "Në mua ka lindur një dëshirë e zjarrtë për ta kaluar këtë krizë dhe për të jetuar mjaft gjatë sa të mund të dëshmoj pikën e kthesës, fillimin e një ngritjeje të re." Në shkurt 1944, shtëpia e tij në Berlin u shkatërrua plotësisht nga një sulm ajror, duke asgjësuar të gjitha të dhënat dhe korrespondencën e tij shkencore. Vendqëndrimi i tij rural u kërcënua nga përparimi i shpejtë i ushtrive aleate nga të dyja anët.
+
+Në vitin 1944, djali i Planck-ut, Erwin, u arrestua nga Gestapo pas tentativës për vrasjen e Hitlerit në {{ill|komplotin e 20 korrikut|en|20 July plot}}. Ai u gjykua dhe u dënua me vdekje nga Gjykata Popullore në tetor 1944. Erwin-i u varros në burgun Plötzensee të Berlinit në janar 1945.<ref>{{cite web|url=http://physics.nobel.brainparad.com/max_karl_ernst_ludwig_planck.html|title=Max Karl Ernst Ludwig Planck|access-date=2010-06-17|url-status=dead|archive-url=https://web.archive.org/web/20080512151051/http://physics.nobel.brainparad.com/max_karl_ernst_ludwig_planck.html|archive-date=2008-05-12|language=en}}</ref> Vdekja e djalit të tij shkatërroi pjesën më të madhe të vullnetit të Planck-ut për të jetuar.
+
+== Jeta personale dhe vdekja ==
+[[Skeda:Stadtfriedhof Göttingen Max Planck Familie.jpg|miniaturë|Varri i Planck-ut në Stadtfriedhof.]]
+
+Në mars 1887, Planck u martua me Marie Merck-un (1861–1909), motër e një shoku shkolle, dhe u zhvendos me të në një apartament me qira në Kiel. Ata patën katër fëmijë: Karl-in (1888–1916), binjaket Emma (1889–1919) dhe Grete (1889–1917), si dhe Erwin-in (1893–1945).
+
+Pasi jetoi në apartamentin në Berlin, familja Planck jetoi në një vilë në Berlin-Grunewald, në rrugën Wangenheimstrasse 21. Disa profesorë të tjerë të Universitetit Friedrich Wilhelm të Berlinit jetonin aty pranë, ndër ta teologu Adolf von Harnack, i cili u bë mik i ngushtë i Planck-ut. Së shpejti shtëpia e Planck-ëve u bë një qendër shoqërore dhe kulturore. Shumë shkencëtarë të njohur, si Albert Einstein, Otto Hahn dhe Lise Meitner, ishin vizitorë të shpeshtë. Tradita e interpretimit të përbashkët të muzikës ishte vendosur tashmë në shtëpinë e Helmholtz-it.
+
+Marie Planck vdiq në korrik 1909, ndoshta nga tuberkulozi.
+
+Në mars 1911, Planck u martua me gruan e tij të dytë, Marga von Hoesslin-in (1882–1948); në dhjetor lindi fëmija i tij i pestë, Hermann-i.
+
+Gjatë Luftës së Parë Botërore, djali i dytë i Planck-ut, Erwin, u zu rob nga francezët në 1914, ndërsa djali i tij i madh, Karl, u vra në betejë në Verdun. Grete vdiq në vitin 1917 duke lindur fëmijën e saj të parë. Motra e saj vdiq në të njëjtën mënyrë dy vjet më vonë, pasi ishte martuar me të vejin e Grete-s. Të dyja mbesat mbijetuan dhe u quajtën me emrat e nënave të tyre.
+
+Në janar 1945, Erwin Planck, me të cilin ai kishte qenë veçanërisht i afërt, u dënua me vdekje nga Gjykata Popullore për pjesëmarrjen e tij në tentativën e dështuar për të vrarë Hitlerin në korrik 1944. Erwin-i u ekzekutua më 23 janar 1945.<ref>{{cite book|author1=Jürgen Heideking|author2=Christof Mauch|title=American Intelligence and the German Resistance to Hitler: A Documentary History|year=1998|publisher=Westview Press|isbn=978-0-8133-3636-7|pages=361–|language=en}}</ref>
+
+Pas përfundimit të Luftës së Dytë Botërore, Planck, gruaja e tij e dytë dhe djali i tyre u dërguan te një i afërm në Göttingen, ku Planck vdiq më 4 tetor 1947. Ai është varrosur në Stadtfriedhof të Göttingenit.
+
+Ndryshe nga Bohr-i, Planck besonte se "bota e jashtme është diçka e pavarur nga njeriu, diçka absolute, dhe kërkimi i ligjeve që zbatohen për këtë absolute u shfaq ... si ndjekja shkencore më sublime në jetë."
+
+Ajnshtajni, në hyrjen e librit të Planck-ut ''Where Is Science Going?'', e quajti "Një nga ata pak adhurues në Tempullin e Shkencës që do të mbetej edhe nëse një engjëll i Zotit do të zbriste dhe do të dëbonte nga tempulli të gjithë ata shkencëtarë të vegjël, të cilët në rrethana të tjera mund të bëheshin politikanë ose kapitenë industrie."
+
+== Pikëpamjet fetare ==
+Planck ishte anëtar i Kishës Luterane në Gjermani. Ai ishte shumë tolerant ndaj pikëpamjeve dhe feve alternative. Në një ligjëratë të vitit 1937 me titull "Religion und Naturwissenschaft" ("Feja dhe Shkenca Natyrore") ai sugjeroi rëndësinë e këtyre simboleve dhe ritualeve të lidhura drejtpërdrejt me aftësinë e një besimtari për të adhuruar Zotin, por se dikush duhet të ketë parasysh se simbolet japin një ilustrim të papërsosur të hyjnisë. Ai kritikoi ateizmin për t'u fokusuar te tallja e simboleve të tilla, ndërkohë që paralajmëroi kundër mbivlerësimit të rëndësisë së simboleve të tilla nga besimtarët.
+
+Planck tha në vitin 1944: "Si njeri që ia ka kushtuar gjithë jetën shkencës më të kthjellët, studimit të materies, mund t'ju them si rezultat i kërkimit tim mbi atomet kaq shumë: Nuk ka materie si e tillë. E gjithë materia lind dhe ekziston vetëm në sajë të një force që sjell në vibrim grimcën e një atomi dhe e mban të bashkuar këtë sistem diellor më të vogël të atomit. Duhet të supozojmë pas kësaj force ekzistencën e një shpirti të vetëdijshëm dhe inteligjent [origj. ''Geist'']. Ky shpirt është matrica e gjithë materies."
+
+Planck argumentoi se koncepti i Zotit është i rëndësishëm si për fenë ashtu edhe për shkencën, por në mënyra të ndryshme: "Të dyja, feja dhe shkenca, kërkojnë besim tek Zoti. Për besimtarët, Zoti është në fillim, ndërsa për fizikanët Ai është në fund të të gjitha konsideratave ... Për të parët Ai është themeli, për të dytët, kurora e ndërtesës së çdo pikëpamjeje botërore të përgjithësuar."
+
+Për më tepër, Planck shkroi: <blockquote>..."të besosh" do të thotë "të njohësh si të vërtetë", dhe njohuria e natyrës, që përparon vazhdimisht në shina të pakontestueshme e të sigurta, e ka bërë krejtësisht të pamundur për një person me disa njohuri shkencash natyrore që t'i njohë si të bazuara në të vërtetën shumë raportime për ngjarje të jashtëzakonshme që bien ndesh me ligjet e natyrës, mrekulli që ende zakonisht konsiderohen si mbështetje dhe konfirmime thelbësore të doktrinave fetare, dhe të cilat më parë pranoheshin si fakte të thjeshta, pa dyshim apo kritikë. Besimi te mrekullitë duhet të tërhiqet hap pas hapi para shkencës që përparon pa u ndalur e në mënyrë të besueshme, dhe nuk mund të dyshojmë se, herët a vonë, ai duhet të zhduket krejtësisht.</blockquote>
+
+Historiani i njohur i shkencës John L. Heilbron e karakterizoi pikëpamjet e Planck-ut mbi Zotin si deiste. Kjo ishte një karakterizim shkencor i teologjisë së Planck-ut, jo një identifikim fetar që Planck vetë e ka pranuar për vete. Heilbron gjithashtu tregon se, në fund të jetës, Planck deklaroi se, megjithëse gjithmonë kishte qenë thellësisht fetar, nuk besonte "në një Zot personal, e aq më pak në një Zot të krishterë". Planck, sidoqoftë, mbeti anëtar i Kishës Luterane dhe shkrimet e tij fetare ishin qartazi kundër ateizmit. Në ligjëratën e tij të vitit 1937 ''Feja dhe Shkenca Natyrore'', ai kritikoi sulmet ateiste ndaj besimit fetar dhe argumentoi se si feja ashtu edhe shkenca natyrore kërkojnë besim tek Zoti, ndërkohë që e kuptojnë Zotin në mënyra të ndryshme.
+
+=== Kalimi filozofik drejt realizmit shkencor ===
+Ndonëse Planck e nisi karrierën e tij si mbështetës i pozitivizmit të Ernst Mach-ut, zbulimi i tij i kuantit të veprimit e çoi drejt {{ill|realizmit shkencor|en|Scientific realism}}. Ai argumentoi se "pamja botërore" e fizikës duhet të bazohet në realitete objektive që ekzistojnë pavarësisht nga vëzhgimi njerëzor.
+
+Ky qëndrim filozofik çoi në një ndarje publike të njohur me Mach-un në vitin 1908. Besimi i Planck-ut në një univers objektiv, shkakësor, të përcaktuar nga "absolute", ishte një faktor i madh në mbështetjen e tij të hershme dhe të palëkundur për teorinë e Ajnshtajnit të relativitetit. Sidoqoftë, i njëjti realizëm më vonë e bëri një kritik të shquar të natyrës probabilistike të interpretimit të Kopenhagenit, të mbrojtur nga Niels Bohr.
+
+=== Jeta muzikore dhe dëgjimi absolut ===
+Planck ishte një muzikant i shkëlqyer që zotëronte dëgjim absolut. Ishte pianist, organist dhe çelist, që kompozoi operën ''Die Liebe im Walde'' gjatë viteve të tij universitare.
+
+Gjatë gjithë jetës së tij, shtëpia e tij në Berlin u bë një qendër kulturore, ku organizonte mbrëmje muzikore javore. Këto mbledhje përfshinin shpesh Albert Ajnshtajnin në violinë dhe violinistin e njohur Joseph Joachim. Planck vërejti dikur se ligjet e fizikës dhe ligjet e harmonisë përfaqësonin të dyja rrugë të ndryshme drejt kuptimit të absoluteve universale.
+== Njohje ==
+=== Anëtarësi ===
+{| class="wikitable"
+! Viti
+! Organizata
+! Lloji
+|-
+| 1914
+| Akademia Amerikane e Arteve dhe Shkencave
+| Anëtar Nderi Ndërkombëtar
+|-
+| 1926
+| [[Royal Society|Royal Society-a]]
+| Anëtar i Huaj
+|-
+| 1926
+| Akademia Mbretërore Holandeze e Arteve dhe Shkencave
+| Anëtar i Huaj
+|-
+| 1926
+| Akademia Kombëtare e Shkencave e SHBA-së
+| Anëtar Ndërkombëtar
+|-
+| 1933
+| [[Kategoria:Anëtarë të Shoqërisë Filozofike Amerikane|Shoqëria Filozofike Amerikane]]
+| Anëtar Ndërkombëtar
+|-
+| 1936
+| Akademia Papnore e Shkencave
+| Akademik
+|}
+
+=== Urdhra ===
+{| class="wikitable"
+! Viti
+! Kryetar shteti
+! Urdhri
+|-
+| 1915
+| Vilhelmi II
+| ''Pour le Mérite''
+|}
+
+=== Çmime ===
+{| class="wikitable"
+! Viti
+! Organizata
+! Çmimi
+! Arsyetimi
+|-
+| 1918
+| Akademia Mbretërore Suedeze e Shkencave
+| [[Çmimi Nobel për Fizikë]]
+| "Në njohje të shërbimeve që dha për përparimin e Fizikës nëpërmjet zbulimit të kuanteve të energjisë."
+|-
+| 1927
+| Instituti Franklin
+| Medalja Franklin
+| "Për ligjin e tij të rrezatimit dhe idenë e sasisë themelore të pandashme të energjisë rrezatuese të quajtur 'kuant'."
+|-
+| 1927
+| Akademia Mbretërore Holandeze e Arteve dhe Shkencave
+| Medalja Lorentz
+|
+|-
+| 1929
+| Royal Society-a
+| Medalja Copley
+| "Për kontributet e tij në fizikën teorike dhe veçanërisht si themeluesi i teorisë kuantike."
+|-
+| 1929
+| Shoqëria Fizike Gjermane
+| Medalja Max Planck{{efn|Dhënë së bashku me Albert Ajnshtajnin.}}
+|
+|-
+| 1945
+|
+| Çmimi Gëte
+|
+|}
+
+== Përkujtim ==
+[[Skeda:DBPB 1952 99 Max Planck.jpg|miniaturë|Planck në një pullë postare të Gjermanisë Perëndimore, 1952.]]
+
+* Në vitin 1953, Zyra Postare Gjermane e Berlinit e nderoi Max Planck-un me një pullë postare 30-pfenig në serinë "Burra nga Historia e Berlinit".
+* Nga 1957 deri në 1971, monedhat 2-markëshe gjermane (DM) të Republikës Federale mbanin portretin e Max Planck-ut.
+* Në vitin 1958, u zbulua një pllakë përkujtimore në oborrin e Universitetit Humboldt të Berlinit.
+* Në vitin 1958, Shoqata Max-Planck i dhuroi Shoqërisë Fizike të RDGJ-së një bust të Planck-ut, krijuar në 1939. Busti është ekspozuar në sallën e ekspozitës së Magnushaus që nga viti 1991.
+* Në vitin 1970, kraterin hënor Planck dhe luginën ngjitur Vallis Planck i quajtën sipas Planck-ut.
+* Në vitin 1983, RDGJ-ja nxori një monedhë përkujtimore 5-markëshe për të shënuar 125-vjetorin e lindjes së tij.
+* Në vitin 1989, u zbulua një pllakë përkujtimore berlineze te banesa e mëparshme e Planck-ut në Berlin-Grunewald.
+* Në vitin 2008, u lëshuan një pullë postare speciale dhe një monedhë përkujtimore prej argjendi 10-euro, për të shënuar 150-vjetorin e lindjes së tij.
+* Në vitin 2013, në Jupiter, Florida, u hap Instituti Max Planck për Neuroshkencë i Floridas.
+* Në vitin 2014, Google e kremtoi 156-vjetorin e lindjes së Planck-ut me një Google Doodle më 23 prill.
+* Në vitin 2022, busti i tij u vendos në Walhalla.
+
+== Botime ==
+[[Skeda:Planck, Max – Vorlesungen über die Theorie der Wärmestrahlung, 1906 – BEIC 6567602.jpg|miniaturë|''Vorlesungen über die Theorie der Wärmestrahlung'', 1906]]
+
+* Planck, M. "Über eine Verbesserung der Wienschen Spektralgleichung." ''Verhandlungen der Deutschen Physikalischen Gesellschaft'' 2 (1900): 202–204.
+* Planck, M. "Zur Theorie des Gesetzes der Energieverteilung im Normalspectrum." ''Verhandlungen der Deutschen Physikalischen Gesellschaft'' 2 (1900): 237.
+* Planck, M. "Entropie und Temperatur strahlender Wärme." ''Annalen der Physik'' 306, nr. 4 (1900): 719–737.
+* Planck, M. "Über irreversible Strahlungsvorgänge." ''Annalen der Physik'' 306, nr. 1 (1900): 69–122.
+* Planck, M. "Ueber das Gesetz der Energieverteilung im Normalspektrum." ''Annalen der Physik'' 309, nr. 3 (1901): 553–563.
+* Planck, M. ''Treatise on Thermodynamics''. Përkth. A. Ogg. Londër: Longmans, Green & Co, 1903.
+* Planck, M. ''Vorlesungen über die Theorie der Wärmestrahlung''. Leipzig: J.A. Barth, 1906.
+* Planck, M. ''The Theory of Heat Radiation''. Përkth. M. Masius. Botimi 2. P. Blakiston's Son & Co., 1914.
+* Planck, M. ''Eight Lectures on Theoretical Physics''. Përkth. Albert Potter Wills, 1915.
+* Planck, M. ''Prinzip der Erhaltung der Energie''. 1908.
+* Planck, M. "Zur Geschichte der Auffindung des physikalischen Wirkungsquantums." ''Naturwissenschaften'' 31, nr. 14–15 (1943): 153–159.
+
+== Shiko edhe ==
+* {{ill|Shpikësit dhe zbuluesit gjermanë|en|German inventors and discoverers}}
+* {{ill|Polarizimi i fotonit|en|Photon polarization}}
+* {{ill|Statuja e Max Planck-ut|en|Statue of Max Planck}}
+* {{ill|Energjia e pikës zero|en|Zero-point energy}}
+
+== Shënime ==
+{{efn|Dhënë së bashku me Albert Ajnshtajnin.}}
+{{notelist}}
+
+== Referime ==
+{{reflist}}
+
+== Burimet ==
+* Aczel, Amir D. ''Entanglement'', kapitulli 4. Penguin, 2003. {{ISBN|978-0-452-28457-9}}
+* Heilbron, J. L. ''The Dilemmas of an Upright Man: Max Planck and the Fortunes of German Science''. Harvard University Press, 2000. {{ISBN|0-674-00439-6}}
+* Pickover, Clifford A. ''Archimedes to Hawking: Laws of Science and the Great Minds Behind Them''. Oxford University Press, 2008. {{ISBN|978-0-19-533611-5}}
+* Medawar, Jean; Pyke, David. ''Hitler's Gift: The True Story of the Scientists Expelled by the Nazi Regime''. Arcade Publishing, 2012. {{ISBN|978-1-61145-709-4}}
+* Rosenthal-Schneider, Ilse. ''Reality and Scientific Truth: Discussions with Einstein, von Laue, and Planck''. Wayne State University, 1980. {{ISBN|0-8143-1650-6}}
+
+== Lidhje të jashtme ==
+{{commons|Max Planck}}
+* [https://web.archive.org/web/20060828134833/http://alsos.wlu.edu/qsearch.aspx?browse=people%2FPlanck%2C+Max Bibliografi e komentuar për Max Planck-un] nga Alsos Digital Library for Nuclear Issues
+* [https://www.britannica.com/eb/article-9108525/Max-Planck Max Planck] – artikull i Encyclopædia Britannica
+* [http://www.mpg.de/english/ Institutet Max Planck të Shkencave Natyrore dhe Astrofizikës]
+* [https://www.youtube.com/watch?time_continue=175&v=5mwHXBn6mcM Max Planck – Selbstdarstellung im Filmportrait (1942)], vetëportret kinematografik i Max Planck-ut, Berlin-Brandenburgische Akademie der Wissenschaften, 1942
+* [http://www.max-planck.mpg.de Life–Work–Personality] – Ekspozitë për 50-vjetorin e vdekjes së Planck-ut
+
+{{Authority control}}
+
+[[Kategoria:Max Planck| ]]
+[[Kategoria:Lindje 1858]]
+[[Kategoria:Vdekje 1947]]
+[[Kategoria:Fizikanë gjermanë]]
+[[Kategoria:Fizikë kuantike]]
+[[Kategoria:Njerëz nga Kieli]]
+[[Kategoria:Shkencëtarë]]
+[[Kategoria:Shkencëtarë gjermanë]]
+[[Kategoria:Çmimi Nobel për Fizikë]]
+[[Kategoria:Profesorë të Universitetit të Mynihut]]
+[[Kategoria:Absolventët e Universitetit të Humboldit në Berlin]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Max Planck|19 gusht 2026|1370229334}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Max Planck, versioni i datës 19 gusht 2026 (revizioni 1370229334)
+-->
