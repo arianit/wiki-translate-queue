@@ -1,0 +1,283 @@
+{{APR|Redaktuar për herë të fundit në mënyrë të qenësishme para 10 vitesh; Probleme teknike.}}
+[[Skeda:Meissner effect p1390048.jpg|parapamje|260px|Një [[magneti|magnet]] i ngritur mbi një [[superpërcjellës i temperaturës së lartë|superpërcjellës të temperaturës së lartë]] që tregon [[Efekti i Meisnerit|efektin e Meisnerit]].]]
+'''Fizika''' (nga {{lang-grc|φυσική (ἐπιστήμη)|phusikḗ (epistḗmē)|njohuri të natyrës}}, nga {{lang|grc|φύσις}} ''phúsis'' "natyrë"<ref name="etymonline-physics">{{cite web|title=physics|url=http://www.etymonline.com/index.php?term=physics&allowed_in_frame=0|accessdate=2016-11-01|work=[[Online Etymology Dictionary]]|language=en}}</ref><ref name="etymonline-physic">{{cite web|title=physic|url=http://www.etymonline.com/index.php?term=physic&allowed_in_frame=0|accessdate=2016-11-01|work=[[Online Etymology Dictionary]]|language=en}}</ref><ref name="LSJ">{{LSJ|fu/sis|φύσις}}, {{LSJ|fusiko/s|φυσική}}, {{LSJ|e)pisth/mh|ἐπιστήμη|ref}}</ref>) është dega e [[Shkenca|shkencës]] e cila merret me zbulimin dhe analizimin e dukurive [[Natyra|fizike]], që përfshin studimin e [[Lënda|lëndës]] dhe lëvizjen e saj në fabrikën e [[Hapësirë-kohaa|hapësirë-kohës]], si dhe konceptet e [[Forca|forcës]] dhe [[Energjia|energjisë]]. Në mënyrë më të përgjithshme ajo cilësohet si shkenca nëpërmjet së cilës njerëzit përpiqen të shpjegojnë dukuritë [[natyra|natyrore]]. Fizika njihet si "shkencë themelore" sepse fusha të tjera si [[kimia]] dhe [[biologjia]] hulumtojnë sisteme, veçoritë e të cilave varen nga ligjet e fizikës. 
+
+Zhvillimet në fizikë janë të lidhura ngushtë me sektorin teknologjik, si dhe kanë influencë shumë të thellë në shkencat e tjera, përfshirë matematikën dhe filozofinë. Për shembull, zhvillimi i teorisë së elektromagnetizmit çoi në krijimin e pajisjeve të shumta elektrike (televizori, kompjuteri, pajisjet shtëpiake); zhillimet në termodinamikë çuan në zhvillimin e mjeteve të motorizuara për transportin, si motori me avull; zhvillimet në mekanikë motivuan dhe ndihmuan në zhvillimin e analizës matematike, kimisë kuantike, dhe përdorimit të pajisjeve eksperimentale si mikroskopi elektronik në mikrobiologji. 
+
+Fizika ndahet në dy disiplina: në [[Fizika teorike|fizikën teorike]] dhe [[Fizika eksperimentale|fizikën eksperimentale]]. Fizika teorike merret kryesisht me formalizimin teorik të dukurive i cili bazohet në koncepte matematike, ndërsa fizika eksperimentale merret me rikrijimin dhe matjen e dukurive të njohura natyrore. Megjithëse kërkimet e shumta akoma kanë ngelur në disa [[probleme të pazgjidhura në fizikë]] si dhe fusha të shumta kërkimi të cilat nuk janë eksploruar ende plotësisht.
+
+== Pasojat filozofike ==
+Lindja e fizikës si shkencë në shumë mënyra i detyrohet [[Filozofia e lashtë greke|filozofisë së lashtë greke]]. Filozofë të ndryshëm grekë avancuan teoritë e tyre të natyrës. Këto filluan që nga përpjekjet e para të [[Tales]]it për të karakterizuar lëndën, deduktimet e [[Demokriti]]t se lënda duhet të reduktohet në një gjendje të pandryshueshme, deri tek [[astronomia e Ptolemeut]]. Libri i Aristotelit '' [[Fizika (Aristoteli)|Fizika]]'' mbeti burimi i vetëm formal i shkencës deri kur Galileo Galilei filloi të eksperimentonte për të provuar vërtetësinë e pohimeve. Deri në shekullin e 18-të, fizika ishte e njohur si "[[Filozofia Natyrore]]".
+
+Nga fillimi i shekullit të 19-të fizika filloi të cilësohej si një disiplinë e veçantë e ndarë nga filozofia dhe shkencat e tjera. Fizika, si me pjesën tjetër të shkencës, mbështetet në [[Filozofia e shkencës|filozofinë e shkencës]] për të dhënë një përshkrim adekuat të metodës shkencore.<ref>{{cite book|last=Rosenberg|first=Alex|title=Philosophy of Science|publisher=Routledge|year=2006|isbn=0-415-34317-8|language=en}}  Shih Kapitullin 1 për një diskutim mbi domosdoshmërinë e filozofisë së shkencës.</ref> Metoda shkencore përdor [[a priori dhe a posteriori (filozofi )|arsyetime a priori]] ose [[A priori dhe a posteriori (filozofi)|a posteriori]]  si dhe përdorimin e [[Konkluzioni Bayesian|inferencave Baeziane]] për të matur vlefshmërinë e një teorie të caktuar.<ref>Peter Godfrey-Smith (2003), Chapter 14 "Bayesianism and Modern Theories of Evidence" ''Theory and Reality: an introduction to the philosophy of science'' ISBN 0-226-30063-3</ref>
+
+{{Cquote|E vërteta gjëndet vetëm në thjeshtësi, dhe jo në shumëllojshmërinë dhe konfuzionin e gjërave.|30px|30px|[[Isak Njutoni]]}}
+
+Zhvillimi i fizikes i ka dhënë përgjigjje shumë pyetjeve të filozofëve të lashtë, por gjithashtu ka ngritur edhe pyetje të reja. [[Filozofia e fizikës]], studimi i çështjeve filozofike rreth fizikës, përfshin tema të tilla si natyra e [[Hapësira|hapësirës]] dhe [[Koha|kohës]], [[determinizmi]]n dhe pikëpamje metafizike të tilla si [[empiricizmi]], [[Realizmi (filozofi)|realizmi]] dhe [[Natyralizmi (filozofi)|natyralizmi]].<ref>Peter Godfrey-Smith (2003), Chapter 15 "Empiricism, Naturalism, and Scientific Realism?" ''Theory and Reality: an introduction to the philosophy of science'' ISBN 0-226-30063-3</ref>
+
+Shumë fizikantë kanë shkruar për implikimet filozofike të punës së tyre, për shembull [[Laplace|Laplasi]], i cili hodhi tezën e  [[Determinizmi|determinizmit kauzal]],<ref>See Laplace, Pierre Simon, ''A Philosophical Essay on Probabilities'', translated from the 6th French edition by Frederick Wilson Truscott and Frederick Lincoln Emory, Dover Publications (New York, 1951)</ref> [[Erwin Shrodingerit|Ervin Shrodingeri]], i cili shkroi mbi mekanikën kuantike.<ref>See "The Interpretation of Quantum Mechanics" Ox Bow Press (1995) ISBN 1-881987-09-4. and "My View of the World" Ox Bow Press (1983) ISBN 0-918024-30-7.</ref> Matematikani fizicist [[Roger Penrose]] është quajtur një [[Platonist]] nga [[Stephen Hawking]],<ref>Stephen Hawking and Roger Penrose (1996), ''The Nature of Space and Time'' ISBN 0-691-05084-8 p.4 "I think that Roger is a Platonist at heart but he must answer for himself."</ref> një çështje që [[Penrose]] e diskuton në librin e tij, ''Rruga drejt realitetit''.<ref>Roger Penrose, ''The Road to Reality'' ISBN 0-679-45443-8</ref> Hawking i referohet vetvetes si një ''reduktionist i paturpshëm'', gjë e cila bie ndesh me idetë e Penrose.<ref>{{cite book|last1=Penrose|first1=Roger|last2=Shimony|first2=Abner|last3=Cartwright|first3=Nancy|last4=Hawking|first4=Stephen|title=The Large, the Small and the Human Mind|publisher=Cambridge University Press|year=1997|isbn=0-521-78572-3|language=en}}</ref>
+
+== Historia ==
+{{ill|Historia e fizikës|en|History of physics}}
+[[Skeda: GodfreyKneller-IsaacNewton-1689.jpg |parapamje| 150px | [[Isak Njutoni]] (1643-1727)]]
+
+Që nga antikiteti, njerëzit janë përpjekur për të kuptuar sjelljen e fenomeneve natyrore. Një mister i madh në ato kohëra ishte sjellja e parashikueshme e objekteve qiellor si [[Dielli]] dhe [[Hëna]]. Disa teori u propozuan, shumica e të cilave u hodhën poshtë.
+
+Filozofi [[Tales]] (rr. 624–546 p. e. s.) qe i pari që refuzoi të pranojë shpjegime të mbinatyrshme, fetare apo mitologjike për dukuritë e natyrës. Ai deklaroi hapur se çdo fenomen ka një shkak fizik. Teoritë e hershme fizike ishin të frazuara në aspektin filozofik, dhe asnjëherë nuk vërtetoheshin me anë të testimeve sistematike eksperimentale siç bëhet në ditët e sotme. Shumë ide nga teoritë e pranuara të [[Ptolemeut]] ose të dhe [[Fizika Aristoteliane|Aristotelit]] nuk janë të sakta kur krahasohen me vërejtjet e përditshme.
+
+Megjithatë, shumë filozofë dhe astronomë të [[Antikiteti klasik|lashtësisë]] dhanë përshkrime të sakta në fushat e [[atomizmi]]t dhe  [[Astronomia|astronomisë]]. [[Leucippus|Leukipus]] (gjysma e parë e shek 5) qe i parë që propozoi [[Atomizimi|atomizmin]], kurse [[Arkimedi]] derivoi përshkrime shumë të sakta sasiore të [[Mekanika klasike|mekanikës]], [[zhurma|zhurmës]] dhe [[Hidrostatika|hidrostatikës]], duke përfshirë një shpjegim për parimin e [[Leva|levës]]. [[Mesjeta]] pa shfaqjen e [[Fizika eksperimentale|fizikës eksperimentale]] e cila mori formë midis përpjekjeve të [[Fizika në Islamin mesjetar|fizikantëve Muslimanë]], më i famshmi nga të cilët qe [[Alhazen]], e ndjekur nga fizika moderne e cila kryesisht mori formë në [[Historia e Evropës|fillimin e Evropës moderne]] nga shumë fizikantë, më i famshmi nga të cilët qe [[Isak Njutoni]], i cili ndërtoi teoritë e tija mbi punën e [[Galileo Galilei]] dhe [[Johannes Kepler|Johan Keplerit]]. Në shekullin e 20, puna e [[Albert Ajnshtajn]]it shënoi një drejtim të ri në fizikë që vazhdon edhe në ditët e sotme.
+
+== Degët e fizikës ==
+[[Skeda:Fushat e teorive fizike.png|parapamje|260px|Fushat e teorive fizike]]
+Edhe pse fizika përfshin një kategori të gjerë fenomenesh, degët themelore të fizikës janë [[mekanika klasike]], [[elektromagnetizmi]] (i cili përfshin [[Optika|optikën]]), [[relativiteti]], [[termodinamika]], dhe [[mekanika kuantike]]. Secila nga këto teori është testuar nga eksperimente të shumta dhe është provuar si e saktë në fushën e aplikimit të saj. Për shembull, [[mekanika klasike]] përshkuan në mënyrë korrekte lëvizjen e trupave në jetën e përditshme, megjithatë ajo nuk mund të aplikohet në shkallën atomike. Atje ajo zëvendesohet nga [[mekanika kuantike]], ndërsa për shpejtësi të krahasueshme me [[Shpejtësia e dritës|shpejtësinë e dritës]], efektet [[Teoria speciale e relativitetit|relativistike]] bëhen më të rëndësishme. Edhe pse këto teori kuptohen shumë mirë, ato vazhdojnë të jenë fusha kërkimore — për shembull, një aspekt i rëndësishëm i mekanikës klasike e njohur si [[teoria e kaosit]] u zhvillua në shekullin e 20-te, tre shekuj pas formulimit origjinal të mekanikës nga Isak Njutoni (1642–1727). Teoritë themelore formojnë një bazë per studimin dhe kërkimin e temave më të specializuara. Një tabelë me këto teori, së bashku me konceptet që ato përdorin, mund të gjendet [[Fizika/Teoritë|këtu]].
+
+=== Mekanika klasike ===
+{{main|Mekanika klasike}}
+[[Skeda:Polispasto4.jpg|parapamje|180px|Një [[Rrotulla|rrotull]] përdor parimin e [[Avantazhi mekanik|avantazhit mekanik]] në mënyrë që një forcë e vogël mbi një distancë të madhe mund të ngrejë një ngarkesë të rëndë mbi një distancë të shkurtër.]]
+
+[[Mekanika klasike]] është një model fizik i [[forca]]ve që veprojnë mbi trupat dhe madhësite fizike. Zakonisht ajo referohet si "mekanika Njutoniane" sipas [[Isak Njutoni]]t dhe [[Ligjet e Njutonit|ligjeve të Njutonit]]. Mekanika ndahet në [[Statika|statikë]], e cila modelon trupat në prehje, [[Kinematika|kinematikë]], e cila modelon trupat në lëvizje dhe [[dinamika (mekanikë)|dinamika]], e cila modelon trupat mbi të cilët aplikohen forca të ndryshme. Mekanika klasike e trupave të vazhduar dhe të deformueshëm njihet si [[mekanika e vazhduar]], e cila vetë ndahet në [[mekanika e ngurtë|mekanikën e ngurtë]] dhe [[mekanika fluide|mekanikën fluide]] sipas gjëndjes së lëndës që studiohet. Kjo e fundit, mekanika e [[lëngu|lëngjeve]] dhe [[gazi|gazeve]], përfshin [[hidrostatika|hidrostatikën]], [[hidrodinamika|hidrodinamikën]], [[pneumatika|pneumatikën]], [[aerodinamika|aerodinamikën]], dhe fusha të tjera. Mekanika statike merret me objekte që janë në prehje. [[Mekanika kinematike]] merret me objekte në lëvizje. Mekanika dinamike merret me lëvizjen e shkaktuar nga forcat që veprojnë mbi trupat.
+
+Mekanika klasike jep rezultate të sakta në fushën e saj të aplikimit, e cila është eksperienca e përditshme. Ajo zëvendësohet nga [[Relativiteti|mekanika relativiste]] për sisteme që lëvizin me shpejtësi të krahasueshme me atë të [[Shpejtësia e dritës|dritës]], nga [[mekanika kuantike]] për sisteme në shkallë të vogël, dhe nga [[teoria kuantike relativiste e fushës]] për sisteme që kanë të dyja veçantitë e mësipërme. Megjithatë, mekanika klasike është akoma e dobishme, sepse ajo është shumë më e thjeshtë për tu aplikuar në krahasim me teoritë e tjera si dhe ka një fushë të gjerë aplikimi. Mekanika klasike mund të përdoret për të përshkruar lëvizjen e objekteve me përmasa të konsiderueshme (si [[topi|topat]] ose [[makina]]), objekte astronomike (si planetet apo galaksitë), dhe disa objekte të caktuara mikroskopike (molekula organike). 
+
+Nje koncept i rëndësishëm në mekanikë është identifikimi i madhësive të konservuara si [[energjia]] dhe [[momenti]], të cilat çojnë tek mekanika [[Mekanika e Lagranzhit|Lagranzhiane]] dhe ajo [[Mekanika e Hamiltonit|Hamiltoniane]] të cilat janë riformulime të ligjeve të Njutonit duke përdorur konceptin e energjisë dhe nxitimit (impulsit). Teori si [[mekanika e lëngjeve]] si dhe [[teoria kinetike]] e gazeve janë rezultate të aplikimit të mekanikës klasike tek sistemet mikroskopike. Rezultate të kohëve të fundit në studimin e sistemeve dinamike jolineare i kanë dhënë lindje [[Teoria e kaosit|teorisë së kaosit]], studimi i sistemeve ku ndyshime të vogla shkaktojnë efekte të mëdha. [[Ligji universal gravitacional i Njutonit|Ligji gravitacional i Njutonit]], i formuluar në mekanikën klasike, shpjegoi [[Ligjet e Keplerit|ligjet e Keplerit mbi lëvizjen planetare]] si dhe ndihmoi në transformimin e mekanikës klasike në një element të rëndësishëm të [[Revolucioni Shkencor|revolucionit shkencor]].
+
+=== Elektromagnetizmi ===
+{{main|Elektromagnetizmi}}
+{{main|Optika}}
+[[Skeda:Magnet0873.png|thumb|left|250px|Vijat e forcës së fushës magnetike nga një copë magneti të formuara nga pluhuri i hekurit mbi një letër]]
+
+[[Elektromagnetizmi]] përshkruan bashkëveprimet e thërrmijave të ngarkuara, me [[fusha (fizikë)|fushat]] elektrike dhe magnetike. Ai ndahet ne [[Elektrostatika|elektrostatikë]], e cila bën studimin e bashkëveprimeve midis [[Ngarkesa elektrike|ngarkesave]] në prehje, dhe [[Elektrodinamika|elektrodinamikë]], e cila studion bashkëveprimet midis ngarkesave në lëvizje dhe [[rrezatimi]]t. Teoria klasike e elektromagnetizmit është e bazuar në ligjin e [[Forca e Lorencit|forcës së Lorencit]] dhe tek [[ekuacionet e Maksuellit]].
+
+[[Elektrostatika]] është studimi i fenomeneve që lidhen me trupa të ngarkuar në prehje. Siç përshkruhet nga [[ligji i Kulombit]], trupa të tillë aplikojnë [[forca]] mbi njëri tjetrin. Sjellja e tyre mund të analizohet nëpërmjet koncepteve të [[fusha elektrike|fushës elektrike]] që rrethon çdo trup të ngarkuar, e tillë që çdo trup i ngarkuar i vendosur në këtë fushë është subjekt i një force në madhësi të drejtëpërdrejtë me madhësinë e ngarkesës dhe madhësinë e vlerës së fushës magnetike në atë pozicion. Në qoftë se forca është tërheqëse apo shtytëse kjo varet nga [[Magneti#Polet Magnetike|polariteti]] i ngarkesës. Elektrostatika ka aplikime të shumta, që variojnë që nga analiza e fenomeneve si vetëtimat deri tek ndërtimi i motorave, siç është për shembull [[motori elektrostatik]]. 
+
+[[Elektrodinamika]] është studimi i fenomeneve që lidhen me trupa të [[Ngarkesa elektrike|ngarkuara]] në lëvizje dhe fusha [[Fusha elektrike|elektrike]] dhe [[Fusha magnetike|magnetike]] që ndryshojnë në kohë. Meqënëse një ngarkesë në lëvizje prodhon një fushë magnetike, elektrodinamika merret me efekte si [[magnetizmi]], [[rrezatimi elektromagnetik]], dhe [[induksioni elektromagnetik]], të cilat përfshijnë aplikime praktike si [[gjeneratori elektrik]] si dhe [[motori elektrik]]. Kjo pjesë e elektrodinamikës, njihet si elektrodinamika klasike. Ajo u shpjegua në një mënyrë sistematike nga [[James Clerk Maxwell|Xhejms Klark Maksuell]]. Duhet thënë se janë ekuacionet e Maksuellit ato të cilat i përshkruajnë fenomenet elektrike me një përgjithësi të madhe. Një zhvillim i mëvonshëm është [[elektrodinamika kuantike]], e cila përfshin ligjet e [[Teoria kuantike e fushës|teorisë kuantike]] në mënyrë që të shpjegojë bashkëveprimin e rrezatimit me lëndën. [[Paul Dirac|Diraku]], [[Werner Hajzenberg|Hajzenbergu]], dhe [[Pauli]] ishin disa nga pionerët që formuluan hapat fillestare që çuan tek elektrodinamikën kuantike. Elektrodinamika relativiste merr parasysh korigjimet [[Relativiteti special|relativiste]] të lëvizjes së trupave të ngarkuar që lëvizin me shpejtësi të përafërt me atë të dritës. Ajo zbatohet në fenomene që lidhen me [[përshpejtues ngarkesash]] si dhe me tuba elektronesh në [[voltazhi|voltazhe]] dhe [[korrenti elektrik|korrente]] të larta.
+
+Elektromagnetizmi përfshin [[Fenomeni|fenomene]] të tjera elektromagnetike të jetës së përditshme. Për shembull, [[drita]] është një [[fusha elektromagnetike|fushë elektromagnetike]] oshiluese që rrezatohet nga thërrmija të ngarkuara në lëvizje. Përveç [[graviteti]]t, shumica e forcave të përditshme janë rrjedhojë të forcës elektromagnetike. 
+
+Principet e elektromagnetizmit gjejnë aplikime në disiplina të shumta si tek [[mikrovalët]], [[Antena (radio)|antenat]], makinat elektrike, [[satelitët e komunikimit]], bioelektromagnetika, [[Plazma (fizikë)|plazma]], kërkimet në përshpejtuesit [[Fizika bërthamore|bërthamorë]], [[fibrat optike]], në interferencën dhe kompatibilitetin elektromagnetik, në konvertimin e energjisë elektromekanike, deri tek aplikime teknologjike si [[radari]] dhe [[meteorologjia]]. Pajisjet elektromagnetike përfshijnë [[Transformatori|transformatorët]], [[Çelsi elektrik|çelsat elektrike]], [[radio]]/[[TV]], [[telefoni]]n, [[motori elektrik]], [[linjat e transmisionit]], [[përçuesit e valëve]], [[fibra optike|fibrat optike]], dhe [[lazeri]]n.
+
+=== Termodinamika dhe mekanika statistike ===
+{{main|Termodinamika|Mekanika statistike}}
+[[Skeda:Triple expansion engine animation.gif|parapamje|320px|Një '''[[Sistemi termodinamik|sistem termodinamik]]''' tipik – nxehtësia lëviz nga dhoma e nxehtë (boileri) tek (kondensuesi) i ftohtë dhe nga ky proçes përftohet [[Puna (termodinamikë)|puna]]]]
+
+[[Termodinamika]] studion efektet e ndryshimit të [[Temperatura|temperaturës]], [[Shtypja|shtypjes]], dhe [[vëllimi]]t në një [[Sistemi fizik|sistem fizik]] në një shkallë [[makroskopike]], si dhe transferimin e energjisë si [[nxehtësia]].<ref name="Perrot">{{cite book|author=Perrot, Pierre|title=A to Z of Thermodynamics|url=https://archive.org/details/tozofthermodynam0000perr_o6t1|publisher=Oxford University Press|year=1998|language=en|isbn=0-19-856552-6}}</ref><ref>{{cite book|author=Clark, John, O.E.|title=The Essential Dictionary of Science|publisher=Barnes & Noble Books|year=2004|language=en|isbn=0-7607-4616-8}}</ref> Historikisht, termodinamika u zhvillua për të rritur [[Efiçenca termodinamike|efiçencën]] e [[Motori me avull|motorëve me avull]] të hershëm.<ref>{{cite book|last=Clausius|first=Ruldolf|title=On the Motive Power of Heat, and on the Laws which can be deduced from it for the Theory of Heat|publisher=Poggendorff's ''Annalen der Physick'', LXXIX (Dover Reprint)|year=1850|language=en|isbn=0-486-59065-8}}</ref>
+
+Pika fillestare për trajtimin termodinamik të një problemi janë [[ligjet e termodinamikës]], të cilat postulojnë që [[energjia]] mund të shkëmbehet midis sistemeve fizike si nxehtësi ose [[Puna mekanike|punë]].<ref>{{cite book|author=Van Ness, H.C.|title=Understanding Thermodynamics|publisher=Dover Publications, Inc.|year=1969|language=en|isbn=0-486-63277-6}}</ref> Ato postulojnë gjithashtu edhe ekzistencën e një madhësie të quajtur [[Entropia|entropi]], e cila mund të përcaktohet për çdo sistem.<ref>{{cite book|author=Dugdale, J.S.|title=Entropy and its Physical Meaning|publisher=Taylor and Francis|year=1998|language=en|isbn=0-7484-0569-0}}</ref> Në termodinamikë, bashkëveprimet midis ansambleve të mëdha të objekteve studiohen dhe kategorizohen. Rëndësi të madhe për këtë mbajnë konceptet e [[Sistemi (termodinamikë)|sistemit]] dhe e [[Mjedisi rrethues (termodinamikë)|mjedisit rrethues]]. Një sistem përbehet nga thërrmija, lëvizja mesatare e të cilave përcakton vetitë e tij, të cilat janë të lidhura me njëra tjetrën nëpërmjet [[Ekuacionet e gjëndjes|ekuacioneve të gjëndjes]]. Vetitë mund të kombinohen për të shprehur [[Energjia e brëndshme|energjinë e brëndshme]] dhe [[Potenciali termodinamik|potencialin termodinamik]], të cilat janë shumë të vlefshme për përcaktimin e kushteve për [[Ekuilibri dinamik|ekuilibrin]] dhe [[Proçesi spontan|proçeset spontane]].
+
+[[Mekanika statistike]] analizon [[sistemi termodinamik|sisteme]] [[makroskopike]] duke aplikuar [[Statistika|parime statistikore]] në përbërësit e tyre mikroskopike. Ajo jep një mënyrë për lidhjen e vetive mikroskopike të atomeve dhe molekulave individuale me vetitë makroskopike të të gjithë materialit që mund të observohen në jetën e përditshme. [[Termodinamika]] mund të shpjegohet si një rezultat i natyrshëm i statistikës dhe mekanikës (klasike dhe kuantike) në një nivel mikroskopik. Në veçanti, mund të përdoret për llogaritjen e madhësive termodinamike të vetive të materialeve nga analizat spektroskopike të molekulave individuale. Në këtë mënyrë, [[ligjet e gazeve]] mund të derivohen, nga supozimi se gazi është një koleksion thërrmijash inidviduale, të cilat mund të trajtohen si sfera të ngurta me [[masa|masë]]. Nga ana tjetër, në qoftë se këto thërrmija individuale kanë një [[Ngarkesa elektrike|ngarkesë elektrike]], atëhere përshpejtimi individual i këtyre thërrmijave do të shkaktojë emetimin e [[drita|dritës]]. Ishin këto fakte të marra në konsideratë ato që çuan [[Max Planck|Maks Plankun]] të formulonte ligjin  e [[Rrezatimi i trupit të zi|rrezatimit të trupit të zi]],<ref>[[Max Planck]] (1925), ''A Survey of Physical Theory'' derivon ligjin e tij te rrezatimit të trupit të zi ne ato shënime në pp. 115-116, ISBN 0-486-67867-9
+</ref> vetem duke supozuar që spektri i rrezatimit te emetuar nga këto thërrmija nuk është konstant në lidhje me frekuencën, por është i kuantizuar.<ref>''[[Feynman Lectures on Physics]]'', vol '''I''' p. 41-6, ISBN 0-201-02010-6</ref>
+
+=== Relativiteti ===
+{{main|Relativiteti}}
+{{main|Relativiteti special|Relativiteti i përgjithshëm}}
+[[Skeda:Cassini-science-br.jpg|parapamje|250px|Test me saktësi të madhe i relativitetit të përgjithshëm nga sonda [[Kazini-Hygens|Kazini]] (pikëpamje artistike): sinjalet e [[radio]]s të dërguara midis Tokës dhe sondës (valët e gjelbërta) janë [[Efekti Shapiro|të vonuara]] nga përkulja e [[hapësirë-koha|hapësirë-kohës]] (vijat blu).]]
+
+[[Teoria e relativitetit|Relativiteti]] është një përgjithësim i mekanikes klasike që përshkruan objekte masive ose objekte që lëvizin me shpejtësi shumë të mëdha, ose sisteme shumë masive. Ai përfshin relativitetin [[relativiteti special|special]] dhe të  [[Relativiteti i përgjithshëm|përgjithshëm]].
+
+[[Teoria e relativitetit special]] u propozua më 1905 nga [[Albert Ajnshtajni]] në artikullin e tij "[[Artikujt e Annus Mirabilis#Relativiteti special|Mbi Elektrodinamikën e trupave në lëvizje]]". Titulli i artikullit i referohet faktit se relativiteti special zgjidh problemin midis [[Ekuacionet e Maksuellit|ekuacioneve të Maksuellit]] dhe mekanikës klasike. Teoria është e bazuar mbi [[Postulatet e relativitetit special|dy postulate]]: '''1.''' forma matematike e [[ligji fizik|ligjeve fizike]] është invariante në të gjitha [[kënd inercial reference|sistemet inerciale]]; dhe '''2.''' [[shpejtësia e dritës]] në [[Vakumi|boshllëk]] është konstante dhe e pavarur nga burimi i vëzhguesit. Në mënyrë që këto dy postulate mos kundështojnë njëra tjetrën kërkohet që [[hapësira]] dhe [[koha]] të unifikohen në fabrikën e [[Hapësirë-koha|hapesirë-kohës]] e cila varet në llojin e sistemit.
+
+Relativiteti special jep një sërë rezultatesh të habitshme që duket sikur shkojnë kundër intuitës, megjithatë të gjitha këto parashikime janë të verifikuara eksperimentalisht. Ai hedh poshte [[Mekanika e Njutonit|nocionet absolute të hapësirës dhe kohës]] duke pohuar se [[distanca]] dhe [[koha]] varen tek vëzhguesi, koha dhe hapësira perceptohen në mënyrë të ndryshme, në varësi të vëzhguesit. Teoria nxjerr në perfundimin se ndryshimi tek [[masa]], [[dimensioni|dimensionet]], dhe [[koha]] shoqërohen me ndryshimet e [[Shpejtësia|shpejtësisë]] së trupit. Ajo gjithashtu jep edhe ekuivalencën e [[lenda|lëndës]] me [[energjia|energjinë]] siç jepet nga formula e [[ekuivalenca e masës me energjinë|ekuivalencës së masës me energjinë]] '''''E''&nbsp;=&nbsp;''mc''<sup>2</sup>''', ku ''c'' është shpejtesia e dritës në boshllëk. Relativiteti special dhe [[relativiteti Galilean]] i mekanikës Njutoniane bien dakort kur shpejtësitë e trupave janë të vogla në krahasim me atë të dritës. Relativiteti special nuk e përshkruan gravitacionin; megjithatë duhet theksuar se ai mund të pershkruajë lëvizje të nxituara në mungesë të gravitetit.<ref>Ndryshimi në shpejtësinë e dritës shkakton ndryshime tek masa, dimenisonet dhe tek koha.
+
+{{Citation|last=Taylor|first=Edwin F.|title=Spacetime Physics|year=1966|location=San Francisco|publisher=W.H. Freeman and Company|language=en|isbn=0-7167-0336-X|last2=Wheeler|first2=John Archibald|author2-link=John Archibald Wheeler}}
+
+Shiko për shembull:<nowiki><ref></nowiki>''Raketa Relativiste'', Problemi #58, faqja 141, dhe përgjigjen.</ref>
+
+[[Relativiteti i përgjithshëm]] është [[teoria]] [[Gjeometria|gjeometrike]] e [[gravitacioni]]t e publikuar nga [[Albert Ajnshtajni]] në 1915/16.<ref name="Ein1915">{{cite journal|last=Einstein|first=Albert|date=25 nëntor 1915|title=Die Feldgleichungen der Gravitation|url=http://nausikaa2.mpiwg-berlin.mpg.de/cgi-bin/toc/toc.x.cgi?dir=6E3MAXK4&step=thumb|url-status=dead|journal=Sitzungsberichte der Preussischen Akademie der Wissenschaften zu Berlin|language=de|pages=844–847|archive-url=https://web.archive.org/web/20161027044950/http://nausikaa2.mpiwg-berlin.mpg.de/cgi-bin/toc/toc.x.cgi?dir=6E3MAXK4|archive-date=27 tetor 2016|author-link=Albert Einstein|accessdate=12 shtator 2006}}</ref><ref name="Ein1916">{{cite journal|last=Einstein|first=Albert|date=1916|title=The Foundation of the General Theory of Relativity|url=http://www.alberteinstein.info/gallery/gtext3.html|url-status=dead|format=[[PDF]]|journal=Annalen der Physik|language=en|archive-url=https://web.archive.org/web/20120206225139/http://www.alberteinstein.info/gallery/gtext3.html|archive-date=6 shkurt 2012|accessdate=3 shtator 2006}}</ref> Ajo unifikon [[Relativiteti special|relativitetin special]], [[Ligji universal i gravitacionit i Njutonit|ligjin universal të gravitetit të Njutonit]], duke futur idenë se gravitacioni mund të përshkruhet nga [[kurbatura]] e [[hapësira|hapësirës]] dhe [[koha|kohës]]. Në relativitetin e përgjithshëm, kurbatura e [[hapësirë-koha|hapësirë-kohës]] prodhohet nga [[energjia]] e lëndës dhe rrezatimit. Relativiteti i përgjithshëm ndryshon nga [[Metrika (matematika)|metrikat]] e [[:Category:Teori gravitacioni|teorive të gravitacionit]] nga përdorimi i [[ekuacionet e fushës të Ajnshtajnit]] të cilat lidhin përmbajtjen e hapësirë-kohës me vete hapësirë-kohën. Invarianca lokale e [[Hendrik Lorentz|Lorencit]] kërkon që manifoldi në RP të jetë 4-dimensional dhe Lorencian në vend të atij [[Manifoldi Rimanian|Rimanian]]. Për më tepër, parimi i [[Kovarianca e përgjithshme|kovariancës së përgjithshme]] e bën të domosdoshme përdorimin e [[analiza tensoriale|analizës tensoriale]]. 
+
+Suksesi i pare i relativitetit të përgjithshëm që në shpjegimin e [[preçesioni]]t anormal të [[perihelioni]]t të [[Mërkuri (planet)|Mërkurit]]. Në 1919, [[Arthur Stanley Eddington|Artur Edington]] lajmëroi që vëzhgimi i një [[ylli]] pranë [[eklipsi]]t [[Dielli|diellor]] konfirmoi parashikimet e relativitetit të përgjithshëm se trupat masivë mund të përkulin dritën. Që atëhere, shumë [[Testime të relativitetit të përgjithshëm|observime dhe eksperimente]] kanë konfirmuar shumë nga [[#Parashikimet|parashikimet e relativitetit të përgjithshëm]], përfshirë [[bymimi kohor gravitacional]], [[zhvendosja në të kuqe]] e gjatësisë valore të dritës, [[Vonesa e Shapiros|vonesën e sinjalit]], dhe [[Rrezatimi gravitacional|rrezatimin gravitacional]]. Për më tepër, vëzhgime të shumta në kohën e sotme interpretohen si nje afirmim pozitiv i një nga parashikimeve më të çuditshme dhe ekzotike të relativitetit të përgjithshëm, ekzistencës së [[Vrima e zezë|vrimave të zeza]].
+
+=== Mekanika kuantike ===
+{{main|Mekanika kuantike}}
+[[Skeda:HAtomOrbitals.png|thumb|left|250px|Disa nga [[Konfigurimi elektronik|orbitalet e para elektronike]]  të [[atomi i hidogjenit|atomit të hidrogjenit]] të treguara si grafe të ngjyrosura të [[amplituda e probabilitetit|densitetit probabilistik]]]]
+
+[[Mekanika kuantike]] është dega e fizikës që trajton sistemet [[atomi]]ke dhe [[thërrmija nënatomike|nënatomike]] si dhe bashkëveprimin e tyre me [[RRezatimi|rrezatimin]] në terma të madhësive të [[Madhësitë e observueshme|observueshme]]. Ajo bazohet mbi faktin që të gjitha format e energjisë lëshohen në njësi diskrete të quajtura "[[kuanti|kuante]]". Duhet theksuar se, teoria kuantike lejon vetëm përdorimin e llogaritjeve [[Probabiliteti|probabilistike]] ose [[statistika|statistike]] mbi tiparet e thërrmijave nënatomike, të dhëna nëpërmjet [[Funksioni valor|funksionit valor]]. [[Ekuacioni i Shrodingerit]] në mekanikën kuantike luan rolin analog që [[ligjet e Njutonit]] dhe [[ligji i konservimit të energjisë]] luajnë në mekanikën klasike — pra, ai parashikon sjelljen e [[sistemi dinamik|sistemeve dinamike]] në të ardhmen — ky funksion është një [[Ekuacioni i valës|ekuacion vale]] i dhënë në terma të funksionit valor i cili parashikon në një mënyrë analitike dhe preçise probabilitetin e ngjarjeve dhe rezultateve. 
+ 
+Sipas teorive të vjetra të [[Fizika klasike|fizikës klasike]], energjia trajtohet si një fenomen i vazhdueshëm, kurse lënda mendohet si diçka që zë një vend në hapësire dhe lëviz në mënyrë të vazhdueshme. Sipas teorisë kuantike, energjia emetohet dhe absorbohet në njësi të vogla, diskrete. Një copë individuale ose paketë energjie, quhet një kuant (shumës. kuante), kështu që në disa raste ajo sillet tamam si një grimcë lënde; të gjitha thërrmijat shfaqin veti [[vala|valore]] kur janë në lëvizje kështu që në mekanikën kuantike lënda nuk mendohet si e lokalizuar në një vend por si e shpërndarë në një farë mënyre.Për shembull, drita, ose rrezatimi elektromagnetik, që lëshohet ose absorbohet nga një atom ka vetëm [[frekuenca]] (ose [[gjatësia e valës|gjatësi valësh]]) të caktuara, siç mund të shihet nga [[spektri atomik|vijat spektrale]] që i korrespondojnë elementit të atij atomi. Teoria kuantike tregon se keto frekuenca i korrespondojnë energjive të përcaktuara të kuanteve të dritës, ose  [[fotoni|fotoneve]], kjo del nga fakti qe [[elektroni|elektronet]] në një atom lejohen të marrin vetem vlera të caktuara të energjisë, ose e thënë ndryshe elektronet mund të ekzistojne vetëm në nivele të caktuara energjitike, një kuant energjie emetohet ose absorbohet kur frekuenca është në proporcion të drejtë me diferencën e energjisë me dy niveleve.     
+  
+Formalizmi i mekanikes kuantike u zhvillua gjatë 1920-ve. Në 1924, [[Luiz de Brojli]] propozoi se valët dritore nuk janë të vetmet të cilat shfaqin një karaker dual, pra vala sillet si thërmije siç ndodh në efektin fotoelektrik dhe në spektrat atomike, edhe thërrmijat grimcore shfaqin dukuri valore. Sugjerimi i de Brojlit dha dy formulime të ndryshme të mekanikës kuantike. [[Mekanika valore]] e [[Erwin Schrodinger|Ervin Shrodingerit]] (1926) përfshin përdorimin e një koncepti matematik, funksionit valor, i cili është i lidhur me probabilitetin e gjëndjes së një thërrmije në një pikë të hapësirës. [[Mekanika e matricave]] e [[Werner Heisenberg|Uerner Hajzenbergut]] (1925) nuk e përmend fare konceptin e funksionit valor ose koncepte të ngjashme, e megjithatë ajo u tregua se ishte komplet ekuivalente me teorinë e Shrodingerit. Një zbulim shume i rëndësishëm në teorine kuantike është [[parimi i papërcaktueshmërisë]], i enunciuar për herë të parë nga  Hajzenbergu në 1927, i cili vendos një limit absolut teorik në saktësinë që mund të arrihet në disa matje; si rezultat i kesaj, mendimi i disa shkencetareve se gjendja fizike e nje sistemi mund të matet në menyre ekzakte për tu përdorur në parashikimin e gjendjes së sistemit në të ardhmen duhet të braktisej. Mekanika kuantike u kombinua me teorinë e relativitetit në formulimin e [[Paul Dirac|P. A. M. Dirakut]] (1928), e cila, përveç të tjerash, parashikoi ekzistencën e [[Antilënda|anti-thërrmijave]]. Zhvillime të tjera të teorisë përfshinë [[Statistika kuantike|statistikën kuantike]], të prezantuar në një formë nga Ajnshtajni dhe [[Satyendranath Bose|S. N. Bose]] ([[statistika Bose-Ajnshtajn]]) dhe në një formë tjetër nga Diraku dhe [[Enriko Fermi]] ( [[statistika Fermi-Dirak]]); [[Elektrodinamika kuantike]], merret me bashkeveprimin midis thërrmijave të ngarkuara dhe fushës elektromagnetike; përgjithësimi i saj jepet nga, [[teoria kuantike e fushës]]; dhe [[elektronika kuantike]]. Zbulimi i mekanikës kuantike në fillimin e shekullit të 20-të revolucionoi fizikën, sic shihet mekanika kuantike është një nga degët më themelore në pothuajse të gjitha fushat kontemporare të kerkimit.
+
+== Kërkimi ==
+
+=== Teoria dhe eksperimenti ===
+
+Kultura e kërkimit në fizikë ndryshon nga shumica e shkencave në ndarjen e [[teoria|teorisë]] dhe [[eksperimenti]]t. Që nga [[shekulli i dymbëdhjetë]], shumica e fizikantëve jane specializuar ose në [[fizika teorike|fizikën teorike]] ose në atë [[fizika eksperimentale|eksperimentale]]. Fizikanti i madh [[Italia]]n  [[Enriko Fermi]] ([[1901]]–[[1954]]), i cili bëri kontribute themelore si në teori ashtu edhe në fushën eksperimentale në [[fizika bërthamore|fizikën bërthamore]], mund të thuhet se qe një veçanti. Në kontrast me këtë, pothuajse të gjithë teoricienët e suksesshëm në  [[biologji]] dhe  [[kimi]] (për shembull [[Kimia kuantike|kimisti kuantik]] dhe [[Biokimia|biokimisti]] Amerikan [[Linus Pauling]]) kane qënë eksperimentalist, edhe pse në kohët e fundit kjo po ndryshon.
+
+Teoricienet kërkojnë të zhvillojnë [[modele matematike]] që bien dakort me eksperimentet ekzistuese por në të njëjtën kohë bëjnë parashikime për rezultate në të ardhmen, ndërsa eksperimentalistët bëjnë eksperimente për testimin e parashikimeve teorike si dhe eksplorojnë (zbulojnë) fenomene te reja. Edhe pse teoria dhe eksperimenti janë të zhvilluara në mënyrë të ndarë ato varen ngushtë tek njëra tjetra. Progresi në fizikë vjen kur eksperimentalistët bëjnë një zbulim që teoritë ekzistuese nuk mund ta shpjegojnë, ose kur teoritë e reja japin baza për parashikime eksperimentale të testueshme. Teoricienët punojnë ngushtë me eksperimentalistët që zakonisht janë ata që përdorin [[Fenomenologjia (shkencë)|fenomenologjinë]].
+
+[[Fizika teorike]] është e lidhur ngushtë me [[Matematika|matematikën]], e cila është gjuha mbi të cilën teoritë fizike janë të bazuara, duhet thënë se fusha të tëra të matematikës,  si [[analiza matematike]], u shpikën posaçërisht për të zgjidhur problemet fizikë.
+
+=== Fushat e kërkimit ===
+Fushat kontemporante të kërkimit në fizikë mund të ndahen në [[Fizika e materies së kondensuar|fizikën e materies së kondensuar]]; [[fizikën atomike, molekulare, dhe optike]]; [[Fizika bërthamore|fizikën bërthamore]]; [[Astrofizika|astrofizikën]]; [[Gjeofizika|gjeofizikën]] dhe [[Biofizika|biofizikën]]. Disa departamente fizike kane edhe fusha speciale kerkimi mbi [[edukimin në fizikë]]. Që nga shekulli i njëzetë, fushat individuale të fizikës kanë filluar të bëhen shumë të [[specializimi|specializuara]], sot shumica e fizikantëve punojnë në një fushë të vetme gjatë gjithë karrieres së tyre. "Universalistë" si [[Albert Ajnshtajni]] (1879–1955) dhe [[Lev Landau]] (1908–1968), të cilët punuan në fusha të shumta në fizikë, në kohët e sotme janë shumë të rrallë.<ref>
+Edhe , pse universalizmi inkurajohet në fizikë. Për shembull, [[World Wide Web]], i cili u shpik në [[CERN]] nga [[Tim Berners-Lee]], u krijua si nje servis i infrastukturës komjuterike tek CERN, për tu përdorur nga fizikantët në mbare boten. E njëjta gjë mund të thuhet edhe për [[arXiv.org]]
+</ref>
+
+=== Fizika e materies së kondensuar ===
+{{main|Fizika e trupave të ngurtë}}
+{{main|Fizika e materies së kondensuar}}
+[[Skeda:Bose Einstein condensate.png|parapamje|350px|Të dhëna mbi shpërndarjen e shpejtësisë për një gaz të atomeve të [[rubidiumi]]t, konfirmuan zbulimin e një faze të re të lëndës të quajtur, [[kondensatet Boze-Ajnshtajn]]]]
+
+[[Fizika e materies së kondensuar]] është një fushë e fizikës që merret me vetitë fizike makroskopike të [[lënda|lëndës]]. Në vecanti, ajo merret me [[faza (lënda)|fazat]] e kondensuara që shfaqen sa herë që numri i përbërëseve të sistemit është shumë i madh dhe forcat e bashkëveprimit midis përbërëseve janë shumë të forta. Shembujt më të njohur janë fazat e kondensuara të [[Fizika e trupave të ngurtë|ngurta]] dhe [[lëngu|lëngjet]], të cilat janë rrjedhojë e lidhjeve dhe [[forca elektromagnetike|forcave elektromagnetike]] midis [[atomi|atomeve]]. Forma më ekzotike të fazave të kondensuara përfshinë [[superfluidet]] dhe [[Kondensatet Boze-Ajnshtajn]] të gjetura në disa sisteme atomike në [[temperatura]] shume të ulta, si dhe fazën [[superpërcjellshmëria|superpërcjellëse]] që shfaqet në [[elektrone përcjellës]] në disa materiale të caktuara, si dhe fazat [[ferromagneti]]ke dhe [[antiferromagneti]]ke  të  [[spini (fizika)|spinit]] në [[latica kristalore|laticën atomike]].
+
+=== Fizika atomike, molekulare, dhe optike ===
+{{ill|Fizika atomike, molekulare, dhe optike|en|Atomic, molecular, and optical physics}}
+[[Skeda:Military laser experiment.jpg|thumb|250px|Një shkencëtar ushtrie punon me një [[Lazeri|lazer]] mbi një [[tavolinë optike]].]]
+
+Fizika [[atomi]]ke, [[molekula]]re, dhe [[Optika|optike]] (AMO) është studimi i bashkëveprimeve [[lënda|lëndë]]-lëndë dhe [[drita|dritë]]-lëndë në shkallën e një [[atomi]] të vetëm ose për disa struktura që përmbajnë vetëm pak atome. Të treja deget janë të grupuara së bashku për shkak të ndërlidhjeve, ngjashmërise së metodave që përdoren dhe shkalleve të ngjashme të [[energjia|energjisë]]. Të treja zonat përfshijnë trajtime [[fizika klasike|klasike]] ose [[mekanika kuantike|kuantike]]; siç dihet analizimi i sistemit bëhet nga një këndvështrim mikrosokpik (në kontrast me analizimin makroskopik).
+
+[[Fizika atomike]] studjon çatinë  [[elektroni]]ke të [[atomi|atomeve]]. Fusha kërkimore në kohët tona po fokusohet në kontrollin kuantik, ftohjen dhe zënien në grackë të atomeve dhe ioneve, në përplasjet dinamike në temperaturë të ulta si dhe në sjelljen e gazeve që bashkëveprojnë në mënyrë të dobët (Kondensatet Bose-Ajnshtajn si dhe sistemet e holluara Fermionike të degjeneruara), në matjen me preçision të konstanteve themelore si dhe në efektet e korrelacioneve të elektroneve në strukturën dhe dinamikën e sistemeve. Fizika atomike është e infulencuar nga [[Bërthama e atomit|bërthama]] (shiko, për shembull,  [[ndarja e niveleve energjitike|ndarjen e niveleve energjitike]]), kurse fenomene  intra-bërthamore si [[Fisioni bërthamor|fisioni]] dhe [[Fuzioni bërthamor|fuzioni]] konsiderohen pjesë të [[Fizika bërthamore|fizikës bërthmore]].
+
+[[Fizika molekulare]] fokusohet në struktura multi-atomike si dhe në bashkëveprimin e tyre të brendshëm ose të jashtëm me lëndën dhe dritën. [[Fizika optike]] është e veçantë nga [[optika]] sepse ajo nuk tenton që të fokusohet në kontrollimin e fushave klasike të dritës nga objektet makroskopike, por në vetitë themelore të [[fusha optike|fushave optike]] dhe bashkëveprimit të tyre me dritën në botën mikroskopike.
+
+=== Fizika bërthamore ===
+{{main|Fizika bërthamore}}
+[[Skeda:CMS Higgs-event.jpg|thumb|Një ngjarje e simuluar në një nga detektorët CMS të [[Përplasësi i Madh i Hadroneve]], tregon shfaqjen e bozonit Higgs.]]
+
+[[Fizika bërthamore]] merret me studimin e përbërëseve [[thërrmijat elementare|elementare]] të [[lënda|lëndës]] dhe [[energjia|energjisë]], si dhe me bashkëvepimet mes tyre. Ajo njihet gjithashtu edhe si "fizika e energjisë së lartë", sepse shumë thërrmija elementare nuk shfaqen zakonisht, veçse në [[përplasja|përplasje]] që ndodhin në energjira shumë të larta me thërrmijat e tjera, siç ndodh në [[përshpejtuesit e thërrmijave]].
+
+Tani, bashkëveprimet e thërrmijave elementare përshkruhen nga [[Modeli Standart]]. Ky  model merr parasysh 12 thërrmija të njohura të lëndes të cilat bashkëveprojnë nëpërmjet [[forcat themelore|forcave themelore]] [[forca e fortë nukleare|të fortë]], [[forca e dobët nukleare|të dobët]], dhe asaj  [[elektromagnetizmi|elektromagnetike]]. Dinamika e thërrmijave të lëndës përshkruhet nëpërmjet shkëmbimit thërrmijave mesazhere që mbajnë forcat. Këto thërrmija mesazhere njihen rrespektivisht si [[gluoni|gluonet]], [[bozoni W|W<sup>−</sup> dhe W<sup>+</sup>]] dhe [[bozoni Z]], si dhe [[fotoni]]. Modeli Standart gjithashtu parashikon ekzistencën e një thërrmije të njohur si [[Bozoni i Higgsit|bozoni Higgs]]. Në korrik 2012, [[CERN]]-i, laboratori evropian i fizikës së thërrmijave, njoftoi zbulimin e një thërrmijeje në përputhje me bozonin Higgs,<ref>{{cite web|title=CERN experiments observe particle consistent with long-sought Higgs boson|url=http://press-archived.web.cern.ch/press-archived/PressReleases/Releases2012/PR17.12E.html|publisher=[[CERN]]|date=4 korrik 2012|accessdate=18 tetor 2012|url-status=dead|archive-url=https://web.archive.org/web/20121114084952/http://press-archived.web.cern.ch/press-archived/PressReleases/Releases2012/PR17.12E.html|archive-date=14 nëntor 2012|language=en}}</ref> pjesë integrale e mekanizmit Higgs.
+
+=== Astrofizika ===
+{{main|Astrofizika|Kozmologjia fizike}}
+[[Skeda:Hubble ultra deep field.jpg|thumb|250px|left|Imazhi i dritës së dukshme  nga thellësia e [[universi]]t, [[Fusha ultra e thellë e Habëllit]]]]
+
+[[Astrofizika]] dhe [[astronomia]] janë aplikimet e teorisë dhe metodave fizike për studimin e [[Struktura yjore|strukturës yjore]], [[Evolucioni yjor|evolucionit yjor]], origjinës së [[Sistemi diellor|sistemit diellor]], dhe problemeve të lidhura me [[Kozmologjia fizike|kozmologjinë]]. Për shkak se astrofizika është një subjekt shumë i gjerë, astrofizikantët zakonisht aplikojnë shumë disiplina të fizikës, përfshirë mekanikën, elektromagnetizmin, mekanikën statistike, termodinamikën, mekanikën kuantike, relativitetin, fizikën bërthamore, dhe fizikën atomiko-molekulare.
+
+Astrofizika u zhvillua nga shkenca e vjetër e astronomisë. Astronomët e civilizimeve të hershme bërën vëzhgime metodike të qiellit, kjo duket nga artifaktet e shumta astronomike të kohëve të hershme të gjetura në kultura të ndryshme. Pas shekujsh zhvillimi nga astronomët Babiloniane dhe Greke, astronomia perëndimore u fut në një periudhë letargjike për katërmbëdhjetë shekuj deri në ardhjen e [[Nikolaus Kopernikus|Nicolaus Copernicus]] i cili modifikoi [[sistemin Ptolemaik]] duke vendosur diellin në qendër të universit.  Observimet e detajuara të [[Tycho Brahe]]s çuan në [[Ligjet e Keplerit të lëvizjes planetare]]. Në të njëjtën kohë [[teleskopi]] i [[Galileo Galilei|Galileut]] ndihmoi në zhvillimin e shkencës moderne. Teoria e Njutonit e gravitetit universal dha një bazë dinamike për ligjet e Keplerit. Në fillim te shekullit te 19-te., shkenca e mekanikes qiellore arriti një stad shumë të zhvilluar në duart e [[Leonhard Euler]], [[Josef Luiz Lagranzhi|J. L. Lagranzhit]], [[Pierre Simon de Laplace|P. S. Laplasit]], dhe të tjerëve. Teknika matematike të fuqishme bënë të mundur zgjidhjen analitike të disa nga problemeve më thelbesore të gravitacionit klasik të zbatura tek sistemi diellor. Në fund të shekullit të 19-të, zbulimi i [[vijat spektrale|vijave spektrale]] në dritën e diellit provoi se elementet e gjetur tek Dielli gjënden edhe në Toke. Gjatë kësaj kohe interesi u zhvendos nga përcaktimi i distancës dhe pozicionit të yjeve tek përcaktimi i përbërjes së tyre fizike (shikoni [[struktura yjore]] dhe [[evolucioni yjor]]). Për shkak se aplikimi i fizikës tek astronomia ka zënë nje rol thelbësor përgjatë shekullit të 20-të, diferencimi midis [[Astronomia|astronomisë]] dhe [[Astrofizika|astrofizikës]] është zhdukur.
+
+Zbulimi nga [[Karl Jansky]] në 1931 që radio sinjalet e emetuara nga trupat qiellore shënoi fillimin e shkencës së [[radio astronomia|radio astronomisë]]. Në kohët e fundit, zbulimet astronomike janë zgjeruar me hedhjen e sondave kozmike. Perturbimet dhe interferenca nga atmosfera e Tokes e bejnë të domosdoshme përdorimin e [[astronomia e rrezeve-X|astronomisë së rrezeve-X]],[[astronomia me valë infra te kuqe|infra te kuqe]], [[astronomia ultraviolet|ultraviolet]], [[astronomia e rrezeve gama|rreze gama]]. [[Teleskopi hapësinor Habëll]], i lëshuar në 1990, ka bërë të mundur shikimin e pamjeve vizuale të një kualiteti dhe qartësie të lartë që ja kalon pamjeve të marra nga instrumentet tokësore; vëzhgimet nga Toka përdorin teleskope me [[optika adaptive|optikë adaptive]] e cila bën të mundur kompesimin e turbulencës pranë [[atmosfera|atmosferës]] së [[Toka|Tokës]].
+
+[[Kozmologjia fizike]] është studimi i formimit dhe evolucionit të universit në shkallat më të mbëdha. Teoria e relativitetit e Albert Ajnshtajnit luan një rol thelbësor në teoritë moderne kozmologjike. Në fillim të shekullit të 20-të, zbulimi i [[Edwin Hubble|Habëllit]] që universi po zgjerohej, siç tregohet nga [[diagrami i Habëllit]], bëri që të dilnin teori të reja si [[Modeli i gjendjes se qendrueshme]] te universit dhe ai i [[Big Bang|Bumit te madh]].  Teori e Bumit te Madh u konfirmua nga suksesi i parashikimeve të teorisë së [[Nuklosinteza e Bumit të Madh|Nuklosintezës së Bumit te Madh]] dhe zbulimit të [[Sfondi kozmik mikrovalor|sfondit kozmik mikrovalor]] në 1964. Modeli i Bumit të madh qëndron mbi dy shtylla teorike: Teoria e relativitetit të përgjithshëm e Albert Ajnshtajnit dhe [[parimi kozmologjik]]. Kozmologjistët, kohët e fundit kanë formuar një [[Modeli Lambda-CDM|model preçiz]] të evolucionit të universit, i cili perfshin [[Inflacioni kozmik|inflacionin kozmik]], [[Energjia e zezë|energjinë e zezë]] dhe [[Lënda e zezë|lëndën e zezë]].
+
+=== Fizika e aplikuar ===
+{{main|Fizika e aplikuar}}
+
+[[Fizika e aplikuar]] është një term i përgjithshëm për fizikën që hyn në pune për një përdorim të caktuar. ''Aplikimi'' dallohet nga ''fizika e pastër'' nga një kombinim delikat i faktorëve si motivacioni i kërkuesve dhe sjellja e tyre në lidhje me teknologjinë ose shkencën që ndikohet nga puna e tyre.<ref>[http://www.stanford.edu/dept/app-physics/ Stanford Applied Physics Department Description]</ref>  Kjo degë ndryshon nga [[inxhinieria]] sepse fizikanti mund të mos dizenjojë ndonje gjë të caktuar, por ai i perdor konceptet fizike gjatë kohës që bën kërkime me qëllim që të zhvillojë teknologji të reja për zgjidhjen e një problemi. Kjo në një fare mënyre është e ngjashme me  [[Matematika e aplikuar|matematikën e aplikuar]]. Fizikantët e aplikuar mund të jenë të interesuar në përdorimin e fizikës për kërkime shkencore. Për shembull,njerzit që punojnë në [[Përshpejtuesi bërthamorë|përshpejtuesit bërthamorë]] kërkojnë që të ndërtojnë detektorë më të mirë thërrmijash për kërkime në fizikën teorike.  
+
+Fizika përdoret jashtëzakonisht shumë në çdo degë [[Inxhinieria|inxhinierie]]. Për shembull, [[statika]], një nëndegë e [[mekanika klasike|mekanikës]], përdoret për ndërtimin e [[ura]]ve ose strukturave të tjera, kurse [[akustika]] përdoret për të ndërtuar salla më të mira për koncertet ose operat. Një kuptim i fizikës është shumë i rëndësishëm në dizenjimin e simulatorëve realistë për fluturime ose për lojrat kompjuterike, si në [[motori fizik|motorin fizik]], apo edhe në filma për arritjen e efekteve realiste.
+
+=== Fizika edukative ===
+{{ill|Fizika edukative|en|Physics education}}
+
+[[Fizika edukative]] i referohet metodave të tanishme pedagogjike që përdoren për të mësuar fizikën, si dhe asaj pjese të kërkimeve pedagogjike që kërkojnë të përmirësojnë këto metoda. Historikisht, fizika është mësuar në shkollën e lartë dhe në nivelin unversitar, së bashku me ushtrimet e laboratorit të cilat kanë për qëllim verifikimin e koncepteve që janë shpjeguar gjatë leksioneve. Programet universitare zakonisht përfshinë trainimin në degët themelore, të fizikës klasike dhe asaj kuantike. Trainimi specializohet më tej kur studenti mbron doktoraturën për një temë të caktuar. Shumica e universiteteve kontemporane kanë grupe të specializuar brenda departamentit të cilat merren me një program të caktuar (si psh grupi i optikës kuantike). Një nga pedagogët më te famshëm në fizikë [[Richard Feynman|Riçard Fajman]] mendonte se dhënia e mësimit ne fizikë qe një art më vete.
+
+=== Karriera ===
+{{ill|Fizikanti|en|Physicist}} është një shkencëtar i specializuar në fushën e fizikës, e cila përfshin bashkëveprimet e lëndës dhe energjisë në të gjitha shkallët e gjatësisë dhe kohës në universin fizik. [[Fizikanti|Fizikantët]] përgjithësisht janë të interesuar në shkaqet rrënjësore ose përfundimtare të dukurive, dhe zakonisht e formulojnë kuptimin e tyre në terma matematikë. Ata punojnë në një gamë të gjerë fushash kërkimore, që shtrihen në të gjitha shkallët e gjatësisë: nga fizika nën-atomike dhe ajo e thërrmijave, nëpërmjet fizikës biologjike, deri tek shkallët gjatësore kozmologjike që përfshijnë universin në tërësi. Fusha përgjithësisht përfshin dy lloje fizikantësh: fizikantët eksperimentalë, të cilët specializohen në vëzhgimin e dukurive natyrore dhe në zhvillimin e analizën e eksperimenteve, si dhe fizikantët teorikë, të cilët specializohen në modelimin matematik të sistemeve fizike për të racionalizuar, shpjeguar dhe parashikuar dukuritë natyrore.
+
+Fizikantët mund ta zbatojnë njohurinë e tyre për zgjidhjen e problemeve praktike ose për zhvillimin e teknologjive të reja (e njohur edhe si fizikë e aplikuar ose inxhinieri fizike).
+
+=== Publikime të rëndësishme në fizikë ===
+Shiko: [[Lista e publikime të rëndësishme në fizikë|Publikime të rëndësishme në fizikë]]
+
+== Shiko edhe ==
+<div class="references-small" style="-moz-column-count:3; column-count:4;">
+* [[Mekanika klasike]]
+* [[Mekanika e Njutonit]]
+* [[Mekanika e Hamiltonit]]
+
+* [[Mekanika e Lagranzhit]]
+* [[Elektromagnetizmi]]
+* [[Optika]]
+
+* [[Elektrodinamika kuantike]]
+* [[Teoria e relativitetit]]
+* [[Termodinamika]]
+
+* [[Mekanika statistike]]
+* [[Mekanika kuantike]]
+* [[Teori shkencore|Teoria Shkencore]]
+</div>
+
+== Shënime ==
+
+== Burimet e të dhënave ==
+{{reflist|2}}
+
+== Lidhje të jashtme ==
+* [http://www.physics.org Portal i drejtuar nga Instituti i Fizikës] {{Webarchive|url=https://web.archive.org/web/20040902123039/http://physics.org/ |date=2 shtator 2004 }} 
+* [http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html Koncepte themelore] 
+* [http://www-physics.lbl.gov/~stapp/repsept24.txt Diskutim] 
+* [http://www.albfizika.com Portali fizika]{{Lidhje e thyer}} 
+
+=== Organizata (Web) ===
+* [https://web.archive.org/web/20041012041319/http://www.aip.org/index.html AIP: Instituti Amerikan i Fizikës] 
+* [http://www.iop.org/ IOP: Instituti i Fizikes] {{Webarchive|url=https://web.archive.org/web/20190521010833/http://www.iop.org/ |date=21 maj 2019 }} 
+* [http://www.aps.org/ APS: Shoqëria Amerikane Fizike]
+* [http://www.spsnational.org/ SPS: Shoqëria e Studentëve të Fizikës Amerikane] 
+* [http://www.cap.ca/ CAP: Organizata Kanadeze e Fizikantëve]
+* [http://www.eps.org/ EPS: Shoqëria Fizike Europiane] 
+* [https://ikf-akad.al/ IKF: Instituti Kombëtar i Fizikës] 
+
+<!-- LIBRA -->
+<div class="infobox sisterproject" cellspacing="0" style="width:280px; height:60px; background: #f9f9f9;color:#000">
+<div style="float: left;">[[Skeda:Wikibooks-logo-en.svg|50px|none|Wikibooks]]</div>
+<div style="margin-left;">'' '''[[Wikibooks]]''' '' {{ #if: [[Wikibooks:Physic|Fizika]]}}
+{{ #if:
+  | ''një faqe''
+  | {{ #if: Physics
+  | ''ka disa''
+ }}
+}} 
+<div style="margin-left:10px;">
+{{ #if: 
+  | [[Wikibooks:Physics/{{{2}}}|{{{3}}}]]
+  | 
+{{ #if: 
+  | [[Wikibooks:Physics/{{{2}}}|{{{2}}}]]
+  | 
+{{ #if: Physics
+  | [[Wikibooks:Physics|'''''libra në degën e fizikës''''']]
+  | [[wikibooks:Special:Search/Fizika|Fizikë]]
+  }}
+ }}
+}}</div></div></div>
+
+<!-- AXHENDA -->
+<div class="infobox sisterproject" cellspacing="0" style="width:280px; height:60px; background: #f9f9f9;color:#000">
+<div style="float: left;">[[Skeda:Wikibooks-logo-en.svg|50px|none|Wikibooks]]</div>
+<div style="margin-left;">'' '''[[Wikibooks]]''' ka një'' <br />''[[:Wikibooks:Category:Physics|'''axhendë studimi për fizikën''']]''
+</div></div>
+
+<!-- SHKOLLA -->
+<div class="infobox sisterproject" cellspacing="0" style="width:280px; height:60px; background: #f9f9f9;color:#000">
+<div style="float: left;">[[Skeda:Wikibooks-logo-en.svg|50px|none|Wikibooks]]</div>
+<div style="margin-left;">'' '''[[Wikibooks]]''' ''
+{{ #if: 
+  | [[Wikibooks:FHSST Fizikë|'' '''Libër fizike për shkollat e mesme''' '']]
+}} ''ka një''<div style="margin-left:10px;">
+{{ #if: 
+  | [[wikibooks:FHSST Physics/{{{2}}}|{{{3}}}]]
+  | 
+{{ #if: 
+  | [[wikibooks:FHSST Physics/{{{2}}}|{{{2}}}]]
+  | 
+{{ #if: FHSST Physics
+  | ''[[wikibooks:FHSST Physics|'''libër fizike për shkollat e mesme''']]'' }} }} 
+}}
+</div></div></div>
+
+{{Navbox
+| name  = Nën-fushat e përgjithshme në Fizikë
+| title = Nën-fushat e përgjithshme në Fizikë
+|list1=[[Akustika]] {{G•}} [[Agrofizika]] {{G•}} [[Astrofizika]] {{G•}} [[Fizika atmsoferike]] {{G•}} [[Biofizika]] ([[Fizika mjekësore]], [[Neurofizika]]){{G•}} [[Mekanika]] ([[Mekanika klasike|Klasike]] {{G•}} [[Mekanika kuantike|Kuantike]] {{G•}} [[Mekanika statistike|Statistike]]) {{G•}} [[Elektromagnetizmi]] ([[Optika]]) {{G•}} [[Dinamika]] ([[Dinamika e fluideve]] {{G•}} [[Termodinamika]]) {{G•}} [[Teoria e relativitetit|Relativiteti]] <br /> [[Fizika bërthamore|Fizika e energjisë së lartë]] {{G•}} [[Teoria e fushës kuantike]] {{G•}} [[Fizika e materies së kondensuar]] {{G•}} [[Fizika atomike, molekulare, dhe optike]]
+}}
+{{Navbox
+| name = Forcat themelore
+| title = Katër [[forcat themelore të bashkëveprimit]] në fizikë
+| titlestyle = 
+| list1 = <div>[[Bashkëveprimi i fortë]] {{G•}} [[Elektromagnetizmi]] {{G•}} [[Bashkëveprimi i dobët]] {{G•}} [[Gravitacioni]]</div>
+}}
+
+{{Portal/Livadhi|fizika}}
+{{Artikull i përkryer|dita=31|muaj=07|viti=2010}}
+
+[[Kategoria:Fizikë| ]]
+[[Kategoria:Shkencë]]
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Physics|2 gusht 2026|1367298570}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer/përditësuar nga anglishtja, sipas artikullit en:Physics, versioni i datës 2 gusht 2026 (revizioni 1367298570); azhurnim i artikullit ekzistues "Fizika" (Artikull i Përkryer): shtuar seksioni "Karriera", përditësuar zbulimi i bozonit Higgs (2012), rregulluar sintaksë e vjetëruar CS1 (id=ISBN, author1-4) dhe tre hatnote {{main}} të thyera.
+-->
