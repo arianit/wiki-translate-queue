@@ -1,0 +1,107 @@
+{{Other uses}}
+'''Biologjia''' është studimi shkencor i [[Jeta|jetës]] dhe [[Organizmi|organizmave]] të gjallë. Është një [[Shkencat natyrore|shkencë natyrore]] e gjerë, që përfshin një gamë të larmishme fushash dhe parimesh unifikuese që shpjegojnë strukturën, funksionin, rritjen, origjinën, [[Evolucioni|evolucionin]] dhe shpërndarjen e jetës. Në themel të biologjisë qëndrojnë pesë tema themelore: [[Qeliza|qeliza]] si njësia bazë e jetës, [[Gjeni|gjenet]] dhe [[Trashëgimia|trashëgimia]] si bazë e trashëgimisë biologjike, evolucioni si forca shtytëse e [[Bioshumëllojshmëria|bioshumëllojshmërisë]], shndërrimi i [[Energjia|energjisë]] për mbajtjen e proceseve jetësore, si dhe [[Homeostaza|homeostaza]], ruajtja e qëndrueshmërisë së brendshme.<ref>{{cite journal |last1=Modell |first1=Harold |last2=Cliff |first2=William |last3=Michael |first3=Joel |last4=McFarland |first4=Jenny |last5=Wenderoth |first5=Mary Pat |last6=Wright |first6=Ann |date=December 2015 |title=A physiologist's view of homeostasis |journal=Advances in Physiology Education |volume=39 |issue=4 |pages=259–266 |doi=10.1152/advan.00107.2015 |pmc=4669363 |pmid=26628646 |language=en}}</ref><ref>{{cite journal |last1=Davies |first1=P. C. |last2=Rieper |first2=E. |last3=Tuszynski |first3=J. A. |title=Self-organization and entropy reduction in a living cell |journal=Bio Systems |volume=111 |issue=1 |pages=1–10 |date=January 2013 |pmid=23159919 |pmc=3712629 |doi=10.1016/j.biosystems.2012.10.005 |language=en}}</ref>
+
+Biologjia e shqyrton jetën në shumë {{ill|nivele organizimi biologjik|en|Biological organisation}}, nga [[Molekula|molekulat]] dhe qelizat te organizmat, [[Popullata|popullatat]] dhe [[Ekosistemi|ekosistemet]]. Nëndisiplinat e saj përfshijnë [[Biologjia molekulare|biologjinë molekulare]], [[Fiziologjia|fiziologjinë]], [[Ekologjia|ekologjinë]], [[Biologjia evolucionare|biologjinë evolucionare]], {{ill|biologjinë zhvillimore|en|Developmental biology}} dhe [[Sistematika|sistematikën]], ndër të tjera. Secila prej këtyre fushave përdor një gamë metodash për të hetuar dukuritë biologjike, duke përfshirë vrojtimin, eksperimentimin dhe modelimin matematik. Biologjia moderne bazohet në teorinë e evolucionit nëpërmjet [[Seleksionimi natyror|seleksionimit natyror]], të formuluar për herë të parë nga [[Çarls Darvin]], si dhe në kuptimin molekular të gjeneve të koduara në [[ADN]]. Zbulimi i strukturës së ADN-së dhe përparimet në [[Gjenetika molekulare|gjenetikën molekulare]] kanë transformuar shumë fusha të biologjisë, duke sjellë zbatime në [[Mjekësia|mjekësi]], [[Bujqësia|bujqësi]], [[Bioteknologjia|bioteknologji]] dhe [[Shkencat e Ambientit dhe Mjedisit|shkencat mjedisore]].
+
+Biologët i klasifikojnë organizmat — nga [[Arkeat|arkeat]] dhe [[Bakteri|bakteret]] njëqelizore te [[Bimët|bimët]], kërpudhat dhe [[Kafshët|kafshët]] shumëqelizore — bazuar në karakteristika të përbashkëta dhe marrëdhënie evolucionare, duke përdorur [[Taksonomia (biologji)|taksonominë]] dhe [[Filogjenetika|filogjenetikën]].
+
+== Etimologjia ==
+
+Nga [[Gjuha greke|greqishtja]] ''bíos'' "jetë" (nga rrënja proto-indo-evropiane *''gwei''-, "të jetosh") dhe ''logía'' "studim i". Fjala e përbërë shfaqet në titullin e vëllimit të tretë të veprës së Michael Christoph Hanow ''Philosophiae naturalis sive physicae dogmaticae: Geologia, biologia, phytologia generalis et dendrologia'', botuar në 1766. Termi "biologji" në kuptimin e tij modern duket se u prezantua në mënyrë të pavarur nga Thomas Beddoes (1799), Karl Friedrich Burdach (1800), Gottfried Reinhold Treviranus (''Biologie oder Philosophie der lebenden Natur'', 1802) dhe Jean-Baptiste Lamark (''Hydrogéologie'', 1802).<ref>{{cite book |last1=Mayr |first1=Ernst |title=The Growth of Biological Thought: Diversity, Evolution, and Inheritance |date=1982 |publisher=Harvard University Press |isbn=978-0-674-36446-2 |page=108 |language=en}}</ref>
+
+== Historia ==
+{{Hatnote|Artikulli kryesor: {{ill|Historia e biologjisë|en|History of biology}}}}
+
+Rrënjët më të hershme të shkencës, ku përfshihej edhe mjekësia, gjurmohen deri në [[Egjipti i Lashtë|Egjiptin e Lashtë]] dhe [[Mesopotamia|Mesopotaminë]] rreth viteve 3000–1200 p.e.s.<ref>{{cite book |last=Lindberg |first=David C. |year=2007 |chapter=Science before the Greeks |title=The beginnings of Western science |edition=2nd |location=Chicago |publisher=University of Chicago Press |isbn=978-0-226-48205-7 |language=en}}</ref> Kontributi i tyre formësoi [[Filozofia natyrore|filozofinë natyrore]] të [[Greqia e Lashtë|Greqisë së Lashtë]]. Filozofë grekë si [[Aristoteli]] (384–322 p.e.s.) dhanë një kontribut të gjerë në zhvillimin e njohurive biologjike; ai eksploroi kauzalitetin biologjik dhe diversitetin e jetës. Pasuesi i tij, [[Teofrasti]], nisi studimin shkencor të bimëve. Dijetarë të botës mesjetare islame që shkruan mbi biologjinë përfshijnë [[El-Xhahiz]]in (781–869) dhe al-Dinawarin (828–896), i cili shkroi mbi botanikën.<ref>{{cite book |last=Fahd |first=Toufic |contribution=Botany and agriculture |page=815 |editor1-last=Morelon |editor1-first=Régis |editor2-last=Rashed |editor2-first=Roshdi |year=1996 |title=Encyclopedia of the History of Arabic Science |volume=3 |publisher=Routledge |isbn=978-0-415-12410-2 |language=en}}</ref>
+
+Biologjia filloi të zhvillohej me shpejtësi me përmirësimin dramatik të [[Mikroskopi|mikroskopit]] nga [[Antonie van Leeuwenhoek]]. Ishte atëherë që studiuesit zbuluan spermatozoidët, bakteret, infuzorët dhe larminë e jetës mikroskopike. Hetimet e Jan Swammerdamit çuan në një interes të ri për [[Entomologjia|entomologjinë]] dhe ndihmuan në zhvillimin e teknikave të diseksionit mikroskopik dhe ngjyrosjes.<ref>{{cite book |last=Magner |first=Lois N. |title=A History of the Life Sciences, Revised and Expanded |year=2002 |publisher=CRC Press |isbn=978-0-203-91100-6 |pages=133–144 |language=en}}</ref> Përparimet në mikroskopi patën ndikim të thellë edhe në mendimin biologjik. Në fillim të shekullit XIX, biologët treguan rëndësinë qendrore të qelizës. Në 1838, Matthias Jakob Schleideni dhe Theodor Schwanni filluan të promovonin idetë, tashmë universale, se (1) njësia bazë e organizmave është qeliza, dhe (2) çdo qelizë individuale ka të gjitha karakteristikat e jetës — ndonëse ata kundërshtonin idenë (3) se të gjitha qelizat vijnë nga ndarja e qelizave të tjera, duke mbështetur ende gjenerimin spontan. Robert Remak dhe Rudolf Virchow arritën ta vërtetonin edhe parimin e tretë, dhe deri në vitet 1860 shumica e biologëve i pranuan të tria parimet, të cilat u konsoliduan si [[Teoria e qelizës|teori e qelizës]].<ref>{{cite book |first=Jan |last=Sapp |year=2003 |title=Genesis: The Evolution of Biology |chapter=7 |publisher=Oxford University Press |isbn=978-0-19-515618-8 |language=en}}</ref>
+
+Ndërkohë, taksonomia dhe klasifikimi u bënë fokusi i historianëve të natyrës. [[Karl Lineu]] botoi një taksonomi bazë të botës natyrore në 1735 (variacione të së cilës mbeten në përdorim edhe sot), dhe në vitet 1750 prezantoi emra shkencorë për të gjitha speciet.<ref>Mayr, Ernst. ''The Growth of Biological Thought'', kapitulli 4.</ref> Georges-Louis Leclerc, konti i Buffonit, i trajtoi speciet si kategori artificiale dhe format e jetës si të lakueshme — madje duke sugjeruar mundësinë e prejardhjes së përbashkët.
+
+Mendimi serioz evolucionar nisi me veprën e Jean-Baptiste Lamarkut, i pari që paraqiti një teori koherente të evolucionit.<ref>Gould, Stephen Jay. ''The Structure of Evolutionary Theory''. The Belknap Press of Harvard University Press: Cambridge, 2002. {{ISBN|0-674-00613-5}}, f. 187.</ref> Natyralisti britanik [[Çarls Darvin]], duke bashkuar qasjen biogjeografike të [[Alexander von Humboldt|Aleksandër fon Humboldtit]], gjeologjinë uniformitariste të Charles Lyellit, shkrimet e Thomas Robert Maltusit mbi rritjen e popullsisë, si dhe ekspertizën e vet morfologjike dhe vrojtimet e gjera natyrore, formuloi një teori evolucionare më të suksesshme, të bazuar në seleksionimin natyror; arsyetime dhe prova të ngjashme e çuan Alfred Russel Wallace-in të arrinte, në mënyrë të pavarur, në të njëjtat përfundime. Ndonëse ishte objekt polemikash — që vazhdojnë deri sot — teoria e Darvinit u përhap shpejt në komunitetin shkencor dhe u bë shpejt aksiomë qendrore e biologjisë në zhvillim.
+
+Bazat e gjenetikës moderne nisën me punën e [[Gregor Mendeli]]t në 1865, e cila skicoi parimet e trashëgimisë biologjike.<ref>{{cite journal |last=Miko |first=Ilona |title=Gregor Mendel's principles of inheritance form the cornerstone of modern genetics |journal=Nature Education |volume=1 |issue=1 |page=134 |date=2008 |language=en}}</ref> Sidoqoftë, rëndësia e punës së tij nuk u kuptua deri në fillim të shekullit XX, kur evolucioni u bë teori e unifikuar përmes ''sintezës moderne'', e cila pajtoi evolucionin darvinist me [[Gjenetika klasike|gjenetikën klasike]]. Në vitet 1940 dhe fillim të viteve 1950, një seri eksperimentesh nga Alfred Hershey dhe Martha Chase treguan se ADN-ja ishte përbërësi i kromozomeve që mbante njësitë bartëse të tipareve, të njohura si gjene. Përqendrimi te organizma të rinj model, si viruset dhe bakteret, së bashku me zbulimin e strukturës me dy spirale të ADN-së nga James Watson dhe Francis Crick në 1953, shënoi kalimin në epokën e gjenetikës molekulare. Që nga vitet 1950 e këtej, biologjia është zgjeruar shumë në fushën molekulare. Kodi gjenetik u zbërthye nga Har Gobind Khorana, Robert W. Holley dhe Marshall Warren Nirenberg, pasi u kuptua se ADN-ja përmban kodone. Projekti i Gjenomit Njerëzor u nis në 1990 me qëllim hartëzimin e gjenomit njerëzor.<ref>{{cite news |url=https://news.bbc.co.uk/2/hi/science/nature/2940601.stm |title=Human genome finally complete |date=2003-04-14 |work=BBC News |first=Ivan |last=Noble |language=en |access-date=2026-08-26}}</ref>
+
+== Fushat ==
+
+=== Biokimia ===
+
+[[Biokimia]] është studimi i proceseve kimike brenda dhe në lidhje me organizmat e gjallë.<ref>{{cite web |url=http://www.acs.org/content/acs/en/careers/college-to-career/areas-of-chemistry/biological-biochemistry.html.html |title=Biological/Biochemistry |website=acs.org |language=en |access-date=2026-08-26}}</ref>
+
+=== Biologjia molekulare ===
+
+[[Biologjia molekulare]] është dega e biologjisë që kërkon të kuptojë bazën molekulare të aktivitetit biologjik brenda dhe midis qelizave. Ajo përqendrohet kryesisht te studimi i [[Acidi nukleik|acideve nukleike]] (si ADN-ja dhe [[ARN]]) dhe [[Proteina|proteinave]], duke shqyrtuar strukturën, funksionin dhe ndërveprimet e këtyre [[Makromolekula|makromolekulave]] ndërkohë që ato drejtojnë procese si replikimi, transkriptimi, translacioni, sinteza e proteinave dhe ndërveprime komplekse biomolekulare.<ref>{{cite book |last1=Alberts |first1=Bruce |last2=Johnson |first2=Alexander |last3=Lewis |first3=Julian |last4=Morgan |first4=David |last5=Raff |first5=Martin |last6=Roberts |first6=Keith |last7=Walter |first7=Peter |title=Molecular Biology of the Cell |edition=6th |date=2014 |publisher=Garland Science |isbn=978-1-317-56375-4 |pages=1–10 |language=en}}</ref>
+
+Në 1953, {{ill|eksperimenti Miller–Urey|en|Miller–Urey experiment}} tregoi se përbërjet organike mund të sintetizoheshin në mënyrë abiotike brenda një sistemi të mbyllur që imitonte kushtet e Tokës së hershme, duke sugjeruar kështu që molekula komplekse organike mund të kishin lindur spontanisht gjatë {{ill|abiogjenezës|en|Abiogenesis}}.<ref>{{cite book |last1=Hillis |first1=David M. |last2=Sadava |first2=David |last3=Hill |first3=Richard W. |last4=Price |first4=Mary V. |chapter=Carbon and molecular diversity of life |title=Principles of Life |edition=2nd |date=2014 |publisher=Sinauer Associates |pages=56–65 |isbn=978-1-4641-7512-1 |language=en}}</ref>
+
+=== Biologjia qelizore ===
+[[File:HeLa Hoechst 33258.jpg|thumb|upright=1.15|right|{{ill|Qelizat HeLa|en|HeLa}} me bërthamat (ADN-në) të ngjyrosura blu. Qeliza qendrore dhe ajo në të djathtë janë në interfazë, ndaj të gjitha bërthamat janë të etiketuara. Qeliza majtas po kalon në mitozë dhe ADN-ja e saj është kondensuar.]]
+
+[[Biologjia qelizore]] është dega e biologjisë që studion strukturën, funksionin dhe sjelljen e [[Qeliza|qelizave]].<ref>{{cite book |last1=Alberts |first1=Bruce |last2=Johnson |first2=Alexander D. |last3=Morgan |first3=David |last4=Raff |first4=Martin |last5=Roberts |first5=Keith |last6=Walter |first6=Peter |chapter=Cells and genomes |title=Molecular Biology of the Cell |edition=6th |date=2015 |publisher=Garland Science |pages=1–42 |isbn=978-0815344322 |language=en}}</ref>
+
+{{ill|Bioenergjetika|en|Bioenergetics}} është një fushë e biokimisë dhe biologjisë qelizore që merret me rrjedhën e energjisë nëpër sistemet e gjalla.<ref>Nelson, David L., Cox, Michael M. ''Lehninger: Principles of Biochemistry.'' New York: W.H. Freeman and Company, 2013, botimi i gjashtë, f. 24.</ref> Është një fushë kërkimore aktive, që përfshin studimin e shndërrimit të energjisë në organizmat e gjallë dhe studimin e mijëra proceseve qelizore të ndryshme, si [[Frymëmarrja qelizore|frymëmarrja qelizore]] dhe procese të tjera metabolike e enzimatike që mundësojnë përdorimin e energjisë.
+
+=== Gjenetika ===
+[[File:Punnett square mendel flowers.svg|thumb|upright=1.15|{{ill|Katrori i Punnett-it|en|Punnett square}} që përshkruan një kryqëzim ndërmjet dy bimëve bizele heterozigote për lulet e purpurta (B) dhe të bardha (b).]]
+
+[[Gjenetika]] është studimi shkencor i trashëgimisë biologjike.<ref>{{cite book |last1=Griffiths |first1=Anthony J. |last2=Wessler |first2=Susan R. |last3=Carroll |first3=Sean B. |last4=Doebley |first4=John |chapter=The genetics revolution |title=An Introduction to Genetic Analysis |edition=11th |date=2015 |publisher=W.H. Freeman & Company |pages=1–30 |isbn=978-1-4641-0948-5 |language=en}}</ref> [[Gjenetika klasike]], konkretisht, është studimi i mënyrës si gjenet dhe tiparet kalojnë nga prindërit te pasardhësit; parimet e saj njihen si {{ill|trashëgimi mendeliane|en|Mendelian inheritance}}. Një {{ill|katror Punnett|en|Punnett square}} mund të përdoret për të parashikuar rezultatet e një kryqëzimi provë. {{ill|Teoria kromozomike e trashëgimisë|en|Boveri–Sutton chromosome theory}}, sipas së cilës gjenet ndodhen në kromozome, u mbështet nga eksperimentet e Thomas Hunt Morganit me mizat e frutave (''Drosophila melanogaster''), të cilat vërtetuan lidhjen midis ngjyrës së syve dhe seksit te këto insekte.
+
+=== Biologjia zhvillimore evolucionare ===
+
+Biologjia zhvillimore evolucionare krahason proceset zhvillimore të organizmave të ndryshëm për të kuptuar se si kanë evoluar këto procese. Fusha lindi nga fillimet e shekullit XIX, kur embriologjia përballej me një mister: zoologët nuk e dinin si kontrollohej zhvillimi embrional në nivel molekular. [[Çarls Darvin]] vuri në dukje se ngjashmëritë mes embrioneve nënkuptonin prejardhje të përbashkët, por pak përparim u bë deri në vitet 1970, kur teknologjia e {{ill|ADN-së rekombinante|en|Recombinant DNA}} bashkoi më në fund embriologjinë me gjenetikën molekulare. Një zbulim i hershëm kyç ishte ai i gjeneve homeotike, që rregullojnë zhvillimin në një gamë të gjerë [[Eukariotët|eukariotësh]]. Fusha eksploron edhe {{ill|homologjinë e thellë|en|Deep homology}} — zbulimin që organe të ndryshme, si sytë e insekteve, [[Kurrizorët|kurrizorëve]] dhe [[Cefalopodët|cefalopodëve]], të cilat për kohë të gjatë u menduan se kishin evoluar veçmas, kontrollohen nga gjene të ngjashme.
+
+=== Biologjia evolucionare ===
+
+[[Biologjia evolucionare]] është një nëndisiplinë e biologjisë që analizon mekanizmat e evolucionit. Evolucioni shpjegon unitetin dhe diversitetin e jetës në Tokë; Theodosius Dobzhansky ka thënë, në një frazë të njohur, se "asgjë në biologji nuk ka kuptim veçse në dritën e evolucionit". {{ill|Gjenetika e popullatave|en|Population genetics}}, për shembull, studion se si zhvillohet, trashëgohet dhe formësohet përbërja gjenetike e një popullate nga mekanizmat evolucionarë. Kërkimi në biologjinë evolucionare mbulon shumë tema dhe përfshin ide nga fusha të ndryshme, si gjenetika molekulare dhe {{ill|biologjia matematike dhe teorike|en|Mathematical and theoretical biology}}. Disa fusha të kërkimit evolucionar përpiqen të shpjegojnë dukuri që sinteza moderne evolucionare i shpjegonte dobët, si {{ill|speciacioni|en|Speciation}}, evolucioni i riprodhimit seksual, {{ill|evolucioni i bashkëpunimit|en|Cooperation (evolution)}}, evolucioni i plakjes dhe aftësia evolutive (''evolvability'').
+
+=== Ekologjia ===
+
+[[Ekologjia]] është studimi i shpërndarjes dhe bollëkut të jetës, si dhe i ndërveprimit ndërmjet organizmave dhe [[Mjedisi natyror|mjedisit të tyre natyror]].<ref>{{cite book |last1=Begon |first1=M. |last2=Townsend |first2=CR |last3=Harper |first3=JL |title=Ecology: From individuals to ecosystems |edition=4th |date=2006 |publisher=Blackwell |isbn=978-1-4051-1117-1 |language=en}}</ref>
+
+=== Sistematika, filogjenetika dhe taksonomia ===
+
+[[Sistematika]] është studimi i diversifikimit të formave të jetës, të shkuara dhe të tashme, si dhe i marrëdhënieve mes tyre përgjatë kohës. Marrëdhëniet vizualizohen si pemë evolucionare, studiohen me anë të [[Filogjenetika|filogjenetikës]] dhe krijojnë një [[Taksonomia (biologji)|taksonomi]] të unifikuar të jetës.
+
+=== Biologjia e ruajtjes ===
+
+{{ill|Biologjia e ruajtjes|en|Conservation biology}} është studimi i ruajtjes së [[Bioshumëllojshmëria|bioshumëllojshmërisë]] të Tokës, me qëllim mbrojtjen e [[Lloji (biologji)|specieve]], [[Habitati|habitateve]] dhe ekosistemeve të tyre nga shkalla e tepërt e [[Zhdukja|zhdukjes]] dhe erozioni i ndërveprimeve biotike.<ref>{{cite journal |last1=Sahney |first1=S. |last2=Benton |first2=M. J |title=Recovery from the most profound mass extinction of all time |journal=Proceedings of the Royal Society B |volume=275 |issue=1636 |pages=759–765 |year=2008 |doi=10.1098/rspb.2007.1370 |language=en}}</ref> Ajo merret me faktorët që ndikojnë në ruajtjen, humbjen dhe rikthimin e bioshumëllojshmërisë, si dhe me shkencën e mbajtjes së proceseve evolucionare që gjenerojnë diversitet gjenetik, popullativ, të specieve dhe ekosistemesh.<ref>{{cite book |author=Hunter, Malcolm L. |title=Fundamentals of conservation biology |date=1996 |publisher=Blackwell Science |isbn=978-0-86542-371-8 |language=en}}</ref> Shqetësimi buron nga vlerësime sipas të cilave deri në 50% e të gjitha specieve në planet mund të zhduken brenda 50 vjetëve të ardhshëm,<ref>{{cite journal |last1=Koh |first1=Lian Pin |last2=Dunn |first2=Robert R. |last3=Sodhi |first3=Navjot S. |last4=Colwell |first4=Robert K. |last5=Proctor |first5=Heather C. |last6=Smith |first6=Vincent S. |title=Species coextinctions and the biodiversity crisis |journal=Science |volume=305 |issue=5690 |pages=1632–1634 |year=2004 |doi=10.1126/science.1101101 |language=en}}</ref> gjë që ka kontribuar në varfëri, uri dhe do të rivendosë ecurinë e evolucionit në këtë planet. Biologët e ruajtjes hulumtojnë tendencat e {{ill|humbjes së bioshumëllojshmërisë|en|Biodiversity loss}}, zhdukjen e specieve dhe efektin negativ që këto kanë në aftësinë e shoqërisë njerëzore për të ruajtur mirëqenien e vet.
+
+== Shiko edhe ==
+{{div col|colwidth=20em}}
+* {{ill|Biologjia në trillim|en|Biology in fiction}}
+* {{ill|Fjalorth i biologjisë|en|Glossary of biology}}
+* {{ill|Listë biologësh|en|List of biologists}}
+* {{ill|Listë e shkencave të jetës|en|List of life sciences}}
+* {{ill|Përmbledhje e biologjisë|en|Outline of biology}}
+* {{ill|Katër pyetjet e Tinbergenit|en|Tinbergen's four questions}}
+* [[:Kategoria:Terminologji biologjike|Terminologji e biologjisë]]
+{{div col end}}
+
+== Referime ==
+{{reflist|30em}}
+
+== Lidhje të jashtme ==
+{{Sister project links|auto=yes}}
+* [http://phylonames.org/code/ Phylocode i OSU-së]
+* [https://www.biologyonline.com/dictionary Fjalor biologjik online]
+
+'''Revista'''
+* {{ill|PLOS Biology|en|PLOS Biology}} — revistë e shqyrtuar nga kolegët, me qasje të lirë, botuar nga Public Library of Science.
+* {{ill|Current Biology|en|Current Biology}} — revistë e përgjithshme që boton kërkime origjinale nga të gjitha fushat e biologjisë.
+* {{ill|Biology Letters|en|Biology Letters}} — revistë me ndikim të lartë e Royal Society, që boton punime biologjie të shqyrtuara nga kolegët.
+* ''[[Revista Science|Science]]'' — revistë shkencore ndërkombëtarisht e njohur e AAAS-së.
+* {{ill|International Journal of Biological Sciences|en|International Journal of Biological Sciences}} — revistë biologjike që boton punime shkencore të rëndësishme, të shqyrtuara nga kolegët.
+* {{ill|Perspectives in Biology and Medicine|en|Perspectives in Biology and Medicine}} — revistë shkencore ndërdisiplinore që boton ese me rëndësi të gjerë.
+
+[[Kategoria:Biologji]]
+[[Kategoria:Shkencë]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Biology|2 gusht 2026|1367299928}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Biology, versioni i datës 2 gusht 2026 (revizioni 1367299928)
+-->
