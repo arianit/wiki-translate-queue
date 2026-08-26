@@ -71,7 +71,7 @@ https://en.wikipedia.org/wiki/James_Joyce
 https://en.wikipedia.org/wiki/Naguib_Mahfouz
 https://en.wikipedia.org/wiki/Marcel_Proust
 https://en.wikipedia.org/wiki/Alexander_Pushkin
-https://en.wikipedia.org/wiki/Sophocles	CLAIMED	pop-os	2026-08-26T22:43:18.171503+02:00
+https://en.wikipedia.org/wiki/Sophocles	DONE
 https://en.wikipedia.org/wiki/Rabindranath_Tagore
 https://en.wikipedia.org/wiki/Virgil
 https://en.wikipedia.org/wiki/Jacques_Cartier
