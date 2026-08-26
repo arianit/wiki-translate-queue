@@ -123,4 +123,4 @@ https://en.wikipedia.org/wiki/Civil_war
 https://en.wikipedia.org/wiki/Christianity	DONE
 https://en.wikipedia.org/wiki/Islam	DONE
 https://en.wikipedia.org/wiki/Physics	DONE
-https://en.wikipedia.org/wiki/Biology	CLAIMED	pop-os	2026-08-26T18:50:27.788724+02:00
+https://en.wikipedia.org/wiki/Biology	DONE
