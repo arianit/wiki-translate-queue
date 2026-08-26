@@ -46,7 +46,7 @@ https://en.wikipedia.org/wiki/Johannes_Kepler	DONE
 https://en.wikipedia.org/wiki/Al-Khwarizmi	DONE
 https://en.wikipedia.org/wiki/Carl_Linnaeus
 https://en.wikipedia.org/wiki/James_Clerk_Maxwell	DONE
-https://en.wikipedia.org/wiki/Max_Planck
+https://en.wikipedia.org/wiki/Max_Planck	CLAIMED	pop-os	2026-08-26T19:17:09.522078+02:00
 https://en.wikipedia.org/wiki/Ernest_Rutherford
 https://en.wikipedia.org/wiki/Francisco_Goya
 https://en.wikipedia.org/wiki/Hokusai
