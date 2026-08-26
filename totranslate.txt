@@ -73,7 +73,7 @@ https://en.wikipedia.org/wiki/Marcel_Proust
 https://en.wikipedia.org/wiki/Alexander_Pushkin
 https://en.wikipedia.org/wiki/Sophocles	DONE
 https://en.wikipedia.org/wiki/Rabindranath_Tagore
-https://en.wikipedia.org/wiki/Virgil
+https://en.wikipedia.org/wiki/Virgil	CLAIMED	pop-os	2026-08-26T23:02:11.516540+02:00
 https://en.wikipedia.org/wiki/Jacques_Cartier
 https://en.wikipedia.org/wiki/James_Cook
 https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s
