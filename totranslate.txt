@@ -45,7 +45,7 @@ https://en.wikipedia.org/wiki/James_Prescott_Joule
 https://en.wikipedia.org/wiki/Johannes_Kepler	DONE
 https://en.wikipedia.org/wiki/Al-Khwarizmi	DONE
 https://en.wikipedia.org/wiki/Carl_Linnaeus
-https://en.wikipedia.org/wiki/James_Clerk_Maxwell	CLAIMED	pop-os	2026-08-26T19:06:18.030819+02:00
+https://en.wikipedia.org/wiki/James_Clerk_Maxwell	DONE
 https://en.wikipedia.org/wiki/Max_Planck
 https://en.wikipedia.org/wiki/Ernest_Rutherford
 https://en.wikipedia.org/wiki/Francisco_Goya
