@@ -147,7 +147,7 @@ https://en.wikipedia.org/wiki/Artificial_intelligence
 https://en.wikipedia.org/wiki/Singapore	
 https://en.wikipedia.org/wiki/Russia	
 https://en.wikipedia.org/wiki/France	
-https://en.wikipedia.org/wiki/World_War_I	
+https://en.wikipedia.org/wiki/World_War_I	CLAIMED	pop-os	2026-08-30T18:58:18.025695+02:00
 https://en.wikipedia.org/wiki/Japan	
 https://en.wikipedia.org/wiki/Napoleon	
 https://en.wikipedia.org/wiki/Abraham_Lincoln	
