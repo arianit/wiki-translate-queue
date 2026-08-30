@@ -226,7 +226,7 @@ https://en.wikipedia.org/wiki/Austria
 https://en.wikipedia.org/wiki/Augustus
 https://en.wikipedia.org/wiki/Danube	DONE
 https://en.wikipedia.org/wiki/Mediterranean_Sea	DONE
-https://en.wikipedia.org/wiki/Abbasid_Caliphate
+https://en.wikipedia.org/wiki/Abbasid_Caliphate	CLAIMED	pop-os	2026-08-30T17:39:13.010527+02:00
 https://en.wikipedia.org/wiki/Age_of_Enlightenment
 https://en.wikipedia.org/wiki/Culture
 https://en.wikipedia.org/wiki/Colosseum
