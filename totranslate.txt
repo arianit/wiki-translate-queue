@@ -129,7 +129,7 @@ https://en.wikipedia.org/wiki/Michael_Jackson
 https://en.wikipedia.org/wiki/Argentina	
 https://en.wikipedia.org/wiki/Iliad	
 https://en.wikipedia.org/wiki/Homer	
-https://en.wikipedia.org/wiki/World_War_II	
+https://en.wikipedia.org/wiki/World_War_II	CLAIMED	pop-os	2026-08-30T09:43:43.662624+02:00
 https://en.wikipedia.org/wiki/United_Kingdom	
 https://en.wikipedia.org/wiki/India	
 https://en.wikipedia.org/wiki/George_Washington	
