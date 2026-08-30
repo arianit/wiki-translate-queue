@@ -23,7 +23,7 @@ https://en.wikipedia.org/wiki/Vaccine-preventable_disease	DONE
 https://en.wikipedia.org/wiki/Adam_Smith	DONE
 https://en.wikipedia.org/wiki/Max_Weber	DONE
 https://en.wikipedia.org/wiki/Moses	DONE
-https://en.wikipedia.org/wiki/Nagarjuna	
+https://en.wikipedia.org/wiki/Nagarjuna	CLAIMED	pop-os	2026-08-30T09:43:12.936106+02:00
 https://en.wikipedia.org/wiki/Ashoka	
 https://en.wikipedia.org/wiki/Otto_von_Bismarck	
 https://en.wikipedia.org/wiki/Winston_Churchill	
