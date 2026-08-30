@@ -225,7 +225,7 @@ https://en.wikipedia.org/wiki/Human
 https://en.wikipedia.org/wiki/Austria	
 https://en.wikipedia.org/wiki/Augustus
 https://en.wikipedia.org/wiki/Danube	DONE
-https://en.wikipedia.org/wiki/Mediterranean_Sea	CLAIMED	pop-os	2026-08-30T10:53:27.086644+02:00
+https://en.wikipedia.org/wiki/Mediterranean_Sea	DONE
 https://en.wikipedia.org/wiki/Abbasid_Caliphate
 https://en.wikipedia.org/wiki/Age_of_Enlightenment
 https://en.wikipedia.org/wiki/Culture
