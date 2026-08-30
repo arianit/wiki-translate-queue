@@ -227,7 +227,7 @@ https://en.wikipedia.org/wiki/Augustus
 https://en.wikipedia.org/wiki/Danube	DONE
 https://en.wikipedia.org/wiki/Mediterranean_Sea	DONE
 https://en.wikipedia.org/wiki/Abbasid_Caliphate	DONE
-https://en.wikipedia.org/wiki/Age_of_Enlightenment	CLAIMED	pop-os	2026-08-30T18:17:51.826539+02:00
+https://en.wikipedia.org/wiki/Age_of_Enlightenment	DONE
 https://en.wikipedia.org/wiki/Culture
 https://en.wikipedia.org/wiki/Colosseum
 https://en.wikipedia.org/wiki/Film
