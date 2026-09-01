@@ -67,7 +67,7 @@ https://en.wikipedia.org/wiki/Akira_Kurosawa
 https://en.wikipedia.org/wiki/Marilyn_Monroe
 https://en.wikipedia.org/wiki/Satyajit_Ray
 https://en.wikipedia.org/wiki/Geoffrey_Chaucer
-https://en.wikipedia.org/wiki/James_Joyce
+https://en.wikipedia.org/wiki/James_Joyce	CLAIMED	pop-os	2026-09-01T21:32:51.567786+02:00
 https://en.wikipedia.org/wiki/Naguib_Mahfouz
 https://en.wikipedia.org/wiki/Marcel_Proust
 https://en.wikipedia.org/wiki/Alexander_Pushkin
