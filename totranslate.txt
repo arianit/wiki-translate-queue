@@ -114,7 +114,7 @@ https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement
 https://en.wikipedia.org/wiki/Nobel_Prize
 https://en.wikipedia.org/wiki/International_Court_of_Justice
 https://en.wikipedia.org/wiki/UNESCO
-https://en.wikipedia.org/wiki/World_Bank
+https://en.wikipedia.org/wiki/World_Bank	CLAIMED	pop-os	2026-09-01T21:33:04.547578+02:00
 https://en.wikipedia.org/wiki/World_Trade_Organization
 https://en.wikipedia.org/wiki/Military
 https://en.wikipedia.org/wiki/Peace
