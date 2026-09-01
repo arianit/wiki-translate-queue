@@ -79,7 +79,7 @@ https://en.wikipedia.org/wiki/James_Cook
 https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s
 https://en.wikipedia.org/wiki/Zheng_He
 https://en.wikipedia.org/wiki/Dialectic
-https://en.wikipedia.org/wiki/Epistemology
+https://en.wikipedia.org/wiki/Epistemology	CLAIMED	pop-os	2026-09-01T21:32:55.863976+02:00
 https://en.wikipedia.org/wiki/Free_will
 https://en.wikipedia.org/wiki/Logic
 https://en.wikipedia.org/wiki/Materialism
