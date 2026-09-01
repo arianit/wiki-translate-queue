@@ -214,7 +214,7 @@ https://en.wikipedia.org/wiki/Christopher_Columbus
 https://en.wikipedia.org/wiki/Mount_Everest	
 https://en.wikipedia.org/wiki/Fyodor_Dostoevsky	
 https://en.wikipedia.org/wiki/Thailand	
-https://en.wikipedia.org/wiki/Karl_Marx	
+https://en.wikipedia.org/wiki/Karl_Marx	CLAIMED	pop-os	2026-09-01T21:41:20.139286+02:00
 https://en.wikipedia.org/wiki/Vladimir_Lenin	
 https://en.wikipedia.org/wiki/Paris	
 https://en.wikipedia.org/wiki/World_Wide_Web	
