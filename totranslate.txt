@@ -186,7 +186,7 @@ https://en.wikipedia.org/wiki/Saudi_Arabia
 https://en.wikipedia.org/wiki/London	
 https://en.wikipedia.org/wiki/Algeria	
 https://en.wikipedia.org/wiki/Hong_Kong	
-https://en.wikipedia.org/wiki/Periodic_table	
+https://en.wikipedia.org/wiki/Periodic_table	CLAIMED	pop-os	2026-09-01T21:41:56.629054+02:00
 https://en.wikipedia.org/wiki/Muhammad	
 https://en.wikipedia.org/wiki/Poland	
 https://en.wikipedia.org/wiki/Mahatma_Gandhi	
