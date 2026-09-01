@@ -48,7 +48,7 @@ https://en.wikipedia.org/wiki/Carl_Linnaeus	CLAIMED	pop-os	2026-09-01T21:32:38.2
 https://en.wikipedia.org/wiki/James_Clerk_Maxwell	DONE
 https://en.wikipedia.org/wiki/Max_Planck	DONE
 https://en.wikipedia.org/wiki/Ernest_Rutherford
-https://en.wikipedia.org/wiki/Francisco_Goya
+https://en.wikipedia.org/wiki/Francisco_Goya	CLAIMED	pop-os	2026-09-01T21:32:42.582323+02:00
 https://en.wikipedia.org/wiki/Hokusai
 https://en.wikipedia.org/wiki/Rembrandt	DONE
 https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez
