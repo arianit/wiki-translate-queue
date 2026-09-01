@@ -82,7 +82,7 @@ https://en.wikipedia.org/wiki/Dialectic
 https://en.wikipedia.org/wiki/Epistemology	CLAIMED	pop-os	2026-09-01T21:32:55.863976+02:00
 https://en.wikipedia.org/wiki/Free_will
 https://en.wikipedia.org/wiki/Logic
-https://en.wikipedia.org/wiki/Materialism
+https://en.wikipedia.org/wiki/Materialism	CLAIMED	pop-os	2026-09-01T21:33:00.127719+02:00
 https://en.wikipedia.org/wiki/Reality
 https://en.wikipedia.org/wiki/Truth
 https://en.wikipedia.org/wiki/Monotheism
