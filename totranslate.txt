@@ -30,7 +30,7 @@ https://en.wikipedia.org/wiki/Winston_Churchill
 https://en.wikipedia.org/wiki/Cyrus_the_Great	DONE
 https://en.wikipedia.org/wiki/Rosa_Luxemburg	
 https://en.wikipedia.org/wiki/Nelson_Mandela	
-https://en.wikipedia.org/wiki/Mao_Zedong	
+https://en.wikipedia.org/wiki/Mao_Zedong	CLAIMED	pop-os	2026-09-01T21:32:33.836957+02:00
 https://en.wikipedia.org/wiki/Jawaharlal_Nehru	
 https://en.wikipedia.org/wiki/Kwame_Nkrumah	
 https://en.wikipedia.org/wiki/Qin_Shi_Huang	
