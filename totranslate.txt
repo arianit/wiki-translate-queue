@@ -174,14 +174,14 @@ https://en.wikipedia.org/wiki/English_language
 https://en.wikipedia.org/wiki/Pakistan	
 https://en.wikipedia.org/wiki/Genghis_Khan	
 https://en.wikipedia.org/wiki/Philippines	
-https://en.wikipedia.org/wiki/Earth
-https://en.wikipedia.org/wiki/Mercury_(planet)
-https://en.wikipedia.org/wiki/Venus
-https://en.wikipedia.org/wiki/Mars
-https://en.wikipedia.org/wiki/Jupiter
-https://en.wikipedia.org/wiki/Saturn
-https://en.wikipedia.org/wiki/Uranus
-https://en.wikipedia.org/wiki/Neptune
+https://en.wikipedia.org/wiki/Earth	CLAIMED	pop-os	2026-09-02T20:27:46.838521+02:00
+https://en.wikipedia.org/wiki/Mercury_(planet)	CLAIMED	pop-os	2026-09-02T20:27:46.839040+02:00
+https://en.wikipedia.org/wiki/Venus	CLAIMED	pop-os	2026-09-02T20:27:46.839429+02:00
+https://en.wikipedia.org/wiki/Mars	CLAIMED	pop-os	2026-09-02T20:27:46.839794+02:00
+https://en.wikipedia.org/wiki/Jupiter	CLAIMED	pop-os	2026-09-02T20:27:46.840119+02:00
+https://en.wikipedia.org/wiki/Saturn	CLAIMED	pop-os	2026-09-02T20:27:46.840445+02:00
+https://en.wikipedia.org/wiki/Uranus	CLAIMED	pop-os	2026-09-02T20:27:46.840814+02:00
+https://en.wikipedia.org/wiki/Neptune	CLAIMED	pop-os	2026-09-02T20:27:46.841145+02:00
 https://en.wikipedia.org/wiki/Cat
 https://en.wikipedia.org/wiki/South_Africa	
 https://en.wikipedia.org/wiki/Egypt	
@@ -238,3 +238,4 @@ https://en.wikipedia.org/wiki/Age_of_Enlightenment	DONE
 https://en.wikipedia.org/wiki/Culture
 https://en.wikipedia.org/wiki/Colosseum
 https://en.wikipedia.org/wiki/Film
+https://en.wikipedia.org/wiki/Planet	CLAIMED	pop-os	2026-09-02T20:27:46.841560+02:00
