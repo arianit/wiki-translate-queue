@@ -1,4 +1,4 @@
-# wiki-translate-queue
+# wiki-translation-queue
 
 Shared queue of Wikipedia articles to translate, plus their processing
 status, plus the produced articles themselves (`output/`). This repo is
@@ -20,7 +20,7 @@ as needing human review (e.g. `multimodeltranslationpipeline`'s
 resolved.
 
 `wikitranslateautorun` symlinks its whole `output/` directory here
-(`ln -s .../wiki-translate-queue/output output`) so its existing code
+(`ln -s .../wiki-translation-queue/output output`) so its existing code
 writes here with zero changes. `translation-harness` points its
 `output_dir` config setting here directly. `multimodeltranslationpipeline`
 and `wikipedia-articles-translation` each use a richer per-article
@@ -64,7 +64,7 @@ most consumers only need two calls:
 from pathlib import Path
 import queue_lib
 
-repo_dir = Path("~/code/wiki-translate-queue").expanduser()
+repo_dir = Path("~/code/wiki-translation-queue").expanduser()
 
 claimed = queue_lib.claim_next_pending(repo_dir)  # pulls, picks the first
                                                    # pending (or stale-
@@ -101,8 +101,8 @@ already-chosen line rather than using `claim_next_pending`).
   its working directory. Has its own cost-based article ordering, so it
   claims a specific, already-chosen line via the low-level building blocks
   rather than `claim_next_pending`.
-- `translation-harness`'s `wiki-translate-harness queue` subcommand
-  (`wiki_translate_harness/queue_runner.py`) — drains the queue via
+- `translation-harness`'s `wiki-translation-harness queue` subcommand
+  (`wiki_translation_harness/queue_runner.py`) — drains the queue via
   `claim_next_pending`/`finish_line`, translating each article with the
   same `run_pipeline()` its manual `--title`/`--titles`/`--category` modes
   use.
