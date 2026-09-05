@@ -23,10 +23,8 @@ https://en.wikipedia.org/wiki/Vaccine-preventable_disease	DONE
 https://en.wikipedia.org/wiki/Adam_Smith	DONE
 https://en.wikipedia.org/wiki/Max_Weber	DONE
 https://en.wikipedia.org/wiki/Moses	DONE
-https://en.wikipedia.org/wiki/Nagarjuna	FAILED
-# reason: Pi skill not found at /home/arianit/.claude/skills/enwiki-sqwiki-translation/SKILL.md. Set 'skill_path' in config.yaml to the directory (or list of directories) containing SKILL.md.
-https://en.wikipedia.org/wiki/Ashoka	FAILED
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Nagarjuna	
+https://en.wikipedia.org/wiki/Ashoka	
 https://en.wikipedia.org/wiki/Otto_von_Bismarck	
 https://en.wikipedia.org/wiki/Winston_Churchill	
 https://en.wikipedia.org/wiki/Cyrus_the_Great	DONE
