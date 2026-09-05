@@ -25,7 +25,8 @@ https://en.wikipedia.org/wiki/Max_Weber	DONE
 https://en.wikipedia.org/wiki/Moses	DONE
 https://en.wikipedia.org/wiki/Nagarjuna	FAILED
 # reason: Pi skill not found at /home/arianit/.claude/skills/enwiki-sqwiki-translation/SKILL.md. Set 'skill_path' in config.yaml to the directory (or list of directories) containing SKILL.md.
-https://en.wikipedia.org/wiki/Ashoka	CLAIMED	pop-os	2026-09-05T17:09:23.222776+02:00
+https://en.wikipedia.org/wiki/Ashoka	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Otto_von_Bismarck	
 https://en.wikipedia.org/wiki/Winston_Churchill	
 https://en.wikipedia.org/wiki/Cyrus_the_Great	DONE
