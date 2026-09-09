@@ -46,7 +46,7 @@ https://en.wikipedia.org/wiki/Sun_Yat-sen	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Timur	DONE
 https://en.wikipedia.org/wiki/Tim_Berners-Lee	DONE
-https://en.wikipedia.org/wiki/Brahmagupta	
+https://en.wikipedia.org/wiki/Brahmagupta	CLAIMED	pop-os	2026-09-09T23:32:59.950530+02:00
 https://en.wikipedia.org/wiki/Henry_Ford	
 https://en.wikipedia.org/wiki/Galen	DONE
 https://en.wikipedia.org/wiki/David_Hilbert	DONE
