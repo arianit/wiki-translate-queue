@@ -40,7 +40,8 @@ https://en.wikipedia.org/wiki/Jawaharlal_Nehru	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Kwame_Nkrumah	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Qin_Shi_Huang	CLAIMED	pop-os	2026-09-09T23:32:03.399328+02:00
+https://en.wikipedia.org/wiki/Qin_Shi_Huang	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Sun_Yat-sen	
 https://en.wikipedia.org/wiki/Timur	DONE
 https://en.wikipedia.org/wiki/Tim_Berners-Lee	DONE
