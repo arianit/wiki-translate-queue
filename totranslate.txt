@@ -25,7 +25,8 @@ https://en.wikipedia.org/wiki/Max_Weber	DONE
 https://en.wikipedia.org/wiki/Moses	DONE
 https://en.wikipedia.org/wiki/Nagarjuna	DONE
 https://en.wikipedia.org/wiki/Ashoka	CLAIMED	pop-os	2026-09-09T23:07:31.974026+02:00
-https://en.wikipedia.org/wiki/Otto_von_Bismarck	CLAIMED	pop-os	2026-09-09T23:08:31.856853+02:00
+https://en.wikipedia.org/wiki/Otto_von_Bismarck	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Winston_Churchill	
 https://en.wikipedia.org/wiki/Cyrus_the_Great	DONE
 https://en.wikipedia.org/wiki/Rosa_Luxemburg	
