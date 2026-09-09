@@ -27,7 +27,7 @@ https://en.wikipedia.org/wiki/Nagarjuna	DONE
 https://en.wikipedia.org/wiki/Ashoka	CLAIMED	pop-os	2026-09-09T23:07:31.974026+02:00
 https://en.wikipedia.org/wiki/Otto_von_Bismarck	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Winston_Churchill	
+https://en.wikipedia.org/wiki/Winston_Churchill	CLAIMED	pop-os	2026-09-09T23:28:04.100767+02:00
 https://en.wikipedia.org/wiki/Cyrus_the_Great	DONE
 https://en.wikipedia.org/wiki/Rosa_Luxemburg	
 https://en.wikipedia.org/wiki/Nelson_Mandela	
