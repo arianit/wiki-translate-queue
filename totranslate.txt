@@ -249,3 +249,33 @@ https://en.wikipedia.org/wiki/Culture
 https://en.wikipedia.org/wiki/Colosseum
 https://en.wikipedia.org/wiki/Film
 https://en.wikipedia.org/wiki/Planet	CLAIMED	pop-os	2026-09-02T20:27:46.841560+02:00
+
+# Added 2026-09-10 from the Wiki Loves Arbëreshë Worklist
+# (https://meta.wikimedia.org/wiki/Wiki_Loves_Arb%C3%ABresh%C3%AB/Worklist):
+# articles with an existing enwiki source but no sq.wikipedia article yet
+# (verified against sq.wikipedia directly, not just the worklist table).
+https://en.wikipedia.org/wiki/Italo-Albanian_Catholic_Church
+https://en.wikipedia.org/wiki/Grottaferrata_Abbey
+https://en.wikipedia.org/wiki/Feast_of_the_Cross
+https://en.wikipedia.org/wiki/Giuseppe_Schir%C3%B2_Di_Maggio
+https://en.wikipedia.org/wiki/M%C3%B4nica_Kabregu
+https://en.wikipedia.org/wiki/Salvatore_Frega
+https://en.wikipedia.org/wiki/Francesco_Cuccia
+https://en.wikipedia.org/wiki/Civita
+https://en.wikipedia.org/wiki/Frascineto
+https://en.wikipedia.org/wiki/Lungro
+https://en.wikipedia.org/wiki/Barile
+https://en.wikipedia.org/wiki/San_Paolo_Albanese
+https://en.wikipedia.org/wiki/San_Costantino_Albanese
+https://en.wikipedia.org/wiki/Falconara_Albanese
+https://en.wikipedia.org/wiki/Castroregio
+https://en.wikipedia.org/wiki/Plataci
+https://en.wikipedia.org/wiki/Greci
+https://en.wikipedia.org/wiki/Acquaformosa
+https://en.wikipedia.org/wiki/San_Basile
+https://en.wikipedia.org/wiki/Bronte
+https://en.wikipedia.org/wiki/Biancavilla
+https://en.wikipedia.org/wiki/Rionero_in_Vulture
+https://en.wikipedia.org/wiki/Sant%27Angelo_Muxaro
+https://en.wikipedia.org/wiki/Caraffa_di_Catanzaro
+https://en.wikipedia.org/wiki/Cerzeto
