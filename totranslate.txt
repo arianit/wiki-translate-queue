@@ -68,7 +68,8 @@ https://en.wikipedia.org/wiki/Francisco_Goya	FAILED
 https://en.wikipedia.org/wiki/Hokusai	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Rembrandt	DONE
-https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez	CLAIMED	pop-os	2026-09-13T21:03:59.007323+02:00
+https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Andy_Warhol
 https://en.wikipedia.org/wiki/Frank_Lloyd_Wright	CLAIMED	pop-os	2026-09-01T21:32:47.021895+02:00
 https://en.wikipedia.org/wiki/Louis_Armstrong
