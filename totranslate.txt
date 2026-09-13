@@ -51,7 +51,8 @@ https://en.wikipedia.org/wiki/Brahmagupta	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Henry_Ford\tDONE	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Galen\tDONE	CLAIMED	pop-os	2026-09-13T21:02:44.581646+02:00
+https://en.wikipedia.org/wiki/Galen\tDONE	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/David_Hilbert	DONE
 https://en.wikipedia.org/wiki/James_Prescott_Joule	FAILED
 # reason: translation engine rate limit exceeded (Claude Code weekly limit), fallback translation failed
