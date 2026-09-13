@@ -63,7 +63,8 @@ https://en.wikipedia.org/wiki/Carl_Linnaeus	FAILED
 https://en.wikipedia.org/wiki/James_Clerk_Maxwell	DONE
 https://en.wikipedia.org/wiki/Max_Planck	DONE
 https://en.wikipedia.org/wiki/Ernest_Rutherford	DONE
-https://en.wikipedia.org/wiki/Francisco_Goya	CLAIMED	pop-os	2026-09-13T21:03:22.474680+02:00
+https://en.wikipedia.org/wiki/Francisco_Goya	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Hokusai
 https://en.wikipedia.org/wiki/Rembrandt	DONE
 https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez
