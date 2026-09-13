@@ -58,7 +58,8 @@ https://en.wikipedia.org/wiki/James_Prescott_Joule	FAILED
 # reason: translation engine rate limit exceeded (Claude Code weekly limit), fallback translation failed
 https://en.wikipedia.org/wiki/Johannes_Kepler	DONE
 https://en.wikipedia.org/wiki/Al-Khwarizmi	DONE
-https://en.wikipedia.org/wiki/Carl_Linnaeus	CLAIMED	pop-os	2026-09-13T21:02:51.770955+02:00
+https://en.wikipedia.org/wiki/Carl_Linnaeus	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/James_Clerk_Maxwell	DONE
 https://en.wikipedia.org/wiki/Max_Planck	DONE
 https://en.wikipedia.org/wiki/Ernest_Rutherford	DONE
