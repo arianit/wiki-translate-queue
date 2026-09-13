@@ -18,8 +18,8 @@ Pashkët Arbëreshe, për kompleksitetin e riteve të shenjta, shkëlqimin dhe r
 
 == Histori ==
 === Origjina ===
-[[Skeda:Stemma dell'Eparchia.jpeg|miniatura|majtas|drejt=0.7|Stema e Eparkisë së Ungrës]]
-[[Skeda:Caloiero (monk)01.jpg|miniatura|150px|Murg italo-arbëresh i ritit greko-bizantin (''kallogjer'')]]
+[[Skeda:Stemma dell'Eparchia.jpeg|thumb|majtas|vertikale=0.7|Stema e Eparkisë së Ungrës]]
+[[Skeda:Caloiero (monk)01.jpg|thumb|150px|Murg italo-arbëresh i ritit greko-bizantin (''kallogjer'')]]
 {{Blockquote|As sot karakteri i shenjtë dhe unik i Javës së Shenjtë, pavarësisht procesit, të fshehtë dhe agresiv njëkohësisht, të sekularizimit, nuk është humbur; përkundrazi, në disa aspekte, po rikthehet me risbulimin e përmbajtjes më të thellë të mistereve të shpëtimit. Në ritin bizantin Java e Shenjtë është një ritualizim i ngjarjeve të dhimbshme të passionit, vdekjes dhe ringjalljes së Krishtit, i bërë nga Kisha në Liturgji, në të cilën komuniteti i krishterë përfshihet thellësisht, deri në identifikim me personazhet që e parashikuan, ishin dëshmitarë, jetuan edhe role të kundërta dhe njoftuan shpëtimin e kryer nga Krishti. Shpërthimi i këngës ''Christòs Anèsti'' / ''Krishti u Ngjall'' (Krishti u ngjall) në mëngjesin e Pashkëve, i përsëritur pafundësisht, është fitoria e Krishtit të ringjallur që i paraqet Atit krijesën e re. Në atë ''Christòs Anèsti'' qëndron e gjithë pesha e rrugës së vështirë të njeriut, i përzënë nga parajsa tokësore për rebelimin e tij, i cili përmes mijëvjeçarëve pret shpëtimin e tij, por qëndron edhe e gjithë lavdia e Perëndisë, e cila në Krisht e mposht të keqen dhe efektin e tij fizik, vdekjen, dhe rindërton bashkësinë midis njeriut dhe Perëndisë.|Fjalët e Mons. [[Gjovani Stuhati|Giovanni Stamati]], ipeshkvit të eparkisë<ref>{{Cite web|url=http://www.arbitalia.it/tradizioni/religione/pasqua/maria.frega_settimana_santa.htm|title=ARBITALIA|access-date=2021-03-23|language=it}}</ref>.}}
 
 Ceremonitë e Javës së Shenjtë të Eparkisë së Ungrës kanë, për arsye të sakta historiko-kulturore, karaktere krejtësisht të ndryshme nga ato të ceremonive të tjera në Itali. Ato, në fakt, janë të lidhura drejtpërdrejt me traditën liturgjike bizantine të importuar në [[Kalabria|Kalabri]] dhe në të gjithë [[Italia e Jugut|Italinë e Jugut]] nga [[Shekulli XV|shekulli XV]] nga kolonët arbëreshë që erdhën si mërgimtarë nga [[Shqipëria|Shqipëria]] dhe nga territoret arbëreshe të [[Gadishulli Ballkanik|Gadishullit Ballkanik]] (aktualisht [[Mali i Zi|Mali i Zi]], [[Maqedonia (rajon)|Maqedonia]], [[Epiri|Epiri]], [[Peloponezi|Peloponez]], [[Atika|Atikë]], etj.).
@@ -27,9 +27,9 @@ Ceremonitë e Javës së Shenjtë të Eparkisë së Ungrës kanë, për arsye t�
 Të njëjtat rite mund të gjenden në komunitetet e tjera albanofone, ose gjithashtu me origjinë arbëreshe, të [[Eparkia e Horës së Arbëreshëvet|Eparkisë së Horës së Arbëreshëve]] në Sicili, ku italo-arbëreshët ruajnë të njëjtin lidhje ndaj riteve të tyre dhe solemnitetin e festimeve bizantine.
 == Pashkët Italo-Arbëreshe ==
 === Periudha e Kreshmës ===
-[[Skeda:Villa_Vadessa_Interno_chiesa02.jpg|mini|majtas|Besimtarë italo-arbëreshë nga [[Villa Badessa]] (PE) në [[Abruco]]]]
-[[Skeda:Chiesa San Giovanni Crisostomo (inside view).jpg|mini|150px|Famullia italo-arbëreshe e Shën Gjonit Krisostomit në [[Bari (Itali)|Bari]], në [[Pulia]]]]
-[[Skeda:Santuario_SS._Cosma_e_Damiano_(inside_view)03.png|mini|Liturgji në [[San Cosmo Albanese]] (CS) në [[Kalabria]]]]
+[[Skeda:Villa_Vadessa_Interno_chiesa02.jpg|thumb|majtas|Besimtarë italo-arbëreshë nga [[Villa Badessa]] (PE) në [[Abruco]]]]
+[[Skeda:Chiesa San Giovanni Crisostomo (inside view).jpg|thumb|150px|Famullia italo-arbëreshe e Shën Gjonit Krisostomit në [[Bari (Itali)|Bari]], në [[Pulia]]]]
+[[Skeda:Santuario_SS._Cosma_e_Damiano_(inside_view)03.png|thumb|Liturgji në [[San Cosmo Albanese]] (CS) në [[Kalabria]]]]
 Sipas traditës bizantine, liturgjia eukaristike në Kreshmë kryhet vetëm të shtunën dhe të dielën dhe në festën e Shpalljes ndërsa ditët e tjera janë aliturgjike. Periudha e Kreshmës karakterizohet nga funksionet e liturgjisë së të Parashënuarve, ''Proghiasmèna'' (e mërkurë dhe e premte) dhe e '''Hymnit [[Akathistos|Akàthistos]]'' në Nënën e Perëndisë (e premte).
 
 Në të gjitha ditët aliturgjike lexohet Matutina dhe në të gjitha të dielat e [[Kreshma|Kreshmës]], me përjashtim të [[Domenica delle palme|Dielës së Dafinave]], kryhet Liturgjia e [[Vasili i Kajserit|Shën Vasilit të Madh]].
