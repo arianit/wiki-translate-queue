@@ -48,16 +48,17 @@ https://en.wikipedia.org/wiki/Timur	DONE
 https://en.wikipedia.org/wiki/Tim_Berners-Lee	DONE
 https://en.wikipedia.org/wiki/Brahmagupta	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Henry_Ford	
-https://en.wikipedia.org/wiki/Galen	DONE
+https://en.wikipedia.org/wiki/Henry_Ford\tDONE
+https://en.wikipedia.org/wiki/Galen\tDONE
 https://en.wikipedia.org/wiki/David_Hilbert	DONE
-https://en.wikipedia.org/wiki/James_Prescott_Joule
+https://en.wikipedia.org/wiki/James_Prescott_Joule	FAILED
+# reason: translation engine rate limit exceeded (Claude Code weekly limit), fallback translation failed
 https://en.wikipedia.org/wiki/Johannes_Kepler	DONE
 https://en.wikipedia.org/wiki/Al-Khwarizmi	DONE
 https://en.wikipedia.org/wiki/Carl_Linnaeus	CLAIMED	pop-os	2026-09-01T21:32:38.230790+02:00
 https://en.wikipedia.org/wiki/James_Clerk_Maxwell	DONE
 https://en.wikipedia.org/wiki/Max_Planck	DONE
-https://en.wikipedia.org/wiki/Ernest_Rutherford
+https://en.wikipedia.org/wiki/Ernest_Rutherford	DONE
 https://en.wikipedia.org/wiki/Francisco_Goya	CLAIMED	pop-os	2026-09-01T21:32:42.582323+02:00
 https://en.wikipedia.org/wiki/Hokusai
 https://en.wikipedia.org/wiki/Rembrandt	DONE
@@ -70,7 +71,7 @@ https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin
 https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k
 https://en.wikipedia.org/wiki/Gustav_Mahler
 https://en.wikipedia.org/wiki/Giacomo_Puccini
-https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky
+https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky	DONE
 https://en.wikipedia.org/wiki/Richard_Wagner
 https://en.wikipedia.org/wiki/Sergei_Eisenstein
 https://en.wikipedia.org/wiki/Akira_Kurosawa
@@ -93,7 +94,7 @@ https://en.wikipedia.org/wiki/Epistemology	CLAIMED	pop-os	2026-09-01T21:32:55.86
 https://en.wikipedia.org/wiki/Free_will
 https://en.wikipedia.org/wiki/Logic
 https://en.wikipedia.org/wiki/Materialism	CLAIMED	pop-os	2026-09-01T21:33:00.127719+02:00
-https://en.wikipedia.org/wiki/Reality
+https://en.wikipedia.org/wiki/Reality	DONE
 https://en.wikipedia.org/wiki/Truth
 https://en.wikipedia.org/wiki/Monotheism
 https://en.wikipedia.org/wiki/Polytheism
@@ -121,7 +122,7 @@ https://en.wikipedia.org/wiki/African_Union
 https://en.wikipedia.org/wiki/Arab_League
 https://en.wikipedia.org/wiki/ASEAN
 https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement
-https://en.wikipedia.org/wiki/Nobel_Prize
+https://en.wikipedia.org/wiki/Nobel_Prize	DONE
 https://en.wikipedia.org/wiki/International_Court_of_Justice
 https://en.wikipedia.org/wiki/UNESCO
 https://en.wikipedia.org/wiki/World_Bank	CLAIMED	pop-os	2026-09-01T21:33:04.547578+02:00
@@ -137,7 +138,7 @@ https://en.wikipedia.org/wiki/Biology	DONE
 https://en.wikipedia.org/wiki/United_States	
 https://en.wikipedia.org/wiki/Michael_Jackson	
 https://en.wikipedia.org/wiki/Argentina	
-https://en.wikipedia.org/wiki/Iliad	
+https://en.wikipedia.org/wiki/Iliad	DONE
 https://en.wikipedia.org/wiki/Homer	CLAIMED	pop-os	2026-09-01T21:33:08.944483+02:00
 https://en.wikipedia.org/wiki/World_War_II	DONE
 https://en.wikipedia.org/wiki/United_Kingdom	
@@ -184,14 +185,14 @@ https://en.wikipedia.org/wiki/English_language
 https://en.wikipedia.org/wiki/Pakistan	
 https://en.wikipedia.org/wiki/Genghis_Khan	
 https://en.wikipedia.org/wiki/Philippines	
-https://en.wikipedia.org/wiki/Earth	CLAIMED	pop-os	2026-09-02T20:27:46.838521+02:00
-https://en.wikipedia.org/wiki/Mercury_(planet)	CLAIMED	pop-os	2026-09-02T20:27:46.839040+02:00
+https://en.wikipedia.org/wiki/Earth	DONE
+https://en.wikipedia.org/wiki/Mercury_(planet)	DONE
 https://en.wikipedia.org/wiki/Venus	CLAIMED	pop-os	2026-09-02T20:27:46.839429+02:00
 https://en.wikipedia.org/wiki/Mars	CLAIMED	pop-os	2026-09-02T20:27:46.839794+02:00
-https://en.wikipedia.org/wiki/Jupiter	CLAIMED	pop-os	2026-09-02T20:27:46.840119+02:00
+https://en.wikipedia.org/wiki/Jupiter	DONE
 https://en.wikipedia.org/wiki/Saturn	CLAIMED	pop-os	2026-09-02T20:27:46.840445+02:00
 https://en.wikipedia.org/wiki/Uranus	CLAIMED	pop-os	2026-09-02T20:27:46.840814+02:00
-https://en.wikipedia.org/wiki/Neptune	CLAIMED	pop-os	2026-09-02T20:27:46.841145+02:00
+https://en.wikipedia.org/wiki/Neptune	DONE
 https://en.wikipedia.org/wiki/Cat
 https://en.wikipedia.org/wiki/South_Africa	
 https://en.wikipedia.org/wiki/Egypt	
@@ -224,7 +225,7 @@ https://en.wikipedia.org/wiki/Nikola_Tesla
 https://en.wikipedia.org/wiki/Black_hole	
 https://en.wikipedia.org/wiki/Europe	
 https://en.wikipedia.org/wiki/Mexico_City	
-https://en.wikipedia.org/wiki/Stanley_Kubrick	
+https://en.wikipedia.org/wiki/Stanley_Kubrick	DONE
 https://en.wikipedia.org/wiki/Frida_Kahlo	
 https://en.wikipedia.org/wiki/Nigeria	
 https://en.wikipedia.org/wiki/Christopher_Columbus	
@@ -248,34 +249,37 @@ https://en.wikipedia.org/wiki/Age_of_Enlightenment	DONE
 https://en.wikipedia.org/wiki/Culture
 https://en.wikipedia.org/wiki/Colosseum
 https://en.wikipedia.org/wiki/Film
-https://en.wikipedia.org/wiki/Planet	CLAIMED	pop-os	2026-09-02T20:27:46.841560+02:00
+https://en.wikipedia.org/wiki/Planet	DONE
 
 # Added 2026-09-10 from the Wiki Loves Arbëreshë Worklist
 # (https://meta.wikimedia.org/wiki/Wiki_Loves_Arb%C3%ABresh%C3%AB/Worklist):
 # articles with an existing enwiki source but no sq.wikipedia article yet
 # (verified against sq.wikipedia directly, not just the worklist table).
+https://it.wikipedia.org/wiki/Strage_di_Portella_della_Ginestra
+https://it.wikipedia.org/wiki/Eparchia_di_Lungro
 https://en.wikipedia.org/wiki/Italo-Albanian_Catholic_Church
-https://en.wikipedia.org/wiki/Grottaferrata_Abbey
-https://en.wikipedia.org/wiki/Feast_of_the_Cross
+https://it.wikipedia.org/wiki/Settimana_santa_dell%27Eparchia_di_Lungro	DONE
+https://it.wikipedia.org/wiki/Abbazia_territoriale_di_Santa_Maria_di_Grottaferrata
 https://en.wikipedia.org/wiki/Giuseppe_Schir%C3%B2_Di_Maggio
 https://en.wikipedia.org/wiki/M%C3%B4nica_Kabregu
 https://en.wikipedia.org/wiki/Salvatore_Frega
-https://en.wikipedia.org/wiki/Francesco_Cuccia
-https://en.wikipedia.org/wiki/Civita
-https://en.wikipedia.org/wiki/Frascineto
-https://en.wikipedia.org/wiki/Lungro
-https://en.wikipedia.org/wiki/Barile
-https://en.wikipedia.org/wiki/San_Paolo_Albanese
-https://en.wikipedia.org/wiki/San_Costantino_Albanese
-https://en.wikipedia.org/wiki/Falconara_Albanese
-https://en.wikipedia.org/wiki/Castroregio
-https://en.wikipedia.org/wiki/Plataci
-https://en.wikipedia.org/wiki/Greci
-https://en.wikipedia.org/wiki/Acquaformosa
-https://en.wikipedia.org/wiki/San_Basile
-https://en.wikipedia.org/wiki/Bronte
-https://en.wikipedia.org/wiki/Biancavilla
-https://en.wikipedia.org/wiki/Rionero_in_Vulture
-https://en.wikipedia.org/wiki/Sant%27Angelo_Muxaro
-https://en.wikipedia.org/wiki/Caraffa_di_Catanzaro
-https://en.wikipedia.org/wiki/Cerzeto
+https://it.wikipedia.org/wiki/Francesco_Cuccia	DONE
+https://it.wikipedia.org/wiki/Francesco_Cuccia	DONE
+https://it.wikipedia.org/wiki/Frascineto	DONE
+https://it.wikipedia.org/wiki/Lungro	DONE
+https://it.wikipedia.org/wiki/Barile
+https://it.wikipedia.org/wiki/San_Paolo_Albanese
+https://it.wikipedia.org/wiki/San_Costantino_Albanese
+https://it.wikipedia.org/wiki/Falconara_Albanese
+https://it.wikipedia.org/wiki/Castroregio
+https://it.wikipedia.org/wiki/Plataci
+https://it.wikipedia.org/wiki/Greci_(Italia)
+https://it.wikipedia.org/wiki/Acquaformosa
+https://it.wikipedia.org/wiki/San_Basile
+https://it.wikipedia.org/wiki/Bronte
+https://it.wikipedia.org/wiki/Biancavilla
+https://it.wikipedia.org/wiki/Rionero_in_Vulture
+https://it.wikipedia.org/wiki/Sant%27Angelo_Muxaro
+https://it.wikipedia.org/wiki/Caraffa_di_Catanzaro
+https://it.wikipedia.org/wiki/Cerzeto
+
