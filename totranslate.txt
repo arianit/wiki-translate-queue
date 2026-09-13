@@ -70,7 +70,7 @@ https://en.wikipedia.org/wiki/Hokusai	FAILED
 https://en.wikipedia.org/wiki/Rembrandt	DONE
 https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Andy_Warhol
+https://en.wikipedia.org/wiki/Andy_Warhol	CLAIMED	pop-os	2026-09-13T21:04:24.060492+02:00
 https://en.wikipedia.org/wiki/Frank_Lloyd_Wright	CLAIMED	pop-os	2026-09-01T21:32:47.021895+02:00
 https://en.wikipedia.org/wiki/Louis_Armstrong
 https://en.wikipedia.org/wiki/The_Beatles
