@@ -111,7 +111,7 @@ https://en.wikipedia.org/wiki/Sophocles	DONE
 https://en.wikipedia.org/wiki/Rabindranath_Tagore	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Virgil	DONE
-https://en.wikipedia.org/wiki/Jacques_Cartier
+https://en.wikipedia.org/wiki/Jacques_Cartier	CLAIMED	pop-os	2026-09-14T21:18:39.721480+02:00
 https://en.wikipedia.org/wiki/James_Cook
 https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s
 https://en.wikipedia.org/wiki/Zheng_He
