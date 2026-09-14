@@ -84,7 +84,8 @@ https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Gustav_Mahler	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Giacomo_Puccini	CLAIMED	pop-os	2026-09-14T19:39:58.344462+02:00
+https://en.wikipedia.org/wiki/Giacomo_Puccini	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky	DONE
 https://en.wikipedia.org/wiki/Richard_Wagner
 https://en.wikipedia.org/wiki/Sergei_Eisenstein
