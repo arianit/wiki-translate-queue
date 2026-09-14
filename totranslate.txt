@@ -119,7 +119,8 @@ https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Zheng_He	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Dialectic	CLAIMED	pop-os	2026-09-14T21:22:47.324040+02:00
+https://en.wikipedia.org/wiki/Dialectic	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Epistemology	CLAIMED	pop-os	2026-09-01T21:32:55.863976+02:00
 https://en.wikipedia.org/wiki/Free_will
 https://en.wikipedia.org/wiki/Logic
