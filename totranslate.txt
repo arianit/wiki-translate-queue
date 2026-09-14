@@ -138,7 +138,8 @@ https://en.wikipedia.org/wiki/Polytheism	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Soul	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Jainism	CLAIMED	pop-os	2026-09-14T21:25:07.172723+02:00
+https://en.wikipedia.org/wiki/Jainism	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Judaism
 https://en.wikipedia.org/wiki/Behavior
 https://en.wikipedia.org/wiki/Mind
