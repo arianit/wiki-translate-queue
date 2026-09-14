@@ -101,7 +101,7 @@ https://en.wikipedia.org/wiki/Geoffrey_Chaucer	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/James_Joyce	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Naguib_Mahfouz
+https://en.wikipedia.org/wiki/Naguib_Mahfouz	CLAIMED	pop-os	2026-09-14T21:16:11.773672+02:00
 https://en.wikipedia.org/wiki/Marcel_Proust
 https://en.wikipedia.org/wiki/Alexander_Pushkin
 https://en.wikipedia.org/wiki/Sophocles	DONE
