@@ -136,7 +136,7 @@ https://en.wikipedia.org/wiki/Monotheism	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Polytheism	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Soul
+https://en.wikipedia.org/wiki/Soul	CLAIMED	pop-os	2026-09-14T21:24:50.244504+02:00
 https://en.wikipedia.org/wiki/Jainism
 https://en.wikipedia.org/wiki/Judaism
 https://en.wikipedia.org/wiki/Behavior
