@@ -105,7 +105,8 @@ https://en.wikipedia.org/wiki/Naguib_Mahfouz	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Marcel_Proust	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Alexander_Pushkin	CLAIMED	pop-os	2026-09-14T21:17:04.799662+02:00
+https://en.wikipedia.org/wiki/Alexander_Pushkin	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Sophocles	DONE
 https://en.wikipedia.org/wiki/Rabindranath_Tagore
 https://en.wikipedia.org/wiki/Virgil	DONE
