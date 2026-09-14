@@ -103,7 +103,8 @@ https://en.wikipedia.org/wiki/James_Joyce	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Naguib_Mahfouz	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Marcel_Proust	CLAIMED	pop-os	2026-09-14T21:16:35.863482+02:00
+https://en.wikipedia.org/wiki/Marcel_Proust	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Alexander_Pushkin
 https://en.wikipedia.org/wiki/Sophocles	DONE
 https://en.wikipedia.org/wiki/Rabindranath_Tagore
