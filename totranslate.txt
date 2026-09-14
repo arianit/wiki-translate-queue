@@ -108,7 +108,8 @@ https://en.wikipedia.org/wiki/Marcel_Proust	FAILED
 https://en.wikipedia.org/wiki/Alexander_Pushkin	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Sophocles	DONE
-https://en.wikipedia.org/wiki/Rabindranath_Tagore	CLAIMED	pop-os	2026-09-14T21:17:42.956191+02:00
+https://en.wikipedia.org/wiki/Rabindranath_Tagore	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Virgil	DONE
 https://en.wikipedia.org/wiki/Jacques_Cartier
 https://en.wikipedia.org/wiki/James_Cook
