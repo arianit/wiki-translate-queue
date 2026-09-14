@@ -113,7 +113,8 @@ https://en.wikipedia.org/wiki/Rabindranath_Tagore	FAILED
 https://en.wikipedia.org/wiki/Virgil	DONE
 https://en.wikipedia.org/wiki/Jacques_Cartier	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/James_Cook	CLAIMED	pop-os	2026-09-14T21:19:07.689877+02:00
+https://en.wikipedia.org/wiki/James_Cook	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s
 https://en.wikipedia.org/wiki/Zheng_He
 https://en.wikipedia.org/wiki/Dialectic
