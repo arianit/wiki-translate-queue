@@ -87,7 +87,8 @@ https://en.wikipedia.org/wiki/Gustav_Mahler	FAILED
 https://en.wikipedia.org/wiki/Giacomo_Puccini	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky	DONE
-https://en.wikipedia.org/wiki/Richard_Wagner	CLAIMED	pop-os	2026-09-14T20:10:43.595545+02:00
+https://en.wikipedia.org/wiki/Richard_Wagner	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Sergei_Eisenstein
 https://en.wikipedia.org/wiki/Akira_Kurosawa
 https://en.wikipedia.org/wiki/Marilyn_Monroe
