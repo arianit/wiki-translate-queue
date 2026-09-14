@@ -93,7 +93,8 @@ https://en.wikipedia.org/wiki/Sergei_Eisenstein	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Akira_Kurosawa	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Marilyn_Monroe	CLAIMED	pop-os	2026-09-14T20:12:53.175607+02:00
+https://en.wikipedia.org/wiki/Marilyn_Monroe	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Satyajit_Ray
 https://en.wikipedia.org/wiki/Geoffrey_Chaucer
 https://en.wikipedia.org/wiki/James_Joyce	CLAIMED	pop-os	2026-09-01T21:32:51.567786+02:00
