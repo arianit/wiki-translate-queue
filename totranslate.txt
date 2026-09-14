@@ -125,7 +125,8 @@ https://en.wikipedia.org/wiki/Epistemology	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Free_will	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Logic	CLAIMED	pop-os	2026-09-14T21:23:39.614741+02:00
+https://en.wikipedia.org/wiki/Logic	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Materialism	CLAIMED	pop-os	2026-09-01T21:33:00.127719+02:00
 https://en.wikipedia.org/wiki/Reality	DONE
 https://en.wikipedia.org/wiki/Truth
