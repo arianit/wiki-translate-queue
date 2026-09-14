@@ -130,7 +130,8 @@ https://en.wikipedia.org/wiki/Logic	FAILED
 https://en.wikipedia.org/wiki/Materialism	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Reality	DONE
-https://en.wikipedia.org/wiki/Truth	CLAIMED	pop-os	2026-09-14T21:24:06.303090+02:00
+https://en.wikipedia.org/wiki/Truth	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Monotheism
 https://en.wikipedia.org/wiki/Polytheism
 https://en.wikipedia.org/wiki/Soul
