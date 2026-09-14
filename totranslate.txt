@@ -132,7 +132,7 @@ https://en.wikipedia.org/wiki/Materialism	FAILED
 https://en.wikipedia.org/wiki/Reality	DONE
 https://en.wikipedia.org/wiki/Truth	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Monotheism
+https://en.wikipedia.org/wiki/Monotheism	CLAIMED	pop-os	2026-09-14T21:24:19.753879+02:00
 https://en.wikipedia.org/wiki/Polytheism
 https://en.wikipedia.org/wiki/Soul
 https://en.wikipedia.org/wiki/Jainism
