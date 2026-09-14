@@ -134,7 +134,7 @@ https://en.wikipedia.org/wiki/Truth	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Monotheism	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Polytheism
+https://en.wikipedia.org/wiki/Polytheism	CLAIMED	pop-os	2026-09-14T21:24:33.385220+02:00
 https://en.wikipedia.org/wiki/Soul
 https://en.wikipedia.org/wiki/Jainism
 https://en.wikipedia.org/wiki/Judaism
