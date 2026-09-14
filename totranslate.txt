@@ -80,7 +80,7 @@ https://en.wikipedia.org/wiki/The_Beatles	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k
+https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k	CLAIMED	pop-os	2026-09-14T19:38:39.873170+02:00
 https://en.wikipedia.org/wiki/Gustav_Mahler
 https://en.wikipedia.org/wiki/Giacomo_Puccini
 https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky	DONE
