@@ -278,18 +278,18 @@ https://it.wikipedia.org/wiki/Francesco_Cuccia	DONE
 https://it.wikipedia.org/wiki/Frascineto	DONE
 https://it.wikipedia.org/wiki/Lungro	DONE
 https://it.wikipedia.org/wiki/Barile
-https://it.wikipedia.org/wiki/San_Paolo_Albanese
+https://it.wikipedia.org/wiki/San_Paolo_Albanese	DONE
 https://it.wikipedia.org/wiki/San_Costantino_Albanese
 https://it.wikipedia.org/wiki/Falconara_Albanese
 https://it.wikipedia.org/wiki/Castroregio
 https://it.wikipedia.org/wiki/Plataci
-https://it.wikipedia.org/wiki/Greci_(Italia)
+https://it.wikipedia.org/wiki/Greci_(Italia)	DONE
 https://it.wikipedia.org/wiki/Acquaformosa
-https://it.wikipedia.org/wiki/San_Basile
+https://it.wikipedia.org/wiki/San_Basile	DONE
 https://it.wikipedia.org/wiki/Bronte
 https://it.wikipedia.org/wiki/Biancavilla
 https://it.wikipedia.org/wiki/Rionero_in_Vulture
 https://it.wikipedia.org/wiki/Sant%27Angelo_Muxaro
-https://it.wikipedia.org/wiki/Caraffa_di_Catanzaro
-https://it.wikipedia.org/wiki/Cerzeto
+https://it.wikipedia.org/wiki/Caraffa_di_Catanzaro	DONE
+https://it.wikipedia.org/wiki/Cerzeto	DONE
 
