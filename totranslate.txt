@@ -117,7 +117,7 @@ https://en.wikipedia.org/wiki/James_Cook	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Zheng_He
+https://en.wikipedia.org/wiki/Zheng_He	CLAIMED	pop-os	2026-09-14T21:21:10.652651+02:00
 https://en.wikipedia.org/wiki/Dialectic
 https://en.wikipedia.org/wiki/Epistemology	CLAIMED	pop-os	2026-09-01T21:32:55.863976+02:00
 https://en.wikipedia.org/wiki/Free_will
