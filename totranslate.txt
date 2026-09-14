@@ -91,7 +91,7 @@ https://en.wikipedia.org/wiki/Richard_Wagner	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Sergei_Eisenstein	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Akira_Kurosawa
+https://en.wikipedia.org/wiki/Akira_Kurosawa	CLAIMED	pop-os	2026-09-14T20:12:03.328656+02:00
 https://en.wikipedia.org/wiki/Marilyn_Monroe
 https://en.wikipedia.org/wiki/Satyajit_Ray
 https://en.wikipedia.org/wiki/Geoffrey_Chaucer
