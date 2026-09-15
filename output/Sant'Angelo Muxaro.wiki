@@ -1,0 +1,161 @@
+{{Infobox settlement
+| name                  = Sant'Angelo Muxaro
+| native_name           = Sant'Angelo Muxaro
+| native_name_lang      = it
+| other_name            = Sant'Àncilu Muxaru (sicilianisht)
+| image_skyline         = Panoramica su Sant'Angelo.jpg
+| image_caption         = Panoramë, 2007
+| image_map             = Map of comune of Sant'Angelo Muxaro (province of Agrigento, region Sicily, Italy).svg
+
+<!-- Administrimi territorial -->
+| subdivision_type      = Shteti
+| subdivision_name      = [[Italia]]
+| subdivision_type1     = Rajoni
+| subdivision_name1     = [[Siçilia]]
+| subdivision_type2     = Konsorciumi i lirë komunal
+| subdivision_name2     = Agrigento
+| leader_title          = Kryetar i Bashkisë
+| leader_name           = Angelo Tirrito
+
+<!-- Gjeografia -->
+| elevation_m           = 335
+| area_total_km2        = 64.5
+
+<!-- Demografia -->
+| population_demonym    = santangelez/e
+}}
+
+'''Sant'Angelo Muxaro''' (''Sant'Àncilu Muxaru'' në sicilianisht) është një [[Komuna (Itali)|komunë italiane]] e konsorciumit të lirë komunal të Agrigento-s, në [[Siçilia]].
+
+== Gjeografia fizike ==
+=== Territori ===
+Sant'Angelo Muxaro ngrihet në brendësi të Agrigento-s, në 335 m mbi nivelin e detit, mbi një kodër gipsi që dominon luginën e mesme të lumit Platani, përgjatë bregut të majtë të tij.<ref>{{Cite web|url=https://www.treccani.it/enciclopedia/sant-angelo-muxaro/|title=Sant'Angelo Muxaro|work=Enciclopedia on line|publisher=Istituto dell'Enciclopedia Italiana|access-date=2026-07-23|language=it}}</ref>
+
+Territori komunal, i shtrirë në rreth 64,5 km², paraqet një morfologji kryesisht kodrinore dhe karakterizohet nga dalje shkëmbore gipsi dhe gëlqerorë, të formuara nga erozioni lumor. Zona bën pjesë në basenin hidrografik të Platani-t dhe njihet fenomene karstike, ndër to Shpella e Sant'Angelo Muxaro-s (ose Shpella Ciavuli), e përfshirë në rezervatin natyror homonim dhe e njohur si gjeosit me interes kombëtar.<ref>{{Cite web|url=https://orbs.regione.sicilia.it/aree-protette/geositi/192-sistema-carsico-di-sant-angelo-muxaro.html|title=Sistema carsico di Sant'Angelo Muxaro|publisher=Regione Siciliana|access-date=2026-07-23|language=it}}</ref>
+
+Pozicioni dominues mbi luginën e Platani-t ka favorizuar që në kohët e lashta vendosjen njerëzore, siç dëshmojnë vendet e shumta arkeologjike të pranishme në zonë, ndër to nekropoli protohistorik dhe mali fqinj Castello, i identifikuar nga një pjesë e historiografisë me Kamikon-in e lashtë, kryeqytetin legjendar të mbretit sikan Kokal.<ref name="parku">{{Cite web|url=https://parchiarcheologici.regione.sicilia.it/valle-templi/siti-archeologici/area-archeologica-e-museo-santangelo-muxaro/|title=Area archeologica di Sant'Angelo Muxaro|publisher=Parco archeologico e paesaggistico della Valle dei Templi|access-date=2026-07-23|language=it}}</ref>
+
+== Origjina e emrit ==
+Toponimi ''Sant'Angelo Muxaro'' përbëhet nga dy elemente me origjinë të ndryshme. Pjesa e parë, ''Sant'Angelo'', zakonisht i atribuohet kultit të Angelo da Gerusalemme-s, i quajtur edhe "Ëngjëlli i Siçilisë", të cilit i kushtohet kisha amë dhe që nderohet si shenjtor mbrojtës i komunës.
+
+Origjina e elementit të dytë, ''Muxaro'', është përkundrazi e diskutueshme. Forma siciliane ''Muxaru'', prej të cilës rrjedh përshtatja aktuale italiane, ruan drejtshkrimin e lashtë sicilian, ku shkronja ⟨x⟩ përfaqësonte tingullin e frikatives postalveolare të shurdhët ([ʃ]), ngjashëm siç ndodhte në gjuhë të tjera romane, si ato iberike. Ky drejtshkrim dëshmohet edhe në toponime të tjera siciliane, si Buscemi, Calascibetta dhe Sciacca, ndërsa në drejtshkrimin modern zëvendësohet zakonisht me kombinimin ⟨sc⟩, prej nga variantet ''Musciaro'' dhe ''Musciaru''.
+
+Sa i përket etimologjisë, disa studiues e lidhin me gjuhën arabe. Sipas një hipoteze të parë, emri do të rridhte nga ''Muʿaṣṣar'', me kuptimin "vend strehimi" ose "vend azili"; një interpretim tjetër e lidh me termin ''Mushar'', "vend vëzhgimi", me sa duket në referim ndaj pozicionit dominues të kodrës mbi të cilën ngrihet vendbanimi. Asnjëra prej këtyre hipotezave, megjithatë, nuk ka gjetur pëlqim përfundimtar në literaturën specialistike.
+
+== Historia ==
+=== Nga origjina deri në epokën klasike ===
+Territori i Sant'Angelo Muxaro-s është frekuentuar që nga prehistoria, siç dëshmojnë dëshmitë e shumta arkeologjike të gjetura në zonë, ndër to nekropole të gjera shkëmbore dhe një vendbanim i rëndësishëm i epokës së bronzit dhe fillimit të epokës së hekurit. Vendbanimet u atribuohen përgjithësisht popullsive sikane dhe përbëjnë një prej referencave kryesore arkeologjike për studimin e Siçilisë qendror-perëndimore mes shekullit XIII dhe VII p.e.s.<ref>Vincenzo La Rosa, ''Le popolazioni della Sicilia: Sicani, Siculi, Elimi'', te AA.VV., ''Italia'', Libri Scheiwiller, Milano, 1989, f. 40–45.</ref>
+
+Një pjesë e historiografisë e identifikon malin fqinj Castello me Kamikon-in e lashtë, kryeqytetin legjendar të mbretit sikan Kokal, të përmendur nga burimet klasike si vendi ku Minosi, mbërritur në Siçili në kërkim të Dedalit, gjeti vdekjen. Tradita u rimor edhe nga Sofokliu, që i kushtoi episodit tragjedinë e humbur ''Kamikioi'' (''Banorët e Kamikonit'').
+
+Gërmimet arkeologjike të kryera në territor kanë dhënë pajisje varrimi të pasura, sot të ruajtura pjesërisht në Muzeun Arkeologjik Rajonal Paolo Orsi të Sirakuzës dhe në Muzeun Arkeologjik Rajonal Pietro Griffo të Agrigento-s, duke konfirmuar rëndësinë e vendbanimit në epokën protohistorike.<ref name="parku" />
+
+=== Nga mesjeta deri në epokën moderne ===
+Vendbanimi i sotëm u zhvillua në epokën mesjetare. Në fillim të shekullit XVI, territori priti një koloni refugjatësh shqiptarë, të strehuar në Siçili pas zgjerimit të Perandorisë Osmane në Ballkan. Prania arbëreshe ndikoi për disa shekuj në jetën fetare dhe kulturore të komunitetit, ku praktikohej riti greko-bizantin.<ref>{{Cite book|author=Giuseppe Schirò|title=Gli Albanesi in Sicilia|publisher=Sellerio|location=Palermo|language=it}}</ref>
+
+Gjatë shekullit XVII, baronia i përkiti fillimisht familjes Tagliavia d'Aragona dhe më pas Pignatelli-ve, dukë të Monteleone-s. Gjatë kësaj periudhe, riti greko-katolik u zëvendësua gradualisht nga ai latin, dhe komuniteti arbëresh iu nënshtrua një procesi gradual asimilimi gjuhësor e kulturor.
+
+Sundimi feudal i Pignatelli-ve përfundoi më 1812, kur Parlamenti i Siçilisë miratoi shfuqizimin e feudalizmit në Mbretërinë e Siçilisë.
+
+=== Nga Bashkimi i Italisë deri sot ===
+Pas ekspeditës së të Mijëve dhe shpalljes së Mbretërisë së Italisë, Sant'Angelo Muxaro ndoqi ngjarjet administrative të shtetit të ri unitar, duke ruajtur një ekonomi kryesisht bujqësore, të bazuar në kultivimin e drithërave, ullirit dhe blegtorisë.
+
+Gjatë shekullit XX, komuna u prek nga fenomeni i emigrimit drejt Italisë veriore dhe jashtë vendit, i zakonshëm për pjesën më të madhe të brendësisë siciliane. Paralelisht, u zhvillua një veprimtari në rritje për mbrojtjen dhe vlerësimin e trashëgimisë arkeologjike, e kulmuar me themelimin e Zonës Arkeologjike të Sant'Angelo Muxaro-s, që ruan disa nga dëshmitë më të rëndësishme të qytetërimit sikan të Siçilisë.
+
+=== Simbolet ===
+[[Skeda:Stemmasant'angelomuxaro.svg|thumb|upright=0.8|Stema komunale deri më 11 janar 2021]]
+[[Skeda:Sant'Angelo Muxaro-Bandiera.svg|thumb|upright=0.8|Flamuri komunal]]
+
+Që nga gjysma e dytë e shekullit XX, komuna përdori një stemë pa dhënie zyrtare, që paraqiste "mbi të gjelbër, kokë arabi me lëkurë natyrale, me çallmë të mbuluar nga një gjysmëhënë".<ref>{{Cite web|url=https://lnx.comune.santangelomuxaro.ag.it/public/file/statuto/STATUTO%20COMUNALE_compressed.pdf|title=Statuto comunale|publisher=Comune di Sant'Angelo Muxaro|access-date=2026-07-23|language=it}}</ref>
+
+Përdorimi i këtij simboli kontribuoi në përhapjen e traditës sipas së cilës territori do të ishte qeverisur nga një princ arab i quajtur Mushar, hipotezë pa mbështetje dokumentare. Më 2020, administrata komunale nisi procedurën për miratimin e simboleve të reja civile, të mbështetura në një kërkim historiko-heraldik të kryer pranë Arkivave Shtetërore të Romës, Palermos dhe Agrigento-s.
+
+Me dekret të presidentit të Republikës Sergio Mattarella, më 12 janar 2021, u dhanë stema, gonfaloni dhe flamuri zyrtar i komunës.<ref name="presidenza">{{Cite web|url=https://presidenza.governo.it/onorificenze_araldica/araldica/emblemi/2021/comuni2021/SantAngeloMuxaro.html|title=Emblema del Comune di Sant'Angelo Muxaro (Agrigento)|publisher=Ufficio del Cerimoniale di Stato e per le Onorificenze della Presidenza del Consiglio dei ministri|access-date=2026-07-23|language=it}}</ref>
+
+;Stema
+Stema është e ndarë vertikalisht në tri pjesë dhe bashkon elementet kryesore identifikuese të komunitetit: referimin ndaj familjeve Medici dhe Branciforte, feudalë të lashtë të territorit; efigjen e Angelo da Gerusalemme-s, shenjtor mbrojtës i komunës; kokën e një arabi, kujtim i traditës historike të lidhur me origjinën e toponimit; dy kulla, kujtim i Kamikonit të lashtë, dhe një çafkë, element karakteristik i faunës së luginës së Platani-t. Motoja është {{Smallcaps|Universitas S. Angeli Muxiaro}}.<ref name="presidenza" />
+
+;Gonfaloni
+Gonfaloni është një pëlhurë e verdhë me buzë të kuqe, e stolisur pasurisht me qëndisma argjendi dhe e mbajtur me stemën komunale.
+
+;Flamuri
+Flamuri është një pëlhurë drejtkëndore, e ndarë me të verdhë dhe të kuqe, me stemën komunale në qendër.<ref name="presidenza" />
+
+== Monumente dhe vende me interes ==
+=== Arkitektura fetare ===
+[[Skeda:SantAngelo Muxaro di notte.jpg|thumb|Kisha amë e Sant'Angelo Martirit]]
+[[Skeda:SantAngelo Muxaro - Chiesa del Carmelo.jpg|thumb|Kisha e Zojës Virgjëreshë të Bekuar të Malit Karmel]]
+
+Ndër ndërtesat kryesore fetare të komunës numërohen:
+* kisha amë e Sant'Angelo Martirit, kushtuar shenjtorit mbrojtës të fshatit dhe vendi kryesor i kultit të komunitetit;
+* kisha e Zojës Virgjëreshë të Bekuar të Malit Karmel, ndërtuar në epokën moderne dhe e lidhur me traditën karmelitane vendase.
+
+=== Vende arkeologjike ===
+[[Skeda:Necropoli preistorica (2).jpg|thumb|Nekropoli prehistorike]]
+[[Skeda:Tomba del principe.jpg|thumb|Varri i Princit]]
+
+Territori komunal ruan një nga kompleksët arkeologjikë më të rëndësishme të Siçilisë protohistorike, të përbërë nga nekropole shkëmbore, varre monumentale dhe mbetje vendbanimesh të atribuara sikanëve.
+
+Ndër gjetjet kryesore numërohen:
+* Varri i Princit, varrim monumental i gërmuar në shkëmb, i datueshëm në epokën e bronzit, i njohur për pajisjet e pasura të varrimit të gjetura brenda tij dhe sot të ruajtura pjesërisht në Muzeun Arkeologjik Rajonal Paolo Orsi të Sirakuzës;
+* nekropoli protohistorike e kodrës Sant'Angelo;
+* nekropoli e Grotticelle-s;
+* rrënojat e kështjellës mesjetare të Qal'at al-Mushari'a-s.
+
+Zona arkeologjike është identifikuar tradicionalisht nga historiografia me Kamikon-in e lashtë, kryeqytetin legjendar të mbretit sikan Kokal, pranë të cilit, sipas tradiës klasike, u vra Minosi ndërsa ishte në kërkim të Dedalit. Identifikimi mbetet, megjithatë, objekt debati, dhe hipoteza të tjera e vendosin qytetin mitik pranë Colle Madore-s, në territorin e Lercara Friddi-t, ose në përputhje me Shpellat e Gurfa-s, në territorin e Alia-s.
+
+== Shoqëria ==
+Popullsia e Sant'Angelo Muxaro-s ka pësuar një rënie të ndjeshme përgjatë shekullit XX, sidomos për shkak të emigrimit.
+
+== Kultura ==
+=== Muzetë ===
+Instituti kryesor muzeal i komunës është ''MuSAM — Muzeu Arkeologjik i Sant'Angelo Muxaro-s'', përurruar në dhjetor 2015 me qëllim vlerësimin e trashëgimisë historike dhe arkeologjike të territorit, veçanërisht gjetjeve nga gërmimet e zonës së lashtë sikane.<ref name="rainews">{{Cite web|url=https://www.rainews.it/archivio-rainews/articoli/apre-musam-smart-museum-sant-angelo-muxaro-antica-camico-capitale-sicani-04c6d7f3-c5c9-42dc-b06b-be3c27a25684.html|title=Apre il MuSAM. Uno smart museum a Sant'Angelo Muxaro: l'antica Camico, capitale dei Sicani|publisher=Rai News|date=2015-12-16|access-date=2026-07-23|language=it}}</ref>
+
+Me rastin e hapjes së muzeut, British Museum dha përjashtimisht huazimin e përkohshëm të ''phiale aurea'', një kupë rituale ari e shekullit VIII p.e.s., e gjetur në shekullin XIX në të ashtuquajturin "Varri i Princit" dhe e blerë nga muzeu londinez më 1772.<ref name="rainews" /><ref>{{Cite web|url=https://www.britishmuseum.org/collection/object/G_1772-0314-70|title=Gold phiale|publisher=British Museum|language=en}}</ref>
+
+Rruga ekspozuese dokumenton historinë e territorit nga protohistoria deri në epokën mesjetare, me vëmendje të veçantë ndaj qytetërimit sikan dhe zbulimeve arkeologjike të kryera në zonën e Sant'Angelo Muxaro-s dhe malit fqinj Castello.
+
+== Ekonomia ==
+Ekonomia e Sant'Angelo Muxaro-s bazohet tradicionalisht në bujqësi dhe blegtori. Ndër kulturat kryesore numërohen drithërat, ulliri, bajamja dhe pistashja, të shoqëruara nga prodhime perimesh dhe foragjere tipike të brendësisë së Agrigento-s.
+
+Territori komunal bën pjesë gjithashtu në zonën e prodhimit të Pistashes së Raffadali-t me Denominim të Origjinës së Mbrojtur (DOP), të themeluar nga Bashkimi Evropian, bashkë me shumë komuna të tjera të provincës së Agrigento-s.
+
+== Administrimi ==
+=== Kryetarë të mëparshëm të komunës ===
+* 1985–1990: Ignazio Alessi (Demokracia Kristiane)
+* 1990–1992: Marcantonio Spoto (Demokracia Kristiane)
+* 1992–1994: Giuseppe Alfano (Demokracia Kristiane)
+* 1994–1998: Giuseppe Tirrito (Partia Demokratike e Majtë)
+* 1998–2003: Giuseppe Tirrito (majtas)
+* 2003–2008: Giuseppe Aurelio Leto (qendër-djathtas)
+* 2008–2013: Giuseppe Aurelio Leto (listë civile)
+* 2013–2018: Lorenzo Alfano (listë civile "Rinascita per Sant'Angelo")
+* 2018–2023: Angelo Tirrito (listë civile "Svoltiamo insieme")
+* Që nga 2023: Angelo Tirrito (listë civile "Continuiamo Insieme per Sant'Angelo Muxaro")
+
+=== Binjakëzime ===
+* Quilmes, [[Argjentina]]
+
+== Shënime ==
+<references />
+
+== Shiko edhe ==
+* [[Arbëreshët në Itali]]
+
+== Projekte të tjera ==
+{{Sisterlinks}}
+
+{{Authority control}}
+
+[[Kategoria:Qytete në Itali]]
+[[Kategoria:Siçili]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|it|Sant'Angelo Muxaro|26 gusht 2026|152199416}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga italishtja, sipas artikullit it:Sant'Angelo Muxaro, versioni i datës 26 gusht 2026 (revizioni 152199416)
+-->

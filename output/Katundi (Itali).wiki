@@ -1,0 +1,194 @@
+{{Infobox settlement
+| name                  = Katundi
+| native_name           = Greci
+| native_name_lang      = it
+| other_name            = Katundi
+| image_flag            = Greci (Italia)-Gonfalone.png
+| image_seal            = Greci (Italia)-Stemma.png
+| image_skyline         = Greci (Av) - Paesaggio.jpg
+| image_map             = Greci 2016.png
+
+<!-- Administrimi territorial -->
+| subdivision_type      = Shteti
+| subdivision_name      = [[Italia]]
+| subdivision_type1     = Rajoni
+| subdivision_name1     = [[Kampania]]
+| subdivision_type2     = Provinca
+| subdivision_name2     = [[Provinca e Avelinos|Avelino]]
+| leader_title          = Kryetar i Bashkisë
+| leader_name           = Nicola Norcia
+
+<!-- Gjeografia -->
+| coordinates           = {{Coord|41|15|10|N|15|10|12|E|type:city|display=inline,title}}
+| elevation_m           = 821
+| area_total_km2        = 30.58
+
+<!-- Demografia -->
+| population_total      = 772
+| population_as_of      = 2010
+| population_demonym    = grecez/e
+
+<!-- Kontakte -->
+| postal_code           = 83030
+| area_code             = 0825
+| website               = http://www.comune.greci.av.it
+}}
+
+'''Greci''' (''Katundi'' në [[Gjuha arbëreshe (Itali)|arbërisht]]) është një [[Komuna (Itali)|komunë italiane]] e provincës së [[Provinca e Avelinos|Avelinos]] në [[Kampania]].
+
+Fshati dallohet për traditat e lashta identitare [[Arbëreshët në Itali|arbëreshe]], unike në të gjithë rajonin dhe të mbrojtura me ligj.<ref>{{Cite web|url=http://www.sito.regione.campania.it/burc/pdf04/burc63or_04/lr14_04.pdf|title=Legge regionale n. 14 del 20 dicembre 2004. Tutela della minoranza alloglotta e del patrimonio storico, culturale e folcloristico della comunità albanofona del comune di Greci in provincia di Avellino|website=Regione Campania|access-date=2017-12-07|archive-url=https://web.archive.org/web/20160607142628/http://www.sito.regione.campania.it/burc/pdf04/burc63or_04/lr14_04.pdf|archive-date=2016-06-07|url-status=live|language=it}}</ref> Greci ka ruajtur gjatë shekujve [[Gjuha arbëreshe (Itali)|gjuhën e lashtë arbëreshe]] bashkë me kulturën, veshjet dhe traditat e origjinës.
+
+== Gjeografia fizike ==
+[[Skeda:Lake Luza-Aqua-Fets in Greci.jpeg|thumb|upright=1.1|Pamje nga mali Cervo; në plan të parë pylli ''Ripitella'' me një cep të liqenit natyror ''Luza Aquafets'', i dëshmuar që nga shekulli XV.]]
+Greci ndodhet në 821 m mbi nivelin e detit, mbi një lartësi me pozicion dominues mbi luginën e Cervaros. Territori komunal, më verior i provincës, përbëhet nga fusha, kullota dhe pyje.
+
+Dy pyjet në lokalitetet ''Porcino'' dhe ''Ripitella'' (përkatësisht rreth 80 dhe 40 hektarë) kanë specie interesante bimësh (kryesisht gjethegjerë me mbizotërim lisash) dhe kafshësh, si lepuri, shqemza dhe dhelpra.
+
+E ndryshme është përbërja floristike e pyjeve në lokalitetet ''Serrone'' dhe Mali Cervo, secili rreth 20 hektarë, të përbërë kryesisht nga halorë.
+
+=== Hidrografia ===
+Me karakter tipik përrenjsh, lumi Cervaro fshin territorin komunal, duke mbledhur ujërat e shumë përrenjve të tjerë.
+
+I veçantë është liqeni natyror ''Luza Aquafets'', që shtrihet në rreth 3&nbsp;500 m². Ekzistenca e "liqenit të Grecit" dëshmohet historikisht që nga viti 1466.<ref>T. Vitale, f. 408.</ref>
+
+=== Klima ===
+Stacioni meteorologjik i Ariano Irpino-s, i vendosur në afërsi dhe në lartësi të ngjashme, shërben si pikë referimi për Grecin. Klima është e llojit të butë e freskët, me vera të buta e mjaft të thata dhe dimra mjaft të ftohtë, me reshje mesatare dhe borë ndonjëherë të bollshme.
+
+== Origjina e emrit ==
+Rrjedh nga latinishtja ''Graeci'', domethënë "grekë", në referim ndaj popullsisë greko-bizantine nga e cila e ka origjinën fshati, i dëshmuar që në 1039.<ref name="Vitale1039">T. Vitale, f. 358.</ref> Banorët me etni shqiptare, të ardhur më pas në shekullin XV, përdorin në vend të kësaj toponimin ''Katundi'', që në gjuhën shqipe do të thotë pikërisht "fshati, vendbanimi".
+
+== Historia ==
+=== Origjinat bizantine ===
+Në vendin ku ngrihet Greci kishin qenë bizantinët. Në 535, perandori i Kostandinopojës [[Justiniani I]], i angazhuar në luftërat kundër gotëve, dërgoi në Itali gjeneralin e vet [[Belisari|Belisar]], i cili themeloi aty një numër të madh kolonish, ndër to edhe Grecin. I shkatërruar nga saraçenët (908), fshati u rindërtua në 1039 me urdhër të Pandolfit II, princit të Beneventos.<ref name="Vitale1039" /> Në epokën normane u bë vendbanim i baronit Gerardo, vëllait të kontit të Arianos, dhe baronia përfshinte edhe fshatrat e fortifikuar Savignano dhe Ferrara, të dyja në krahun e kundërt të luginës së Cervaros.<ref>{{Cite web|url=http://www.cmufita.it/cms/?q=savignano%20irpino|title=Savignano Irpino|website=Comunità montana dell'Ufita|access-date=2018-03-02|archive-url=https://web.archive.org/web/20180806135655/http://www.cmufita.it/cms/?q=savignano%20irpino|language=it}}</ref> Në shekujt që pasuan, territori i Grecit, edhe pse i rritur në shtrirje e rëndësi ushtarake (u bë feud i tre ushtarëve), pësoi shtypjen e baronëve dhe feudalëve lokalë që herë pas here e morën nën kontroll, duke kufizuar zhvillimin e tij ekonomik dhe demografik. Fshati i mëparshëm ra kështu në braktisje, e njëjta gjë ndodhi edhe me Ferrara-n; ky vendbanim i fundit madje u zhduk përgjithmonë. Baronia e Grecit, Savignanos dhe Ferraras përmendet për herë të fundit, si pjesë e provincës së Principato Ultra-s, në janar 1445.<ref>{{Cite book|author=Giovanni Pititto|chapter=Il Regno di Napoli e delle Due Sicilie – Sezione 2|title=Archivio Storico della Calabria - Nuova Serie - Numero 3|publisher=Luigi Pellegrini|year=2014|url=https://books.google.it/books?id=_ZlmAwAAQBAJ&pg=PT183|access-date=2020-06-05|archive-url=https://web.archive.org/web/20200605051646/https://books.google.it/books?id=_ZlmAwAAQBAJ&pg=PT183|url-status=live|language=it}}</ref>
+
+=== Ardhja e shqiptarëve ===
+Përkundrazi, territori i Grecit në gjysmën e dytë të shekullit XV u prek nga një migrim i madh popullsish shqiptare, të ardhura nga Ballkani jugor, të quajtura arbëreshë, që kishin mbërritur në Itali pas udhëheqësit [[Skënderbeu]]. Ky zbarkoi në Itali më 1459 për të ndihmuar mbretin Ferdinando I të Napolit, birin e mikut dhe mbrojtësit të vet [[Alfonsi V|Alfonsit të Aragonës]], në luftën kundër rivalit Gjon II i Lorenës dhe baronëve të tij aleatë. Trupat e Skënderbeut, bashkuar me ushtrinë e Ferdinandit, kontribuan në mënyrë vendimtare në fitoren e këtij të fundit, veçanërisht në betejën e 18 gushtit 1462, zhvilluar mes Orsaras, Troia-s dhe territorit të lashtë të Terrastrutta-s, pranë Celle San Vito-s.<ref name="comu">{{Cite web|url=https://www.comune.greci.av.it/index.php?action=index&p=76|website=Comune di Greci|title=Storia|access-date=2020-10-16|archive-url=https://web.archive.org/web/20200119155810/http://www.comune.greci.av.it/index.php?action=index&p=76|url-status=live|language=it}}</ref> Mbreti, në shenjë mirënjohjeje, u lejoi atyre nga refugjatët shqiptarë të ritit grek që dëshironin, të mbeteshin në Itali dhe të ripopullonin vendin.<ref>{{Cite book|author=Generoso Picone|title=Paesaggio con rovine|publisher=Edizioni Mondadori|year=2020|isbn=9788835705796|url=https://books.google.it/books?id=lSwEEAAAQBAJ&pg=PT56|language=it}}</ref> Ftesa i përgjigjej edhe nevojave praktike: arbëreshët do të mund të mbikëqyrnin vendbanimet frankoprovansale, filo-anzhuine, të Valmaggiore-s fqinje.<ref name="comu" />
+
+=== Epoka moderne ===
+Në Greci [[Liturgjia bizantine|riti bizantin]], që megjithatë mbijeton edhe sot në komuna të tjera italo-shqiptare të Italisë jugore, u ndalua, ndonjëherë edhe me akte shumë të dhunshme, nga autoritetet e vendeve fqinje, si civile ashtu edhe fetare, me veprime force si ai i kryer nga kardinali i Beneventos Pietro Francesco Orsini,<ref name="comu" /> që më vonë u bë [[Benedikti XIII|Papa Benedikti XIII]]. Këto veprime, megjithatë, nuk penguan ruajtjen e identitetit dhe të gjuhës arbëreshe, ende të folur nga banorët. Ndër personalitetet më të shquara spikat Leonardo de Martino (1840–1923), këngëtar i letërsisë shkodrane, misionar apostolik në [[Shqipëria|Shqipëri]] dhe mësues i gjuhës shqipe, i lindur në Greci nga një familje e shquar arbëreshe.<ref name="idi">I Dauni-Irpini.</ref>
+
+=== Simbolet ===
+Stema, pa dekret formal dhënieje, mund të përshkruhet: fushë qielli, me pemë lisi të ngulur në pjesën e poshtme, e shoqëruar nga një shigjetë në diagonale dhe një sëpatë në diagonale të kundërt, gjithçka natyrale, në krye tri yje pesëcepësh të artë, të vendosur në brez. Zbukurime të jashtme si Komunë.<ref>{{Cite web|url=https://dait.interno.gov.it/documenti/statuti/statuto-comune-av-greci.pdf|title=Statuto comunale|author=Comune di Greci|language=it}}</ref> Një stemë e lashtë, e dëshmuar në shekullin XVI, kishte në mes një shkronjë G (për ''Graeci'').<ref>{{Cite web|url=https://araldicairpina.jimdofree.com/comuni-a-l/lettera-g/greci/|title=Greci|access-date=2026-03-08|website=Araldica Irpina|language=it}}</ref> Flamuri (gonfaloni) është një pëlhurë e ndarë me të bardhë dhe blu.
+
+== Monumente dhe vende me interes ==
+[[Skeda:Greci (Av) - Centro Storico.jpg|thumb|upright|Një cep i qendrës historike natën]]
+Me rëndësi historike janë ''Halivet'', edhe ''Kalivet'' (="kasolle", në gjuhën arbëreshe), ndërtesa të lashta tipike me mure të thatë, të ripunuara me kalimin e kohës, por që u përkasin valës së parë dhe të dytë migruese nga Shqipëria (shekulli XV–XVI). Ato ndodhen kryesisht në lagjen ''Breggo'' (="kodër", në arbërisht).<ref name="idi" />
+
+=== Arkitektura fetare ===
+* Kisha Amë, kushtuar shenjtorit mbrojtës Shën Bartolomeu Apostulli: arkitektura e saj e thjeshtë e tipit lindor u shndërrua në shekullin XVII, kur u rregullua sipas ritit latin dhe jo më bizantin. E rindërtuar në fund të shekullit XVII në stil romanik dhe me tri nefe, kisha u shenjtërua nga kardinali Vincenzo Maria Orsini, atëherë kryepeshkop i Beneventos. Brenda saj shihen statujat e Shën Marisë së Karosenos dhe të shenjtorit mbrojtës Bartolomeu, si dhe piktura të shekullit XVII, ndërsa pagëzimorja daton nga 1706.<ref name="vdm">Valle del Miscano.</ref>
+
+=== Arkitektura civile ===
+==== Pallatet historike ====
+* Pallati Lauda (shekulli XVIII), i përkiste familjes Lauda, ardhur në Greci me migrimet arbëreshe.
+* Pallati Caccese (shekulli XIX), i përkiste familjes Caccese, me origjinë nga Montecalvo Irpino. Kaçezët, që pretendojnë origjinë normane, patën prona të ndryshme mes Grecit, Montecalvos dhe Gesualdos.
+* Pallati De Maio (shekulli XVIII), i përkiste pasardhësve të Michele De Maio-s, guvernator i vendeve fqinje në kohën e dominimit spanjoll.
+* Pallati Lusi (shekulli XVI), me oborr të brendshëm, i ripunuar në shekullin XVII, shitur në shekullin XX nga trashëgimtarët Lusi te Komuna e Grecit dhe që atëherë selia e bashkisë. Familja Lusi ka qenë ndër familjet më të rëndësishme të Grecit, e pranishme që në shekullin XIV në Ariano Irpino. Familja ka origjinë greko-shqiptare (''Louzis''/Λούζης), me gjasë nga ishulli i [[Korfuzi|Korfuzit]].
+
+==== Banesat rurale ====
+Katundi (fshati) Tre Fontane, i ndodhur përgjatë rrugës tratturello Camporeale–Foggia, në 3,5 km nga qendra e banuar, përbën një shembull madhështor të arkitekturës rurale renesantiste.
+
+=== Vende arkeologjike ===
+Në kodrat e malit Rovitello del vonë një nekropolë e periudhës samnite (shekujt VI–IV p.e.s.), e pasur me pajisje varrimi; në të njëjtën zonë gjenden gjithashtu varre grope të epokës së hekurit.<ref>{{Cite web|url=https://www.ganapoletano.it/archemail/arche9/0greci.htm|website=Archemail|title=Greci|url-status=live|archive-url=https://web.archive.org/web/20201221140733/https://www.ganapoletano.it/archemail/arche9/0greci.htm|language=it}}</ref> Shumë nga gjetjet janë të ekspozuara në muzeun arkeologjik të Ariano Irpino-s.
+
+== Shoqëria ==
+=== Evolucioni demografik ===
+Numri i banorëve të regjistruar zyrtarisht ndryshoi ndjeshëm përgjatë shekujve: 75 familje në 1595, 136 në 1648, 142 në 1669, 234 familje me 1026 banorë në 1757; 3863 banorë në 1898, 3200 në 1920, 2756 në regjistrimin e 1951-shit dhe vetëm 1186 në 1991.
+
+=== Etnitë dhe pakicat e huaja ===
+Më 31 dhjetor 2010 rezultonin banorë në territorin e Grecit 15 shtetas të huaj, që përbënin 1,94% të popullsisë komunale, nga 2 etni të ndryshme:<ref>Burimi: Istat.</ref> [[Shqipëria]] 8, [[Rumania]] 7.
+
+=== Gjuhët dhe dialektet ===
+Greci është një komunë dygjuhëshe, ku përveç italishtes flitet shqipja e lashtë, domethënë gjuha arbëreshe. Për shembull, "mirë se vini" thuhet ''mirë sa edhët'', "po" është ''uaj'', "jo" është ''jo'' dhe vetë "Greci" quhet ''Katundi'', që do të thotë "fshati".
+
+Popullsia lokale megjithatë kupton edhe të folmet irpine (sidomos dialektin e Arianos) të folura në vendet fqinje. Në të kundërt, banorët e zonave përreth nuk janë në gjendje ta kuptojnë arbërishten.<ref>{{Cite book|title=Analisi della realtà sociolinguistica della comunità albanofona di Greci in provincia di Avellino|editor=Giuseppe Vitolo|author=Dipartimento di Linguistica – Università di Firenze|date=2011–2012|pages=190–191|url=https://www.academia.edu/3882656/|access-date=2020-04-29|archive-date=2020-06-05|archive-url=https://web.archive.org/web/20200605062747/https://www.academia.edu/3882656/|url-status=live|language=it}}</ref> Greci kufizohet gjithashtu (në krahun verior) me një ishull tjetër gjuhësor, atë frankoprovansal të Faeto-s.
+
+=== Feja ===
+Riti bizantin në Greci u ruajt i paprekur vetëm deri në shekullin XVII, periudha e shtypjes më të madhe nga kleri latin italian, që nuk tolerontë vazhdimësinë e lidhjeve me patriarkun e Kostandinopojës. Nga riti i lashtë origjinal mbeten tradita popullore e ''Vën Kurorë''-s, kënga e ''Kalimera''-s dhe prania e disa ikonave, si ikona bizantine e Shën Nikollës së Mirës me distikë greko-shqiptare. Që nga viti 1997 territori komunal përfshihet në foranian Miscano-Fortore-Cervaro të dioqezës së Ariano Irpino-Lacedonia-s.
+
+=== Traditat dhe folklori ===
+[[Skeda:Greci (Av) - Danze Tradizionali Arbereshe nel piazzale antistante la Chiesa di San Bartolomeo.jpg|upright|thumb|left|Valle dhe këngë tradicionale arbëreshe]]
+==== Riti i martesës ====
+Traditat folklorike shqiptare janë veçanërisht të gjalla gjatë ritit fetar të martesës (''martesia'') në Greci, dhe zhvillohet kështu: në dalje nga kisha (''kisha'') nusërit me të ftuarit në kortezh shkojnë në shtëpinë e dhëndrit, ku prindërit e tij u ofrojnë nusërve për të ngrënë një copë bukë dhe për të pirë verë nga një kupë e vetme; kjo menjëherë pas kësaj thyhet, që askush tjetër të mos mund të pijë prej saj, dhe për të treguar pazgjidhshmërinë e lidhjes së sakramentit të martesës. Tradita ka origjinë ortodokse dhe shqiptare.<ref name="idi" />
+
+==== Funerali ====
+Gjatë funeralit (''në lip'' — në zi) të afërmit më të ngushtë e qajnë të vdekurin dhe me zë të lartë, në gjuhën shqipe (si grekët e lashtë në tragjeditë greke), i deklamojnë meritat dhe virtytet.<ref name="idi" />
+
+==== Drama e Shën Bartolomeut ====
+[[Skeda:San_Bartolomeo_Scena.jpg|thumb|upright=0.8|Drama e Shën Bartolomeut]]
+Çdo vit, me rastin e festës patronale të 25 gushtit, banorët e Grecit interpretojnë Dramën e shenjtë të Shën Bartolomeut Apostull, një ripunim teatror i martirizimit të shenjtorit. Përfaqësimi e ka rrënjën në mesjetën e vonë, kur drama improvizohej nga aktorë vendas sipas skenareve me frymëzim popullor. Në fund të shekullit XIX, drama u vu në vargje nga abati Luigi Lauda. Ky mori si referim ''Saul''-in e Vittorio Alfieri-t, prej të cilit mori frymëzim për metrikën dhe gjuhën. Botimi i parë i veprës u shtyp më 1881, ndërsa ai i përdorur aktualisht u botua më 1941 në Nju Jork nga emigrantë të fshatit. Vepra, e përbërë nga pesë akte, tregon fillimisht mbërritjen e Shën Bartolomeut në Armeni dhe kthimin në krishterim të mbretit Polimio. Pastaj kapjen e Shenjtit nga vëllai i Polimios, uzurpatori Astiage, që, i nxitur nga priftërinjtë vendas, e dënon Apostullin me martirizim. Së fundi, dyluftimin mes Polimios dhe Astiages, vdekjen e këtij të fundit dhe kthimin përfundimtar në krishterim të mbretërisë.
+
+==== Kalimera ====
+Kënga e "Kalimera-s" zhvillohet mbrëmjen e së premtes së madhe (''E Prëmtja e Madhe'') në kishë. Është një këngë që, me motiv midis vajtimit dhe qarjes, rikujton pasionin e Krishtit nga darka e fundit deri te vdekja në kryq në Golgota. Kënga është në gjuhën arbëreshe.<ref name="idi" />
+
+== Kultura ==
+[[Skeda:KatundiZembraJone.jpg|thumb|left|Shoqata kulturore "Katundi Zëmbra Jonë"]]
+Interpretimi në gjuhën italiane i Dramës së Shën Bartolomeut, që mbahet në sheshin kryesor të fshatit me rastin e festës patronale të 25 gushtit, përbën një ngjarje fetare dhe kulturore me interes të konsiderueshëm. Organizimin e kujdeset shoqata kulturore "Katundi Zëmbra Jonë".
+
+=== Muzetë ===
+* PLEAG — Pallati Lusi, Ekspozita Arkeologjike e Grecit<ref>{{Cite web|url=http://www.museincampania.it/spip.php?page=musei_dettaglio&id_museo=214|title=PLEAG su museincampania.it|archive-url=https://web.archive.org/web/20150103092123/http://www.museincampania.it/spip.php?page=musei_dettaglio&id_museo=214|archive-date=2015-01-03|language=it}}</ref>
+* Muzeu i Vedovato-s
+* Mnemoteka
+
+== Ekonomia ==
+=== Bujqësia ===
+Falë pjellorisë dhe shtrirjes së territorit komunal (mbi 30 km²), Greci e bazon ekonominë e vet në sektorin parësor. Të rëndësishme janë sidomos kulturat e drithërave (me prodhim pasues buke, taralësh dhe biskotash) dhe veprimtaritë blegtorale, nga të cilat merren salsiçe dhe prodhime bulmeti, ndër to spikat kaçkavalli tipik.<ref>Valle del Miscano, f. 226.</ref> Në lokalitetin ''Ischia'', i favorizuar nga mikroklima e luginës së Cervaros, shtrihen ullishte të gjera të një nënspecieje tipike, produktet e së cilës destinohen për prodhimin e vajit të ullirit ekstra të virgjër DOP "Irpinia — Kodrat e Ufita-s".<ref>{{Cite web|url=http://www.agricoltura.regione.campania.it/Tipici/disciplinari/Irpinia_Colline_Ufita.pdf|title=Disciplinare di produzione della Denominazione di Origine Protetta "Irpinia – Colline dell'Ufita"|website=Regione Campania|access-date=2017-12-09|archive-date=2020-10-05|archive-url=https://web.archive.org/web/20201005201143/http://www.agricoltura.regione.campania.it/Tipici/disciplinari/Irpinia_Colline_Ufita.pdf|url-status=live|language=it}}</ref>
+
+=== Turizmi ===
+[[Skeda:Greci (Italy) public park.jpeg|thumb|Vila komunale mbi lartësinë e ''Breggo''-s, me pozicion dominues mbi luginën e Cervaros]]
+Lugina e Cervaros, e përshkuar nga rruga shtetërore 90 e Puljes dhe e pasur me gjelbërim e ujëra, përbën një burim të rëndësishëm natyror, bashkë me liqenin natyror ''Luza Aquafets''. Në zonat rurale spikatin disa ferma (masserie) të epokës mesjetare ose renesantiste. E dukshme sidomos ferma e shekullit XVI Tre Fontane, stacion poste në rrugën tratturello Camporeale–Foggia që ndjek gjurmën e via Traiana-s së lashtë.<ref>Valle del Miscano, f. 241.</ref> Kjo drejtëz pati rëndësi të madhe gjatë gjithë mesjetës, kur ishte pjesë përbërëse e via Francigena-s;<ref>{{Cite web|url=http://ricerca.repubblica.it/repubblica/archivio/repubblica/2009/08/05/la-strada-sacra-sui-sentieri-dei-pellegrini.html|title=La Strada Sacra|website=Repubblica|access-date=2017-12-19|archive-url=https://web.archive.org/web/20170913230756/http://ricerca.repubblica.it/repubblica/archivio/repubblica/2009/08/05/la-strada-sacra-sui-sentieri-dei-pellegrini.html|archive-date=2017-09-13|url-status=live|language=it}}</ref> kjo i ka mundësuar komunës të bëhet pjesë e distriktit turistik "Viaticus",<ref>{{Cite web|url=http://www.ntr24.tv/2017/12/16/distretto-turistico-viaticus-la-regione-campania-da-il-via-libera/|title=Distretto turistico Viaticus: la regione Campania dà il via libera|website=Ntr24|url-status=live|archive-url=https://web.archive.org/web/20190824113509/http://www.ntr24.tv/2017/12/16/distretto-turistico-viaticus-la-regione-campania-da-il-via-libera/|archive-date=2019-08-24|access-date=2017-12-19|language=it}}</ref> që synon të rrisë zhvillimin e turizmit fetar.
+
+Qendra e banuar e Grecit, e ngritur në lartësi 821 m mbi nivelin e detit, është destinacion i turizmit kulturor për studiues e gjuhëtarë që synojnë të studiojnë karakteristikat fonetike, morfologjike dhe sintaksore të shqipes arkaike të folur nga banorët (për shembull, në gjuhën arbëreshe të Grecit fjala "gjuhë" thuhet ''gjuhë'', si në shqipen moderne, ndërsa "mirupafshim" është ''mirë sa u pamë'' në Greci, por ''mirupafshim'' në shqipen moderne).
+
+== Infrastruktura dhe transporti ==
+[[Skeda:Greci (Italy) road sign.jpeg|thumb|left|upright=0.8|Sinjalistika në kryqëzimin mes SS 90 dhe rrugës provinciale që të çon në fshat]]
+=== Rrugët ===
+Komuna ndodhet pothuajse në kryqëzimin mes rrugës shtetërore 90 e Puljes dhe rrugës shtetërore 90 bis, të cilat mundësojnë lidhje të lehta me Avelinon, Foxhian dhe Beneventon (qytete pothuajse në distancë të barabartë, rreth 50 km, nga Greci).
+
+Rruga provinciale që arrin fshatin vazhdon më pas drejt Faeto-s dhe Celle San Vito-s, ku ndodhet një tjetër pakicë e rëndësishme gjuhësore, ajo frankoprovansale e Valmaggiore-s.
+
+=== Lëvizshmëria ===
+Autolinjat AIR ofrojnë lidhje të përditshme në ditët e punës me Ariano Irpino, në distancë më pak se 20 km.<ref>{{Cite web|url=https://airmobilitasrl.it|title=AIR SpA|website=AIR Mobilità|url-status=live|archive-url=https://web.archive.org/web/20211110110541/https://airmobilitasrl.it/|access-date=2022-01-15|archive-date=2021-11-10|language=it}}</ref>
+
+== Administrimi ==
+=== Informacione të tjera administrative ===
+Komuna është pjesë e {{ill|Komuniteti malor i Ufita-s|it|Comunità montana dell'Ufita}}.
+
+== Shënime ==
+<references />
+
+== Bibliografia ==
+* G. Conforti, ''Appunti di Storia Cronologica di Greci'', Napoli, 1922.
+* Archeoclub d'Italia (dega e Casalbore-s), kuruar nga Giovanni Orsogna, ''Progetto itinerari turistici Campania interna – La Valle del Miscano'', vëll. 2, f. 225–253, Avellino, 1995.
+* Tommaso Vitale, ''Storia della regia città di Ariano e sua diocesi'', Stamperia Salomoni, Roma, 1794.
+* AA.VV., kuruar nga Bartolomeo Zoccano, ''I Dauni-Irpini'', f. 123–127, Generoso Procaccini, Napoli, 1990.
+
+== Shiko edhe ==
+* [[Shqiptarët në Itali]]
+* [[Arbëreshët në Itali]]
+* [[Gjuha arbëreshe (Itali)]]
+* {{ill|Komuniteti malor i Ufita-s|it|Comunità montana dell'Ufita}}
+* {{ill|Irpinia – Kodrat e Ufita-s|it|Irpinia - Colline dell'Ufita}}
+* {{ill|Tre Fontane (Greci)|it|Tre Fontane (Greci)}}
+
+== Projekte të tjera ==
+{{Sisterlinks}}
+
+== Lidhje të jashtme ==
+* [http://www.comune.greci.av.it Faqja zyrtare e bashkisë së Grecit]
+* [http://www.jemi.it/ Jemi.it — portali për arbëreshët]
+
+{{Komunat e Provincës së Avelinos}}
+{{Authority control}}
+
+[[Kategoria:Komunat e Avelinos]]
+[[Kategoria:Vendbanime arbëreshe në Itali]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|it|Greci (Italia)|12 qershor 2026|151107080}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga italishtja, sipas artikullit it:Greci (Italia), versioni i datës 12 qershor 2026 (revizioni 151107080)
+-->

@@ -1,0 +1,106 @@
+{{Infobox settlement
+| name                  = Garrafë
+| native_name           = Caraffa di Catanzaro
+| native_name_lang      = it
+
+<!-- Administrimi territorial -->
+| subdivision_type      = Shteti
+| subdivision_name      = [[Italia]]
+| subdivision_type1     = Rajoni
+| subdivision_name1     = [[Kalabria]]
+| subdivision_type2     = Provinca
+| subdivision_name2     = [[Provinca e Katanxaros|Katanxaro]]
+| leader_title          = Kryetar i Bashkisë
+| leader_name           = Antonio Giuseppe Sciumbata
+
+<!-- Gjeografia -->
+| elevation_m           = 358
+| area_total_km2        = 25.05
+
+<!-- Demografia -->
+| population_demonym    = garrafjot/e
+}}
+
+'''Caraffa di Catanzaro''' (''Garrafë'' në [[Gjuha arbëreshe (Itali)|arbërisht]]<ref>{{Cite book|title=Dizionario di toponomastica: Storia e significato dei nomi geografici italiani|publisher=Garzanti|year=1996|page=139|language=it}}</ref>) është një [[Komuna (Itali)|komunë italiane]] e provincës së [[Provinca e Katanxaros|Katanxaros]] në [[Kalabria]]. Është një qytezë me gjuhë dhe kulturë [[Arbëreshët në Itali|arbëreshe]], e themeluar rreth shekullit XV nga refugjatë shqiptarë pas pushtimit osman të Ballkanit.
+
+== Gjeografia fizike ==
+Ndodhet te hyrja e qytetit të Katanxaros, dhe pjesa e poshtme e qendrës historike strehon një zonë industriale që në vitet e fundit ka njohur një zhvillim të fortë.
+
+Në ditët e kthjellëta, nga pika më e lartë e fshatit, mund të admirohen njëkohësisht deti Jon dhe deti Tirren.
+
+== Historia ==
+[[Skeda:Via bilingue arbereshe a Caraffa di Catanzaro (agosto 2021).jpg|thumb|left|Rrugë dygjuhëshe arbëreshe në Caraffa di Catanzaro (gusht 2021)]]
+Sipas Domenico Zangari-t, autor i ''Le colonie italo albanesi di Calabria'', shqiptarët mbërritën në Caraffa rreth vitit 1550, dhe vinin nga vendbanimi i Arenoso-s (ose edhe Santa Barbara), ku ishin vendosur rreth vitit 1467, kohë kur kishin mbërritur në Mbretërinë e Napolit.<ref name="zangari">{{Cite book|author=Domenico Zangari|title=Le colonie italo albanesi di Calabria - Storia e demografia|publisher=Caselli|location=Napoli|year=1941|language=it}}</ref>
+
+Në 1466, pak para mbërritjes së shqiptarëve, territori i Tiriolo-s, ku do të ngriheshin disa katunde shqiptare, mes të cilëve ato të Arenoso-s dhe të Usito-s, i përkiste pronës mbretërore. Në 1481, mbreti Ferdinando I i Aragonës shiti territorin e Tiriolo-s, që përfshinte "''Castra seu Terras Roccae Poverellae'' (Rocca Falluca), ''Gimignani'' (Gimigliano), ''et Tiriolo''", te Galeotto Carafa.<ref name="tiriolo">{{Cite web|url=http://www.tirioloturistica.it/it/eta-moderna/|title=Tiriolo - Verso l'Età Moderna|access-date=2021-02-13|language=it}}</ref>
+
+Për të fituar hapësirë për kultura bujqësore, shqiptarët e Arenoso-s bënë të shpyllëzohej mali fqinj, duke shkaktuar rrëshqitje dheu që, dalëngadalë, iu afruan vendbanimit derisa e përpinë katundin, kështu që, rreth vitit 1550, Ferdinando Carafa, nip i Galeotto Caraffa-s dhe baron i Tiriolo-s, u lejoi shumë familjeve shqiptare të Arenoso-s të shpërnguleshin në lokalitetin fqinj "Serra Mazza" (arbërisht ''Rahj i Croit''), me kusht që vendbanimi i ri të merrte emrin e fisit të tij, "Carafa".<ref name="tiriolo" />
+
+Më 17 maj 1567 në Caraffa u bë numërimi i parë i vatrave (familjeve). Nga ky numërim rezulton se "ardhësit e katundit renusa" kishin ardhur prej 15 vjetësh.<ref name="zangari" />
+
+Më 28 mars 1783 një tërmet katastrofik me magnitudë 6,9, me epiqendër në verilindje të Vallefiorita-s, u regjistrua në mbi 300 vendbanime dhe tronditi të gjithë rajonin. Pasuan replikë tërmetesh për rreth tre vjet. Kriza sizmike la një territor të shkatërruar nga shembjet, rrëshqitjet e dheut, faljet, çarjet në tokë, kraterë, burime dhe liqene të reja. Në total u vlerësuan rreth 25&nbsp;000 të vdekur. Tërmeti shkaktoi gjithashtu një rrëshqitje dheu pranë katundit të lashtë të Usito-s, duke ndërprerë rrugën që të çonte në Katanxaro. Edhe pjesa më e madhe e Caraffa-s u shkatërrua nga tërmeti, dhe pati një numër të lartë viktimash. Prandaj, duke mos e konsideruar të përshtatshme rindërtimin e Caraffa-s në vendin fillestar, u vendos të rindërtohej ose në San Giovanni di Truchi, ose në Ortali.<ref>{{Cite book|author=Giovanni Vivenzio|title=Istoria de Tremuoti|publisher=Stamperia Reale|location=Napoli|year=1788|language=it}}</ref>
+
+Në vendin ku rilindi Caraffa, filluan punimet për ndërtimin e kishës; më 18 tetor 1792 filluan punimet e çatisë dhe të gjitha pjesëve prej druri; punimet përfunduan më 18 shtator 1798, me bekimin e kishës.<ref>{{Cite web|author=Antonio Sciumbata|url=https://documen.site/download/storia-di-caraffa-sciumbata-antonio-fu-francesco_pdf|title=Storia di Caraffa|page=13|access-date=2021-02-13|language=it}}</ref>
+
+=== Simbolet ===
+==== Stema ====
+Stema e komunës përshkruhet si më poshtë:<ref name="araldica">{{Cite web|url=https://www.araldicacivica.it/comune/caraffa-di-catanzaro/|title=Comune di Caraffa di Catanzaro - (CZ)|access-date=2026-07-29|language=it}}</ref> {{Blockquote|E kuqe, me shqiponjë të zezë, me krahë të hapur. Zbukurime të jashtme si Komunë.}}
+
+==== Gonfaloni ====
+Gonfaloni është një pëlhurë blu.<ref name="araldica" />
+[[Skeda:Caraffa di Catanzaro-Gonfalone.svg|thumb|346x346px|Gonfaloni komunal]]
+
+==== Flamuri ====
+Flamuri është një pëlhurë e bardhë, e mbajtur në qendër me stemën komunale, mbi të cilën ngrihet mbishkrimi me shkronja të mëdha latine, të kuqe të errët, "Amministrazione Comunale Caraffa di Catanzaro".<ref>{{Cite web|url=https://www.facebook.com/comunedicaraffadicatanzaro/photos/396498084085956/?locale=es_ES|title=Comune di Caraffa di Catanzaro|access-date=2026-07-29|language=it}}</ref>
+
+== Monumente dhe vende me interes ==
+=== Kisha e Maiorana-ve ===
+Kisha e Maiorana-ve, kushtuar Shën Marisë së Hireve, në mes të fushave, është një ndërtesë modeste eklektike e mjeshtërve vendas, që paraqet disa afreske të epokës vonë-romanike. Kostumet shqiptare, të veshura në raste të veçanta, kanë elementë origjinalë lindorë.
+
+== Shoqëria ==
+=== Feja ===
+Ka humbur [[Liturgjia bizantine|ritin bizantin]], por ruan ende kulturën dhe [[Gjuha arbëreshe (Itali)|gjuhën arbëreshe]].
+
+== Kultura ==
+=== Muzetë ===
+Në komunën e Caraffa di Catanzaro-s muzeu më i rëndësishëm është ''Instituti i Kulturës Arbëreshe'' "Giuseppe Gangale", me dëshmi të kulturës së gjallë italo-shqiptare të vendit.
+
+== Infrastruktura dhe transporti ==
+Komuna përshkohet nga rruga provinciale SP 49.
+
+Fshati strehon gjithashtu radiofarin VORTAC CDC (117,300 MHz).
+
+== Administrimi ==
+Kryetarë të mëparshëm të komunës:
+* 1995–1999: Attilio Mazzei (Aleanca e Progresistëve)
+* 1999–2003: Attilio Mazzei (listë civile)
+* 2003–2007: Giovanni Schinea (listë civile)
+* 2007–2012: Antonio Migliazza (listë civile)
+* 2012–2022: Antonio Giuseppe Sciumbata (listë civile)
+* Që nga 2022: Antonio Giuseppe Sciumbata (listë civile)
+
+== Shënime ==
+<references />
+
+== Shiko edhe ==
+* [[Arbëreshët në Itali]]
+
+== Projekte të tjera ==
+{{Sisterlinks}}
+
+{{Komunat e Provincës së Katanxaros}}
+{{Authority control}}
+
+[[Kategoria:Komunat e Katanxaros]]
+[[Kategoria:Komuna të Kalabrisë]]
+[[Kategoria:Vendbanime arbëreshe në Itali]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|it|Caraffa di Catanzaro|29 korrik 2026|151826396}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga italishtja, sipas artikullit it:Caraffa di Catanzaro, versioni i datës 29 korrik 2026 (revizioni 151826396)
+-->

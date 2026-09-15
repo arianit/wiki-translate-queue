@@ -1,0 +1,87 @@
+{{Infobox settlement
+| name                  = Qana
+| native_name           = Cerzeto
+| native_name_lang      = it
+| image_flag            = Cerzeto-Gonfalone.png
+| image_seal            = Cerzeto-Stemma.png
+| image_skyline         = Cerzeto20210127_134024.jpg
+| image_map             = Map of comune of Cerzeto (province of Cosenza, region Calabria, Italy).svg
+
+<!-- Administrimi territorial -->
+| subdivision_type      = Shteti
+| subdivision_name      = [[Italia]]
+| subdivision_type1     = Rajoni
+| subdivision_name1     = [[Kalabria]]
+| subdivision_type2     = Provinca
+| subdivision_name2     = [[Provinca e Kozencës|Kozenca]]
+| leader_title          = Kryetar i Bashkisë
+| leader_name           = Silvio Geraldo Cascardo
+
+<!-- Demografia -->
+| population_demonym    = cerzetas/e
+}}
+
+'''Cerzeto''' (''Qana'' në [[Gjuha arbëreshe (Itali)|arbërisht]]) është një [[Komuna (Itali)|komunë italiane]] e provincës së [[Provinca e Kozencës|Kozencës]] në [[Kalabria]].
+
+Territori ndodhet në luginën e mesme të lumit Crati, në krahun e brendshëm të vargmalit Paolano. Vendbanimi ngrihet mbi rrugën provinciale Torano–San Marco Argentano, me hyrje në rrugën shtetërore SS 19 dhe në autostradën A2, te dalja e Torano Scalo-s. Komuna përfshin dy fraksione, po ashtu me etni, gjuhë dhe kulturë italo-shqiptare: [[#San Giacomo di Cerzeto|San Giacomo]] (''Shën Japku'') dhe {{ill|Kajverici|it|Cavallerizzo}} (''Kajverici''), kjo e fundit aktualisht e pabanuar pas një rrëshqitjeje dheu më 7 mars 2005 dhe e rindërtuar në skaj të qendrës administrative.
+
+== Origjina e emrit ==
+Emri rrjedh, me sa duket, nga latinishtja ''quercus'' ("lis"), pasi vendi është i pasur me lisnaja.
+
+== Historia ==
+Cerzeto (''Qana'') u themelua rreth vitit 1478 nga grupe familjesh të ardhura nga [[Shqipëria]] (''grecis et albanensibus''), të strehuara në Itali për shkak të kërcënimit të sulmit të ushtrisë osmane në Ballkan. Bashkë me të u ndërtuan edhe dy fshatra të tjera arbëreshe fqinje, sot fraksione të Cerzeto-s: San Giacomo (''Shën Japku'') dhe Cavallerizzo (''Kajverici''). Fillimisht u përfshi në Baroninë e San Marco-s dhe më pas kaloi te familja Cavalcanti.
+
+=== Simbolet ===
+Stema dhe flamuri (gonfaloni) u dhanë me dekret të presidentit të Republikës më 10 qershor 1977.
+;Stema
+{{Blockquote|E kuqe, me pemë argjendi, të ngulur në majën qendrore të tri maleve në stilin italian, të arta. Zbukurime të jashtme si Komunë.}}
+;Gonfaloni
+{{Blockquote|Pëlhurë e bardhë, e stolisur pasurisht me qëndisma argjendi dhe e mbajtur me stemën, me mbishkrimin e centruar në argjend: {{Smallcaps|Comune di Cerzeto}}. Pjesët prej metali dhe kordonat do të jenë të argjendta. Shtiza vertikale do të mbulohet me kadife të bardhë me gozhda argjendi të vendosura spirale. Në majë do të përfaqësohet stema e Komunës dhe në bisht i gdhendur emri. Kravata dhe shiritat trengjyrësh me ngjyrat kombëtare, me thekë argjendi.}}
+
+== Kultura ==
+Në Cerzeto ende mund të admirohet veshja tradicionale e nusërisë shqiptare, që gratë e veshin në raste të veçanta, siç është, pikërisht, martesa.
+
+=== Festat dhe traditat ===
+Traditat më të rëndësishme popullore lidhen me festat fetare dhe me ciklin e vitit. Gjatë festave të [[Krishtlindja|Krishtlindjes]] praktikohet loja e djathit dhe e diskut, dhe kjo vazhdon deri te festa e [[Karnavalet|Karnavaleve]]. Gjatë tri ditëve të Karnavaleve askush nuk punon, sepse sipas një legjende të lashtë ato janë ditët e Shën Zagarisë dhe gjithçka që vihet në punë brejnë minjtë. Më 6 dhjetor festohet [[Nikolla i Mirës|Shën Nikolla i Mirës]], shenjtori mbrojtës i fshatit.
+
+== Gjeografia antropike ==
+=== Fraksionet ===
+Të dyja fraksionet e Cerzeto-s janë komunitete me etni dhe origjinë gjuhësore e kulturore shqiptare.
+
+==== San Giacomo di Cerzeto ====
+Në jug të Cerzeto-s, në një distancë prej rreth një kilometri, ndodhet, në 485 m mbi nivelin e detit, fraksioni San Giacomo di Cerzeto (''Shën Japku''), në këmbët e kodrës ''Serra dei muli'' (''Rahji mushkave''), e mbuluar nga gështenja shekullore. Në fraksion mund të admirohet statuja e Shën Marisë së Këshillit të Mirë, e punuar në shekullin XVIII, në kishën e Vëllazërisë homonime, dhe mund të vizitohet muzeu etnografik shqiptar, i themeluar kohët e fundit. Muzeu mbledh vegla që lidhen kryesisht me mjedisin fshatar e zejtar. Bëhet fjalë për objekte të thjeshta, por të pasura me histori dhe kulturë popullore. Në San Giacomo di Cerzeto jetoi shkrimtari shqiptar Atë Antonio Santoro.
+
+==== Cavallerizzo ====
+Në veri të Cerzeto-s, në rreth tre kilometra, ndodhej fraksioni {{ill|Kajverici|it|Cavallerizzo}} (''Kajverici''), i quajtur edhe "San Giorgio in San Marco". Në Kajverici ekzistoi edhe një shkollë endjeje, e drejtuar nga e ndjera Eva Melicchio, me rreth dhjetë vegjë (tezgjah) në funksionim. Prodhoheshin batanije dhe sixhade me motive tradicionale me frymëzim lindor.
+
+== Ekonomia ==
+=== Zejtaria ===
+Ndër veprimtaritë më tradicionale dhe të njohura janë ato zejtare, që dallohen për artin e endjes, të drejtuar drejt realizimit të [[Sixhade|sixhadeve]], batanijeve dhe çantave, me motive dhe tema të frymëzuara nga historia shqiptare.<ref>{{Cite book|title=Atlante cartografico dell'artigianato|publisher=A.C.I.|location=Roma|year=1985|volume=3|page=14|language=it}}</ref><ref>{{Cite web|url=http://www.tessituralongobucco.it/la%20tessitura%20in%20calabria.htm|title=La tessitura in Calabria|access-date=2016-05-26|language=it}}</ref><ref>{{Cite web|url=http://www.turiscalabria.it/web/guest/dettaglio_attrattore/-/journal_content/56_INSTANCE_Be6RVNWx36cr/10180/68344|title=La tradizione italo-albanese|access-date=2016-05-26|url-status=dead|archive-url=https://web.archive.org/web/20160808102036/http://www.turiscalabria.it/web/guest/dettaglio_attrattore/-/journal_content/56_INSTANCE_Be6RVNWx36cr/10180/68344|archive-date=2016-08-08|language=it}}</ref>
+
+== Shënime ==
+<references />
+
+== Shiko edhe ==
+* [[Arbëreshët në Itali]]
+* [[Gjuha arbëreshe (Itali)]]
+* {{ill|Kajverici|it|Cavallerizzo}}
+
+== Projekte të tjera ==
+{{Sisterlinks}}
+
+{{Komunat e Provincës së Kozencës}}
+{{Authority control}}
+
+[[Kategoria:Komunat e Kozencës]]
+[[Kategoria:Komuna të Kalabrisë]]
+[[Kategoria:Vendbanime arbëreshe në Itali]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|it|Cerzeto|4 gusht 2026|151899038}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga italishtja, sipas artikullit it:Cerzeto, versioni i datës 4 gusht 2026 (revizioni 151899038)
+-->

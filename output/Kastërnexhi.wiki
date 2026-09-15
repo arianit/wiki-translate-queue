@@ -1,0 +1,126 @@
+{{Infobox settlement
+| name                  = Kastërnexhi
+| native_name           = Castroregio
+| native_name_lang      = it
+| image_flag            = Castroregio-Gonfalone.png
+| image_seal            = Castroregio-Stemma.png
+| image_skyline         = Aerial image of Castroregio (view from the east).jpg
+| image_map             = Map of comune of Castroregio (province of Cosenza, region Calabria, Italy).svg
+
+<!-- Administrimi territorial -->
+| subdivision_type      = Shteti
+| subdivision_name      = [[Italia]]
+| subdivision_type1     = Rajoni
+| subdivision_name1     = [[Kalabria]]
+| subdivision_type2     = Provinca
+| subdivision_name2     = [[Provinca e Kozencës|Kozenca]]
+| leader_title          = Kryetar i Bashkisë
+| leader_name           = Alessandro Adduci
+
+<!-- Gjeografia -->
+| elevation_m           = 819
+| area_total_km2        = 42.06
+
+<!-- Demografia -->
+| population_total      = 251
+| population_as_of      = shkurt 2020
+| population_demonym    = kastroregjez/e; arbërisht: ''Kastërnexhianë''
+}}
+
+'''Castroregio''' (''Kastërnexhi'' në [[Gjuha arbëreshe (Itali)|arbërisht]], ''Castrurìgiu'' në dialektin kalabrez<ref>{{Cite book|author=AA.VV.|title=Dizionario di toponomastica. Storia e significato dei nomi geografici italiani.|year=1996|publisher=Garzanti|location=Milano|isbn=88-11-30500-4|page=181|url=https://archive.org/details/dizionarioditopo00unse/page/181|language=it}}</ref>) është një [[Komuna (Itali)|komunë italiane]] e provincës së [[Provinca e Kozencës|Kozencës]] në [[Kalabria]]. Territori ka një sipërfaqe prej 42,06 km² dhe bërthama kryesore e komunës ngrihet në 819 m mbi nivelin e detit.
+
+Është një katund arbëresh i Kalabrisë. Pjesë e komunës është edhe fraksioni i Farneta-s, i vendosur 32 km larg qendrës komunale, i populluar gjithashtu nga një komunitet arbëresh.
+
+== Historia ==
+Prania e shumë gurëve me tas gropa (''coppelle'') në zonën e kishës së Zojës së Borës do të dëshmonte një prani njerëzore që nga prehistoria.<ref name="megaliti">{{Cite web|url=https://www.meravigliedicalabria.it/il-mistero-dei-megaliti-nel-bosco-di-castroregio/|title=Il mistero dei megaliti nel bosco di Castroregio|language=it}}</ref>
+
+=== Mesjeta ===
+Është e dokumentuar se territori ku sot ndodhet Castroregio ishte i banuar që nga epoka normane; në një dokument të janarit 1015 flitet për një manastir kushtuar Shën Ananias dhe për një "Kastron" (kështjellë). Më 1239 perandori Frederiku II i Suevisë urdhëroi restaurimin e disa kështjellave, mes tyre edhe "Kastron"-i i lashtë (ose Castrum), i cili, i kaluar nën administrimin qendror, fitoi edhe emërtimin "Regium".<ref>Pina Cecere Roma, 1978, f. 6.</ref>
+
+Castrum Regium vazhdoi të banohej edhe nën sundimin anzhuin (1282–1442) dhe atë aragonez (1442–1510), dhe qe pikërisht gjatë sundimit anzhuin që, për shkak të epidemisë së murtajës së 1348-s, Kalabria u shpopullua aq shumë sa territore të gjera dhe katunde të tëra mbetën krejtësisht të pabanuara.<ref>Pina Cecere Roma, 1978, f. 7.</ref>
+
+=== Historia moderne ===
+Pas vdekjes së [[Skënderbeu|Skënderbeut]] më 1468, rënies së Krujës më 1478 dhe asaj të Shkodrës më 1479, ndodhi valëzimi migrues më i rëndësishëm nga Shqipëria drejt Italisë. Të zbritur në bregdetin adriatik të [[Pulia|Puljes]] dhe pasi kërkuan për njëfarë kohe një vendosje në atë rajon, pothuajse të gjithë shqiptarët arritën në Kalabri, ku gjetën vendosje në katundet e mbetura të pabanuara.<ref name="p8">Pina Cecere Roma, 1978, f. 8.</ref>
+
+Data e mbërritjes së shqiptarëve në Castroregio është ende e diskutueshme dhe e diskutuar mes historianëve vendas; Francesco Tajani, në "Le Istorie Albanesi", mban se Castroregio u themelua mes 1476–78, domethënë një dekadë pas vdekjes së Skënderbeut (17 janar 1468), dhe të njëjtën tezë mbajnë Salvatore Scura në "Tradizioni e glorie degli Italo-Albanesi" dhe Antonio Scura në "Gli albanesi in Italia e i loro canti tradizionali".<ref>Francesco Tajani, 1886, f. 8.</ref> Sipas studiuesit Italo Sarro, Castroregio nuk shfaqet në regjistrimet e vatrave (familjeve) të viteve 1503, 1508, 1543, 1548, 1566 dhe 1567.<ref>Italo Sarro, 2019, f. 43–44, 101–102.</ref>
+
+Është më e mundshme që Castroregio të jetë ndërtuar rreth vitit 1515.<ref name="p8" /> Sipas historianit Giorgio Toscano, në "Storia di Oriolo" (1695), i cili shkruan se ka parë privilegjin e miratimit të Mbretit, që autorizonte ndërtimin e një katundi shqiptarësh, në kohën e Dukës Giovanni Lopez de Vergara, nën-feudal i Oriolo-s nga 1505 deri 1527.<ref>Giorgio Toscano, 1994, f. 145.</ref>
+
+Kur mbërritën në feudin e Oriolo-s, shqiptarët ndërtuan kasolle të mbuluara me kashtë, në bregun e djathtë të lumit Straface, në rrethinën "Casaletto",<ref name="megaliti" /> ku ende sot ekzistojnë rrënojat e një kishëze të vogël, por shpejt u zhvendosën në rrethinën "San Pietro", mbi bregun e djathtë të lumit Ferro; për t'u zhvendosur më pas edhe në rrethinën "Cerviola", duke krijuar një katund që e pagëzuan "Xorza", që do të thotë "qytezë e vogël".<ref>Pina Cecere Roma, 1978, f. 9.</ref>
+
+Më pas, mes 1510 dhe 1515, Duka Giovanni Lopez de Vergara i autorizoi shqiptarët ta braktisnin katundin e Xorza-s për t'u vendosur në mal, në lokalitetin e quajtur "San Pietro delle Noci", sot Castroregio; këtu shqiptarët gjetën një kështjellë të shkatërruar, materialet e së cilës me sa duket i ripërdorën për të ndërtuar shtëpitë e tyre.<ref>Molfese, 2017, f. 52.</ref>
+
+[[Skeda:El hombre de la perla (Palacio Real de Madrid).jpg|thumb|left|upright=0.7|Portret i Odet de Foix-it, nga Michel Sittow]]
+[[Skeda:Ferrante-Sanseverino.gif|thumb|left|upright=0.7|Ferdinando (Ferrante) Sanseverino]]
+Shqiptarët në Castroregio mundën ta shijonin qetësinë vetëm për pak kohë, sepse shpërtheu lufta mes Spanjës dhe Francës; ndërsa të gjitha katundet e zonës u radhitën me Francën, Oriolo dhe Castroregio mbetën besnikë spanjollëve, kështu që, më 1528, si Castroregio ashtu edhe Oriolo, pësuan rrethimin e francezëve nën komandën e gjeneralit Odet de Foix, kont i Lautrec-ut.<ref>Vincenzo Condino, 1996, f. 104.</ref>
+
+Kur spanjollët u detyruan të tërhiqeshin, Castroregio u sulmua dhe u dogj nga mercenarë të Amendolara-s, Roseto Capo Spulico-s dhe Canna-s, katunde që kishin kaluar me francezët. Me përfundimin e luftës me fitoren e spanjollëve, i gjithë territori kaloi te Ferdinando Sanseverino, princ i Salerno-s.<ref>Pina Cecere Roma, 1978, f. 10.</ref>
+
+Nën Ferdinando Sanseverino-n, Castroregio, me ndërtimin e Kishës dhe të disa shtëpive me mure guri, mori pamjen e një katundi të vërtetë. Marrëdhëniet me katundet fqinje ishin shumë të kufizuara, dhe martesat lidheshin vetëm mes shqiptarësh. Plataci dhe San Paolo Albanese ishin katundet e vetme që kishin marrëdhënie të këtij lloji me Castroregio-n.<ref>Pina Cecere Roma, 1978, f. 17.</ref> Me sa duket, pikërisht nga San Paolo Albanese vinin familjet Di Lazzaro, Jerovante, Camodeca dhe Pappadà, me origjinë nga Korona, që u bashkuan me popullsinë tashmë ekzistuese.
+
+Më 1552 princi Ferdinando Sanseverino u akuzua se komplotonte me Francën kundër Karlit V të Habsburgëve, perandor dhe mbret i Napolit; kështu që Pietro di Toledo, nënmbret i Napolit, e shpalli rebel dhe konfiskoi feudet e tij, të cilat u morën nga Dhoma Mbretërore e Sommaria-s. Të njëjtin vit, feudet iu shitën Marcello Pignone-s, i cili, më 1556, u bë baron dhe, pak ditë më vonë, u shpall markez i Oriolo-s.<ref>{{Cite web|url=http://www.comune.oriolo.cs.it/Home/Guidaalpaese/tabid/25292/Default.aspx?IDDettaglio=10239|title=La famiglia Pignone|access-date=2021-04-20|language=it}}</ref>
+
+Rreth vitit 1710, nëntë familje (33 vetë), të udhëhequra nga një farë Antonio Pappadà, për të mos paguar taksat, ikën nga Castroregio dhe shkuan në territorin e Amendolara-s, pranë përroit Straface, ku themeluan një katund të vogël që mori emrin "Casalotto di San Nicolò". Për pothuajse një shekull, katundi i vogël priti familje të reja të ardhura nga Castroregio, por më pas banorët e tij u bënë me të drejta të plota qytetarë të Amendolara-s: kështu "Casalotto di San Nicolò" humbi përfundimisht identitetin e tij arbëresh. Sot nga katundi kanë mbetur vetëm rrënojat e një kishëze dhe pagëzimorja e saj.<ref>Bugliaro, 2020, f. 47.</ref>
+
+=== Historia bashkëkohore ===
+[[Skeda:Castroregio08.jpg|thumb|upright=0.7|Murale]]
+[[Skeda:Castroregio09.jpg|thumb|upright=0.9|Një rrugë e Castroregio-s]]
+Castroregio ndoqi fatin feudal të Komunës së Oriolo-s, katund i së cilës ishte, duke mbetur pothuajse gjithnjë nën zotërimin e familjes Pignone del Carretto deri në shfuqizimin e feudalizmit (1806). Me rendin administrativ të vendosur nga Napoleoni më 1807, Castroregio u bë "Universitas" dhe u përfshi në Qeverisjen e San Lorenzo Bellizzi-t. Më 1811 kaloi në Rrethin e Amendolara-s. Më pas, me dekretin e 25 janarit 1820, iu bashkangjit katundi i Farneta-s, i hequr nga komuna e Oriolo-s.<ref>{{Cite web|url=https://siusa.archivi.beniculturali.it/cgi-bin/siusa/pagina.pl?TipoPag=prodente&Chiave=46777|title=Comune di Castroregio|access-date=2021-04-20|language=it}}</ref>
+
+Pavarësisht ndikimit të botës dhe kulturës latine, në Castroregio ruhen me krenari traditat e lashta, riti greko-bizantin dhe, mbi të gjitha, gjuha e vendit të origjinës.
+
+== Monumente dhe vende me interes ==
+=== Arkitektura fetare ===
+* Kisha Amë e Zojës së Borës (''Shën Mëria e Borës'' në arbërisht)<ref name="megaliti" />
+
+== Shoqëria ==
+=== Evolucioni demografik ===
+Më shkurt 2020, banorët e regjistruar nga Istat ishin 251, me një peshë të lartë të popullsisë së moshuar. Më 1 janar 2018, banorët nën 40 vjeç ishin 64, ndërsa mbi 60 vjeç ishin 131.
+
+=== Etnitë dhe pakicat e huaja ===
+Sipas të dhënave Istat, më 31 dhjetor 2017 popullsia e huaj rezidente ishte 11 vetë, prej të cilëve 9 nga Europa Lindore (Rumania, Republika Çeke, Shqipëria dhe Ukraina) dhe 2 nga Maroku.
+
+== Kultura ==
+Për t'u admiruar janë kostumet tipike shqiptare, të stolisura pasurisht me qëndisma. Kisha kushtuar Zojës së Borës është ndër më të lashtat e Eparhisë së Ungrës, e ndërtuar në shekullin XVII, me forma eklektike dhe stil bizantin.
+
+=== Festat dhe traditat ===
+I veçantë është riti i dasmës (''martesia''). Është zakon që kalimi i procesionit nuptial nëpër rrugët e katundit të njoftohet nga "''Flamurari''" (mbajtësi i flamurit), emër që rrjedh nga ''flamurë'' (flamur). Më 19 gusht festohet [[Rroku|Shën Roku]], shenjtori mbrojtës i katundit.
+
+== Shënime ==
+<references />
+
+== Bibliografia ==
+* Salvatore Bugliaro, ''I casali albanesi di Calabria scomparsi e il falso mito reresiano'', Centro Studi Genealogia Arbëreshe, G.L.F. S.a.s., Castrovillari, 2020.
+* Vincenzo Condino, ''I castelli della provincia di Cosenza: itinerario tra i paesaggi castellani'', Luigi Pellegrini, Cosenza, 1996, ISBN 978-88-8101-018-9.
+* Francesco Molfese, Giuseppe Molfese, Antonio Molfese, ''Per l'Archimandrita Pietro Camodeca de'Coronej – Al Centenario della sua morte'', Ma.Ro. Editrice, Copiano, 2017.
+* Pina Cecere Roma, ''Profilo storico di Castroregio: dalle origini all'Unità d'Italia'', Galasso, Trebisacce, 1978.
+* Italo Sarro, ''Albanesi in Italia, percorsi migratori (secc. XV-XVIII)'', Besa Editrice, Nardò, 2019, ISBN 8849710021.
+* Francesco Tajani, ''Le istorie albanesi'', vëll. 1, Epoca Quarta, Fratelli Jovane, Napoli, 1886.
+* Giorgio Toscano (kuruar nga Pina Basile), ''La Storia di Oriolo – Testo del XVII secolo'', L'Ellade Editrice, Canna (Cosenza), 1994.
+
+== Shiko edhe ==
+* [[Skënderbeu]]
+* [[Arbëreshët në Itali]]
+
+== Projekte të tjera ==
+{{Sisterlinks}}
+
+== Lidhje të jashtme ==
+* [http://www.jemi.it/ Jemi.it — portali për arbëreshët]
+
+{{Komunat e Provincës së Kozencës}}
+{{Authority control}}
+
+[[Kategoria:Komunat e Kozencës]]
+[[Kategoria:Komuna të Kalabrisë]]
+[[Kategoria:Vendbanime arbëreshe në Itali]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|it|Castroregio|2 korrik 2026|151381480}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga italishtja, sipas artikullit it:Castroregio, versioni i datës 2 korrik 2026 (revizioni 151381480)
+-->
