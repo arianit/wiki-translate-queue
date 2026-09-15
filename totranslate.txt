@@ -143,7 +143,7 @@ https://en.wikipedia.org/wiki/Jainism	FAILED
 https://en.wikipedia.org/wiki/Judaism	PENDING
 https://en.wikipedia.org/wiki/Behavior	CLAIMED	pop-os	2026-09-15T09:41:39.300605+02:00
 https://en.wikipedia.org/wiki/Mind	DONE
-https://en.wikipedia.org/wiki/Man	CLAIMED	pop-os	2026-09-15T10:19:09.161371+02:00
+https://en.wikipedia.org/wiki/Man	DONE
 https://en.wikipedia.org/wiki/Woman
 https://en.wikipedia.org/wiki/Politics
 https://en.wikipedia.org/wiki/Colonialism
