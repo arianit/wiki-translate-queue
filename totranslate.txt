@@ -142,7 +142,7 @@ https://en.wikipedia.org/wiki/Jainism	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Judaism	PENDING
 https://en.wikipedia.org/wiki/Behavior	CLAIMED	pop-os	2026-09-15T09:41:39.300605+02:00
-https://en.wikipedia.org/wiki/Mind	CLAIMED	pop-os	2026-09-15T09:43:50.350220+02:00
+https://en.wikipedia.org/wiki/Mind	DONE
 https://en.wikipedia.org/wiki/Man
 https://en.wikipedia.org/wiki/Woman
 https://en.wikipedia.org/wiki/Politics
