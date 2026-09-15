@@ -140,7 +140,7 @@ https://en.wikipedia.org/wiki/Soul	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Jainism	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Judaism	CLAIMED	pop-os	2026-09-14T21:25:46.822832+02:00
+https://en.wikipedia.org/wiki/Judaism	CLAIMED	pop-os	2026-09-15T07:26:48.036684+02:00
 https://en.wikipedia.org/wiki/Behavior
 https://en.wikipedia.org/wiki/Mind
 https://en.wikipedia.org/wiki/Man
