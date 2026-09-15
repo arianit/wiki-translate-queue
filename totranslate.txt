@@ -141,7 +141,7 @@ https://en.wikipedia.org/wiki/Soul	FAILED
 https://en.wikipedia.org/wiki/Jainism	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Judaism	PENDING
-https://en.wikipedia.org/wiki/Behavior	CLAIMED	pop-os	2026-09-15T09:41:39.300605+02:00
+https://en.wikipedia.org/wiki/Behavior	CLAIMED	pop-os	2026-09-15T18:17:18.469109+02:00
 https://en.wikipedia.org/wiki/Mind	DONE
 https://en.wikipedia.org/wiki/Man	DONE
 https://en.wikipedia.org/wiki/Woman
