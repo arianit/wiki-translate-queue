@@ -295,8 +295,8 @@ https://en.wikipedia.org/wiki/Planet	DONE
 # (https://meta.wikimedia.org/wiki/Wiki_Loves_Arb%C3%ABresh%C3%AB/Worklist):
 # articles with an existing enwiki source but no sq.wikipedia article yet
 # (verified against sq.wikipedia directly, not just the worklist table).
-https://it.wikipedia.org/wiki/Strage_di_Portella_della_Ginestra
-https://it.wikipedia.org/wiki/Eparchia_di_Lungro
+https://it.wikipedia.org/wiki/Strage_di_Portella_della_Ginestra	DONE
+https://it.wikipedia.org/wiki/Eparchia_di_Lungro	DONE
 https://en.wikipedia.org/wiki/Italo-Albanian_Catholic_Church
 https://it.wikipedia.org/wiki/Settimana_santa_dell%27Eparchia_di_Lungro	DONE
 https://it.wikipedia.org/wiki/Abbazia_territoriale_di_Santa_Maria_di_Grottaferrata
@@ -316,10 +316,10 @@ https://it.wikipedia.org/wiki/Plataci	DONE
 https://it.wikipedia.org/wiki/Greci_(Italia)	DONE
 https://it.wikipedia.org/wiki/Acquaformosa
 https://it.wikipedia.org/wiki/San_Basile	DONE
-https://it.wikipedia.org/wiki/Bronte
+https://it.wikipedia.org/wiki/Bronte	DONE
 https://it.wikipedia.org/wiki/Biancavilla
-https://it.wikipedia.org/wiki/Rionero_in_Vulture
-https://it.wikipedia.org/wiki/Sant%27Angelo_Muxaro
+https://it.wikipedia.org/wiki/Rionero_in_Vulture	DONE
+https://it.wikipedia.org/wiki/Sant%27Angelo_Muxaro	DONE
 https://it.wikipedia.org/wiki/Caraffa_di_Catanzaro	DONE
 https://it.wikipedia.org/wiki/Cerzeto	DONE
 
