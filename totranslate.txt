@@ -151,7 +151,7 @@ https://en.wikipedia.org/wiki/Colonialism	FAILED
 https://en.wikipedia.org/wiki/Dictatorship	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Ideology	CLAIMED	pop-os	2026-09-16T19:17:50.332300+02:00
-https://en.wikipedia.org/wiki/Anarchism
+https://en.wikipedia.org/wiki/Anarchism	CLAIMED	pop-os	2026-09-16T19:19:41.996962+02:00
 https://en.wikipedia.org/wiki/Conservatism
 https://en.wikipedia.org/wiki/Marxism
 https://en.wikipedia.org/wiki/Imperialism
