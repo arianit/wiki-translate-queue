@@ -144,7 +144,7 @@ https://en.wikipedia.org/wiki/Judaism	PENDING
 https://en.wikipedia.org/wiki/Behavior	DONE
 https://en.wikipedia.org/wiki/Mind	DONE
 https://en.wikipedia.org/wiki/Man	DONE
-https://en.wikipedia.org/wiki/Woman	CLAIMED	pop-os	2026-09-16T18:12:28.352789+02:00
+https://en.wikipedia.org/wiki/Woman	DONE
 https://en.wikipedia.org/wiki/Politics	DONE
 https://en.wikipedia.org/wiki/Colonialism	CLAIMED	pop-os	2026-09-16T19:00:18.868407+02:00
 https://en.wikipedia.org/wiki/Dictatorship
