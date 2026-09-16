@@ -146,7 +146,8 @@ https://en.wikipedia.org/wiki/Mind	DONE
 https://en.wikipedia.org/wiki/Man	DONE
 https://en.wikipedia.org/wiki/Woman	DONE
 https://en.wikipedia.org/wiki/Politics	DONE
-https://en.wikipedia.org/wiki/Colonialism	CLAIMED	pop-os	2026-09-16T19:00:18.868407+02:00
+https://en.wikipedia.org/wiki/Colonialism	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Dictatorship	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Ideology	CLAIMED	pop-os	2026-09-16T19:17:50.332300+02:00
