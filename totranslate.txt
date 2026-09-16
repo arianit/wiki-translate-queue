@@ -161,7 +161,8 @@ https://en.wikipedia.org/wiki/Marxism	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Imperialism	CLAIMED	pop-os	2026-09-16T19:51:01.691870+02:00
 https://en.wikipedia.org/wiki/Political_party	CLAIMED	pop-os	2026-09-16T19:59:11.787220+02:00
-https://en.wikipedia.org/wiki/Propaganda	CLAIMED	pop-os	2026-09-16T20:06:14.774661+02:00
+https://en.wikipedia.org/wiki/Propaganda	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Capital_(economics)
 https://en.wikipedia.org/wiki/Currency
 https://en.wikipedia.org/wiki/Tax
