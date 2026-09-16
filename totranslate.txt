@@ -147,7 +147,7 @@ https://en.wikipedia.org/wiki/Man	DONE
 https://en.wikipedia.org/wiki/Woman	DONE
 https://en.wikipedia.org/wiki/Politics	DONE
 https://en.wikipedia.org/wiki/Colonialism	CLAIMED	pop-os	2026-09-16T19:00:18.868407+02:00
-https://en.wikipedia.org/wiki/Dictatorship
+https://en.wikipedia.org/wiki/Dictatorship	CLAIMED	pop-os	2026-09-16T19:04:54.385127+02:00
 https://en.wikipedia.org/wiki/Ideology
 https://en.wikipedia.org/wiki/Anarchism
 https://en.wikipedia.org/wiki/Conservatism
