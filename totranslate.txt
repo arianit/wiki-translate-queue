@@ -165,7 +165,8 @@ https://en.wikipedia.org/wiki/Propaganda	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Capital_(economics)	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Currency	CLAIMED	pop-os	2026-09-16T20:20:50.710047+02:00
+https://en.wikipedia.org/wiki/Currency	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Tax
 https://en.wikipedia.org/wiki/African_Union
 https://en.wikipedia.org/wiki/Arab_League
