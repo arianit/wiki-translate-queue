@@ -153,7 +153,8 @@ https://en.wikipedia.org/wiki/Dictatorship	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Ideology	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Anarchism	CLAIMED	pop-os	2026-09-16T19:19:41.996962+02:00
+https://en.wikipedia.org/wiki/Anarchism	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Conservatism	CLAIMED	pop-os	2026-09-16T19:24:24.347811+02:00
 https://en.wikipedia.org/wiki/Marxism	FAILED
 # reason: translation did not complete (see run.log for this article)
