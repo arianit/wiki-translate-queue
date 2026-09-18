@@ -333,3 +333,6 @@ https://it.wikipedia.org/wiki/Sant%27Angelo_Muxaro	DONE
 https://it.wikipedia.org/wiki/Caraffa_di_Catanzaro	DONE
 https://it.wikipedia.org/wiki/Cerzeto	DONE
 
+https://en.wikipedia.org/wiki/Cluj-Napoca
+https://en.wikipedia.org/wiki/Babe%C8%99-Bolyai_University
+
