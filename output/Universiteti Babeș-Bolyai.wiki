@@ -1,0 +1,337 @@
+{{Infobox university
+| name                  = Universiteti Babeș-Bolyai
+| native_name           = Universitatea Babeș-Bolyai {{in lang|ro}}<br />Babeș-Bolyai Tudományegyetem {{in lang|hu}}
+| native_name_lang      =
+| image                 = Universitatea Babeș-Bolyai.jpg
+| image_size            = 280
+| image_alt             = Vlerat: Traditio et Excellentia
+| latin_name            = Universitas Claudiopolitana<ref>{{Cite web |title=Search |url=https://archive.org/search?query=%22Universitas+Claudiopolitana%22&sin=TXT |website=[[Internet Archive]] |language=en}}</ref><br/>'''Vlerat: Traditio et Excellentia'''
+| motto                 = Traditë dhe Përsosmëri, përmes Kulturës-Shkencës-Inovacionit, që nga 1581
+| motto_lang            =
+| motto_eng             =
+| established           = 1959 – Universiteti Babeș-Bolyai<br/>1945 – Universiteti Bolyai<br/>1919 – Universiteti "Mbreti Ferdinand I" (Universiteti "Victor Babeș")<br/>1581 – Akademia/Universitas Claudiopolitana
+| closed                =
+| type                  = Publik
+| parent                =
+| endowment             =
+| budget                = 77.237.173 €<ref name="raport">{{cite web|url=http://www.ubbcluj.ro/ro/infoubb/documente_publice/files/raport-rector/Raport_Rector_2015.pdf |title=Raportul Rectorului privind starea Universității Babeș-Bolyai din Cluj-Napoca în anul 2015 |work=UBB |date=February 2016 |language=ro}}</ref>
+| rector                = Daniel David<ref>{{cite web|url=https://www.ubbcluj.ro/ro/despre/organizare/rectorat |title=Rectorat |work=Universitatea Babeș-Bolyai |language=ro}}</ref>
+| officer_in_charge     =
+| chairman              =
+| chairperson           =
+| chancellor            =
+| president             =
+| vice_president        =
+| superintendent        =
+| provost               =
+| vice_chancellor       =
+| principal             =
+| dean                  =
+| director              =
+| head_label            = Kryetar i Senatit
+| head                  = Florin Streteanu<ref>{{cite web |url=http://senat.ubbcluj.ro/conducerea-senatului/ |title=Conducerea Senatului |work=Senatul Universității Babeș-Bolyai |language=ro}}</ref>
+| academic_staff        = 1.554 <small>(2021–2022)</small>
+| administrative_staff  = 1.596 <small>(2021–2022)</small>
+| students              = 48.620 <small>(2021–2022)</small>
+| undergrad             = 33.139
+| postgrad              = 9.543
+| doctoral              = 2.239
+| other_students        = 4.699
+| city                  = Rruga Mihail Kogălniceanu 1, [[Kluzh-Napoka|Kluzh-Napokë]]
+| state                 =
+| province              =
+| country               = [[Rumania]]
+| coordinates           = {{Coord|46.76767|N|23.59137|E|type:edu|display=inline,title}}
+| campus                = Urban
+| language              = rumanisht, hungarisht, gjermanisht, anglisht, frëngjisht
+| website               = {{Official website|http://www.ubbcluj.ro/ro/}}
+| logo                  =
+| footnotes             =
+| other_names           =
+| former_names          =
+| religious_affiliation =
+| affiliations          = Guild of European Research-Intensive Universities, Eutopia,<ref name="eutopia">{{Cite web |title=Eutopia |url=https://eutopia-university.eu/ |url-status=live |archive-url=https://web.archive.org/web/20221210054510/https://eutopia-university.eu/ |archive-date=10 dhjetor 2022 |website=eutopia-university.eu |language=en}}</ref> [[Shoqata evropiane e universiteteve]], [http://www.iau-aiu.net/ International Association of Universities], [https://www.auf.org/ Agence universitaire de la Francophonie], [http://acru.uvlf.sk/ Association of Carpathian Region Universities], [http://www.santander.co.uk/uk/santander-universities Santander Network], [http://www.baunas.org/ Balkan Universities Network]
+| athletics             =
+| colors                = e zezë dhe e bardhë {{color box|#000000}}{{color box|#FFFFFF}}
+}}
+
+'''Universiteti Babeș-Bolyai''' (rumanisht: ''Universitatea Babeș-Bolyai'' {{IPA|[ˈbabeʃ ˈbojɒ.i]}}, hungarisht: ''Babeș-Bolyai Tudományegyetem''; njohur zakonisht si '''UBB''') është një [[Universitet publik|universitet publik]] kërkimor i vendosur në [[Kluzh-Napoka|Kluzh-Napokë]], Rumani. I themeluar në 1581 si Academia Claudiopolitana (Akademia Jezuite e Kluzhit), ai kaloi nëpër disa riorganizime gjatë shekujve, duke marrë formën e sotme në 1959 përmes bashkimit të Universitetit Bolyai (themeluar 1945) dhe Universitetit "Victor Babeș" (themeluar 1919).<ref>[https://news.ubbcluj.ro/traditie-si-excelenta-in-scolile-academice-un-volum-sub-egida-centenarului-ubb/ "Traditie si Excelenta-Scolile academice/de stiinta la Universitatea Babes-Bolyai din Cluj-Napoca (1581-1872-1919-prezent)"] {{in lang|ro}}</ref> Që nga viti 2016, ai zë vendin e parë në Metarenditjen Universitare, nismë e Ministrisë së Arsimit dhe Kërkimit të Rumanisë.<ref name="metaranking_2016">[https://www.edu.ro/sites/default/files/_fi%C8%99iere/Invatamant-Superior/2016/asigurarea%20calitatii/Metarankingul%20Universitar%20-%202016%20-%20Final.pdf "Raport asupra Exercițiului Național de Metaranking Universitar-2016"] {{in lang|ro}}</ref><ref name="metaranking_2019">[https://ad-astra.ro/wp-content/uploads/2019/11/Metarankingul_Universitar_2019.pdf "Metarankingul Universitar-2019 Clasamentul Universităților din România"] {{in lang|ro}}</ref>
+
+Universiteti Babeș-Bolyai është universiteti më i madh i Rumanisë, me rreth 50.000 studentë.<ref name="raportul_rectorului_2021">[https://www.ubbcluj.ro/ro/infoubb/documente_publice/files/raport-rector/Raportul_Rectorului_UBB_pe_anul_2021.pdf "Raportul rectorului privind starea Universității Babeș-Bolyai din Cluj-Napoca (UBB) pe anul 2021"] {{in lang|ro}}</ref> Ai ofron programe studimi në rumanisht, hungarisht, gjermanisht, anglisht dhe frëngjisht (si dhe një numër më të vogël programesh të nivelit master në spanjisht, italisht dhe japonisht). Universiteti mori emrin, pas bashkimit në 1959 të universiteteve me gjuhë mësimore rumune dhe hungareze në Kluzh, sipas dy shkencëtarëve të shquar nga [[Transilvania]]: bakteriologut rumun [[Victor Babeș]] dhe matematikanit hungarez [[János Bolyai]]. Ai është një nga pesë anëtarët e ''Konsorciumit Universitaria'' (grupi i universiteteve elitare rumune, që përfshin edhe Universitetin "Alexandru Ioan Cuza", [[Universiteti i Bukureshtit]], Akademinë e Studimeve Ekonomike të Bukureshtit dhe Universitetin Perëndimor të Temishvarit).<ref>[http://www.uaic.ro/consortiul-universitaria-viitorul-invatamantului-superior-romanesc-de-calitate/ Consorțiul Universitaria – viitorul învățământului superior românesc de calitate] {{in lang|ro}}</ref><ref>{{Cite web|title=Universitatea Babeș-Bolyai|url=https://www.ubbcluj.ro/|access-date=2021-06-16|website=ubbcluj.ro|language=ro}}</ref>
+
+UBB është i anëtarësuar në International Association of Universities, Guild of European Research-Intensive Universities, Eutopia, Santander Group, Agence universitaire de la Francophonie dhe [[Shoqata evropiane e universiteteve]].<ref name="eutopia"/><ref>{{cite web |url=http://cci.ubbcluj.ro/partners_and_programs/affiliations.php |title=Affiliations |work=UBB |access-date=2015-08-27 |archive-date=2017-11-11 |archive-url=https://web.archive.org/web/20171111142449/http://cci.ubbcluj.ro/partners_and_programs/affiliations.php |url-status=dead |language=en}}</ref> Gjithashtu, UBB ka nënshkruar Magna Charta Universitatum dhe ka lidhur marrëveshje partneriteti me 210 universitete në 50 shtete.<ref>{{cite web |url=http://cci.ubbcluj.ro/partners_and_programs/partners.php |title=Partners |work=UBB |access-date=2015-08-27 |archive-date=2015-09-15 |archive-url=https://web.archive.org/web/20150915220022/http://cci.ubbcluj.ro/partners_and_programs/partners.php |url-status=dead |language=en}}</ref> Universiteti Babeș-Bolyai klasifikohet nga Ministria e Arsimit e Rumanisë si ''universitet i avancuar i kërkimit dhe edukimit''.<ref>{{cite web |url=http://www.cnatdcu.ro/wp-content/uploads/2011/11/Universitati-de-cercetare-avansata-si-educatie.pdf |title=Lista Institutiile de invatamant superior acreditate, clasificate ca universitati de cercetare avansata si educatie (conform OM 5262/2011) |website=Cnatdcu.ro |access-date=2017-03-06 |archive-date=2023-03-27 |archive-url=https://web.archive.org/web/20230327215040/http://www.cnatdcu.ro/wp-content/uploads/2011/11/Universitati-de-cercetare-avansata-si-educatie.pdf |url-status=dead |language=ro}}</ref>
+
+== Historia ==
+{{further|Jesuit Academy of Kolozsvár|Franz Joseph University}}
+[[File:Victor Babes.jpg|thumb|left|upright=0.7|Victor Babeș, njëri prej dy shkencëtarëve emrin e të cilëve e mban universiteti]]
+[[File:JanosBolyai.jpg|thumb|left|upright=0.7|János Bolyai, shkencëtari tjetër që i dha emrin universitetit]]
+
+Historia e arsimit në Kluzh-Napokë (hungarisht: ''Kolozsvár''; gjermanisht: ''Klausenburg''; Principata e Transilvanisë) fillon në 1581, me themelimin e kolegjit jezuit nga [[Stephen Báthory|Stefan Batori]], Mbret i Polonisë, Dukë i Madh i Lituanisë dhe Princ i Transilvanisë.<ref>{{cite book |url=http://dspace.bcucluj.ro/handle/123456789/48169 |title=Istoria Universităţii "Babeş-Bolyai" |chapter=Începuturile: Colegiul iezuit din 1579–1581 |last=Pop |first=Ioan-Aurel |date=2012 |pages=12–29 |language=ro}}</ref> Kolegjit iu dhuruan ndërtesa dhe tokë brenda mureve mesjetare të qytetit, konkretisht në ''Platea Luporum'' (sot Rruga Mihail Kogălniceanu). Rektori i parë i Collegium Academicum Claudiopolitanum ishte prifti jezuit polak Jakub Wujek.<ref>{{cite web |url=http://www.agerpres.ro/destinatie-romania/2014/08/27/destinatie-romania-un-secol-de-invatamant-superior-romanesc-la-cluj-12-10-58 |title=Un secol de învățământ superior românesc la Cluj |work=Agerpres |last=Stanciu |first=Elena |date=27 gusht 2014 |language=ro}}</ref> Institucioni kishte të drejtën të jepte titujt universitarë/akademikë ''baccalaureus'', ''magister'' dhe ''doctor''. Në 1585, studionin 230 studentë, të ndarë në gjashtë klasa. Gjuha e mësimit ishte [[Gjuha latine|latinishtja]]. Pas vitit 1698, institucioni u quajt Universitas Claudiopolitana, me latinishten e më pas gjermanishten si gjuhë mësimore. Në 1753, Perandoresha Maria Terezia i dha universitetit statusin perandorak, ndërsa në 1773, pas shpërbërjes së Urdhrit Jezuit, ai kaloi nën administrimin e urdhrit piarist. Në 1786, Universitas Claudiopolitana u bë Liceu Mbretëror Akademik (''Lyceum Regium Academicum'' – statut gjysmë-universitar), të cilit iu bashkuan më vonë dy institucione me statut të njëjtë (domethënë që ofronin trajnim në nivel baccalaureus/magister, por jo doctor): (a) Instituti Kirurgjiko-Mjekësor dhe (b) Akademia e së Drejtës. Këto institucione u përfshinë më vonë në Universitetin Mbretëror "Franz Joseph".<ref>{{cite book|url=https://u-szeged.hu/download.php?docID=7855|title=A Szegedi Tudományegyetem és elődei története (1581–2011)|author=Makk F., Marjanucz, L.|publisher=University of Szeged|date=2011|isbn=9789633060940|language=hu}}</ref><ref name="hist">{{cite web |url=https://www.ubbcluj.ro/en/despre/prezentare/istoric |title=Babeș-Bolyai University - short history |language=en}}</ref>
+
+[[File:Universitatea Babes-Bolyai, Cluj-Napoca.gif|thumb|Universiteti "Franz Joseph" rreth vitit 1900]]
+
+Me afirmimin e kombit rumun në kontekstin e revolucioneve evropiane të 1848-s, u ngrit çështja e arsimit në gjuhën rumune. Me kërkesën e rumunëve në 1870, József Eötvös (atëherë Ministër i Arsimit) propozoi krijimin në Kolozsvár të një universiteti që të mësonte në hungarisht, rumanisht dhe gjermanisht, ide e mirëpritur edhe nga elita rumune. Kjo nuk u realizua, pasi Eötvös vdiq në 1871, dhe në 1872 Franc Jozefi I legjifëroi themelimin e Universitetit Mbretëror Hungarez të Kolozsvárit vetëm në gjuhën hungareze, gjë që shkaktoi pakënaqësi te rumunët.<ref name="ubb">{{cite web |url=http://www.ubbcluj.ro/ro/despre/misiune/istoric |title=Repere istorice ale universităţii clujene |work=Universitatea Babeş-Bolyai |language=ro |access-date=2015-08-27 |archive-url=https://web.archive.org/web/20151109211738/http://www.ubbcluj.ro/ro/despre/misiune/istoric |archive-date=2015-11-09 |url-status=dead }}</ref> Pas betimit, më 20 dhjetor 1872, 258 studentë filluan kurset. U krijuan katër fakultete të veçanta: Fakulteti i së Drejtës dhe Shkencave Shtetërore, Fakulteti i Mjekësisë, Fakulteti i Filozofisë, Letrave dhe Historisë, dhe Fakulteti i Matematikës dhe Shkencave të Natyrës. Secili kishte status të barabartë dhe gëzonte autonomi të brendshme. Rektori i parë ishte prof. Áron Berde nga Fakulteti i së Drejtës, specialist në ekonomi dhe financa. Përveç katër fakulteteve, u themelua edhe një Institut Pedagogjik për trajnimin e mësuesve të shkollave të mesme. Në 1895, grave iu dha e drejta të ndiqnin ligjëratat në universitet.<ref name="istoria">{{cite book |title=Istoria Universităţii Babeş-Bolyai |last=Ghiță |first=Ovidiu |date=2012 |publisher=Mega |isbn=978-606-543-222-2 |language=ro}}</ref>
+
+Pas Luftës së Parë Botërore dhe në kontekstin e Bashkimit të Madh të 1918-s, universiteti u mor nën administrimin e autoriteteve rumune dhe u bë institucion i Mbretërisë së Rumanisë. Më 12 shtator 1919, dekreti i nënshkruar nga Mbreti Ferdinand I parashikonte "shndërrimin e Universitetit Mbretëror Hungarez 'Franz Joseph' në universitet rumun, duke filluar nga 1 tetori 1919".<ref name="ubb" /> Stafi hungarez që nuk i ishte betuar shtetit rumun u transferua në Segedin (Szeged), ku kontribuoi në themelimin e Universitetit të Segedinit (1921).
+
+Universiteti i ri rumun, i quajtur fillimisht ''Universiteti i Dacisë së Sipërme'' (në referencë të provincës romake me të njëjtin emër), më vonë ''Universiteti "Mbreti Ferdinand I"'', përbëhej nga katër fakultete: e Drejta, Mjekësia, Shkencat, Letrat dhe Filozofia. Leksioni inaugurues, "Detyra e Jetës Sonë", u mbajt nga Vasile Pârvan më 3 nëntor 1919. Inaugurimi zyrtar u zhvillua midis 31 janarit dhe 2 shkurtit 1920, në prani të Mbretit Ferdinand I të Rumanisë. Rektori i parë i zgjedhur ishte Sextil Pușcariu.<ref name="hist"/><ref name="ubb" />
+
+Në 1940, pas rishikimit territorial të imponuar nga Arbitrazhi i Dytë i Vjenës, Hungaria mori territorin e Transilvanisë Veriore, dhe universiteti rumun u zhvendos në Temishvar dhe Sibiu.<ref name="istoria" /> Ish-universiteti hungarez u riorganizua në qytet, i dalë nga Universiteti i Segedinit. Pas përfundimit të Luftës së Dytë Botërore dhe anulimit të fitimeve territoriale të Hungarisë, më 1 qershor 1945, autoritetet rumune e rikthyen në Kluzh Universitetin "Mbreti Ferdinand I" (më vonë të riemërtuar Universiteti "Victor Babeș"), dhe themeluan Universitetin Bolyai, institucion shtetëror me mësim në hungarisht, me katër fakultete (Letra [Filologji] dhe Filozofi, e Drejta dhe Ekonomia Politike, Shkencat, dhe Mjekësia e Njeriut, e cila në 1948 u nda dhe u transferua në Târgu Mureș për të formuar Universitetin e Mjekësisë dhe Farmacisë).<ref name="ubb" />
+
+Në pranverën e 1959-s, dy institucionet arsimore u bashkuan në ''Universitetin Babeș-Bolyai'',<ref name="ubb" /> në nderim të dy dijetarëve të shquar të Transilvanisë: mjekut dhe bakteriologut rumun [[Victor Babeș]] (bashkëthemelues i mikrobiologjisë moderne) dhe matematikanit hungarez [[János Bolyai]] (i njohur për zhvillimin e gjeometrisë absolute). Në 1995, Universiteti Babeș-Bolyai e riorganizoi strukturën e vet, duke prezantuar një edukim me bazë multikulturore.<ref name="ubb" />
+
+Sot, UBB është një universitet kompleks, me programe që shtrihen nga artet/humanitetet, shkencat shoqërore, shkencat e jetës dhe të natyrës, deri te matematika/informatika, inxhinieria dhe teknologjia.<ref name="admitere ubb">{{Cite web |url=https://admitere.ubbcluj.ro/en/ |title=Admission at Babeș-Bolyai University |access-date=2020-04-21 |archive-date=2020-05-08 |archive-url=https://web.archive.org/web/20200508014027/https://admitere.ubbcluj.ro/en/ |url-status=dead |language=en}}</ref>
+
+== Kampuset ==
+{{see also|Academic College (Cluj-Napoca)}}
+[[File:Biblioteca Centrală Universitară - vedere str. Clinicilor.jpg|thumb|left|Biblioteka Qendrore Universitare, parë nga Rruga Clinicilor]]
+[[File:Ubb.jpg|thumb|Ndërtesa qendrore e universitetit]]
+[[File:Palatul Korda Tholdalagi Cluj 4.JPG|thumb|Pallati Tholdalagy-Korda, selia e administratës teknike të Universitetit Babeș-Bolyai]]
+
+Kampusi kryesor ndodhet në qytetin e Kluzh-Napokës, me ndërtesa universitare të shpërndara në të gjithë qytetin. Universiteti ka 17 zona konvikti,<ref>{{cite web|url=http://csubb.ro/ce-fac-studentii-din-ubb/campus/cazare-in-camine/ |title=Cazare în cămine |work=Consiliul Studenților din Universitatea Babeș-Bolyai |language=ro |url-status=dead |archive-url=https://web.archive.org/web/20150927051548/http://csubb.ro/ce-fac-studentii-din-ubb/campus/cazare-in-camine/ |archive-date=2015-09-27 }}</ref> me gjithsej 5.280 dhoma banimi (4.964 për studentë, 100 për atletë dhe 216 për doktorantë);<ref>{{cite web |url=http://citynews.ro/eveniment/universitatile-clujene-ofera-peste-12000-de-locuri-camine-pentru-72000-de-studenti-1220055 |title=Universităţile clujene oferă peste 12.000 de locuri în cămine pentru 72.000 de studenţi |work=CityNews.ro |date=17 shtator 2012 |language=ro}}</ref> më të njohurat janë ''Hașdeu'' dhe ''Economica''. Të gjitha konviktet janë të rinovuara, të izoluara termikisht, me dritare me xhama të dyfishtë, dysheme laminate dhe mobilje prej dërrase druri ose lëmi. Biblioteka Universitare "Lucian Blaga" ndodhet në qendër të qytetit. Universiteti ka gjithashtu disa kolegje të vendosura në qytete të tjera, të shpërndara nëpër krahinat historike të Transilvanisë dhe Maramureșit.
+
+Ndër pasuritë kulturore të universitetit janë disa muze, si Muzeu i Universitetit (themeluar në prill 2001, me një koleksion prej mbi 750 pjesësh origjinale dhe faksimile),<ref>{{cite web|url=http://www.ubbcluj.ro/ro/structura/muzee/muzeul_universitatii |title=Muzeul Universităţii |work=UBB |language=ro |url-status=dead |archive-url=https://web.archive.org/web/20150721093159/http://www.ubbcluj.ro/ro/structura/muzee/muzeul_universitatii |archive-date=2015-07-21 }}</ref> Muzeu Mineralogjik, Muzeu Botanik, Muzeu i Paleontologji-Stratigrafisë, Vivariumi dhe Muzeu Zoologjik.
+
+== Akademikët ==
+Universiteti Babeș-Bolyai ka pothuajse 50.000 studentë në vitin 2021. Midis 1993 dhe 2021, numri i studentëve u katërfishua, nga 12.247 në 1993 në 48.620 në 2021.<ref name="raportul_rectorului_2021" /><ref>{{cite web |url=http://www.ziardecluj.ro/analiza-80000-de-studenti-aduc-la-cluj-anual-400-de-milioane-de-euro |title=Analiza: 80.000 de studenti aduc la Cluj, anual, 400 de milioane de euro |work=Ziar de Cluj |last=Oros |first=Ioana |date=19 prill 2013 |language=ro}}</ref> Trupi studentor përbëhet nga 2.239 doktorantë, 9.543 studentë të nivelit master dhe 33.139 studentë të nivelit bachelor. Universiteti ka 22 fakultete dhe një komunitet akademik prej mbi 55.000 anëtarësh.<ref name="raportul_rectorului_2021" /> Ai ofron diploma bachelor, master dhe doktoraturë, si dhe studime pasuniversitare të avancuara. UBB është universiteti i vetëm në Evropë me katër fakultete teologjie (ortodokse, reformate, katolike-romake dhe greko-katolike).<ref>{{cite book |url=http://admitere.ubbcluj.ro/ro/info/brosuri/ |title=Ghidul studentului din Universitatea Babeș-Bolyai |page=5 |website=Admitere.ubbcluj.ro |access-date=2016-05-09 |archive-url=https://web.archive.org/web/20160426170927/http://admitere.ubbcluj.ro/ro/info/brosuri |archive-date=2016-04-26 |url-status=dead |language=ro}}</ref>
+
+Universiteti është një institucion multikulturor, gjë që shihet mirë në strukturën e vet: ka 291 programe studimi në rumanisht (148 bachelor dhe 143 master); 110 programe studimi në hungarisht (70 bachelor dhe 40 master); dhe 15 programe studimi në gjermanisht (10 bachelor dhe 5 master).<ref name="raportul_rectorului_2019">[https://www.ubbcluj.ro/ro/infoubb/documente_publice/files/raport-rector/Raportul_Rectorului_2019.pdf "Raportul Rectorului privind starea Universitatii Babes-Bolyai din Cluj-Napoca în anul 2019"] {{in lang|ro}}</ref> Pakicat hungareze dhe gjermane janë të përfaqësuara në mënyrë proporcionale në Këshillin e Profesorëve dhe në Senatin e Universitetit.
+
+41,5% e studentëve të huaj vijnë nga Moldavia dhe Ukraina, 27,4% nga [[Bashkimi Evropian|BE]] dhe Zona Ekonomike Evropiane, dhe 31,1% nga shtete jashtë BE-së dhe Zonës Ekonomike Evropiane.<ref>{{cite web|url=http://www.ubbcluj.ro/ro/programe_academice/statistici/date |title=Date statistice |work=UBB |language=ro |url-status=dead |archive-url=https://web.archive.org/web/20151120095319/http://www.ubbcluj.ro/ro/programe_academice/statistici/date |archive-date=2015-11-20 }}</ref>
+
+{{center|
+{{Bar chart
+| title      = Evoluimi i numrit të studentëve me kalimin e kohës<ref>{{cite web|url=http://www.ubbcluj.ro/ro/despre/publice/raport_rector |title=Raportul rectorului, Universitatea Babeș-Bolyai |access-date=2015-08-27 |url-status=dead |archive-url=https://web.archive.org/web/20151013030500/http://www.ubbcluj.ro/ro/despre/publice/raport_rector |archive-date=2015-10-13 |language=ro}}</ref><ref name="raportul_rectorului_2021" />
+| label_type = Viti
+| data_type  = Numri i studentëve
+| data_max   = 55.000
+| label1     = 1872 | data1 = 258 | comment1 =
+| label2     = 1919 | data2 = 1.871 | comment2 = {{small|+625,2%}}
+| label3     = 1938 | data3 = 3.094 | comment3 = {{small|+65,4%}}
+| label4     = 1971 | data4 = 14.438 | comment4 = {{small|+366,6%}}
+| label5     = 1989 | data5 = 5.940 | comment5 = {{small|−58,9%}}
+| label6     = 1993 | data6 = 12.247 | comment6 = {{small|+106,2%}}
+| label7     = 2003 | data7 = 38.048 | comment7 = {{small|+210,7%}}
+| label8     = 2013 | data8 = 40.207 | comment8 = {{small|+5,7%}}
+| label9     = 2014 | data9 = 41.136 | comment9 = {{small|+2,3%}}
+| label10    = 2019 | data10 = 44.940 | comment10 = {{small|+9,2%}}
+| label11    = 2021 | data11 = 48.620 | comment11 = {{small|+8,2%}}
+}}
+}}
+
+=== Fakultetet ===
+{| class="wikitable"
+|-
+! Fakulteti
+! Adresa
+! Specializimet<ref name="admitere ubb" />
+|-
+| [http://www.cs.ubbcluj.ro/ Fakulteti i Matematikës dhe Informatikës] || Rruga Mihail Kogălniceanu 1 || {{collapsible list|title=3|Matematikë (ro, hu)|Informatikë matematikore (ro, hu, en)|Informatikë (ro, hu, de, en)}}
+|-
+| [http://phys.ubbcluj.ro/ Fakulteti i Fizikës] || Rruga Mihail Kogălniceanu 1 || {{collapsible list|title=4|Fizikë (ro, hu)|Fizikë mjekësore (ro)|Informatikë fizike (ro, hu)|Fizikë teknologjike (ro, hu)}}
+|-
+| [http://chem.ubbcluj.ro/ Fakulteti i Kimisë dhe Inxhinierisë Kimike] || Rruga Arany János 11 || {{collapsible list|title=7|Kimia e ushqimit dhe teknologjitë biokimike (ro)|Inxhinieri biokimike (ro)|Inxhinieri dhe informatikë e proceseve kimike dhe biokimike (ro)|Shkenca dhe inxhinieri e materialeve oksidike dhe nanomaterialeve (ro)|Inxhinieri e substancave inorganike dhe mbrojtje mjedisi (ro)|Kimi dhe inxhinieri e substancave organike, petrokimi dhe karbokimi (ro, hu)|Kimi (ro, hu, de)}}
+|-
+| [http://geografie.ubbcluj.ro/ Fakulteti i Gjeografisë] || Rruga Republicii 44 || {{collapsible list|title=5|Gjeografi (ro, hu, de)|Gjeografi turistike (ro, hu)|Planifikim territorial (ro, hu)|Kartografi (ro)|Hidrologji dhe meteorologji (ro)}}
+|-
+| [https://web.archive.org/web/20150726061603/http://geografie.ubbcluj.ro/pages/bioge/ Fakulteti i Biologjisë dhe Gjeologjisë] || Rruga Clinicilor 5–7 || {{collapsible list|title=6|Biologji (ro, hu)|Biokimi (ro)|Ekologji dhe mbrojtje mjedisi (ro, hu, de)|Bioteknologji industriale (ro)|Gjeologji (ro, hu)|Inxhinieri gjeologjike (ro, hu)}}
+|-
+| [http://enviro.ubbcluj.ro/ Fakulteti i Shkencave dhe Inxhinierisë Mjedisore] || Rruga Fântânele 30 || {{collapsible list|title=4|Shkencë mjedisore (ro, hu)|Gjeografi mjedisore (ro)|Inxhinieri mjedisore (ro)|Inxhinieri e sistemeve bioteknike dhe ekologjike (ro)}}
+|-
+| [http://law.ubbcluj.ro/ Fakulteti i së Drejtës] || Rruga Avram Iancu 11 || {{collapsible list|title=1|E drejtë (ro)}}
+|-
+| [http://lett.ubbcluj.ro/ Fakulteti i Letërsisë] || Rruga Horea 31 || {{collapsible list|title=21|Gjuha dhe letërsia rumune (ro)|Gjuha dhe letërsia rumune (si gjuhë jo-amtare) (ro)|Letërsi botërore dhe krahasuese (ro)|Gjuha dhe letërsia hungareze (hu)|Gjuha dhe letërsia hungareze (si gjuhë jo-amtare) (hu)|Gjuha dhe letërsia angleze (ro)|Gjuha dhe letërsia frënge (ro)|Gjuha dhe letërsia gjermane (de)|Gjuha dhe letërsia ruse (ro)|Gjuha dhe letërsia ukrainase (ro)|Gjuha dhe letërsia italiane (ro)|Gjuha dhe letërsia spanjolle (ro)|Gjuha dhe letërsia norvegjeze (ro)|Gjuha dhe letërsia japoneze (ro)|Gjuha dhe letërsia kineze (ro)|Gjuha dhe letërsia koreane (ro)|Gjuha dhe letërsia finlandeze (ro)|Filologji klasike (ro)|Etnologji (hu)|Studime kulturore (hu)|Gjuhë të huaja të aplikuara (ro)}}
+|-
+| [http://hiphi.ubbcluj.ro/ Fakulteti i Historisë dhe Filozofisë] || Rruga Mihail Kogălniceanu 1 || {{collapsible list|title=10|Histori (ro, hu)|Histori arti (ro, hu)|Arkeologji (ro, hu)|Arkivistikë (ro, hu)|Shkencë e informacionit dhe dokumentimit (ro, hu)|Etnologji (ro)|Turizëm kulturor (ro, hu)|Marrëdhënie ndërkombëtare dhe studime evropiane (ro, hu, fr)|Filozofi (ro, hu)|Studime sigurie (ro, en)}}
+|-
+| [http://socasis.ubbcluj.ro/ Fakulteti i Sociologjisë dhe Asistencës Sociale] || Bulevardi 21 Decembrie 1989, 128–130 || {{collapsible list|title=4|Sociologji (ro, hu)|Burime njerëzore (ro, hu)|Antropologji (ro, hu)|Asistencë sociale (ro, hu)}}
+|-
+| [http://psiedu.ubbcluj.ro/ Fakulteti i Psikologjisë dhe Shkencave të Edukimit] || Rruga Sindicatelor 7 || {{collapsible list|title=4|Psikologji (ro, hu)|Psikopedagogji speciale (ro, hu)|Pedagogji (ro)|Pedagogji e edukimit parashkollor dhe fillor (ro, hu)}}
+|-
+| [http://www.econ.ubbcluj.ro/ Fakulteti i Ekonomisë dhe Administrimit të Biznesit] || Rruga Teodor Mihali 58–60 || {{collapsible list|title=11|Menaxhim (ro, hu, en)|Marketing (ro, hu)|Ekonomi tregtie, turizmi dhe shërbimesh (ro)|Ekonomi e ndërmarrjes (de)|Financë dhe bankë (ro, hu, en)|Kontabilitet dhe sisteme informacioni menaxherial (ro, fr, en)|Informatikë ekonomike (ro, hu)|Statistikë dhe parashikim ekonomik (ro)|Ekonomi dhe biznes ndërkombëtar (ro)|Ekonomi e përgjithshme (ro)|Ekonomi bujqësore dhe mjedisore (ro)}}
+|-
+| [http://euro.ubbcluj.ro/ Fakulteti i Studimeve Evropiane] || Rruga Emmanuel de Martonne 1 || {{collapsible list|title=4|Marrëdhënie ndërkombëtare dhe studime evropiane (ro, de, en)|Menaxhim (ro)|Administratë evropiane (ro)|Studime amerikane (en)}}
+|-
+| [http://tbs.ubbcluj.ro/ Fakulteti i Biznesit] || Rruga Horea 7 || {{collapsible list|title=2|Administrim biznesi (ro, en)|Administrim biznesi në shërbime mikpritjeje (ro, en)}}
+|-
+| [http://fspac.ubbcluj.ro/ Fakulteti i Shkencave Politike, Administrative dhe të Komunikimit] || Rruga General Traian Moșoiu 71 || {{collapsible list|title=7|Shkenca politike (ro, hu, en)|Komunikim dhe marrëdhënie me publikun (ro, hu, de)|Gazetari (ro, hu, de, en)|Media digjitale (ro)|Reklamë (ro)|Administratë publike (ro)|Shërbime dhe politika të shëndetit publik (en)}}
+|-
+| [http://sport.ubbcluj.ro/ Fakulteti i Edukimit Fizik dhe Sportit] || Rruga Pandurilor 7 || {{collapsible list|title=3|Edukim fizik dhe sportiv (ro, hu)|Sport dhe performancë motrike (ro, hu)|Kineziterapi dhe motricitet special (ro, hu)}}
+|-
+| [http://ot.ubbcluj.ro/ Fakulteti i Teologjisë Ortodokse] || Rruga Episkop Nicolae Ivan, F. N. || {{collapsible list|title=4|Teologji ortodokse pastorale (ro)|Teologji ortodokse didaktike (ro)|Teologji ortodokse-asistencë sociale (ro)|Art i shenjtë (ro)}}
+|-
+| [http://gct.ubbcluj.ro/ Fakulteti i Teologjisë Greko-Katolike] || Rruga Moților 26 || {{collapsible list|title=3|Teologji greko-katolike-asistencë sociale (ro)|Teologji greko-katolike didaktike (ro)|Teologji greko-katolike pastorale (ro)}}
+|-
+| [https://web.archive.org/web/20150812145101/http://rt.ubbcluj.ro/Roman/roman.htm Fakulteti i Teologjisë Reformate] || Rruga Horea 7 || {{collapsible list|title=3|Teologji reformate didaktike (hu)|Teologji reformate-asistencë sociale (hu)|Pedagogji muzikore (hu)}}
+|-
+| [https://web.archive.org/web/20150703185255/http://rocateo.ubbcluj.ro/ro/roteol.html Fakulteti i Teologjisë Katolike-Romake] || Rruga Iuliu Maniu 2 || {{collapsible list|title=4|Teologji katolike-romake didaktike (hu)|Teologji katolike-romake-asistencë sociale (hu)|Teologji katolike-romake pastorale (hu)|Studime fetare (hu)}}
+|-
+| [https://web.archive.org/web/20150812102807/http://teatrutv.ubbcluj.ro/cm/ Fakulteti i Teatrit dhe Televizionit] || Rruga Mihail Kogălniceanu 1 || {{collapsible list|title=5|Aktrim (ro, hu)|Regji (ro)|Teatrologji (ro, hu)|Kinematografi, fotografi dhe media (ro, hu)|Filmologji (ro, en)}}
+|}
+<gallery>
+File:Kolozsvar BBTE Pszichologia Kar.JPG|Fakulteti i Psikologjisë
+File:Kolozsvar Marianum Babes Bolyai University.jpg|Fakulteti i Letërsisë
+File:Kvár Egyetem Kémia.jpg|Fakulteti i Kimisë
+File:Kolozsvar BBTE Jogtudomanyi Kar.JPG|Fakulteti i së Drejtës
+</gallery>
+
+== Renditjet ==
+UBB zë zakonisht vendin e parë ndër universitetet rumune në renditjet kryesore ndërkombëtare të universiteteve.<ref>{{Cite web|date=2019-08-20|title=World University Rankings|url=https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking|access-date=2021-07-01|website=Times Higher Education (THE)|language=en}}</ref><ref>{{Cite web|title=World University Rankings 2020|url=https://www.topuniversities.com/university-rankings/world-university-rankings/2020|access-date=2021-07-01|website=Top Universities|language=en}}</ref> Në renditjen QS World University Rankings 2026, UBB zë vendin 761–770;<ref name=":QSW2026">{{Cite web|url=https://www.topuniversities.com/world-university-rankings|title=QS World University Rankings|language=en}}</ref> në Times Higher Education World University Rankings 2024, vendin 1001–1200;<ref>{{cite web|url=https://www.timeshighereducation.com/world-university-rankings/2024/world-ranking#!/length/25/locations/ROU/sort_by/rank/sort_order/asc/cols/stats|title=World University Rankings 2024: Romania|date=28 shtator 2023|website=Times Higher Education (THE)|access-date=28 shtator 2023|language=en}}</ref> dhe sipas U.S. News Best Global Universities (2023), vendin e përbashkët 717.<ref name="USNWR">{{cite web|url=https://www.usnews.com/education/best-global-universities/romania|title=Best Global Universities in Romania|author=U.S. News|access-date=27 shkurt 2024|language=en}}</ref>
+
+Në 2016, Ministria e Arsimit dhe Kërkimit e Rumanisë krijoi Metarenditjen Universitare, që kombinon renditjet kryesore ndërkombëtare të universiteteve, siç njihen nga IREG Observatory on Academic Ranking and Excellence. Që nga 2016, UBB zë vendin e parë ndër universitetet rumune në të njëjtën Metarenditje, edhe pse procesi i klasifikimit tani kryhet nga një organizatë e pavarur.<ref name="metaranking_2016" /><ref name="metaranking_2019" /><ref name="metaranking_2020">[https://ad-astra.ro/wp-content/uploads/2020/11/Metarankingul-Universitar-2020.pdf "Metarankingul Universitar-2020"] {{in lang|ro}}</ref><ref name="metaranking_2021">[https://ad-astra.ro/wp-content/uploads/2021/11/Metarankingul-Universitar-2021-Final-2.pdf "Metarankingul Universitar-2021"] {{in lang|ro}}</ref> Në shkurt 2022, Ministria e Arsimit lëshoi një metodologji dhe metarenditje të re, ku UBB zuri sërish vendin e parë.<ref name="metaranking_minister_2021">[https://www.edu.ro/raport_metaranking_national_2021 "Raport anual privind Metarankingul Național aferent anului 2021"] {{in lang|ro}}</ref> Në 2019, bazuar në auditin akademik britanik QS STAR,<ref>[https://www.qs.com/solutions/research-intelligence/qs-stars/ "QS Stars rating system"] {{in lang|en}}</ref> UBB u vlerësua si universitet ndërkombëtar me përsosmëri në mësimdhënie dhe kërkim. Në 2021, një audit tjetër i QS i dha universitetit vlerësimin maksimal prej pesë yjesh, tregues i një universiteti të klasit botëror, me reputacion ndërkombëtarisht të njohur në shumë fusha akademike.<ref>[https://news.ubbcluj.ro/en/ubb-is-the-first-romanian-university-ranked-world-class-5-stars/ "UBB is the first Romanian University Ranked World-Class 5 stars"] {{in lang|en}}</ref>
+
+== Dega hungareze ==
+Në 1995, Universiteti Babeș-Bolyai prezantoi një sistem arsimor të mbështetur nga Komisioneri i Lartë për Pakicat Kombëtare<ref>{{cite book |url=https://books.google.com/books?id=kMrjNm237lUC&pg=PA170 |title=Mechanisms for the implementation of minority rights |last=Morawa |first=Alexander H. E. |publisher=Council of Europe Publishing |date=2005 |isbn=978-92-871-5499-6 |language=en}}</ref> dhe të bazuar në multikulturalizëm dhe shumëgjuhësi, me tri linja studimi (rumanisht, hungarisht dhe gjermanisht) në të gjitha nivelet e gradave akademike.<ref name="multicultural">{{cite web|url=http://www.ubbcluj.ro/en/despre/misiune/caracter_multicultural |title=The multicultural feature |work=UBB |url-status=dead |archive-url=https://web.archive.org/web/20140303190652/http://www.ubbcluj.ro/en/despre/misiune/caracter_multicultural |archive-date=2014-03-03 |language=en}}</ref>
+
+Dega hungareze regjistron 4.874 studentë në 115 programe studimi (75 të nivelit bachelor dhe 40 të nivelit master); universiteti është kështu institucioni kryesor që edukon pjesëtarë të pakicës hungareze në Transilvani.<ref name="multicultural" />
+
+=== Mosmarrëveshja hungareze-rumune ===
+Dega hungareze e universitetit ka një autonomi të pjesshme,<ref>{{cite web|url=http://www.ubbcluj.ro/ro/despre/publice/files/Carta_2014.pdf |title=Carta Universității Babeș-Bolyai |work=UBB |language=ro |url-status=dead |archive-url=https://web.archive.org/web/20150608054737/http://www.ubbcluj.ro/ro/despre/publice/files/Carta_2014.pdf |archive-date=2015-06-08 }}</ref> në rritje graduale vitet e fundit.<ref>{{cite web |url=http://www.romanialibera.ro/actualitate/proiecte-locale/ubb-isi-consolideaza-pozitia-in-mediul-academic-romanesc--24881 |title=UBB isi consolideaza pozitia in mediul academic romanesc |work=Romania Libera |last=Padurean |first=Claudiu |date=10 mars 2006 |language=ro}}</ref> Megjithatë, sipas mendimit të Këshillit të degës hungareze, anëtarët e emëruar nga stafi mësimdhënës hungarishtfolës dëshirojnë një formë më të institucionalizuar autonomie. Meqë vendimmarrja në universitet bazohet në votën e shumicës së të gjithë fakultetit, përfaqësuesit hungarezë, në pakicë, mund të mbyten gjithnjë nga kjo procedurë.
+
+Në nëntor 2006, Hantz Péter dhe Kovács Lehel, lektorë në Universitetin Babeș-Bolyai, u shkarkuan nga universiteti pas një sërë veprimesh të nisura në tetor 2005 për barazi gjuhësore. Ata po fushatonin për riorganizimin e Universitetit Bolyai duke e ndarë atë në dy institucione të pavarura.<ref>{{cite web |url=http://www.hotnews.ro/stiri-presa_regionala_arhiva-1712488-scandalul-placutelor-ubb-provocat-demisia-doi-prorectori.htm |title=Scandalul placutelor de la UBB a provocat demisia a doi prorectori |work=HotNews.ro |last1=Padurean |first1=Claudiu |last2=Sarbu |first2=Daniel |date=1 dhjetor 2006 |language=ro}}</ref> Më 22 nëntor 2006, universiteti organizoi një ekspozitë në Parlamentin Evropian, ku u përpoq të krijonte përshtypjen se në universitet ka shenja shumëgjuhëshe. Atë ditë, Hantz shtoi shenja si "Informacion" dhe "Ndalohet duhani" në hungarisht, pranë atyre në rumanisht.<ref name="eurolang">{{cite web |url=http://bolyai.eu/dok/eurolang20070117.pdf |title=Sacked Hungarian lecturers fail to get re-instated |work=Eurolang |last=Tharan-Trieb |first=Marianne |date=17 janar 2007 |language=en}}</ref> Të dy veprimet u mbështetën në një dekret që lejonte përdorimin e shenjave shumëgjuhëshe, i miratuar nga universiteti por kurrë i vënë në praktikë, si dhe në pretendimet zyrtare se universiteti është një institucion multikulturor me tri gjuhë pune (rumanisht, gjermanisht dhe hungarisht).<ref name="bolyai">{{cite news |url=http://bolyai.eu/dok/AP2006126.pdf |title=Hungary asks Romania to reinstate 2 ethnic Hungarian professors expelled by university |agency=Associated Press |language=en}}</ref> Më 27 nëntor 2006, Senati votoi për përjashtimin e dy lektorëve, me 72 vota pro dhe 9 kundër (nga 2 anëtarë rumunë dhe 7 hungarezë). Komuniteti akademik hungarez është i bindur se përjashtimi nuk ishte veprim disiplinor, por vota nuk pati bazë etnike.<ref name="eurolang" /> Përkundër protestave, dorëheqjeve nga solidariteti të disa punonjësve hungarishtfolës të universitetit dhe një thirrjeje nga 24 deputetë hungarezë të Parlamentit Evropian për rikthimin e lektorëve, ata mbetën të papunë.<ref name="eurolang" /> Partitë në Parlamentin e Hungarisë i kërkuan universitetit të rikthente dy profesorët dhe të respektonte të drejtat e pakicës hungareze. Kryetarët e pesë partive të përfaqësuara në Parlamentin e Hungarisë nënshkruan një deklaratë proteste. Istvan Hiller, Ministri i Arsimit të Hungarisë, i shkroi homologut të tij rumun Mihail Hărdău, duke kërkuar ndihmën e tij në këtë çështje.<ref name="bolyai" /> Rasti u ngrit edhe në Asamblenë Parlamentare të Këshillit të Evropës. Göran Lindblad, nga Partia Evropiane e Popullit suedeze, së bashku me 24 nënshkrues nga 19 vende evropiane, paraqiti një moción për një rezolutë mbi shkeljen e pretenduar të Konventës Kuadër për Mbrojtjen e Pakicave Kombëtare të vitit 1994 nga ana e Qeverisë së Rumanisë.<ref>{{cite web |url=http://bolyai.eu/dok/times2007feb23.pdf |title=Motion supports sacked lecturer |work=The Times |last=McCall |first=Becky |date=23 shkurt 2007 |language=en}}</ref>
+
+Dy lektorët e paditën Rumaninë në Gjykatën Evropiane të të Drejtave të Njeriut (GJEDNJ), në Strasburg. Hantz dhe Kovács iu drejtuan ish-Ministrit të Drejtësisë të Hungarisë, Albert Takács, që t'i përfaqësonte në GJEDNJ, propozim që u pranua.<ref>{{cite web|url=http://ziuadecj.realitatea.net/eveniment/doi-profesori-universitari-din-cluj-dau-in-judecata-statul-roman-la-strasbourg--35640.html |title=Doi profesori universitari din Cluj dau în judecată statul român la Strasbourg |work=Ziua de Cluj |date=30 prill 2008 |language=ro}}</ref> Në 2008, Gjykata Evropiane e të Drejtave të Njeriut vendosi se vendimi i Senatit të UBB-së për të përjashtuar Hantz Péter dhe Kovács Lehel nga stafi mësimdhënës i institucionit ishte i ligjshëm.<ref>{{cite web |url=http://www.ziare.com/tudor-serban/cluj-napoca/justitia-a-stabilit-inlaturarea-lui-hantz-peter-si-kovacs-lehel-din-cadrul-ubb-a-fost-legala-699305 |title=Justitia a stabilit: Inlaturarea lui Hantz Peter si Kovacs Lehel din cadrul UBB a fost legala |work=Ziare.com |date=1 dhjetor 2008 |language=ro}}</ref>
+
+Në 2010, ligji i arsimit shkaktoi mosmarrëveshje të shumta, duke promovuar, sipas përfaqësuesve të mësuesve, segregim etnik në arsimin e lartë.<ref name="cotidian">{{cite web |url=http://www.cotidiantr.ro/maghiarii-forteaza-nota-integritatea-ubb-ului-pusa-in-pericol-de-legea-educatiei-45251.php#.Vd86932LWA4 |title="Maghiarii forţează nota!" Integritatea UBB-ului, pusă în pericol de legea educaţiei! |work=Cotidianul Transilvan |last=Leonte |first=Loredana |date=8 nëntor 2010 |language=ro |access-date=27 gusht 2015 |archive-url=https://web.archive.org/web/20150923210711/http://www.cotidiantr.ro/maghiarii-forteaza-nota-integritatea-ubb-ului-pusa-in-pericol-de-legea-educatiei-45251.php#.Vd86932LWA4 |archive-date=23 shtator 2015 |url-status=dead }}</ref> Anton Hadăr, kryetar i Federatës së Sindikatave "Alma Mater" në Arsimin Universitar, mendon se ndarja e UBB-së sipas kritereve etnike do të ishte jo vetëm e rrezikshme, por edhe joproduktive. Ndër disavantazhet kryesore do të ishin hendeqet gjithnjë e më serioze të hungarezëve etnikë përsa i përket njohjes së gjuhës rumune. Deputetja rumune e Parlamentit Evropian, Corina Crețu, paralajmëroi se miratimi i ligjit të arsimit, me kërkesat e Bashkimit Demokratik të Hungarezëve të Rumanisë (UDMR), do të kishte pasoja të dëmshme veçanërisht në Kluzh. "Zbatimi i ligjit mund të çonte në thyerjen e UBB-së", deklaroi Crețu.<ref name="cotidian" />
+
+== Njerëz të shquar ==
+Për shkak të buxhetit të linkave të brendshme sqwiki, listat më poshtë janë lënë kryesisht të palidhura; emrat me artikull ekzistues në Wikipedian shqipe janë lidhur atje ku është verifikuar.
+
+=== Stafi akademik dhe ish-studentë ===
+{{div col}}
+* Emil Racoviță (1868–1947), dijetar, eksplorues, speleolog dhe biolog
+* Iuliu Hațieganu (1885–1959), mjek
+* Lucian Blaga (1895–1961), filozof, poet, dramaturg, përkthyes, gazetar, profesor, akademik dhe diplomat
+* Traian Herseni (1907–1980), sociolog, antropolog dhe etnolog
+* Virgil I. Bărbat (1879–1931), sociolog
+* Ilona Borsai (1924–1982), muzikologe, historiane e muzikës, studiuese e muzikës popullore
+* Adeyemi Ikuforiji (l. 1958), ekonomist dhe politikan
+* Ákos Birtalan (l. 1962), Ministër i Turizmit
+* Ana Blandiana (l. 1942), shkrimtare dhe aktiviste për të drejtat civile
+* Anatol E. Baconsky (1925–1977), eseist, poet, romancier, gazetar, teoricien letrar dhe përkthyes
+* Andrian Candu (l. 1975), Kryetar i Parlamentit të Moldavisë
+* Anneli Ute Gabanyi (l. 1942), politologe, kritike letrare, gazetare dhe filologe
+* Áron Tamási (1897–1966), shkrimtar
+* Camil Mureșanu (1927–2015), historian
+* Corneliu Coposu (1914–1995), themelues i Partisë Kombëtare Fshatare të Krishterë-Demokratike
+* Daniel Barbu (l. 1957), historian, senator dhe Ministër i Kulturës
+* Daniel David (l. 1972), psikolog dhe Rektor i UBB-së
+* Daniel Morar (l. 1966), Drejtor i Drejtorisë Kombëtare Antikorrupsion dhe Gjyqtar i Gjykatës Kushtetuese të Rumanisë
+* Dumitru Găleșanu (l. 1955), jurist, shkrimtar dhe poet-filozof
+* Dumitru Radu Popescu (l. 1935), shkrimtar, dramaturg, skenarist dhe akademik
+* Eduard Hellvig (l. 1974), deputet i Parlamentit Evropian, Ministër i Turizmit dhe Drejtor i Shërbimit të Inteligjencës Rumune
+* [[Emil Boc]] (l. 1966), Kryeministër i Rumanisë dhe Kryetar Bashkie i Kluzh-Napokës
+* Emil Hurezeanu (l. 1955), shkrimtar, publicist dhe gazetar
+* Florin Șerban (l. 1975), regjisor filmi
+* Franz Halberg (1919–2013), shkencëtar dhe një nga themeluesit e kronobiologjisë moderne
+* Gabriela Szabó (l. 1975), atlete olimpike dhe Ministre e Rinisë dhe Sportit
+* Gavril Dejeu (l. 1932), jurist dhe Ministër i Brendshëm
+* George Coșbuc (1866–1918), poet, kritik letrar dhe përkthyes
+* George Maior (l. 1967), Drejtor i Shërbimit të Inteligjencës Rumune
+* Gheorghe Mureșan (l. 1971), basketbollist
+* György Frunda (l. 1951), politikan
+* Hermann Oberth (1894–1989), një nga baballarët themelues të raketave dhe astronautikës
+* Hunor Kelemen (l. 1967), Ministër i Kulturës
+* Ioan Gyuri Pascu (1961–2016), muzikant dhe aktor
+* Ioan Oltean (l. 1953), Ministër i Mjedisit
+* Ion Cârja (1922–1977), shkrimtar dhe i burgosur politik
+* Ion Rațiu (1917–2000), politikan
+* Ionel Haiduc (l. 1937), kimist, profesor dhe akademik
+* Iuliu Maniu (1873–1953), Kryeministër i Rumanisë
+* [[Klaus Iohannis]] (l. 1959), Kryetar Bashkie i Sibiut dhe President i Rumanisë
+* Laura Codruța Kövesi (l. 1973), Prokurore e Përgjithshme e Drejtorisë Kombëtare Antikorrupsion
+* Maria Berényi (l. 1959), historiane dhe poete
+* Mircea Miclea (l. 1963), Ministër i Arsimit
+* Ovidiu Pecican (l. 1959), shkrimtar, historian dhe publicist
+* Pavel Bartoș (l. 1975), aktor, komedian dhe yll televiziv
+* Péter Eckstein-Kovács (l. 1956), senator dhe këshilltar presidencial
+* Sándor Kányádi (l. 1929), poet
+* Sandra Izbașa (l. 1990), gjimnaste olimpike
+* Ștefan Augustin Doinaș (1922–2002), poet, eseist, përkthyes, i burgosur politik, akademik dhe politikan
+* Mihail Neamțu (l. 1978), teolog dhe politikan
+* Simona Hunyadi Murph, shkencëtare, inxhiniere, shpikëse, profesoreshë e asociuar
+* Vasile Dîncu (l. 1961), politikan dhe sociolog
+* Vasile Pușcaș (l. 1952), profesor, diplomat dhe politikan
+* Victor Ciorbea (l. 1954), Kryetar Bashkie i Bukureshtit dhe Kryeministër i Rumanisë
+* Victor Neumann (l. 1953), historian, filozof i kulturës dhe profesor
+{{div col end}}
+
+=== Gradë nderi ===
+Doktor Honoris Causa, Profesor Honoris Causa përfshijnë një listë të gjatë personalitetesh publike, si:<ref>{{cite web|url=http://news.ubbcluj.ro/category/doctor-honoris-causa/ |title=Archived copy |access-date=2015-08-27 |url-status=dead |archive-url=https://web.archive.org/web/20150915070530/http://news.ubbcluj.ro/category/doctor-honoris-causa/ |archive-date=2015-09-15 |language=ro}}</ref>
+* [[Angela Merkel]]
+* [[Benedikti XVI|Papa Benedikti XVI]]
+* Patriarku [[Bartolomeu I|Bartolomeu I i Kostandinopojës]]
+* Mbreti [[Mihai I i Rumanisë|Mihai I]]
+* [[Mario Vargas Llosa]]
+* Ahmed Zewail
+* Jean-Marie Lehn
+* George A. Olah
+* George Emil Palade
+
+=== Rektorët ===
+{{div col}}
+* Sextil Pușcariu (1919–1920)
+* Vasile Dumitriu (1920–1921)
+* Dimitrie Călugăreanu (1921–1922)
+* Iacob Iacobovici (1922–1923)
+* Nicolae Bănescu (1923–1924)
+* Camil Negrea (1924–1925)
+* Gheorghe Spacu (1925–1926)
+* Ioan Minea (1926–1927)
+* Gheorghe Bogdan-Duică (1927–1928)
+* Emil Hațieganu (1928–1929)
+* Emil Racoviță (1929–1930)
+* Iuliu Hațieganu (1930–1931)
+* Nicolae Drăganu (1931–1932)
+* Florian Ștefănescu-Goangă (1932–1940)
+* Sextil Pușcariu (1940–1941)
+* Iuliu Hațieganu (1941–1944)
+* Alexandru Borza (1944–1945)
+* Emil Petrovici (1945–1951)
+* Raluca Ripan (1951–1956)
+* Constantin Daicoviciu (1956–1968)
+* Ștefan Pascu (1968–1976)
+* Ion Vlad (1976–1984)
+* Aurel Negucioiu (1984–1989)
+* Ionel Haiduc (1990–1993)
+* Andrei Marga (1993–2004)
+* Nicolae Bocșan (2004–2008)
+* Andrei Marga (2008–2012)
+* Ioan-Aurel Pop (2012–2020)
+* Daniel David (2020–sot)
+{{div col end}}
+
+== Polemika ==
+Më 20 qershor 2025, një student i Universitetit Babeș-Bolyai u përfshi në një incident të dhunshëm gjatë një provimi me shkrim, në të cilin sulmoi fizikisht një asistent doktorant. Studenti raportohej se punonte në policinë lokale të Kluzh-Napokës në atë kohë. Incidenti ngjalli debat publik rreth sjelljes së studentëve, sigurisë institucionale dhe përgjegjësive të nëpunësve publikë të regjistruar në arsimin e lartë. Autoritetet universitare dhe të zbatimit të ligjit nisën hetime të brendshme pas ngjarjes.<ref>{{Cite web |title=Incident grav la UBB Cluj: Un polițist local a sărit la gâtul unui doctorand, după ce a fost prins copiind la examen/ Boc: "Merge la comisia de disciplină" |url=https://www.stiridecluj.ro/144862 |access-date=2025-06-21 |website=Ştiri de Cluj |language=ro}}</ref>
+
+== Shiko edhe ==
+* {{ill|Balkan Universities Network|en|Balkan Universities Network}}
+* {{ill|Universiteti i Mjekësisë dhe Farmacisë "Iuliu Hațieganu"|en|Iuliu Haţieganu University of Medicine and Pharmacy}}
+* {{ill|Lista e universiteteve moderne në Evropë (1801–1945)|en|List of modern universities in Europe (1801–1945)}}
+* {{ill|Lista e vendeve jezuite|en|List of Jesuit sites}}
+
+== Referimet ==
+{{Reflist|30em}}
+
+== Lidhje të jashtme ==
+{{Commons category|Babeș-Bolyai University}}
+* {{Official website|http://www.ubbcluj.ro/}}
+* [http://www.bcucluj.ro/ Biblioteka Qendrore Universitare "Lucian Blaga"]
+* [http://studiacrescent.com/ Revista ''Geographia Technica'' e Fakultetit të Gjeografisë]
+
+[[Kategoria:Babeș-Bolyai University| ]]
+[[Kategoria:Universitete dhe kolegje të themeluara në 1919]]
+[[Kategoria:Shkolla biznesi në Rumani]]
+[[Kategoria:Universitete dhe kolegje të formuara nga bashkime në Rumani]]
+[[Kategoria:Historia e Kluzh-Napokës]]
+[[Kategoria:Themelime në 1919 në Rumani]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Babeș-Bolyai University|16 qershor 2026|1359606717}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Babeș-Bolyai University, versioni i datës 16 qershor 2026 (revizioni 1359606717)
+-->
