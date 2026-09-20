@@ -155,7 +155,8 @@ https://en.wikipedia.org/wiki/Ideology	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Anarchism	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Conservatism	CLAIMED	pop-os	2026-09-20T08:25:39.572902+02:00
+https://en.wikipedia.org/wiki/Conservatism	FAILED
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Marxism	FAILED
 # reason: translation did not complete (see run.log for this article)	FAILED
 # reason: translation did not complete (see run.log for this article)
