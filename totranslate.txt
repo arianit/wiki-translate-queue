@@ -308,7 +308,7 @@ https://en.wikipedia.org/wiki/Planet	DONE
 # (verified against sq.wikipedia directly, not just the worklist table).
 https://it.wikipedia.org/wiki/Strage_di_Portella_della_Ginestra	DONE
 https://it.wikipedia.org/wiki/Eparchia_di_Lungro	DONE
-https://en.wikipedia.org/wiki/Italo-Albanian_Catholic_Church
+https://en.wikipedia.org/wiki/Italo-Albanian_Catholic_Church	CLAIMED	pop-os	2026-09-20T20:11:09.098190+03:00
 https://it.wikipedia.org/wiki/Settimana_santa_dell%27Eparchia_di_Lungro	DONE
 https://it.wikipedia.org/wiki/Abbazia_territoriale_di_Santa_Maria_di_Grottaferrata
 https://en.wikipedia.org/wiki/Giuseppe_Schir%C3%B2_Di_Maggio
@@ -333,6 +333,15 @@ https://it.wikipedia.org/wiki/Rionero_in_Vulture	DONE
 https://it.wikipedia.org/wiki/Sant%27Angelo_Muxaro	DONE
 https://it.wikipedia.org/wiki/Caraffa_di_Catanzaro	DONE
 https://it.wikipedia.org/wiki/Cerzeto	DONE
+https://it.wikipedia.org/wiki/La_Nazione_Albanese
+https://it.wikipedia.org/wiki/Anselmo_Lorecchio
+https://it.wikipedia.org/wiki/Licia_Albanese
+https://it.wikipedia.org/wiki/Demetrio_Capuzzimati
+https://it.wikipedia.org/wiki/Enrico_Cuccia
+https://it.wikipedia.org/wiki/Donato_Oliverio
+https://it.wikipedia.org/wiki/Giovanni_Battista_Albanese
+https://sq.wikipedia.org/wiki/Fran%C3%A7esko_Krispi
+
 
 https://en.wikipedia.org/wiki/Cluj-Napoca
 https://en.wikipedia.org/wiki/Babe%C8%99-Bolyai_University	DONE
