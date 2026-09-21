@@ -155,7 +155,7 @@ https://en.wikipedia.org/wiki/Ideology	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Anarchism	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Conservatism	FAILED
+https://en.wikipedia.org/wiki/Conservatism	
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Marxism	FAILED
 # reason: translation did not complete (see run.log for this article)	FAILED
