@@ -314,7 +314,7 @@ https://it.wikipedia.org/wiki/Settimana_santa_dell%27Eparchia_di_Lungro	DONE
 https://it.wikipedia.org/wiki/Abbazia_territoriale_di_Santa_Maria_di_Grottaferrata
 https://en.wikipedia.org/wiki/Giuseppe_Schir%C3%B2_Di_Maggio
 https://en.wikipedia.org/wiki/M%C3%B4nica_Kabregu
-https://en.wikipedia.org/wiki/Salvatore_Frega	CLAIMED	pop-os	2026-09-21T07:17:19.232880+03:00
+https://en.wikipedia.org/wiki/Salvatore_Frega	DONE
 https://it.wikipedia.org/wiki/Francesco_Cuccia	DONE
 https://it.wikipedia.org/wiki/Francesco_Cuccia	DONE
 https://it.wikipedia.org/wiki/Frascineto	DONE
