@@ -308,7 +308,8 @@ https://en.wikipedia.org/wiki/Planet	DONE
 # (verified against sq.wikipedia directly, not just the worklist table).
 https://it.wikipedia.org/wiki/Strage_di_Portella_della_Ginestra	DONE
 https://it.wikipedia.org/wiki/Eparchia_di_Lungro	DONE
-https://en.wikipedia.org/wiki/Italo-Albanian_Catholic_Church	CLAIMED	pop-os	2026-09-20T20:11:09.098190+03:00
+https://en.wikipedia.org/wiki/Italo-Albanian_Catholic_Church	DONE
+# engine: provider=claude_code, model=claude-sonnet-5 (wiki-translation-harness); note: sqwiki already has "Kisha Bizantine Italo-Arbëreshe" — output is a fresh rewrite, not a first translation
 https://it.wikipedia.org/wiki/Settimana_santa_dell%27Eparchia_di_Lungro	DONE
 https://it.wikipedia.org/wiki/Abbazia_territoriale_di_Santa_Maria_di_Grottaferrata
 https://en.wikipedia.org/wiki/Giuseppe_Schir%C3%B2_Di_Maggio
