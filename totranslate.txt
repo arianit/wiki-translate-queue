@@ -311,7 +311,7 @@ https://it.wikipedia.org/wiki/Eparchia_di_Lungro	DONE
 https://en.wikipedia.org/wiki/Italo-Albanian_Catholic_Church	DONE
 # engine: provider=claude_code, model=claude-sonnet-5 (wiki-translation-harness); note: sqwiki already has "Kisha Bizantine Italo-Arbëreshe" — output is a fresh rewrite, not a first translation
 https://it.wikipedia.org/wiki/Settimana_santa_dell%27Eparchia_di_Lungro	DONE
-https://it.wikipedia.org/wiki/Abbazia_territoriale_di_Santa_Maria_di_Grottaferrata
+https://it.wikipedia.org/wiki/Abbazia_territoriale_di_Santa_Maria_di_Grottaferrata	CLAIMED	pop-os	2026-09-21T07:23:24.182119+03:00
 https://en.wikipedia.org/wiki/Giuseppe_Schir%C3%B2_Di_Maggio
 https://en.wikipedia.org/wiki/M%C3%B4nica_Kabregu
 https://en.wikipedia.org/wiki/Salvatore_Frega	DONE
