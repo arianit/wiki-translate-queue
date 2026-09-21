@@ -313,7 +313,7 @@ https://it.wikipedia.org/wiki/Settimana_santa_dell%27Eparchia_di_Lungro	DONE
 https://it.wikipedia.org/wiki/Abbazia_territoriale_di_Santa_Maria_di_Grottaferrata
 https://en.wikipedia.org/wiki/Giuseppe_Schir%C3%B2_Di_Maggio
 https://en.wikipedia.org/wiki/M%C3%B4nica_Kabregu
-https://en.wikipedia.org/wiki/Salvatore_Frega
+https://en.wikipedia.org/wiki/Salvatore_Frega	CLAIMED	pop-os	2026-09-21T07:17:19.232880+03:00
 https://it.wikipedia.org/wiki/Francesco_Cuccia	DONE
 https://it.wikipedia.org/wiki/Francesco_Cuccia	DONE
 https://it.wikipedia.org/wiki/Frascineto	DONE
@@ -336,9 +336,9 @@ https://it.wikipedia.org/wiki/Cerzeto	DONE
 https://it.wikipedia.org/wiki/La_Nazione_Albanese
 https://it.wikipedia.org/wiki/Anselmo_Lorecchio
 https://it.wikipedia.org/wiki/Licia_Albanese
-https://it.wikipedia.org/wiki/Demetrio_Capuzzimati
+https://it.wikipedia.org/wiki/Demetrio_Capuzzimati	CLAIMED	pop-os	2026-09-21T07:17:19.233824+03:00
 https://it.wikipedia.org/wiki/Enrico_Cuccia
-https://it.wikipedia.org/wiki/Donato_Oliverio
+https://it.wikipedia.org/wiki/Donato_Oliverio	CLAIMED	pop-os	2026-09-21T07:17:19.235518+03:00
 https://it.wikipedia.org/wiki/Giovanni_Battista_Albanese
 https://sq.wikipedia.org/wiki/Fran%C3%A7esko_Krispi
 
