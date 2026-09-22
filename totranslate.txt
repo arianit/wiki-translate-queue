@@ -329,7 +329,8 @@ https://it.wikipedia.org/wiki/Falconara_Albanese	DONE
 https://it.wikipedia.org/wiki/Castroregio	DONE
 https://it.wikipedia.org/wiki/Plataci	DONE
 https://it.wikipedia.org/wiki/Greci_(Italia)	DONE
-https://it.wikipedia.org/wiki/Acquaformosa
+https://it.wikipedia.org/wiki/Acquaformosa	DONE
+# reason: already exists as sq:Firmoza -- a fresh rewrite draft was produced and is saved at output/Acquaformosa.wiki/.report.md for comparison, but was never merged into the live article
 https://it.wikipedia.org/wiki/San_Basile	DONE
 https://it.wikipedia.org/wiki/Bronte	DONE
 https://it.wikipedia.org/wiki/Biancavilla
