@@ -345,7 +345,8 @@ https://it.wikipedia.org/wiki/Demetrio_Capuzzimati	DONE
 https://it.wikipedia.org/wiki/Enrico_Cuccia	DONE
 # reason: already exists as sq:Enrico Cuccia (Wikidata Q327192 sitelink) -- not translated here
 https://it.wikipedia.org/wiki/Donato_Oliverio	DONE	model=deepseek-v4.1-flash	provider=opencode-go
-https://it.wikipedia.org/wiki/Giovanni_Battista_Albanese
+https://it.wikipedia.org/wiki/Giovanni_Battista_Albanese	DONE
+# reason: already exists as sq:Giovanni Battista Albanese (Wikidata Q3766550 sitelink) -- not translated here
 https://sq.wikipedia.org/wiki/Fran%C3%A7esko_Krispi
 
 
