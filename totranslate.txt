@@ -338,7 +338,7 @@ https://it.wikipedia.org/wiki/Cerzeto	DONE
 https://it.wikipedia.org/wiki/La_Nazione_Albanese
 https://it.wikipedia.org/wiki/Anselmo_Lorecchio
 https://it.wikipedia.org/wiki/Licia_Albanese
-https://it.wikipedia.org/wiki/Demetrio_Capuzzimati	CLAIMED	pop-os	2026-09-21T07:17:19.233824+03:00
+https://it.wikipedia.org/wiki/Demetrio_Capuzzimati	DONE
 https://it.wikipedia.org/wiki/Enrico_Cuccia
 https://it.wikipedia.org/wiki/Donato_Oliverio	DONE	model=deepseek-v4.1-flash	provider=opencode-go
 https://it.wikipedia.org/wiki/Giovanni_Battista_Albanese
