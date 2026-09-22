@@ -338,7 +338,8 @@ https://it.wikipedia.org/wiki/Cerzeto	DONE
 https://it.wikipedia.org/wiki/La_Nazione_Albanese
 https://it.wikipedia.org/wiki/Anselmo_Lorecchio	DONE
 # reason: already exists as sq:Anselmo Lorekio (Wikidata Q16909175 sitelink) -- not translated here
-https://it.wikipedia.org/wiki/Licia_Albanese
+https://it.wikipedia.org/wiki/Licia_Albanese	DONE
+# reason: already exists as sq:Licia Albanese (Wikidata Q239886 sitelink) -- not translated here
 https://it.wikipedia.org/wiki/Demetrio_Capuzzimati	DONE
 https://it.wikipedia.org/wiki/Enrico_Cuccia
 https://it.wikipedia.org/wiki/Donato_Oliverio	DONE	model=deepseek-v4.1-flash	provider=opencode-go
