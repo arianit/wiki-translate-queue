@@ -335,7 +335,7 @@ https://it.wikipedia.org/wiki/Acquaformosa	DONE
 # reason: already exists as sq:Firmoza -- a fresh rewrite draft was produced and is saved at output/Acquaformosa.wiki/.report.md for comparison, but was never merged into the live article
 https://it.wikipedia.org/wiki/San_Basile	DONE
 https://it.wikipedia.org/wiki/Bronte	DONE
-https://it.wikipedia.org/wiki/Biancavilla
+https://it.wikipedia.org/wiki/Biancavilla	CLAIMED	pop-os	2026-09-22T21:25:57.784888+03:00
 https://it.wikipedia.org/wiki/Rionero_in_Vulture	DONE
 https://it.wikipedia.org/wiki/Sant%27Angelo_Muxaro	DONE
 https://it.wikipedia.org/wiki/Caraffa_di_Catanzaro	DONE
