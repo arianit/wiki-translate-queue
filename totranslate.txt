@@ -315,7 +315,8 @@ https://it.wikipedia.org/wiki/Settimana_santa_dell%27Eparchia_di_Lungro	DONE
 https://it.wikipedia.org/wiki/Abbazia_territoriale_di_Santa_Maria_di_Grottaferrata	
 https://en.wikipedia.org/wiki/Giuseppe_Schir%C3%B2_Di_Maggio	DONE
 # reason: already exists as sq:Zef Skiro Di Maxho (Wikidata Q1619529 sitelink); stale CLAIMED line, never finished -- not translated here
-https://en.wikipedia.org/wiki/M%C3%B4nica_Kabregu
+https://en.wikipedia.org/wiki/M%C3%B4nica_Kabregu	DONE
+# reason: already exists as sq:Mónica Kabregú (Wikidata Q42389750 sitelink) -- not translated here
 https://en.wikipedia.org/wiki/Salvatore_Frega	DONE
 https://it.wikipedia.org/wiki/Francesco_Cuccia	DONE
 https://it.wikipedia.org/wiki/Francesco_Cuccia	DONE
