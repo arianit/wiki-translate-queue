@@ -180,10 +180,10 @@ https://en.wikipedia.org/wiki/International_Court_of_Justice
 https://en.wikipedia.org/wiki/UNESCO
 https://en.wikipedia.org/wiki/World_Bank	CLAIMED	pop-os	2026-09-01T21:33:04.547578+02:00
 https://en.wikipedia.org/wiki/World_Trade_Organization
-https://en.wikipedia.org/wiki/Military
-https://en.wikipedia.org/wiki/Peace
+https://en.wikipedia.org/wiki/Military	CLAIMED	pop-os	2026-09-22T22:25:24.155158+03:00
+https://en.wikipedia.org/wiki/Peace	CLAIMED	pop-os	2026-09-22T22:25:24.157549+03:00
 https://en.wikipedia.org/wiki/War
-https://en.wikipedia.org/wiki/Civil_war
+https://en.wikipedia.org/wiki/Civil_war	CLAIMED	pop-os	2026-09-22T22:25:24.156048+03:00
 https://en.wikipedia.org/wiki/Christianity	DONE
 https://en.wikipedia.org/wiki/Islam	DONE
 https://en.wikipedia.org/wiki/Physics	DONE
