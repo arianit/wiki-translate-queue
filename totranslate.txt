@@ -369,6 +369,10 @@ https://it.wikipedia.org/wiki/Curinga	DONE
 https://it.wikipedia.org/wiki/Gizzeria	DONE
 https://it.wikipedia.org/wiki/Marcedusa	DONE
 https://it.wikipedia.org/wiki/Mongrassano	DONE
+https://it.wikipedia.org/wiki/San_Lorenzo_del_Vallo
+https://it.wikipedia.org/wiki/Rota_Greca
+https://it.wikipedia.org/wiki/Serra_d%27Aiello
+https://it.wikipedia.org/wiki/Zagarise
 
 
 https://en.wikipedia.org/wiki/Cluj-Napoca
