@@ -200,7 +200,7 @@ https://en.wikipedia.org/wiki/Michael_Jackson	DONE	opencode-go/deepseek-v4.1-fla
 https://en.wikipedia.org/wiki/Argentina	FAILED	opencode-go/deepseek-v4.1-flash@opencode_go
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Iliad	DONE
-https://en.wikipedia.org/wiki/Homer	CLAIMED	pop-os	2026-09-01T21:33:08.944483+02:00
+https://en.wikipedia.org/wiki/Homer	CLAIMED	pop-os	2026-09-24T01:11:58.775209+03:00
 https://en.wikipedia.org/wiki/World_War_II	DONE
 https://en.wikipedia.org/wiki/United_Kingdom	
 https://en.wikipedia.org/wiki/India	
