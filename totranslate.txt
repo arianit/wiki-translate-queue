@@ -187,7 +187,7 @@ https://en.wikipedia.org/wiki/Military	DONE
 # engine: provider=opencode_go, model=opencode-go/qwen3.8-flash (wiki-translation-harness); first translation, no prior sqwiki article
 https://en.wikipedia.org/wiki/Peace	DONE
 # engine: provider=opencode_go, model=opencode-go/deepseek-v4.1-flash (completed here after opencode-go/qwen3.8-flash repeatedly timed out); sqwiki already has "Paqja" - fresh rewrite, not a first translation
-https://en.wikipedia.org/wiki/War
+https://en.wikipedia.org/wiki/War	CLAIMED	pop-os	2026-09-23T21:53:34.063226+03:00
 https://en.wikipedia.org/wiki/Civil_war	DONE
 # engine: provider=opencode_go, model=opencode-go/deepseek-v4.1-flash (completed here after opencode-go/qwen3.8-flash repeatedly timed out); sqwiki already has "Lufta civile" - fresh rewrite, not a first translation
 https://en.wikipedia.org/wiki/Christianity	DONE
