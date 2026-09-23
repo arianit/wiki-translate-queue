@@ -366,7 +366,7 @@ https://it.wikipedia.org/wiki/San_Chirico_Nuovo	DONE
 https://it.wikipedia.org/wiki/Belvedere_di_Spinello	DONE
 https://it.wikipedia.org/wiki/Cervicati	DONE
 https://it.wikipedia.org/wiki/Curinga	DONE
-https://it.wikipedia.org/wiki/Gizzeria	CLAIMED	pop-os	2026-09-23T18:11:27.565311+03:00
+https://it.wikipedia.org/wiki/Gizzeria	DONE
 https://it.wikipedia.org/wiki/Marcedusa	CLAIMED	pop-os	2026-09-23T18:11:50.494100+03:00
 https://it.wikipedia.org/wiki/Mongrassano	CLAIMED	pop-os	2026-09-23T18:13:02.933520+03:00
 
