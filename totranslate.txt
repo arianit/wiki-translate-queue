@@ -197,7 +197,8 @@ https://en.wikipedia.org/wiki/Physics	DONE
 https://en.wikipedia.org/wiki/Biology	DONE
 https://en.wikipedia.org/wiki/United_States	CLAIMED	pop-os	2026-09-23T22:32:41.312133+03:00
 https://en.wikipedia.org/wiki/Michael_Jackson	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
-https://en.wikipedia.org/wiki/Argentina	CLAIMED	pop-os	2026-09-23T23:33:47.741418+03:00
+https://en.wikipedia.org/wiki/Argentina	FAILED	opencode-go/deepseek-v4.1-flash@opencode_go
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Iliad	DONE
 https://en.wikipedia.org/wiki/Homer	CLAIMED	pop-os	2026-09-01T21:33:08.944483+02:00
 https://en.wikipedia.org/wiki/World_War_II	DONE
