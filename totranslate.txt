@@ -356,6 +356,13 @@ https://it.wikipedia.org/wiki/Donato_Oliverio	DONE	model=deepseek-v4.1-flash	pro
 https://it.wikipedia.org/wiki/Giovanni_Battista_Albanese	DONE
 # reason: already exists as sq:Giovanni Battista Albanese (Wikidata Q3766550 sitelink) -- not translated here
 https://sq.wikipedia.org/wiki/Fran%C3%A7esko_Krispi
+# Added 2026-09-23 from the Wiki Loves Arbëreshë Worklist, Calabria/Basilicata
+# settlements section (verified against Wikidata sitelinks, not just the
+# worklist table -- Firmo/Civita/Amato/San Giacomo/Farneta excluded, they
+# resolve to disambiguation pages or an already-existing sqwiki article):
+https://it.wikipedia.org/wiki/Brindisi_Montagna
+https://it.wikipedia.org/wiki/San_Chirico_Nuovo
+https://it.wikipedia.org/wiki/Belvedere_di_Spinello
 
 
 https://en.wikipedia.org/wiki/Cluj-Napoca
