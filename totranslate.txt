@@ -155,7 +155,7 @@ https://en.wikipedia.org/wiki/Ideology	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Anarchism	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Conservatism	DONE	provider=claude_code	model=claude-sonnet-5
+https://en.wikipedia.org/wiki/Conservatism	DONE	claude-sonnet-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 # reason: translation did not complete (see run.log for this article)
 # reason: translation did not complete (see run.log for this article)
@@ -173,11 +173,11 @@ https://en.wikipedia.org/wiki/Currency	FAILED
 https://en.wikipedia.org/wiki/Tax	CLAIMED	pop-os	2026-09-16T20:25:23.011723+02:00
 https://en.wikipedia.org/wiki/African_Union	CLAIMED	pop-os	2026-09-16T20:26:18.452869+02:00
 https://en.wikipedia.org/wiki/Arab_League	CLAIMED	pop-os	2026-09-16T20:41:49.149396+02:00
-https://en.wikipedia.org/wiki/ASEAN	DONE	model=deepseek-v4.1-flash	provider=opencode-go
-https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement	DONE	model=deepseek-v4.1-flash	provider=opencode-go
+https://en.wikipedia.org/wiki/ASEAN	DONE	deepseek-v4.1-flash@opencode_go
+https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement	DONE	deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/Nobel_Prize	DONE
-https://en.wikipedia.org/wiki/International_Court_of_Justice	DONE	model=deepseek-v4.1-flash	provider=opencode-go
-https://en.wikipedia.org/wiki/UNESCO	FAILED	provider=opencode_go	model=opencode/space-bunny-free
+https://en.wikipedia.org/wiki/International_Court_of_Justice	DONE	deepseek-v4.1-flash@opencode_go
+https://en.wikipedia.org/wiki/UNESCO	FAILED	opencode/space-bunny-free@opencode_go
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/World_Bank	CLAIMED	pop-os	2026-09-01T21:33:04.547578+02:00
 https://en.wikipedia.org/wiki/World_Trade_Organization	CLAIMED	pop-os	2026-09-23T20:21:47.763932+03:00
@@ -353,7 +353,7 @@ https://it.wikipedia.org/wiki/Licia_Albanese	DONE
 https://it.wikipedia.org/wiki/Demetrio_Capuzzimati	DONE
 https://it.wikipedia.org/wiki/Enrico_Cuccia	DONE
 # reason: already exists as sq:Enrico Cuccia (Wikidata Q327192 sitelink) -- not translated here
-https://it.wikipedia.org/wiki/Donato_Oliverio	DONE	model=deepseek-v4.1-flash	provider=opencode-go
+https://it.wikipedia.org/wiki/Donato_Oliverio	DONE	deepseek-v4.1-flash@opencode_go
 https://it.wikipedia.org/wiki/Giovanni_Battista_Albanese	DONE
 # reason: already exists as sq:Giovanni Battista Albanese (Wikidata Q3766550 sitelink) -- not translated here
 https://sq.wikipedia.org/wiki/Fran%C3%A7esko_Krispi
