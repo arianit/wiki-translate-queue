@@ -362,7 +362,7 @@ https://sq.wikipedia.org/wiki/Fran%C3%A7esko_Krispi
 # resolve to disambiguation pages or an already-existing sqwiki article):
 https://it.wikipedia.org/wiki/Brindisi_Montagna	DONE
 https://it.wikipedia.org/wiki/San_Chirico_Nuovo	DONE
-https://it.wikipedia.org/wiki/Belvedere_di_Spinello	CLAIMED	pop-os	2026-09-23T15:49:02.186837+03:00
+https://it.wikipedia.org/wiki/Belvedere_di_Spinello	DONE
 
 
 https://en.wikipedia.org/wiki/Cluj-Napoca
