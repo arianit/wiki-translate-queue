@@ -179,10 +179,10 @@ https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement	
 https://en.wikipedia.org/wiki/Nobel_Prize	DONE
 https://en.wikipedia.org/wiki/International_Court_of_Justice	DONE	deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/UNESCO	FAILED	opencode/space-bunny-free@opencode_go
-# reason: translation did not complete (see run.log for this article)
+# reason: needs human review -- orphaned named ref "intellectualcooperation" (see output/UNESCO.review.md)
 https://en.wikipedia.org/wiki/World_Bank	FAILED	claude-sonnet-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/World_Trade_Organization	CLAIMED	pop-os	2026-09-23T20:21:47.763932+03:00
+https://en.wikipedia.org/wiki/World_Trade_Organization	DONE	opencode/space-bunny-free@opencode_go
 https://en.wikipedia.org/wiki/Military	DONE
 # engine: provider=opencode_go, model=opencode-go/qwen3.8-flash (wiki-translation-harness); first translation, no prior sqwiki article
 https://en.wikipedia.org/wiki/Peace	DONE
