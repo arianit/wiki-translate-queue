@@ -173,10 +173,10 @@ https://en.wikipedia.org/wiki/Currency	FAILED
 https://en.wikipedia.org/wiki/Tax	CLAIMED	pop-os	2026-09-16T20:25:23.011723+02:00
 https://en.wikipedia.org/wiki/African_Union	CLAIMED	pop-os	2026-09-16T20:26:18.452869+02:00
 https://en.wikipedia.org/wiki/Arab_League	CLAIMED	pop-os	2026-09-16T20:41:49.149396+02:00
-https://en.wikipedia.org/wiki/ASEAN	CLAIMED	pop-os	2026-09-22T22:49:59.761422+03:00
-https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement	CLAIMED	pop-os	2026-09-22T22:49:59.761422+03:00
+https://en.wikipedia.org/wiki/ASEAN	DONE	model=deepseek-v4.1-flash	provider=opencode-go
+https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement	DONE	model=deepseek-v4.1-flash	provider=opencode-go
 https://en.wikipedia.org/wiki/Nobel_Prize	DONE
-https://en.wikipedia.org/wiki/International_Court_of_Justice	CLAIMED	pop-os	2026-09-22T22:49:59.761422+03:00
+https://en.wikipedia.org/wiki/International_Court_of_Justice	DONE	model=deepseek-v4.1-flash	provider=opencode-go
 https://en.wikipedia.org/wiki/UNESCO
 https://en.wikipedia.org/wiki/World_Bank	CLAIMED	pop-os	2026-09-01T21:33:04.547578+02:00
 https://en.wikipedia.org/wiki/World_Trade_Organization
