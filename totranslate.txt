@@ -202,7 +202,7 @@ https://en.wikipedia.org/wiki/Argentina	FAILED	opencode-go/deepseek-v4.1-flash@o
 https://en.wikipedia.org/wiki/Iliad	DONE
 https://en.wikipedia.org/wiki/Homer	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/World_War_II	DONE
-https://en.wikipedia.org/wiki/United_Kingdom	
+https://en.wikipedia.org/wiki/United_Kingdom	CLAIMED	pop-os	2026-09-24T01:24:16.081364+03:00
 https://en.wikipedia.org/wiki/India	
 https://en.wikipedia.org/wiki/George_Washington	
 https://en.wikipedia.org/wiki/Spain	
