@@ -170,7 +170,7 @@ https://en.wikipedia.org/wiki/Capital_(economics)	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Currency	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Tax	CLAIMED	pop-os	2026-09-16T20:25:23.011723+02:00
+https://en.wikipedia.org/wiki/Tax	CLAIMED	pop-os	2026-09-23T21:30:13.697859+03:00
 https://en.wikipedia.org/wiki/African_Union	CLAIMED	pop-os	2026-09-16T20:26:18.452869+02:00
 https://en.wikipedia.org/wiki/Arab_League	CLAIMED	pop-os	2026-09-16T20:41:49.149396+02:00
 https://en.wikipedia.org/wiki/ASEAN	DONE	deepseek-v4.1-flash@opencode_go
