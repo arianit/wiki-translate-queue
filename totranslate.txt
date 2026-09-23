@@ -363,6 +363,11 @@ https://sq.wikipedia.org/wiki/Fran%C3%A7esko_Krispi
 https://it.wikipedia.org/wiki/Brindisi_Montagna	DONE
 https://it.wikipedia.org/wiki/San_Chirico_Nuovo	DONE
 https://it.wikipedia.org/wiki/Belvedere_di_Spinello	DONE
+https://it.wikipedia.org/wiki/Cervicati
+https://it.wikipedia.org/wiki/Curinga
+https://it.wikipedia.org/wiki/Gizzeria
+https://it.wikipedia.org/wiki/Marcedusa
+https://it.wikipedia.org/wiki/Mongrassano
 
 
 https://en.wikipedia.org/wiki/Cluj-Napoca
