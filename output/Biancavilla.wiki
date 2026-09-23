@@ -1,0 +1,555 @@
+{{Other uses|Biancavilla (Pokémon)}}
+{{Pa referenca|data=mars 2009}}
+{{Infobox settlement
+|name = Biancavilla
+|native_name = Biancavidda
+|settlement_type = Komunë
+|image_skyline = Biancavilla chiesa del Rosario.JPG
+|image_caption = Piazza Roma
+|image_map = Map of comune of Biancavilla (metropolitan city of Catania, region Sicily, Italy).svg
+|map_caption = Vendndodhja e komunës Biancavilla në qytetin metropolitan të Katanias
+|subdivision_type = Shteti
+|subdivision_name = [[Italia]]
+|subdivision_type1 = Rajoni
+|subdivision_name1 = [[Siçilia]]
+|subdivision_type2 = Qyteti metropolitan
+|subdivision_name2 = [[Qyteti metropolitan i Katanias]]
+|coordinates = {{Coord|37.645278|14.863611|display=inline,title}}
+|leader_title = Kryetar
+|leader_name = Antonio Bonanno
+|leader_party = [[Vëllezërit e Italisë]]
+|elevation_m = 513<ref>{{Cite web |url=http://www.comune.biancavilla.ct.it/la_citt_/La_citt_.aspx |title=La città (Comune di Biancavilla) |access-date=2017-01-06 |archive-date=2016-11-17 |archive-url=https://web.archive.org/web/20161117200819/http://www.comune.biancavilla.ct.it/la_citt_/La_citt_.aspx |url-status=dead |language=it}}</ref>
+|parts_type = Lagjet
+|parts_style = list
+|p1 = Badalato
+|p2 = Badia
+|p3 = Casina
+|p4 = Montalto
+|p5 = Sajola
+|p6 = Sberno
+|p7 = San Giuseppe
+|p8 = Sopra l'Orto
+|p9 = Spartiviale
+|p10 = Martina
+|p11 = Quattro Vanedde
+|blank_name_sec1 = Komunat kufitare
+|blank_info_sec1 = Adrano, Belpasso, Bronte, Castiglione di Sicilia, Centuripe (EN), Maletto, Nicolosi, Paternò, Ragalna, Randazzo, Sant'Alfio, Santa Maria di Licodia, Zafferana Etnea
+|blank1_name_sec1 = Zona sizmike
+|blank1_info_sec1 = 2
+|blank2_name_sec1 = Ditë-gradë
+|blank2_info_sec1 = 1391
+|blank3_name_sec1 = Patronët
+|blank3_info_sec1 = Shën Maria e Lëmoshës, Shën Placidi (abat dhe martir), Shën Zenoni (martir)
+|blank4_name_sec1 = Festa e patronit
+|blank4_info_sec1 = 5 tetor
+|blank5_name_sec1 = Motoja
+|blank5_info_sec1 = {{Smallcaps|Scanderbeg}}
+|blank6_name_sec1 = Zgjedhja e kryetarit
+|blank6_info_sec1 = 13 qershor 2018 (rizgjedhur më 30 maj 2023)
+|blank7_name_sec1 = Emri i banorëve
+|blank7_info_sec1 = biancavillesi (biancavilloti në sicilianisht)<ref>{{Cite web|url=https://www.comune-italia.it/comune-biancavilla.html|title=Comune di Biancavilla : Amministrazione comunale e sindaco - Comune di Biancavilla e città, Catania, Sicilia|website=www.comune-italia.it|access-date=2026-08-05|language=it}}</ref>
+}}
+'''Biancavilla''' (''Biancavidda'' në [[Gjuha siciliane|sicilianisht]]<ref>{{Cite book|title=Sicilia, miscellanea di studi storici, giuridici ed economici sulla Sicilia. Glossario di voci siciliane derivate dal greco, latino, arabo, spagnuolo, francese, tedesco, etc|author=F. G. Arezzo|publisher=Flaccovio|year=1950|language=it}}</ref>) është një komunë italiane e [[Qyteti metropolitan i Katanias|qytetit metropolitan të Katanias]] në [[Siçilia|Siçili]].
+
+== Gjeografia fizike ==
+Komuna ndodhet në këmbët e [[Etna|Etnës]], në 513 metra mbi nivelin e detit, në veriperëndim të qytetit të Katanias, mbi një shtresë magmatike që bie thikë mbi luginën e Simetos, në më pak se 4&nbsp;km në vijë ajrore nga lumi.
+
+Është një komunë pjesë e Parkut të Etnës dhe kufitare me atë të Nebrodeve. Në ditë të kthjellëta, panorama lejon të dallohen kodrat e Calatinos së epërme.
+
+=== Territori ===
+Territori komunal, domethënë pjesa më e banuar,<ref name="PR">Provinca Rajonale e Katanias, Planifikimi Territorial, Kap. I-IX-XII.</ref> shtrihet përgjatë një zone malore të ulët, në një zonë të pyllëzuar, ndërsa i gjithë territori përgjithësisht ndan majën e Etnës në një pikë gjeometrike teorike me nëntë komuna të tjera, në drejtim të jugperëndimit, deri te lumi Simeto, dhe rrjedh si një rrjedhë e gjatë llave nga maja e Etnës, me një diferencë lartësie prej mbi 3.000 metrash. Përfshin 3.830 hektarë të Parkut të Etnës, në të cilin marrin pjesë edhe 10 komuna të tjera në këmbë të malit. Kufizohet në veriperëndim me komunën Adrano, në verilindje me Ragalna dhe Belpasso, në juglindje me Santa Maria di Licodia dhe Paternò, në jugperëndim me komunën Centuripe.
+[[File:Comuni parco Etna.svg|upright=1.4|thumb|Territori i komunës në Parkun e Etnës]]
+
+=== Klima ===
+Sipas të dhënave të Observatorit Astrofizik të Katanias,<ref>{{Cite web |url=http://www.oact.inaf.it/meteoct/ct02_completo.htm |title=Kopje e arkivuar |access-date=2010-09-07 |archive-date=2010-03-24 |archive-url=https://web.archive.org/web/20100324223350/http://www.oact.inaf.it/meteoct/ct02_completo.htm |url-status=dead |language=it}}</ref> klima e qytetit është [[Klima mesdhetare|mesdhetare]] me karakteristika kontinentale. Temperatura mesatare në muajin janar është 4 °C, ndërsa në muajin korrik është 19 °C, me një mesatare vjetore prej 12 °C.<ref>Mesataret i referohen kufijve urbanë, pasi ndryshimet termike të vërejtura në skajet e fushës së Katanias dhe në 3.300 metrat e kraterit janë sigurisht të konsiderueshme në të gjitha stinët.</ref> Biancavilla karakterizohet nga vjeshta relativisht të buta e me shira në rritje nga fundi i nëntorit, dimra të ftohtë me reshje të rastësishme bore, pranvera të freskëta e me shi, dhe vera përgjithësisht të buta. Reshjet mund të ndodhin edhe gjatë sezonit veror, veçanërisht në fillim dhe në fund të sezonit.
+
+{{Klima
+| nome = Biancavilla
+| tempmax01 = 9
+| tempmax02 = 13
+| tempmax03 = 13
+| tempmax04 = 19
+| tempmax05 = 18
+| tempmax06 = 23
+| tempmax07 = 25
+| tempmax08 = 26
+| tempmax09 = 19
+| tempmax10 = 18
+| tempmax11 = 12
+| tempmax12 = 9
+| tempmin01 = -1
+| tempmin02 = 4
+| tempmin03 = 1
+| tempmin04 = 5
+| tempmin05 = 8
+| tempmin06 = 11
+| tempmin07 = 14
+| tempmin08 = 14
+| tempmin09 = 11
+| tempmin10 = 10
+| tempmin11 = 7
+| tempmin12 = 1
+| elio01 = 5.2
+| elio02 = 5.7
+| elio03 = 5.8
+| elio04 = 7.6
+| elio05 = 8.9
+| elio06 = 10.2
+| elio07 = 11.5
+| elio08 = 10.9
+| elio09 = 8.6
+| elio10 = 6.3
+| elio11 = 6.0
+| elio12 = 4.9
+| vento01 = NE
+| intensità01 = 4.6
+| vento02 = SW
+| intensità02 = 4.9
+| vento03 = NE
+| intensità03 = 4.9
+| vento04 = NE
+| intensità04 = 4.7
+| vento05 = NE
+| intensità05 = 4.3
+| vento06 = NE
+| intensità06 = 4.1
+| vento07 = NE
+| intensità07 = 4.1
+| vento08 = NE
+| intensità08 = 4.1
+| vento09 = NE
+| intensità09 = 4.5
+| vento10 = NE
+| intensità10 = 4.5
+| vento11 = SW
+| intensità11 = 4.3
+| vento12 = SW
+| intensità12 = 4.8
+}}
+=== Gjeologjia ===
+
+==== Ignimbriti i Biancavilla-Montaltos ====
+Në afërsi të vendbanimit të Biancavillës, brenda Luginës San Filippo, në kontakt me kupolat vullkanike të Monte Calvarios, gjendet depozita lavike e njohur si ignimbriti i Biancavilla-Montaltos, e formuar gjatë [[Pleistoceni|periudhës së Pleistocenit]] si pasojë e shtresimeve të shumta shpërthyese vullkanike të [[Etna|Etnës]].<ref name="FOOTNOTECammilleri433">{{Cite book|last=Cammilleri|first=Rino|title=Tutti i giorni con Maria, calendario delle apparizioni|publisher=Edizioni Ares|location=Milano|year=2020|isbn=978-88-815-59-367|page=433|language=it}}</ref>
+
+==== Fluoro-edeniti dhe rreziku kancerogjen ====
+Që nga fundi i viteve '90 të shekullit XX, {{ill|Instituti i Lartë i Shëndetësisë|it|Istituto superiore di sanità|lt=ISS}} nisi hetime për shkak të konstatimit të një niveli të lartë të {{ill|Mezotelioma|en|Mesothelioma|lt=mezoteliomës pleurale}} mes banorëve të Biancavillës. Pasi u përjashtuan ekspozimet profesionale ndaj [[Asbesti|asbestit]] nga ana e personave të përfshirë, në një komunë që në atë kohë ishte kryesisht e dedikuar bujqësisë, studiuesit hipotizuan një kontaminim që e kishte origjinën nga materialet e nxjerra nga gurorja e Monte Calvarios<ref>''Supplemento del notiziario dell'Istituto Superiore di Sanità'' (Suplementi i buletinit të Institutit të Lartë të Shëndetësisë): "Prevenzione della patologia da fluoro-edenite: il modello Biancavilla" (Parandalimi i patologjisë nga fluoro-edeniti: modeli Biancavilla). Vëllimi 28, Numri 5, Suplementi 1, 2015. (në italisht)</ref> - në periferinë juglindore të vendbanimit - të përdorura deri atëherë gjerësisht për ndërtimin e banesave dhe rrugëve<ref>{{Cite web|url=https://www.internazionale.it/reportage/marina-forti/2017/10/09/biancavilla-sicilia-fluoroedenite|title=Una storia siciliana di veleni|language=it}}</ref>.
+
+Territori i Monte Calvarios karakterizohet nga një shkëmb veçanërisht i thërrmueshëm, pra më i lehtë për t'u nxjerrë dhe përpunuar, i përbërë nga llavë benmoreitike, e pasur me {{ill|Fluorapatiti|en|Fluorapatite|lt=fluoroapatit}}<ref>Shënim: nga S. Tagliani (2006), ''Caratteri minero-genetici degli anfiboli fibrosi di interesse ambientale presenti nell'area di Biancavilla (CT, Italia)'' (Karakteret minero-gjenetike të amfiboleve fibroze me interes mjedisor të pranishme në zonën e Biancavillës (CT, Itali)), Univ. La Sapienza, Dip. Sci. Terra, Roma. (në italisht)</ref>. Hetime të gjera laboratorike lejuan identifikimin, në materialet e gurores, të një minerali të ri {{ill|Amfiboli|en|Amphibole|lt=amfibolik}}, të quajtur {{ill|Fluoro-edeniti|en|Fluoro-edenite}}, i miratuar në 2001 nga ''New Minerals and Mineral Names'' e ''International Mineralogical Association''<ref>{{Cite journal|author=Antonio Gianfagna|author2=Roberta Oberti|title=Fluoro-edenite from Biancavilla (Catania, Sicily, Italy): crystal chemistry of a new amphibole end-member|journal=American Mineralogist|volume=86|year=2001|pages=1489–1493|language=en}}</ref>. Për shkak të mënyrës së tij të kristalizimit të tipit azbestiform, në 2014 {{ill|Agjencia Ndërkombëtare për Kërkime mbi Kancerin|en|International Agency for Research on Cancer|lt=IARC}} e njohu {{ill|Fluoro-edeniti|en|Fluoro-edenite|lt=fluoro-edenitin}} si agjent kancerogjen për njeriun, duke e përfshirë në Grupin 1 (agjentë me siguri kancerogjenë për njeriun)<ref>{{Cite journal|author=Grosse Y, Loomis D, Guyton KZ, et al. International Agency for Research on Cancer Monograph Working Group|title=Carcinogenicity of fluoro-edenite, silicon carbide fibres and whiskers and carbon nanotubes|journal=Lancet Oncology|volume=15|issue=13|pages=1427–1428|year=2014|language=en}}</ref><ref>International Agency for Research on Cancer. Volume 111: Fluoro-edenite, silicon carbide fibres and whiskers, and single-walled and multi-walled carbon nanotubes IARC Working Group. Lyon; 30 Sep–7 Oct 2014. ''IARC Monogr Eval Carcinog Risk Chem Hum''. (në anglisht)</ref><ref>Soffritti M., Minardi F., Bua L., Esposti D., Belpoggi F. (2000), ''First experimental evidence of peritoneal and pleural mesotheliomas induced by fluoro-edenite fibres in Etnean volcanic material from Biancavilla (Sicily, Italy)'', European Journal of Oncology. (në anglisht)</ref>:
+
+{{Blockquote|Tepërica e incidencës dhe e vdekshmërisë nga mezotelioma e vërejtur në komunën e Biancavillës, duke përdorur si krahasim normat e incidencës dhe të vdekshmërisë të Rajonit të Sicilisë, ka rezultuar e rëndësishme dhe e qëndrueshme, si te burrat ashtu edhe te gratë, dhe veçanërisht e theksuar te të rinjtë e rritur. Shumica e rasteve të vërejtura nuk kishte një histori profesionale ekspozimi ndaj asbestit. Këto gjetje sugjerojnë ekzistencën e një shkaku të tipit mjedisor, më shumë sesa profesional, i cili u identifikua në amfibolin fibroz të fluoro-edenitit të pranishëm në tokën e Biancavillës, në një gurore të një materiali të përdorur gjerësisht në ndërtimtarinë lokale dhe në shtrimin e rrugëve. Përveç kësaj, studimet e kryera në kafshë eksperimentale tregojnë se injektimi intraperitoneal dhe intrapleural i fluoro-edenitit fibroz është në gjendje të nxisë mezotelioma te minjtë e të dy gjinive. Rezultatet e studimeve në qeliza janë në përputhje me mekanizmat e propozuar për të shpjeguar kancerogjenezën nga fibrat.|{{ill|Agjencia Ndërkombëtare për Kërkime mbi Kancerin|en|International Agency for Research on Cancer|lt=IARC}} Monographs, Vol. 111. 2014.}}
+
+Që nga viti 2001, me dekret ministror, Biancavilla u shpall si sit me interes kombëtar (SIN), një nga katër zonat e Rajonit të Sicilisë, pas {{ill|Milazzo|en|Milazzo|lt=Milazzos}}, [[Gela|Gelës]] dhe {{ill|Priolo Gargallo|en|Priolo Gargallo|lt=Priolos}}. Janë nisur kështu punimet e dekontaminimit dhe të vënies në siguri të ish-gurores së Monte Calvarios. Që nga viti 2019, në kuadër të ndërhyrjeve të parashikuara në SIN, ASP-ja e [[Katania|Katanias]] ka hapur një ambulancë pneumologjie dhe një pikë informacioni, me qëllim promovimin e masave të parandalimit parësor dhe edukimin e qytetarisë mbi rreziqet e ekspozimit ndaj {{ill|Fluoro-edeniti|en|Fluoro-edenite|lt=fluoro-edenitit}}<ref>{{Cite web|url=https://www.biancavillaoggi.it/2019/05/20/amianto-svolta-dopo-vent-anni-aperti-ambulatorio-e-due-focal-point/|title=Amianto, la svolta dopo vent'anni: aperti ambulatorio e due focal point|language=it}}</ref>. Masat e dekontaminimit të ndërmarra kanë lejuar uljen e përqendrimit të {{ill|Fluoro-edeniti|en|Fluoro-edenite|lt=fluoro-edenitit}} në ajër nën pragun e rrezikut të treguar nga [[Organizata Botërore e Shëndetësisë|OBSH]] (1 fibër për litër ajri). Megjithatë, pritet ende përfundimi i punimeve të dekontaminimit për kthimin e zonës në përdorime civile<ref>{{Cite web|url=https://www.biancavillaoggi.it/2022/02/22/bonifica-di-monte-calvario-aggiudicati-i-lavori-per-oltre-17-milioni-di-euro/|title=Bonifica di Monte Calvario, aggiudicati i lavori per oltre 17 milioni di euro|language=it}}</ref><ref>{{Cite web|url=https://www.lescienze.it/news/2021/05/20/news/biancavilla_cava_inquinamento_asbesto_amianto_bonifica-4931816/|title=Biancavilla e la bonifica di quello che non si conosceva|language=it}}</ref>.
+=== Sizmiciteti ===
+Harta e rrezikshmërisë sizmike e konsideron zonën e Biancavillës si zonë me "rrezikshmëri të lartë". Territori i Etnës preket si nga tërmete vullkanike, që lidhen me lëvizjet e masave magmatike, ashtu edhe nga tërmete tektonikë; këta të fundit mund, nga ana e tyre, të ndikohen nga fusha e tensioneve e shkaktuar nga vullkani<ref name=":0">{{Cite web|url=https://ingvterremoti.com/2018/10/06/terremoto-in-provincia-di-catania-del-6-ottobre-2018-aggiornamento-delle-ore-1600/|title=Rischio sismico a Biancavilla (Rreziku sizmik në Biancavilla).|language=it}}</ref>.
+
+Në orën 02:34 [[Ora Verore e Evropës Qendrore|CEST]] të datës {{Data|06|10|2018}}, qyteti u godit nga një [[Tërmeti|tërmet]] me magnitudë 4,8, me epiqendër të vendosur në territorin e Santa Maria di Licodias, rreth 1&nbsp;km nga Biancavilla<ref>{{Cite web|url=https://catania.meridionews.it/articolo/70085/forte-scossa-di-terremoto-avvertita-nel-catanese-segnalato-tremore-da-mascalucia-fino-a-paterno/|title=Forte scossa di terremoto nel catanese (Goditje e fortë tërmeti në zonën e Katanias).|language=it}}</ref>. Tërmeti shkaktoi dëme të shumta në ndërtesa shkollore, kisha dhe banesa private<ref>{{Cite web|url=https://www.biancavillaoggi.it/2018/10/06/terremoto-ecco-i-danni-provocati-alla-basilica-e-alla-chiesa-dell-idria/|title=Terremoto. Ecco i danni provocati alla Basilica e alla chiesa dell'Idria (Tërmeti. Ja dëmet e shkaktuara Bazilikës dhe kishës së Idrias).|language=it}}</ref>.
+
+Më parë, ngjarje me ashpërsi të ngjashme kishin ndodhur në maj 1898 (magnitudë 4,0) dhe në prill 1984 (M 3,5). Ngjarja me magnitudën më të lartë në zonën etneane, që përfshiu Biancavillën, i përket datës 20 shkurt 1818 (M 6,3)<ref name=":0" />.
+
+== Origjina e emrit ==
+Një grup mërgimtarësh shqiptarë bizantinë (ose me ritin grek), që mbërritën në Siçili në shekullin XV për shkak të presioneve turko-osmane, vendosi të kërkonte strehim në territorin spanjollo-aragonez të Siçilisë, në shpatet e Etnës, duke themeluar në vitin 1488 një komunitet të vetin, i njohur fillimisht si "Terra di Callicari"<ref>Në një letër të datës 20 prill 1542, me anë të së cilës peshkopi latin i lejonte priftit shqiptar Papodato Andrea të celebronte një meshë katolike sipas ritit të tij grek (bizantin), del në pah emri "Casalis Callicaris".</ref>. Qendra u quajt më vonë, ose njihej, si "Casale dei Greci"<ref>Shqiptarët ngatërroheshin zakonisht me grekët për shkak të gjuhës koine greke të përdorur në ritin e tyre lindor, dhe për këtë arsye quheshin gabimisht greko-shqiptarë, term i papërshtatshëm që përdoret shpesh edhe sot.</ref>, "Poggio Bianco" ose në latinisht "Albavilla", për të arritur më pas, që nga [[1599]], te emri Biancavilla. Sipas disave, emri do të ishte një homazh ndaj mbretëreshës Bianca di Navarra, por në realitet ai rrjedh nga ngjyra e bardhë e shtëpive, që kontrastonte me të zezën vullkanike të zonës<ref>Placido Bucolo, ''Storia di Biancavilla'', Adrano 1953, f. 19-20</ref>.
+
+== Historia ==
+
+=== Epoka e lashtë ===
+Falë pranisë së bollshme të burimeve natyrore dhe të shpellave lavike, territori i Biancavillës u banua që nga [[Paleoliti|Paleoliti i Sipërm]], fillimisht nga Sikanët dhe më pas nga Sikulët, siç dëshmojnë gjetjet arkeologjike të ruajtura në muzeun qytetar të {{ill|Adrano|it|Adrano|lt=Adranos}}<ref name="PR" /><ref name="FOOTNOTECammilleri433" />, të gjetura në disa vendbanime arkeologjike që ekzistojnë edhe brenda qendrës aktuale të banuar, por që më pas u braktis.
+
+==== Kultura e Castelluccios ====
+Në territorin e Biancavillës, së bashku me ata të Adranos dhe Paternòs, janë zbuluar vendbanime të {{ill|Kultura e Castelluccios|it|Cultura di Castelluccio|lt=kulturës së Castelluccios}}, që i përkasin epokës së bronzit të hershëm.
+
+Vendbanimet castellucciane etneane paraqesin disa veçori krahasuar me vendbanimet më të gjera të territorit juglindor të ishullit. Dallimi i parë thelbësor lidhet me llojin e varreve, siç vërejti arkeologu {{ill|Luigi Bernabò Brea|it|Luigi Bernabò Brea|lt=Bernabò Brea}}<ref name=":2">{{Cite book|author=Luigi Bernabò Brea|title=La Sicilia prima dei Greci.|publisher=Il Saggiatore|orig-year=1958|language=it}}</ref>:
+
+{{Blockquote|Lavat e Etnës, tepër të forta për t'u gërmuar, e bënin në fakt të pamundur përdorimin e tipit të varrit në formë grotte artificiale, të zakonshëm në të gjitha zonat e tjera të Siçilisë.
+[...] Shumë shpesh, si kockëmbajtëse u përdorën shpellat e formuara nga rrjedhjet e lavës, të cilat nuk janë të rralla në anët e vullkanit.
+[...] Në Biancavilla, brenda një shpelle të këtij lloji, me përmasa të mëdha, gjejmë një nekropol të vërtetë me varre në formë gropash ovale, të rrethuara nga murë të thatë prej gurësh.|{{ill|Luigi Bernabò Brea|it|Luigi Bernabò Brea|lt=Luigi Bernabò Brea}}, ''La Sicilia prima dei Greci''.}}
+
+Karakteristikë tjetër dalluese e {{ill|Kultura e Castelluccios|it|Cultura di Castelluccio|lt=qytetërimit castellucian etnean}} lidhet me llojet e qeramikave. Janë zbuluar në fakt "anforeta të vogla me dy doreza, me profil theksueshëm të karenuar, me zbukurim të lehtë me kënde, dhe kupa-vjelëse të karenuara"<ref name=":2" />.
+
+Në territorin e Biancavillës janë eksploruar shpellat e mëposhtme: Origlio I dhe II, Filiciosa, Pozzillo, Argentieri, Spartiviali, Via Scutari<ref>{{Cite journal|author=Francesco Privitera|author2=Vincenzo La Rosa|title=In ima tartara. Preistoria e leggenda delle grotte etnee.|journal=Regione Siciliana, Assessorato dei Beni Culturali, Ambientali e dell'Educazione Permanente. Palermo 2007.|language=it}}</ref>. Disa gjetje arkeologjike të dala nga gërmimet ekspozohen sot në Muzeun Komunal të {{ill|Adrano|it|Adrano|lt=Adranos}}.
+=== Epoka mesjetare ===
+[[File:Arrivo degli esuli albanesi a Callicari Biancavilla.webp|thumb|300px|Mbërritja e shqiptarëve në Callicari]]
+Themelimi i vendbanimit i përket [[Shekulli XV|shekullit XV]], kur një grup refugjatësh shqiptarë të ritit greko-katolik<ref>{{Cite web|url=http://www.guzzardi.it/arberia/mappa/sicilia/biancavilla/index.htm|title=Biancavilla, comunità fondata dagli albanesi|access-date=2016-07-08|archive-date=2007-10-21|archive-url=https://web.archive.org/web/20071021081746/http://www.guzzardi.it/arberia/mappa/sicilia/biancavilla/index.htm|url-status=dead|language=it}}</ref><ref>{{Cite web|url=http://www.biancavillaoggi.it/2014/08/17/lindagine-sulle-radici-biancavillesi-tra-ipotesi-suggestive-e-approcci-inediti/|title=Gli albanesi e Callìcari, l'Icona e Niger: ipotesi suggestive sulle nostre origini|access-date=2016-07-08|language=it}}</ref> të ardhur nga [[Ballkani]] (nga [[Shqipëria]]/[[Epiri]] dhe më pas nga Morea), të udhëhequr nga Çezari Mëzi (''Cesare Masi''), morën lejen për të banuar në atë vend<ref>Shumë afër qytetit të lashtë të ''Adernòs'' (sot {{ill|Adrano|it|Adrano}}).</ref>, nga konti Giovanni Tommaso Moncada, i cili kërkoi dhe fitoi, në janar të vitit 1488, ''{{ill|licentia populandi|it|Licentia populandi}}''-n nga kryetarët e [[Mbretëria e Siçilisë|Mbretërisë së Siçilisë]], Santapau dhe Centelles<ref name=":1">{{Cite book|author=Giuseppe La Mantia|title=I Capitoli delle colonie greco-albanesi di Sicilia dei secoli XV e XVI raccolti e pubblicati da Giuseppe La Mantia. Stab. Tip. A. Giannitrapani. Palermo 1904.|language=it}}</ref>. Ky privilegj u konfirmua në vitin 1501 nga konti Guglielmo Moncada dhe në vitin 1502 nga i biri, Antonio. Më pas, në vitin 1504, tre privilegjet u hartuan në formë publike me një akt të ri, të nënshkruar nga gjyqtari Ferdinando Marchisio dhe noteri Luigi Passitano, ndërsa konfirmimi i D. Cesares, birit të D. Francesco-s, princit të parë të Paternòs, mban datën 1568.
+
+Kolonia u vendos në zonën që në atë kohë quhej Callicari ose Pojo Rosso<ref>[http://books.google.it/books?id=FMcOAAAAQAAJ&pg=RA1-PA28&img=1&zoom=3&hl=it&sig=ACfU3U0rBZisT0iYGo_M_Bvfr8FJt4RagA&ci=12%2C9%2C980%2C1429&edge=0 Filadelfio Mugnos, ''Teatro genealogico delle famiglie nobili di Sicilia'', Palermo, 1647]. URL-ja e konsultuar më 1 shtator 2010</ref><ref name="CB">[http://www.comune.biancavilla.ct-egov.it/la_città/storia/ Comune di Biancavilla, La città e la storia - Sito Ufficiale] {{Webarchive|url=https://web.archive.org/web/20101128190936/http://www.comune.biancavilla.ct-egov.it/la%5Fcitt%C3%A0/storia/|date=2010-11-28}} - URL-ja e konsultuar më 1 shtator 2010</ref>, vend që me shumë gjasë përkonte me Inessa-n e lashtë. Përdorimi i ''licentia populandi''-t dëshmon se vendi ishte më parë i pabanuar, ndryshe nga kolonitë e tjera shqiptare të Siçilisë që praktikonin ritin grek<ref name=":1" />. Brenda pak vitesh kolonia u zgjerua, falë kushteve të privilegjuara të dhëna nga zotërit feudalë Moncada. Biancavilla u përfshi gjithmonë në feudin e Adernòs dhe në shekullin XVI përmendet me emrin "latin" "Casale dei Greci".
+
+Shqiptarët, që praktikonin [[Liturgjia bizantine|ritin greko-katolik]], sollën me vete ikonën e Nënës së Zotit të Elemosinës, ende sot objekt devocioni{{Sfn|Cammilleri|p=433}}, si dhe një relikiar prej argjendi me statujëzën dhe një relike të Shën Zenonit. Nuk dihet shumë për veprimtarinë civile dhe fetare të kolonisë, pasi shqiptarët nuk lanë asnjë shkrim, veç faktit që ruajtën ritin grek për rreth më shumë se një shekull dhe se, kur nuk mbeti më asnjë prift për të kryer ritin, çdo vit dërgohej një "papàs" nga koloni të tjera shqiptare në krahinën e Palermos, për t'u kryer Pashkët besimtarëve sipas riteve të tyre. Largësia nga qendrat e tjera ''[[Arbëreshët në Itali|arbëreshe]]'' dhe migrimet e popullatave të ritit latin nga qendrat fqinje, veçanërisht pas shpërthimeve të Etnës, sollën zhdukjen graduale të shumë prej zakoneve dhe riteve origjinale<ref>Kujtimi i origjinës shqiptare gjendet edhe sot në disa fjalë të banorëve dhe në disa mbiemra të tyre, në toponimi (p.sh. Rruga Shqipëria) dhe në devocionin ndaj ikonës së Marisë së Shenjtë të Elemosinës (''Theotokos'').</ref>.
+
+=== Epoka moderne ===
+Komuna e Biancavillas zhvilloi, në vitin 1760, një proces gjyqësor në Regia Gran Corte kundër Adernòs dhe Centorbit, për mosmarrëveshje lidhur me zgjerimin e territorit<ref>Për këtë proces ruhen në Bibliotekën Komunale të Palermos dy alegime dorëshkrimesh, njëra (fletët 1-20) me titullin: ''"Ragioni a favore dell'Università di Adernò contro le Università di Biancavilla e Centorbi"'' dhe tjetra (fl. 23-73) me titullin: ''"Ragioni sul punto della divisione del territorio in favore dell'Università di Adernò contro le Università di Biancavilla e Centorbi".''</ref>.
+
+[[Kulti (praktikë fetare)|Kulti]] i {{ill|Shën Placidi|it|Placido (monaco)|lt=Shën Placidit}}, mbrojtësi i qytetit, u përhap në Biancavilla në [[Shekulli XVII|shekullin XVII]], kur abati i manastirit fqinj Santa Maria di Licodia, në vitin [[1602]]<!-- fjalia është e paplotë dhe duhet korrigjuar --> kishës amë të qytetit [[Reliku|relikat]] e shenjtorit, kulti i të cilit ishte përhapur në gjithë Siçilinë, pas zbulimit në [[Mesina]] të mbetjeve të shumta të martirëve në kishën e Shën Gjon Pagëzorit.
+
+Shën Placidi u shpall {{ill|Shenjtori mbrojtës|it|Santo patrono|lt=patron}} dhe mbrojtës i tokës së Biancavillas më 23 shtator [[1709]] nga peshkopi i Katanias, Mons. Andrea Riggio, "për t'i shpëtuar masakrës mizore (tërmeti i janarit 1693, i cili shkatërroi Katanian dhe gjithë Siçilinë Lindore) [...] që në të ardhmen [toka e Biancavillas] të mos shkatërrohej nga shkatërrimi i tërmetit dhe [...] që ky devocion të mbetej i gjallë në kujtesën e ngjarjes".
+
+"Patronati" i tij përfshihet kështu mes atyre më të lashtëve, "ab immemorabile", që qyteti i ka rezervuar që nga themelimi i tij, Zojës së Elemosinës dhe Shën Zenonit, martir i Arabisë.
+
+{{Blockquote|text=Le të dihet sa dashuri kam brenda vetes, ndaj Atdheut tim të dashur, të cilin kam kërkuar ta nderoj, me shpresën që t'ua përcjell bashkëqytetarëve të mi këtë dashuri të zjarrtë, që t'u shërbejë si shtysë për ta bërë Qytetin të madh dhe të lavdishëm. (nga ''Storia di Biancavilla'', Gutenberg, 1953)|author=Placido Bucolo}}
+=== Epoka bashkëkohore ===
+Gjatë shekujve XVII dhe XVIII u formua një borgjezi mjaft e kamur, por edhe një shtresë e fortë punëtorësh bujqësorë me mëditje dhe një klasë fshatare që dallohej për politizimin e saj të fortë, gjë që u shpreh në kryengritjet e viteve 1848 dhe 1860 për çështjen e tokave shtetërore. Biancavilla ishte, në fakt, një nga komunat më të trazuara të zonës së Etnës, që mori pjesë në të gjitha lëvizjet revolucionare dhe antiburbone nga viti 1820 deri në 1860, duke dëshmuar se skena politike vendore u dominua kryesisht nga familja Biondi.
+
+«Casino dei Civili» (sot Circolo Castriota) ishte simboli kundër të cilit u drejtua zemërimi popullor; të njëjtat tipare pati edhe kryengritja e «kashtës» në vitin 1923. Menjëherë pas luftës u shënua një ngjarje e veçantë e kujtuar si «greva e kundërt»: fshatarëve u ishte urdhëruar të linin disa toka pronë e shtetit, por pa ato toka shumë njerëz do të ishin të detyruar të bien në varfëri; kështu që fshatarët zaptuan edhe tokat e lëna deri atëherë të lira, duke i ruajtur me turne pune, madje edhe natën. Pas disa muajsh, shteti, me dekret, ua la ato toka banorëve të Biancavillas.
+
+Periudha pasuese u karakterizua nga shpërthimet e [[Etna|Etnës]], epidemi, thatësirë dhe ngjarje të ndryshme luftarake, të cilat megjithatë e prekën qytetin vetëm në mënyrë të kufizuar. Sot Biancavilla është një qendër e rëndësishme prodhimi dhe tregtie e bajameve, rrushit, agrumeve, mollëve, perimeve dhe fiqve të Indisë. Të gjera janë pyjet dhe kullotat e përhershme. Ndërmarrje artizanale veprojnë në sektorët e ushqimit, veshjeve, mobiljeve dhe materialeve të ndërtimit.
+
+=== Simbolet ===
+[[File:Biancavilla-Stemma.svg|left|130px|Stema e Bashkisë]]
+Stema historike u njoh me DCG (Dekret i Kryetarit të Qeverisë) të datës 15 prill 1929. Stema dhe {{ill|Gonfaloni|it|Gonfalone|lt=gonfaloni}} aktual u dhanë më pas me DPR (Dekret i Presidentit të Republikës) të datës 20 tetor 1998.<ref>{{Cite web|url=http://dati.acs.beniculturali.it/comuni/comuni.printDetail.html?6001|title=Biancavilla|access-date=2025-08-13|website=Archivio Centrale dello Stato|language=it}}</ref>
+Sipas nenit 5 të statutit të bashkisë<ref>{{Citation|url=https://dait.interno.gov.it/documenti/statuti/statuto-comune-ct-biancavilla.pdf|author=Comune di Biancavilla|title=Statuto|at=Neni 5, paragrafi 2, ''Sede, Gonfalone e Stemma'' (Selia, Gonfaloni dhe Stema)|language=it}}</ref> stema përbëhet nga simbolet e mëposhtme:
+* Korona qytetare: mbizotëron mbi të gjithë mburojën dhe përfaqëson bashkinë e Biancavillas dhe statusin e saj si komunë autonome që nga themelimi, i ndodhur me Privilegjet e datës 8–25 janar 1488.
+* Dielli rrezatues: i vendosur në pjesën e sipërme të mburojës, i zhytur në një blu që simbolizon qiellin.
+* Plisi i tokës: i vendosur poshtë, simbolizon territorin. Ky simbol, së bashku me diellin rrezatues dhe qiellin blu, thekson kuptimin e Callicarit (emri i lashtë i Biancavillas) që, në greqishten e vjetër, do të thotë «kontradë e bukur».
+* Kali: përfaqëson kalin e heroit kombëtar shqiptar Gjergj Kastrioti Skënderbeu (it. Giorgio Castriota Scanderbeg). Përveç kësaj, së bashku me selvinë, përfaqëson stemën fisnike familjare të Kapitenit (kryetarit) të parë shqiptar, Cesare Masi.
+* Selvia: simbolizon pemën te e cila, sipas një tradite të lashtë shqiptare, Gjon Kastrioti, biri i Skënderbeut, lidhi kalin e të atit dhe u nis drejt Italisë, duke shpëtuar nënën e tij dhe popullin e tij të kërcënuar nga pushtuesi turko-mysliman [[Mehmeti II]].<ref name="FOOTNOTECammilleri433" />
+* Kulla: e krenelatuar me tre pjesë dhe me dritare, simboli i zotërve të vendit, Kontët Moncada.
+* Kryqi grek: riafirmon përkatësinë e etërve themelues [[Shqiptarët|shqiptarë]] ndaj besimit të krishterë greko-katolik (ose të [[Liturgjia bizantine|ritit bizantin]]).
+* Shirit i artë: mbizotëron mbi kryqin grek dhe mban mbishkrimin «Skënderbeu», homazh ndaj luftëtarit të madh shqiptar Gjergj Kastrioti, mbrojtës i palodhur i besimit të krishterë kundër islamizmit.
+* Korona e kontit: mbizotëron mbi shiritin dhe kryqin grek. Simbol i Kontesë së Adernòs, në nder të kontit Gian Tommaso Moncada, i cili bëri që Presidentët e Mbretërisë së Sicilisë, Santapau dhe Centelles, të nxirrnin më 8 janar 1488 Privilegjin që u dhuronte refugjatëve shqiptarë, të udhëhequr nga fisniku Cesare Masi, tokën e Callicarit ose Poggio Rosso-s. Kështu lindi Casale dei Greci, sot Biancavilla.
+
+Në {{ill|Gonfaloni|it|Gonfalone|lt=gonfalonin}}, të përbërë nga një pëlhurë e bardhë, stema e riprodhuar mbi gjoksin e shqiponjës përfaqëson simbolin e heroizmit, atij të treguar në shkallën më të lartë nga Skënderbeu (Gjergj Kastrioti), i cili nuk iu përkul kurrë vullnetit të armiqve turq dhe doli gjithmonë fitimtar në të gjitha betejat kundër tyre.
+
+=== Nderimet ===
+Nderimet e dhëna qytetit të Biancavillas në periudha të ndryshme janë renditur më poshtë:
+
+* [[File:Ordine delle Due Sicilie ribbon bar.png|100px]] '''Kryqi i Madh i Urdhrit të Dy Sicilive'''
+
+* [[File:OrdineLavoro.png|100px]] '''Medalja e Meritës për Punë'''
+*: ''Duke u dalluar në bujqësi, industri, tregti dhe zejtari'' — Kryesia e Këshillit të Ministrave, 12 maj 2008
+
+* [[File:ITA OMRI 2001 Cav BAR.svg|100px]] '''Medalja e Meritës së Republikës'''
+*: ''Merita të fituara ndaj Kombit në fushën e letrave, arteve, ekonomisë dhe në angazhimin e detyrave publike, si dhe në aktivitete të kryera për qëllime sociale, filantropike dhe humanitare, si dhe për shërbime të gjata dhe të shquara në karrierat civile dhe ushtarake'' — Kryesia e Këshillit të Ministrave, 29 maj 2009
+
+* [[File:BenemeritiAmbiente1.png|100px]] '''Medalja e Artë për të Mirëmerituarit e Mjedisit'''
+*: ''Për sfidat mjedisore, sipas Dokumentit të Përmbledhur mbi Gjendjen e Mjedisit në Itali, 2009, të Ministrisë së Mjedisit dhe Mbrojtjes së Territorit dhe të Detit'' — Kryesia e Këshillit të Ministrave, 28 tetor 2009
+
+* [[File:Benemeriti della salute pubblica silver medal BAR.svg|100px]] '''Medalja e Argjendtë për të Mirëmerituarit e Shëndetit Publik'''
+*: ''Rajoni i Sicilisë, Plani i kufizimit dhe rikualifikimit të Shërbimit Shëndetësor Rajonal'' — Kryesia e Këshillit të Ministrave, 21 prill 2010
+
+* [[File:Benemeriti della salute pubblica silver medal BAR.svg|100px]] '''Medalja e Argjendtë për të Mirëmerituarit e Shëndetësisë Publike'''
+*: ''Plani Kombëtar i Integruar — Raporti vjetor 2008 i Ministrisë së Punës, Shëndetësisë dhe Politikave Sociale, Departamenti për Shëndetësinë Publike Veterinare dhe Ushqimin'' — Kryesia e Këshillit të Ministrave, 30 shtator 2009
+== Monumente dhe vende me interes ==
+
+=== Arkitektura fetare ===
+[[File:Madonna_dell_Elemosina.png|thumb|Ikona e Shën Maria dell'Elemosina, sjellë nga të mërguarit [[Shqiptarët|shqiptarë]] në [[Shekulli XV|shekullin XV]], Mbrojtëse dhe Patroneshë kryesore e Biancavillas]]Arkitektura fetare e Biancavillas u ndërtua kryesisht në stilin e {{ill|barok sicilian|it|Barocco siciliano}}, por që nga shekulli XVIII u përcaktua zhvillimi ende aktual sot, sidomos në kishat ku ruhet pjesa më e madhe e trashëgimisë artistike, me ndërtesa që i përkasin fillimeve të [[Shekulli XIX|shekullit XIX]] dhe arkitektura të tjera nga fundi i [[Shekulli XX|shekullit XX]]:
+
+* {{ill|Bazilika e Shën Maria dell'Elemosina|it|Chiesa di Santa Maria dell'Elemosina}},
+* Kisha e Shën Maria del Rosario,
+* Kisha e Anunciatës (Shën Maria Anunciata),
+* Kisha e Zojës Bekuar Mari e Hirave;
+* Kisha e Papërlyerës në Badìa (e mbyllur për kult),
+* Kisha e Shën Maria della Mercede,
+* Kisha e Shën Maria dell'Odigitria (Idria),
+* Kisha dhe konventi i Shën Françeskut nga Asizi,
+* Kisha e Shën Orsolës,
+* Kisha e Emrave Shumë të Shenjtë të Jezusit dhe Marisë,
+* Kisha e Shën Jozefit te Spasimo,
+* Kisha e Shën Antonit nga Padova;
+* Kisha e Shën Gaetanit,
+* Kisha dhe Manastiri i Shën Klarës,
+* Kisha e Krishtit Mbret, Zoti Ynë, në Casina,
+* Kisha e Zemrës së Shenjtë të Jezusit,
+* Kisha e Shpirtrave të Shenjtë (e Purgatorit),
+* Kisha e Shpëtimtarit Shumë të Shenjtë,
+* Kisha dhe Skiti i Shën Maria në Vallelato,
+* Kapela e Institutit të Marisë Ndihmëtare,
+* Kapela e Institutit të Shën Angela Mericit,
+* Kapela e Seminarit të Vogël Kryepeshkopal,
+* Kapela e Trinisë Shumë të Shenjtë në Croce al Vallone,
+* Kapela e Veprës "Cenacolo di Cristo Re".
+
+=== Arkitektura civile ===
+
+==== Vilat ====
+Vila delle Favare, rezidencë fisnike e [[Shekulli XVIII|shekullit XVIII]], e vendosur në kufi të qendrës historike, në lagjen "Casina", që i përkiste [[Markezi|markezit]] Ugo delle Favare. Pas viteve të braktisjes, në vitin 2008 u ble nga Bashkia e Biancavillas, u restaurua dhe u rihap për publikun. Sot është selia e Bibliotekës komunale dhe e Gal Etna; pret ekspozita, ekspozime dhe aktivitete të organizuara nga shoqata të territorit.
+
+==== Pallatet ====
+
+* '''Pallati Bruno''', ndërtesë elegante [[Shekulli XIX|e shekullit XIX]] në rrugën Vittorio Emanuele, shtëpia ku lindi poeti Antonio Bruno.
+* '''Pallati Portale-Cantarella''', nga fundi i shekullit XIX deri në fillim të shekullit XX, sheshi Roma. Në pjesën e pasme të pallatit gjendet një '''kopsht botanik,''' krijuar që nga viti 1825 nga natyralisti dhe njohësi i antikitetit Salvatore Portal, prej të cilit rrjedh emri i lagjes ''Supra l'Ortu,'' e vendosur në veri të sheshit Roma.
+* '''Pallati Salomone''', shekulli XVII, pas Kishës Matrice.
+* '''Pallati Ciraolo''', shekulli XVIII, rruga Vittorio Emanuele.
+* '''Pallati Portale-Levi''', shekulli XVIII, mbi ish-Harkun Portale, sot rruga Preside Caruso.
+* '''Pallati Spampinato''', shekulli XIX, rruga Alcide De Gasperi.
+* '''Pallati Giuliano''', shekulli XIX, rruga Vittorio Emanuele.
+* '''Pallati Milone''', shekulli XIX, rruga Vittorio Emanuele.
+* '''Pallati Portale-Ciraulo''', shekulli XVIII, rruga Vittorio Emanuele.
+* '''Pallati Uccellatore''', shekulli XVIII–XIX, rruga Mongibello.
+* '''Pallati Spina''', shekulli XIX, rruga Vittorio Emanuele.
+* '''Pallati Sciacca''', shekulli XIX, rruga Vittorio Emanuele.
+* '''Pallati Scaramelli''', shekulli XIX, sheshi Collegiata.
+* '''Pallati Raspagliesi''', shekulli XIX, rruga Vittorio Emanuele. Ka ruajtur simulakrin e Zojës së Hidhëruar deri në vitin 1859.
+
+==== Mullinjtë me ujë dhe ujësjellësit ====
+Në pjesën e poshtme të vendbanimit të Biancavillas gjenden rrënojat e pesë {{ill|mullinjve të lashtë me ujë|it|Mulino ad acqua|lt=mullinjve të lashtë me ujë}}<ref>Enzo Meccia - I mulini ad acqua di Biancavilla - Biancavilla Notizie nº31, gusht 1991 - qasur më 5 tetor 2010.</ref><ref>{{Cite web|url=https://www.youtube.com/watch?v=mZszNnAokOM|title=Biancavilla: la via dei mulini. Documentario VideoStar - 19 gennaio 2022.|language=it}}</ref>, me ujësjellësit përkatës (në sicilianisht ''saje''). Disa prej tyre përdoren edhe sot për transportin e ujit që vjen nga burimet Cartalemmi dhe Fontana Vecchia.
+
+Mullinjtë u ndërtuan që nga shekulli XVI me vullnetin e Antonio Moncadës, kont i Adernò-s dhe princ i Paternò-s, nip i Giovanni Tommaso Moncada-s, ai që lejoi vendosjen e refugjatëve shqiptarë që themeluan Biancavillën.<ref name="FOOTNOTECammilleri433" />
+
+Përdoreshin për të bluar [[Gruri|grurë]] dhe bishtajore, veçanërisht qiqra, bathë e thjerrëza.
+
+Duke nisur nga ai në lartësinë më të madhe, dhe duke ecur nga veriu në jug, mullinjtë janë si më poshtë:
+
+* '''mulliri i Rollos''': ende e paprekur mbetet pjesa e lidhur me ujësjellësin dhe një pjesë e dhomës së mokrës; edhe sot përshkohet nga uji. Struktura është kryesisht e rrethuar nga banesa private.
+* '''mulliri i Fontana Vecchia''': i vendosur në lagjen homonime, në të kaluarën zonë industriale me disa punishte për përpunimin e materialeve të ndryshme (pambuk, li, lëkurë, etj.), siç dëshmon oxhaku i vetëm i mbetur në qytet. Nga mulliri ekziston ende rrënoja e dhomës së mokrës, ndërsa nuk janë më të dukshme pjesë të tjera si hinka apo ura e lidhjes së fuçisë. Në lartësinë e mullirit të Fontana Vecchia derdheshin edhe ujërat që vinin nga burimi Fontana Vecchia, ose ''uji i katër kanaleve'', duke arritur një sasi të përgjithshme prej 18 l/s. Lagjja e vendosur mbi Fontana Vecchia, e quajtur ''Sajola'', e merr emrin pikërisht nga rrjedha e ujit që kalon aty.
+* '''mulliri i Spasimo:''' i vendosur në zonën e sotme të rrugës Scirfi, e merrte emrin nga kishëza e Zojës së Spasimo, e mbyllur për kult në vitin 1911, prej së cilës sot mbeten vetëm disa gjurmë. Mulliri është shkatërruar plotësisht; në zonën ku ndodhej sot gjendet një banesë private.
+* '''mulliri i Mezzos:''' pak më poshtë mullirit të Spasimo gjendet ai i Mezzos, ende sot mirë i ruajtur.
+* '''mulliri Ultimo, ose i ''Ciappes'''''<nowiki/>'':'' i vetmi nga pesë mullinjtë në pronësi të Bashkisë së Biancavillas, ruan ende sot ujësjellësin të paprekur, që lejon kalimin e ujit.
+== Shoqëria ==
+
+=== Evolucioni demografik ===
+Demografia ISTAT e qytetit deri në vitin 2011:
+
+=== Etnitë dhe minoritetet e huaja ===
+Sipas të dhënave ISTAT të datës 1 janar 2021<ref>{{Cite web|url=https://www.tuttitalia.it/sicilia/86-biancavilla/statistiche/cittadini-stranieri-2021/|title=Dati ISTAT 2021 - Cittadini stranieri a Biancavilla|language=it}}</ref>, banorët e Biancavillës me origjinë nga vende të tjera janë 503, çka përfaqëson 2,2% të popullsisë banuese.
+
+Pesë komunitetet e para rezultuan të jenë ato me origjinë nga:
+
+* {{ROU}} (gjithsej 257, 51,09%)
+* {{ALB}} (gjithsej 106, 21,07%)
+* {{Flag|Morocco}} (gjithsej 65, 12,92%)
+* {{Flag|Tunisia}} (gjithsej 18, 3,58%)
+* {{Flag|China}} (gjithsej 12, 2,39%)
+
+[[Myslimanët|Bashkësia myslimane]], mirë e integruar në territor, disponon një vend të veçantë kulti. Në vitin 2020, në fakt, u përurua një [[Xhamia|xhami]], e kushtuar Merjemes, si homazh ndaj kultit biancavillez për Zojën e Lëmoshës, gjithashtu me qëllim nisjen e një dialogu ndërkulturor dhe ndërfetar<ref>{{Cite web|url=https://www.biancavillaoggi.it/2020/09/19/aperta-una-moschea-a-biancavilla-base-per-un-dialogo-interreligioso-e-culturale/|title=Aperta una moschea a Biancavilla: base per un dialogo interreligioso e culturale. Biancavilla Oggi, 2020.|language=it}}</ref>.
+
+== Traditat dhe folklori ==
+
+=== Pashkët ===
+Festimet hapen me {{ill|Procesioni|it|Processione|lt=procesionin}} e mëngjesit të së Dielës së Palmave. Në orën 19:00, nëpër rrugët e qendrës historike, përfaqësohet {{ill|Via Crucis|it|Via Crucis}} e gjallë, e kuruar nga familja françeskane e qytetit, e cila përfundon me përfaqësimin e Ringjalljes.
+
+{{ill|E Enjtja e Madhe|it|Giovedì santo}}, pas [[Mesha|koncelebrimit eukaristik]] ''"in coena Domini"'', mbahet procesioni ''I Cruciddi'', domethënë vizita te varret e kishave të qytetit, i cili përfundon natën.
+
+E Premtja e Madhe, në orën 6:00 të mëngjesit, nga Kisha e Purgatorit niset procesioni i gjatë i statujës prej [[Dylli|dylli]] të [[Shekulli XVIII|shekullit XVIII]] të Zonjës së Hidhëruar, e cila, gjatë rrugës, ndalon në të gjitha kishat e qendrës urbane, në shtëpinë e pleqve dhe në [[Spitali|spitalin]] e Biancavillës. Procesioni përfundon në orën 13:00, kur brenda Kishës Amë, Nëna e Hidhëruar gjen [[Jezusi|Birin e vdekur]]. Statuja e lashtë e shekullit XVIII e Krishtit të vdekur, e pajisur me gjymtyrë të lëvizshme dhe e vendosur fillimisht mbi një kryq, në mbrëmjen e vonë, në përfundim të Aktit solemn liturgjik të Pasionit në Kishën Amë, hiqet nga kryqi dhe vendoset në një urnë, gjatë ritit të lashtë të quajtur pikërisht "a scisa da cruci" ("zbritja nga kryqi"). Në muzg niset procesioni i '''"Tri Misteret"''''' (që nga viti 2008 i përfshirë në Regjistrin e Trashëgimive Jomateriale të Rajonit të Sicilisë, themeluar nën patronazhin e UNESCO-s); emri iu dha në fillim të [[Shekulli XVIII|shekullit XVIII]], kur statujat që merrnin pjesë ishin vetëm tre (Krishti në Shtyllë, Ecce Homo dhe Krishti i vdekur), të shoqëruara nga vëllazëritë më të vjetra (ajo e Rruzares, e Anunciatës dhe e Shën Sakramentit). Në shekujt në vijim u bënë shtatë dhe, në fund, tetë (që nga viti 2010). Të tetë ''fercolët'' mbahen mbi shpatulla nga anëtarët e vëllazërive të qytetit dhe dalin një nga një nga [[Kisha|kishat]] ku ruhen gjatë gjithë vitit.
+
+E Shtuna e Madhe, gjatë vigjiljes pashkore në Kishën Amë, në të rënë të mesnatës dhe në këndimin e "Gloria"-s, statuja e Krishtit të ringjallur bën hyrjen e tij solemne në navën kryesore të bazilikës, duke kaluar nëpër portën qendrore. Njëkohësisht, në kishën e Anunciatës zhvillohet riti i lashtë i "Cascata da tila" (rënia e pëlhurës): pëlhura e madhe me simbolet e Pasionit, që fsheh apsidën qendrore të kishës gjatë Javës së Madhe, hidhet për tokë, duke zbuluar mbi altarin kryesor statujën e Të Ringjallurit.
+
+Të Dielën e Pashkëve, ritet e jashtme të Javës së Madhe përfundojnë me procesionin për të ashtuquajturin "xhiro i shenjtorëve" të statujave të Krishtit të ringjallur (protagonist i hyrjes në Kishën Amë natën paraardhëse dhe i mbajtur mbi shpatulla nga anëtarët e vëllazërisë së Shën Sakramentit), të Zojës dhe të Kryeengjëllit Gabriel (që dalin nga kisha e Anunciatës dhe mbahen mbi shpatulla nga anëtarët e vëllazërisë homonime): dy herë gjatë rrugës, në sheshet Collegiata dhe Annunziata, statujat e Krishtit dhe të Zojës afrohen njëra me tjetrën deri sa preken lehtë, duke simuluar një "puthje" që shënon momentin kulmor të procesionit, të quajtur "''A paci''" (Paqja). Statuja e Engjëllit del e para herët në mëngjes nga kisha e Anunciatës, e shoqëruar nga marshet e bandës, dhe niset drejt {{ill|Kisha e Shën Marisë së Lëmoshës|it|Chiesa di Santa Maria dell'Elemosina|lt=Matricës}}, brenda së cilës ruhet statuja e Të Ringjallurit. Statuja e Engjëllit, e stolisur me [[Bathët|bathë]] (''faviani''), frut tipik pranveror, mbahet në procesion me ecjen tradicionale (e ashtuquajtura "ballata") dhe paraprihet nga vëllazëritë e Sakramentit dhe të Anunciatës, me flamujt përkatës në krye. Pasi arrin te Matrica për herë të parë, Engjëlli kthehet në kishën e Anunciatës, ku takon statujën e Zojës. Të dyja statujat kthehen pastaj përpara Kishës Amë, ku i pret statuja e Krishtit të ringjallur, e cila mbahet në sheshin përpara kishës, në sheshin Collegiata. Pikërisht përpara [[Kisha|kishës]] ndodh takimi me Nënën<ref name="FOOTNOTECammilleri433" />. Procesioni vazhdon për xhiron e shenjtorëve.
+=== Gastronomike ===
+Traditat gastronomike përcjellin përgatitjen e konservave, si ullinjtë, kaperët dhe angjinaret e ruajtura në vaj dhe në [[Uthulla|uthull]], të përgatitura për festat e Pashkëve. Tradita qëndron gjithashtu në përdorimin e ''buttigghi'', një salcë domatesh e përgatitur midis gushtit dhe shtatorit, e bërë në shtëpi, në prodhimin e së cilës marrin pjesë të gjithë anëtarët e familjes<ref name="TP">[http://www.siciliaefolklore.com/ Sicilia e Folclore - ''Tradizioni popolari dell'Isola'' -] {{Webarchive|url=https://web.archive.org/web/20100904231247/http://www.siciliaefolklore.com/|date=4 shtator 2010}} Lidhja e konsultuar më 10 shtator 2010</ref>. E hëna e Pashkëve shënon fundin e festave më të vogla dhe festohet me ''manciata'', një drekë madhështore mes miqsh dhe të afërmish, me pjata të para të dyfishta, pjata të dyta të trefishta me bazë [[Mishi|mishi]] dhe [[Ëmbëlsira (pjatë)|ëmbëlsirat]].
+
+Miellrat e prodhuara nga bishtajoret përdoreshin në vend të atyre që rridhnin nga gruri, veçanërisht gjatë periudhave të urisë, për të gatuar ''frascatuli''-n, një lloj palente siciliane<ref name="FOOTNOTECammilleri433" />.
+
+=== Shën Jozefi ===
+Të shumta janë ritet dhe traditat e lidhura me devocionin ndaj {{ill|Shën Jozefi|it|San Giuseppe}}, shumë prej të cilave janë zhdukur deri më sot<ref>{{Cite web|url=https://www.biancavillaoggi.it/2021/03/19/san-giuseppe-a-biancavilla-tra-riti-memorie-e-tradizioni-popolari/|title="San Giuseppe a Biancavilla tra riti, memorie e tradizioni popolari". Biancavilla Oggi. 2021.|language=it}}</ref>.
+
+Më 19 mars, një traditë e praktikuar edhe sot është ajo e ofrimit të orizit (të përgatitur me [[Qiqra|qiqra]] dhe [[Maraja|maraja]] të egra) familjeve të lagjes.
+
+Në kishën e Shën Jozefit, në Kishën Amë dhe pranë Bashkimit të Punëtorëve (''Unione Operai'', shoqatë e themeluar në vitin 1880), ende sot shpërndahet buka e bekuar nga prifti (''pani di San'Gnuseppi'')<ref>{{Cite web|url=https://www.youtube.com/watch?v=j3CS6EGPsq0|title=Biancavilla: benedizione e distribuzione del pane di San Giuseppe al circolo Unione Operai. Video Star. 2022.|language=it}}</ref>.
+
+Në të kaluarën, më 16 maj, zhvillohej një festë në nder të Shën Jozefit, e cila përfshinte procesionin e statujave të Shenjtës Familje (''giru de' santi'') dhe një panair. Statujat stoliseshin me tufa bathësh, kallinj gruri dhe trëndafila. Besimtarët, si ex voto (dhurata falenderimi), ofronin bukë, makarona, oriz, bathë ose bishtajore të tjera, qirinj dhe lule. Në fund të festës parashikohej ''shtylla e majme'' (''a 'ntinna'').
+
+Tradita të tjera të lidhura me Shën Jozefin, tashmë të zhdukura:
+
+* ''vastunedda di San'Gnuseppi'': me rastin e hapave të para të një fëmije, ishte zakon të përgatitej një kulaç në formë shkopi, për nëntë ditë rresht, për t'ia ofruar mysafirit të parë që bënte vizitë atë ditë, të cilit i kërkohej më pas të recitonte një lutje, si dëshirë për fëmijën që të mund të fillonte sa më shpejt të ecte.
+* ''i virgineddi'': më 19 mars ose më 16 maj, ftoheshin për drekë vajza të reja (zakonisht në numër dymbëdhjetë), duke u ofruar atyre shumë pjata (deri në trembëdhjetë), për të shlyer premtimet e bëra Shën Jozefit, mbrojtësit të grave të pamartuara.
+
+=== Shën Martini ===
+
+Ditën e Shën Martinit hapet [[Vera (pije alkoolike)|Vera e Re]], e prodhuar nga vjeljet e rrushit të vitit në vreshtat e lagjeve në veri të qytetit. Vera vendase (''vinu de vigni'') prodhohet ende në shtrydhëset tradicionale shekullore (''palmenti''), dhe ka një përmbajtje alkooli të moderuar. Vjen nga [[Kultivari|kultivarë]] me prejardhje të lashtë, ka ngjyrë të kuqe të errët dhe rozë, është e dendur dhe e trashë me aroma të buta, jo të thartuara. Piqet ende në fuçi lisi të [[Shekulli XVI|shekullit XVI]]<ref name="TP" />.
+Shijimi i parë i verës bëhet në kupa balte të pjekur (terrakotë), të shoqëruar me biskota të thata (''ad esse'').
+[[File:Salmaj.jpg|thumb|upright=0.3|''Zumarja'' për novenat]]
+
+=== Zjarret ===
+Deri në vitet '30 të [[Shekulli XX|shekullit XX]], praktikoheshin ende zjarre (''falò'') për Shën Antonin dhe Shën Vlashin.<ref name="PB">Placido Bucolo, ''Storia di Biancavilla'', Gutenberg, 1953. Konsultuar më 1 shtator 2010.</ref>
+
+=== Novenat dhe ''cone''-t ===
+Në nëntë ditët që i paraprijnë [[Krishtlindja|Krishtlindjes]], shumë e përhapur në Biancavilla është tradita e novenave të Krishtlindjes, e praktikuar ende sot, edhe pse në forma të ndryshme dhe në masë më të vogël se në të kaluarën.
+
+Këngët tradicionale, në dialektin sicilian, rimarrin ato klasike të traditës së Krishtlindjeve. Në të kaluarën shoqëroheshin nga instrumentistë të gajdes dhe [[Zumarja|zumares]], [[Trumbeta|trumbetave]], [[Flauti|flautëve]], marranzanos (''gojëzës'') dhe instrumenteve të perkusionit; prej disa vitesh mbahen nga anëtarë të bandës së qytetit. Zakonisht këndohen përpara grazhdeve ose altarëve të vegjël, këta të fundit të zbukuruar me kurora lulesh dhe frutash (''cone''). Për ngritjen e altarit të vogël (''tareddu'') përdoren portokalle, mandarina, [[Fiku i detit|fiq deti]], fruta të thata, gjembaç (''pungitopo''), [[Dafina (bimë)|dafinë]], mersinë dhe shumë gjëra të tjera. Në të kaluarën shpesh shoqëroheshin me oferta devocionale.<ref name="TP" /><ref>{{Cite web|url=https://catania.italiani.it/novena-di-natale/?cn-reloaded=1|title=La novena di Natale|language=it}}</ref>
+
+'''Grupet fetare dhe vëllazëritë'''
+* Urdhri Françeskan Laik
+* Rinia Françeskane
+* Urdhri i Vëllezërve Minorë
+* Urdhri i Motrave Klarisse
+* Bijat e Maria Ndihmëtare
+* Shoqata "Ish-nxënëset"
+* Arkivëllazëria "Sakramenti Shenjtëror"
+* Arkivëllazëria e Rruzares së Shenjtë
+* Arkivëllazëria e të Bardhëve
+* Shoqata "Maria e Shenjtë e Lëmoshës"
+* Rrethi "Shën Placidi"
+* Vëllazëria e Shën Jozefit
+* Vëllazëria e Shën Antonit
+* Vëllazëria e Mëshirës
+* Vëllazëria e Nunciatës
+* Shoqata "Zoja e Bekuar e Malit Karmel"
+* Shoqata "Shën Pashkali Bajloni"
+* Vëllazëria e Shën Marisë së Idrias
+== Kultura ==
+
+=== Arkitektura ===
+Arkitekti milanez {{ill|Carlo Sada|it|Carlo Sada}}, autor i shumë projekteve në kryeqytetin e zonës së Etnës, projektoi për {{ill|Bazilika Kolegjiale e Shën Marisë së Lëmoshës|it|Chiesa di Santa Maria dell'Elemosina}} si kambanoren (më të lartën në provincën e Katanias), ashtu edhe fasadën; të tijat janë gjithashtu fasadat e Kishës së Shën Marisë së Kumtimit dhe të {{ill|Kishës së Shën Marisë së Rruzares|it|Chiesa di Santa Maria del Rosario (Biancavilla)}}<ref>{{Cite web|url=https://www.yvii24.it/carlo-sada-larchitetto-milanese-che-amo-la-sicilia/|title=Carlo Sada, l'architetto milanese che amò la Sicilia.|language=it}}</ref>.
+
+=== Arti ===
+
+Një ikonë bizantine e Zojës së Lëmoshës (ose e Përdëllimit), për të cilën tradita e pandërprerë thotë se u soll nga refugjatët arbëreshë, njihet si "e Shën Lukës" dhe ka fytyrën me ngjyrë të murrme, së bashku me një relikiar argjendi të shën Zenonit, një kryq prej druri dhe një kambanë<ref name="FOOTNOTECammilleri433" />.
+
+Abside e kishës së Shën Marisë së Lëmoshës, kryesorja e komunës, ka afreske interesante historike-fetare nga fundi i shekullit XIX mbi ngjarjen e themelimit nga të mërguarit arbëreshë që ndërtuan qendrën.
+
+Disa struktura fetare strehojnë afreske të piktorit Giuseppe Tamo da Brescia.
+
+=== Teatri ===
+
+Në [[Shekulli XVII|shekullin XVII]], nën nxitjen e disa akademive teatrale (mbi të gjitha ''La Fenice e i Rinnovati'' dhe ''Audaci''), lindi ideja për të vënë në skenë veprat e tyre përmes përfaqësimit teatral dhe ndërtimit të një teatri, Teatri "La Fenice". I vendosur anash Kishës Matrice, është një ndërtesë e shekullit XVII me hyrje kryesore të gjera, e restauruar në fund të [[Shekulli XX|shekullit XX]]. Aty zhvillohet pjesa më e madhe e manifestimeve kulturore dhe përfaqësimeve teatrale të qytetit.
+
+U përfaqësuan komedi të autorëve akademikë siçilianë, të katanezit Squillaci, të sirakuzanit Arezzo dhe të palermitanit Pandolfo, si dhe të Belando-s (i quajtur "Cataldo Siculo"). Vepra të tjera të komediografëve Maiorana, Cavanna dhe Errico, të përmendura te ''La Babilonia distrutta'', ''L'Occhiale appannato'', ''Le Rivolte di Parnaso'', ''Le Guerre di Parnaso'', [[Tragjedia|tragjedia]] ''Notte di Palermo'' dhe melodrama ''La Dalila''. Teatri u dëmtua me kalimin e viteve: në fakt, për shkak të mungesës së kujdesit dhe të restaurimeve të munguara, u braktis që nga mesi i shekullit XX dhe rifitoi shkëlqimin e dikurshëm vetëm në fillim të mijëvjeçarit të ri, me një restaurim të plotë nga administrata publike.
+
+=== Muzika ===
+
+==== Banda muzikore ====
+Trupa e parë bandistike biancavilleze lindi rreth vitit 1862. Deri në fund të shekullit u financua nga Komuna, e cila u kujdes të angazhonte mjeshtra të shquar që vinin nga pjesë të ndryshme të rajonit e edhe më larg. Që nga fillimi i viteve '900, disa organizata të njëpasnjëshme kanë drejtuar bandën muzikore të Biancavillës; ndër to përmendim shoqatën ''"Vincenzo Bellini"'', drejtuar nga mjeshtri don Giosuè Chisari, e cila veproi nga viti [[1986]] deri në 2003.
+
+Që nga viti 2010 e deri sot, banda muzikore e Biancavillës mban emërtimin Orkestra e Instrumenteve me Frymë ''"Arturo Toscanini"'' dhe drejtohet nga mjeshtri biancavillez Carmelo Galizia.
+
+==== Muzika xhaz ====
+Prej disa vitesh, Biancavilla strehon një klub të vogël xhazi ("Etna Jazz Club"), i cili ka parë të performojnë edhe artistë me famë ndërkombëtare<ref>{{Cite web|url=https://www.biancavillaoggi.it/2018/03/18/la-presenza-di-supnick-a-biancavilla-nella-serata-bis-alletna-jazz-club/|title=La presenza di Supnick a Biancavilla nella serata bis all'Etna jazz club.|language=it}}</ref>.
+
+=== Media ===
+
+==== Shtypi ====
+Mes gazetave të shtypit të shkruar përmenden: ''Biancavilla Notizie'', botuar në vitet '90 nga Komuna, ''Bloc Notes'' i Pro Loco-s së Adranos, ''Symmachia'' e shoqatës kulturore me të njëjtin emër.
+
+==== Informacioni online ====
+Që nga viti 2014 botohet gazeta ditore online ''Biancavilla Oggi''<ref>{{Cite web|url=https://www.biancavillaoggi.it|title=L'homepage del quotidiano online Biancavilla Oggi|language=it}}</ref>, e para gazetë në ''web'' krejtësisht e dedikuar këtij qyteti etnean.
+
+Në vitin 2016 lind gazeta online ''Yvii24.it - L'informazione ai piedi dell'Etna''.
+
+==== Radio ====
+Me kalimin e viteve, në Biancavilla kanë lindur emetues të ndryshëm radiofonikë si Top Etna Radio (FM 90.6), Radio K2 (FM 92.1), Radio Antenna1 (FM 95.4) dhe Radio Studio 88 (FM 87,5), me programacion që shtrihet gjatë gjithë 24 orëve, duke zënë fasha të ndryshme orare me muzikë, sport, argëtim dhe lajme.
+
+==== Televizioni ====
+Televizioni biancavillez ''Video Star'', themeluar në [[1986]], merret me kronikë, lajme dhe gjithçka tjetër që ka të bëjë me Biancavillën, në të gjitha aspektet e saj popullore dhe administrative.
+Më pas, në [[2013]], u themelua një emetues i ri televiziv, "YVII TV", i cili, falë një mbulimi rajonal, argëton publikun biancavillez e jo vetëm, falë edhe formateve të ndryshme të vetëprodhuara.
+=== Kuzhina ===
+Biancavilla ka prodhimin e vet të produkteve të pastiçerisë dhe gastronomisë<ref>Salvatore Farina, ''Dolcezze di Sicilia. Arte cultura storia tradizioni e ricette dei dolci e della pasticceria di Sicilia'', Lussografica, 2009. ISBN 88-8243-214-9</ref>; ndër to është ''Scumuni'', akulloreja tradicionale me [[Çokollata|çokollatë]] dhe ''zabaione''; ''granitat'' e prodhuara në mënyrë artizanale, biskota e mbuluar me çokollatë e quajtur ''bersagliere'', dhe produkte pastiçerie të pjekura në furrë si ''iris'' dhe kroasantë; ëmbëlsirat me [[Bajamet (fruti)|bajame]], të prodhuara me bajame dhe sheqer, pastiçeria mignon dhe çokollataria e prodhuar nga pastiçierët vendas, ''Cannoli siciliani'', me krem, gjizë dhe fruta të kristalizuara; tortat me krem, të garnitura me krem pastiçerie, ''arancinët'', picat e vogla dhe ''scacciata'', e bërë me djathë tuma, dhe ''mastazzoli'', ëmbëlsira siciliane të bëra me fiq inde të Etnës.
+
+=== Ngjarje ===
+
+==== Festat patronale ====
+
+* Në javën e parë të tetorit, Biancavilla feston Shenjtorët e saj Patronë. Një festë tjetër, për Zojën e Lëmoshës (devocionale), zhvillohet të dielën e fundit të gushtit.
+* Shën Placidi, Patron dhe Mbrojtës i Biancavillës që nga viti 1709, festohet më 5 dhe 6 tetor të çdo viti.
+* Zenoni, patroni i lashtë i Biancavillës, nderohet më 14 shkurt dhe më 2 tetor.<ref name="FOOTNOTECammilleri433" />
+* Shën Maria e Lëmoshës, titullare e Kishës Amë, Mbrojtëse dhe Mbretëreshë e Biancavillës që nga themelimi, festohet të dielën e fundit të gushtit dhe më 4 tetor.
+
+== Ekonomia ==
+
+Biancavilla është një qendër e madhe [[Bujqësia|bujqësore]] e [[Provinca e Katanias|provincës katanase]]. Të shtrira janë sidomos pyjet, për shkak të afërsisë me parkun etnean, por nuk mungojnë as kullotat e përhershme, si dhe ndërmarrjet artizanale që veprojnë në sektorët ushqimorë, siç është prodhimi dhe tregtimi i [[Bajamet (fruti)|bajameve]], [[Rrushi|rrushit]], agrumeve, [[Fiku i detit|fiqve të detit]]; ndërmarrje të veshjeve, të mobiljeve, të materialeve të ndërtimit dhe disa koncesionare automjetesh.
+
+=== Bujqësia ===
+
+[[File:Orange.JPG|thumb|Varieteti i portokalleve të kuqe ose Citrus x Sinensis, të prodhuara në territor]]
+Ekonomia bazohet kryesisht në [[Bujqësia|bujqësinë]]; në veçanti prodhohen fiq inde të Etnës (''ficurinnia''), sidomos ''fioroni'' të përftuar nga një lulëzim i dytë, deri në vitet shtatëdhjetë edhe bajame të ëmbla, ullinjtë me DOP-në Nocellara dell'Etna, [[Portokalli|portokallet]] e kuqe të çmuara, ''tarocco'' dhe produkte [[Pema (fryt)|pemësh]] dhe perimesh me cilësi të shquar. Shumë e mirë është prodhimi në territor i rrushit dhe [[Vera (pije alkoolike)|verërave]] të tryezës, si Etna Rosso i çmuar. Përpunimi i produkteve bëhet në ''palmentet'' dhe mullinjtë e vajit të ullirit të territorit, duke dhënë vaj ulliri cilësor.
+
+Është zhvilluar edhe [[Blegtoria|blegtoria]], sidomos ajo e [[Lopa|lopëve]], [[Delja|deleve]], [[Dhia|dhive]] dhe kuajve, për shkak të pranisë në territor të kullotave të gjera me forazh dhe sanë.
+
+=== Panairet dhe tregjet ===
+
+Në muajin prill mbahej një [[Panairi|panair]] bujqësor, ndërsa në muajin korrik mbahej një panair i [[Artizanati|artizanatit]] lokal {{Citim i duhur|me interes të gjerë [[Arti|artistik]] rajonal}}. Çdo të mërkurë në mëngjes zhvillohet [[Tregu|tregu]] javor lokal.
+
+=== Turizmi ===
+Plani tregtar-turistik vë në pah shumë qendra restorantesh në territor, qendra të përpunimit artizanal të gurit vullkanik, përpunimin e qeramikës dhe shitjen e larmishme të objekteve artistike.
+
+Që nga fillimet e [[Vitet 1990|viteve nëntëdhjetë]] aty është zhvilluar [[Turizmi|sektori i turizmit]], me pyllin e pishave, që shtrihet deri sa prek vendbanimin e Serra la Nave dhe Observatorin Astrofizik të Universitetit të Katanias (në lartësinë 1750 m) dhe shtigjet e mirëmbajtura nga Enti i Parkut të Etnës<ref name="PR" />. Janë të pranishëm disa hotele dhe [[Bed and breakfast|B&B]] të ndryshëm.
+
+== Infrastruktura dhe transporti ==
+
+=== Rrugët ===
+
+; Rrugët jashtëqytetëse
+
+Rrugët jashtëqytetëse lidhin Biancavillën me [[Katania|Katanian]] dhe komunat në këmbë të malit nëpërmjet SS 284, ndërsa territori në veriperëndim dhe [[Juglindja (gjeografi)|juglindje]] drejt komunave Adrano dhe Santa Maria di Licodia lidhet nga SP 220-II, në [[Veriu (gjeografi)|veri]] nga SP 80 drejt pyllit të pishave (në [[Gjuha siciliane|gjuhën siciliane]]: ò voscu) dhe stacionit turistik të anës jugore të [[Etna|Etnës]]. Në [[Jugu (gjeografi)|jug]], nga SP 44 drejt komunës së Centuripes (EN). Territori në fund të luginës, drejt lumit Simeto, lidhet nëpërmjet SS 121, në të djathtë drejt komunave Regalbuto, Troina (EN) dhe [[Nikozia|Nicosia]] (EN), dhe në të majtë drejt fshatrave Sferro dhe Schettino, si dhe qytetit Paternò. Ndërtimi më i fundit është Rrethrrotullimi Verior, që lidh shpejt Piazza Sgriccio me nyjen rrugore të SS 284.
+
+;
+; [[Udha|Rrugët urbane]]
+
+Rrugët urbane të Biancavillës janë të vendosura si shahisti, në pjesën e sipërme bulevardi Cristoforo Colombo (në gjuhën siciliane: circumvallazìoni), ndërsa në pjesën e poshtme rrugët Innessa, bulevardi Europa dhe rruga del Mietitore (në gjuhën siciliane: quarteri spartiviali) sigurojnë qarkullimin rrugor në perimetrin e komunës biancavilleze. Për më tepër, bulevardi Cristoforo Colombo dhe rruga Vittorio Emanuele, në juglindje, bashkohen në bulevardin Arti e Mestieri, duke u lidhur me SP 220-II, drejt komunës së Santa Maria di Licodias. Nga SS 284, nëpërmjet SP 80, arrihet në sheshin Roma, qendra e qytetit me Bazilikën e shkëlqyer Papnore të Shën Marisë së Lëmoshës, nëpërmjet rrugëve Marconi, Mongibello dhe San Giovanni Bosco. Rruga kryesore është rruga Vittorio Emanuele, e cila, nga juglindja në veriperëndim, fillon në bulevardin Arti e Mestieri, duke arritur deri te sheshi Sgriccio dhe duke u lidhur me bulevardin dei Fiori drejt komunës Adrano.
+=== Hekurudhat ===
+
+Biancavilla shërbehet nga trenat dhe linjat e autobusëve të {{ill|Hekurudha Circumetnea|it|Ferrovia Circumetnea|lt=Hekurudhës Circumetnea}} (F.C.E.), e cila që nga viti [[1898]] realizon lidhjen<ref name="FC">[http://www.circumetnea.it/ Ferrovia Circumetnea Catania, La storia dei treni,- F.C.E. '''''M'''''] - URL-ja u konsultua më 10 shtator 2010</ref> nga dhe për në [[Katania]] e drejt Randazzos dhe Ripostos. Shërbimi hekurudhor fillimisht kishte 2 stacione: {{ill|Stacioni i Biancavillës|it|Stazione di Biancavilla|lt=stacionin kryesor}}, të vendosur në zonën jugore, dhe një të dytë në rrugën Cristoforo Colombo. Në vitin 2015, me modernizimin e linjës Paternò-Adrano, numri i stacioneve u rrit në katër: {{ill|Stacioni i Biancavillës Poggio Rosso|it|Stazione di Biancavilla Poggio Rosso|lt=Poggio Rosso}}, {{ill|Stacioni i Biancavillës Centro|it|Stazione di Biancavilla Centro|lt=Centro}}, {{ill|Stacioni i Biancavillës Colombo|it|Stazione di Biancavilla Colombo|lt=Colombo}} dhe {{ill|Stacioni i Biancavillës Pozzillo|it|Stazione di Biancavilla Pozzillo|lt=Pozzillo}}. Përgjatë rrugës Cristoforo Colombo, në anën tjetër, gjenden ndalesat e shërbimit me autobus, me nisje çdo orë, në mëngjes dhe në mbrëmje. Linja hekurudhore, në dekadën e fundit, ka qenë objekt modernizimesh me futjen nëntokë të shinave në [[Tuneli|tunel]], në kuadër të zgjerimit të planifikuar të {{ill|Metroja e Katanisë|it|Metropolitana di Catania}} mes qytetit kryesor dhe qyteve të shpateve të malit<ref name="FC" />. Shërbimi kryhet nëpërmjet Drejtorisë së Ushtrimit, në rrugën Caronda në Katania, si dhe stacioneve të shumta lokale. Në pjesën e poshtme, territori kalohet nga linja e mbyllur e Hekurudhave Shtetërore Motta-Regalbuto, e cila kalon lumin Simeto, në kontradën "Ponte Barca di Biancavilla", nëpërmjet një ure të guximshme me harqe në kthesë {{Citim i duhur|ndërtuar në vitin 1904 me beton të armuar}}<ref name="FOOTNOTECammilleri433" />.
+
+== Administrata ==
+
+Më poshtë renditen kryetarët e bashkisë së Biancavillës që kanë qenë në detyrë:
+
+{| class="wikitable"
+! Nga !! Deri !! Emri !! Partia !! Titulli !! Shënime
+|-
+| 17 tetor 1945 || 17 prill 1946 || Antonio Sangiorgio || [[Democrazia Cristiana]] || Kryetar bashkie ||
+|-
+| 17 prill 1946 || 6 mars 1953 || Salvatore Uccellatore || [[Democrazia Cristiana]] || Kryetar bashkie || <ref>''Shënim'': u rizgjodh më 25 prill 1952 dhe vdiq më 6 mars 1953, i goditur natën nga një infarkt miokardi.</ref>
+|-
+| 20 mars 1953 || 25 prill 1956 || Giosuè Leocata || [[Democrazia Cristiana]] || Kryetar bashkie ||
+|-
+| 25 prill 1956 || 25 prill 1960 || Giuseppe Pace || {{ill|Partia Komuniste Italiane|it|Partito Comunista Italiano}} || Kryetar bashkie ||
+|-
+| 30 qershor 1960 || qershor 1964 || Placido Laudani || [[Democrazia Cristiana]] || Kryetar bashkie ||
+|-
+| 6 maj 1989 || 23 shkurt 1990 || Giuseppe Viaggio || [[Democrazia Cristiana]] || Kryetar bashkie || <ref name="interno">http://amministratori.interno.it/</ref>
+|-
+| 23 shkurt 1990 || 16 prill 1991 || Andrea Laudani || || Kryetar bashkie || <ref name="interno" />
+|-
+| 31 janar 1992 || 10 janar 1993 || Carmelo Nicolosi || [[Democrazia Cristiana]] || Kryetar bashkie || <ref name="interno" />
+|-
+| 4 shtator 1993 || 17 shkurt 1994 || Marcello Merlo || {{ill|Partia e Rithemelimit Komunist|it|Partito della Rifondazione Comunista}} || Kryetar bashkie || <ref name="interno" />
+|-
+| 4 dhjetor 1994 || 10 qershor 2003 || Pietro Manna || {{ill|Demokratët e Majtë|it|Democratici di Sinistra}} || Kryetar bashkie || <ref name="interno" /><ref>''Shënim'': E lë detyrën në vitin 2003 pas zgjedhjeve të rregullta, sipas http://www.comune.biancavilla.cte-egov.it - URL-ja u konsultua në dhjetor 2010.</ref>
+|-
+| 10 qershor 2003 || 15 qershor 2008 || Mario Cantarella || {{ill|Aleanca Kombëtare|it|Alleanza Nazionale}} || Kryetar bashkie || <ref>''Shënim'': E lë detyrën në vitin 2008 pas zgjedhjeve të rregullta, sipas http://www.comune.biancavilla.cte-egov.it - URL-ja u konsultua në dhjetor 2010.</ref>
+|-
+| 2 korrik 2008 || 11 qershor 2018 || Giuseppe Glorioso || [[Partia Demokratike e Italisë|Partia Demokratike]] || Kryetar bashkie || <ref name="interno" />
+|-
+| 13 qershor 2018 || ''në detyrë'' || Antonio Bonanno || [[Vëllezërit e Italisë]] || Kryetar bashkie || <ref name="interno" />
+|}
+
+=== Binjakëzimet ===
+Qyteti i Biancavillës është binjakëzuar kohët e fundit me:
+* Gap ([[Franca]]), që nga viti 2010.
+* Brescia ([[Italia]]), që nga viti 2008.
+
+== Sporti ==
+
+=== Futbolli ===
+
+''Accademia Sportiva Biancavilla'', e themeluar në vitin 1965, pasi luajti për shumë vite radhazi në kampionatet e {{ill|Kategoria e Dytë|it|Seconda Categoria}}, u ngrit në vitet '90 në {{ill|Kategoria e Parë|it|Prima Categoria|lt=Kategorinë e Parë}}, ku mbeti deri në zhdukjen e saj në vitin 2003.
+
+Skuadra e dytë e Biancavillës ishte ACS Scanderbeg, e themeluar në fillim të viteve '80, e cila, pasi luajti për disa vite në {{ill|Kategoria e Tretë|it|Terza Categoria|lt=Kategorinë e Tretë}}, u ngrit fillimisht në {{ill|Kategoria e Dytë|it|Seconda Categoria|lt=Kategorinë e Dytë}} dhe më pas u bë skuadra e parë e Biancavillës që arriti kampionatin e {{ill|Kategoria e Parë|it|Prima Categoria|lt=Kategorisë së Parë}}, duke i shpëtuar për pak ngritjes në {{ill|Eccellenza (futboll)|it|Eccellenza (calcio)|lt=Eccellenza}} në sezonin 1994-95, duke u klasifikuar e dyta pas Troinës. Klubi u shpërbë në fund të viteve '90.
+
+''A.S.D. Biancavilla'' ishte skuadra e parë biancavilliane që arriti fillimisht kampionatin e {{ill|Promozione (futboll)|it|Promozione (calcio)|lt=Promozionit}} në fund të sezonit 2006-2007, për të arritur më pas {{ill|Eccellenza (futboll)|it|Eccellenza (calcio)|lt=Eccellenzën}} në fund të sezonit 2007-08. Klubi, i themeluar në vitin 2005, kishte nisur nga {{ill|Kategoria e Tretë|it|Terza Categoria|lt=Kategoria e Tretë}} dhe luajti në kampionatin më të lartë rajonal për dy vite radhazi në nivele shumë të mira, para se skuadra, bashkë me gjithë drejtorinë e saj, të vendoste të transferohej në Adrano me emrin Biancadrano, e vitin pasardhës thjesht Adrano; së fundi, duke filluar nga sezoni 2012-2013, skuadra iu kalua një grupi sipërmarrësish nga Paternò.
+
+''A.S.D. Cometa Calcio Biancavilla 1990'' (pas ndryshimit të emrit dhe presidentit, e njohur si: A.S.D. Calcio Biancavilla 1990) luajti në kampionatin e {{ill|Promozione (futboll)|it|Promozione (calcio)|lt=Promozionit}}, duke u vendosur e para në kampionatin e sezonit 2015/2016 dhe duke arritur kështu në {{ill|Eccellenza (futboll)|it|Eccellenza (calcio)|lt=Eccellenzën}}. Në sezonin 2018-19 arriti të fitonte finalen kombëtare të plejofeve kundër Canicattì-t dhe kështu u ngrit në Serinë D. Në sezonin e tretë radhazi në Serinë D, 2021-22, ra sërish në Eccellenza, ku në sezonin 2022-23 hoqi dorë nga pjesëmarrja.
+Ka qenë e lidhur për pesë sezone me C.S.I.-në, ndërsa zyrtarisht që nga viti 1990 është e lidhur me F.I.G.C.-në.
+
+Aktualisht, e vetmja skuadër kryesore futbolli e mbetur në qytet është ''A.S.D. Atletico Biancavilla'', e cila luan në sezonin 2022-23 në {{ill|Kategoria e Parë|it|Prima Categoria|lt=Kategorinë e Parë}}.
+=== Sporte të tjera ===
+
+Atletika lehtë praktikohet gjerësisht, e cila me shoqata të ndryshme ka arritur nivele të jashtëzakonshme<ref name="FOOTNOTECammilleri433" /> me Marathon Club. Infrastruktura e vetme sportive komunale në dispozicion për futbollin, atletikën dhe tenisin është Stadiumi Komunal ''Orazio Raiti'', i ndërtuar në vitet '60 të shekullit të njëzetë.
+
+== Referime ==
+<references/>
+
+== Bibliografia ==
+* {{Cite book|last=Cammilleri|first=Rino|title=Tutti i giorni con Maria, calendario delle apparizioni|publisher=Edizioni Ares|location=Milano|year=2020|isbn=978-88-815-59-367|ref=Cammilleri|language=it}}
+
+== Shiko edhe ==
+* {{ill|Ignimbriti Biancavilla-Montalto|it|Ignimbrite di Biancavilla-Montalto}}
+* {{ill|Antonio Bruno|it|Antonio Bruno (poeta)}}
+* {{ill|Gerardo Sangiorgio|it}}
+* {{ill|Salvatore Portal|it}}
+* {{ill|Carlo Sada|it}}
+* {{ill|Kultura Castelluccio|it|Cultura di Castelluccio}}
+* {{ill|Gjergj Kastrioti Skënderbeu|it|Giorgio Castriota Scanderbeg}}
+
+== Projekte të tjera ==
+{{Sisterlinks|wikt=Biancavilla}}
+
+== Lidhje të jashtme ==
+* {{Cite web |url=http://www.provincia.catania.it/il_territorio/ambiente/pianificazione_territoriale/indice.aspx |title=Provincia di Catania - Sito Web Ufficiale |access-date=2010-09-03 |archive-date=2012-12-05 |archive-url=https://web.archive.org/web/20121205013348/http://www.provincia.catania.it/il_territorio/ambiente/pianificazione_territoriale/indice.aspx |url-status=dead |language=it}}
+* {{Cite web |url=http://www.siciliaefolklore.com/ |title=Sicilia e Folclore -''Tradizioni popolari dell'Isola'' - Co. Re. SI |access-date=2010-09-11 |archive-url=https://web.archive.org/web/20100904231247/http://www.siciliaefolklore.com/ |archive-date=2010-09-04 |url-status=dead |language=it}}
+* {{Cite web |url=http://www.etnanatura.it/percorsi/citta_Biancavilla.php |title=Etnanatura.it |access-date=2012-05-23 |archive-date=2012-12-27 |archive-url=https://web.archive.org/web/20121227053354/http://www.etnanatura.it/percorsi/citta_Biancavilla.php |url-status=dead |language=it}}
+* [http://www.prolocobiancavilla.it/ ''Pro Loco Biancavilla - faqja zyrtare''] {{Webarchive|url=https://web.archive.org/web/20210121225857/http://www.prolocobiancavilla.it/ |date=21 janar 2021 }}
+* {{Cite web|url=http://www.biancavillaoggi.it|title=Biancavilla Oggi|language=it}}
+*''[https://associazionetoscanini.jimdofree.com/ Associazione Musicale "A. Toscanini", Biancavilla] - faqja zyrtare''
+
+{{Authority control}}
+
+[[Kategoria:Biancavilla| ]]
