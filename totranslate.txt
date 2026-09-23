@@ -196,7 +196,7 @@ https://en.wikipedia.org/wiki/Islam	DONE
 https://en.wikipedia.org/wiki/Physics	DONE
 https://en.wikipedia.org/wiki/Biology	DONE
 https://en.wikipedia.org/wiki/United_States	CLAIMED	pop-os	2026-09-23T22:32:41.312133+03:00
-https://en.wikipedia.org/wiki/Michael_Jackson	CLAIMED	pop-os	2026-09-23T22:54:26.112570+03:00
+https://en.wikipedia.org/wiki/Michael_Jackson	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/Argentina	
 https://en.wikipedia.org/wiki/Iliad	DONE
 https://en.wikipedia.org/wiki/Homer	CLAIMED	pop-os	2026-09-01T21:33:08.944483+02:00
