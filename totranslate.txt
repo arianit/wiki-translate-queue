@@ -228,7 +228,7 @@ https://en.wikipedia.org/wiki/Franklin_D._Roosevelt	FAILED	claude-sonnet-5@claud
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Brazil	DONE	claude-sonnet-5@claude_code
 https://en.wikipedia.org/wiki/Artificial_intelligence	CLAIMED	pop-os	2026-10-03T19:20:56.739518+02:00
-https://en.wikipedia.org/wiki/Singapore	CLAIMED	pop-os	2026-10-03T19:50:43.960826+02:00
+https://en.wikipedia.org/wiki/Singapore	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/Russia	CLAIMED	pop-os	2026-10-03T17:02:34.637459+02:00
 https://en.wikipedia.org/wiki/France	CLAIMED	pop-os	2026-10-03T17:02:44.017821+02:00
 https://en.wikipedia.org/wiki/World_War_I	CLAIMED	pop-os	2026-10-03T17:12:11.522243+02:00
