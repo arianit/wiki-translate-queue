@@ -21,7 +21,7 @@ resolved.
 
 `wikitranslateautorun` symlinks its whole `output/` directory here
 (`ln -s .../wiki-translation-queue/output output`) so its existing code
-writes here with zero changes. `translation-harness` points its
+writes here with zero changes. `wiki-translation-harness` points its
 `output_dir` config setting here directly. `multimodeltranslationpipeline`
 and `wikipedia-articles-translation` each use a richer per-article
 directory structure locally (source/draft/QA-pass/metadata files, not just
@@ -101,7 +101,7 @@ already-chosen line rather than using `claim_next_pending`).
   its working directory. Has its own cost-based article ordering, so it
   claims a specific, already-chosen line via the low-level building blocks
   rather than `claim_next_pending`.
-- `translation-harness`'s `wiki-translation-harness queue` subcommand
+- `wiki-translation-harness`'s `wiki-translation-harness queue` subcommand
   (`wiki_translation_harness/queue_runner.py`) — drains the queue via
   `claim_next_pending`/`finish_line`, translating each article with the
   same `run_pipeline()` its manual `--title`/`--titles`/`--category` modes
