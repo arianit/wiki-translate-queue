@@ -204,7 +204,7 @@ https://en.wikipedia.org/wiki/Iliad	DONE
 https://en.wikipedia.org/wiki/Homer	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/World_War_II	DONE
 https://en.wikipedia.org/wiki/United_Kingdom	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
-https://en.wikipedia.org/wiki/India	
+https://en.wikipedia.org/wiki/India	CLAIMED	pop-os	2026-10-03T15:06:16.116329+02:00
 https://en.wikipedia.org/wiki/George_Washington	
 https://en.wikipedia.org/wiki/Spain	
 https://en.wikipedia.org/wiki/Australia	
