@@ -230,7 +230,7 @@ https://en.wikipedia.org/wiki/Brazil	DONE	claude-sonnet-5@claude_code
 https://en.wikipedia.org/wiki/Artificial_intelligence	CLAIMED	pop-os	2026-10-03T15:30:24.046450+02:00
 https://en.wikipedia.org/wiki/Singapore	CLAIMED	pop-os	2026-10-03T15:38:41.110743+02:00
 https://en.wikipedia.org/wiki/Russia	CLAIMED	pop-os	2026-10-03T17:02:34.637459+02:00
-https://en.wikipedia.org/wiki/France	
+https://en.wikipedia.org/wiki/France	CLAIMED	pop-os	2026-10-03T17:02:44.017821+02:00
 https://en.wikipedia.org/wiki/World_War_I	CLAIMED	pop-os	2026-08-30T18:58:18.025695+02:00
 https://en.wikipedia.org/wiki/Japan	
 https://en.wikipedia.org/wiki/Napoleon	
