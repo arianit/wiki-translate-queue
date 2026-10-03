@@ -232,7 +232,7 @@ https://en.wikipedia.org/wiki/Singapore	CLAIMED	pop-os	2026-10-03T15:38:41.11074
 https://en.wikipedia.org/wiki/Russia	CLAIMED	pop-os	2026-10-03T17:02:34.637459+02:00
 https://en.wikipedia.org/wiki/France	CLAIMED	pop-os	2026-10-03T17:02:44.017821+02:00
 https://en.wikipedia.org/wiki/World_War_I	CLAIMED	pop-os	2026-10-03T17:12:11.522243+02:00
-https://en.wikipedia.org/wiki/Japan	
+https://en.wikipedia.org/wiki/Japan	CLAIMED	pop-os	2026-10-03T17:12:16.173433+02:00
 https://en.wikipedia.org/wiki/Napoleon	
 https://en.wikipedia.org/wiki/Abraham_Lincoln	
 https://en.wikipedia.org/wiki/Iran	
