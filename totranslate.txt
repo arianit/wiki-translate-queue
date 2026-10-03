@@ -225,7 +225,7 @@ https://en.wikipedia.org/wiki/China	FAILED	claude-sonnet-5@claude_code
 https://en.wikipedia.org/wiki/New_York_City	FAILED	claude-sonnet-5@claude_code
 # reason: Could not read SKILL.md at ref 'HEAD' in /home/arianit/code/enwiki-sqwiki-translation-skills (path wikiterms/SKILL.md within the repo): git command failed (git -C /home/arianit/code/enwiki-sqwiki-tran
 https://en.wikipedia.org/wiki/Franklin_D._Roosevelt	CLAIMED	pop-os	2026-10-03T15:17:18.349434+02:00
-https://en.wikipedia.org/wiki/Brazil	CLAIMED	pop-os	2026-10-03T15:20:43.159356+02:00
+https://en.wikipedia.org/wiki/Brazil	DONE	claude-sonnet-5@claude_code
 https://en.wikipedia.org/wiki/Artificial_intelligence	
 https://en.wikipedia.org/wiki/Singapore	
 https://en.wikipedia.org/wiki/Russia	
