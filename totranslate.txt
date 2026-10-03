@@ -208,7 +208,8 @@ https://en.wikipedia.org/wiki/India	FAILED	claude-sonnet-5@claude_code
 # reason: Could not read SKILL.md at ref 'HEAD' in /home/arianit/code/enwiki-sqwiki-translation-skills (path wikiterms/SKILL.md within the repo): git command failed (git -C /home/arianit/code/enwiki-sqwiki-tran
 https://en.wikipedia.org/wiki/George_Washington	FAILED	claude-sonnet-5@claude_code
 # reason: Could not read SKILL.md at ref 'HEAD' in /home/arianit/code/enwiki-sqwiki-translation-skills (path wikiterms/SKILL.md within the repo): git command failed (git -C /home/arianit/code/enwiki-sqwiki-tran
-https://en.wikipedia.org/wiki/Spain	CLAIMED	pop-os	2026-10-03T15:06:30.210501+02:00
+https://en.wikipedia.org/wiki/Spain	FAILED	claude-sonnet-5@claude_code
+# reason: Could not read SKILL.md at ref 'HEAD' in /home/arianit/code/enwiki-sqwiki-translation-skills (path wikiterms/SKILL.md within the repo): git command failed (git -C /home/arianit/code/enwiki-sqwiki-tran
 https://en.wikipedia.org/wiki/Australia	
 https://en.wikipedia.org/wiki/Adolf_Hitler	
 https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo	
