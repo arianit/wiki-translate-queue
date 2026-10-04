@@ -239,7 +239,7 @@ https://en.wikipedia.org/wiki/Abraham_Lincoln	DONE
 https://en.wikipedia.org/wiki/Iran	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Israel	CLAIMED	pop-os	2026-10-04T14:55:23.855401+02:00
-https://en.wikipedia.org/wiki/Association_football	
+https://en.wikipedia.org/wiki/Association_football	CLAIMED	pop-os	2026-10-04T15:44:49.250757+02:00
 https://en.wikipedia.org/wiki/Albert_Einstein	
 https://en.wikipedia.org/wiki/Turkey	
 https://en.wikipedia.org/wiki/Alexander_the_Great	
