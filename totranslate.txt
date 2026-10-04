@@ -244,7 +244,8 @@ https://en.wikipedia.org/wiki/Albert_Einstein	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Turkey	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Alexander_the_Great	CLAIMED	pop-os	2026-10-04T23:03:51.070068+02:00
+https://en.wikipedia.org/wiki/Alexander_the_Great	FAILED	claude-sonnet-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Weather	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Portugal	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Netherlands	
