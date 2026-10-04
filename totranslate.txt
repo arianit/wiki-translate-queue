@@ -227,7 +227,8 @@ https://en.wikipedia.org/wiki/New_York_City	FAILED	claude-sonnet-5@claude_code
 https://en.wikipedia.org/wiki/Franklin_D._Roosevelt	FAILED	claude-sonnet-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Brazil	DONE	claude-sonnet-5@claude_code
-https://en.wikipedia.org/wiki/Artificial_intelligence	CLAIMED	pop-os	2026-10-04T00:01:17.350140+02:00
+https://en.wikipedia.org/wiki/Artificial_intelligence	FAILED	opencode-go/deepseek-v4.1-flash@opencode_go
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Singapore	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/Russia	CLAIMED	pop-os	2026-10-03T20:34:40.887201+02:00
 https://en.wikipedia.org/wiki/France	CLAIMED	pop-os	2026-10-03T17:02:44.017821+02:00
