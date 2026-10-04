@@ -238,7 +238,7 @@ https://en.wikipedia.org/wiki/Napoleon	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Abraham_Lincoln	DONE
 https://en.wikipedia.org/wiki/Iran	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Israel	CLAIMED	pop-os	2026-10-04T18:16:54.544473+02:00
+https://en.wikipedia.org/wiki/Israel	CLAIMED	pop-os	2026-10-04T21:46:56.887592+02:00
 https://en.wikipedia.org/wiki/Association_football	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Albert_Einstein	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
