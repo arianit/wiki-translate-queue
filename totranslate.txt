@@ -231,7 +231,7 @@ https://en.wikipedia.org/wiki/Artificial_intelligence	FAILED	opencode-go/deepsee
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Singapore	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/Russia	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
-https://en.wikipedia.org/wiki/France	CLAIMED	pop-os	2026-10-04T05:20:16.806681+02:00
+https://en.wikipedia.org/wiki/France	CLAIMED	pop-os	2026-10-04T08:31:52.779349+02:00
 https://en.wikipedia.org/wiki/World_War_I	CLAIMED	pop-os	2026-10-03T17:12:11.522243+02:00
 https://en.wikipedia.org/wiki/Japan	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/Napoleon	CLAIMED	pop-os	2026-10-03T17:16:46.757039+02:00
