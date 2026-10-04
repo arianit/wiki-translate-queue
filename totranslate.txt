@@ -236,7 +236,7 @@ https://en.wikipedia.org/wiki/World_War_I	DONE
 https://en.wikipedia.org/wiki/Japan	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/Napoleon	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Abraham_Lincoln	DONE
-https://en.wikipedia.org/wiki/Iran	
+https://en.wikipedia.org/wiki/Iran	CLAIMED	pop-os	2026-10-04T14:15:01.821665+02:00
 https://en.wikipedia.org/wiki/Israel	
 https://en.wikipedia.org/wiki/Association_football	
 https://en.wikipedia.org/wiki/Albert_Einstein	
