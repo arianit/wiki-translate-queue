@@ -54,7 +54,7 @@ https://en.wikipedia.org/wiki/Henry_Ford\tDONE	FAILED
 https://en.wikipedia.org/wiki/Galen\tDONE	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/David_Hilbert	DONE
-https://en.wikipedia.org/wiki/James_Prescott_Joule	FAILED
+https://en.wikipedia.org/wiki/James_Prescott_Joule	DONE
 # reason: translation engine rate limit exceeded (Claude Code weekly limit), fallback translation failed
 https://en.wikipedia.org/wiki/Johannes_Kepler	DONE
 https://en.wikipedia.org/wiki/Al-Khwarizmi	DONE
@@ -130,7 +130,7 @@ https://en.wikipedia.org/wiki/Logic	FAILED
 https://en.wikipedia.org/wiki/Materialism	FAILED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Reality	DONE
-https://en.wikipedia.org/wiki/Truth	FAILED
+https://en.wikipedia.org/wiki/Truth	DONE
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Monotheism	FAILED
 # reason: translation did not complete (see run.log for this article)
@@ -224,7 +224,7 @@ https://en.wikipedia.org/wiki/China	FAILED	claude-sonnet-5@claude_code
 # reason: Could not read SKILL.md at ref 'HEAD' in /home/arianit/code/enwiki-sqwiki-translation-skills (path wikiterms/SKILL.md within the repo): git command failed (git -C /home/arianit/code/enwiki-sqwiki-tran
 https://en.wikipedia.org/wiki/New_York_City	FAILED	claude-sonnet-5@claude_code
 # reason: Could not read SKILL.md at ref 'HEAD' in /home/arianit/code/enwiki-sqwiki-translation-skills (path wikiterms/SKILL.md within the repo): git command failed (git -C /home/arianit/code/enwiki-sqwiki-tran
-https://en.wikipedia.org/wiki/Franklin_D._Roosevelt	FAILED	claude-sonnet-5@claude_code
+https://en.wikipedia.org/wiki/Franklin_D._Roosevelt	DONE
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Brazil	DONE	claude-sonnet-5@claude_code
 https://en.wikipedia.org/wiki/Artificial_intelligence	DONE
@@ -234,8 +234,8 @@ https://en.wikipedia.org/wiki/Russia	DONE	opencode-go/deepseek-v4.1-flash@openco
 https://en.wikipedia.org/wiki/France	DONE
 https://en.wikipedia.org/wiki/World_War_I	DONE
 https://en.wikipedia.org/wiki/Japan	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
-https://en.wikipedia.org/wiki/Napoleon	CLAIMED	pop-os	2026-10-04T13:52:58.079604+02:00
-https://en.wikipedia.org/wiki/Abraham_Lincoln	CLAIMED	pop-os	2026-10-03T17:16:57.179149+02:00
+https://en.wikipedia.org/wiki/Napoleon	DONE	claude-sonnet-5-5@claude_code
+https://en.wikipedia.org/wiki/Abraham_Lincoln	DONE
 https://en.wikipedia.org/wiki/Iran	
 https://en.wikipedia.org/wiki/Israel	
 https://en.wikipedia.org/wiki/Association_football	
