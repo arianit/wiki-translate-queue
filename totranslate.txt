@@ -33,7 +33,7 @@ https://en.wikipedia.org/wiki/Winston_Churchill	FAILED
 https://en.wikipedia.org/wiki/Cyrus_the_Great	DONE
 https://en.wikipedia.org/wiki/Rosa_Luxemburg	FAILED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Nelson_Mandela	FAILED
+https://en.wikipedia.org/wiki/Nelson_Mandela	DONE
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Mao_Zedong	FAILED
 # reason: translation did not complete (see run.log for this article)
@@ -227,14 +227,14 @@ https://en.wikipedia.org/wiki/New_York_City	FAILED	claude-sonnet-5@claude_code
 https://en.wikipedia.org/wiki/Franklin_D._Roosevelt	FAILED	claude-sonnet-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Brazil	DONE	claude-sonnet-5@claude_code
-https://en.wikipedia.org/wiki/Artificial_intelligence	FAILED	opencode-go/deepseek-v4.1-flash@opencode_go
+https://en.wikipedia.org/wiki/Artificial_intelligence	DONE
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Singapore	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/Russia	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
-https://en.wikipedia.org/wiki/France	CLAIMED	pop-os	2026-10-04T13:51:39.132435+02:00
-https://en.wikipedia.org/wiki/World_War_I	CLAIMED	pop-os	2026-10-04T08:37:49.607032+02:00
+https://en.wikipedia.org/wiki/France	DONE
+https://en.wikipedia.org/wiki/World_War_I	DONE
 https://en.wikipedia.org/wiki/Japan	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
-https://en.wikipedia.org/wiki/Napoleon	CLAIMED	pop-os	2026-10-03T17:16:46.757039+02:00
+https://en.wikipedia.org/wiki/Napoleon	CLAIMED	pop-os	2026-10-04T13:52:58.079604+02:00
 https://en.wikipedia.org/wiki/Abraham_Lincoln	CLAIMED	pop-os	2026-10-03T17:16:57.179149+02:00
 https://en.wikipedia.org/wiki/Iran	
 https://en.wikipedia.org/wiki/Israel	
@@ -310,7 +310,7 @@ https://en.wikipedia.org/wiki/Karl_Marx	CLAIMED	pop-os	2026-09-01T21:41:20.13928
 https://en.wikipedia.org/wiki/Vladimir_Lenin	CLAIMED	pop-os	2026-09-01T21:41:24.331321+02:00
 https://en.wikipedia.org/wiki/Paris	CLAIMED	pop-os	2026-09-01T21:41:28.578561+02:00
 https://en.wikipedia.org/wiki/World_Wide_Web	CLAIMED	pop-os	2026-09-01T21:41:32.823279+02:00
-https://en.wikipedia.org/wiki/Holy_Roman_Empire	CLAIMED	pop-os	2026-09-01T21:41:37.294761+02:00
+https://en.wikipedia.org/wiki/Holy_Roman_Empire	DONE
 https://en.wikipedia.org/wiki/Byzantine_Empire	
 https://en.wikipedia.org/wiki/North_America	
 https://en.wikipedia.org/wiki/Human    DONE
