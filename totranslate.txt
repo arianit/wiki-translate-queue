@@ -242,7 +242,8 @@ https://en.wikipedia.org/wiki/Israel	CLAIMED	pop-os	2026-10-04T14:55:23.855401+0
 https://en.wikipedia.org/wiki/Association_football	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Albert_Einstein	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Turkey	CLAIMED	pop-os	2026-10-04T16:49:34.716661+02:00
+https://en.wikipedia.org/wiki/Turkey	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Alexander_the_Great	
 https://en.wikipedia.org/wiki/Weather	
 https://en.wikipedia.org/wiki/Portugal	
