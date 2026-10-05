@@ -258,7 +258,7 @@ https://en.wikipedia.org/wiki/Elizabeth_I	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Indonesia	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Vietnam_War	CLAIMED	pop-os	2026-10-05T18:10:44.233046+02:00
 https://en.wikipedia.org/wiki/Soviet_Union	CLAIMED	pop-os	2026-10-05T18:23:53.572756+02:00
-https://en.wikipedia.org/wiki/William_Shakespeare	
+https://en.wikipedia.org/wiki/William_Shakespeare	CLAIMED	pop-os	2026-10-05T18:28:14.160560+02:00
 https://en.wikipedia.org/wiki/Colombia	
 https://en.wikipedia.org/wiki/Joseph_Stalin	
 https://en.wikipedia.org/wiki/English_language	
