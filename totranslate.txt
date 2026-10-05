@@ -262,7 +262,7 @@ https://en.wikipedia.org/wiki/William_Shakespeare	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Colombia	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Joseph_Stalin	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/English_language	
+https://en.wikipedia.org/wiki/English_language	CLAIMED	pop-os	2026-10-05T19:22:49.547784+02:00
 https://en.wikipedia.org/wiki/Pakistan	
 https://en.wikipedia.org/wiki/Genghis_Khan	
 https://en.wikipedia.org/wiki/Philippines	
