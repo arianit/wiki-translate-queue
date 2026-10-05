@@ -263,7 +263,7 @@ https://en.wikipedia.org/wiki/Colombia	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Joseph_Stalin	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/English_language	DONE	gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Pakistan	CLAIMED	pop-os	2026-10-05T19:43:26.572793+02:00
+https://en.wikipedia.org/wiki/Pakistan	CLAIMED	pop-os	2026-10-05T23:06:35.563330+02:00
 https://en.wikipedia.org/wiki/Genghis_Khan	
 https://en.wikipedia.org/wiki/Philippines	
 https://en.wikipedia.org/wiki/Earth	DONE
