@@ -255,7 +255,7 @@ https://en.wikipedia.org/wiki/Mexico	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Switzerland	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Che_Guevara	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Elizabeth_I	DONE	claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Indonesia	
+https://en.wikipedia.org/wiki/Indonesia	CLAIMED	pop-os	2026-10-05T02:54:19.412418+02:00
 https://en.wikipedia.org/wiki/Vietnam_War	
 https://en.wikipedia.org/wiki/Soviet_Union	
 https://en.wikipedia.org/wiki/William_Shakespeare	
