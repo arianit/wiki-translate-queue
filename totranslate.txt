@@ -256,7 +256,8 @@ https://en.wikipedia.org/wiki/Switzerland	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Che_Guevara	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Elizabeth_I	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Indonesia	DONE	claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Vietnam_War	CLAIMED	pop-os	2026-10-06T01:18:15.249579+02:00
+https://en.wikipedia.org/wiki/Vietnam_War	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Soviet_Union	CLAIMED	pop-os	2026-10-05T22:20:21.133214+02:00
 https://en.wikipedia.org/wiki/William_Shakespeare	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Colombia	DONE	gpt-6-luna@codex
