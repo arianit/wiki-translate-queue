@@ -272,7 +272,7 @@ https://en.wikipedia.org/wiki/Philippines	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Earth	DONE
 https://en.wikipedia.org/wiki/Mercury_(planet)	DONE
-https://en.wikipedia.org/wiki/Venus	CLAIMED	pop-os	2026-10-06T06:03:35.031770+02:00
+https://en.wikipedia.org/wiki/Venus	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Mars	CLAIMED	pop-os	2026-09-02T20:27:46.839794+02:00
 https://en.wikipedia.org/wiki/Jupiter	DONE
 https://en.wikipedia.org/wiki/Saturn	CLAIMED	pop-os	2026-09-02T20:27:46.840445+02:00
