@@ -277,7 +277,8 @@ https://en.wikipedia.org/wiki/Mars	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Jupiter	DONE
 https://en.wikipedia.org/wiki/Saturn	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Uranus	CLAIMED	pop-os	2026-10-10T08:49:16.566568+02:00
+https://en.wikipedia.org/wiki/Uranus	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Neptune	DONE
 https://en.wikipedia.org/wiki/Cat
 https://en.wikipedia.org/wiki/South_Africa	
