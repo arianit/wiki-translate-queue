@@ -281,7 +281,7 @@ https://en.wikipedia.org/wiki/Uranus	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Neptune	DONE
 https://en.wikipedia.org/wiki/Cat	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/South_Africa	
+https://en.wikipedia.org/wiki/South_Africa	CLAIMED	pop-os	2026-10-10T11:18:42.204527+02:00
 https://en.wikipedia.org/wiki/Egypt	
 https://en.wikipedia.org/wiki/The_Holocaust	
 https://en.wikipedia.org/wiki/Italy	
