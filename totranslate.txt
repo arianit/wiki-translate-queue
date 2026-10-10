@@ -284,7 +284,7 @@ https://en.wikipedia.org/wiki/Cat	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5
 https://en.wikipedia.org/wiki/South_Africa	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Egypt	FAILED	gpt-6-luna@codex
 # reason: rate/spend limit (HTTP 429): You've hit your weekly limit · resets 10pm (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261010T113101Z-claude-sonnet-5-5-b1d3d01a.log)
-https://en.wikipedia.org/wiki/The_Holocaust	
+https://en.wikipedia.org/wiki/The_Holocaust	CLAIMED	pop-os	2026-10-11T00:34:32.165137+02:00
 https://en.wikipedia.org/wiki/Italy	
 https://en.wikipedia.org/wiki/American_Civil_War	
 https://en.wikipedia.org/wiki/Jesus	
