@@ -292,7 +292,7 @@ https://en.wikipedia.org/wiki/Jesus	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Saudi_Arabia	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/London	
+https://en.wikipedia.org/wiki/London	CLAIMED	pop-os	2026-10-12T01:40:23.637790+02:00
 https://en.wikipedia.org/wiki/Algeria	
 https://en.wikipedia.org/wiki/Hong_Kong	
 https://en.wikipedia.org/wiki/Periodic_table	CLAIMED	pop-os	2026-09-01T21:41:56.629054+02:00
