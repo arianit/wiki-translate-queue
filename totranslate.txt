@@ -290,7 +290,8 @@ https://en.wikipedia.org/wiki/Italy	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/American_Civil_War	DONE	claude-sonnet-5-5@claude_code	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Jesus	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Saudi_Arabia	CLAIMED	pop-os	2026-10-11T13:00:06.050065+02:00
+https://en.wikipedia.org/wiki/Saudi_Arabia	FAILED	claude-sonnet-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/London	
 https://en.wikipedia.org/wiki/Algeria	
 https://en.wikipedia.org/wiki/Hong_Kong	
