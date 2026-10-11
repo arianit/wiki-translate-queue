@@ -288,7 +288,7 @@ https://en.wikipedia.org/wiki/The_Holocaust	DONE	claude-sonnet-5-5@claude_code	r
 https://en.wikipedia.org/wiki/Italy	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/American_Civil_War	DONE	claude-sonnet-5-5@claude_code	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Jesus	
+https://en.wikipedia.org/wiki/Jesus	CLAIMED	pop-os	2026-10-11T12:49:25.014477+02:00
 https://en.wikipedia.org/wiki/Saudi_Arabia	
 https://en.wikipedia.org/wiki/London	
 https://en.wikipedia.org/wiki/Algeria	
