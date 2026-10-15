@@ -303,7 +303,8 @@ https://en.wikipedia.org/wiki/Periodic_table	FAILED	claude-sonnet-5-5@claude_cod
 https://en.wikipedia.org/wiki/Muhammad	FAILED	opencode-go/deepseek-v4.1-flash@opencode_go
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Poland	CLAIMED	pop-os	2026-10-15T20:39:31.107380+02:00	pop-os:1911735:7d58bb
-https://en.wikipedia.org/wiki/Mahatma_Gandhi	CLAIMED	pop-os	2026-10-15T22:09:59.461997+02:00	pop-os:2165604:12bd3b
+https://en.wikipedia.org/wiki/Mahatma_Gandhi	FAILED	claude-sonnet-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Bangladesh	
 https://en.wikipedia.org/wiki/Los_Angeles	
 https://en.wikipedia.org/wiki/Roman_Empire	
