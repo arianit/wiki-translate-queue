@@ -321,7 +321,8 @@ https://en.wikipedia.org/wiki/Ukraine	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Vietnam	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Sun	CLAIMED	pop-os	2026-10-15T22:48:17.303501+02:00	pop-os:2165604:12bd3b
+https://en.wikipedia.org/wiki/Sun	FAILED	claude-sonnet-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/South_Korea	
 https://en.wikipedia.org/wiki/Nazi_Germany	
 https://en.wikipedia.org/wiki/Joan_of_Arc	
