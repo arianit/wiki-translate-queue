@@ -300,7 +300,7 @@ https://en.wikipedia.org/wiki/Hong_Kong	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Periodic_table	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Muhammad	
+https://en.wikipedia.org/wiki/Muhammad	CLAIMED	pop-os	2026-10-15T19:10:12.754922+02:00	pop-os:1911735:7d58bb
 https://en.wikipedia.org/wiki/Poland	
 https://en.wikipedia.org/wiki/Mahatma_Gandhi	
 https://en.wikipedia.org/wiki/Bangladesh	
