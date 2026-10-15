@@ -307,7 +307,8 @@ https://en.wikipedia.org/wiki/Mahatma_Gandhi	FAILED	claude-sonnet-5-5@claude_cod
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Bangladesh	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Los_Angeles	CLAIMED	pop-os	2026-10-15T22:17:05.249779+02:00	pop-os:2165604:12bd3b
+https://en.wikipedia.org/wiki/Los_Angeles	FAILED	claude-sonnet-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Roman_Empire	
 https://en.wikipedia.org/wiki/Afghanistan	
 https://en.wikipedia.org/wiki/Julius_Caesar	CLAIMED	pop-os	2026-09-01T21:41:48.244765+02:00
