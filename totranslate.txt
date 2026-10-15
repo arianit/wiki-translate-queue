@@ -328,7 +328,7 @@ https://en.wikipedia.org/wiki/South_Korea	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Nazi_Germany	FAILED	opencode-go/deepseek-v4.1-flash@opencode_go
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Joan_of_Arc	CLAIMED	pop-os	2026-10-15T23:40:08.623670+02:00	pop-os:1911735:7d58bb
+https://en.wikipedia.org/wiki/Joan_of_Arc	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=opencode-go/deepseek-v4-pro@opencode_go
 https://en.wikipedia.org/wiki/Nikola_Tesla	
 https://en.wikipedia.org/wiki/Black_hole	
 https://en.wikipedia.org/wiki/Europe	
