@@ -317,7 +317,8 @@ https://en.wikipedia.org/wiki/Julius_Caesar	CLAIMED	pop-os	2026-09-01T21:41:48.2
 https://en.wikipedia.org/wiki/Charlie_Chaplin	CLAIMED	pop-os	2026-09-01T21:41:52.426383+02:00
 https://en.wikipedia.org/wiki/Washington,_D.C.	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Ukraine	CLAIMED	pop-os	2026-10-15T22:43:54.909946+02:00	pop-os:2165604:12bd3b
+https://en.wikipedia.org/wiki/Ukraine	FAILED	claude-sonnet-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Vietnam	
 https://en.wikipedia.org/wiki/Sun	
 https://en.wikipedia.org/wiki/South_Korea	
