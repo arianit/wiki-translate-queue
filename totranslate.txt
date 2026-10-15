@@ -298,7 +298,7 @@ https://en.wikipedia.org/wiki/Algeria	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Hong_Kong	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Periodic_table	CLAIMED	pop-os	2026-09-01T21:41:56.629054+02:00
+https://en.wikipedia.org/wiki/Periodic_table	CLAIMED	pop-os	2026-10-15T18:20:31.731324+02:00
 https://en.wikipedia.org/wiki/Muhammad	
 https://en.wikipedia.org/wiki/Poland	
 https://en.wikipedia.org/wiki/Mahatma_Gandhi	
