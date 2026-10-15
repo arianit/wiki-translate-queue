@@ -305,7 +305,8 @@ https://en.wikipedia.org/wiki/Muhammad	FAILED	opencode-go/deepseek-v4.1-flash@op
 https://en.wikipedia.org/wiki/Poland	CLAIMED	pop-os	2026-10-15T20:39:31.107380+02:00	pop-os:1911735:7d58bb
 https://en.wikipedia.org/wiki/Mahatma_Gandhi	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Bangladesh	CLAIMED	pop-os	2026-10-15T22:12:53.366557+02:00	pop-os:2165604:12bd3b
+https://en.wikipedia.org/wiki/Bangladesh	FAILED	claude-sonnet-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Los_Angeles	
 https://en.wikipedia.org/wiki/Roman_Empire	
 https://en.wikipedia.org/wiki/Afghanistan	
