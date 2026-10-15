@@ -319,7 +319,8 @@ https://en.wikipedia.org/wiki/Washington,_D.C.	FAILED	claude-sonnet-5-5@claude_c
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Ukraine	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Vietnam	CLAIMED	pop-os	2026-10-15T22:46:26.457196+02:00	pop-os:2165604:12bd3b
+https://en.wikipedia.org/wiki/Vietnam	FAILED	claude-sonnet-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Sun	
 https://en.wikipedia.org/wiki/South_Korea	
 https://en.wikipedia.org/wiki/Nazi_Germany	
