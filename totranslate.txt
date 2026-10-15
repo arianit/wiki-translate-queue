@@ -315,7 +315,7 @@ https://en.wikipedia.org/wiki/Afghanistan	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Julius_Caesar	CLAIMED	pop-os	2026-09-01T21:41:48.244765+02:00
 https://en.wikipedia.org/wiki/Charlie_Chaplin	CLAIMED	pop-os	2026-09-01T21:41:52.426383+02:00
-https://en.wikipedia.org/wiki/Washington,_D.C.	
+https://en.wikipedia.org/wiki/Washington,_D.C.	CLAIMED	pop-os	2026-10-15T22:41:17.642470+02:00	pop-os:2165604:12bd3b
 https://en.wikipedia.org/wiki/Ukraine	
 https://en.wikipedia.org/wiki/Vietnam	
 https://en.wikipedia.org/wiki/Sun	
