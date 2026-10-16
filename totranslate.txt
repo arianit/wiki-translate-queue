@@ -362,7 +362,7 @@ https://en.wikipedia.org/wiki/Human    DONE	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Austria	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Augustus
+https://en.wikipedia.org/wiki/Augustus	CLAIMED	pop-os	2026-10-16T20:27:48.904670+02:00
 https://en.wikipedia.org/wiki/Danube	DONE
 https://en.wikipedia.org/wiki/Mediterranean_Sea	DONE
 https://en.wikipedia.org/wiki/Abbasid_Caliphate	DONE
