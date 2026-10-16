@@ -333,7 +333,7 @@ https://en.wikipedia.org/wiki/Nikola_Tesla	CLAIMED	pop-os	2026-10-16T00:37:25.39
 https://en.wikipedia.org/wiki/Black_hole	CLAIMED	pop-os	2026-10-16T18:45:19.684438+02:00
 https://en.wikipedia.org/wiki/Europe	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Mexico_City	
+https://en.wikipedia.org/wiki/Mexico_City	CLAIMED	pop-os	2026-10-16T19:32:24.811257+02:00
 https://en.wikipedia.org/wiki/Stanley_Kubrick	DONE
 https://en.wikipedia.org/wiki/Frida_Kahlo	
 https://en.wikipedia.org/wiki/Nigeria	
