@@ -340,7 +340,7 @@ https://en.wikipedia.org/wiki/Stanley_Kubrick	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Frida_Kahlo	CLAIMED	pop-os	2026-10-16T19:38:43.417027+02:00
 https://en.wikipedia.org/wiki/Nigeria	CLAIMED	pop-os	2026-10-16T19:39:24.689533+02:00
-https://en.wikipedia.org/wiki/Christopher_Columbus	
+https://en.wikipedia.org/wiki/Christopher_Columbus	CLAIMED	pop-os	2026-10-16T19:50:10.303099+02:00
 https://en.wikipedia.org/wiki/Mount_Everest	
 https://en.wikipedia.org/wiki/Fyodor_Dostoevsky	
 https://en.wikipedia.org/wiki/Thailand	
