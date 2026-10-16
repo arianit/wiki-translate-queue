@@ -336,7 +336,8 @@ https://en.wikipedia.org/wiki/Europe	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)	FAILED	claude-sonnet-5-5@claude_code
 # reason: rate/spend limit (HTTP 429): You've hit your session limit · resets 12am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261016T173920Z-claude-sonnet-5-5-40c63573.log)
 https://en.wikipedia.org/wiki/Mexico_City	CLAIMED	pop-os	2026-10-16T19:32:24.811257+02:00
-https://en.wikipedia.org/wiki/Stanley_Kubrick	DONE
+https://en.wikipedia.org/wiki/Stanley_Kubrick	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Frida_Kahlo	CLAIMED	pop-os	2026-10-16T19:38:43.417027+02:00
 https://en.wikipedia.org/wiki/Nigeria	CLAIMED	pop-os	2026-10-16T19:39:24.689533+02:00
 https://en.wikipedia.org/wiki/Christopher_Columbus	
