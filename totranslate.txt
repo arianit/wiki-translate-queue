@@ -331,7 +331,8 @@ https://en.wikipedia.org/wiki/Nazi_Germany	FAILED	opencode-go/deepseek-v4.1-flas
 https://en.wikipedia.org/wiki/Joan_of_Arc	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=opencode-go/deepseek-v4-pro@opencode_go
 https://en.wikipedia.org/wiki/Nikola_Tesla	CLAIMED	pop-os	2026-10-16T00:37:25.390176+02:00	pop-os:1911735:7d58bb
 https://en.wikipedia.org/wiki/Black_hole	CLAIMED	pop-os	2026-10-16T18:45:19.684438+02:00
-https://en.wikipedia.org/wiki/Europe	CLAIMED	pop-os	2026-10-16T19:16:41.923960+02:00
+https://en.wikipedia.org/wiki/Europe	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Mexico_City	
 https://en.wikipedia.org/wiki/Stanley_Kubrick	DONE
 https://en.wikipedia.org/wiki/Frida_Kahlo	
