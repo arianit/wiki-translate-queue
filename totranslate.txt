@@ -330,7 +330,8 @@ https://en.wikipedia.org/wiki/Nazi_Germany	FAILED	opencode-go/deepseek-v4.1-flas
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Joan_of_Arc	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=opencode-go/deepseek-v4-pro@opencode_go
 https://en.wikipedia.org/wiki/Nikola_Tesla	CLAIMED	pop-os	2026-10-16T00:37:25.390176+02:00	pop-os:1911735:7d58bb
-https://en.wikipedia.org/wiki/Black_hole	CLAIMED	pop-os	2026-10-16T18:45:19.684438+02:00
+https://en.wikipedia.org/wiki/Black_hole	FAILED	claude-sonnet-5-5@claude_code
+# reason: rate/spend limit (HTTP 429): You've hit your session limit · resets 12am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261016T173839Z-claude-sonnet-5-5-e352b5a7.log)
 https://en.wikipedia.org/wiki/Europe	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Mexico_City	CLAIMED	pop-os	2026-10-16T19:32:24.811257+02:00
