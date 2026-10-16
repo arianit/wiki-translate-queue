@@ -344,7 +344,8 @@ https://en.wikipedia.org/wiki/Nigeria	FAILED	claude-sonnet-5-5@claude_code
 # reason: rate/spend limit (HTTP 429): You've hit your session limit · resets 12am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261016T182221Z-claude-sonnet-5-5-4afa153b.log)
 https://en.wikipedia.org/wiki/Christopher_Columbus	CLAIMED	pop-os	2026-10-16T19:50:10.303099+02:00
 https://en.wikipedia.org/wiki/Mount_Everest	CLAIMED	pop-os	2026-10-16T19:59:12.375488+02:00
-https://en.wikipedia.org/wiki/Fyodor_Dostoevsky	CLAIMED	pop-os	2026-10-16T20:22:25.708985+02:00
+https://en.wikipedia.org/wiki/Fyodor_Dostoevsky	FAILED	claude-sonnet-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Thailand	
 https://en.wikipedia.org/wiki/Karl_Marx	CLAIMED	pop-os	2026-09-01T21:41:20.139286+02:00
 https://en.wikipedia.org/wiki/Vladimir_Lenin	CLAIMED	pop-os	2026-09-01T21:41:24.331321+02:00
