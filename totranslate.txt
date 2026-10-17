@@ -443,7 +443,8 @@ https://it.wikipedia.org/wiki/Serra_d%27Aiello	CLAIMED	pop-os	2026-09-23T21:35:5
 https://it.wikipedia.org/wiki/Zagarise	CLAIMED	pop-os	2026-09-23T21:36:03.840815+03:00
 
 
-https://en.wikipedia.org/wiki/Cluj-Napoca	CLAIMED	pop-os	2026-10-17T09:01:03.887673+02:00
+https://en.wikipedia.org/wiki/Cluj-Napoca	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Babe%C8%99-Bolyai_University	DONE
 https://en.wikipedia.org/wiki/Open_science
 https://en.wikipedia.org/wiki/OpenRocket
