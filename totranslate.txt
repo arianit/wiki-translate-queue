@@ -370,7 +370,7 @@ https://en.wikipedia.org/wiki/Mediterranean_Sea	DONE
 https://en.wikipedia.org/wiki/Abbasid_Caliphate	DONE
 https://en.wikipedia.org/wiki/Age_of_Enlightenment	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Culture	CLAIMED	pop-os	2026-10-17T08:35:35.249244+02:00
-https://en.wikipedia.org/wiki/Colosseum	CLAIMED	pop-os	2026-10-17T08:45:35.182244+02:00
+https://en.wikipedia.org/wiki/Colosseum	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Film
 https://en.wikipedia.org/wiki/Planet	DONE
 https://en.wikipedia.org/wiki/Ferdinand_Castriota
