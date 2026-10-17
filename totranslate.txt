@@ -373,7 +373,7 @@ https://en.wikipedia.org/wiki/Culture	CLAIMED	pop-os	2026-10-17T08:35:35.249244+
 https://en.wikipedia.org/wiki/Colosseum	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Film	CLAIMED	pop-os	2026-10-17T08:49:47.644543+02:00
 https://en.wikipedia.org/wiki/Planet	DONE
-https://en.wikipedia.org/wiki/Ferdinand_Castriota
+https://en.wikipedia.org/wiki/Ferdinand_Castriota	CLAIMED	pop-os	2026-10-17T08:57:45.996005+02:00
 
 
 # Added 2026-09-10 from the Wiki Loves Arbëreshë Worklist
