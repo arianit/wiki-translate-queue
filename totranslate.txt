@@ -371,7 +371,7 @@ https://en.wikipedia.org/wiki/Abbasid_Caliphate	DONE
 https://en.wikipedia.org/wiki/Age_of_Enlightenment	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Culture	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Colosseum	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Film	CLAIMED	pop-os	2026-10-17T08:49:47.644543+02:00
+https://en.wikipedia.org/wiki/Film	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Planet	DONE
 https://en.wikipedia.org/wiki/Ferdinand_Castriota	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 
