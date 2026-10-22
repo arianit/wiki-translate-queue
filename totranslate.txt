@@ -6,6 +6,8 @@
 # line whose timestamp is stale is treated as abandoned and reclaimed).
 # Shared across machines via git — see README.md.
 
+https://it.wikipedia.org/wiki/San_Benedetto_Ullano
+https://en.wikipedia.org/wiki/Prostate_cancer
 https://en.wikipedia.org/wiki/Albania_under_the_Hohenstaufen	DONE
 https://en.wikipedia.org/wiki/Muzaka-Serbian_Conflict	DONE
 https://en.wikipedia.org/wiki/Geography	DONE
@@ -357,7 +359,7 @@ https://en.wikipedia.org/wiki/World_Wide_Web	CLAIMED	pop-os	2026-09-01T21:41:32.
 https://en.wikipedia.org/wiki/Holy_Roman_Empire	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Byzantine_Empire	CLAIMED	pop-os	2026-10-16T20:24:28.259853+02:00
-https://en.wikipedia.org/wiki/North_America	FAILED	claude-sonnet-5-5@claude_code
+https://en.wikipedia.org/wiki/North_America	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Human    DONE	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
