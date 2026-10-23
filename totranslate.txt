@@ -451,7 +451,7 @@ https://en.wikipedia.org/wiki/Babe%C8%99-Bolyai_University	DONE
 https://en.wikipedia.org/wiki/Open_science	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/OpenRocket	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 # Vital articles: Philosophy (List of articles every Wikipedia should have)
-https://en.wikipedia.org/wiki/Atheism	CLAIMED	pop-os:3889365:opencode_go	2026-10-23T18:15:24.973656+02:00
+https://en.wikipedia.org/wiki/Atheism	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Beauty	
 https://en.wikipedia.org/wiki/Confucianism	
 https://en.wikipedia.org/wiki/Ethics	
