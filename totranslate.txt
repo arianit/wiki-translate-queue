@@ -359,7 +359,7 @@ https://en.wikipedia.org/wiki/World_Wide_Web	CLAIMED	pop-os	2026-09-01T21:41:32.
 https://en.wikipedia.org/wiki/Holy_Roman_Empire	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Byzantine_Empire	CLAIMED	pop-os	2026-10-16T20:24:28.259853+02:00
-https://en.wikipedia.org/wiki/North_America	FAILED	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/North_America	DONE
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Human    DONE	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
@@ -454,7 +454,7 @@ https://en.wikipedia.org/wiki/OpenRocket	DONE	opencode-go/deepseek-v4.1-flash@op
 https://en.wikipedia.org/wiki/Atheism	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Beauty	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Confucianism	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Ethics	CLAIMED	pop-os:3889365:opencode_go	2026-10-23T19:17:31.523032+02:00
+https://en.wikipedia.org/wiki/Ethics	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Knowledge	
 https://en.wikipedia.org/wiki/Philosophy	
 # Vital articles: Religion (List of articles every Wikipedia should have)
