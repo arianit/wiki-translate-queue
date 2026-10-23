@@ -453,7 +453,7 @@ https://en.wikipedia.org/wiki/OpenRocket	DONE	opencode-go/deepseek-v4.1-flash@op
 # Vital articles: Philosophy (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/Atheism	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Beauty	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Confucianism	CLAIMED	pop-os:3889365:opencode_go	2026-10-23T18:50:58.228451+02:00
+https://en.wikipedia.org/wiki/Confucianism	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Ethics	
 https://en.wikipedia.org/wiki/Knowledge	
 https://en.wikipedia.org/wiki/Philosophy	
