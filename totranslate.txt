@@ -316,7 +316,7 @@ https://en.wikipedia.org/wiki/Roman_Empire	FAILED	gpt-6.1-sol@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Afghanistan	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Julius_Caesar	CLAIMED	pop-os	2026-09-01T21:41:48.244765+02:00
+https://en.wikipedia.org/wiki/Julius_Caesar	CLAIMED	pop-os:142130:opencode_go	2026-10-23T20:51:53.491352+02:00
 https://en.wikipedia.org/wiki/Charlie_Chaplin	CLAIMED	pop-os	2026-09-01T21:41:52.426383+02:00
 https://en.wikipedia.org/wiki/Washington,_D.C.	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
