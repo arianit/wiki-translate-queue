@@ -7,7 +7,7 @@
 # Shared across machines via git — see README.md.
 
 https://it.wikipedia.org/wiki/San_Benedetto_Ullano	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Prostate_cancer	CLAIMED	pop-os:3889365:opencode_go	2026-10-23T17:36:36.827198+02:00
+https://en.wikipedia.org/wiki/Prostate_cancer	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Albania_under_the_Hohenstaufen	DONE
 https://en.wikipedia.org/wiki/Muzaka-Serbian_Conflict	DONE
 https://en.wikipedia.org/wiki/Geography	DONE
