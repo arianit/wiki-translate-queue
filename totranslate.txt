@@ -6,7 +6,7 @@
 # line whose timestamp is stale is treated as abandoned and reclaimed).
 # Shared across machines via git — see README.md.
 
-https://it.wikipedia.org/wiki/San_Benedetto_Ullano
+https://it.wikipedia.org/wiki/San_Benedetto_Ullano	CLAIMED	pop-os:3889365:opencode_go	2026-10-23T17:30:28.417653+02:00
 https://en.wikipedia.org/wiki/Prostate_cancer
 https://en.wikipedia.org/wiki/Albania_under_the_Hohenstaufen	DONE
 https://en.wikipedia.org/wiki/Muzaka-Serbian_Conflict	DONE
