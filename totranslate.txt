@@ -456,7 +456,7 @@ https://en.wikipedia.org/wiki/Beauty	DONE	opencode-go/deepseek-v4.1-flash@openco
 https://en.wikipedia.org/wiki/Confucianism	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Ethics	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Knowledge	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Philosophy	
+https://en.wikipedia.org/wiki/Philosophy	CLAIMED	pop-os:3889365:opencode_go	2026-10-23T20:15:09.291534+02:00
 # Vital articles: Religion (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/Fundamentalism	
 https://en.wikipedia.org/wiki/God	
