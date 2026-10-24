@@ -484,7 +484,7 @@ https://en.wikipedia.org/wiki/Hinduism	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Shia_Islam	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sunni_Islam	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Shinto	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Sikhism	
+https://en.wikipedia.org/wiki/Sikhism	CLAIMED	pop-os:947857:codex	2026-10-24T15:14:48.690508+02:00
 https://en.wikipedia.org/wiki/Taoism	
 https://en.wikipedia.org/wiki/Zoroastrianism	
 # Vital articles: Social sciences (List of articles every Wikipedia should have)
