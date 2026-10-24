@@ -258,7 +258,7 @@ https://en.wikipedia.org/wiki/Switzerland	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Che_Guevara	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Elizabeth_I	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Indonesia	DONE	claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Vietnam_War	FAILED	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Vietnam_War	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Soviet_Union	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
@@ -270,7 +270,7 @@ https://en.wikipedia.org/wiki/English_language	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Pakistan	DONE	codex@codex	repaired=assembly+review
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Genghis_Khan	DONE	gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Philippines	FAILED	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Philippines	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Earth	DONE
 https://en.wikipedia.org/wiki/Mercury_(planet)	DONE
@@ -304,15 +304,15 @@ https://en.wikipedia.org/wiki/Periodic_table	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Muhammad	FAILED	opencode-go/deepseek-v4.1-flash@opencode_go
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Poland	FAILED	opencode-go/deepseek-v4.1-flash@opencode_go
+https://en.wikipedia.org/wiki/Poland	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Mahatma_Gandhi	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Bangladesh	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Los_Angeles	FAILED	claude-sonnet-5-5@claude_code
+https://en.wikipedia.org/wiki/Los_Angeles	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Roman_Empire	DONE	gpt-6.1-sol@codex
+https://en.wikipedia.org/wiki/Roman_Empire	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Afghanistan	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
@@ -320,7 +320,7 @@ https://en.wikipedia.org/wiki/Julius_Caesar	FAILED	opencode-go/deepseek-v4.1-fla
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Charlie_Chaplin	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Washington,_D.C.	FAILED	claude-sonnet-5-5@claude_code
+https://en.wikipedia.org/wiki/Washington,_D.C.	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Ukraine	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
@@ -343,22 +343,22 @@ https://en.wikipedia.org/wiki/Stanley_Kubrick	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Frida_Kahlo	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Nigeria	FAILED	claude-sonnet-5-5@claude_code
+https://en.wikipedia.org/wiki/Nigeria	DONE	gpt-6-luna@codex
 # reason: rate/spend limit (HTTP 429): You've hit your session limit · resets 12am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261016T182221Z-claude-sonnet-5-5-4afa153b.log)
 https://en.wikipedia.org/wiki/Christopher_Columbus	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Mount_Everest	FAILED
+https://en.wikipedia.org/wiki/Mount_Everest	DONE	gpt-6-luna@codex
 # reason: opencode_go 5-hour usage limit hit mid-article; fallback model claude-sonnet-5-5 is not a valid opencode model id
 https://en.wikipedia.org/wiki/Fyodor_Dostoevsky	DONE	codex@codex	repaired=assembly+review
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Thailand	DONE	codex@codex	repaired=assembly+review
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Karl_Marx	FAILED	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Karl_Marx	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Vladimir_Lenin	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Paris	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/World_Wide_Web	FAILED	claude-sonnet-5-5@claude_code
+https://en.wikipedia.org/wiki/World_Wide_Web	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Holy_Roman_Empire	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
