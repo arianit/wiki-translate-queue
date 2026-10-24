@@ -472,7 +472,7 @@ https://en.wikipedia.org/wiki/Fundamentalism	FAILED	claude-sonnet-5-5@claude_cod
 https://en.wikipedia.org/wiki/God	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Mythology	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Reincarnation	CLAIMED	pop-os:717560:codex	2026-10-24T12:07:27.889238+02:00
+https://en.wikipedia.org/wiki/Reincarnation	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Religion	
 https://en.wikipedia.org/wiki/Buddhism	
 https://en.wikipedia.org/wiki/Catholic_Church	
