@@ -476,7 +476,7 @@ https://en.wikipedia.org/wiki/Reincarnation	DONE	gpt-6-luna@codex	review=gpt-6-l
 https://en.wikipedia.org/wiki/Religion	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Buddhism	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Catholic_Church	
+https://en.wikipedia.org/wiki/Catholic_Church	CLAIMED	pop-os:717560:codex	2026-10-24T12:51:53.142510+02:00
 https://en.wikipedia.org/wiki/Protestantism	
 https://en.wikipedia.org/wiki/Hinduism	
 https://en.wikipedia.org/wiki/Shia_Islam	
