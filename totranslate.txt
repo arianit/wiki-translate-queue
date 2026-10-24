@@ -318,7 +318,7 @@ https://en.wikipedia.org/wiki/Afghanistan	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Julius_Caesar	FAILED	opencode-go/deepseek-v4.1-flash@opencode_go
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Charlie_Chaplin	CLAIMED	pop-os	2026-09-01T21:41:52.426383+02:00
+https://en.wikipedia.org/wiki/Charlie_Chaplin	CLAIMED	pop-os:495808:codex	2026-10-24T07:56:33.521744+02:00
 https://en.wikipedia.org/wiki/Washington,_D.C.	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Ukraine	FAILED	claude-sonnet-5-5@claude_code
