@@ -485,7 +485,7 @@ https://en.wikipedia.org/wiki/Shia_Islam	DONE	gpt-6-luna@codex	review=gpt-6-luna
 https://en.wikipedia.org/wiki/Sunni_Islam	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Shinto	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sikhism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Taoism	
+https://en.wikipedia.org/wiki/Taoism	CLAIMED	pop-os:947857:codex	2026-10-24T15:39:42.495672+02:00
 https://en.wikipedia.org/wiki/Zoroastrianism	
 # Vital articles: Social sciences (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/Society	
