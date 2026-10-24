@@ -320,7 +320,7 @@ https://en.wikipedia.org/wiki/Julius_Caesar	FAILED	opencode-go/deepseek-v4.1-fla
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Charlie_Chaplin	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Washington,_D.C.	FAILED	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Washington,_D.C.	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Ukraine	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
