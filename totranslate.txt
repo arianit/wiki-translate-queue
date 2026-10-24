@@ -448,7 +448,7 @@ https://it.wikipedia.org/wiki/San_Lorenzo_del_Vallo	FAILED	claude-sonnet-5-5@cla
 # reason: translation did not complete (see run.log for this article)
 https://it.wikipedia.org/wiki/Rota_Greca	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://it.wikipedia.org/wiki/Serra_d%27Aiello	CLAIMED	pop-os	2026-09-23T21:35:58.462674+03:00
+https://it.wikipedia.org/wiki/Serra_d%27Aiello	CLAIMED	pop-os:682991:opencode_go	2026-10-24T10:37:11.590132+02:00
 https://it.wikipedia.org/wiki/Zagarise	CLAIMED	pop-os	2026-09-23T21:36:03.840815+03:00
 
 
