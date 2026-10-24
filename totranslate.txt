@@ -10,7 +10,7 @@
 https://it.wikipedia.org/wiki/Villa_Badessa	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://it.wikipedia.org/wiki/Farneta_(Castroregio)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://it.wikipedia.org/wiki/Cavallerizzo	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/Zangarona
+https://it.wikipedia.org/wiki/Zangarona	CLAIMED	pop-os:1423606:codex	2026-10-24T21:45:00.979757+02:00
 https://it.wikipedia.org/wiki/Carfizzi
 https://it.wikipedia.org/wiki/San_Nicola_dell%27Alto
 https://it.wikipedia.org/wiki/Pallagorio
