@@ -292,7 +292,7 @@ https://en.wikipedia.org/wiki/Italy	DONE	codex@codex	repaired=assembly+review
 https://en.wikipedia.org/wiki/American_Civil_War	DONE	claude-sonnet-5-5@claude_code	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Jesus	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Saudi_Arabia	FAILED	claude-sonnet-5-5@claude_code
+https://en.wikipedia.org/wiki/Saudi_Arabia	DONE	codex@codex	repaired=assembly+review
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/London	FAILED	claude-sonnet-5-5@claude_code
 # reason: rate/spend limit (HTTP 429): You've hit your session limit · resets 5:50am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261012T003502Z-claude-sonnet-5-5-92874730.log)
