@@ -327,7 +327,7 @@ https://en.wikipedia.org/wiki/Ukraine	FAILED	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Vietnam	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Sun	DONE	claude-sonnet-5-5@claude_code	hand-repaired
-https://en.wikipedia.org/wiki/South_Korea	FAILED	claude-sonnet-5-5@claude_code
+https://en.wikipedia.org/wiki/South_Korea	DONE	codex@codex	repaired=assembly+review
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Nazi_Germany	FAILED	opencode-go/deepseek-v4.1-flash@opencode_go
 # reason: translation did not complete (see run.log for this article)
