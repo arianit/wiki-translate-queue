@@ -6,6 +6,45 @@
 # line whose timestamp is stale is treated as abandoned and reclaimed).
 # Shared across machines via git — see README.md.
 
+# MORE ARBERESHE ARTICLES
+https://it.wikipedia.org/wiki/Villa_Badessa	CLAIMED	pop-os:1423606:codex	2026-10-24T21:36:33.234712+02:00
+https://it.wikipedia.org/wiki/Farneta_(Castroregio)
+https://it.wikipedia.org/wiki/Cavallerizzo
+https://it.wikipedia.org/wiki/Zangarona
+https://it.wikipedia.org/wiki/Carfizzi
+https://it.wikipedia.org/wiki/San_Nicola_dell%27Alto
+https://it.wikipedia.org/wiki/Pallagorio
+https://it.wikipedia.org/wiki/Santa_Sofia_d%27Epiro
+https://it.wikipedia.org/wiki/Mezzojuso
+https://it.wikipedia.org/wiki/San_Martino_di_Finita
+https://it.wikipedia.org/wiki/Santa_Caterina_Albanese
+https://it.wikipedia.org/wiki/Vaccarizzo_Albanese
+https://it.wikipedia.org/wiki/San_Giorgio_Albanese
+https://it.wikipedia.org/wiki/Civita_(Italia)
+https://it.wikipedia.org/wiki/Andali
+https://it.wikipedia.org/wiki/Maschito
+https://it.wikipedia.org/wiki/Comuni_dell%27Arb%C3%ABria
+https://it.wikipedia.org/wiki/Eianina
+https://it.wikipedia.org/wiki/Cantinella
+https://it.wikipedia.org/wiki/Maida
+https://it.wikipedia.org/wiki/Marri
+https://it.wikipedia.org/wiki/Rosciano
+https://it.wikipedia.org/wiki/Spezzano_Albanese
+https://it.wikipedia.org/wiki/Santa_Cristina_Gela
+https://it.wikipedia.org/wiki/San_Demetrio_Corone
+https://it.wikipedia.org/wiki/Portocannone
+https://it.wikipedia.org/wiki/Campomarino
+https://it.wikipedia.org/wiki/Palazzo_Adriano
+https://it.wikipedia.org/wiki/Contessa_Entellina
+https://it.wikipedia.org/wiki/Casalvecchio_di_Puglia
+https://it.wikipedia.org/wiki/Chieuti
+https://it.wikipedia.org/wiki/Ginestra_(Italia)
+https://it.wikipedia.org/wiki/Chiesa_di_Maria_Santissima_Assunta_(Palazzo_Adriano)
+https://it.wikipedia.org/wiki/Chiesa_di_Maria_Santissima_del_Lume_(Palazzo_Adriano)
+https://it.wikipedia.org/wiki/Chiesa_di_San_Niccol%C3%B2_dei_Greci
+
+
+
 https://it.wikipedia.org/wiki/San_Benedetto_Ullano	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Prostate_cancer	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Albania_under_the_Hohenstaufen	DONE
@@ -454,6 +493,8 @@ https://it.wikipedia.org/wiki/Zagarise	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 
 
+
+
 https://en.wikipedia.org/wiki/Cluj-Napoca	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Babe%C8%99-Bolyai_University	DONE
@@ -617,38 +658,3 @@ https://en.wikipedia.org/wiki/Osteoarthritis
 https://en.wikipedia.org/wiki/Esophageal_cancer
 https://en.wikipedia.org/wiki/Myocarditis
 https://en.wikipedia.org/wiki/Asthma
-https://it.wikipedia.org/wiki/Villa_Badessa
-https://it.wikipedia.org/wiki/Farneta_(Castroregio)
-https://it.wikipedia.org/wiki/Cavallerizzo
-https://it.wikipedia.org/wiki/Zangarona
-https://it.wikipedia.org/wiki/Carfizzi
-https://it.wikipedia.org/wiki/San_Nicola_dell%27Alto
-https://it.wikipedia.org/wiki/Pallagorio
-https://it.wikipedia.org/wiki/Santa_Sofia_d%27Epiro
-https://it.wikipedia.org/wiki/Mezzojuso
-https://it.wikipedia.org/wiki/San_Martino_di_Finita
-https://it.wikipedia.org/wiki/Santa_Caterina_Albanese
-https://it.wikipedia.org/wiki/Vaccarizzo_Albanese
-https://it.wikipedia.org/wiki/San_Giorgio_Albanese
-https://it.wikipedia.org/wiki/Civita_(Italia)
-https://it.wikipedia.org/wiki/Andali
-https://it.wikipedia.org/wiki/Maschito
-https://it.wikipedia.org/wiki/Comuni_dell%27Arb%C3%ABria
-https://it.wikipedia.org/wiki/Eianina
-https://it.wikipedia.org/wiki/Cantinella
-https://it.wikipedia.org/wiki/Maida
-https://it.wikipedia.org/wiki/Marri
-https://it.wikipedia.org/wiki/Rosciano
-https://it.wikipedia.org/wiki/Spezzano_Albanese
-https://it.wikipedia.org/wiki/Santa_Cristina_Gela
-https://it.wikipedia.org/wiki/San_Demetrio_Corone
-https://it.wikipedia.org/wiki/Portocannone
-https://it.wikipedia.org/wiki/Campomarino
-https://it.wikipedia.org/wiki/Palazzo_Adriano
-https://it.wikipedia.org/wiki/Contessa_Entellina
-https://it.wikipedia.org/wiki/Casalvecchio_di_Puglia
-https://it.wikipedia.org/wiki/Chieuti
-https://it.wikipedia.org/wiki/Ginestra_(Italia)
-https://it.wikipedia.org/wiki/Chiesa_di_Maria_Santissima_Assunta_(Palazzo_Adriano)
-https://it.wikipedia.org/wiki/Chiesa_di_Maria_Santissima_del_Lume_(Palazzo_Adriano)
-https://it.wikipedia.org/wiki/Chiesa_di_San_Niccol%C3%B2_dei_Greci
