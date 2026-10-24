@@ -649,3 +649,6 @@ https://it.wikipedia.org/wiki/Contessa_Entellina
 https://it.wikipedia.org/wiki/Casalvecchio_di_Puglia
 https://it.wikipedia.org/wiki/Chieuti
 https://it.wikipedia.org/wiki/Ginestra_(Italia)
+https://it.wikipedia.org/wiki/Chiesa_di_Maria_Santissima_Assunta_(Palazzo_Adriano)
+https://it.wikipedia.org/wiki/Chiesa_di_Maria_Santissima_del_Lume_(Palazzo_Adriano)
+https://it.wikipedia.org/wiki/Chiesa_di_San_Niccol%C3%B2_dei_Greci
