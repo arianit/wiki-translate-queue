@@ -469,7 +469,7 @@ https://en.wikipedia.org/wiki/Philosophy	DONE	opencode-go/deepseek-v4.1-flash@op
 # Vital articles: Religion (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/Fundamentalism	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/God	
+https://en.wikipedia.org/wiki/God	CLAIMED	pop-os:682991:opencode_go	2026-10-24T10:38:18.261340+02:00
 https://en.wikipedia.org/wiki/Mythology	
 https://en.wikipedia.org/wiki/Reincarnation	
 https://en.wikipedia.org/wiki/Religion	
