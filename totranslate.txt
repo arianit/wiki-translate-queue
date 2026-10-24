@@ -482,7 +482,7 @@ https://en.wikipedia.org/wiki/Protestantism	CLAIMED	pop-os:949753:opencode_go	20
 https://en.wikipedia.org/wiki/Hinduism	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Shia_Islam	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Sunni_Islam	
+https://en.wikipedia.org/wiki/Sunni_Islam	CLAIMED	pop-os:947857:codex	2026-10-24T14:53:14.324178+02:00
 https://en.wikipedia.org/wiki/Shinto	
 https://en.wikipedia.org/wiki/Sikhism	
 https://en.wikipedia.org/wiki/Taoism	
