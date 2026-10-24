@@ -9,7 +9,7 @@
 # MORE ARBERESHE ARTICLES
 https://it.wikipedia.org/wiki/Villa_Badessa	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://it.wikipedia.org/wiki/Farneta_(Castroregio)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/Cavallerizzo
+https://it.wikipedia.org/wiki/Cavallerizzo	CLAIMED	pop-os:1423606:codex	2026-10-24T21:42:20.947060+02:00
 https://it.wikipedia.org/wiki/Zangarona
 https://it.wikipedia.org/wiki/Carfizzi
 https://it.wikipedia.org/wiki/San_Nicola_dell%27Alto
