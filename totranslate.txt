@@ -467,7 +467,7 @@ https://en.wikipedia.org/wiki/Ethics	DONE	opencode-go/deepseek-v4.1-flash@openco
 https://en.wikipedia.org/wiki/Knowledge	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Philosophy	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 # Vital articles: Religion (List of articles every Wikipedia should have)
-https://en.wikipedia.org/wiki/Fundamentalism	
+https://en.wikipedia.org/wiki/Fundamentalism	CLAIMED	pop-os:682991:opencode_go	2026-10-24T10:37:42.862112+02:00
 https://en.wikipedia.org/wiki/God	
 https://en.wikipedia.org/wiki/Mythology	
 https://en.wikipedia.org/wiki/Reincarnation	
