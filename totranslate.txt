@@ -481,7 +481,7 @@ https://en.wikipedia.org/wiki/Catholic_Church	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Protestantism	CLAIMED	pop-os:949753:opencode_go	2026-10-24T13:59:06.138234+02:00
 https://en.wikipedia.org/wiki/Hinduism	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Shia_Islam	
+https://en.wikipedia.org/wiki/Shia_Islam	CLAIMED	pop-os:947857:codex	2026-10-24T14:41:34.871222+02:00
 https://en.wikipedia.org/wiki/Sunni_Islam	
 https://en.wikipedia.org/wiki/Shinto	
 https://en.wikipedia.org/wiki/Sikhism	
