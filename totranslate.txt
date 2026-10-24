@@ -483,7 +483,7 @@ https://en.wikipedia.org/wiki/Hinduism	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Shia_Islam	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sunni_Islam	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Shinto	CLAIMED	pop-os:947857:codex	2026-10-24T15:08:29.986366+02:00
+https://en.wikipedia.org/wiki/Shinto	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sikhism	
 https://en.wikipedia.org/wiki/Taoism	
 https://en.wikipedia.org/wiki/Zoroastrianism	
