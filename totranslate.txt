@@ -471,7 +471,7 @@ https://en.wikipedia.org/wiki/Fundamentalism	FAILED	claude-sonnet-5-5@claude_cod
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/God	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Mythology	
+https://en.wikipedia.org/wiki/Mythology	CLAIMED	pop-os:717560:codex	2026-10-24T12:07:04.918671+02:00
 https://en.wikipedia.org/wiki/Reincarnation	
 https://en.wikipedia.org/wiki/Religion	
 https://en.wikipedia.org/wiki/Buddhism	
@@ -576,3 +576,41 @@ https://en.wikipedia.org/wiki/Epic_of_Gilgamesh
 https://en.wikipedia.org/wiki/Shahnameh	
 https://en.wikipedia.org/wiki/Bible	
 https://en.wikipedia.org/wiki/Mahabharata	
+https://en.wikipedia.org/wiki/military
+https://en.wikipedia.org/wiki/Abortion
+https://en.wikipedia.org/wiki/Rrespiration
+https://en.wikipedia.org/wiki/Sex
+https://en.wikipedia.org/wiki/Blindness
+https://en.wikipedia.org/wiki/Gastroenteritis
+https://en.wikipedia.org/wiki/Malnutrition
+https://en.wikipedia.org/wiki/Stroke
+https://en.wikipedia.org/wiki/Global warming
+https://en.wikipedia.org/wiki/Electromagnetic interaction
+https://en.wikipedia.org/wiki/Pottery
+https://en.wikipedia.org/wiki/Angkor Wat
+https://en.wikipedia.org/wiki/Three Gorges Dam
+https://en.wikipedia.org/wiki/United Kingdom
+https://en.wikipedia.org/wiki/Jesus Christ
+https://en.wikipedia.org/wiki/Tin
+https://en.wikipedia.org/wiki/Science
+https://en.wikipedia.org/wiki/Africa
+https://en.wikipedia.org/wiki/God
+https://en.wikipedia.org/wiki/Russia
+https://en.wikipedia.org/wiki/Society
+https://en.wikipedia.org/wiki/Global warming
+https://en.wikipedia.org/wiki/Switzerland
+https://en.wikipedia.org/wiki/Hydrocephalus
+https://en.wikipedia.org/wiki/Ketamine
+https://en.wikipedia.org/wiki/ALS
+https://en.wikipedia.org/wiki/Agoraphobia
+https://en.wikipedia.org/wiki/Shingles
+https://en.wikipedia.org/wiki/Stroke
+https://en.wikipedia.org/wiki/Chickenpox
+https://en.wikipedia.org/wiki/Melanoma
+https://en.wikipedia.org/wiki/Hodgkin_lymphoma
+https://en.wikipedia.org/wiki/Scurvy
+https://en.wikipedia.org/wiki/Hemorrhoid
+https://en.wikipedia.org/wiki/Osteoarthritis
+https://en.wikipedia.org/wiki/Esophageal_cancer
+https://en.wikipedia.org/wiki/Myocarditis
+https://en.wikipedia.org/wiki/Asthma
