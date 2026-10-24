@@ -362,7 +362,7 @@ https://en.wikipedia.org/wiki/World_Wide_Web	FAILED	claude-sonnet-5-5@claude_cod
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Holy_Roman_Empire	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Byzantine_Empire	CLAIMED	pop-os	2026-10-16T20:24:28.259853+02:00
+https://en.wikipedia.org/wiki/Byzantine_Empire	CLAIMED	pop-os:639197:opencode_go	2026-10-24T09:22:29.085349+02:00
 https://en.wikipedia.org/wiki/North_America	DONE
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Human    DONE	FAILED	gpt-6-luna@codex
