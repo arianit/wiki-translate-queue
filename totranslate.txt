@@ -450,7 +450,8 @@ https://it.wikipedia.org/wiki/Rota_Greca	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://it.wikipedia.org/wiki/Serra_d%27Aiello	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://it.wikipedia.org/wiki/Zagarise	CLAIMED	pop-os:682991:opencode_go	2026-10-24T10:37:27.251662+02:00
+https://it.wikipedia.org/wiki/Zagarise	FAILED	claude-sonnet-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 
 
 https://en.wikipedia.org/wiki/Cluj-Napoca	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
