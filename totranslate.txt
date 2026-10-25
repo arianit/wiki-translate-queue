@@ -556,7 +556,7 @@ https://en.wikipedia.org/wiki/Thought	DONE	gpt-6-luna@codex	review=claude-sonnet
 https://en.wikipedia.org/wiki/Family	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Child	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Marriage	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Diplomacy	CLAIMED	pop-os:1847530:codex	2026-10-25T21:06:47.981675+01:00
+https://en.wikipedia.org/wiki/Diplomacy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Government	
 https://en.wikipedia.org/wiki/Democracy	
 https://en.wikipedia.org/wiki/Monarchy	
