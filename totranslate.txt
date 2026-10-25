@@ -19,7 +19,8 @@ https://it.wikipedia.org/wiki/Pallagorio	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://it.wikipedia.org/wiki/Santa_Sofia_d%27Epiro	FAILED	gpt-6-luna@codex
 # reason: claude CLI call failed after 6 attempts: [claude-code:unrecognized_model] {"model":"sonnet-5.5","query_source":"sdk"}
- (raw output logged to logs/claude-cli-error-20261025T082902Z-sonnet-5.5-d341daca.	CLAIMED	pop-os:1650116:codex	2026-10-25T09:29:07.160883+01:00
+ (raw output logged to logs/claude-cli-error-20261025T082902Z-sonnet-5.5-d341daca.	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://it.wikipedia.org/wiki/Mezzojuso
 https://it.wikipedia.org/wiki/San_Martino_di_Finita
 https://it.wikipedia.org/wiki/Santa_Caterina_Albanese
