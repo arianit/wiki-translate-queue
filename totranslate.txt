@@ -548,7 +548,7 @@ https://en.wikipedia.org/wiki/Zoroastrianism	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Society	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Civilization	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Education	CLAIMED	pop-os:1847530:codex	2026-10-25T18:40:43.466652+01:00
+https://en.wikipedia.org/wiki/Education	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Emotion	
 https://en.wikipedia.org/wiki/Love	
 https://en.wikipedia.org/wiki/Psychology	
