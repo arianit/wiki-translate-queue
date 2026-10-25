@@ -545,7 +545,7 @@ https://en.wikipedia.org/wiki/Taoism	CLAIMED	pop-os:947857:codex	2026-10-24T15:3
 https://en.wikipedia.org/wiki/Zoroastrianism	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 # Vital articles: Social sciences (List of articles every Wikipedia should have)
-https://en.wikipedia.org/wiki/Society	CLAIMED	pop-os:1752295:codex	2026-10-25T15:54:36.165011+01:00
+https://en.wikipedia.org/wiki/Society	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Civilization	
 https://en.wikipedia.org/wiki/Education	
 https://en.wikipedia.org/wiki/Emotion	
