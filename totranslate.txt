@@ -39,7 +39,7 @@ https://it.wikipedia.org/wiki/Civita_(Italia)	DONE	gpt-6-luna@codex	review=claud
 https://it.wikipedia.org/wiki/Andali	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Maschito	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Comuni_dell%27Arb%C3%ABria	CLAIMED	pop-os:1692623:codex	2026-10-25T14:05:14.006604+01:00
-https://it.wikipedia.org/wiki/Eianina
+https://it.wikipedia.org/wiki/Eianina	CLAIMED	pop-os:1712653:codex	2026-10-25T14:15:09.993982+01:00
 https://it.wikipedia.org/wiki/Cantinella
 https://it.wikipedia.org/wiki/Maida
 https://it.wikipedia.org/wiki/Marri
