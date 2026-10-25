@@ -41,7 +41,7 @@ https://it.wikipedia.org/wiki/Maschito	DONE	gpt-6-luna@codex	review=claude-sonne
 https://it.wikipedia.org/wiki/Comuni_dell%27Arb%C3%ABria	CLAIMED	pop-os:1692623:codex	2026-10-25T14:05:14.006604+01:00
 https://it.wikipedia.org/wiki/Eianina	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Cantinella	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Maida	CLAIMED	pop-os:1712653:codex	2026-10-25T14:19:28.194457+01:00
+https://it.wikipedia.org/wiki/Maida	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Marri
 https://it.wikipedia.org/wiki/Rosciano
 https://it.wikipedia.org/wiki/Spezzano_Albanese
