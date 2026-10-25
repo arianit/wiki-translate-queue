@@ -54,7 +54,7 @@ https://it.wikipedia.org/wiki/Contessa_Entellina	DONE	gpt-6-luna@codex	review=cl
 https://it.wikipedia.org/wiki/Casalvecchio_di_Puglia	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Chieuti	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://it.wikipedia.org/wiki/Ginestra_(Italia)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/Chiesa_di_Maria_Santissima_Assunta_(Palazzo_Adriano)
+https://it.wikipedia.org/wiki/Chiesa_di_Maria_Santissima_Assunta_(Palazzo_Adriano)	CLAIMED	pop-os:1752295:codex	2026-10-25T15:36:32.294523+01:00
 https://it.wikipedia.org/wiki/Chiesa_di_Maria_Santissima_del_Lume_(Palazzo_Adriano)
 https://it.wikipedia.org/wiki/Chiesa_di_San_Niccol%C3%B2_dei_Greci
 
