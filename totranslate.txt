@@ -43,7 +43,7 @@ https://it.wikipedia.org/wiki/Eianina	DONE	gpt-6-luna@codex	review=claude-sonnet
 https://it.wikipedia.org/wiki/Cantinella	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Maida	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Marri	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Rosciano
+https://it.wikipedia.org/wiki/Rosciano	CLAIMED	pop-os:1712653:codex	2026-10-25T14:27:35.505060+01:00
 https://it.wikipedia.org/wiki/Spezzano_Albanese
 https://it.wikipedia.org/wiki/Santa_Cristina_Gela
 https://it.wikipedia.org/wiki/San_Demetrio_Corone
