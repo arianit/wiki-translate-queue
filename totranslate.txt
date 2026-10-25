@@ -551,7 +551,7 @@ https://en.wikipedia.org/wiki/Civilization	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Education	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Emotion	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Love	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Psychology	CLAIMED	pop-os:1847530:codex	2026-10-25T19:30:38.440644+01:00
+https://en.wikipedia.org/wiki/Psychology	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Thought	
 https://en.wikipedia.org/wiki/Family	
 https://en.wikipedia.org/wiki/Child	
