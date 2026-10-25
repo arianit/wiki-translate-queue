@@ -47,7 +47,7 @@ https://it.wikipedia.org/wiki/Rosciano	DONE	gpt-6-luna@codex	review=claude-sonne
 https://it.wikipedia.org/wiki/Spezzano_Albanese	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Santa_Cristina_Gela	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/San_Demetrio_Corone	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Portocannone
+https://it.wikipedia.org/wiki/Portocannone	CLAIMED	pop-os:1712653:codex	2026-10-25T14:48:27.147731+01:00
 https://it.wikipedia.org/wiki/Campomarino
 https://it.wikipedia.org/wiki/Palazzo_Adriano
 https://it.wikipedia.org/wiki/Contessa_Entellina
