@@ -549,7 +549,7 @@ https://en.wikipedia.org/wiki/Society	DONE	gpt-6-luna@codex	review=gpt-6-luna@co
 https://en.wikipedia.org/wiki/Civilization	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Education	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Emotion	
+https://en.wikipedia.org/wiki/Emotion	CLAIMED	pop-os:1847530:codex	2026-10-25T19:09:00.851659+01:00
 https://en.wikipedia.org/wiki/Love	
 https://en.wikipedia.org/wiki/Psychology	
 https://en.wikipedia.org/wiki/Thought	
