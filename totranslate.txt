@@ -50,7 +50,7 @@ https://it.wikipedia.org/wiki/San_Demetrio_Corone	DONE	gpt-6-luna@codex	review=c
 https://it.wikipedia.org/wiki/Portocannone	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Campomarino	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Palazzo_Adriano	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Contessa_Entellina	CLAIMED	pop-os:1752295:codex	2026-10-25T15:17:34.055844+01:00
+https://it.wikipedia.org/wiki/Contessa_Entellina	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Casalvecchio_di_Puglia
 https://it.wikipedia.org/wiki/Chieuti
 https://it.wikipedia.org/wiki/Ginestra_(Italia)
