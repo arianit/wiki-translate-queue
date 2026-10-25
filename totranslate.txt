@@ -51,7 +51,7 @@ https://it.wikipedia.org/wiki/Portocannone	DONE	gpt-6-luna@codex	review=claude-s
 https://it.wikipedia.org/wiki/Campomarino	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Palazzo_Adriano	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Contessa_Entellina	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Casalvecchio_di_Puglia	CLAIMED	pop-os:1752295:codex	2026-10-25T15:25:14.058013+01:00
+https://it.wikipedia.org/wiki/Casalvecchio_di_Puglia	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Chieuti
 https://it.wikipedia.org/wiki/Ginestra_(Italia)
 https://it.wikipedia.org/wiki/Chiesa_di_Maria_Santissima_Assunta_(Palazzo_Adriano)
