@@ -562,7 +562,7 @@ https://en.wikipedia.org/wiki/Government	DONE	gpt-6-luna@codex	review=gpt-6-luna
 https://en.wikipedia.org/wiki/Democracy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Monarchy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Republic	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Capitalism	CLAIMED	pop-os:2162894:codex	2026-10-26T20:34:09.504642+01:00
+https://en.wikipedia.org/wiki/Capitalism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Communism	
 https://en.wikipedia.org/wiki/Fascism	
 https://en.wikipedia.org/wiki/Liberalism	
@@ -676,3 +676,19 @@ https://en.wikipedia.org/wiki/Osteoarthritis
 https://en.wikipedia.org/wiki/Esophageal_cancer
 https://en.wikipedia.org/wiki/Myocarditis
 https://en.wikipedia.org/wiki/Asthma
+
+
+#STATES
+https://en.wikipedia.org/wiki/Germany
+https://en.wikipedia.org/wiki/France
+https://en.wikipedia.org/wiki/Switzerland
+https://en.wikipedia.org/wiki/Turkey
+https://en.wikipedia.org/wiki/United_Kingdom
+https://en.wikipedia.org/wiki/United_States
+https://en.wikipedia.org/wiki/Austria
+https://en.wikipedia.org/wiki/Italy
+https://en.wikipedia.org/wiki/Belgium
+https://en.wikipedia.org/wiki/Sweden
+https://en.wikipedia.org/wiki/Greece
+https://en.wikipedia.org/wiki/Slovenia
+https://en.wikipedia.org/wiki/Croatia
