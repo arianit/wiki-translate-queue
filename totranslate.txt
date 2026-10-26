@@ -38,7 +38,7 @@ https://it.wikipedia.org/wiki/San_Giorgio_Albanese	DONE	gpt-6-luna@codex	review=
 https://it.wikipedia.org/wiki/Civita_(Italia)	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Andali	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Maschito	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Comuni_dell%27Arb%C3%ABria	CLAIMED	pop-os:2091205:codex	2026-10-26T18:37:41.822287+01:00
+https://it.wikipedia.org/wiki/Comuni_dell%27Arb%C3%ABria	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://it.wikipedia.org/wiki/Eianina	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Cantinella	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Maida	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
