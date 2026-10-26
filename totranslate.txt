@@ -559,7 +559,7 @@ https://en.wikipedia.org/wiki/Child	DONE	gpt-6-luna@codex	review=gpt-6-luna@code
 https://en.wikipedia.org/wiki/Marriage	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Diplomacy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Government	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Democracy	
+https://en.wikipedia.org/wiki/Democracy	CLAIMED	pop-os:2162894:codex	2026-10-26T20:03:27.180905+01:00
 https://en.wikipedia.org/wiki/Monarchy	
 https://en.wikipedia.org/wiki/Republic	
 https://en.wikipedia.org/wiki/Capitalism	
