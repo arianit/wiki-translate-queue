@@ -561,7 +561,7 @@ https://en.wikipedia.org/wiki/Diplomacy	DONE	gpt-6-luna@codex	review=gpt-6-luna@
 https://en.wikipedia.org/wiki/Government	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Democracy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Monarchy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Republic	CLAIMED	pop-os:2162894:codex	2026-10-26T20:26:33.282262+01:00
+https://en.wikipedia.org/wiki/Republic	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Capitalism	
 https://en.wikipedia.org/wiki/Communism	
 https://en.wikipedia.org/wiki/Fascism	
