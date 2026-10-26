@@ -560,7 +560,7 @@ https://en.wikipedia.org/wiki/Marriage	DONE	gpt-6-luna@codex	review=gpt-6-luna@c
 https://en.wikipedia.org/wiki/Diplomacy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Government	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Democracy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Monarchy	CLAIMED	pop-os:2162894:codex	2026-10-26T20:19:15.192407+01:00
+https://en.wikipedia.org/wiki/Monarchy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Republic	
 https://en.wikipedia.org/wiki/Capitalism	
 https://en.wikipedia.org/wiki/Communism	
