@@ -580,7 +580,8 @@ https://en.wikipedia.org/wiki/Industry_(manufacturing)	DONE	gpt-6-luna@codex	rev
 https://en.wikipedia.org/wiki/Money	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Trade	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Law	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Constitution	CLAIMED	pop-os:2643706:codex	2026-10-27T21:31:29.821560+01:00
+https://en.wikipedia.org/wiki/Constitution	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Commonwealth_of_Nations	
 https://en.wikipedia.org/wiki/NATO	
 https://en.wikipedia.org/wiki/OPEC	
