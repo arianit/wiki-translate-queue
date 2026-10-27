@@ -568,7 +568,8 @@ https://en.wikipedia.org/wiki/Fascism	DONE	gpt-6-luna@codex	review=gpt-6-luna@co
 https://en.wikipedia.org/wiki/Liberalism	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Nationalism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Socialism	CLAIMED	pop-os:2512981:codex	2026-10-27T17:39:16.659632+01:00
+https://en.wikipedia.org/wiki/Socialism	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/State_(polity)	
 https://en.wikipedia.org/wiki/Economics	
 https://en.wikipedia.org/wiki/Euro	
