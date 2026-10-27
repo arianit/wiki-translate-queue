@@ -574,7 +574,8 @@ https://en.wikipedia.org/wiki/State_(polity)	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Economics	CLAIMED	pop-os:2512981:codex	2026-10-27T17:51:53.495735+01:00
 https://en.wikipedia.org/wiki/Euro	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/United_States_dollar	CLAIMED	pop-os:2512981:codex	2026-10-27T18:03:52.824522+01:00
+https://en.wikipedia.org/wiki/United_States_dollar	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Industry_(manufacturing)	
 https://en.wikipedia.org/wiki/Money	
 https://en.wikipedia.org/wiki/Trade	
