@@ -579,7 +579,7 @@ https://en.wikipedia.org/wiki/United_States_dollar	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Industry_(manufacturing)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Money	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Trade	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Law	CLAIMED	pop-os:2643706:codex	2026-10-27T21:13:26.275778+01:00
+https://en.wikipedia.org/wiki/Law	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Constitution	
 https://en.wikipedia.org/wiki/Commonwealth_of_Nations	
 https://en.wikipedia.org/wiki/NATO	
