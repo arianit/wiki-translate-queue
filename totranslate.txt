@@ -584,7 +584,8 @@ https://en.wikipedia.org/wiki/Constitution	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Commonwealth_of_Nations	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/NATO	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/OPEC	CLAIMED	pop-os:2643706:codex	2026-10-27T22:12:13.562261+01:00
+https://en.wikipedia.org/wiki/OPEC	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/United_Nations	
 https://en.wikipedia.org/wiki/International_Monetary_Fund	
 https://en.wikipedia.org/wiki/World_Health_Organization	
