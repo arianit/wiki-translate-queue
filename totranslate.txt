@@ -590,7 +590,8 @@ https://en.wikipedia.org/wiki/United_Nations	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/International_Monetary_Fund	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/World_Health_Organization	CLAIMED	pop-os:2916931:codex	2026-10-28T23:12:06.967492+01:00
+https://en.wikipedia.org/wiki/World_Health_Organization	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Terrorism	
 https://en.wikipedia.org/wiki/Abortion	
 https://en.wikipedia.org/wiki/Capital_punishment	
