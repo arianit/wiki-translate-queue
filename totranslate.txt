@@ -594,7 +594,7 @@ https://en.wikipedia.org/wiki/World_Health_Organization	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Terrorism	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Abortion	
+https://en.wikipedia.org/wiki/Abortion	CLAIMED	pop-os:15118:codex	2026-10-29T22:48:18.403105+01:00
 https://en.wikipedia.org/wiki/Capital_punishment	
 https://en.wikipedia.org/wiki/Discrimination	
 https://en.wikipedia.org/wiki/Racism	
