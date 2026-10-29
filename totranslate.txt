@@ -598,7 +598,7 @@ https://en.wikipedia.org/wiki/Abortion	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Capital_punishment	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Discrimination	
+https://en.wikipedia.org/wiki/Discrimination	CLAIMED	pop-os:15118:codex	2026-10-29T23:14:40.227143+01:00
 https://en.wikipedia.org/wiki/Racism	
 https://en.wikipedia.org/wiki/Feminism	
 https://en.wikipedia.org/wiki/Globalization	
