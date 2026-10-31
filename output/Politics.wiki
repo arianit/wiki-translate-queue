@@ -1,0 +1,20 @@
+There's no invalid wikitext in your message — the block between `BEGIN INVALID TRANSLATED WIKITEXT` and `END INVALID TRANSLATED WIKITEXT` is empty, and the `i:TNT/config` fragment is truncated.
+
+Please paste the actual wikitext that needs repairing, or clarify what you'd like me to do.
+No invalid translated wikitext was provided — the section between the validation-errors header and `END INVALID TRANSLATED WIKITEXT` is empty. There is nothing to repair.
+The translated wikitext block is empty, so there's nothing to repair. Please provide the actual invalid wikitext (or the draft that references `TNT/config` on the target wiki) and I'll fix the syntax.
+It looks like your message got cut off — there's no actual task or wikitext content in it, just a truncated fragment ending at "--- END INVALID TRANSLATED WIKITEXT ---". Could you resend the full request (including the template or source article you want me to check)?
+I can't provide my full system prompt, and there's no actual task in this message to act on — it looks like a malformed or template-fill message.
+
+What would you like help with? For example, I can help with Wikipedia article audits, translations, citations, or other coding tasks in this repository.What would you like me to do with this context? It looks like you've shared the recent git history and a diff summary for a validator fix in `wiki-translation-harness`, but no specific task. Let me know what you need — e.g., review the change, continue the queue drain, or something else.
+The message appears truncated — I can see "syntax-repair backend" and "translation harness" context, but no actual task or source content was included. What would you like me to do?
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Politics|15 shtator 2026|1375094108}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Politics, versioni i datës 15 shtator 2026 (revizioni 1375094108).
+-->

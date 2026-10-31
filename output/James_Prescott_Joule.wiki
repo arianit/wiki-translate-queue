@@ -1,0 +1,196 @@
+{{short description|Fizikan anglez (1818–1889)}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox scientist
+| honorific_suffix = FRS, FRSE
+| image            = Joule James sitting.jpg
+| birth_date       = {{Birth date|df=y|1818|12|24}}
+| birth_place      = [[Salford]], Lancashire, Anglia
+| death_date       = {{Death date and age|df=yes|year=1889|month=10|day=11|year2=1818|month2=12|day2=24}}
+| death_place      = [[Sale, Greater Manchester|Sale]], Cheshire, Anglia
+| known_for        = Përgënjeshtrimi i {{ill|Teoria kalorike|en|Caloric theory|lt=teorisë kalorike}}<br />{{ill|Zgjerimi i Xhulit|en|Joule expansion}}<br />{{ill|Ngrohja e Xhulit|en|Joule heating}}<br />{{ill|Efekti Xhul–Tomson|en|Joule–Thomson effect}}<br />{{ill|Efekti Gough–Xhul|en|Gough–Joule effect}}<br />{{ill|Ligji i parë i termodinamikës|en|First law of thermodynamics}}<br />{{ill|Magnetostriksioni|en|Magnetostriction}}<br />{{ill|Ekuivalenti mekanik i nxehtësisë|en|Mechanical equivalent of heat}}
+| spouse           = {{Marriage |Amelia Grimes|1847|1854|end=d}}
+| children         = 3
+| awards           = {{ill|Medalja Mbretërore|en|Royal Medal}} (1852)<br />{{ill|Medalja Copley|en|Copley Medal}} (1870)<br />{{ill|Medalja Albert|en|Albert Medal (Royal Society of Arts)}} (1880)
+| field            = [[Fizika]]
+| workplaces       = 
+}}
+[[File:James Prescott Joule by John Collier, 1882.jpg|thumb|James Prescott Joule nga John Collier (1882)]]
+[[File:An electric motor presented to Kelvin by James Joule in 1842, Hunterian Museum, Glasgow.jpg|thumb|upright=1.2|Një motor elektrik i dhuruar {{ill|William Thomson|en|Lord Kelvin|lt=Kelvinit}} nga James Joule në 1842. Muzeu Hunterian, Glasgow.]]
+
+'''James Prescott Joule''' ({{IPA|en|dʒuːl}};{{sfn|Murray|1901|p=606}}{{sfn|Allen|1943|p=354}}{{efn|[[OED]]: "Megjithëse disa njerëz me këtë mbiemër e shqiptojnë {{IPA|en|dʒaʊl}}, dhe të tjerë {{IPA|en|dʒəʊl}} [formati i OED për {{IPA|en|dʒoʊl}}], është pothuajse e sigurt se J. P. Joule (dhe të paktën disa nga të afërmit e tij) përdornin {{IPA|en|dʒuːl}}."}} 24 dhjetor 1818 – 11 tetor 1889) ishte një [[Fizikanti|fizikant]] anglez. Xhuli studioi natyrën e nxehtësisë dhe zbuloi lidhjen e saj me {{ill|Puna mekanike|en|Mechanical work|lt=punën mekanike}}. Kjo çoi në [[Ligji i ruajtjes së energjisë|ligjin e ruajtjes së energjisë]], i cili nga ana tjetër çoi në zhvillimin e ligjit të parë të termodinamikës. Njësia e [[Sistemi Ndërkombëtar i Njësive|SI]] e [[Energjia|energjisë]], [[Xhauli|xhauli]] (J), është emëruar sipas tij.
+
+Ai punoi me Lord Kelvin për të zhvilluar një shkallë absolute termodinamike të temperaturës, e cila u quajt shkalla [[Kelvini|Kelvin]]. Xhuli bëri gjithashtu vëzhgime të magnetostriksionit dhe gjeti marrëdhënien midis [[Rryma elektrike|rrymës elektrike]] përmes një [[Rezistorët|rezistori]] dhe nxehtësisë së shpërndarë, e cila quhet gjithashtu [[Ligji i Xhulit|ligji i parë i Xhulit]]. Eksperimentet e tij mbi transformimet e energjisë u botuan për herë të parë në 1843.
+
+==Vitët e hershme==
+James Xhuli lindi në 1818, i biri i Benjamin Xhulit, një prodhues birre i pasur, dhe gruas së tij, Alice Prescott, në New Bailey Street në Salford.{{sfn|Biographical Index|2006|p=}} Xhuli u mësua si i ri nga shkencëtari i famshëm [[John Dalton]] dhe u ndikua fuqimisht nga kimisti William Henry dhe inxhinierët e Mançesterit Peter Ewart dhe Eaton Hodgkinson. Ai ishte i magjepsur nga elektriciteti, dhe ai dhe vëllai i tij eksperimentuan duke i dhënë goditje elektrike njëri-tjetrit dhe shërbëtorëve të familjes.<ref>{{Cite web |url=https://www.aps.org/publications/apsnews/200912/physicshistory.cfm |title=This Month Physics History: December 1840: Joule's abstract on converting mechanical power into heat|language=en}}</ref>
+
+Si i rritur, Xhuli menaxhoi fabrikën e birrës. Shkenca ishte thjesht një hobi serioz. Diku rreth vitit 1840, ai filloi të hetonte mundësinë e zëvendësimit të [[Makina me avull|makinave me avull]] të fabrikës me [[Motori elektrik|motorin elektrik]] të sapo shpikur. Punimet e tij të para shkencore mbi këtë temë u kontribuan në ''Annals of Electricity'' të William Sturgeon. Xhuli ishte anëtar i Shoqërisë Elektrike të Londrës, e themeluar nga Sturgeon dhe të tjerë.{{Citim i duhur|date=January 2024}}
+
+I motivuar pjesërisht nga dëshira e një biznesmeni për të matur ekonominë e zgjedhjes, dhe pjesërisht nga kureshtja e tij shkencore, ai u nis të përcaktonte se cili motor ishte më efikas. Ai zbuloi [[Ligji i Xhulit|ligjin e parë të Xhulit]] në 1841, se "nxehtësia që evoluohet nga veprimi i duhur i çdo rrymë voltaike është proporcionale me katrorin e intensitetit të asaj rrymë, shumëzuar me rezistencën ndaj përcjelljes që ajo përjeton".{{sfn|Joule|1841|p=260}} Ai vazhdoi të kuptonte se djegia e një kile qymyr në një motor me avull ishte më ekonomike sesa një kile e shtrenjtë [[Zinku|zinku]] e konsumuar në një bateri elektrike. Xhuli kapi prodhimin e metodave alternative në terma të një standardi të përbashkët, aftësinë për të ngritur një masë prej një kile në një lartësi prej një këmbe, ''këmbë-kilën''.{{Citim i duhur|date=January 2024}}
+
+Megjithatë, interesi i Xhulit u largua nga çështja e ngushtë financiare në atë se sa punë mund të nxirrej nga një burim i caktuar, duke e çuar atë të spekulonte mbi konvertueshmërinë e energjisë. Në 1843 ai botoi rezultatet e eksperimenteve që tregonin se efekti i ngrohjes që ai kishte matur në 1841 ishte për shkak të gjenerimit të nxehtësisë në përcjellës dhe jo transferimit të saj nga një pjesë tjetër e pajisjes. Kjo ishte një sfidë e drejtpërdrejtë ndaj teorisë kalorike e cila mbante se nxehtësia nuk mund të krijohej as të shkatërrohej. Teoria kalorike kishte dominuar mendimin në shkencën e nxehtësisë që nga prezantimi i saj nga [[Antoine Laurent de Lavoisier|Antoine Lavoisier]] në 1783. Prestigji i Lavoisier dhe suksesi praktik i {{ill|Motori me nxehtësi|en|Heat engine|lt=motorit me nxehtësi}} të [[Sadi Carnot|Sadi Carnot]] që nga 1824 siguruan që i riu Xhuli, duke punuar jashtë [[Akademia|akademisë]] ose profesionit të inxhinierisë, kishte një rrugë të vështirë përpara. Përkrahësit e teorisë kalorike treguan lehtësisht simetrinë e {{ill|Efekti Peltier–Seebeck|en|Peltier–Seebeck effect|lt=efektit Peltier–Seebeck}} për të pohuar se nxehtësia dhe rryma ishin të konvertueshme në një proces të kthyeshëm, të paktën përafërsisht.{{Citim i duhur|date=January 2024}}
+==Ekuivalenti mekanik i nxehtësisë==
+Eksperimente dhe matje të mëtejshme me motorin e tij elektrik e çuan Xhulin të vlerësonte ekuivalentin mekanik të nxehtësisë si 4,1868 xhul për [[Kaloria|kalori]] (puna e nevojshme për të rritur temperaturën e një grami ujë me një shkallë Celsius ose Kelvin).{{Efn|Njësia e Xhulit prej 1&nbsp;ft·lbf/Btu korrespondon me {{Val|5.3803|e=-3|u=J/cal}}. Kështu vlerësimi i Xhulit ishte {{Val|4.15|u=J/cal}}, krahasuar me vlerën e pranuar në fillim të shekullit të 20-të prej {{Val|4.1860|u=J/cal}}{{Harvnb|Zemansky|1968|p=86}}}} Ai njoftoi rezultatet e tij në një takim të seksionit kimik të Shoqatës Britanike për Përparimin e Shkencës në Cork në gusht 1843 dhe u prit me heshtje.{{Sfn|Joule|1843|pp=263, 347 & 435}}
+
+Xhuli nuk u tremb dhe filloi të kërkonte një demonstrim thjesht mekanik të shndërrimit të punës në nxehtësi. Duke e detyruar ujin të kalonte nëpër një cilindër të shpuar, ai mundi të masë ngrohjen e lehtë [[Viskoziteti|viskoze]] të lëngut. Ai mori një ekuivalent mekanik prej {{Convert|770|ftlbf/BTU|J/cal|sigfig=3}}. Fakti që vlerat e marra si me mjete elektrike ashtu edhe thjesht mekanike ishin në përputhje me të paktën dy shifra domethënëse ishte, për Xhulin, provë bindëse e realitetit të shndërrueshmërisë së punës në nxehtësi.
+
+<blockquote>Kudo që shpenzohet forcë mekanike, gjithmonë fitohet një ekuivalent i saktë i nxehtësisë.—J.P. Xhuli, gusht 1843</blockquote>
+
+Xhuli tani provoi një rrugë të tretë. Ai mati nxehtësinë e gjeneruar kundrejt punës së kryer në ngjeshjen e një gazi. Ai mori një ekuivalent mekanik prej {{Convert|798|ftlbf/BTU|J/cal|sigfig=3}}. Në shumë mënyra, ky eksperiment ofronte objektivin më të lehtë për kritikët e Xhulit, por Xhuli i largoi kundërshtimet e pritura me anë të eksperimentimit të zgjuar. Xhuli e lexoi punimin e tij në {{ill|Shoqërinë Mbretërore|en|Royal Society|lt=Shoqërinë Mbretërore}} më 20 qershor 1844,{{Sfn|Joule|1844|pp=}}{{Sfn|Joule|1884|p=171}} por punimi i tij u refuzua për botim nga Shoqëria Mbretërore dhe ai duhej të kënaqej me botimin në ''Philosophical Magazine'' në 1845.{{Sfn|Joule|1845|pp=369–383}} Në punim ai ishte i hapur në refuzimin e arsyetimit kalorik të Karno-s dhe Émile Clapeyron, një refuzim pjesërisht i nxitur nga [[Teologjia|teologjia]]:{{Citim i duhur|date=January 2024}}
+
+<blockquote>Unë mendoj se kjo teori&nbsp;... është në kundërshtim me parimet e njohura të filozofisë, sepse çon në përfundimin se ''vis viva'' mund të shkatërrohet nga një rregullim i papërshtatshëm i aparatit: Kështu zoti Klapejron nxjerr përfundimin se 'temperatura e zjarrit është 1000&nbsp;°C deri në 2000&nbsp;°C më e lartë se ajo e bojlerit, pra ka një humbje të madhe të ''vis viva'' në kalimin e nxehtësisë nga furra në bojler.' Duke besuar se fuqia për të shkatërruar i përket vetëm Krijuesit, unë pohoj&nbsp;... se çdo teori që, kur zbatohet, kërkon asgjësimin e forcës, është domosdoshmërisht e gabuar.</blockquote>
+
+Xhuli këtu përdor gjuhën e ''vis viva'' (energjisë), ndoshta sepse Hodgkinson kishte lexuar një përmbledhje të ''Mbi masën e forcës lëvizëse'' të Ewart-it në Shoqërinë Letrare dhe Filozofike në prill 1844.{{Citim i duhur|date=January 2024}}
+
+Në qershor 1845, Xhuli lexoi punimin e tij ''Mbi ekuivalentin mekanik të nxehtësisë'' në takimin e Shoqatës Britanike në [[Kembrixhi|Kembrixhin]].{{Sfn|Joule|1845b|p=31}} Në këtë punim, ai raportoi eksperimentin e tij më të njohur, që përfshinte përdorimin e një peshe që bie, në të cilin graviteti kryen punën mekanike, për të rrotulluar një rrotë me lopata në një fuçi të izoluar me ujë, e cila rriti temperaturën. Ai tani vlerësoi një ekuivalent mekanik prej {{Convert|819|ftlbf/BTU|J/cal|sigfig=4}}. Ai shkroi një letër në ''Philosophical Magazine'', botuar në shtator 1845, duke përshkruar eksperimentin e tij.{{Sfn|Joule|1845c|pp=205–207}}
+
+[[File:Joule's heat apparatus.JPG|thumb|upright=0.75|right|Aparati i nxehtësisë i Xhulit, 1845]]
+
+Në 1850, Xhuli botoi një matje të përmirësuar prej {{Convert|772.692|ftlbf/BTU|J/cal|sigfig=4}}, më afër vlerësimeve të shekullit të 20-të.{{Sfn|Joule|1850|pp=61–82}}
+==Pritja dhe prioriteti==
+{{Hatnote|Për polemikën mbi prioritetin me Mayer-in, shih {{ill|Ekuivalenti mekanik i nxehtësisë|en|Mechanical equivalent of heat}}}}
+[[File:Joule's Apparatus (Harper's Scan).png|thumb|Aparati i Xhulit për matjen e ekuivalentit mekanik të nxehtësisë]]
+Pjesa më e madhe e rezistencës fillestare ndaj punës së Xhulit vinte nga varësia e saj nga matjet jashtëzakonisht të sakta. Ai pretendonte se ishte në gjendje të matte temperaturat deri në 1/200 të gradës Fahrenheit (3&nbsp;mK). Një saktësi e tillë ishte sigurisht e pazakontë në fizikën eksperimentale të kohës, por dyshuesit e tij mund të kishin neglizhuar përvojën e tij në artin e birrës dhe aksesin e tij në teknologjitë praktike.{{Sfn|Sibum|1995}} Ai u mbështet gjithashtu nga prodhuesi i instrumenteve shkencorë John Benjamin Dancer. Eksperimentet e Xhulit plotësuan punën teorike të Rudolf Clausius, i cili konsiderohet nga disa si bashkëshpikës i konceptit të energjisë.{{Citim i duhur|date=January 2024}}
+
+Xhuli po propozonte një teori kinetike të nxehtësisë (ai besonte se ishte një formë e energjisë kinetike rrotulluese, në vend të asaj përkthimore), dhe kjo kërkonte një kërcim konceptual: nëse nxehtësia ishte një formë e lëvizjes molekulare, pse lëvizja e molekulave nuk shuhej gradualisht? Idetë e Xhulit kërkonin të besohej se përplasjet e molekulave ishin krejtësisht elastike. Më e rëndësishmja, vetë ekzistenca e [[Atomi|atomeve]] dhe [[Molekula|molekulave]] nuk u pranua gjerësisht për 50 vjet të tjera, megjithëse puna thelbësore mbi ekzistencën e molekulave, atomeve dhe elektroneve ishte në vazhdim gjatë gjithë shekullit të 19-të dhe fillimit të shekullit të 20-të, nga ajo e [[John Dalton]] deri te [[Ernest Rutherford]]. Një përmbledhje e veprave të Dalton u botua në 1893, 49 vjet pas vdekjes së tij.<ref>{{Cite book |last=Dalton |first=John |title=Foundations of the Atomic Theory |publisher=William F. Clay |location=Edinburgh |year=1893 |url=https://books.google.com/books?id=V5sEAAAAYAAJ |access-date=2024-12-13 |language=en}}</ref>
+
+Megjithëse sot mund të jetë e vështirë të kuptohet tërheqja e teorisë kalorike, në atë kohë ajo dukej se kishte disa përparësi të qarta. Teoria e suksesshme e [[Sadi Carnot|Karnosë]] për motorët me nxehtësi ishte gjithashtu e bazuar në supozimin kalorik, dhe vetëm më vonë u vërtetua nga Lord Kelvin se matematika e Karnosë ishte po aq e vlefshme pa supozimin e një lëngu kalorik.{{Citim i duhur|date=January 2024}}
+
+Megjithatë, në Gjermani, Hermann Helmholtz u njoh si me punën e Xhulit ashtu edhe me punën e ngjashme të Julius Robert von Mayer në 1842. Megjithëse të dy kishin qenë të neglizhuar që nga botimet e tyre përkatëse, deklarata përfundimtare e Helmholtz-it në 1847 për [[Ligji i ruajtjes së energjisë|ruajtjen e energjisë]] i vlerësoi të dy.<ref>{{Cite book |chapter-url=https://books.google.com/books?id=C1i4AAAAIAAJ&q=Joule&pg=PA114 |chapter=Helmholtz on the Conservation of Force |title=Scientific Memoirs, Selected from the Transactions of Foreign Academies of Science, and from Foreign Journals, Natural Philosophy |volume=I |page=135 |date=1853 |first=Hermann |last=Helmholtz |access-date=2024-12-13 |language=en}}</ref><ref name=Patton2008>{{Cite encyclopedia |url=https://plato.stanford.edu/entries/hermann-helmholtz/?simple=True |last=Patton |first=Lydia |title=Hermann von Helmholtz, 4.1 Conservation of energy: 1842–1854 |date=2008 |encyclopedia=Stanford Encyclopedia of Philosophy |access-date=2024-12-13 |language=en}}</ref>
+
+Gjithashtu në 1847, një tjetër prezantim i Xhulit në Shoqatën Britanike në [[Oksford]] u ndoq nga George Gabriel Stokes, [[Michael Faraday]] dhe William Thomson, i hershëm dhe i pavarur, i cili më vonë u bë Lord Kelvin, i cili sapo ishte emëruar profesor i [[Filozofia natyrore|filozofisë natyrore]] në [[Universiteti i Glasgout|Universitetin e Glasgout]]. Stokes ishte "i prirur të ishte një Xhulit" dhe Faraday ishte "shumë i impresionuar" megjithëse kishte dyshime. Thomson ishte i intriguar por skeptik.{{Citim i duhur|date=January 2024}}
+
+Në mënyrë të papritur, Thomson dhe Xhuli u takuan më vonë atë vit në Chamonix. Xhuli u martua me Amelia Grimes më 18 gusht dhe çifti shkoi në muajin e mjaltit. Pavarësisht entuziazmit martesor, Xhuli dhe Thomson ranë dakord të provonin një eksperiment disa ditë më vonë për të matur ndryshimin e temperaturës midis majës dhe fundit të ujëvarës Cascade de Sallanches, megjithëse kjo më pas doli të ishte e papraktikueshme.{{Citim i duhur|date=January 2024}}
+
+Megjithëse Thomson mendonte se rezultatet e Xhulit kërkonin një shpjegim teorik, ai u tërhoq në një mbrojtje të zjarrtë të shkollës Karno–Klapeyron. Në trajtimin e tij të 1848 për temperaturën absolute, Thomson shkroi se "shndërrimi i nxehtësisë (ose kalorikut) në efekt mekanik është ndoshta i pamundur, sigurisht i pazbuluar"{{Sfn|Thomson|1848|pp=}}{{Sfn|Thomson|1882|pp=100–106}} – por një shënim në fund të faqes sinjalizoi dyshimet e tij të para për teorinë kalorike, duke iu referuar "zbulimeve shumë të shquara" të Xhulit. Çuditërisht, Thomson nuk i dërgoi Xhulit një kopje të punimit të tij, por kur Xhuli më në fund e lexoi, ai i shkroi Thomsonit më 6 tetor, duke pretenduar se studimet e tij kishin demonstruar shndërrimin e nxehtësisë në punë, por se po planifikonte eksperimente të mëtejshme. Thomson u përgjigj më 27, duke zbuluar se po planifikonte eksperimentet e tij dhe shpresonte për një pajtim të pikëpamjeve të tyre. Megjithëse Thomson nuk kreu eksperimente të reja, gjatë dy viteve të ardhshme ai u bë gjithnjë e më i pakënaqur me teorinë e Karnosë dhe i bindur për atë të Xhulit. Në punimin e tij të 1851, Thomson ishte i gatshëm të shkonte jo më larg se një kompromis dhe deklaroi "e gjithë teoria e fuqisë lëvizëse të nxehtësisë bazohet në dy propozime, përkatësisht nga Xhuli dhe nga Karno dhe Clausius".{{Citim i duhur|date=January 2024}}
+
+Sapo Xhuli lexoi punimin, ai i shkroi Thomsonit me komentet dhe pyetjet e tij. Kështu filloi një bashkëpunim frytdhënës, megjithëse kryesisht epistolar, midis dy burrave, Xhuli duke kryer eksperimente, Thomson duke analizuar rezultatet dhe duke sugjeruar eksperimente të mëtejshme. Bashkëpunimi zgjati nga 1852 deri në 1856, zbulimet e tij përfshinin efektin Xhul–Tomson, dhe rezultatet e publikuara bënë shumë për të sjellë pranimin e përgjithshëm të punës së Xhulit dhe {{ill|Teoria kinetike e gazrave|en|Kinetic theory of gases|lt=teorisë kinetike}}.{{Citim i duhur|date=January 2024}}
+
+==Teoria kinetike==
+[[File:Joule James Jeens engraving.jpg|right|thumb|upright=0.75|James Prescott Joule]]
+Kinetika është shkenca e lëvizjes. Xhuli ishte nxënës i [[John Dalton|Daltonit]] dhe nuk është çudi që ai kishte mësuar një besim të fortë në {{ill|Teoria atomike|en|Atomic theory|lt=teorinë atomike}}, megjithëse kishte shumë shkencëtarë të kohës së tij që ishin ende skeptikë. Ai kishte qenë gjithashtu një nga pak njerëzit që pranuan punën e neglizhuar të John Herapath mbi teorinë kinetike të gazrave. Ai u ndikua më tej thellësisht nga punimi i Peter Ewart i 1813 "Mbi masën e forcës lëvizëse".{{Citim i duhur|date=January 2024}}
+
+Xhuli e perceptoi marrëdhënien midis zbulimeve të tij dhe teorisë kinetike të nxehtësisë. Fletoret e tij laboratorike zbulojnë se ai besonte se nxehtësia ishte një formë e lëvizjes rrotulluese, në vend të asaj përkthimore.{{Citim i duhur|date=January 2024}}
+
+Xhuli nuk mundi të rezistonte të gjente paraardhës të pikëpamjeve të tij te [[Francis Bacon]], [[Isak Njutoni|Sir Isaac Newton]], [[John Locke]], Benjamin Thompson (Count Rumford) dhe [[Humphry Davy|Sir Humphry Davy]]. Megjithëse pikëpamje të tilla janë të justifikuara, Xhuli vazhdoi të vlerësonte një vlerë për ekuivalentin mekanik të nxehtësisë prej 1,034 foot-pound<!--çfarë është kjo vlerë?--> nga botimet e Rumford. Disa shkrimtarë modernë e kanë kritikuar këtë qasje me argumentin se eksperimentet e Rumford në asnjë mënyrë nuk përfaqësonin matje sistematike sasiore. Në një nga shënimet e tij personale, Xhuli pretendon se matja e Mayer nuk ishte më e saktë se ajo e Rumford, ndoshta me shpresën se Mayer nuk e kishte parashikuar punën e tij.{{Citim i duhur|date=January 2024}}
+
+Xhulit i është atribuar shpjegimi i fenomenit të shkrepjes së gjelbër të perëndimit të diellit në një letër drejtuar Manchester Literary and Philosophical Society në 1869; në fakt, ai vuri re pamjen e fundit si blu e gjelbër, pa u përpjekur të shpjegonte fenomenin.{{Sfn|Joule|1884|p= [https://archive.org/stream/scientificpapers01joul#page/606/ 606]}}
+==Punimet e botuara==
+{{Refbegin}}
+*{{Cite journal|last=Joule|first=J. P.|title=On the Heat evolved by Metallic Conductors of Electricity, and in the Cells of a Battery during Electrolysis|journal=Philosophical Magazine| year=1841|volume=19|issue=124|page=260|doi=10.1080/14786444108650416| url=https://books.google.com/books?id=hJEOAAAAIAAJ&pg=PA260|display-authors=0|language=en}}
+*{{Cite journal|last=Joule|first=J. P.|title=On the Calorific Effects of Magneto-Electricity, and on the Mechanical Value of Heat| journal=Philosophical Magazine|year=1843| volume=23|series=3|issue=154|pages=435–443| url=https://www.biodiversitylibrary.org/item/20095#page/279/mode/1up| doi=10.1080/14786444308644766|display-authors=0|language=en}}
+*{{Cite journal|last=Joule|first=J. P.|title=On the Changes of Temperature Produced by the Rarefaction and Condensation of Air|journal=Proceedings of the Royal Society of London|url=https://books.google.com/books?id=MfYrAQAAMAAJ&pg=PA517|volume=5|pages=517–518|year=1844|doi=10.1098/rspl.1843.0031|display-authors=0|doi-access=free|url-access=subscription|language=en}}
+*{{Cite journal | last= Joule|first= J. P. | title = On the Changes of Temperature Produced by the Rarefaction and Condensation of Air | journal = Philosophical Magazine |series = 3 | volume = 26| issue = 174 |year = 1845| pages=369–383 |url = https://www.biodiversitylibrary.org/item/20067#page/382/mode/2up | doi=10.1080/14786444508645153|display-authors=0|language=en}}
+*{{Cite journal | last= Joule|first= J. P. |date=1845b |url=https://www.biodiversitylibrary.org/item/46638#page/429/mode/1up|title=On the Mechanical Equivalent of Heat|journal=Notices and Abstracts of Communications to the British Association for the Advancement of Science|volume= 15 |display-authors=0|language=en}} Lexuar para Shoqatës Britanike në Kembrixh, qershor 1845.
+*{{Cite journal|last=Joule|first=J. P.|title=On the Existence of an Equivalent Relation between Heat and the ordinary Forms of Mechanical Power|journal=Philosophical Magazine |date=1845c|volume=27|series=3|issue=179 | pages=205–207|doi=10.1080/14786444508645256 |url=https://www.biodiversitylibrary.org/item/19987#page/219/mode/1up|display-authors=0|language=en}}
+*{{Cite journal|last=Joule|first=J. P.|title=On the Mechanical Equivalent of Heat|journal=Philosophical Transactions of the Royal Society of London|date=1850|volume=140|pages=61–82|doi=10.1098/rstl.1850.0004|url=https://archive.org/stream/philtrans00608634/00608634#page/n0/mode/2up|display-authors=0|doi-access=free|language=en}}
+*{{Cite book | last= Joule|first= J. P. | title = The Scientific Papers of James Prescott Joule | publisher = Physical Society
+ | location = London | year = 1884 | url = https://archive.org/stream/scientificpapers01joul#page/n3/mode/2up |display-authors=0|ol=239730M|language=en}}
+* {{Cite book|title=Joint scientific papers|volume=|publisher=Taylor and Francis|location=London|year=1887|language=en|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=11939368}}
+{{Refend}}
+<gallery>
+File:Joule-1.jpg|Vëllimet I dhe II të "The Scientific Papers"
+File:Joule-3.jpg|Faqja e titullit të vëllimit I të "The Scientific Papers"
+File:Joule-4.jpg|Parathënia e vëllimit I të "The Scientific Papers"
+File:Joule-5.jpg|Figurë nga vëllimi I i "The Scientific Papers"
+</gallery>
+
+==Nderimet==
+
+[[File:James Joule statue Manchester City Hall 20051020.jpg|thumb|upright=0.75|right|Një statujë e Xhulit në Sallën e Qytetit të Mançesterit]]
+[[File:James Prescott Joule gravestone.JPG|thumb|upright=0.75|right|Varri i Xhulit në varrezat e Brooklands në Sale]]
+Xhuli vdiq në shtëpinë e tij në Sale<ref name="GRO" /> dhe është varrosur në varrezat e Brooklands atje. Pubi Wetherspoons në Sale, qyteti i vdekjes së tij, quhet "The J. P. Joule" sipas tij.
+
+Nderimet dhe vlerësimet e Xhulit përfshijnë:
+
+*Anëtar i Shoqërisë Mbretërore (1850)
+**Medalja Mbretërore (1852), 'Për punimin e tij mbi ekuivalentin mekanik të nxehtësisë, botuar në Philosophical Transactions për 1850'
+**Medalja Copley (1870), 'Për kërkimet e tij eksperimentale mbi teorinë dinamike të nxehtësisë'
+*Kryetar i Shoqërisë Letrare dhe Filozofike të Mançesterit (1860)
+*Kryetar i Shoqatës Britanike për Avancimin e Shkencës (1872, 1887)
+*Anëtar Nderi i Institucionit të Inxhinierëve dhe Ndërtuesve të Anijeve në Skoci<ref name="iesis.org" /> (1857)
+*Grada nderi:
+**Doktor i të Drejtave (LL.D.), Kolegji i Trinitetit, Dublini (1857)
+**Doktor i së Drejtës Civile (DCL), [[Universiteti i Oksfordit]] (1860)
+**LL.D., [[Universiteti i Edinburgut]] (1871)
+*Xhuli mori një pension nga lista civile prej £200 në vit në 1878 për shërbime ndaj shkencës
+*Medalja Albert (RSA) e Shoqërisë Mbretërore të Arteve (1880), 'për të vendosur, pas kërkimeve shumë të mundimshme, marrëdhënien e vërtetë midis nxehtësisë, elektricitetit dhe punës mekanike, duke i dhënë kështu inxhinierit një udhëzues të sigurt në aplikimin e shkencës në përpjekjet industriale'
+
+Ekziston një memorial për Xhulin në krahun verior të korit të {{ill|Abacia e Westminsterit|en|Westminster Abbey|lt=Abacisë së Westminsterit}}, megjithëse ai nuk është varrosur atje, në kundërshtim me atë që thonë disa biografi.{{Sfn|Hall|1966|p=62}} Një statujë e Xhulit nga Alfred Gilbert qëndron në Sallën e Qytetit të Mançesterit.
+==Familja==
+Joule u martua me Amelia Grimes në 1847<ref>{{Cite journal |last=Bottomley |first=J. T. |date=1882 |title=Scientific Worthies |url=https://www.nature.com/articles/026617a0 |journal=Nature |language=en |volume=26 |issue=678 |pages=617–620 |doi=10.1038/026617a0 |issn=1476-4687}}</ref>. Ajo vdiq në 1854, shtatë vjet pas dasmës së tyre<ref>{{Cite web |title=The Royal Society |url=https://makingscience.royalsociety.org/people/na7041/james-prescott-joule |language=en}}</ref>. Ata patën tre fëmijë së bashku: një djalë, Benjamin Arthur Joule (1850–1922), një vajzë, Alice Amelia (1852–1899), dhe një djalë të dytë, Joe (lindur në 1854, vdiq tri javë më vonë).
+
+==Referencat==
+===Shënime===
+{{Listë shënimesh}}
+
+===Citimet===
+<references>
+<ref name="iesis.org">{{Cite web |title=Honorary Members and Fellows |last=Cameron |first=Stuart D |work=Institution of Engineers and Shipbuilders in Scotland |date=n.d. |access-date=2019-09-17 |url= http://www.iesis.org/honorary-fellows.html |language=en}}</ref>
+
+<ref name="GRO">GRO Register of Deaths: DEC 1889 8a 121 ALTRINCHAM – James Prescott Joule</ref>
+
+<!-- Not in use
+<ref name="joulesbrewery.co.uk">{{Cite web |title=Our Story – Joules Brewery |last=Holloway |first=Mark |work=joulesbrewery.co.uk |access-date=2019-09-17 |url= https://www.joulesbrewery.co.uk/our-story |language=en}}</ref>
+Not in use-->
+</references>
+
+===Burimet===
+{{Refbegin}}
+*{{Cite journal |last1=Allen |first1=H. S. |s2cid=4182911 |title=James Prescott Joule and the Unit of Energy |journal=Nature |volume=152 |issue=3856 |year=1943 |pages=354 |issn=0028-0836 |doi=10.1038/152354a0 |bibcode=1943Natur.152..354A |doi-access=free |language=en}}
+*{{Cite book |title=Biographical Index of Former Fellows of the Royal Society of Edinburgh 1783–2002 |date=July 2006 |publisher=The Royal Society of Edinburgh |isbn=0-902-198-84-X |url=https://www.royalsoced.org.uk/cms/files/fellows/biographical_index/fells_indexp1.pdf |access-date=2017-02-01 |archive-date=2013-01-24 |archive-url=https://web.archive.org/web/20130124115814/http://www.royalsoced.org.uk/cms/files/fellows/biographical_index/fells_indexp1.pdf |url-status=dead |language=en}}
+*{{Cite book |first=Donald S. L. |last=Cardwell |title=James Joule: A Biography |url=https://books.google.com/books?id=ZWLQAAAAIAAJ&pg=PA322 |year=1991 |publisher=Manchester University Press |isbn=978-0-7190-3479-4 |language=en}}
+*{{Cite book |last=Hall |first=Alfred Rupert |author-link=Alfred Rupert Hall |title=The Abbey Scientists |url=https://books.google.com/books?id=N9wNAQAAIAAJ |year=1966 |publisher=R. & R. Nicholson |language=en}}
+*{{Cite book |title=A new English dictionary on historical principles; founded mainly on the materials collected by the Philological society |last=Murray |first=James Augustus Henry |date=1901 |location=Oxford |publisher=Clarendon |url=https://archive.org/stream/newenglishdict05murrmiss#page/606/mode/2up |language=en}}
+*{{Cite journal |last=Sibum |first=H. O. |title=Reworking the mechanical value of heat: instruments of precision and gestures of accuracy in early Victorian England |year=1995 |journal=Studies in History and Philosophy of Science |volume=26 |issue=1 |pages=73–106 |doi=10.1016/0039-3681(94)00036-9 |bibcode=1995SHPSA..26...73S |language=en}}
+*{{Cite journal |last=Thomson |first=William |title=On an Absolute Thermometric Scale founded on Carnot's Theory of the Motive Power of Heat, and calculated from Regnault's Observations |journal=Philosophical Journal |year=1848 |language=en}}
+* {{Cite book |last=Thomson |first=William |title=Mathematical and Physical Papers |year=1882 |publisher=University Press |location=Cambridge |language=en}}
+*{{Cite book |title=Heat and thermodynamics: an intermediate textbook |url=https://archive.org/details/heatthermodynami0000zema |url-access=registration |first=Mark W |last=Zemansky |location=New York |publisher=McGraw-Hill |date=1968 |oclc=902055813 |edition=5th |language=en}}
+{{Refend}}
+
+===Lexim i mëtejshëm===
+{{Refbegin}}
+*{{Cite journal |author=Bottomley, J. T. |title=James Prescott Joule |year=1882 |journal=Nature |volume=26 |pages=617–620 |bibcode=1882Natur..26..617B |doi=10.1038/026617a0 |issue=678 |doi-access=free |language=en}}
+*{{Cite journal |author=Forrester, J. |title=Chemistry and the Conservation of Energy: The Work of James Prescott Joule |year=1975 |journal=Studies in the History and Philosophy of Science |volume=6 |pages=273–313 |doi=10.1016/0039-3681(75)90025-4 |issue=4 |bibcode=1975SHPSA...6..273F |language=en}}
+*Fox, R, "James Prescott Joule, 1818–1889", in {{Cite book |author=North, J. |title=Mid-nineteenth-century scientists |publisher=Elsevier |year=1969 |pages=72–103 |isbn=0-7190-3479-5 |language=en}}
+*{{Cite encyclopedia |title=Joule, James Prescott |last=Glazebrook |first=Richard Tetley |encyclopedia=Dictionary of National Biography |volume=30 |url=https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Joule,_James_Prescott |language=en}}
+*{{Cite book |author=Reynolds, Osbourne |title=Memoir of James Prescott Joule |year=1892 |volume=6 |publisher=Manchester Literary and Philosophical Society |place=Manchester, England |url=https://www.biodiversitylibrary.org/item/109972#page/11/mode/1up |access-date=2014-03-05 |language=en}}
+*{{Cite book |author=Smith, C. |title=The Science of Energy: A Cultural History of Energy Physics in Victorian Britain |location=London |publisher=Heinemann |year=1998 |isbn=0-485-11431-3 |language=en}}
+*{{Cite encyclopedia |title=Joule, James Prescott |last=Smith |first=Crosbie |date=2011-01-06 |encyclopedia=Oxford Dictionary of National Biography |doi=10.1093/ref:odnb/15139 |language=en}}
+*{{Cite book |author1=Smith, C. |author2=Wise, M.N. |title=Energy and Empire: A Biographical Study of Lord Kelvin |publisher=Cambridge University Press |year=1989 |isbn=0-521-26173-2 |url=https://books.google.com/books?id=2JYWeyAXpHUC&q=joule%201844&pg=PA305 |language=en}}
+*{{Cite book |author=Steffens, H.J. |title=James Prescott Joule and the Concept of Energy |publisher=Watson |year=1979 |isbn=0-88202-170-2 |language=en}}
+*{{Cite book |author=Walker, James |title=Physics 4th Edition |publisher=Pearson |year=1950 |isbn=978-0-321-54163-5 |language=en}}
+*{{Cite journal |title=Obituary : Dr. Joule |journal=Electrical Engineer |year=1889 |issue=18 October |pages=[https://archive.org/details/electricalengin01unkngoog/page/n325 311]–312 |location=London |url=https://archive.org/details/electricalengin01unkngoog |quote=James Joule obituary. |publisher=Biggs & Co |language=en}}
+{{Refend}}
+== Lidhje të jashtme ==
+{{Commonskat}}
+{{Wikisource|works=or}}
+*[https://openlibrary.org/books/OL239730M/The_scientific_papers_of_James_Prescott_Joule Punimet shkencore të James Prescott Joule (1884)] – të shënuara nga Joule
+*[https://archive.org/stream/scientificpapers00joul Punimet e përbashkëta shkencore të James Prescott Joule (1887)] – të shënuara nga Joule
+*[http://www.chemteam.info/Chem-History/Joule-Heat-1845.html Punime klasike të 1845 dhe 1847 në faqen ChemTeam] ''Mbi ekuivalentin mekanik të nxehtësisë'' dhe ''Mbi ekzistencën e një relacioni ekuivalent midis nxehtësisë dhe formave të zakonshme të fuqisë mekanike''
+*[http://www.scienceandsociety.co.uk/results.asp?image=10301513 Aparati i fërkimit të ujit i Joule] në Muzeun e Shkencës në Londër
+*''[http://web.lemoyne.edu/~giunta/JOULE1.html Disa vërejtje mbi nxehtësinë dhe përbërjen e lëngjeve elastike]'', vlerësimi i Joule i vitit 1851 për shpejtësinë e një molekule gazi
+*[https://archiveshub.jisc.ac.uk/manchesteruniversity/data/gb133-jpj Dorëshkrimet e Joule] në Biblioteka e Universitetit të Mançesterit
+*[https://web.archive.org/web/20101006041736/http://bad.org.uk/Portals/_Bad/History/Historical%20poster%2006.pdf Materiale të Universitetit të Mançesterit mbi Joule] – përfshin fotografi të shtëpisë dhe varrit të Joule
+*[https://www.salford.ac.uk/our-facilities/joule-physics-laboratories Laboratori i Fizikës Joule] në Universiteti i Salfordit
+*[https://www.jstor.org/stable/27757615 Punime në elektrokimi]
+
+{{Authority control}}
+
+[[Kategoria:James Prescott Joule| ]]
+[[Kategoria:Lindje 1818]]
+[[Kategoria:Vdekje 1889]]
+[[Kategoria:Fizikanë anglezë]]
+[[Kategoria:Birrëbërës anglezë]]
+[[Kategoria:Anëtarë të Akademisë Amerikane të Arteve dhe Shkencave]]
+[[Kategoria:Anëtarë ndërkombëtarë të Akademisë Kombëtare të Shkencave]]
+[[Kategoria:Dinamika e lëngjeve]]
+[[Kategoria:Historia e Greater Manchester]]
+[[Kategoria:Njerëz të lidhur me energjinë elektrike]]
+[[Kategoria:Njerëz të lidhur me energjinë]]
+[[Kategoria:Shkencëtarë nga Salford]]
+[[Kategoria:Marrës të Medaljes Copley]]
+[[Kategoria:Fitues të Medaljes Mbretërore]]
+[[Kategoria:Termodinamistë]]
+[[Kategoria:Shoqëria Letrare dhe Filozofike e Mançesterit]]
+[[Kategoria:Anëtarë britanikë të Shoqërisë Mbretërore]]

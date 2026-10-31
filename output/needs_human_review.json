@@ -1,0 +1,2524 @@
+[
+  {
+    "title": "Muhammad",
+    "timestamp": 1792089565.0842986,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 101,
+        "snippet": "<ref>` calls that are not present in the input.  Please re-send the actual section content (the prose under `=== Kundërs",
+        "explanation": "Unbalanced <ref> tags: 120 opening vs 117 closing </ref>"
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "'== Vitet e fundit ==' does not start at the beginning of a line"
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Duke mbyllur &lt;/ref&gt; mungon për etiketën &lt;ref&gt;"
+      },
+      {
+        "severity": "warning",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Template 'Stampa:Thinsp' does not exist on the target wiki"
+      },
+      {
+        "severity": "warning",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Template 'Stampa:Gloss' does not exist on the target wiki"
+      }
+    ]
+  },
+  {
+    "title": "Hong Kong",
+    "timestamp": 1792093648.4737508,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "warning",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Template 'Stampa:Infobox political division/styles.css' does not exist on the target wiki"
+      },
+      {
+        "severity": "warning",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Template 'Stampa:C-cmn' does not exist on the target wiki"
+      }
+    ]
+  },
+  {
+    "title": "Nazi Germany",
+    "timestamp": 1792100403.757737,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "'=== Përndjekja e romëve ===' does not start at the beginning of a line"
+      }
+    ]
+  },
+  {
+    "title": "Frida Kahlo",
+    "timestamp": 1792173005.8609834,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Invalid &lt;ref&gt; tag; name \"FOOTNOTEBurrus2005201\" defined multiple times with different content."
+      }
+    ]
+  },
+  {
+    "title": "Algeria",
+    "timestamp": 1792242119.452338,
+    "repair_rounds": 2,
+    "findings": [
+      {
+        "severity": "warning",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Template 'Moduli:TNT/config' does not exist on the target wiki"
+      }
+    ]
+  },
+  {
+    "title": "Christopher Columbus",
+    "timestamp": 1792355410.7771504,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Invalid &lt;ref&gt; tag; name \"incognita\" defined multiple times with different content."
+      }
+    ]
+  },
+  {
+    "title": "Byzantine Empire",
+    "timestamp": 1792376888.416317,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketat &lt;ref&gt; ekzistojnë për një grup të quajtur \"sh\", por nuk u gjet etiketa korresponduese &lt;references group=\"sh\"/&gt;"
+      }
+    ]
+  },
+  {
+    "title": "Fyodor Dostoevsky",
+    "timestamp": 1792379017.795067,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "warning",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Template 'Stampa:Tomorrow' does not exist on the target wiki"
+      }
+    ]
+  },
+  {
+    "title": "Asia",
+    "timestamp": 1792434431.2181861,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketat &lt;ref&gt; ekzistojnë për një grup të quajtur \"upper-alpha\", por nuk u gjet etiketa korresponduese &lt;references group=\"upper-alpha\"/&gt;"
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketat &lt;ref&gt; ekzistojnë për një grup të quajtur \"note\", por nuk u gjet etiketa korresponduese &lt;references group=\"note\"/&gt;"
+      }
+    ]
+  },
+  {
+    "title": "Austria",
+    "timestamp": 1792436862.2205768,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketat &lt;ref&gt; ekzistojnë për një grup të quajtur \"sh\", por nuk u gjet etiketa korresponduese &lt;references group=\"sh\"/&gt;"
+      }
+    ]
+  },
+  {
+    "title": "Augustus",
+    "timestamp": 1792509639.4388855,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 534,
+        "snippet": "language=grc",
+        "explanation": "|language= containing grc crashes sqwiki's CS1 module; remove the grc token (keep any other language)"
+      },
+      {
+        "severity": "error",
+        "line_number": 542,
+        "snippet": "language=grc",
+        "explanation": "|language= containing grc crashes sqwiki's CS1 module; remove the grc token (keep any other language)"
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketat &lt;ref&gt; ekzistojnë për një grup të quajtur \"sh\", por nuk u gjet etiketa korresponduese &lt;references group=\"sh\"/&gt;"
+      },
+      {
+        "severity": "warning",
+        "line_number": 128,
+        "snippet": "{{Nbsp}}p.e.s., Oktaviani u bashkua me Mark Antonin dhe Lepidin për të formuar triumviratin, gjoja për të ruajtur stabi…",
+        "explanation": "Template 'Stampa:NbSp' does not exist on the target wiki"
+      }
+    ]
+  },
+  {
+    "title": "Italy",
+    "timestamp": 1792511375.3306234,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 715,
+        "snippet": "[[UEFA Euro 2020|2020]).<ref>{{Cite web|title=Previous FIFA World Cups|url=https://www.fifa.com/worldcup/archive/index.h",
+        "explanation": "Unbalanced link: 989 occurrences of '[[' vs 988 of ']]'"
+      },
+      {
+        "severity": "error",
+        "line_number": 462,
+        "snippet": "date=2026-07",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 670,
+        "snippet": "{{Cite book|last=Allen|first=Edward Heron|title=Violin-making, as it was and is: Being a Historical, Theoretical, and P…",
+        "explanation": "citation has |access-date=/|archive-url=/|archive-date= but no |url= or |chapter-url=; restore the url (it is the path after the timestamp in archive-url) or drop the orphaned access-date"
+      }
+    ]
+  },
+  {
+    "title": "Pakistan",
+    "timestamp": 1792683943.3672612,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Iqbal\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Wright-2009\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Metcalf-2006\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Needham-1994\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Kulke-Rothermund-2016\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Stubbs-Thomson-2016\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Wolpert-1984\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Sengupta-2023\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Hardy-1972\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Wuthnow-2013\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Singh-Shani-2021\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Tucker-2020\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Mohiuddin-2007-1\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Mohiuddin-2007-2\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Riots-1\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Riots-2\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Hasan-Raza-2009\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Kumarasingham-2013\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"McGrath-1996\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Wolpert-2009\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Lapierre-Collins-2015\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Hussain-2008-1\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Hussain-2008-2\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Haqqani-2010-1\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Haqqani-2010-2\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Haqqani-2010-3\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Haqqani-2010-4\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Wynbrandt-2009\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Syed-Pio-Kamran-Zaidi-2016-1\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Syed-Pio-Kamran-Zaidi-2016-2\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Pasha-2005-1\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Pasha-2005-2\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Haqqani-2013-1\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Haqqani-2013-2\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Roberts-2003\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Hunter-2010\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Pande-2011-2\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Pande-2011-1\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Miller-2015\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Wiebes-2003\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa e përcaktuar në &lt;referenca&gt; me emrin \"Iqbal\" nuk ka përmbajtje."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Mohiuddin-2007-2\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Needham-1994\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Pande-2011-1\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Pande-2011-2\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Pasha-2005-1\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Pasha-2005-2\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Riots-1\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Riots-2\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Roberts-2003\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Sengupta-2023\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Singh-Shani-2021\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Stubbs-Thomson-2016\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Syed-Pio-Kamran-Zaidi-2016-1\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Syed-Pio-Kamran-Zaidi-2016-2\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Tucker-2020\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Wiebes-2003\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Wolpert-1984\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Wolpert-2009\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Wright-2009\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Wuthnow-2013\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Wynbrandt-2009\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "warning",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Template 'Moduli:TNT/config' does not exist on the target wiki"
+      }
+    ]
+  },
+  {
+    "title": "North America",
+    "timestamp": 1792769910.9018369,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 882,
+        "snippet": "[[Gjuha portugeze|portugalishtja]—të dyja {{ill|Gjuhët romane|en|Romance language|lt=gjuhë romane}}, që rrjedhin nga {{i",
+        "explanation": "Unbalanced link: 630 occurrences of '[[' vs 629 of ']]'"
+      },
+      {
+        "severity": "warning",
+        "line_number": 8,
+        "snippet": "{{Infobox Continent",
+        "explanation": "Template 'Stampa:Infobox Continent' does not exist on the target wiki"
+      },
+      {
+        "severity": "warning",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Template 'Stampa:Country data El Salvador' does not exist on the target wiki"
+      },
+      {
+        "severity": "warning",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Template 'Stampa:Country data Ivory Coast' does not exist on the target wiki"
+      }
+    ]
+  },
+  {
+    "title": "Periodic table",
+    "timestamp": 1792771422.2116165,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Invalid &lt;ref&gt; tag; name \"Scerri2009\" defined multiple times with different content."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Invalid &lt;ref&gt; tag; name \"Landau\" defined multiple times with different content."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"IUPAC-redbook\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Thyssen\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Goudsmit\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"rareearths\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"nefedov\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Invalid &lt;ref&gt; tag; name \"shattered\" defined multiple times with different content."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Jensen-2015\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"PTSS\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"actrev\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"lowdin\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"johnson\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"jensenlaw\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"cartoon\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"raynercanham\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Greenwood27\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"IUPAC\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Jorgensen\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"KW\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Jensen1982\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Hamilton\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"JensenLr\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Fluck\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"2015IUPAC\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Lemonick\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketat &lt;ref&gt; ekzistojnë për një grup të quajtur \"sh\", por nuk u gjet etiketa korresponduese &lt;references group=\"sh\"/&gt;"
+      }
+    ]
+  },
+  {
+    "title": "Los Angeles",
+    "timestamp": 1792784040.295503,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketat &lt;ref&gt; ekzistojnë për një grup të quajtur \"lower-alpha\", por nuk u gjet etiketa korresponduese &lt;references group=\"lower-alpha\"/&gt;"
+      },
+      {
+        "severity": "warning",
+        "line_number": 395,
+        "snippet": "{{Multikulturalizmi|multikulturor}} të qytetit. Banorët me prejardhje meksikane përbënin grupin më të madh të origjinës…",
+        "explanation": "Template 'Stampa:Multikulturalizmi' does not exist on the target wiki"
+      }
+    ]
+  },
+  {
+    "title": "Mount Everest",
+    "timestamp": 1792785476.2291484,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "warning",
+        "line_number": 178,
+        "snippet": "| <ref>{{Cite web |url= http://www.topchinatravel.com/mount-everest/the-climate-of-mount-everest.htm |title= Monthly Av…",
+        "explanation": "Table row has effective width 1 (columns, honoring rowspan/colspan), expected 2 to match the rest of the table"
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketat &lt;ref&gt; ekzistojnë për një grup të quajtur \"note\", por nuk u gjet etiketa korresponduese &lt;references group=\"note\"/&gt;"
+      }
+    ]
+  },
+  {
+    "title": "Nigeria",
+    "timestamp": 1792785773.253743,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "warning",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Template 'Moduli:TNT/config' does not exist on the target wiki"
+      }
+    ]
+  },
+  {
+    "title": "Roman Empire",
+    "timestamp": 1792787957.874681,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Potter2009_179\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Kelly2006_1\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"MorrisScheidel2009_184\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"BowmanEtal2000_721\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Treadgold1997_5_7\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Miles2000_58_60\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"GarnseySaller2015_107_11\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Bradley2002_12\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"KesslerTemin2010_137ff\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Harl1996_12535\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Harris2010_174ff\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Fagan2001_article\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Kraus2000_325_7\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Mattern1999_197\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Morgan+Johnson2009_46\""
+      }
+    ]
+  },
+  {
+    "title": "Sun",
+    "timestamp": 1792788607.09944,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 187,
+        "snippet": "</ref> Sipas hipotezës së tanishme, një [[dinamoja diellore|dinamo magnetike]], ose [[dinamoja diellore]], brenda kësaj",
+        "explanation": "Unbalanced <ref> tags: 248 opening vs 244 closing </ref>"
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Duke mbyllur &lt;/ref&gt; mungon për etiketën &lt;ref&gt;"
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"earth atmosphere\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Invalid &lt;ref&gt; tag; name \"short\" defined multiple times with different content."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Sun-Rotation-rotation\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"particle density\""
+      },
+      {
+        "severity": "warning",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Template 'Moduli:TNT/config' does not exist on the target wiki"
+      }
+    ]
+  },
+  {
+    "title": "Uranus",
+    "timestamp": 1792788886.1420846,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "warning",
+        "line_number": 96,
+        "snippet": "{{cslist|[[Amoniaku|amoniak]]|[[Akulli|akull uji]]|{{ill|Hidrosulfidi i amoniumit|en|Ammonium hydrosulfide}}|hidrat met…",
+        "explanation": "Template 'Stampa:Cslist' does not exist on the target wiki"
+      },
+      {
+        "severity": "warning",
+        "line_number": 132,
+        "snippet": "{{OED|Uranus}}",
+        "explanation": "Template 'Stampa:OED' does not exist on the target wiki"
+      }
+    ]
+  },
+  {
+    "title": "Julius Caesar",
+    "timestamp": 1792822486.0185494,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketat &lt;ref&gt; ekzistojnë për një grup të quajtur \"lower-alpha\", por nuk u gjet etiketa korresponduese &lt;references group=\"lower-alpha\"/&gt;"
+      }
+    ]
+  },
+  {
+    "title": "Philippines",
+    "timestamp": 1792824678.9994195,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "warning",
+        "line_number": 157,
+        "snippet": "Cite book |last=Spate |first=Oskar H.K. |title=The Spanish Lake |date=November 2004 |publisher=Taylor & Francis |isbn=9…",
+        "explanation": "Template 'Moduli:Cite' does not exist on the target wiki"
+      }
+    ]
+  },
+  {
+    "title": "Karl Marx",
+    "timestamp": 1792825030.93272,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 735,
+        "snippet": null,
+        "explanation": "article has <ref>/{{sfn}} citations but no {{Reflist}}; add it in the references section at the end (after any Shënime section)"
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"name\""
+      }
+    ]
+  },
+  {
+    "title": "Poland",
+    "timestamp": 1792825572.5131905,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Lane 1948\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Stanislaw Salmonowicz 1994\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Lerski 1996b\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"polandinexile\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Zaloga 1982\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Lerski 1996a\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Walters 1988\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"PWN\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Day 2008\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Polish economy seen as stable and competitive\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Schwab 2011\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"OECD 2009\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"The Music Courts of the Polish Vasas\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme;\nasnjë tekst nuk u dha për refs e quajtura \"Speedway\""
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"PWN\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Day 2008\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Polish economy seen as stable and competitive\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Koca 2006\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Lerski 1996a\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Lerski 1996b\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"MFA\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Mikos\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Stanislaw Salmonowicz 1994\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"polandinexile\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Wyrozumski 1986\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Schwab 2011\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"OECD 2009\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Speedway\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Gopnik 2007\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"The Music Courts of the Polish Vasas\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Marc Heine\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Strybel 2003\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"beverages\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Zaloga 1982\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"Walters 1988\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      }
+    ]
+  },
+  {
+    "title": "World Wide Web",
+    "timestamp": 1792836210.3791122,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 233,
+        "snippet": "{{cite web |id=ProQuest 215944575 |last1=Wexler |first1=Joanie |title=Sprint boots some users off 'Net |website=Network…",
+        "explanation": "{{cite web}} without |url= throws a live error; recover the url from the source revision or the archive-url path"
+      }
+    ]
+  },
+  {
+    "title": "Buddhism",
+    "timestamp": 1792843899.4866421,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 791,
+        "snippet": "</ref> * {{Citation |last=Samuel |first=Geoffrey |title=The Origins of Yoga and Tantra |publisher=Cambridge University P",
+        "explanation": "Unbalanced <ref> tags: 259 opening vs 260 closing </ref>"
+      }
+    ]
+  },
+  {
+    "title": "Charlie Chaplin",
+    "timestamp": 1792844645.7061737,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketë &lt;ref&gt; e pavlefshme; refs pa emër duhet të kenë përmbajtje"
+      },
+      {
+        "severity": "warning",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Template 'Stampa:Inflation/year' does not exist on the target wiki"
+      },
+      {
+        "severity": "warning",
+        "line_number": 163,
+        "snippet": "{{Nbsp}}... Isha mim dhe në atë medium isha i veçantë, pa modesti të rreme, mjeshtër.|author=Charlie Chaplin, duke shpj…",
+        "explanation": "Template 'Stampa:NbSp' does not exist on the target wiki"
+      }
+    ]
+  },
+  {
+    "title": "Hinduism",
+    "timestamp": 1792845690.0586522,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 364,
+        "snippet": "[[Ganesha|Ganeshas].<ref>{{Cite book |title=Ganesh, the benevolent |date=1995 |publisher=Marg Publications|editor=Pal, P",
+        "explanation": "Unbalanced link: 566 occurrences of '[[' vs 565 of ']]'"
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa e përcaktuar në &lt;referenca&gt; nuk ka ndonjë atribut emër."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"gordonconwell.edu\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: &lt;ref&gt; etiketa me emrin \"pewforum&#95;Hinduism\" e percaktuar ne &lt;referenca&gt; nuk është përdorur në tekst paraprak."
+      },
+      {
+        "severity": "warning",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Template 'Stampa:Country data Ivory Coast' does not exist on the target wiki"
+      }
+    ]
+  },
+  {
+    "title": "Washington, D.C.",
+    "timestamp": 1792849998.5387692,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 641,
+        "snippet": "date=2023-06",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 644,
+        "snippet": "date=2023-06",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 670,
+        "snippet": "date=2025-02",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 670,
+        "snippet": "date=1999-02",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 680,
+        "snippet": "date=2015-08",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 577,
+        "snippet": "|date=qershor 2024",
+        "explanation": "Albanian month name in a month-only date crashes CS1; keep the English 'Month YYYY' form"
+      },
+      {
+        "severity": "error",
+        "line_number": 579,
+        "snippet": "|date=mars 2025",
+        "explanation": "Albanian month name in a month-only date crashes CS1; keep the English 'Month YYYY' form"
+      },
+      {
+        "severity": "error",
+        "line_number": 581,
+        "snippet": "|date=mars 2025",
+        "explanation": "Albanian month name in a month-only date crashes CS1; keep the English 'Month YYYY' form"
+      },
+      {
+        "severity": "error",
+        "line_number": 581,
+        "snippet": "|date=mars 2025",
+        "explanation": "Albanian month name in a month-only date crashes CS1; keep the English 'Month YYYY' form"
+      },
+      {
+        "severity": "error",
+        "line_number": 583,
+        "snippet": "|date=mars 2025",
+        "explanation": "Albanian month name in a month-only date crashes CS1; keep the English 'Month YYYY' form"
+      }
+    ]
+  },
+  {
+    "title": "Comuni dell'Arbëria",
+    "timestamp": 1792851068.0898125,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketat &lt;ref&gt; ekzistojnë për një grup të quajtur \"sh\", por nuk u gjet etiketa korresponduese &lt;references group=\"sh\"/&gt;"
+      },
+      {
+        "severity": "warning",
+        "line_number": 461,
+        "snippet": "{{IT-KR}}====",
+        "explanation": "Template 'Stampa:IT-KR' does not exist on the target wiki"
+      },
+      {
+        "severity": "warning",
+        "line_number": 473,
+        "snippet": "{{IT-SIC}}====",
+        "explanation": "Template 'Stampa:IT-SIC' does not exist on the target wiki"
+      },
+      {
+        "severity": "warning",
+        "line_number": 476,
+        "snippet": "{{IT-PA}}====",
+        "explanation": "Template 'Stampa:IT-PA' does not exist on the target wiki"
+      },
+      {
+        "severity": "warning",
+        "line_number": 491,
+        "snippet": "{{IT-AG}}====",
+        "explanation": "Template 'Stampa:IT-AG' does not exist on the target wiki"
+      }
+    ]
+  },
+  {
+    "title": "Zoroastrianism",
+    "timestamp": 1793038935.1886861,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Invalid &lt;ref&gt; tag; name \"Stausberg2023\" defined multiple times with different content."
+      }
+    ]
+  },
+  {
+    "title": "Liberalism",
+    "timestamp": 1793223800.6429474,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 176,
+        "snippet": "{{Cite book|last=Mill|first=John Stuart|title=The Subjection of Women|edition=e parë, 1869|publisher=Longmans, Green, R…",
+        "explanation": "citation has |access-date=/|archive-url=/|archive-date= but no |url= or |chapter-url=; restore the url (it is the path after the timestamp in archive-url) or drop the orphaned access-date"
+      }
+    ]
+  },
+  {
+    "title": "State (polity)",
+    "timestamp": 1793224126.7112863,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 165,
+        "snippet": "|date=Shtator 2026",
+        "explanation": "Albanian month name in a month-only date crashes CS1; keep the English 'Month YYYY' form"
+      },
+      {
+        "severity": "warning",
+        "line_number": 109,
+        "snippet": "{{page needed|date=January 2011}}</ref>",
+        "explanation": "Template 'Stampa:Page needed' does not exist on the target wiki"
+      }
+    ]
+  },
+  {
+    "title": "United States dollar",
+    "timestamp": 1793224455.672221,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 46,
+        "snippet": "[[Gjuha arabe|arabisht]); dhe ''[[dollar]]'' ([[Gjuha angleze|anglisht]]).  Megjithëse [[Holandezët|holandezët]] sollën",
+        "explanation": "Unbalanced link: 345 occurrences of '[[' vs 344 of ']]'"
+      }
+    ]
+  },
+  {
+    "title": "Constitution",
+    "timestamp": 1793307460.372412,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 30,
+        "snippet": "date=2008-07",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 154,
+        "snippet": "date=1993-01",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 188,
+        "snippet": "date=2008-05",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 190,
+        "snippet": "{{cite journal | last=Arjomand | first=Saïd Amir | title=Islamic Constitutionalism | journal=Annual Review of Law and S…",
+        "explanation": "citation has |access-date=/|archive-url=/|archive-date= but no |url= or |chapter-url=; restore the url (it is the path after the timestamp in archive-url) or drop the orphaned access-date"
+      },
+      {
+        "severity": "warning",
+        "line_number": 453,
+        "snippet": "{{Devolucioni|devoluar}} [[Irlanda Veriore|Irlandës së Veriut]], [[Skocia|Skocisë]] dhe [[Uellsi|Uellsit]] (por jo [[An…",
+        "explanation": "Template 'Stampa:Devolucioni' does not exist on the target wiki"
+      }
+    ]
+  },
+  {
+    "title": "International Monetary Fund",
+    "timestamp": 1793309384.5975192,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 8,
+        "snippet": "date=2003-08",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 158,
+        "snippet": "date=1991-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 165,
+        "snippet": "date=2004-04",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 169,
+        "snippet": "date=2003-03",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 198,
+        "snippet": "date=2003-08",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 596,
+        "snippet": "date=1980-10",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 632,
+        "snippet": "date=2008-11",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 660,
+        "snippet": "date=2017-12",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      }
+    ]
+  },
+  {
+    "title": "OPEC",
+    "timestamp": 1793309598.7583513,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 100,
+        "snippet": "date=2013-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 103,
+        "snippet": "date=2003-12",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 103,
+        "snippet": "date=2015-05",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 110,
+        "snippet": "date=2012-05",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 141,
+        "snippet": "date=2005-01",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 146,
+        "snippet": "date=2000-10",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 148,
+        "snippet": "date=2000-10",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 177,
+        "snippet": "date=2006-01",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 177,
+        "snippet": "date=2007-01",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 185,
+        "snippet": "date=2007-04",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 198,
+        "snippet": "date=2007-04",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 200,
+        "snippet": "date=2014-11",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 214,
+        "snippet": "date=2010-08",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 520,
+        "snippet": "date=1989-04",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 537,
+        "snippet": "date=2014-11",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 564,
+        "snippet": "date=2017-12",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 569,
+        "snippet": "date=2021-03",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 577,
+        "snippet": "date=2019-11",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 578,
+        "snippet": "date=2015-07",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      }
+    ]
+  },
+  {
+    "title": "Terrorism",
+    "timestamp": 1793309858.820421,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 7,
+        "snippet": "date=1989-10",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 27,
+        "snippet": "date=2018-01",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 152,
+        "snippet": "date=2008-03",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 181,
+        "snippet": "date=2015-02",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 196,
+        "snippet": "date=2015-02",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 226,
+        "snippet": "date=2003-06",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 277,
+        "snippet": "date=2010-11",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 294,
+        "snippet": "date=2024-03",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 331,
+        "snippet": "date=2021-08",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 340,
+        "snippet": "date=2003-01",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 435,
+        "snippet": "date=2021-04",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 453,
+        "snippet": "date=2020-11",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      }
+    ]
+  },
+  {
+    "title": "United Nations",
+    "timestamp": 1793310148.8131332,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 101,
+        "snippet": "date=2024-08",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 516,
+        "snippet": "date=2006-05",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      }
+    ]
+  },
+  {
+    "title": "World Health Organization",
+    "timestamp": 1793310489.7135408,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 70,
+        "snippet": "[[Banka Botërore|Bankën Botërore].<ref name=\"WHO-2\"/>{{rp|14}} Vitin pasues, në përgjigje të një rezolute të Asamblesë B",
+        "explanation": "Unbalanced link: 305 occurrences of '[[' vs 304 of ']]'"
+      },
+      {
+        "severity": "error",
+        "line_number": 37,
+        "snippet": "date=2002-10",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 44,
+        "snippet": "date=1999-01",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 67,
+        "snippet": "date=2010-03",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 67,
+        "snippet": "date=2010-03",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 115,
+        "snippet": "date=2012-04",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 117,
+        "snippet": "date=2011-10",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 119,
+        "snippet": "date=2012-04",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 163,
+        "snippet": "date=2014-02",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 331,
+        "snippet": "date=1991-03",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 417,
+        "snippet": "date=2015-03",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 423,
+        "snippet": "date=2014-04",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 245,
+        "snippet": "|date=Dhjetor 2021",
+        "explanation": "Albanian month name in a month-only date crashes CS1; keep the English 'Month YYYY' form"
+      }
+    ]
+  },
+  {
+    "title": "Abortion",
+    "timestamp": 1793311288.636324,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 23,
+        "snippet": "date =2022-05",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 23,
+        "snippet": "date =2020-10",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 23,
+        "snippet": "date =2022-01",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 23,
+        "snippet": "date =2013-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 24,
+        "snippet": "date=2015-10",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 24,
+        "snippet": "date=2019-01",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 27,
+        "snippet": "date=2012-02",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 27,
+        "snippet": "date=2007-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 28,
+        "snippet": "date =2010-07",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 31,
+        "snippet": "date=2008-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 39,
+        "snippet": "date=1978-12",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 66,
+        "snippet": "date=2005-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 88,
+        "snippet": "date=2011-01",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 88,
+        "snippet": "date=2015-07",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 91,
+        "snippet": "date =2009-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 93,
+        "snippet": "date=2011-06",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 93,
+        "snippet": "date=2011-07",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 93,
+        "snippet": "date=2011-02",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 97,
+        "snippet": "date =2020-03",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 108,
+        "snippet": "date=2013-06",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 110,
+        "snippet": "date=2011-12",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 110,
+        "snippet": "date=2018-06",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 110,
+        "snippet": "date=2021-12",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 113,
+        "snippet": "date=2014-12",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 113,
+        "snippet": "date =2011-07",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 121,
+        "snippet": "date =1979-12",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 123,
+        "snippet": "date =2007-10",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 125,
+        "snippet": "date =2006-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 130,
+        "snippet": "date =2004-04",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 132,
+        "snippet": "date =2012-02",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 132,
+        "snippet": "date =2019-05",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 132,
+        "snippet": "date =2014-11",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 132,
+        "snippet": "date =2007-01",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 134,
+        "snippet": "date =2012-02",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 134,
+        "snippet": "date =2015-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 134,
+        "snippet": "date =2019-08",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 140,
+        "snippet": "date =2012-12",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 140,
+        "snippet": "date =2015-11",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 140,
+        "snippet": "date =2009-05",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 140,
+        "snippet": "date =1996-05",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 140,
+        "snippet": "date =2011-04",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 140,
+        "snippet": "date =2015-07",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 142,
+        "snippet": "date =2017-12",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 142,
+        "snippet": "date=2013-06",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 142,
+        "snippet": "date =2004-04",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 142,
+        "snippet": "date =2016-05",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 142,
+        "snippet": "date =2017-01",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 147,
+        "snippet": "date =2017-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 147,
+        "snippet": "date =2011-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 149,
+        "snippet": "date=2014-02",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 151,
+        "snippet": "date =2020-03",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 154,
+        "snippet": "date =2014-08",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 154,
+        "snippet": "date =2005-10",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 177,
+        "snippet": "date =2006-11",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 179,
+        "snippet": "date=2009-12",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 179,
+        "snippet": "date =2012-12",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 182,
+        "snippet": "date=2005-03",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 182,
+        "snippet": "date=2007-12",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 182,
+        "snippet": "date=2016-12",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 182,
+        "snippet": "date=2010-11",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 182,
+        "snippet": "date=1997-06",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 188,
+        "snippet": "date =2012-01",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 191,
+        "snippet": "date=2007-10",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 193,
+        "snippet": "date =2009-12",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 195,
+        "snippet": "date = 2011-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 204,
+        "snippet": "date =2006-11",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 206,
+        "snippet": "date =2025-07",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 216,
+        "snippet": "date =2019-07",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 216,
+        "snippet": "date =1998-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 216,
+        "snippet": "date=2005-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 219,
+        "snippet": "date=2005-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 229,
+        "snippet": "date =1998-06",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 229,
+        "snippet": "date =2001-02",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 231,
+        "snippet": "date =2009-02",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 244,
+        "snippet": "date=2016-05",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 247,
+        "snippet": "date=2008-06",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 247,
+        "snippet": "date=2019-05",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 274,
+        "snippet": "date=2009-04",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 276,
+        "snippet": "date =1997-06",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 276,
+        "snippet": "date =2002-05",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 283,
+        "snippet": "date =1999-07",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 304,
+        "snippet": "date =2003-07",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 304,
+        "snippet": "date=2003-03",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 304,
+        "snippet": "date=2018-01",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 310,
+        "snippet": "date =2000-04",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 331,
+        "snippet": "date=2014-03",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 335,
+        "snippet": "date=2016-07",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      }
+    ]
+  },
+  {
+    "title": "Capital punishment",
+    "timestamp": 1793312075.937763,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 236,
+        "snippet": "[[Qeveria Federale e Shteteve të Bashkuara|qeveria federale].<ref>Rob Gallagher,{{cite web|url=http://users.bestweb.net/",
+        "explanation": "Unbalanced link: 322 occurrences of '[[' vs 321 of ']]'"
+      },
+      {
+        "severity": "error",
+        "line_number": 411,
+        "snippet": "date=2008-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 428,
+        "snippet": "date=2008-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": null,
+        "snippet": null,
+        "explanation": "Cite error rendered on the page: Gabim citimi: Etiketat &lt;ref&gt; ekzistojnë për një grup të quajtur \"note\", por nuk u gjet etiketa korresponduese &lt;references group=\"note\"/&gt;"
+      }
+    ]
+  },
+  {
+    "title": "Discrimination",
+    "timestamp": 1793312277.436674,
+    "repair_rounds": 3,
+    "findings": [
+      {
+        "severity": "error",
+        "line_number": 69,
+        "snippet": "date=2013-12",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 84,
+        "snippet": "date =2007-07",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 84,
+        "snippet": "date =2004-09",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      },
+      {
+        "severity": "error",
+        "line_number": 292,
+        "snippet": "date=2002-07",
+        "explanation": "bare YYYY-MM date crashes CS1 date parsing; use the original English 'Month YYYY' form for month-only dates"
+      }
+    ]
+  }
+]

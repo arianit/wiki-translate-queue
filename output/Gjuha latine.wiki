@@ -1,0 +1,860 @@
+{{Përshkrim i shkurtër|Gjuhë indo-evropiane e degës italike}}
+
+{{Infobox language
+| states           = {{ublist|[[Laciumi]]|[[Roma e lashtë]]}}
+| ethnicity        = {{ublist|[[Latinët (fis italik)|Latinët]]|[[Populli romak|Romakët]]}}
+| era              = Si gjuhë amtare, {{circa|shekulli VII p.e.s|shekulli VIII e.s}}
+| familycolor      = Indoevropiane
+| fam2             = [[Gjuhët italike|Italike]]
+| fam3             = [[Latino-Faliskane]]
+| ancestor         = [[Latinishtja e vjetër]]
+| script           = [[Alfabeti latin|Latin]] ([[Alfabeti latin]])
+| agency           = [[Akademia Papnore për Latinishten]]
+| iso1             = la
+| iso2             = lat
+| iso3             = lat
+| image            = Rome Colosseum inscription 2.jpg
+| imagecaption     = Mbishkrim latin mbi një gur brenda [[Koloseu]]t në Romë, Itali
+| mapscale         = 1
+| map              = Roman Empire Trajan 117AD.png
+| mapcaption       = Shtrirja më e madhe e Perandorisë Romake nën perandorin [[Trajani (perandor romak)|Trajan]] ({{circa|117 e.s}}) dhe zona e qeverisur nga folësit e latinishtes. Shumë gjuhë të tjera përveç latinishtes flitëshin brenda perandorisë.
+| notice           = IPA
+| name             = Latinishtja
+| nativename       = {{lang|la|lingua Latina}}, {{lang|la|Latinum}}
+| pronunciation    = {{IPA|la|ɫa&NoBreak;ˈtiːnũː}}
+| nation           = {{VAT}}
+}}
+
+'''Latinishtja''' ({{lang|la|lingua Latina}} ose {{lang|la|Latinum}}) është një gjuhë klasike që i përket degës italike të gjuhëve indoevropiane. Latinishtja fillimisht u fol nga latinët në Lacium (tani i njohur si Lacio), zona e poshtme e Tiberit rreth Romës, Itali.<ref>{{cite book |title=A companion to Latin studies |first=John Edwin |last=Sandys |publisher=University of Chicago Press |year=1910 |pages=811–812|language=en}}</ref> Përmes zgjerimit të Republikës Romake, u bë gjuha dominuese në Gadishullin Italik dhe më pas në të gjithë Perandorinë Romake. Ka ndikuar shumë gjuhë, duke përfshirë anglishten, duke kontribuar shumë fjalë në leksikun anglez, veçanërisht pas krishterimit të anglo-saksonëve dhe pushtimit norman. Rrënjët latine shfaqen shpesh në fjalorin teknik të përdorur në fusha si teologjia, shkencat, mjekësia, dhe e drejta.
+
+Deri në fund të Republikës Romake, latinishtja e vjetër kishte evoluar në latinishten klasike të standardizuar. Latinishtja vulgare i referohet regjistrave bisedorë më pak prestigjiozë, të dëshmuar në mbishkrime dhe disa vepra letrare, si ato të dramaturgëve komikë Plaut dhe Terenc<ref>{{harvnb|Clark|1900|pp=1–3}}</ref> dhe autorit Petroni. Edhe pse shpesh quhet "gjuhë e vdekur",<ref>{{Cite web |title=Why is Latin a dead language? |url=https://www.britannica.com/question/Why-is-Latin-a-dead-language |website=Encyclopædia Britannica|language=en}}</ref> latinishtja nuk kaloi vdekje gjuhësore. Mes shekujve VI dhe IX, ndryshimi natyror gjuhësor në latinishten popullore të rajoneve të ndryshme evoluoi në gjuhë romane të veçanta. Pas rënies së Perandorisë Romake të Perëndimit, latinishtja mbeti gjuha e përbashkët e komunikimit ndërkombëtar, shkencës, dijes, dhe akademisë në Evropë deri në fillim të shekullit XIX, kohë deri kur gjuhët moderne e kishin zëvendësuar në përdorimin e zakonshëm akademik dhe politik.
+
+Latinishtja e vonë është forma letrare e gjuhës nga shekulli III e.s e këtej. Nuk fliste më si gjuhë amtare, latinishtja mesjetare u përdor në të gjithë Evropën Perëndimore dhe katolike gjatë Mesjetës si gjuhë pune dhe letrare nga shekulli IX deri në Rilindje, e cila më pas zhvilloi një formë klasicizuese, të quajtur latinishtja e Rilindjes. Kjo ishte baza për neolatinishten, e cila evoluoi gjatë periudhës së hershme moderne. Latinishtja mësohej për t'u shkruar dhe folur të paktën deri në fund të shekullit XVII, kur aftësitë e të folurit filluan të erodoheshin; latinishtja bashkëkohore studiohet përgjithësisht për t'u lexuar dhe jo folur. Latinishtja kishtare mbetet gjuha zyrtare e Selisë së Shenjtë dhe e Ritit Roman të Kishës Katolike.
+
+Gramatika latine është shumë fusionale, me klasa lakimesh për rasën, numrin, vetën, gjininë, kohën, mënyrën, diatezën, dhe aspektin. Alfabeti latin rrjedh drejtpërdrejt nga alfabetet etruske dhe greke.
+
+== Historia ==
+{{Kryesor|Historia e latinishtes}}
+
+[[File:Linguistic Landscape of Central Italy.png|thumb|center|upright=1.5|Peizazhi gjuhësor i Italisë qendrore në fillim të zgjerimit romak]]
+
+Janë njohur një numër fazash të gjuhës, secila e dalluar nga dallime delikate në fjalor, përdorim, drejtshkrim, dhe sintaksë. Nuk ka rregulla të prera klasifikimi; studiues të ndryshëm theksojnë tipare të ndryshme. Si rezultat, lista ka variante, si dhe emra alternativë.
+
+Përveç fazave historike, latinishtja kishtare i referohet stileve të përdorura nga shkrimtarët e Kishës Romane Katolike që nga antikiteti i vonë e këtej, si dhe nga studiues protestantë.
+
+=== Latinishtja e vjetër ===
+{{Hatnote|Artikulli kryesor: {{ill|Latinishtja e vjetër|en|Old Latin}}}}
+
+[[File:Lapis-niger.jpg|thumb|right|Lapis Niger, ndoshta mbishkrimi më i vjetër latin ekzistues, nga Roma, {{Circa|600 p.e.s|lk=no}} gjatë Mbretërisë Romake gjysmë-legjendare]]
+
+Forma më e hershme e njohur e latinishtes është latinishtja e vjetër, e quajtur gjithashtu latinishtja arkaike ose e hershme, e cila fliste nga Mbretëria Romake, tradicionalisht themeluar në 753 p.e.s, deri në pjesën e mëvonshme të Republikës Romake, deri në 75 p.e.s, domethënë para epokës së latinishtes klasike.<ref>{{cite encyclopedia |title=Archaic Latin |encyclopedia=The American Heritage Dictionary of the English Language: Fourth Edition|language=en}}</ref> Dëshmohet edhe në mbishkrime edhe në disa nga veprat më të hershme letrare latine ekzistuese, si komeditë e Plautit dhe Terencit. Alfabeti latin u konceptua nga alfabeti etrusk. Shkrimi më vonë ndryshoi nga ajo që fillimisht ishte ose shkrim nga e djathta në të majtë ose bustrofedon<ref>{{harvnb|Diringer|1996|pp=533–534}}</ref> në atë që përfundimisht u bë një shkrim strikt nga e majta në të djathtë.<ref>{{cite book |first=David |last=Sacks |year=2003 |title=Language Visible: Unraveling the Mystery of the Alphabet from A to Z |location=London |publisher=Broadway Books |page=80|language=en}}</ref>
+
+=== Latinishtja klasike ===
+{{Hatnote|Artikulli kryesor: {{ill|Latinishtja klasike|en|Classical Latin}}}}
+
+Gjatë republikës së vonë dhe në vitet e para të perandorisë, nga rreth 75 p.e.s deri 200 e.s, u shfaq një latinishte klasike e re, një krijim i vetëdijshëm i oratorëve, poetëve, historianëve, dhe njerëzve të tjerë të shkolluar, të cilët shkruan veprat e mëdha të letërsisë klasike, të cilat mësoheshin në shkollat e gramatikës dhe retorikës. Gramatikat mësimore të sotme i gjurmojnë rrënjët e tyre te shkolla të tilla, të cilat shërbenin si një lloj akademie joformale gjuhësore e dedikuar ruajtjes dhe përjetësimit të të folurit të shkolluar.<ref>{{cite book |page=3 |title=From Latin to modern French with especial consideration of Anglo-Norman; phonology and morphology |first=Mildred K |last=Pope |location=Manchester |publisher=Manchester university press |year=1966|language=en}}</ref><ref>{{cite book |title=Source book of the history of education for the Greek and Roman period |first=Paul |last=Monroe |location=London, New York |publisher=Macmillan & Co. |year=1902 |pages=346–352|language=en}}</ref>
+
+=== Latinishtja vulgare ===
+{{Hatnote|Artikulli kryesor: {{ill|Latinishtja vulgare|en|Vulgar Latin}}}}
+
+Analiza filologjike e veprave të latinishtes arkaike, si ato të Plautit, të cilat përmbajnë fragmente të të folurit të përditshëm, ofron dëshmi për një regjistër joformal të gjuhës, latinishtja vulgare (e quajtur {{lang|la|sermo vulgi}} 'e folura e masave', nga Ciceroni). Disa gjuhëtarë, veçanërisht në shekullin XIX, besonin se kjo ishte një gjuhë e veçantë, që ekzistonte pak a shumë paralelisht me latinishten letrare ose të shkolluar, por kjo tani hidhet poshtë gjerësisht.<ref>{{harvnb|Herman|2000|p=5}}</ref>
+
+Termi 'latinishte vulgare' mbetet i vështirë të përkufizohet, duke iu referuar edhe të folurit joformal në çdo kohë brenda historisë së latinishtes, edhe llojit të latinishtes joformale që kishte filluar të largohej ndjeshëm nga gjuha e shkruar në periudhën pas-perandorake, e cila çoi përfundimisht te gjuhët romane.
+
+Gjatë periudhës klasike, gjuha joformale rrallë shkruhej, kështu filologët kanë mbetur vetëm me fjalë dhe fraza individuale të cituara nga autorë klasikë, mbishkrime si tabelat e mallkimit dhe ato të gjetura si grafite romake. Në periudhën e latinishtes së vonë, ndryshimet gjuhësore që pasqyrojnë norma të folura (jo klasike) priren të gjenden në sasi më të mëdha në tekste.<ref>{{harvnb|Herman|2000|pp=17–18}}</ref>
+Meqë ishte e lirë të zhvillohej vetë, nuk ka arsye të supozohet se e folura ishte uniforme as diakronikisht as gjeografikisht. Përkundrazi, popullatat evropiane të romanizuara zhvilluan dialektet e tyre të gjuhës, gjë që përfundimisht çoi në diferencimin e gjuhëve romane.<ref>{{harvnb|Herman|2000|p=8}}</ref>
+
+=== Latinishtja e vonë ===
+{{Hatnote|Artikulli kryesor: {{ill|Latinishtja e vonë|en|Late Latin}}}}
+
+Latinishtja e vonë është një lloj latinishteje e shkruar e përdorur në shekujt III deri VI. Kjo filloi të largohej nga format klasike me ritëm më të shpejtë. Karakterizohet nga përdorimi më i madh i parafjalëve, dhe renditje fjalësh më e afërt me gjuhët moderne romane, për shembull, ndërsa gramatikisht ruante pak a shumë të njëjtat rregulla formale si latinishtja klasike.
+
+Përfundimisht, latinishtja u nda në një formë të shkruar të veçantë, ku forma e folur zakonisht perceptohej si gjuhë e veçantë, për shembull dialektet e hershme franceze ose italiane, që mund të transkriptoheshin ndryshe. Deshi ca kohë që këto të shiheshin si krejtësisht të ndryshme nga latinishtja, sidoqoftë.
+
+Pas rënies së Perandorisë Romake të Perëndimit në 476 dhe zëvendësimit të saj nga mbretëritë gjermanike, popujt gjermanikë e miratuan latinishten si gjuhë më të përshtatshme për përdorime ligjore dhe të tjera më formale.<ref>{{Cite encyclopedia |title=History of Europe – Barbarian migrations and invasions |url=https://www.britannica.com/topic/history-of-Europe |encyclopedia=Encyclopedia Britannica|language=en}}</ref>
+
+Fillimisht latinishtja u ruajt gjithashtu nga Perandoria Romake e Lindjes (Perandoria Bizantine) si gjuha e qeverisë dhe legjislacionit, edhe pse shumica dërrmuese e popullsisë së saj fliste greqisht dhe gjuhë të tjera lindore si siriakishtja dhe koptishtja. Madje pati një lulëzim të shkurtër si gjuha e kodifikimit të madh të ligjeve, {{lang|la|Corpus Iuris Civilis}}, nën Justinianin I, vetë folës amtar latin<ref>{{Cite web|url=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2884811|title=The Corpus Juris Civilis: A Guide to Its History and Use by Frederick W. Dingledy :: SSRN|language=en}}</ref>. Pas vdekjes së Justinianit I, tërheqja gradualisht territoriale e Perandorisë dhe pothuajse kolapsi i saj në vazhdën e pushtimeve myslimane çuan në zhdukjen pothuajse të plotë të latinishtes si gjuhë e folur dhe zyrtare. Shteti i mbetur romak e zëvendësoi latinishten me gjuhën greke. Latinishtja u ruajt në monedha dhe në disa ceremoni oborri<ref>{{cite thesis|last=Ellis|first=Erik Z.D.|title=The Language of Order: Latin, Greek, and Roman in the Byzantine Book of Ceremonies|date=2019-04-07|publisher=University of Notre Dame|language=en}}</ref>
+deri në shekullin XI, edhe pse shpesh në formë rituale dhe të fosilizuar. Në një letër ekzistuese nga fundi i shekullit IX, perandori karolingjian Luigi II i Italisë e përmendi faktin se kancelaria perandorake bizantine kishte vështirësi të shkruante latinisht të drejtë si argument në mosmarrëveshjen e tij ideologjike se kush ishte perandori i vërtetë romak.<ref>{{Cite book|url=https://www.cambridge.org/core/books/byzantine-legal-culture-and-the-roman-legal-tradition-8671056/cleansing-of-the-ancient-laws-under-basil-i-and-leo-vi/0F03BA8BAF8AFBD2973BBE743B7DB459|title=Byzantine Legal Culture and the Roman Legal Tradition, 867–1056|editor-first=Zachary|editor-last=Chitwood|date=16 June 2017|publisher=Cambridge University Press|pages=16–44|language=en}}</ref>
+
+=== Gjuhët romane ===
+{{Kryesor|Gjuhët romane}}
+{{Shiko gjithashtu|Ndryshimet leksikore nga latinishtja klasike te proto-romania}}
+Ndërsa forma e shkruar e latinishtes u standardizua gjithnjë e më shumë në një formë fikse, format e folura filluan të ndaheshin më shumë. Aktualisht, gjashtë gjuhët romane më të folura sipas numrit të folësve amtarë janë spanjishtja, portugalishtja, frëngjishtja, italishtja, rumanishtja, dhe katalonishtja. Pavarësisht variacionit dialektor, i cili gjendet në çdo gjuhë të përhapur gjerësisht, gjuhët që ekzistojnë aktualisht në Spanjë, Francë, Portugali, dhe Itali kanë ruajtur një unitet të jashtëzakonshëm në format dhe zhvillimet fonologjike, të përforcuar nga ndikimi stabilizues i kulturës së tyre të përbashkët të krishterë (katolike romake).
+
+[[File:Michael III and Basil I sb1693.jpg|thumb|right|285px|Një monedhë bizantine e shekullit IX që tregon perandorin Mihal III dhe kolegun e tij atëherë të ri, Vasili I, me titujt latinë "imperator" dhe "rex", përkatësisht. Edhe pse latinishtja e folur kishte kryesisht zhdukur në Perandorinë Romake të Lindjes deri në atë kohë, ende përdorej rastësisht në monedha dhe në ceremoni deri të paktën në shekullin XI.]]
+
+Nuk ishte deri në pushtimin mysliman të Gadishullit Iberik në 711, duke prerë komunikimet mes rajoneve kryesore romane, që gjuhët filluan të ndaheshin seriozisht.<ref>{{cite book |last1=Pei |first1=Mario |last2=Gaeng |first2=Paul A. |title=The story of Latin and the Romance languages |edition=1st |year=1976 |pages=76–81 |location=New York |publisher=Harper & Row|language=en}}</ref> Latinishtja e folur që më vonë do të bëhej rumanishte u nda disi më shumë nga varietetet e tjera, pasi u ndar kryesisht nga ndikimet unifikuese në pjesën perëndimore të Perandorisë.
+
+Latinishtja e folur filloi të ndahej në gjuhë të veçanta deri në shekullin IX më së voni, kur shfaqen shkrimet romane më të hershme ekzistuese. Ato ishin, gjatë gjithë periudhës, të kufizuara në të folurit e përditshëm, ndërsa latinishtja mesjetare përdorej për shkrim.<ref name=":0">{{Cite web |url=https://www.ruf.rice.edu/~kemmer/Words04/structure/latin.html |title=History of Latin |last=Pulju |first=Timothy |website=Rice University|language=en}}</ref><ref>{{Cite web |url=https://www.britannica.com/topic/Romance-languages/Latin-and-the-development-of-the-Romance-languages |title=Romance Languages |last1=Posner |first1=Rebecca |last2=Sala |first2=Marius |date=1 August 2019 |website=Encyclopædia Britannica|language=en}}</ref>
+
+Për shumë italianë që përdornin latinishten, sidoqoftë, nuk kishte ndarje të plotë mes italishtes dhe latinishtes, madje deri në fillim të Rilindjes. Petrarka, për shembull, e shihte latinishten si version letrar i gjuhës së folur.<ref>Shih Hyrjen, {{harvnb|Deneire|2014|pp=10–11}}</ref>
+
+=== Latinishtja mesjetare ===
+{{Hatnote|Artikulli kryesor: {{ill|Latinishtja mesjetare|en|Medieval Latin}}}}
+
+[[File:Calligraphy.malmesbury.bible.arp.jpg|thumb|upright=1.13|Bibla latine e Malmesbury-t, nga 1407]]
+
+Latinishtja mesjetare është latinishtja e shkruar në përdorim gjatë asaj pjese të periudhës pasklasike kur nuk ekzistonte një vernakular latin përkatës, domethënë nga rreth 700 deri 1500 e.s. Gjuha e folur ishte zhvilluar në gjuhët e ndryshme romane; sidoqoftë, në botën e shkolluar dhe zyrtare, latinishtja vazhdoi pa bazën e saj natyrore të folur. Për më tepër, kjo latinishte u përhap në toka që nuk kishin folur kurrë latinisht, si kombet gjermanike dhe sllave. U bë e dobishme për komunikim ndërkombëtar mes shteteve anëtare të Perandorisë së Shenjtë Romake dhe aleatëve të saj.
+
+Pa institucionet e Perandorisë Romake që kishin mbështetur uniformitetin e saj, latinishtja mesjetare ishte shumë më liberale në kohezionin e saj gjuhësor: për shembull, në latinishten klasike {{lang|la|sum}} dhe {{lang|la|eram}} përdoren si folje ndihmëse në kohën e kryer dhe më se të kryer pasive, të cilat janë kohë të përbëra. Latinishtja mesjetare mund të përdorte në vend të tyre {{lang|la-x-medieval|fui}} dhe {{lang|la-x-medieval|fueram}}.<ref name=thorley13-15>{{cite book |pages=13–15 |title=Documents in medieval Latin |first=Moe |last=Elabani |location=Ann Arbor |publisher=University of Michigan Press |year=1998|language=en}}</ref> Për më tepër, kuptimet e shumë fjalëve u ndryshuan dhe u futën fjalë të reja, shpesh nën ndikimin e vernakularit. Mbizotërojnë stile individuale të identifikueshme të latinishtes klasikisht të pasaktë.<ref name=thorley13-15 />
+
+=== Rilindja dhe neolatinishtja ===
+{{Hatnote|Artikuj kryesorë: {{ill|Latinishtja e Rilindjes|en|Renaissance Latin}} dhe {{ill|Neolatinishtja|en|Neo-Latin}}}}
+
+[[File:Incunabula distribution by language.png|thumb|Shumica e librave të shtypur të shekullit XV (inkunabula) ishin në latinisht, ndërsa gjuhët vernakulare luanin vetëm rol dytësor.<ref name="ISTC">{{cite web |url=https://www.bl.uk/catalogues/istc/index.html |title=Incunabula Short Title Catalogue |publisher=British Library|language=en}}</ref>]]
+
+Latinishtja e Rilindjes, në përdorim nga rreth 1300 deri 1500, dhe latinishtja e klasicizuar që pasoi deri sot, shpesh grupohen së bashku si ''neolatinishte'', ose latinishtja e re, e cila në dekadat e fundit është bërë fokus i studimit të rinovuar, duke pasur parasysh rëndësinë e saj për zhvillimin e kulturës, fesë, dhe shkencës evropiane.<ref>{{harvnb|Knight|Tilg|2015|p=1}}</ref> Shumica dërrmuese e latinishtes së shkruar i përket kësaj periudhe, por shtrirja e saj e plotë është e panjohur.<ref>{{harvnb|Demo|2022|p=3}}</ref>
+
+Rilindja e përforcoi pozicionin e latinishtes si gjuhë e folur dhe e shkruar përmes studimit të humanistëve të Rilindjes. Petrarka dhe të tjerë filluan të ndryshojnë përdorimin e tyre të latinishtes ndërsa eksploronin tekstet e botës latine klasike. Aftësitë e kritikës tekstuale evoluan për të krijuar versione shumë më të sakta të teksteve ekzistuese gjatë shekujve XV dhe XVI, dhe disa tekste të rëndësishme u rizbuluan. Versione gjithëpërfshirëse të veprave të autorëve u botuan nga Isaac Casaubon, Joseph Scaliger, dhe të tjerë.<ref>''Latin Studies'' te {{harvnb|Bergin|Law|Speake|2004|p=272}}</ref> Sidoqoftë, pavarësisht punës së kujdesshme të Petrarkës, Politianit, dhe të tjerëve, së pari kërkesa për dorëshkrime, dhe pastaj nxitimi për t'i sjellë veprat në shtyp, çuan në qarkullimin e kopjeve të pasakta për disa shekuj pasues.<ref>''Criticism, textual'' te {{harvnb|Bergin|Law|Speake|2004|p=272}}</ref>
+
+Letërsia neolatine ishte e gjerë dhe prodhimtare, por më pak e njohur ose e kuptuar sot. Veprat mbulonin poezi, tregime në prozë dhe romane të hershme, pjesë rasti dhe koleksione letrash, për të përmendur disa. Shkrimtarë të njohur dhe të vlerësuar përfshinin Petrarkën, Erazmin, Salutatin, Celtis-in, George Buchanan-in, dhe Thomas More-n.<ref>''Neo-Latin literature'' te {{harvnb|Bergin|Law|Speake|2004|pp=338–339}}</ref> Vepra jofiksioni u prodhuan gjatë për shumë subjekte, duke përfshirë shkencat, ligjin, filozofinë, historiografinë, dhe teologjinë. Shembuj të njohur përfshijnë ''Principia''-n e Isaac Newton-it. Latinishtja u përdor gjithashtu si medium i përshtatshëm për përkthime të veprave të rëndësishme të shkruara fillimisht në një vernakular, si ato të Dekartit.
+
+Arsimi latin kaloi një proces reforme për të klasicizuar latinishten e shkruar dhe të folur. Shkollimi zhvillohej kryesisht në latinisht deri rreth 1700. Deri në fund të shekullit XVII, shumica e librave dhe pothuajse të gjitha dokumentet diplomatike shkruheshin në latinisht.<ref>{{Cite journal |last=Helander |first=Hans |date=2012-04-01 |title=The Roles of Latin in Early Modern Europe |journal=L'Annuaire du Collège de France |volume=111 |issue=111 |pages=885–887 |doi=10.4000/annuaire-cdf.1783|language=en}}</ref> Më pas, shumica e dokumenteve diplomatike shkruheshin në frëngjisht (një gjuhë romane) dhe më vonë në gjuhë vendase ose të tjera.<ref>Laureys, Marc, ''Political Action'' te {{harvnb|Knight|Tilg|2015|p=356}}</ref> Metodat e arsimit u zhvendosën gradualisht drejt latinishtes së shkruar, dhe përfundimisht u përqendruan vetëm te aftësitë e leximit. Rënia e arsimit latin zgjati disa shekuj dhe vazhdoi shumë më ngadalë se rënia e prodhimit të shkruar latin.
+
+=== Latinishtja bashkëkohore ===
+{{Hatnote|Artikuj kryesorë: {{ill|Latinishtja bashkëkohore|en|Contemporary Latin}} dhe {{ill|Latinishtja kishtare|en|Ecclesiastical Latin}}}}
+
+Pavarësisht se nuk ka folës amtarë, latinishtja ende përdoret për një shumëllojshmëri qëllimesh në botën bashkëkohore.
+
+==== Përdorimi fetar ====
+[[File:Wallsend platfom 2 02.jpg|thumb|Shenjat në stacionin e metrosë Wallsend janë në anglisht dhe latinisht, si nderim ndaj rolit të Wallsend-it si një nga postat e Perandorisë Romake, si skaji lindor i Murit të Hadrianit (prandaj emri) te Segedunum.]]
+
+Organizata më e madhe që e ruan latinishten në kontekste zyrtare dhe gjysmë-zyrtare është Kisha Katolike. Kisha Katolike kërkoi që Meshën ta kryenin në latinisht deri në Koncilin e Dytë të Vatikanit të 1962–1965, i cili lejoi përdorimin e vernakularit. Latinishtja mbetet gjuha e Ritit Roman. Mesha Tridentine (e njohur gjithashtu si Forma e Jashtëzakonshme ose Mesha Tradicionale Latine) kremtohet në latinisht. Edhe pse Mesha e Palit VI (e njohur gjithashtu si Forma e Zakonshme ose Novus Ordo) zakonisht kremtohet në vernakularin vendas, mund të thuhet dhe shpesh thuhet në latinisht, pjesërisht ose plotësisht, veçanërisht në mbledhje shumëgjuhëshe. Është gjuha zyrtare e Selisë së Shenjtë, gjuha kryesore e revistës së saj publike, {{lang|la|Acta Apostolicae Sedis}}, dhe gjuha e punës e Rotës Romake. Qyteti i Vatikanit është gjithashtu shtëpia e vetmes bankomat në botë që jep udhëzime në latinisht.<ref>{{cite news |last=Moore |first=Malcolm |title=Pope's Latinist pronounces death of a language |url=https://www.telegraph.co.uk/news/worldnews/1540843/Popes-Latinist-pronounces-death-of-a-language.html |work=The Daily Telegraph |date=28 January 2007|language=en}}</ref> Në universitetet papnore, kurset pasuniversitare të së drejtës kanonike mësohen në latinisht, dhe punimet shkruhen në të njëjtën gjuhë.
+
+Ka një numër të vogël shërbesash latine të mbajtura në kishën anglikane. Këto përfshijnë një shërbesë vjetore në Oksford, të mbajtur me predikim latin; një mbetje nga periudha kur latinishtja ishte gjuha normale e folur e universitetit.<ref>{{cite web |title=University Sermons |url=https://www.universitychurch.ox.ac.uk/content/university-sermons |website=University Church Oxford|language=en}}</ref>
+
+[[File:Former logo of the European Council and Council of the European Union (2009).svg|thumb|right|Bashkimi Evropian shumëgjuhësh ka miratuar emra latinë në logot e disa prej institucioneve të tij për hir të kompromisit gjuhësor, një "nacionalizëm ekumenik" i zakonshëm në pjesën më të madhe të kontinentit dhe si shenjë e trashëgimisë së kontinentit (siç është Këshilli i BE-së: {{lang|la|Consilium}}).]]
+
+==== Përdorimi i latinishtes për moto ====
+Në botën perëndimore, shumë organizata, qeveri, dhe shkolla e përdorin latinishten për motot e tyre për shkak të asociimit të saj me formalitetin, traditën, dhe rrënjët e kulturës perëndimore.<ref>{{Cite web |title="Does Anybody Know What 'Veritas' Is?" |url=https://www.firstthings.com/blogs/firstthoughts/2011/08/e2809cdoes-anybody-know-what-veritas-ise2809d |website=First Things |date=August 2011|language=en}}</ref>
+
+Mota e Kanadasë {{lang|la|A mari usque ad mare}} ("nga deti në det") dhe shumica e motove provinciale janë gjithashtu në latinisht. Kryqi Viktoria Kanadez është modeluar sipas Kryqit Viktoria britanik, i cili ka mbishkrimin "For Valour". Meqë Kanadaja është zyrtarisht dygjuhëshe, medalja kanadeze e ka zëvendësuar mbishkrimin anglez me latinishten {{lang|la|Pro Valore}}.
+
+Mota e Spanjës {{lang|la|Plus ultra}} 'edhe më larg', ose figurativisht "Më tej!", është gjithashtu me origjinë latine.<ref>{{Cite web |url=https://www.lamoncloa.gob.es/espana/simbolosdelestado/Paginas/index.aspx |title=La Moncloa. Símbolos del Estado |website=www.lamoncloa.gob.es|language=es}}</ref> Është marrë nga mota personale e Karlit V, Perandor i Shenjtë Romak dhe Mbret i Spanjës (si Karli I), dhe është një kthesë e frazës origjinale {{lang|la|Non terrae plus ultra}} ("Asnjë tokë më tej", "Jo më tej!"). Sipas legjendës, kjo frazë ishte gdhendur si paralajmërim mbi Shtyllat e Herkulit, shkëmbinjtë në të dyja anët e Ngushticës së Gjibraltarit dhe skajin perëndimor të botës mesdhetare të njohur. Karli e miratoi motin pas zbulimit të Botës së Re nga Kolombi, dhe gjithashtu ka sugjerime metaforike të marrjes së rreziqeve dhe përpjekjes për përsosmëri.
+
+Në Shtetet e Bashkuara, mota kombëtare jozyrtare deri në 1956 ishte {{lang|la|E pluribus unum}}, që do të thotë "Nga shumë, një". Mota vazhdon të shfaqet në Vulën e Madhe. Shfaqet gjithashtu në flamujt dhe vulat e të dyja dhomave të kongresit dhe në flamujt e shteteve të Michigan-it, Dakotës së Veriut, Nju Jorkut, dhe Wisconsin-it. 13 shkronjat e motos përfaqësojnë simbolikisht Trembëdhjetë Kolonitë origjinale që u rebeluan nga Korona Britanike. Mota shfaqet në të gjitha monedhat e prera aktualisht dhe është shfaqur në shumicën e monedhave gjatë historisë së kombit.
+
+Disa shtete të Shteteve të Bashkuara kanë moto latine, si:
+* Arizona: {{lang|la|Ditat deus}} ("Perëndia pasuron");
+* Connecticut: {{lang|la|Qui transtulit sustinet}} ("Ai që transplantoi mbështet");
+* Kansas: {{lang|la|Ad astra per aspera}} ("Përmes vështirësive, drejt yjeve");
+* Colorado: {{lang|la|Nil sine numine}} ("Asgjë pa providencën");
+* Idaho: {{lang|la|Esto perpetua}} ("Le të jetë e përjetshme");
+* Michigan: {{lang|la|Si quaeris peninsulam amoenam, circumspice}} ("Nëse kërkon një gadishull të këndshëm, shiko rreth teje"), bazuar në atë të Sir Christopher Wren-it, në Katedralen e Shën Palit;
+* Missouri: {{lang|la|Salus populi suprema lex esto}} ("Shëndeti i popullit të jetë ligji më i lartë");
+* Nju Jorku: {{lang|la|Excelsior}} ("Gjithnjë përpjetë");
+* Karolina e Veriut: {{lang|la|Esse Quam Videri}} ("Të jesh më shumë sesa të dukesh");
+* Karolina e Jugut: {{lang|la|Dum spiro spero}} ("Përderisa marr frymë, shpresoj");
+* Virxhinia: {{lang|la|Sic semper tyrannis}} ("Kështu gjithmonë tiranëve"); dhe
+* Virxhinia Perëndimore: {{lang|la|Montani Semper Liberi}} ("Malësorët [janë] gjithmonë të lirë").
+
+Shumë organizata ushtarake sot kanë moto latine, si:
+* {{lang|la|Semper Paratus}} ("gjithmonë gati"), mota e Rojës Bregdetare të Shteteve të Bashkuara;
+* {{lang|la|Semper Fidelis}} ("gjithmonë besnik"), mota e Korpusit të Marinsave të Shteteve të Bashkuara;
+* {{lang|la|Semper Supra}} ("gjithmonë sipër"), mota e Forcës Hapësinore të Shteteve të Bashkuara;
+* {{lang|la|Per ardua ad astra}} ("Përmes vështirësisë/luftës drejt yjeve"), mota e Forcave Ajrore Mbretërore (RAF); dhe
+* {{lang|la|Vigilamus pro te}} ("Rrimë roje për ty"), mota e Forcave të Armatosura Kanadeze.
+
+Disa organe qeverisëse ligjore në Filipine kanë moto latine, si:
+* {{lang|la|Justitiae Pax Opus}} ("Vepra e Drejtësisë është Paqja"), mota e Departamentit të Drejtësisë (Filipine);
+
+Disa kolegje dhe universitete kanë miratuar moto latine, për shembull mota e Universitetit Harvard është {{lang|la|Veritas}} ("e vërteta"). Veritas ishte perëndeshë e së vërtetës, bijë e Saturnit, dhe nëna e Virtytit.
+
+==== Përdorime të tjera moderne ====
+Zvicra e ka miratuar emrin e shkurtër latin të vendit, {{lang|la|Helvetia}}, në monedha dhe pulla, pasi nuk ka vend për të përdorur të katër gjuhët zyrtare të kombit. Për një arsye të ngjashme, ka miratuar kodin ndërkombëtar të automjeteve ''CH'' dhe domenin e nivelit të lartë të internetit ''ch'', për {{lang|la|Confoederatio Helvetica}}, emrin e plotë latin të vendit.
+
+Disa filma dhe seri televizive me ambientim antik, si ''Sebastiane'', ''The Passion of the Christ'', dhe ''Barbarians'' (2020), janë realizuar me dialog në latinisht. Herë pas here, dialogu latin përdoret për shkak të asociimit të tij me fenë ose filozofinë, në seri filmash/televizive si ''The Exorcist'' dhe ''Lost'' ("Jughead"). Titrat zakonisht shfaqen për të mirën e atyre që nuk e kuptojnë latinishten. Ka gjithashtu këngë të shkruara me tekste latine. Libreti për opera-oratorion {{lang|la|Oedipus rex}} nga Igor Stravinski është në latinisht.
+
+Vazhdimi i instruksionit të latinishtes shihet nga disa si përbërës shumë i vlefshëm i një arsimi të arteve liberale. Latinishtja mësohet në shumë shkolla të mesme, veçanërisht në Evropë dhe Amerikat. Është më e zakonshme në shkollat publike britanike dhe gjimnaze, ''liceo classico''-n dhe ''liceo scientifico''-n italian, Gjimnazin Humanist gjerman, dhe ''gymnasium''-in holandez.
+
+[[File:QDP Ep 84 - De Ludo "Mysterium".webm|thumb|QDP Ep 84 – De Ludo "Mysterium": një podkast në gjuhën latine]]
+
+Herë pas here, disa media, duke synuar entuziastë, transmetojnë në latinisht. Shembuj të njohur përfshijnë Radio Bremen-in në Gjermani, radion YLE në Finlandë (transmetimi Nuntii Latini nga 1989 deri u mbyll në qershor 2019),<ref name=RTE2019-06-24a>{{cite news |url=https://www.rte.ie/news/world/2019/0624/1057298-latin/ |title=Finnish broadcaster ends Latin news bulletins |publisher=RTÉ News |date=24 June 2019|language=en}}</ref> dhe Radion & Televizionin e Vatikanit, të gjitha të cilat transmetojnë segmente lajmesh dhe material tjetër në latinisht.
+
+Një shumëllojshmëri organizatash, si dhe {{lang|la|circuli}} joformale latine, 'rrathë', janë themeluar në kohë më të fundit për të mbështetur përdorimin e latinishtes së folur.<ref>{{Cite web |title=About us |url=https://www.circuluslatinuslondiniensis.co.uk/in-english/ |website=Circulus Latínus Londiniénsis|language=en}}</ref> Për më tepër, një numër departamentesh klasike universitare kanë filluar të përfshijnë pedagogji komunikative në kurset e tyre latine. Këto përfshijnë Universitetin e Kentucky-t, Universitetin e Oksfordit, dhe Universitetin Princeton.<ref>{{Cite web |title=Active Latin at Jesus College |publisher=Oxford Latinitas Project |first1=Melinda |last1=Letts|language=en}}</ref>
+
+Ka shumë faqe interneti dhe forume të mbajtura në latinisht nga entuziastë. Wikipedia në latinisht ka më shumë se 140.000 artikuj.
+== Trashëgimia ==
+Italishtja, frëngjishtja, portugalishtja, spanjishtja, rumanishtja, katalonishtja, romanishtja, sardenjishtja, dhe gjuhë të tjera romane janë pasardhëse të drejtpërdrejta të latinishtes. Ka gjithashtu shumë fjalë të huazuara latine në anglisht dhe shqip,<ref name="Sawicka">Sawicka, Irena. [https://ispan.waw.pl/journals/index.php/ch/article/view/ch.2013.006/117 "A Crossroad Between West, East and Orient–The Case of Albanian Culture"]. Colloquia Humanistica. No. 2. Instytut Slawistyki Polskiej Akademii Nauk, 2013. F. 97.|language=en</ref> si dhe disa në gjermanisht, holandisht, norvegjisht, danisht, dhe suedisht.<ref>{{cite web |url=https://www.ezglot.com/etymologies.php?l2=lat |title=List of words of Latin origin |website=EZGlot|language=en }}</ref> Latinishtja ende flitet në Qytetin e Vatikanit, një qytet-shtet i vendosur në Romë që është selia e Kishës Katolike.
+
+=== Letërsia ===
+[[File:Commentarii de Bello Gallico.jpg|thumb|upright=1.36|{{lang|la|Commentarii de Bello Gallico}} e Jul Çezarit është një nga tekstet klasike latine më të njohura të Epokës së Artë të latinishtes. Stili i papërpunuar, gazetaresk i këtij gjenerali patrician është mësuar prej kohësh si model i latinishtes urbane të folur dhe shkruar zyrtarisht në lulëzimin e Republikës Romake.]]
+Veprat e disa qindra autorëve antikë që shkruan në latinisht kanë mbijetuar plotësisht ose pjesërisht, në vepra të konsiderueshme ose në fragmente për t'u analizuar në filologji. Janë pjesërisht subjekti i fushës së klasikëve. Veprat e tyre u botuan në formë dorëshkrimi para shpikjes së shtypshkrimit dhe tani botohen në botime të shtypura të komentuara me kujdes, si Loeb Classical Library, botuar nga Harvard University Press, ose Oxford Classical Texts, botuar nga Oxford University Press.<ref>{{cite web |title=Oxford Classical Texts |url=https://global.oup.com/academic/content/series/o/oxford-classical-texts-oct/?lang=en&cc=us |website=global.oup.com |publisher=Oxford University Press|language=en}}</ref>
+
+Përkthimet latine të letërsisë moderne, si: ''The Hobbit'', ''Treasure Island'', ''Robinson Crusoe'', ''Paddington Bear'', ''Winnie-the-Pooh'', ''The Adventures of Tintin'', ''Asterix'', ''Harry Potter'', {{lang|fr|Le Petit Prince}}, ''Max and Moritz'', ''How the Grinch Stole Christmas!'', ''The Cat in the Hat'', dhe një libër me përralla, {{lang|la|fabulae mirabiles}}, synojnë të tërheqin interesin popullor për gjuhën. Burime shtesë përfshijnë fjalorë frazash dhe burime për të kthyer fraza dhe koncepte të përditshme në latinisht, si Meissner's Latin Phrasebook.
+
+=== Mbishkrimet ===
+[[File:Nottingham arches.jpg|thumb|Një portë e madhe përkujtimore e Luftës së Parë Botërore në Nottingham, MB, që thotë: "''Virtue survives death''" ose "''Virtue outlives death''" (Virtyti mbijeton vdekjen).<ref>{{cite web |title=The Coat of Arms |url=https://www.nottinghamcity.gov.uk/your-council/about-the-council/nottingham-council-house/the-coat-of-arms/ |website=Nottingham City|language=en}}</ref>]]
+Disa mbishkrime janë botuar në një seri të pranuar ndërkombëtarisht, monumentale, me shumë vëllime, {{lang|la|Corpus Inscriptionum Latinarum}}. Autorët dhe botuesit ndryshojnë, por formati është pak a shumë i njëjtë: vëllime që detajojnë mbishkrime me një aparat kritik që tregon provenencën dhe informacionin përkatës. Leximi dhe interpretimi i këtyre mbishkrimeve është subjekti i fushës së epigrafisë. Njihen rreth 270.000 mbishkrime.<ref>{{Cite web |title=Corpus Inscriptionum Latinarum |url=https://www.livius.org/articles/misc/corpus-inscriptionum-latinarum/ |website=Livius|language=en}}</ref>
+
+=== Ndikimi mbi gjuhët e sotme ===
+Ndikimi latin në anglisht ka qenë i rëndësishëm në të gjitha fazat e zhvillimit të saj ishullor. Në Mesjetë, huazimi nga latinishtja ndodhi nga përdorimi kishtar i vendosur nga Shën Augustini i Canterbury-t në shekullin VI ose indirekt pas Pushtimit Norman, përmes gjuhës anglo-normane. Nga shekulli XVI deri XVIII, shkrimtarët anglezë krijuan numra të mëdhenj fjalësh të reja nga fjalë latine dhe greke, të quajtura "terma bojëra", sikur të kishin derdhur nga një enë boje. Shumë prej këtyre fjalëve u përdorën një herë nga autori dhe pastaj u harruan, por disa të dobishme mbijetuan, si ''imbibe'' dhe ''extrapolate''. Shumë nga fjalët më të zakonshme polisilabike angleze janë me origjinë latine përmes mediumit të frëngjishtes së vjetër. Fjalët romane përbëjnë 59%, 20%, dhe 14% të fjalorëve anglez, gjerman, dhe holandez, përkatësisht.<ref>{{cite book |last=Finkenstaedt |first=Thomas |author2=Dieter Wolff |title=Ordered Profusion; studies in dictionaries and the English lexicon |publisher=C. Winter |year=1973|language=en}}</ref>
+
+[[File:Romance 20c en (cropped).png|thumb|Shtrirja e gjuhëve romane, pasardhëset moderne të latinishtes, në Evropë]]
+
+Ndikimi i qeverisjes romake dhe teknologjisë romake mbi kombet më pak të zhvilluara nën sundimin romak çoi në miratimin e frazeologjisë latine në disa fusha të specializuara, si shkenca, teknologjia, mjekësia, dhe e drejta. Për shembull, sistemi Linnean i klasifikimit të bimëve dhe kafshëve u ndikua rëndë nga {{lang|la|Historia Naturalis}}, një enciklopedi njerëzish, vendesh, bimësh, kafshësh, dhe gjërash e botuar nga Plini Plaku. Mjekësia romake, e regjistruar në veprat e mjekëve si Galeni, vendosi që terminologjia e sotme mjekësore të rrjedhë kryesisht nga fjalët latine dhe greke, greqishtja e filtruar përmes latinishtes. Inxhinieria romake pati të njëjtin efekt mbi terminologjinë shkencore në tërësi. Parimet e së drejtës romake kanë mbijetuar pjesërisht në një listë të gjatë termash ligjorë latinë.
+
+Dialekti logudorez i gjuhës sardenjase dhe italishtja standarde janë dy gjuhët bashkëkohore më të afërta me latinishten.<ref>{{cite book |title=Story of Language |last=Pei |first=Mario |page=28 |date=Jan 1, 1965 |publisher=Lippincott|language=en}}</ref>
+
+=== Arsimi ===
+[[File:Latin dictionary.jpg|thumb|Një fjalor latin me shumë vëllime në Bibliotekën e Universitetit të Graz-it në Austri]]
+
+Gjatë historisë evropiane, një arsim në klasikë konsiderohej thelbësor për ata që dëshironin t'u bashkoheshin rrethe të shkolluara. Spikatja e latinishtes në arsimin klasik mbështetej jo vetëm te tradita, por edhe te reputacioni i saj për qartësi, strukturë logjike, dhe rigorozitet intelektual, një pikëpamje e shprehur nga edukatori matematik Theodor Haagaas, i cili vërejti se "Latinishtja, është matematikë, matematikë e gjuhës."<ref>Lillegaard, Leif B. (1983). ''Tigerstaden''. Oslo: J.W. Cappelens Forlag. f. 37.|language=no</ref>
+
+Kjo ishte e vërtetë edhe në Shtetet e Bashkuara, ku shumë nga themeluesit e kombit fituan një arsim me bazë klasike në shkolla gramatike ose nga tutorë.<ref>Richard M. Gummere, The American Colonial Mind and the Classical Tradition, f.66 (1963).|language=en</ref> Pranimi në Harvard në epokën koloniale kërkonte që kandidati "Të mund të bëjë dhe flasë ose shkruajë lehtësisht prozë të vërtetë latine dhe të ketë aftësi në krijimin e vargjeve"<ref>Meyer Reinhold, Classica Americana: The Greek and Roman Heritage in the United States, f.27 (1984).|language=en</ref> Studimi i latinishtes dhe klasikëve theksoheshin në shkollat e mesme dhe kolegjet amerikane deri mirë në epokën para-Luftës Civile.
+
+Instruksioni në latinisht është një aspekt thelbësor. Në botën e sotme, një numër i madh studentësh latinishteje në Shtetet e Bashkuara mësojnë nga ''Wheelock's Latin: The Classic Introductory Latin Course, Based on Ancient Authors''. Ky libër, botuar për herë të parë në 1956,<ref>{{cite web |url=https://www.wheelockslatin.com/ |title=The Official Wheelock's Latin Series Website |first=Richard A. |last=LaFleur |year=2011|language=en}}</ref> u shkrua nga Frederic M. Wheelock. ''Wheelock's Latin'' është bërë teksti standard për shumë kurse hyrëse latinishteje amerikane.
+
+Numrat e njerëzve që studiojnë latinisht ndryshojnë ndjeshëm sipas vendit. Në Mbretërinë e Bashkuar, latinishtja ofrohet në rreth 2,3% të shkollave fillore shtetërore, duke përfaqësuar një rritje të ndjeshme në disponueshmëri.<ref>{{cite news |last1=Woolcock |first1=Nicola |title=Latin is now fourth most-taught language in primary schools |url=https://www.thetimes.com/uk/education/article/latin-language-lessons-uk-primary-schools-2023-wrqrtfj0s |work=The Times |date=29 June 2023|language=en}}</ref> Në Gjermani, mbi 500.000 studentë studiojnë latinisht çdo vit, duke përfaqësuar një rënie nga mbi 800.000 në 2008. Latinishtja ende kërkohet për disa kurse universitare, por kjo është bërë më e rrallë.<ref>{{cite news |last1=Breitenbach |first1=Dagmar |title=Why Latin should not become extinct in school |url=https://www.dw.com/en/why-latin-should-not-become-extinct-in-school/a-66373904 |publisher=Deutsche Welle |date=27 July 2023|language=en}}</ref>
+
+Lëvizja e Latinishtes së Gjallë përpiqet ta mësojë latinishten në të njëjtën mënyrë si mësohen gjuhët e gjalla, si mjet komunikimi edhe të folur edhe të shkruar. Ofrohet në Qytetin e Vatikanit dhe në disa institucione në SHBA, si Universiteti i Kentucky-t dhe Iowa State University. Cambridge University Press britanik është furnizues i madh i teksteve latine për të gjitha nivelet, si seria Cambridge Latin Course. Ka botuar gjithashtu një nënseri tekstesh për fëmijë në latinisht nga Bell & Forte, që tregon aventurat e një miu të quajtur Minimus.
+
+Në Mbretërinë e Bashkuar, Shoqata Klasike inkurajon studimin e antikitetit përmes mjeteve të ndryshme, si botime dhe grante. Universiteti i Kembrixhit,<ref>{{cite web |url=https://www.cambridgescp.com/ |title=Latin Course |website=Cambridgescp.com |publisher=University of Cambridge School Classics Project|language=en}}</ref> Open University-ja,<ref>{{cite web |url=https://www3.open.ac.uk/study/undergraduate/course/a297.htm |title=Open University Undergraduate Course – Reading classical Latin|language=en}}</ref> një numër shkollash të pavarura, për shembull Eton, Harrow, Haberdashers' Aske's Boys' School, Merchant Taylors' School, dhe Rugby, si dhe The Latin Programme/Via Facilis,<ref>{{cite web |url=https://www.thelatinprogramme.co.uk/ |title=The Latin Programme|language=en}}</ref> një bamirësi me bazë në Londër, ofrojnë kurse latine. Në Shtetet e Bashkuara dhe në Kanada, American Classical League mbështet çdo përpjekje për të përparuar studimin e klasikëve. Filialet e saj përfshijnë National Junior Classical League (me më shumë se 50.000 anëtarë), i cili inkurajon nxënësit e shkollës së mesme të ndjekin studimin e latinishtes, dhe National Senior Classical League, i cili inkurajon studentët të vazhdojnë studimin e tyre të klasikëve në kolegj. Liga sponsorizon gjithashtu National Latin Exam. Klasicistja Mary Beard shkroi në ''The Times Literary Supplement'' në 2006 se arsyeja për të mësuar latinishten është për shkak të asaj që është shkruar në të.<ref name="timesonline train the brain">{{cite web |url=https://timesonline.typepad.com/dons_life/2006/07/does_latin_trai.html |title=Does Latin "train the brain"? |work=The Times Literary Supplement |date=10 July 2006 |author=Beard, Mary|language=en}}</ref>
+
+=== Statusi zyrtar ===
+Latinishtja ishte ose është gjuha zyrtare e disa shteteve evropiane. Kishte status zyrtar në Mbretërinë e Hungarisë nga shekulli XI deri mesi i shekullit XIX, kur hungarishtja u bë gjuha ekskluzive zyrtare në 1844.<ref>{{cite magazine |last=Zemplényi |first=Lili |date=13 November 2023 |title=The Day of the Hungarian Language |magazine=Hungarian Conservative|language=en}}</ref> Poeti më i njohur latin me origjinë hungareze ishte Janus Pannonius. Në mënyrë të ngjashme, në Mbretërinë e Polonisë dhe Bashkësinë Polako-Lituaneze, latinishtja njihej zyrtarisht dhe përdorej gjerësisht<ref name="Friedrich">Karin Friedrich et al., ''The Other Prussia: Royal Prussia, Poland and Liberty, 1569–1772'', Cambridge University Press, 2000.|language=en</ref> mes shekujve X dhe XVIII, e përdorur zakonisht në marrëdhëniet e jashtme dhe e njohur si gjuhë e dytë mes disa prej fisnikërisë (''szlachta'').<ref name="Friedrich" /> Latinishtja ishte gjithashtu gjuha zyrtare e Parlamentit Kroat nga shekulli XIII deri në shekullin XIX (1847).<ref>{{cite news |date=23 November 2021 |title=Croatian declared official language 174 years ago |work=Croatia Week|language=en}}</ref> Regjistrimet më të vjetra të ruajtura të sesioneve parlamentare ({{lang|la|Congregatio Regni totius Sclavonie generalis}}) – mbajtur në Zagreb ({{lang|la|Zagabria}}), Kroaci – datojnë nga 19 prilli 1273. Ekziston një letërsi e gjerë latine kroate. Latinishtja u përdor në monedhat kroate në vitet çift deri më 1 janar 2023, kur Kroacia miratoi euron si monedhën e saj zyrtare.<ref>{{cite web |url=https://www.hnb.hr/en/currency/coins |title=Coins |date=30 September 2016 |website=Croatian National Bank|language=en}}</ref>
+
+== Fonologjia ==
+{{Kryesor|Fonologjia dhe drejtshkrimi i latinishtes}}
+
+[[File:Pronunciation of Latin (Text).ogg|thumb|Audio i një personi me theks gjerman duke lexuar në latinisht]]
+[[File:Ave Maria in Latin language.ogg|thumb|Ave Maria lexuar në latinishten kishtare]]
+
+Shqiptimi i lashtë i latinishtes është rindërtuar; mes të dhënave të përdorura për rindërtimin janë deklaratat eksplicite mbi shqiptimin nga autorë antikë, gabime drejtshkrimore, lojëra fjalësh, etimologji antike, drejtshkrimi i fjalëve të huazuara latine në gjuhë të tjera, dhe zhvillimi historik i gjuhëve romane.<ref>{{harvnb|Allen|1978|pp=viii–ix}}</ref>
+
+=== Bashkëtingëlloret ===
+Fonemat bashkëtingëllore të latinishtes klasike janë si vijon:<ref>{{cite book |first=Andrew L. |last=Sihler |title=New Comparative Grammar of Greek and Latin |year=1995 |publisher=Oxford University Press |isbn=978-0-19-508345-3|language=en}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+! colspan="2" rowspan="2" |
+! rowspan="2" | Buzore
+! rowspan="2" | Buzë-dhëmbore
+! rowspan="2" | Dhëmbore/Alveolare
+! rowspan="2" | Qiellzore
+! colspan="2" | Zanore-mbrapa (velare)
+! rowspan="2" | Grykore
+|-
+! Thjesht
+! E buzëzuar
+|-
+! rowspan="3" | Mbylltore
+! <small>e shprehur</small>
+| {{IPA link|b}}
+|
+| {{IPA link|d}}
+|
+| {{IPA link|ɡ}}
+| {{IPA link|ɡʷ}}
+|
+|-
+! <small>e pashprehur</small>
+| {{IPA link|p}}
+|
+| {{IPA link|t}}
+|
+| {{IPA link|k}}
+| {{IPA link|kʷ}}
+|
+|-
+!<small>e aspiruar</small>
+|({{IPA link|pʰ}})
+|
+|({{IPA link|tʰ}})
+|
+|({{IPA link|kʰ}})
+|
+|
+|-
+! rowspan="2" | Frikative
+! <small>e shprehur</small>
+|
+|
+| ({{IPA link|z}})
+|
+|
+|
+|
+|-
+! <small>e pashprehur</small>
+|
+| {{IPA link|f}}
+| {{IPA link|s}}
+|
+|
+|
+| {{IPA link|h}}
+|-
+! colspan="2" | Hundore
+| {{IPA link|m}}
+|
+| {{IPA link|n}}
+|
+| [{{IPA link|ŋ}}]
+|
+|
+|-
+! colspan="2" | Dridhëse
+|
+|
+| {{IPA link|r}}
+|
+|
+|
+|
+|-
+! colspan="2" | Afrikatore
+|
+|
+|
+| {{IPA link|j}}
+|
+|{{IPA link|w}}
+|
+|-
+! colspan="2" |Anësore afrikatore
+|
+|
+|
+|
+|
+|
+| {{IPA link|l}}
+|
+|
+|
+|
+|}
+
+{{IPA|/z/}} nuk ishte vendase në latinishten klasike. U shfaq në fjalë të huazuara greke duke filluar {{circa|shekulli I p.e.s|lk=no}}, kur shqiptohej me shumë gjasa (të paktën nga folësit e shkolluar) {{IPA|[z]}} në fillim dhe e dyfishuar {{IPA|[zz]}} mes zanoreve, në përputhje me shqiptimin e saj në greqishten koine. Në poezinë latine klasike, shkronja ⟨z⟩ mes zanoreve gjithmonë numërohet si dy bashkëtingëllore për qëllime metrike.<ref>{{Harvnb|Levy|1973|p=150}}</ref><ref name="Allen Z">{{Harvnb|Allen|1978|pp=45, 46}}</ref> Bashkëtingëllorja ⟨b⟩ zakonisht tingëllon si [b]; sidoqoftë, kur ⟨t⟩ ose ⟨s⟩ e ndjek ⟨b⟩-në, atëherë shqiptohet si [pt] ose [ps]. Në latinisht, ⟨q⟩ pasohet gjithmonë nga zanorja ⟨u⟩. Së bashku formojnë tingullin [kʷ].<ref name="Wheelock 7th ed.">{{Cite book |last=Wheelock |first=Frederic M. |title=Wheelock's Latin |others=LaFleur, Richard A. |date=7 June 2011 |edition=7th |location=New York |publisher=HarperCollins|language=en}}</ref>
+
+Në latinishten e vjetër dhe klasike, alfabeti latin nuk kishte dallim mes shkronjave të mëdha dhe të vogla, dhe shkronjat ⟨J U W⟩ nuk ekzistonin. Në vend të ⟨J U⟩, përdoreshin ⟨I V⟩, përkatësisht; ⟨I V⟩ përfaqësonin edhe zanore edhe bashkëtingëllore. Shumica e formave të shkronjave ishin të ngjashme me shkronjat e mëdha moderne, siç mund të shihet në mbishkrimin nga Koloseu i shfaqur në fillim të artikullit.
+
+Sistemet e drejtshkrimit të përdorura në fjalorët latinë dhe botimet moderne të teksteve latine, sidoqoftë, zakonisht përdorin ⟨j u⟩ në vend të ⟨i v⟩ të epokës klasike. Disa sisteme përdorin ⟨j v⟩ për tingujt bashkëtingëllorë {{IPA|/j w/}} përveç në kombinimet ⟨gu su qu⟩ për të cilat ⟨v⟩ nuk përdoret kurrë.
+
+Disa shënime rreth përputhjes së fonemave latine me grafemat angleze jepen më poshtë:
+
+{| class="wikitable plainrowheaders"
+|+ Shënime
+! scope="col" | Grafema<br />latine !! scope="col" | Fonema<br />latine !! scope="col" | Shembuj në anglisht
+|-
+! scope="row" style="text-align:center" | ⟨c⟩, ⟨k⟩
+! style="text-align:center;font-weight:normal" | {{IPAblink|k}}
+| Gjithmonë si ''k'' në ''sky'' ({{IPA|/skaɪ/}})
+|-
+! scope="row" style="text-align:center" | ⟨t⟩
+! style="text-align:center;font-weight:normal" | {{IPAblink|t}}
+| Si ''t'' në ''stay'' ({{IPA|/steɪ/}})
+|-
+! scope="row" style="text-align:center" | ⟨s⟩
+! style="text-align:center;font-weight:normal" | {{IPAblink|s}}
+| Si ''s'' në ''say'' ({{IPA|/seɪ/}})
+|-
+! scope="rowgroup" style="text-align:center" rowspan="2" | ⟨g⟩
+! scope="row" style="text-align:center;font-weight:normal" | {{IPAblink|ɡ}}
+| Gjithmonë si ''g'' në ''good'' ({{IPA|/ɡʊd/}})
+|-
+! scope="row" style="text-align:center;font-weight:normal" | {{IPAblink|ŋ}}
+| Para ⟨n⟩, si ''ng'' në ''sing'' ({{IPA|/sɪŋ/}})
+|-
+! scope="rowgroup" style="text-align:center" rowspan="2" | ⟨n⟩
+! scope="row" style="text-align:center" | {{IPAblink|n}}
+| Si ''n'' në ''man'' ({{IPA|/mæn/}})
+|-
+! scope="row" style="text-align:center" | {{IPAblink|ŋ}}
+| Para ⟨c⟩, ⟨x⟩, dhe ⟨g⟩, si ''ng'' në ''sing'' ({{IPA|/sɪŋ/}})
+|-
+! scope="rowgroup" style="text-align:center" rowspan="2" | ⟨l⟩
+! style="text-align:center;font-weight:normal" | {{IPAblink|l̥}}
+| Kur dyfishohet ⟨ll⟩ dhe para ⟨i⟩, si "L e lehtë", {{IPAblink|l̥}} në ''link'' ({{IPA|[l̥ɪnk]}}) ({{lang|la|l exilis}})<ref>{{harvnb|Sihler|2008|p=174}}.</ref><ref>{{harvnb|Allen|1978|pp=33–34}}</ref>
+|-
+! scope="row" style="text-align:center" | {{IPAblink|ɫ}}
+| Në të gjitha pozicionet e tjera, si "L e errët", {{IPAblink|ɫ}} në ''bowl'' ({{IPA|[boʊɫ]}}) ({{lang|la|l pinguis}})
+|-
+! scope="row" style="text-align:center" | ⟨qu⟩
+! style="text-align:center;font-weight:normal" | {{IPAblink|kʷ}}
+| E ngjashme me ''qu'' në ''squint'' ({{IPA|/skwɪnt/}})
+|-
+! scope="row" style="text-align:center" | ⟨u⟩
+! style="text-align:center;font-weight:normal" | {{IPAblink|w}}
+| Ndonjëherë në fillim të rrokjes, ose pas ⟨g⟩ dhe ⟨s⟩, si {{IPAslink|w}} në ''wine'' ({{IPA|/waɪn/}})
+|-
+! scope="rowgroup" style="text-align:center" rowspan="2" | ⟨i⟩
+! scope="row" style="text-align:center" | {{IPAblink|j}}
+| Ndonjëherë në fillim të rrokjes, si ''y'' ({{IPAslink|j}}) në ''yard'' ({{IPA|/jɑɹd/}})
+|-
+! scope="row" style="text-align:center" | {{IPA|[ij]}}
+| "y" ({{IPAslink|j}}), mes zanoreve, bëhet "i-y", duke u shqiptuar si pjesë e dy rrokjeve të veçanta, si te {{lang|la|capiō}} ({{IPA|/kapiˈjo:/}})
+|-
+! scope="row" style="text-align:center" | ⟨x⟩
+! style="text-align:center;font-weight:normal" | {{IPA|[ks]}}
+| Një shkronjë që përfaqëson ⟨c⟩ + ⟨s⟩: si ''x'' në anglishten ''axe'' ({{IPA|/æks/}})
+|}
+
+Në latinishten klasike, ashtu si në italishten moderne, shkronjat bashkëtingëllore të dyfishuara shqiptoheshin si tinguj bashkëtingëllorë të gjatë, të dallueshëm nga versionet e shkurtra të të njëjtave bashkëtingëllore. Kështu ''nn''-ja në latinishten klasike {{lang|la|annus}} 'vit' (dhe në italishten {{lang|it|anno}}) shqiptohet si një {{IPA|/nn/}} e dyfishuar, si në anglishten ''unnamed''. (Në anglisht, gjatësia dalluese bashkëtingëllore ose dyfishimi ndodh vetëm në kufirin mes dy fjalësh ose morfemash, si në atë shembull.)
+
+=== Zanoret ===
+
+{| class="wikitable" style="text-align: center;"
+|+ Zanore të thjeshta
+! !! scope="col" | Përpara !! scope="col" | Qendrore !! scope="col" | Mbrapa
+|-
+! scope="row" | Mbyllur
+| {{IPA link|i}} {{IPA link|iː}} ({{IPA link|y}} {{IPA link|yː}}) || || {{IPA link|u}} {{IPA link|uː}}
+|-
+! scope="row" | Mesatare
+| {{IPA link|ɛ}} {{IPA link|ɛː}}|| || {{IPA link|ɔ}} {{IPA link|ɔː}}
+|-
+! scope="row" | Hapur
+| || {{IPA link|a}} {{IPA link|aː}} ||
+|}
+
+Në latinishten klasike, ⟨U⟩ nuk ekzistonte si shkronjë e veçantë nga ⟨V⟩; forma e shkruar ⟨V⟩ përdorej për të përfaqësuar edhe zanore edhe bashkëtingëllore. ⟨Y⟩ u miratua për të përfaqësuar upsilonin në fjalë të huazuara nga greqishtja, por shqiptohej si ⟨u⟩ dhe ⟨i⟩ nga disa folës. Përdorej gjithashtu në fjalë vendase latine nga ngatërrimi me fjalë greke me kuptim të ngjashëm, si {{lang|la|sylva}} dhe {{lang|grc|ὕλη}}.
+
+Latinishtja klasike dallonte mes zanoreve të gjata dhe të shkurtra. Atëherë, zanoret e gjata, përveç ⟨i⟩-së, shpesh shënoheshin duke përdorur apeksin, ndonjëherë të ngjashëm me një theks të mprehtë ⟨Á É Ó V́ Ý⟩. ⟨I⟩ e gjatë {{IPA|/iː/}} shkruhej duke përdorur një version më të lartë të ⟨I⟩-së, të quajtur {{lang|la|i longa}} 'I e gjatë': ⟨ꟾ⟩. Në tekstet moderne, zanoret e gjata shpesh tregohen me një makron ⟨ā ē ī ō ū⟩, dhe zanoret e shkurtra zakonisht nuk shënohen përveçse kur është e nevojshme të dallohen fjalët, kur shënohen me një breve ⟨ă ĕ ĭ ŏ ŭ⟩. Sidoqoftë, do të tregonin gjithashtu një zanore të gjatë duke e shkruar zanoren më të madhe se shkronjat e tjera në një fjalë ose duke e përsëritur zanoren dy herë me radhë.<ref name="Wheelock 7th ed." /> Theksi i mprehtë, kur përdoret në tekstet moderne latine, tregon theksin, si në spanjisht, dhe jo gjatësinë.
+
+Edhe pse quhen zanore të gjata, cilësia e tyre e saktë në latinishten klasike ndryshon nga zanoret e shkurtra. Dallimi përshkruhet në tabelën më poshtë:
+
+{| class="wikitable plainrowheaders"
+|+ Shqiptimi i zanoreve latine
+! scope="col" | Grafema
+! scope="col" | Fonema
+! scope="col" | Shembuj modernë
+|-
+! rowspan="2" scope="rowgroup" style="text-align:center" | ⟨a⟩
+! scope="row" style="text-align:center" | {{IPA|[a]}}
+| E ngjashme me ''a'' në ''part'' (/paɹt/)
+|-
+! scope="row" style="text-align:center" | {{IPA|[aː]}}
+| E ngjashme me ''a'' në ''father'' (/fɑːðəɹ/)
+|-
+! rowspan="2" scope="rowgroup" style="text-align:center" | ⟨e⟩
+! scope="row" style="text-align:center" | {{IPA|[ɛ]}}
+| Si ''e'' në ''pet'' (/pɛt/)
+|-
+! scope="row" style="text-align:center" | {{IPA|[ɛː]}}
+| ɛ por më e gjatë
+|-
+! rowspan="2" scope="rowgroup" style="text-align:center" | ⟨i⟩
+! scope="row" style="text-align:center" | {{IPA|[i]}}
+| iː por më e shkurtër
+|-
+! scope="row" style="text-align:center" | {{IPA|[iː]}}
+| E ngjashme me ''i'' në ''machine'' (/məʃiːn/)
+|-
+! rowspan="2" scope="rowgroup" style="text-align:center" | ⟨o⟩
+! scope="row" style="text-align:center" | {{IPA|[ɔ]}}
+| Si ''o'' në ''port'' (/pɔɹt/)
+|-
+! scope="row" style="text-align:center" | {{IPA|[ɔː]}}
+| ɔ por më e gjatë
+|-
+! rowspan="2" scope="rowgroup" style="text-align:center" | ⟨u⟩
+! scope="row" style="text-align:center" | {{IPA|[u]}}
+| uː por më e shkurtër
+|-
+! scope="row" style="text-align:center" | {{IPA|[uː]}}
+| E ngjashme me ''ue'' në ''true'' (/tɹuː/)
+|-
+! rowspan="2" scope="rowgroup" style="text-align:center" | ⟨y⟩
+! scope="row" style="text-align:center" | {{IPA|[ʏ]}}
+| Si ''u'' franceze, ''Ü'' gjermane
+|-
+! scope="row" style="text-align:center" | {{IPA|[ʏː]}}
+| ʏ por më e gjatë.
+|}
+
+Ky dallim në cilësi është shtruar nga W. Sidney Allen në librin e tij ''Vox Latina''. Sidoqoftë, Andrea Calabrese e ka kontestuar këtë pohim, bazuar pjesërisht te vëzhgimi se në sardenjishten dhe disa dialekte lukane, çdo çift zanoresh e gjatë dhe e shkurtër u bashkuan, në kundërshtim me gjuhët italo-perëndimore ku /i/ dhe /u/ të shkurtra u bashkuan me {{IPA|/eː/}} dhe /o:/ të gjata (krahaso latinishten {{lang|la|siccus}}, italishten {{lang|it|secco}}, dhe sardenjishten {{lang|sc|siccu}}).<ref>{{Cite web |last=Calabrese |first=Andrea |date=2003 |title=On the Evolution of Short High Vowels of Latin into Romance |website=University of Connecticut|language=en}}</ref>
+
+Një shkronjë zanoreje e ndjekur nga ⟨m⟩ në fund të një fjale, ose një shkronjë zanoreje e ndjekur nga ⟨n⟩ para ⟨s⟩ ose ⟨f⟩, përfaqësonte një zanore hundore të shkurtër, si te {{lang|la|monstrum}} {{IPA|[mõːstrũ]}}.
+
+==== Diftongjet ====
+Latinishtja klasike kishte disa diftonge. Dy më të zakonshmet ishin ⟨ae au⟩. E para shqiptohet si ''i'' në ''mine'', dhe e dyta si ''ow'' në ''power''. ⟨oe⟩ ishte mjaft e rrallë, dhe ⟨ui eu ei⟩ ishin shumë të rralla, të paktën në fjalë vendase latine.<ref name="classical diphthongs">{{Harvnb|Allen|1978|pp=60–63}}</ref> Ka pasur gjithashtu debat mbi faktin nëse ⟨ui⟩ është vërtet një diftong në latinishten klasike, për shkak të rrallësisë së saj.<ref>{{cite journal |jstor=282713 |title=The Diphthong -ui in Latin |journal=Transactions and Proceedings of the American Philological Association |volume=41 |pages=19–23 |last=Husband |first=Richard |date=1910 |doi=10.2307/282713|language=en}}</ref>
+
+Sekuencat ndonjëherë nuk përfaqësonin diftonge. ⟨ae⟩ dhe ⟨oe⟩ përfaqësonin gjithashtu një sekuencë prej dy zanoresh në rrokje të ndryshme te {{lang|la|aēnus}} {{IPA|[aˈeː.nʊs]}} 'bronz' dhe {{lang|la|coēpit}} {{IPA|[kɔˈeː.pɪt]}} 'filloi', dhe ⟨au ui eu ei ou⟩ përfaqësonin sekuenca prej dy zanoresh ose të një zanoreje dhe një gjysmëzanoreje {{IPA|/j w/}}, te {{lang|la|cavē}} {{IPA|[ˈka.weː]}} 'ki kujdes!', {{lang|la|cuius}} {{IPA|[ˈkʊj.jʊs]}} 'i cilit', {{lang|la|monuī}} {{IPA|[ˈmɔn.ʊ.iː]}} 'paralajmërova', {{lang|la|solvī}} {{IPA|[ˈsɔɫ.wiː]}} 'lirova', {{lang|la|dēlēvī}} {{IPA|[deːˈleː.wiː]}} 'shkatërrova', {{lang|la|eius}} {{IPA|[ˈɛj.jʊs]}} 'i tij', dhe {{lang|la|novus}} {{IPA|[ˈnɔ.wʊs]}} 'i ri'.
+
+Latinishtja e vjetër kishte më shumë diftonge, por shumica prej tyre ndryshuan në zanore të gjata në latinishten klasike. Diftongu i latinishtes së vjetër ⟨ai⟩ dhe sekuenca ⟨āī⟩ u bënë ⟨ae⟩ klasike. ⟨oi⟩ dhe ⟨ou⟩ e latinishtes së vjetër ndryshuan në ⟨ū⟩ klasike, përveç në disa fjalë, ⟨oi⟩ i të cilave u bë ⟨oe⟩ klasike. Këto dy zhvillime ndonjëherë ndodhën në fjalë të ndryshme nga e njëjta rrënjë: për shembull, {{lang|la|poena}} klasike "dënim" dhe {{lang|la|pūnīre}} "të dënosh".<ref name="classical diphthongs" /> ⟨ei⟩-ja e latinishtes së hershme të vjetër zakonisht u monoftongizua në një ⟨ē⟩ të mëvonshme të latinishtes së vjetër, në ⟨ī⟩ klasike.<ref>{{Harvnb|Allen|1978|pp=53–55}}</ref>
+
+Deri në Perandorinë e vonë Romake, ⟨ae oe⟩ ishin bashkuar me ⟨e ē⟩. Gjatë periudhës klasike, ky ndryshim tingulli ishte i pranishëm në disa dialekte rurale, por shmangej qëllimisht nga folësit e mirëshkolluar.<ref name="classical diphthongs" />
+
+{| class="wikitable" style="text-align: center;"
+|+ Diftonget e klasifikuara sipas tingullit fillestar
+! !! Përpara !! Mbrapa
+|-
+! Mbyllur
+| || ui {{IPA|/ui̯/}}
+|-
+! Mesatare
+| ei {{IPA|/ei̯/}}<br />eu {{IPA|/eu̯/}} || oe {{IPA|/oe̯/}}<br />ou {{IPA|/ou̯/}}
+|-
+! Hapur
+| colspan="2" | ae {{IPA|/ae̯/}}<br />au {{IPA|/au̯/}}
+|}
+
+=== Rrokjet ===
+Rrokjet në latinisht shënohen nga prania e diftongjeve dhe zanoreve. Numri i rrokjeve është i njëjtë me numrin e tingujve zanorë.<ref name="Wheelock 7th ed." />
+
+Për më tepër, nëse një bashkëtingëllore ndan dy zanore, do të shkojë në rrokjen e zanores së dytë. Kur ka dy bashkëtingëllore mes zanoreve, bashkëtingëllorja e fundit do të shkojë me zanoren e dytë. Një përjashtim ndodh kur një ndalore fonetike dhe një likuide bashkohen. Në këtë situatë, mendohen si një bashkëtingëllore e vetme, dhe si të tilla, do të shkojnë në rrokjen e zanores së dytë.<ref name="Wheelock 7th ed." />
+
+==== Gjatësia ====
+Rrokjet në latinisht konsiderohen ose të gjata ose të shkurtra (më rrallë të quajtura përkatësisht "të rënda" dhe "të lehta"). Brenda një fjale, një rrokje mund të jetë e gjatë nga natyra ose e gjatë nga pozicioni.<ref name="Wheelock 7th ed." /> Një rrokje është e gjatë nga natyra nëse ka një diftong ose një zanore të gjatë. Nga ana tjetër, një rrokje është e gjatë nga pozicioni nëse zanoren e ndjekin më shumë se një bashkëtingëllore.<ref name="Wheelock 7th ed." />
+
+==== Theksi ====
+Ka dy rregulla që përcaktojnë cila rrokje theksohet në latinishten klasike.<ref name="Wheelock 7th ed." />
+
+# Në një fjalë me vetëm dy rrokje, theksi do të jetë te rrokja e parë.
+# Në një fjalë me më shumë se dy rrokje, ka dy raste.
+#* Nëse rrokja e parafundit është e gjatë, ajo rrokje do të ketë theksin.
+#* Nëse rrokja e parafundit nuk është e gjatë, rrokja para saj do të theksohet në vend të saj.<ref name="Wheelock 7th ed." />
+
+== Drejtshkrimi ==
+{{Kryesor|Alfabeti latin|Fonologjia dhe drejtshkrimi i latinishtes}}
+
+[[File:Duenos inscription.jpg|thumb|Mbishkrimi i Duenos-it, nga shekulli VI p.e.s, është një nga tekstet më të hershme të njohura të latinishtes së vjetër. U gjet në Kodrën Kuirinale në Romë.]]
+
+Latinishtja shkruhej me alfabetin latin (A, B, C, D, E, F, G, H, I, K, L, M, N, O, P, Q, R, S, T, V, X), i prejardhur nga alfabeti etrusk, i cili nga ana e tij u nxor nga alfabeti grek dhe përfundimisht alfabeti fenikas.<ref>{{Harvnb|Diringer|1996|pp=451, 493, 530}}</ref> Ky alfabet ka vazhduar të përdoret gjatë shekujve si shkrimi për gjuhët romane, keltike, gjermanike, baltike, finike, dhe shumë gjuhë sllave (polonisht, sllovakisht, sllovenisht, kroatisht, boshnjakisht, serbisht, dhe çekisht); dhe është miratuar nga shumë gjuhë në mbarë botën, duke përfshirë vietnamishten, gjuhët austronesiane, shumë gjuhë turke, dhe shumicën e gjuhëve në Afrikën subsahariane, Amerikat, dhe Oqeaninë, duke e bërë me shumë distancë sistemin e shkrimit më të përdorur në botë.
+
+Numri i shkronjave në alfabetin latin ka ndryshuar. Kur u nxor së pari nga alfabeti etrusk, përmbante vetëm 21 shkronja.<ref>{{Harvnb|Diringer|1996|p=536}}</ref> Më vonë, ''G'' u shtua për të përfaqësuar {{IPA|/ɡ/}}, e cila më parë shkruhej ''C'', dhe ''Z'' pushoi së përfshiri në alfabet, pasi gjuha atëherë nuk kishte frikativë alveolare të shprehur.<ref name=D538>{{Harvnb|Diringer|1996|p=538}}</ref> Shkronjat K, ''Y'', dhe ''Z'' u shtuan më vonë për të përfaqësuar shkronjat greke kapa, upsilon, dhe zeta përkatësisht, në fjalë të huazuara greke.<ref name=D538 />
+
+''W'' u krijua në shekullin XI nga ''VV'' në disa zona dhe ''UU'' në të tjera. Përfaqësonte {{IPA|/w/}} në gjuhët gjermanike, jo në latinisht, e cila ende përdor ''V'' për këtë qëllim. ''J'' u dallua nga ''I'' origjinale vetëm gjatë Mesjetës së vonë, ashtu si edhe shkronja ''U'' nga ''V''.<ref name=D538 /> Edhe pse disa fjalorë latinë përdorin ''J'', përdoret rrallë për tekstin latin, pasi nuk përdorej në kohët klasike, por shumë gjuhë të tjera e përdorin.
+
+=== Pikësimi ===
+Latinishtja klasike nuk përmbante pikësim fjalie, dallim shkronjash të mëdha/vogla,<ref>{{Harvnb|Diringer|1996|p=540}}</ref> ose hapësirim mes fjalëve, por apekset ndonjëherë përdoreshin për të dalluar gjatësinë e zanoreve dhe interpunkti përdorej ndonjëherë për të ndarë fjalët.
+
+Rreshti i parë i Catullus 3 ("Vajtoni, o Venera dhe Kupidonë") u shkrua fillimisht si:
+
+{| class="wikitable"
+! thjesht
+| {{sm|lv́géteóveneréscupidinésqve}}
+|-
+! me I të gjatë
+| {{Smallcaps|lv́géteóveneréscupIdinésqve}}
+|-
+! me interpunkt
+| {{sm|lv́géte·ó·venerés·cupidinésqve}}
+|}
+
+Do të jepej në një botim modern si:
+
+{| class="wikitable"
+! thjesht
+| {{lang|la|Lugete, o Veneres Cupidinesque}}
+|-
+! me makrone
+| {{lang|la|Lūgēte, ō Venerēs Cupīdinēsque}}
+|-
+! me apekse
+| {{lang|la|Lúgéte, ó Venerés Cupídinésque}}
+|}
+
+[[File:Hocgracili.jpg|thumb|upright=1.3|Një tekst modern latin i shkruar në kursivën e vjetër romake, i frymëzuar nga tabelat e Vindolanda-s, dokumentet më të vjetra të shkruara me dorë ekzistuese në Britani. Fjala {{lang|la|Romani}} 'romakë' është poshtë majtas.]]
+
+Shkrimi kursiv roman gjendet zakonisht në shumë tabela dylli të zbuluara në vende si kështjella, me një grup veçanërisht të gjerë të zbuluar në Vindolanda te Muri i Hadrianit në Britani. Më e dukshme është fakti se ndërsa shumica e tabelave të Vindolanda-s tregojnë hapësira mes fjalëve, hapësirat shmangeshin në mbishkrimet monumentale të asaj epoke.
+
+=== Shkrime alternative ===
+Herë pas here, latinishtja është shkruar me shkrime të tjera:
+* Fibula e Praeneste-s është një kunj i shekullit VII p.e.s me një mbishkrim latin të vjetër, të shkruar duke përdorur shkrimin etrusk.
+* Paneli i pasmë i Arkës së Franks-it të fillimit të shekullit VIII ka një mbishkrim që kalon nga anglishtja e vjetër në runa anglo-saksone në latinisht me shkrim latin dhe në latinisht me runa.
+== Gramatika ==
+{{Kryesor|Gramatika e Gjuhës Latine|Sintaksa latine}}
+
+[[File:Iohannesviditpuellam.jpg|thumb|alt=Diagram edukativ që shfaq sintaksën e fjalisë latine {{lang|la|Iohannes vidit illam puellam}}|Struktura sintaksore e fjalisë latine {{lang|la|Iohannes vidit illam puellam}}, që do të thotë 'Gjoni e sheh vajzën']]
+
+Latinishtja është një gjuhë sintetike, fusionale, në terminologjinë e tipologjisë gjuhësore. Fjalët përfshijnë një element semantik objektiv dhe shënues (zakonisht prapashtesa) që specifikojnë përdorimin gramatikor të fjalës, duke shprehur gjininë, numrin, dhe rasën te mbiemrat, emrat, dhe përemrat (''deklinimi'') dhe foljet për të shënuar vetën, numrin, kohën, diatezën, dhe mënyrën (''zgjedhimi''). Disa fjalë janë të palakuara dhe nuk i nënshtrohen asnjërit prej proceseve, si ndajfoljet, parafjalët, dhe pasthirrmat.
+
+Lakimi latin mund të rezultojë në fjalë me shumë paqartësi: për shembull, {{lang|la|amābit}} 'ai/ajo do të dojë', formohet nga {{lang|la|amā-}}, morfema e kohës së ardhme {{lang|la|-bi-}}, dhe morfema e vetës së tretë njëjës, {{lang|la|-t}}, e fundit prej të cilave {{lang|la|-t}} nuk shpreh gjini mashkullore, femërore, ose asnjanëse. Një detyrë madhore në kuptimin e frazave dhe fjalive latine është të qartësohen paqartësi të tilla përmes një analize të kontekstit. Renditja e fjalëve në latinisht është relativisht e lirë, sepse lakimet i qartësojnë lidhjet semantike, por renditje të ndryshme fjalësh mund të tregojnë nuanca të ndryshme kuptimi.
+
+=== Emrat ===
+{{Kryesor|Deklinimi latin}}
+Të gjithë emrat dhe mbiemrat e rregullt latinë i përkasin njërës prej pesë deklinimeve; një grupim emrash dhe mbiemrash me forma të ngjashme të lakuara. Deklinimet identifikohen nga shkronja përfundimtare e temës (fjala pa mbaresën e deklinimit) dhe mbaresa gjinore njëjës e fjalës.
+{| class="wikitable"
+|+
+!Deklinimi
+!Shkronja Përfundimtare e Temës
+!Mbaresa Gjinore Njëjës
+|-
+|I
+|ā
+| -ae
+|-
+|II
+|ŏ
+| -ī
+|-
+|III
+|ĭ / Ndonjë bashkëtingëllore
+| -īs
+|-
+|IV
+|ŭ
+| -ūs
+|-
+|V
+|ē
+| -ēī / -ĕī<ref>{{Cite book |last=Bennett |first=Charles |url=https://gutenberg.org/ebooks/15665 |title=New Latin Grammar |publisher=Project Gutenberg |year=1918|language=en}}</ref>
+|}
+Ka shtatë rasa emrash në latinisht, të cilat zbatohen gjithashtu për mbiemrat dhe përemrat dhe shënojnë rolin sintaksor të një emri në fjali përmes lakimeve. Kështu, renditja e fjalëve në latinisht nuk është aq e rëndësishme sa në anglisht, e cila lakohet më pak. Struktura e përgjithshme dhe renditja e fjalëve e një fjalie latine mund të ndryshojë prandaj. Rasat janë si vijon:
+
+# Emërorja – përdoret kur emri është kryefjala ose një kallëzuesor emëror. Sendi ose personi që vepron: vajza vrapoi: {{lang|la|puella cucurrit}}, ose {{lang|la|cucurrit puella}}
+# Gjinorja – përdoret kur emri është zotëruesi ose i lidhur me një objekt: "kali i njeriut"; në të dyja rastet, fjala ''njeri'' do të ishte në rasën gjinore kur përkthehet në latinisht. Tregon gjithashtu partitivin, ku materiali sasiohet: "një grup njerëzish"; "një numër dhuratash": ''njerëzish'' dhe ''dhuratash'' do të ishin në rasën gjinore. Disa emra janë gjinorë me folje dhe mbiemra të veçantë: Gota është plot verë. ({{lang|la|Pōculum plēnum vīnī est.}}) Zotëria i skllavit e kishte rrahur atë. ({{lang|la|Dominus servī eum verberāverat.}})
+# Dhanorja – përdoret kur emri është kundrinori i zhdrejtë i fjalisë, me folje të veçanta, me parafjalë të caktuara, dhe nëse përdoret si agjent, referencë, ose madje zotërues: Tregtari ia jep stolën gruas. ({{lang|la|Mercātor fēminae stolam trādit.}})
+# Kallëzorja – përdoret kur emri është kundrinori i drejtë i kryefjalës, si objekt i një parafjale që tregon vendin drejt të cilit, dhe ndonjëherë për të treguar një kohëzgjatje: Njeriu e vrau djalin. ({{lang|la|Vir puerum necāvit.}})
+# Rrjedhorja – përdoret kur emri tregon ndarje ose lëvizje nga një burim, shkak, agjent, ose instrument, ose kur emri përdoret si objekt i disa parafjalëve të caktuara, dhe për të treguar një vend specifik në kohë; ndajfoljore: Ecje me djalin. ({{lang|la|Cum puerō ambulāvistī.}})
+# Thirrorja – përdoret kur emri përdoret në një drejtim të drejtpërdrejtë. Forma thirrore e një emri shpesh është e njëjtë me emëroren, me përjashtim të emrave të deklinimit të dytë që mbarojnë me {{lang|la|-us}}. {{lang|la|-us}} bëhet {{lang|la|-e}} në thirroren njëjës. Nëse mbaron me {{lang|la|-ius}} (si {{lang|la|fīlius}}), mbaresa është thjesht {{lang|la|-ī}} ({{lang|la|filī}}), e ndryshme nga emërorja shumës ({{lang|la|filiī}}) në thirroren njëjës: "Zotëri!" bërtiti skllavi. ({{lang|la|"Domine!" clāmāvit servus.}})
+# Vendorja – përdoret për të treguar një vendndodhje (që i korrespondon anglishtes ''in'' ose ''at''). Është shumë më pak e zakonshme se gjashtë rasat e tjera të emrave latinë dhe zakonisht zbatohet për qytete dhe qytezat e vogla dhe ishuj së bashku me disa emra të zakonshëm, si fjalët {{lang|la|domus}} 'shtëpi', {{lang|la|humus}} 'tokë', dhe {{lang|la|rus}} 'fshat'. Në njëjësin e deklinimit të parë dhe të dytë, forma e saj përputhet me gjinoren ({{lang|la|Roma}} bëhet {{lang|la|Romae}} 'në Romë'). Në shumësin e të gjitha deklinimeve dhe njëjësin e deklinimeve të tjera, përputhet me rrjedhoren ({{lang|la|Athēnae}} bëhet {{lang|la|Athēnīs}}, 'në Athinë'). Te fjala e deklinimit të katërt {{lang|la|domus}}, forma vendore, {{lang|la|domī}} 'në shtëpi', ndryshon nga forma standarde e të gjitha rasave të tjera.
+
+Latinishtes i mungojnë edhe nyjet e caktuara edhe të pacaktuara, kështu {{lang|la|puer currit}} mund të thotë ose 'djali po vrapon' ose 'një djalë po vrapon'.
+
+=== Mbiemrat ===
+{{Kryesor|Deklinimi latin#Mbiemrat}}
+
+Ka dy lloje mbiemrash të rregullt latinë: mbiemra të deklinimit të parë e të dytë dhe mbiemra të deklinimit të tretë. Quhen kështu sepse format e tyre janë të ngjashme ose identike me emrat e deklinimit të parë e të dytë dhe të tretë, përkatësisht. Mbiemrat latinë kanë gjithashtu forma krahasore dhe superlative. Ka gjithashtu një numër pjesoresh latine.
+
+Numrat latinë ndonjëherë deklinohen si mbiemra; shih seksionin "Numrat".
+
+''Mbiemrat e deklinimit të parë e të dytë'' lakohen si emra të deklinimit të parë për format femërore dhe si emra të deklinimit të dytë për format mashkullore dhe asnjanëse. Për shembull, për {{lang|la|mortuus, mortua, mortuum}} 'i vdekur', {{lang|la|mortua}} lakohet si një emër i rregullt i deklinimit të parë (si {{lang|la|puella}} 'vajzë'), {{lang|la|mortuus}} lakohet si një emër mashkullor i rregullt i deklinimit të dytë (si {{lang|la|dominus}} 'zot, zotëri'), dhe {{lang|la|mortuum}} lakohet si një emër asnjanës i rregullt i deklinimit të dytë (si {{lang|la|auxilium}} 'ndihmë').
+
+''Mbiemrat e deklinimit të tretë'' lakohen kryesisht si emra normalë të deklinimit të tretë, me disa përjashtime. Në emëroren shumës asnjanëse, për shembull, mbaresa është ''-ia'' ({{lang|la|omnia}} 'gjithçka'), ndërsa për emrat e deklinimit të tretë, mbaresa e emërores shumës asnjanëse është ''-a'' ose ''-ia'' ({{lang|la|capita}} 'kokat', {{lang|la|animalia}} 'kafshët'). Mund të kenë një, dy, ose tri forma për emëroren njëjës mashkullore, femërore, dhe asnjanëse.
+
+==== Pjesoret ====
+Pjesoret latine, si pjesoret angleze, formohen nga një folje. Ka disa lloje kryesore pjesoresh: pjesore aktive të tashme, pjesore pasive të kryera, pjesore aktive të ardhme, dhe pjesore pasive të ardhme.
+
+=== Parafjalët ===
+Latinishtja ndonjëherë përdor parafjalë, në varësi të llojit të frazës parafjalore që përdoret. Shumica e parafjalëve pasohen nga një emër ose në rasën kallëzore ose në rrjedhore: {{lang|la|apud puerum}} 'me djalin', ku {{lang|la|puerum}} është forma kallëzore e {{lang|la|puer}} 'djalë', dhe {{lang|la|sine puero}} 'pa djalin' – {{lang|la|puero}} duke qenë forma rrjedhore. Disa parafjalë, sidoqoftë, qeverisin një emër në gjinore, si {{lang|la|gratia}} dhe {{lang|la|tenus}}.
+
+=== Foljet ===
+{{Kryesor|Gramatika e Gjuhës Latine|Zgjedhimi latin}}
+
+Një folje e rregullt në latinisht i përket njërit prej katër zgjedhimeve kryesore. Një zgjedhim është "një klasë foljesh me forma të lakuara të ngjashme".<ref>{{cite dictionary |title=Conjugation |dictionary=Webster's II new college dictionary |location=Boston |publisher=Houghton Mifflin |year=1999|language=en}}</ref> Zgjedhimet identifikohen nga shkronja e fundit e temës së tashme të foljes. Tema e tashme mund të gjendet duke hequr mbaresën -{{lang|la|re}} (-{{lang|la|rī}} te foljet deponente) nga forma e paskajores së tashme. Paskajorja e zgjedhimit të parë mbaron me {{lang|la|-ā-re}} ose {{lang|la|-ā-rī}} (aktive dhe pasive përkatësisht): {{lang|la|amāre}} 'të duash', {{lang|la|hortārī}} 'të nxitësh'; e zgjedhimit të dytë me {{lang|la|-ē-re}} ose {{lang|la|-ē-rī}}: {{lang|la|monēre}} 'të paralajmërosh', {{lang|la|verērī}} 'të kesh frikë', e zgjedhimit të tretë me {{lang|la|-ere}}, {{lang|la|-ī}}: {{lang|la|dūcere}} 'të udhëheqësh', {{lang|la|ūtī}} 'të përdorësh'; e të katërtit me {{lang|la|-ī-re}}, {{lang|la|-ī-rī}}: {{lang|la|audīre}} 'të dëgjosh', {{lang|la|experīrī}} 'të përpiqesh'.<ref name="Wheelock 2011">{{cite book |title=Wheelock's Latin |last=Wheelock |first=Frederic M. |publisher=CollinsReference |edition=7th |location=New York |date=2011|language=en}}</ref> Kategoritë e temave zbresin nga indo-evropianishtja dhe kështu mund të krahasohen me zgjedhime të ngjashme në gjuhë të tjera indoevropiane.
+
+Foljet e parregullta janë folje që nuk i ndjekin zgjedhimet e rregullta në formimin e formës së lakuar. Foljet e parregullta në latinisht janë ''esse'' 'të jesh'; ''velle'' 'të duash'; ''ferre'' 'të mbash'; ''edere'' 'të hash'; ''dare'' 'të japësh'; ''īre'' 'të shkosh'; ''posse'' 'të mundësh'; ''fieri'' 'të ndodhë'; dhe përbërjet e tyre.<ref name="Wheelock 2011" />
+
+Ka gjashtë kohë të thjeshta në latinisht (e tashme, e pakryer, e ardhme, e kryer, më se e kryer, dhe e ardhme e kryer), tri mënyra (dëftore, urdhërore, dhe lidhore, përveç paskajores, pjesores, gerundit, gerundivit, dhe supinit), tri veta (e para, e dytë, dhe e tretë), dy numra (njëjës dhe shumës), dy diateza (aktive dhe pasive), dhe dy aspekte (i kryer dhe i pakryer). Foljet përshkruhen nga katër pjesë kryesore:
+# Pjesa e parë kryesore është forma e vetës së parë njëjës, kohës së tashme, diatezës aktive, mënyrës dëftore të foljes. Nëse folja është jopersonale, pjesa e parë kryesore do të jetë në vetën e tretë njëjës.
+# Pjesa e dytë kryesore është paskajorja aktive e tashme.
+# Pjesa e tretë kryesore është forma e vetës së parë njëjës, dëftore aktive e kryer. Ashtu si pjesa e parë kryesore, nëse folja është jopersonale, pjesa e tretë kryesore do të jetë në vetën e tretë njëjës.
+# Pjesa e katërt kryesore është forma e supinit, ose alternativisht, emërorja njëjës e formës së pjesores pasive të kryer të foljes. Pjesa e katërt kryesore mund të tregojë një gjini të pjesores ose të tri gjinitë (''-us'' për mashkullore, ''-a'' për femërore, dhe ''-um'' për asnjanëse) në emëroren njëjës. Pjesa e katërt kryesore do të jetë pjesorja e ardhme nëse folja nuk mund të bëhet pasive. Shumica e fjalorëve modernë latinë, nëse tregojnë vetëm një gjini, priren të tregojnë mashkulloren; por shumë fjalorë më të vjetër tregojnë në vend të kësaj asnjanësen, pasi përputhet me supinin. Pjesa e katërt kryesore ndonjëherë lihet jashtë për foljet jokalimtare, por rreptësisht në latinisht, ato mund të bëhen pasive nëse përdoren jopersonalisht, dhe supini ekziston për folje të tilla.
+
+Gjashtë kohët e thjeshta të latinishtes ndahen në dy sisteme: sistemin e së tashmes, i përbërë nga format e së tashmes, së pakryerës, dhe së ardhmes, dhe sistemin e kryer, i përbërë nga format e së kryerës, më se së kryerës, dhe të ardhmes së kryer. Çdo kohë e thjeshtë ka një grup mbaresash që korrespondojnë me vetën, numrin, dhe diatezën e kryefjalës. Përemrat kryefjalë (emërorë) zakonisht lihen jashtë për vetën e parë (''unë, ne'') dhe të dytën (''ti'') përveçse për theksim.
+
+Tabela më poshtë tregon mbaresat e zakonshme të lakuara për mënyrën dëftore në diatezën aktive në të gjashtë kohët. Për kohën e ardhme, mbaresat e para të listuara janë për zgjedhimin e parë dhe të dytë, dhe të dytat e listuara janë për zgjedhimin e tretë dhe të katërt:
+
+{| class="wikitable"
+! rowspan=2|Koha !! colspan=3|Njëjës !! colspan=3|Shumës
+|-
+! Veta I !! Veta II !! Veta III !! Veta I !! Veta II !! Veta III
+|-
+! E tashme
+| -ō/m || -s || -t || -mus || -tis || -nt
+|-
+! E ardhme
+| -bō, -am || -bis, -ēs || -bit, -et || -bimus, -ēmus || -bitis, -ētis
+| -bunt, -ent
+|-
+! E pakryer
+| -bam || -bās || -bat || -bāmus || -bātis || -bant
+|-
+! E kryer
+| -ī || -istī || -it || -imus || -istis || -ērunt
+|-
+! E ardhme e kryer
+| -erō || -eris/erīs || -erit || -erimus/-erīmus || -eritis/-erītis || -erint
+|-
+! Më se e kryer
+| -eram || -erās || -erat || -erāmus || -erātis || -erant
+|}
+
+==== Foljet deponente ====
+Disa folje latine janë deponente, gjë që i bën format e tyre në diatezën pasive, por duke ruajtur kuptim aktiv: {{lang|la|hortor, hortārī, hortātus sum}} 'të nxisësh'.
+
+== Fjalori ==
+
+Meqë latinishtja është një gjuhë italike, shumica e fjalorit të saj është gjithashtu italik, përfundimisht nga gjuha protoindoevropiane paraardhëse. Sidoqoftë, për shkak të ndërveprimit të ngushtë kulturor, romakët jo vetëm e përshtatën alfabetin etrusk për të formuar alfabetin latin, por edhe huazuan disa fjalë etruske në gjuhën e tyre, duke përfshirë {{lang|la|persona}} 'maskë' dhe {{lang|la|histrio}} 'aktor'.<ref name=H&S13>{{harvnb|Holmes|Schultz|2012|p=13}}</ref> Latinishtja përfshinte gjithashtu fjalor të huazuar nga oskishtja, një gjuhë tjetër italike.
+
+Pas rënies së Tarentumit në 272 p.e.s, romakët filluan të helenizoheshin, ose të miratonin veçori të kulturës greke, duke përfshirë huazimin e fjalëve greke, si {{lang|la|camera}} 'çati e harkuar', {{lang|la|sumbolum}} 'simbol', dhe {{lang|la|balineum}} 'banjë'.<ref name=H&S13 /> Kjo helenizim çoi në shtimin e ''Y'' dhe ''Z'' në alfabet për të përfaqësuar tinguj grekë.<ref>{{cite book |first=David |last=Sacks |year=2003 |title=Language Visible: Unraveling the Mystery of the Alphabet from A to Z |location=London |publisher=Broadway Books |page=351|language=en}}</ref> Më pas, romakët e transplantuan artin, mjekësinë, shkencën, dhe filozofinë greke në Itali, duke paguar pothuajse çdo çmim për të tërhequr persona të shkolluar e me aftësi grekë në Romë dhe duke i dërguar të rinjtë e tyre për t'u arsimuar në Greqi. Kështu, shumë fjalë shkencore dhe filozofike latine ishin fjalë të huazuara greke ose e patën kuptimin e zgjeruar përmes asociimit me fjalë greke, si ''ars'' 'zanat' dhe ''tekhne'' 'art'.<ref name=H&S14>{{harvnb|Holmes|Schultz|2012|p=14}}</ref>
+
+Për shkak të zgjerimit të Perandorisë Romake dhe tregtisë pasuese me fise evropiane të largëta, romakët huazuan disa fjalë të Evropës veriore dhe qendrore, si {{lang|la|beber}} 'kastor', me origjinë gjermanike, dhe {{lang|la|bracae}} 'pantallona', me origjinë keltike.<ref name=H&S14 /> Dialektet specifike të latinishtes në rajonet latinishtfolëse të ish-Perandorisë Romake pas rënies së saj u ndikuan nga gjuhët specifike të rajoneve. Dialektet e latinishtes evoluuan në gjuhë të ndryshme romane.
+
+Gjatë dhe pas miratimit të krishterimit në shoqërinë romake, fjalori i krishterë u bë pjesë e gjuhës, ose nga huazime greke a hebraike ose si neologjizma latine.<ref>{{cite book |last1=Norberg |first1=Dag |translator-last1=Johnson |translator-first1=Rand H. |title=Manuel pratique de latin médiéval |chapter=Latin at the End of the Imperial Age |orig-year=1980 |year=2004 |publisher=University of Michigan|language=en}}</ref> Në Mesjetë, latinishtja inkorporoi shumë fjalë të tjera nga gjuhë përreth, duke përfshirë anglishten e vjetër dhe gjuhë të tjera gjermanike.
+
+Gjatë shekujve, popullatat latinishtfolëse prodhuan mbiemra, emra, dhe folje të reja duke i shtuar prapashtesa ose duke i përbërë segmente kuptimplote.<ref>{{harvnb|Jenks|1911|pp=3, 46}}</ref> Për shembull, mbiemri i përbërë, {{lang|la|omnipotens}} 'gjithëfuqishëm', u prodhua nga mbiemrat {{lang|la|omnis}} 'gjithë' dhe {{lang|la|potens}} 'i fuqishëm', duke e hequr ''s''-në përfundimtare të {{lang|la|omnis}} dhe duke i bashkuar. Shpesh, bashkimi ndryshoi pjesën e ligjëratës, dhe emra u prodhuan nga segmente foljesh ose folje nga emra dhe mbiemra.<ref>{{harvnb|Jenks|1911|pp=35, 40}}</ref>
+
+== Numrat ==
+{{Shih|Numëratorët latinë (gjuhësi)}}
+Në kohët e lashta, numrat në latinisht shkruheshin vetëm me shkronja. Sot, numrat mund të shkruhen edhe me numra arabë edhe me numra romakë. Numrat 1, 2, dhe 3, së bashku me çdo qindëshe të plotë nga 200 deri 900, deklinohen si emra dhe mbiemra me mbaresa specifike sipas gjinisë.<ref name="AG1903">{{cite book |last=Allen |first=Joseph Henry |last2=Greenough |first2=James B. |title=Allen and Greenough's New Latin Grammar |publisher=Ginn and Company |year=1903 |pages=58–62|language=en}}</ref>
+
+{| class="wikitable"
+|-
+! Latinisht
+! Numër romak
+! Shqip
+|-
+| {{lang|la|ūnus, ūna, ūnum}} (mashkullore, femërore, asnjanëse)
+| I
+| një
+|-
+| {{lang|la|duo, duae, duo}} (m., f., a.)
+| II
+| dy
+|-
+| {{lang|la|trēs, tria}} (m./f., a.)
+| III
+| tre
+|-
+| {{lang|la|quattuor}}
+| IIII <small>ose</small> IV
+| katër
+|-
+| {{lang|la|quīnque}}
+| V
+| pesë
+|-
+| {{lang|la|sex}}
+| VI
+| gjashtë
+|-
+| {{lang|la|septem}}
+| VII
+| shtatë
+|-
+| {{lang|la|octō}}
+| IIX <small>ose</small> VIII
+| tetë
+|-
+| {{lang|la|novem}}
+| VIIII <small>ose</small> IX
+| nëntë
+|-
+| {{lang|la|decem}}
+| X
+| dhjetë
+|-
+| {{lang|la|quīnquāgintā}}
+| L
+| pesëdhjetë
+|-
+| {{lang|la|centum}}
+| C
+| njëqind
+|-
+| {{lang|la|quīngentī, quīngentae, quīngenta}} (m., f., a.)
+| D
+| pesëqind
+|-
+| {{lang|la|mīlle}}
+| M
+| një mijë
+|}
+
+Numrat nga 4 deri 100 nuk i ndryshojnë mbaresat (janë të palakueshëm). Ashtu si në gjuhët moderne romane, gjinia e parazgjedhur për të emërtuar një numër të izoluar është mashkullore, kështu numërimi "1, 2, 3" jepet si {{lang|la|ūnus, duo, trēs}}.<ref name="GL1895">{{cite book |last=Gildersleeve |first=Basil L. |last2=Lodge |first2=Gonzalez |title=Gildersleeve's Latin Grammar |publisher=Dover Publications |year=1895 |edition=3rd |pages=52–55|language=en}}</ref>
+
+== Tekst shembull ==
+Vepra klasike {{lang|la|Commentarii de Bello Gallico}} (''Lufta Galike''), e shkruar nga Gaius Julius Caesar (Jul Çezari), fillon me pasazhin e mëposhtëm:<ref name="CaesarBG">{{cite book |last=Caesar |first=Julius |title=Commentarii de Bello Gallico |editor-last=du Pontet |editor-first=René |publisher=Oxford University Press |year=1914 |section=1|language=la}}</ref>
+
+{{blockquote|{{langr|la|Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur. Hi omnes lingua, institutis, legibus inter se differunt. Gallos ab Aquitanis Garumna flumen, a Belgis Matrona et Sequana dividit. Horum omnium fortissimi sunt Belgae, propterea quod a cultu atque humanitate provinciae longissime absunt, minimeque ad eos mercatores saepe commeant atque ea quae ad effeminandos animos pertinent important, proximique sunt Germanis, qui trans Rhenum incolunt, quibuscum continenter bellum gerunt. Qua de causa Helvetii quoque reliquos Gallos virtute praecedunt, quod fere cotidianis proeliis cum Germanis contendunt, cum aut suis finibus eos prohibent aut ipsi in eorum finibus bellum gerunt. Eorum una pars, quam Gallos obtinere dictum est, initium capit a flumine Rhodano, continetur Garumna flumine, Oceano, finibus Belgarum; attingit etiam ab Sequanis et Helvetiis flumen Rhenum; vergit ad septentriones. Belgae ab extremis Galliae finibus oriuntur; pertinent ad inferiorem partem fluminis Rheni; spectant in septentrionem et orientem solem. Aquitania a Garumna flumine ad Pyrenaeos montes et eam partem Oceani quae est ad Hispaniam pertinet; spectat inter occasum solis et septentriones.}}}}
+
+I njëjti tekst mund të shënohet për zanoret e gjata duke përdorur apekse mbi shkronjat zanore, duke përfshirë para ''nf'' dhe ''ns'', ku zanoret e gjata prodhohen automatikisht:
+
+{{blockquote|{{langr|la|Gallia est omnis dívísa in partés trés, quárum únam incolunt Belgae, aliam Aquítání, tertiam quí ipsórum linguá Celtae, nostrá Gallí appellantur. Hí omnés linguá, ínstitútís, légibus inter sé differunt. Gallós ab Aquítánís Garumna flúmen, á Belgís Mátrona et Séquana dívidit. Hórum omnium fortissimí sunt Belgae, proptereá quod á cultú atque húmánitáte próvinciae longissimé absunt, miniméque ad eós mercátórés saepe commeant atque ea quae ad efféminandós animós pertinent important, proximíque sunt Germánís, quí tráns Rhénum incolunt, quibuscum continenter bellum gerunt. Quá dé causá Helvétií quoque reliquós Gallós virtúte praecédunt, quod feré cotídiánís proeliís cum Germánís contendunt, cum aut suís fínibus eós prohibent aut ipsí in eórum fínibus bellum gerunt. Eórum úna pars, quam Gallós obtinére dictum est, initium capit á flúmine Rhodanó, continétur Garumná flúmine, Óceanó, fínibus Belgárum; attingit etiam ab Séquanís et Helvétiís flúmen Rhénum; vergit ad septentriónés. Belgae ab extrémís Galliae fínibus oriuntur; pertinent ad ínferiórem partem flúminis Rhéní; spectant in septentriónem et orientem sólem. Aquítánia á Garumná flúmine ad Pýrénaeós montés et eam partem Óceaní quae est ad Hispániam pertinet; spectat inter occásum sólis et septentriones.}}}}
+
+Një shembull i latinishtes së vonë është Vulgata Latine e Shën Jeronimit. Më poshtë është Psalmi 1 ({{lang|la|Psalmum Unum}}) nga Vulgata Klementine:<ref name="VulgatePs1">{{cite book |title=Biblia Sacra Vulgata |year=1592 |chapter=Psalms 1:1–5|language=la}}</ref>
+
+{{blockquote|{{langr|la|1 Beatus vir qui non abiit in consilio impiorum, et in via peccatorum non stetit, et in cathedra pestilentiae non sedit; 2 sed in lege Domini voluntas ejus, et in lege ejus meditabitur die ac nocte. 3 Et erit tamquam lignum quod plantatum est secus decursus aquarum, quod fructum suum dabit in tempore suo : et folium ejus non defluet; et omnia quaecumque faciet prosperabuntur. 4 Non sic impii, non sic; sed tamquam pulvis quem projicit ventus a facie terrae. 5 Ideo non resurgent impii in judicio, neque peccatores in concilio justorum.}}}}
+
+== Shiko gjithashtu ==
+{{Div col|colwidth=22em}}
+* {{ill|Accademia Vivarium Novum|en|Accademia Vivarium Novum}}
+* {{ill|Latinishtja botanike|en|Botanical Latin}}
+* {{ill|Përbërja klasike|en|Classical compound}}
+* {{ill|Fjala hibride|en|Hybrid word}}
+* {{ill|Gjyqi ndërkombëtar student i së drejtës romake|en|International Roman Law Moot Court}}
+* {{ill|Mnemonikat latine|en|Latin mnemonics}}
+* {{ill|Vulgariteti latin|en|Latin obscenity}}
+* {{ill|Shkolla latine|en|Latin school}}
+* {{ill|Lista e shkurtimeve latine|en|List of Latin abbreviations}}
+* {{ill|Lista e fjalëve latine dhe greke të përdorura zakonisht në emra sistematikë|en|List of Latin and Greek words commonly used in systematic names}}
+* {{ill|Lista e frazave latine|en|List of Latin phrases}}
+* {{ill|Lista e përkthimeve latine të letërsisë moderne|en|List of Latin translations of modern literature}}
+* {{ill|Lista e librave të rinj origjinalë në latinisht|en|List of recent original books in Latin}}
+* {{ill|Lista e emrave të latinizuar|en|List of Latinised names}}
+* {{ill|Romanizimi (kulturor)|en|Romanization (cultural)}}
+* {{ill|Shqiptimi tradicional anglez i latinishtes|en|Traditional English pronunciation of Latin}}
+{{Div col end}}
+
+== Shënime ==
+{{Notelist-ur}}
+
+== Referimet ==
+{{Reflist}}
+
+== Bibliografia ==
+{{refbegin|30em}}
+* {{Cite book |last=Allen |first=William Sidney |title=Vox Latina – a Guide to the Pronunciation of Classical Latin |date=1978 |publisher=Cambridge University Press |isbn=978-0-521-22049-1 |edition=2nd |orig-year=1965|language=en}}
+* {{cite book |editor1-last=Bergin |editor1-first=Thomas G. |editor2-last=Law |editor2-first=Jonathan |editor3-first=Jennifer |editor3-last=Speake |title=Encyclopedia of the Renaissance and Reformation |date=2004 |publisher=Facts On File |isbn=0-8160-5451-7|language=en}}
+* {{cite book |first=Victor Selden |last=Clark |year=1900 |title=Studies in the Latin of the Middle Ages and the Renaissance |location=Lancaster |publisher=New Era|language=en}}
+* {{cite journal |last1=Demo |first1=Šime |title=A paradox of the linguistic research of Neo–Latin. Symptoms and causes |journal=Suvremena Lingvistika |date=2022 |volume=48 |issue=93 |doi=10.22210/suvlin.2022.093.01 |doi-access=free|language=en}}
+* {{cite book |editor1-last=Deneire |editor1-first=Thomas |title=Dynamics of Neo-Latin and the Vernacular: Language and Poetics, Translation and Transfer |date=2014 |publisher=Koninklijke Brill |location=Leiden |isbn=9789004269071|language=en}}
+* {{cite book |last=Diringer |first=David |title=The Alphabet – A Key to the History of Mankind |publisher=Munshiram Manoharlal |location=New Delhi |year=1996 |orig-year=1947 |isbn=978-81-215-0748-6|language=en}}
+* {{cite book |title=Vulgar Latin |first1=József |last1=Herman |translator-first1=Roger |translator-last1=Wright |location=University Park, PA |publisher=Pennsylvania State University Press |year=2000 |isbn=978-0-271-02000-6|language=en}}
+* {{cite book |last1=Holmes |first1=Urban Tigner |last2=Schultz |first2=Alexander Herman |title=A History of the French Language |location=New York |publisher=Biblo-Moser |isbn=978-0-8196-0191-9 |date=Sep 15, 2012 |orig-year=1938|language=en}}
+* {{cite book |editor1-last=Knight |editor1-first=Sarah |editor2-first=Stefan |editor2-last=Tilg |date=2015 |title=The Oxford Handbook of Neo-Latin |place=New York |publisher=Oxford University Press |isbn=978-0-19-088699-8|language=en}}
+* {{cite book |last=Levy |first=Harry Louis |title=A Latin reader for colleges |date=1973 |publisher=University of Chicago Press |isbn=0-226-47602-2|language=en}}
+* {{cite book |last=Jenks |first=Paul Rockwell |year=1911 |title=A Manual of Latin Word Formation for Secondary Schools |location=New York |publisher=D. C. Heath|language=en}}
+* {{cite book |last=Scase |first=Wendy |title=Visible English: Graphic Culture, Scribal Practice, and Identity, c. 700-c. 1550 |location=Turnhout, Belgium |publisher=Brepols |year=2022 |isbn=978-2-503-59843-7|language=en}}
+* {{cite book |title=New comparative grammar of Greek and Latin |first=Andrew L. |last=Sihler |location=New York |publisher=Oxford University Press |year=2008|language=en}}
+{{refend}}
+
+== Lidhje të jashtme ==
+* {{Commons|Latin}}
+* {{Wiktionary category|category=Latin language}}
+
+=== Mjete gjuhësore ===
+* {{cite web |url=https://www.perseus.tufts.edu/hopper/resolveform?lang=la |title=Latin Dictionary Headword Search |work=Perseus Hopper |publisher=Tufts University|language=en}} Kërkon në ''A Latin Dictionary'' të Lewis & Short dhe ''An Elementary Latin Dictionary'' të Lewis-it.
+* {{cite web |url=https://www.online-latin-dictionary.com |title=Online Latin Dictionary with conjugator and declension tool |publisher=Olivetti Media Communication|language=en}} Fjalor latinisht-anglisht dhe anglisht-latinisht me deklinim ose zgjedhim të plotë.
+* {{cite web |url=https://www.perseus.tufts.edu/hopper/morph?lang=la |title=Latin Word Study Tool |work=Perseus Hopper |publisher=Tufts University|language=en}} Identifikon funksionet gramatikore të fjalëve të futura.
+* {{cite web |url=https://isidore.co/LatinInflector/latin/ |title=Latin Inflector |first=Alan |last=Aversa|language=en}} Identifikon funksionet gramatikore të të gjitha fjalëve në fjalitë e futura, duke përdorur Perseus.
+* {{cite web |url=https://www.verbix.com/languages/latin.shtml |title=Latin Verb Conjugator |publisher=Verbix|language=en}} Shfaq zgjedhimet e plota të foljeve të futura në formën e vetës së parë njëjës të së tashmes.
+* {{cite web |url=https://lysy2.archives.nd.edu/cgi-bin/words.exe |title=Words |first=William |last=Whittaker |publisher=Notre Dame Archives|language=en}} Identifikon fjalë latine të futura. Përkthen fjalë angleze të futura.
+* {{cite web |url=https://alpheios.net |title=Alpheios |publisher=Alpheios Project|language=en}} Kombinon Whittaker's Words, Lewis and Short, gramatikën e Bennett-it, dhe tabelat e lakimit në një shtesë shfletuesi.
+
+=== Kurse ===
+* [https://community-courses.memrise.com/community/courses/english/latin/ Kurse komuniteti] në Memrise
+* [https://lrc.la.utexas.edu/eieol/latol Mësime latinishteje] (falas online përmes Linguistics Research Center në UT Austin)
+* [https://learn101.org/latin.php Mëso Latinisht] {{Webarchive|url=https://web.archive.org/web/20220308081320/http://learn101.org/latin.php |date=8 March 2022 }} Gramatikë, fjalor, dhe audio
+* {{cite web |url=https://latinum.org.uk |title=Latinum |work=Latin Latin Course on YouTube and audiobooks |first=Evan |last=der Millner |year=2007 |publisher=Molendinarius|language=en}}
+* [https://www.hs-augsburg.de/~harsch/Ludus/lud_port.html Kurs latinishteje: Ludus Latinus] {{Webarchive|url=https://web.archive.org/web/20220412004602/https://www.hs-augsburg.de/~harsch/Ludus/lud_port.html |date=12 April 2022 }} (Bibliotheca Augustana)
+* [https://www.nationalarchives.gov.uk/latin/beginners/default.htm Latinishtja për fillestarë] në The National Archives (Mbretëria e Bashkuar)
+
+=== Gramatikë dhe studim ===
+* {{cite book |url=https://www.gutenberg.org/ebooks/15665 |title=New Latin Grammar |first=Charles E. |last=Bennett |year=2005 |publisher=Project Gutenberg |orig-year=1908 |edition=2nd |isbn=978-1-176-19706-0|language=en}}
+* {{cite book |last=Griffin |first=Robin |title=A student's Latin Grammar |publisher=University of Cambridge |edition=3rd |year=1992 |isbn=978-0-521-38587-9|language=en}}
+* {{cite book |last1=Ørberg |first1=Hans |title=LINGVA LATINA PER SE ILLVSTRATA – Pars I FAMILIA ROMANA |date=1991 |publisher=Museum Tusculanum Press |isbn=87-997016-5-0|language=la}}
+* {{cite book |last1=Ørberg |first1=Hans |title=LINGVA LATINA PER SE ILLVSTRATA – Pars II ROMA AETERNA |date=2007 |publisher=Hackett Publishing Company |isbn=978-1-58510-067-5|language=la}}
+
+=== Fonetika ===
+* {{cite web |title=Phonetica Latinæ - How to pronounce Latin |url=https://la.raycui.com/ |first=Ray |last=Cui |year=2005|language=en}}
+* {{cite web |last1=Ranieri |first1=Luke |title=Latin Pronunciation (for Classical Latin) |website=YouTube |date=31 August 2018 |url=https://www.youtube.com/watch?v=eH8E5RKq31I|language=en}}
+
+=== Biblioteka ===
+* [https://www.thelatinlibrary.com/ The latin library], libra dhe shkrime antike latine (pa përkthime) të renditura sipas autorit
+* [https://penelope.uchicago.edu/Thayer/E/Roman/Texts/ LacusCurtius], një koleksion i vogël autorësh grekë dhe romakë së bashku me librat dhe shkrimet e tyre
+
+=== Media në gjuhën latine ===
+* [https://ephemeris.alcuinus.net/ Ephemeris], gazetë online latine: {{lang|la|nuntii latini universi}} = lajme në latinisht të universit (gjithë botës)
+* [https://yle.fi/radio1/tiede/nuntii_latini/ Nuntii Latini], nga YLE Radio 1 finlandeze
+* [https://www.bremenzwei.de/themen/nuntii-latini-100.html Nuntii Latini], përmbledhje mujore nga Radio Bremen gjermane
+* [http://www.alcuinus.net/GLL/ Grex Latine Loquentium] (Tufa e atyre që Flasin Latinisht)
+* [https://www.vatican.va/roman_curia/institutions_connected/latinitas/documents/index_en.htm Fondacioni Latinitas, në Vatikan]
+
+[[Kategoria:Gjuha latine| ]]
+[[Kategoria:Gjuhë fusionale]]
+[[Kategoria:Gjuhët e Vatikanit]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Latin|24 gusht 2026|1371016479}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Latin, versioni i datës 24 gusht 2026 (revizioni 1371016479)
+-->

@@ -1,0 +1,232 @@
+{{Pa referenca|centri abitati della Calabria|marzo 2021}}
+{{Infobox settlement
+| name = Puhëriu
+| image_skyline = Pallagorio.png
+| image_flag = Pallagorio-Gonfalone.png
+| image_shield = Pallagorio-Stemma.png
+| leader_title = Kryetari
+| leader_name = Umberto Lorecchio<ref name="ilcirotano.it">{{Cite web|url=http://www.ilcirotano.it/2016/06/06/amministrative-2016-a-pallagorio-i-voti-dei-candidati-lista-per-lista/|title=Amministrative 2016 a Pallagorio, i voti dei candidati lista per lista|publisher=ilcirotano.it|access-date=2016-06-06|language=it}}</ref>
+| leader_party = listë qytetare "Per Pallagorio"
+| image_map = Map of comune of Pallagorio (province of Crotone, region Calabria, Italy).svg
+| map_caption = Pozita e komunës së Puhëriut në provincën e Krotones
+| subdivision_type = Shteti
+| subdivision_name = [[Italia]]
+| subdivision_type1 = Rajoni
+| subdivision_name1 = [[Kalabria]]
+| subdivision_type2 = Provinca
+| subdivision_name2 = {{ill|Krotone|it|Crotone|lt=Krotone}}
+| population_total = 870
+| blank_name_sec1 = Emri i banorëve
+| blank_info_sec1 = pallagoresi
+| blank1_name_sec1 = Komunat kufitare
+| blank1_info_sec1 = Campana ([[Provinca e Kozencës|CS]]), [[Karfici|Karfici]], Casabona, [[Shën Kolli (Itali)|San Nicola dell'Alto]], Umbriatico, Verzino
+| blank2_name_sec1 = Zona sizmike
+| blank2_info_sec1 = 2
+| blank3_name_sec1 = Mbrojtësi
+| blank3_info_sec1 = Shën Gjon Pagëzori, Madonna del Carmine
+| blank4_name_sec1 = Festa
+| blank4_info_sec1 = 24 qershor
+}}
+'''Puhëriu''' (italisht: ''Pallagorio''; [[Alfabeti Fonetik Ndërkombëtar|IPA]]: {{IPA|[pallaɡoˈrio]}}<ref>{{Cite web|url=http://www.dipionline.it/dizionario/|title=DiPI Online - Dizionario di Pronuncia Italiana|access-date=2014-03-22|archive-date=2018-10-09|archive-url=https://web.archive.org/web/20181009051700/http://www.dipionline.it/dizionario/|url-status=dead|language=it}}</ref>, ''Paragùriu'' në dialekt kalabrez<ref>{{Cite book|last=AA. VV.|title=Dizionario di toponomastica. Storia e significato dei nomi geografici italiani|year=1996|publisher=Garzanti|location=Milano|isbn=88-11-30500-4|page=470|url=https://archive.org/details/dizionarioditopo00unse/page/470|language=it}}</ref>) është një [[Komuna (Itali)|komunë italiane]] me 870 banorë në [[Provinca e Krotones|provincën e Krotones]], në [[Kalabria|Kalabri]].
+
+Shtrihet në brezin kodrinor presilan në veri të Markezatos dhe ka një sipërfaqe prej mbi {{Val|40|u=km²}}, me lartësi mbidetare nga 130 deri në 710 metra. Është një vendbanim [[Arbëreshët në Itali|arbëresh]] i Kalabrisë, që ruan gjuhën, zakonet dhe traditat e veta, por jo më [[Liturgjia bizantine|ritin bizantino-grek]].
+
+== Historia ==
+Historia e Puhëriut dhe e territorit të tij është karakterizuar nga vendosje të shumta popullsish të ndryshme për nga kultura dhe prejardhja, të ndodhura gjatë mijëvjeçarëve dhe që, duke u mbivendosur me kalimin e kohës, kanë krijuar popullsinë e sotme, të pasur në larmi kulturore dhe gjuhësore, e denjë për interes dhe studim.
+Burimet historike dokumentare janë të pasigurta, dhe shpesh autorë të ndryshëm e kanë shkruar historinë e vendit duke e ngatërruar me atë të fshatrave të tjerë, kur banorët e tij, për shkak të sulmeve të {{ill|saraceneve|en|Saracen|lt=saraceneve}} dhe përhapjes së [[Malaria|malaries]], u zhvendosën dhe themeluan qendra të reja banimi duke u dhënë emrin "alias Palagorio".<ref>{{Cite web|url=https://www.comune.borgia.cz.it/index.php?action=index&p=10223|title=Storia del Comune di Borgia|access-date=2021-03-30|language=it}}</ref>
+
+Megjithatë, në dritën e dëshmive arkeologjike dhe të të dhënave dokumentare të mëpasshme, këto janë faktet historike të sigurta:
+
+=== Lashtësia ===
+Fshati dhe territori përreth kanë një histori shumë të lashtë. Zona ka qenë e banuar që nga [[Neoliti]]; dëshmi për këtë janë shpellat e shumta të shpërndara në territor. Ndër më tërheqëset dhe më të dukshmet janë ato në lagjen Conicella, pranë hyrjes historike të qendrës së banuar, si dhe ato në lagjet Cona dhe Suvero. Interes të veçantë arkeologjik dhe historik kanë shpellat e shumta të zbuluara në lagjen «Coracciti-Piperia», të cilat dëshmojnë për vizita në periudhën klasike, të lidhura me kultet mitraike. Në periudhën e hershme mesjetare, murgjit bazilianë i përdorën si vende tërheqjeje asketike.
+
+Në fillim të periudhës historike, në [[Mileniumi II p.e.s.|mijëvjeçarin e dytë p.e.s.]], në këtë zonë u vendos popullsia enotrio-italike e [[Chone (Calabria)|konëve]], të cilët lanë gjurmë të rëndësishme të pranisë së tyre si në toponimi, ashtu edhe në objektet kushtimore të zbuluara në gjithë zonën. Sipas disa autorëve, Pallagorio mund të ketë qenë i banuar pikërisht nga konët.<ref name=":0223">{{Cite journal|last=Anastasio|first=Salvatore|author2=Azienda Promozione Turistica Crotone|author3=Regione Calabria - Assessorato al Turismo|title=Crotone - Una provincia nuova tra miti e realtà|publisher=Grafiche Cusato|location=Crotone|page=24|language=it}}</ref>
+
+Midis [[Shekulli XII p.e.s.|shekullit XII]] dhe [[Shekulli X p.e.s.|shekullit X p.e.s.]], tradita mitike e lashtë (cikli i Filoktetit<ref name=":0422">{{Cite book|author=Mario Candido|author2=Comunità montana "Alto Crotonese"|title=Prime luci sullo Jonio - Guida turistica|year=1988|publisher=Sinefine edizioni|location=Catanzaro|page=27|language=it}}</ref>) dhe burimet historike të lashta (si [[Straboni]],<ref name=":0422"/> {{ill|Antikoku i Sirakuzës|en|Antiochus of Syracuse}}, Likofroni, Apollodori dhe Stefani i Bizantit) dëshmojnë për vendbanime [[Qytetërimi mikenas|mikene]] në kodrat përballë pjesës së sipërme të Jonit të Krotone. Aty u populluan dhe u fortifikuan qendra vendase italike, si {{ill|Petelia|en|Petelia}}, {{ill|Krimisa|en|Krimisa}}, Makalla dhe Chone. Pikërisht në këtë periudhë, sipas disa historianëve vendas (Giovanni Giuranna, Anna Russano Cotrone, Ofelia Giudicissi dhe Carmine Gentile), në territorin e fshatit mund të jetë krijuar, nga ndërthurja e popullsive vendase italike me grupet e para helene, qyteti i lashtë ''Chone'', një qytet italiko-helen. Sipas traditës së lashtë, ai u themelua nga heroi grek {{ill|Filokteti|en|Philoctetes}}<ref name=":0422"/> dhe përshkruhet e përmendet në burimet historike të lashta (Straboni,<ref name=":0422"/> Likofroni, Apollodori, Antikoku i Sirakuzës dhe Stefani i Bizantit) si një qendër e rëndësishme urbane.
+
+Nga gjetjet arkeologjike mund të mendohet se bëhej fjalë për një njësi politiko-territoriale që përfshinte disa qendra të banuara në këtë zonë, me fshatra të shtrira nëpër ferma të shpërndara dhe me përqendrime banimi në zona me shfrytëzim intensiv bujqësor ose me rëndësi strategjike për mbrojtjen. Vendbanime mund të kenë qenë, me gjasë, pranë zonës së sotme «Cona», në «Coni-celle», afër vendit ku ndodhet sot fshati, dhe në lagjen «Gardea». Në dëshmi të qendrave të lashta të banuara kanë mbetur lagjet përreth qendrës së sotme, të cilat ende ruajnë emrin «Cona»: në veriperëndim, «Tre fontane di Cona», «Terra di Cona» dhe «Serre di Cona»; në jug, «Coni-cella» dhe «Coni-selle». Dëshmi të tjera janë gjetjet e rëndësishme arkeologjike të periudhës italiko-helene (varre, statuja kushtimore, mure, amfora dhe monedha), të zbuluara në lagjet e lartpërmendura dhe në zonat menjëherë përreth fshatit të sotëm. Po aty, në lagjen «Tre fontane di Cona», u zbuluan edhe mbetje të nekropolit të lashtë, përfshirë statuja kushtimore dhe diadema metalike që lidhen me kultin orfik, pikërisht në zonën e treguar dhe përshkruar nga historiani Straboni.
+
+Arkeologjia dhe hartat arkeologjike dëshmojnë se, në fillimet e lulëzimit të qytetërimit të [[Magna Graecia|Magna Graecias]], midis [[Shekulli VI p.e.s.|shekullit VI]] dhe [[Shekulli IV p.e.s.|shekullit IV p.e.s.]], kolonë helenë të ardhur përtej detit ose, me gjasë, {{ill|krotoniatët|en|Croton}}, nisën kolonizimin e frytshëm të zonës. Ata krijuan ferma në gjithë territorin përreth dhe populluan dendur tri vendbanime: të parin në lagjen «Gardea», të dytin pranë qendrës së sotme, në lagjen «Conicelle», dhe të tretin në lagjen «Tre Fontane di Cone». Nga ajo periudhë kanë mbetur si kujtesë dhe dëshmi emri i fshatit, me prejardhje të qartë helene (''Palaios - Chorion'': «fshat i vjetër»), toponimia helene e lagjeve përreth («Patamò», «Coracciti», «Coniselle», «Scea», «Gardea», «Coraco», «Cona» etj.) dhe gjetjet e rëndësishme arkeologjike të periudhës klasike. Këto përfshijnë fragmente statujash kushtimore, amfora, orendi, mure dhe monedha të zbuluara në qendrën e sotme, në lagjet Scea dhe Conicella, si dhe në lagjet përreth, veçanërisht në Rosicelle, Coniselle, Spolingari, Coracciti dhe Pastinella. Në zonën midis lagjeve Pietre Bianche, Furci dhe Suvero, deri te mali Tigano pranë qendrës së banuar, është zbuluar një zonë e gjerë nekropoli me shumë varre të [[Età arcaica greca|periudhës arkaike greke]] dhe të Magna Graecias. Ndërsa në zonën e Gardeas janë zbuluar shumë fragmente [[Amfora|amforash]] dhe statujash kushtimore, mbetje të shpërndara muresh të fermave të lashta, si dhe varre të shumta të periudhës klasike. Gjithashtu, në vendin S. Antonio di Gradea janë gjetur objekte të rëndësishme arkeologjike të periudhës klasike, mes tyre disa antefikse mbresëlënëse të tipit «bendis-tarantino», që i përkasin një faltoreje rurale shumë të lashtë të shekujve VI–V p.e.s.
+
+Në hyrjen e qendrës së sotme të banuar, në zonën juglindore, ndodhet ende një lagje që ruan emrin e lashtë «Scea-Purtuni» ose «Porta Scea». Ajo mund të ketë qenë porta hyrëse e fshatit shumë të lashtë. Aty janë zbuluar mbetje muresh dhe gjetje të rëndësishme që dëshmojnë për praninë helene që në kohët më të lashta.
+
+Rreth gjysmës së parë të shekullit IV p.e.s., në territorin e fshatit përmenden vendbanime të popullsive italike, të ngjashme me brutët, të ardhura nga Sila e Sipërme. Pas kësaj, qendrat e banuara ekzistuese u fortifikuan edhe më tej.
+
+Në [[etë romake|epokën romake]], kolonë latinë u vendosën në zonën përballë fshatit, përgjatë luginës së lumit {{ill|Vitravo|en|Vitravo}}, dhe nisën një kolonizim intensiv. Dëshmi të kësaj periudhe janë gjurmët e rëndësishme të mbetjeve të vilave bujqësore latine, të zbuluara përgjatë gjithë rrjedhës së lumit.
+
+=== Mesjeta ===
+Në mesjetën e hershme, për shkak të zisë së shpeshtë të bukës, pandemive, luftërave dhe pasigurisë në territor, qendrat e lashta të banuara në lokalitetet Cona dhe Gradea u braktisën gradualisht. Banorët u përqendruan në vendbanimin, po ashtu shumë të lashtë, në lagjet e sotme Scea-Cucinaro dhe «Conicella-Valle», i cili tashmë kishte vetëm disa qindra banorë. Kështu, vendbanimi mori emrin «Palagorium» dhe u përfshi si «Chorion» në distriktin administrativ të «Thema»-s së Kalabrisë, nën qeverisjen e funksionarëve bizantinë.
+
+Ndërmjet shekujve VIII dhe X u shfaqën gjithashtu vendbanime murgjish bazilianë, me ngritjen e dy qendrave manastirore: e para, me prirje anakoretike, në lagjen Gardea, ku u ndërtua Kisha e Shën Antonit; e dyta, në lokalitetin S. Cristoforo, pranë vendbanimit, ku më vonë do të ndërtohej kisha me të njëjtin emër.
+
+'''Periudha normane-angjevine'''
+
+Ndërmjet viteve 1057 dhe 1060 mbërritën kalorësit normanë, të udhëhequr nga Roberto il Guiscardo. Pasi pushtoi qendrën e fortifikuar të Umbriaticos, duka ia dhuroi, në vitin 1067, kishën e Palagoriumit abacisë së Shën Mërisë së Del Patire në Rossano, e cila ishte në ndërtim e sipër. Dhurimi u konfirmua në vitin 1080. (<small>Burimi: Arkivi Shtetëror i Napolit, manastiret e shpërbëra, dosja 1234, fashikulli 1.</small>)
+
+Normanët e kuptuan rëndësinë logjistike dhe ushtarake të vendbanimit për kontrollin e njëkohshëm të kodrave të Jonit të Sipërm dhe kullotave pyjore të Silës së Epërme. Në vitin 1143 e ngritën në feudalitet autonom dhe ia caktuan familjes De Iudice, ish-guvernatorë perandorakë latinë-bizantinë, të cilët e mbajtën deri në vitin 1445, me fate të ndryshme. (<small>Burimet: Arkivi Shtetëror i Napolit, manastiret e shpërbëra, dosja 1235, fashikulli 2; Regjistrat anzhuinë të rindërtuar, vëll. VIII, f. 89, regj. 1271, f. 45r–45v; Quinternione di Federico IV, vëll. 3, f. 89r, viti 1445; si dhe seksioni bibliografik c–d.</small>)
+
+Pas fitores ndaj Hohenstaufenëve (1266–1268), anzhuinët ripohuan rëndësinë strategjike të qytezës dhe nxitën fortifikimin e saj dhe popullimin e lagjes së vjetër, që vijonte të ishte e vendosur në lartësitë e lagjeve historike «Valle» dhe «Scea». (<small>Burimi: Arkivi Shtetëror i Napolit, regj. 1271, f. 45r–45v.</small>)
+
+Në fund të shekullit XIII, e gjithë qyteza arriti të kishte mbi katërqind banorë. (<small>Burimi: Cedole Angioine del 1275–1277, vëll. XIII–XVII, Registri Angioini Ricostruiti, R. Filangeri.</small>)
+
+Ndërkohë, që në shekullin XIII, qyteza nisi të merrte emrin «S. Giovanni De Palagorio».
+
+Ndërmjet gjysmës së dytë të shekullit XIV dhe gjysmës së parë të shekullit XV, për shkak të epidemive (murtaja e zezë e vitit 1348) dhe shkatërrimeve që lidhen me luftën anzhuino-aragoneze, popullsia e lagjes u pakësua ndjeshëm. Si rrjedhojë, më 1448, qyteza u shfuqizua si feudalitet autonom dhe u përfshi sërish në feudin peshkopal të Umbriaticos.
+
+Pas kësaj, me kërkesë edhe të feudalëve vendorë dhe me synimin për të siguruar ripopullimin dhe shfrytëzimin e territorit, sundimtarët aragonezë nisën, në vitet 1480–1485, të nxisnin vendosjen në lagje të ushtarëve mercenarë greko-shqiptarë, të kthyer nga lufta anzhuino-aragoneze. Më pas, deri pas vitit 1530, ata pranuan shumë familje shqiptare të mërguara nga Epiri, i cili ishte pushtuar nga osmanët. Këto vendosje iu shtuan popullsisë latine që jetonte aty më parë, duke pasuruar dhe më pas ndryshuar përbërjen gjuhësore e kulturore të lagjes.
+
+Qyteza, tashmë pjesë e feudit peshkopal të Umbriaticos, ndoqi që atëherë e deri më 1799 fatet e feudit ku bënte pjesë.
+
+Më 22 prill 1452, Luka Sanseverino (Luca Sanseverino), kont i {{ill|Trikarikos|it|Tricarico}} dhe i {{ill|Kjaromontes|it|Chiaromonte}}, bleu tokat e Umbriaticos nga Marino Marzano Ruffo.<ref>{{cite book|last=López Rodríguez|first=Carlos|last2=Palmieri|first2=Stefano|title=I Registri Privilegiorum di Alfonso il Magnanimo della serie Neapolis dell'Archivio della Corona d'Aragona|page=530|language=it}}</ref> Kjo shitblerje u konfirmua nga mbreti Ferrante më 1459.<ref>{{cite book|last=Brandi Cordasco Salmena|first=Giovanni|title=Fortuna e miserie dei Sanseverino di Bisignano|page=18|language=it}}</ref>
+
+Më 1479, kontëria e {{ill|Kjaratit|it|Cariati}}, ku përfshiheshin tokat e Umbriaticos, u bë feud i Girolamo Riarios. Më 1484, kontëria e Kjaratit i kaloi Francesco Coppolës, i cili, pasi u përfshi në {{ill|Komploti i baronëve#Përplasja e dytë (1485–1486)|it|Congiura dei baroni|lt=Komplotin e dytë të Baronëve}} (1485–1486), më 1487 u zhvesh nga kontëria e Kjaratit, e cila u përfshi në domenin mbretëror.<ref>{{cite book|last=Pellicano Castagna|first=Mario|title=La storia dei feudi nobiliari della Calabria|pages=89–91|language=it}}</ref>
+
+=== Epoka moderne ===
+Më 20 shkurt 1505, gjejmë Giovanni Battista Spinelli, Kontin e parë të Cariatit (që përfshinte edhe tokat e Umbriaticos).<ref>Spinelli, në faqen ''genmarenostrum.it''.</ref> Në vitin 1682, Carlo Filippo I Spinelli Savelli, Princi i 5-të i Cariatit, ia shiti qytetin e Umbriaticos, bashkë me fshatin e tij “Sangiovanni in Pallagorio”, Scipione Rovegnos.<ref>Gaetano Celano, ''Per D. Giuseppe, D. Antonio Giuranna, Per D. Ignazio e D. Niccola Giunti e Per D. Claudio Ranieri contra il Principe di Pallagorio'', f. 3.</ref> Rovegnët e mbajtën feudin deri në fund të shekullit XVIII.<ref>Paolo Staltari, ''Storia di Pallagorio'', f. 2.</ref>
+
+Që nga fillimi i shekullit XVIII, fshati u bë vend i një migrimi të dendur dhe të vazhdueshëm të familjeve nga vendbanimet e rrafshnaltës së Silës, të tërhequra nga pjelloria e territorit dhe butësia e klimës.
+
+[[File:Pallagorio (circa anni '30).JPG|thumb|Puhëriu rreth viteve 1930]]
+
+Në vitin [[1799]], u njoh si fshat autonom me emrin “S. Giovanni in Pallagorio” dhe u përfshi në rrethin e Coriglianos. Francezët, me ligjin e 19 janarit 1807, e kthyen San Giovanni in Pallagorio në një “Luogo”, domethënë në një {{ill|Universitas|it|Universitas|lt=universitas}}, në të ashtuquajturën Qeveri të Ciros, në provincën e Cosenza-s. Riorganizimi i mëvonshëm, i urdhëruar me dekretin e 4 majit 1811, e njohu Puhëriun si njësi administrative të Umbriaticos. Në vitin 1816, Burbonët e vendosën Puhëriun nën provincën e Catanzaros, ndërsa në vitin 1818, pas mbylljes së dioqezës së Umbriaticos dhe një periudhe të shkurtër nën varësinë e dioqezës së Cariatit, Puhëriu kaloi nën kujdesin e kryedioqezës së Krotone-Santa Severinës. Në këtë periudhë, vendbanimi kishte rreth {{formatnum:1000}} banorë. Pas periudhës napoleonike dhe reformës muratiane, në vitin 1834 Puhëriu u ngrit në statusin e një komune autonome.<ref>{{Cite web|url=https://siusa.archivi.beniculturali.it/cgi-bin/siusa/pagina.pl?TipoPag=prodente&Chiave=32792|title=Comune di Pallagorio|access-date=2021-03-30|language=it}}</ref>
+
+{{Panorama
+|immagine = File:Pallagorio_Retro_Chiesa_Madre.jpg
+|altezza = 250
+|alt = Peizazhi në hyrje të Puhëriut
+|didascalia = [[Peizazhi|Peizazhi]] në hyrje të Puhëriut.
+}}
+
+==== Ardhja e greko-shqiptarëve ====
+[[File:Pallagorio Willkommensschild.jpg|thumb|vertikale=0.7|Tabela [[Gjuha italiane|italisht]]-[[Gjuha arbëreshe (Itali)|arbëreshe]] në hyrje të Puhëriut.]]
+
+Nuk dihet saktësisht se kur greko-shqiptarët mbërritën në fshatin San Giovanni de Palagorio; dihet me siguri se fshati nuk përfshihej në regjistrat e shtëpive shqiptare të viteve 1503, 1508, 1543, 1548, 1566 dhe 1567.<ref>Italo Sarro, ''Albanesi in Italia, percorsi migratori (secc. XV-XVIII)'', f. 44.</ref>
+
+Shumica e historianëve mendojnë se ata nisën të vendoseshin aty në gjysmën e dytë të shekullit XV dhe se migrimi vazhdoi deri në gjysmën e parë të shekullit XVI. Sipas traditës gojore, pas tërmeteve dhe pandemive që pasuan, të cilat shkretuan ato troje, dhe në përputhje me mënyrën e vendosjes së arbëreshëve,<ref>{{Cite web|url=http://www.scescipasionatith.it/wp-login.php?redirect_to=http://www.scescipasionatith.it/wp-admin/&reauth=1|title=Scesci Pasionatith › Accedi|website=www.scescipasionatith.it|access-date=2024-08-04|language=it}}</ref> pas një kampimi të parë në lokalitetin Sant'Anna, që në atë kohë konsiderohej zonë malarike, ata u zhvendosën më pas në vendndodhjen e sotme, ku iu bashkuan popullsisë latine që jetonte aty më parë. Në atë kohë, territori i Umbriaticos ishte feud i Spinellëve dhe vendosja e greko-shqiptarëve në fshatin San Giovanni de Palagorio thuhet se u lejua me vendim të Princit Spinelli.<ref>Spinelli Savelli, në faqen ''genmarenostrum.it''.</ref>
+
+=== Simbolet ===
+Stema dhe flamuri ceremonial u miratuan me dekret të Presidentit të Republikës më 20 nëntor 2000.<ref>{{Cite web|url=http://dati.acs.beniculturali.it/comuni/comuni.printDetail.html?13926|title=Pallagorio|access-date=2023-03-24|website=Archivio Centrale dello Stato|language=it}}</ref>
+
+{{Blockquote|Në fushë të kaltër, një kullë dykatëshe prej ari, me muraturë të zezë dhe bedena të stilit guelf, kati i sipërm me dritare të vogël të rrumbullakët të zezë dhe me tri bedena, kati i poshtëm i mbyllur me të zezë dhe me katër bedena; kulla shoqërohet në krye nga tri yje të arta me pesë rreze, të vendosura në mënyrë të çrregullt, dhe ngrihet mbi një kodër të gjelbër, e cila zë fundin e fushës dhe del nga anët; mbi kodër është vendosur shqiponja dykrenare e zezë. Stoli të jashtme të komunës.}}
+
+Flamuri ceremonial është një pëlhurë e verdhë me bordurë të kaltër.
+
+== Monumentet dhe vendet me interes ==
+=== Arkitektura fetare ===
+* '''Kisha Nëna e Shën Gjon Pagëzorit''': u ndërtua në shek. VIII–IX e.s. nga murgjit bazilianë, si vend kulti me një nefë dhe absidë bizantine; më vonë, në shek. XII, nga normanët, u shndërrua dhe u zgjerua në një ndërtesë të shenjtë me altarin qendror në formë katrore dhe harqe gjysmërrethore, si dhe me tri nefe të gjata në stil romanik; së fundi, në shek. XVI, me ndryshime të mëtejshme, arriti përmasat dhe stilin e sotëm të shekullit XVI. Kisha ruan, përgjatë themeleve të nefeve anësore, kripta funerare me vlerë, të periudhës mesjetare, për fat të keq ende të paaksesueshme, të cilat dëshmojnë kujtime të vjetra dhe të shquara vendore.
+* '''Kisha e Zonjës së Karminit''': e ndërtuar në fillim të shekullit XVII, si zgjerim i një kishëze paraekzistuese me gjasë me origjinë mesjetare, nga e cila është ende e dukshme fasada anësore perëndimore; ndërtesa e sotme është në stil neogotik me një nefë, me një kambanore në stil toskan, shtuar në fund të shekullit XIX; e gjithë struktura e shenjtë është restauruar dhe zgjeruar disa herë gjatë shekujve, ndërsa brenda ruan një statujë druri të Zonjës.<ref name=":0422" />
+* '''Kisha e Shën Filomenës''', e [[Shekulli XIX|shekullit XIX]], në stil neoklasik me kupolë neobizantine.
+* '''Kisha e Shën Antonit''', disa kilometra larg qendrës së banuar, me struktura murature origjinale të periudhës bizantine: ishte një manastir i vogël i banuar nga murgjit bazilianë.
+* '''Kishëza e Shën Kristoforit''', e ndërtuar në periudhën moderne mbi një vendstrehim të vjetër bazilian, që daton në Mesjetën e hershme, dhe më pas e restauruar disa herë.
+
+=== Zona arkeologjike ===
+E gjithë territori përreth fshatit ka interes të madh arkeologjik; të rëndësishme janë gjetjet arkeologjike në lagjen «Tre fontane di Cona», me mbetje të një nekropoli të lashtë dhe objekte (diadema dhe simulakra) që lidhen me kultin orfik, përveç mbetjeve të shpërndara e të konsiderueshme muresh banesash, fragmenteve statuetash, amforash dhe monedhash, të periudhës klasike. Në lagjen «Gradea» kanë dalë në dritë fragmente muresh, amfora, statuetë votive, varre «a cappuccina» të periudhës klasike, ndërsa në vendin e quajtur S. Antonio janë gjetur antefiksa të tipit «bendis» që lidhen me një shenjtërore shumë të lashtë të shek. VI–V p.e.s.; në lagjet «Scea», «Conicelle», «Rosicelle», «Spolingari», që ndodhen pranë fshatit, kanë dalë në dritë mbetje muresh me tulla të pjekura dhe fragmente amforash për përdorim shtëpiak të periudhës greke të Italisë së Jugut (Magna Graecia).
+
+Të hijshme dhe me interes të madh historik janë Shpellat, të periudhës neolitike, të gjetura në lagjen «Coracciti-Piperia», që dëshmojnë frekuentime të lidhura me kultet mitraike në periudhën klasike dhe të përdorura më pas, në Mesjetën e hershme, si strehë asketike nga murgjit bazilianë.
+
+=== Të tjera ===
+Duke hyrë në fshat nga ana e Zingës gjendet një statujë bronzi në nder të Gjergj Kastriotit Skënderbeut.<ref name=":02232">{{Cite journal|author=Salvatore Anastasio|author2=Azienda Promozione Turistica Crotone|author3=Regione Calabria - Assessorato al Turismo|title=Crotone - Una provincia nuova tra miti e realtà|publisher=Grafiche Cusato|location=Krotone|page=22|language=it}}</ref>
+
+== Shoqëria ==
+=== Evolucioni demografik ===
+{| class="wikitable"
+! Viti !! Banorë
+|-
+| 1861 || 956
+|-
+| 1871 || 1.064
+|-
+| 1881 || 1.093
+|-
+| 1901 || 1.412
+|-
+| 1911 || 1.678
+|-
+| 1921 || 1.690
+|-
+| 1931 || 1.842
+|-
+| 1936 || 1.841
+|-
+| 1951 || 2.272
+|-
+| 1961 || 2.193
+|-
+| 1971 || 2.177
+|-
+| 1981 || 1.859
+|-
+| 1991 || 1.859
+|-
+| 2001 || 1.627
+|-
+| 2011 || 1.337
+|-
+| 2021 || 1.019
+|}
+<ref>Të dhënat nga: {{Cite web|url=https://ebiblio.istat.it/digibib/Censimenti%20popolazione/Censimentipopolazioneresidentedal1861/RML0050288Pop_res_cens_1861_1991.pdf|title=Popolazione residente dei comuni. Censimenti dal 1861 al 1991|publisher=ISTAT|language=it}}; {{Cite web|url=https://esploradati.istat.it/databrowser/#/it/censpop/categories/IT1,Z1200CPA,1.0/CPA_POP/IT1,DF_DCSS_POPRES_SERIES_TV_1,1.0|title=Popolazione residente - Serie storica|publisher=ISTAT|language=it}}</ref>
+
+== Kultura ==
+Festa e shenjtorit mbrojtës është në nder të Shën Gjon Pagëzorit dhe mbahet më 24 qershor. Në këtë fshat është shumë i përhapur zanati i endjes së pëlhurave, të punuara imët me dorë.
+
+Fshati e ka ruajtur deri në mesin e shekullit XVII, përveç ritit katolik-latin, [[Liturgjia bizantine|ritin greko-bizantin]] të ushtarëve dhe të familjeve greko-shqiptare; më pas, mbizotërimi i popullsisë latine dhe vullneti i autoriteteve kishtare katolike bënë që, gradualisht, të imponohej riti latin. Ruan edhe sot [[Gjuha arbëreshe (Itali)|gjuhën arbëreshe]], një idiomë që mbi bazën gjuhësore shqipe shton një leksik të pasur [[Gjuha greke|grek]], me përzierje të ndjeshme, gjatë pesë shekujve të fundit, të dialektit kalabrez.
+
+== Infrastruktura dhe transporti ==
+Pallagorio përshkohet nga ish-{{ill|Rruga shtetërore 492 e Savellit|it|Strada statale 492 di Savelli}}.<ref name=":0422"/>
+
+== Administrimi ==
+=== Kryetarët e Bashkisë së Pallagorios që nga viti 1946 ===
+{| class="wikitable"
+! Nga !! Deri !! Kryetari !! Partia ose lista !! Funksioni
+|-
+| [[1948]] || [[1952]] || Antonio Berardi || || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| [[1952]] || [[1978]] || Mario Tassone || {{ill|Partia Komuniste Italiane|it|Partito Comunista Italiano|lt=PCI}} || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| [[1978]] || [[1983]] || Antonio Pontieri || || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| [[1983]] || [[1993]] || Rosario Ceraudo || || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| 6 qershor [[1993]] || 27 prill [[1997]] || Basilio Iocca || {{ill|Partia Demokratike e së Majtës|it|Partito Democratico della Sinistra}} || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| 27 prill [[1997]] || 13 maj [[2001]] || Antonio Blandino || {{ill|Ulliri|it|L'Ulivo}} || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| 13 maj [[2001]] || 29 maj [[2006]] || Antonio Blandino || {{ill|Ulliri|it|L'Ulivo}} || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| 29 maj [[2006]] || 16 maj [[2011]] || Francesco Rizzuti || {{ill|Bashkimi|it|L'Unione}} || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| 16 maj [[2011]] || 5 qershor [[2016]] || Umberto Lorecchio || listë qytetare Për Pallagorio || [[Kryetari i Bashkisë|Kryetar bashkie]]<ref name="ilcirotano.it"/>
+|-
+| 5 qershor [[2016]] || në detyrë || Umberto Lorecchio || listë qytetare Për Pallagorio || [[Kryetari i Bashkisë|Kryetar bashkie]]<ref name="ilcirotano.it"/>
+|}
+
+=== Binjakëzimet ===
+* Campi Bisenzio, [[Italia]]
+
+== Shënime ==
+<references/>
+
+== Bibliografia ==
+* {{Cite book |author=Gaetano Celano |url=https://books.google.it/books?id=atw9aorOGiwC |title=Per d. Giuseppe, e d. Antonio Giuranna, per d. Ignazio, r d. Niccola Giunti, e per d. Claudio Ranieri contra il principe di Pallagorio nel S.R.C. |language=it}}
+* {{Cite book |author=Enrico Ferraro |title=Fialla e Puheriut - La parlata di Pallagorio |publisher=Associazione Culturale Arbitalia |location=San Demetrio Corone |year=2015 |language=it}}
+* {{Cite book |author=Mario Pellicano Castagna |title=La storia dei feudi nobiliari della Calabria |publisher=Frama Sud |location=Chiaravalle centrale |year=1984 |language=it}}
+* {{Cite book |author=Carlos Rodríguez López, Stefano Palmieri (a cura di) |title=I Registri Privilegiorum di Alfonso il Magnanimo della serie Neapolis dell'Archivio della Corona d'Aragona |publisher=Sede dell'Accademia Pontaniana |location=Napoli |year=2018 |isbn=978-88-943432-0-5 |language=it}}
+* {{Cite book |author=Giovanni Brandi Cordasco Salmena |title=Fortuna e miserie dei Sanseverino di Bisignano, Accademia della Motta, Atti del IV° convegno Francavilla-Cerchiara di Calabria 2-3 maggio 2002 |publisher=Edizioni Magnoli |location=Firenze |year=2005 |language=it}}
+* {{Cite book |author=Italo Sarro |title=Albanesi in Italia, percorsi migratori (secc. XV-XVIII) |publisher=Besa Editrice |location=Nardò |year=2019 |isbn=884971002X |language=it}}
+* Sulla elevazione a Feudo autonomo di Palagorium, avvenuto nell'anno 1143: ''b) Archivio di Stato Napoli - Busta 1235 - Fasc. 2; c) Catalogus Baronum - 1168 - da Ed. E. Jamison 1972 - par. 847; d) Registri Angioini Ricostruiti - R. Filangeri - Vol. V - Doc. 67)''
+
+== Shih edhe ==
+* [[Arbëreshët në Itali]]
+
+== Projekte të tjera ==
+{{Sisterlinks}}
+
+== Lidhje të jashtme ==
+* {{Cite web |url=https://www.comune.pallagorio.kr.it/ |title=Comune di Pallagorio/Bashkia i Puheriut |language=it}}
+* {{Cite web |author=Andrea Pesavento |url=https://www.archiviostoricocrotone.it/urbanistica-e-societa/la-chiesa-parrocchiale-di-s-giovanni-di-pallagorio/ |title=La chiesa parrocchiale di S. Giovanni di Pallagorio |access-date=2021-03-30 |language=it}}
+
+{{Authority control}}
+
+[[Kategoria:Puhëriu| ]]
+[[Kategoria:Komuna shqipfolëse në Itali]]
+[[Kategoria:Vendbanime arbëreshe në Itali]]

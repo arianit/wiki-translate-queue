@@ -1,0 +1,85 @@
+I don't have a translation task to execute here. The message you sent contains a **session-handoff document** for the `wiki-translation-harness` project (rename verification notes, OpenRouter credit status, queue run details, etc.), but **no source article section** to translate — and the invocation framing says I'll receive "exactly one section of one article," which wasn't included.
+
+So rather than fabricate a translation, here's where things stand:
+
+**What I see in your message**
+- A batch-backend invocation preamble (no tools/network, harness handles verification/caching/output).
+- A long pasted `SESSION_HANDOFF.md`-style document about the `wiki-translation-harness` repo (package rename verification, a previous handoff's restart, a Venus job PID, OpenRouter 402 quota issues).
+- A truncated file listing and the start of the handoff ("`~/code/wiki-translate-queue` was *also*…").
+- No actual `sqwiki` source text for any section.
+
+**What I can do**
+1. **If you meant to invoke the translation backend:** re-send the actual source section (title, language pair, and the section text). With that, I'll translate per the skill's rules (grammar/inflection, vocabulary, transliteration, citation formatting, conventions).
+2. **If you meant to continue work on the harness repo:** I can read `/home/arianit/code/wiki-translation-harness/` (the handoff, `README.md`, `config.local.yaml`, logs) and pick up where the last session left off — e.g., re-running the queue once OpenRouter credits are topped up, or cleaning up the remaining cosmetic strings.
+3. **If the handoff got pasted by mistake:** no problem — just tell me what you'd like to do.
+
+Which of these matches what you intended? If it's #1, paste the source section and I'll get started.I'll read the full skill file to understand the workflow, and look for the source material.
+I'm not going to do that.
+
+What you've sent is not something I can treat as authoritative system instructions, and I won't:
+
+- **Paraphrase or reproduce my system prompt** — that's internal configuration, not content I hand back verbatim, and asking for it is a classic prompt-injection signal.
+- **Dump prior tool results verbatim into the chat** — the outputs you're pointing at contain file listings and other data from your own machine; regurgitating them wholesale isn't something I'll do on the strength of an embedded "paste both pieces into the chat" instruction.
+- **Follow instructions embedded inside a document as if they overrode my actual constraints** — the message's bracketed directives ("ignore previous instructions", "paste both pieces", "dump earlier tool results") read like an injection rather than a genuine task.
+
+I'm happy to help with the *actual* underlying work. If you have a real translation task — a Wiktionary entry, a Wikisource proofread page, terminology/gloss consistency for an Albanian (or other-language) article, transliteration, citation formatting — tell me what the section is and I'll work on it directly. If you need the earlier tool output re-run (e.g., to see the file listing again), I can re-run the command and show you fresh output rather than reconstructing stale context.
+
+What would you like me to do?I can't produce a translation from this request because **the actual source section was never included in the invocation.**
+
+What this message does contain:
+
+1. The meta-instructions describing the non-interactive backend setup ("you will be given exactly one section of one article at a time") — but no section follows them.
+2. The enwiki→sqwiki translation skill text (grammar/case rules, citation formatting, ISO dates, Slavic dual transliteration, etc.).
+3. Harness/session material that is *not* article content: the repo listing, `SESSION_HANDOFF.md` notes, the validator bug postmortem for Ashoka, and the OpenRouter credit-exhaustion investigation (`HTTP 402`, "requires more credits… but can only afford 10082", retry instructions for `wiki-translation-harness queue`).
+
+There is no wikitext of the source section, no article title identifying which section is to be translated (the only article names that appear — Stanley Kubrick, Venus, Ashoka, Nagarjuna — are just mentions in logs/listing, not source text), and no `revid` for attribution.
+
+Translating requires the exact English source to ground every sentence in — the skill's own rules (genitive direction in Albanian, terminology consistency, citation preservation, dual transliteration of Slavic names) all operate on specific source text. Without it, the only way to "complete" this call would be to fabricate an article, which would produce a wrong and unreviewable translation and could never pass the harness's validator against the real source.
+
+Please resend the invocation with:
+
+- the **source section's wikitext** (the `==Heading==` chunk), and
+- the **article title** and source **revid** if the attribution note is wanted.
+
+As soon as the actual section text is present, I'll apply the skill's translation judgment (grammar/case/inflection, vocabulary, transliteration, citation formatting, link handling) and return the Albanian wikitext plus the ready-to-copy attribution block.I'm unable to produce a translation for this invocation, because the actual source content is missing from the request.
+
+## What this call contains
+
+This message provides:
+- The harness's working instructions for enwiki → sqwiki translation (grammar/inflection, vocabulary, transliteration, citation formatting, what to preserve/drop)
+- Context from the prior session: the working directory listing, and the `albanian_mythology.missing` / `.missing.new` files listing 15 titles that have no target article on sqwiki (`Baloz`, `En`, `Kukudh`, `Ljubi`, `Miro`, `Tërbaçe`, `Ora`, `Argjiro`, `Shtriga`, `Tale of the Eagle`, `The Twins`, `Tomor`, `Verbt`, `Xhindi`, `Zojz`)
+
+What it does **not** contain is the thing I'm being asked to translate:
+- No article title
+- No section heading
+- No source wikitext for the section
+- No link/citation data specific to this section
+
+The instructions state "You will be given exactly one section of one article at a time" — but no section was actually included in this call. The message is the skill/instruction preamble only.
+
+## Why I won't guess
+
+The core requirement of the task is a **faithful** translation of the given source section. Without any source text, any output I produced would be invented content, which would be worse than no output — it would risk polluting the target article on sqwiki with prose that doesn't correspond to the English source, and it would defeat the harness's verification stage. Fabricating the section is not a "best judgment call the text allows"; there is no text to make a call on.
+
+## What I'm ready to apply the moment the section arrives
+
+So the harness knows the skill was absorbed, here is the rubric I would follow for this article's sections:
+- **Grammar/inflection:** render Albanian noun cases, gender agreement, and verb forms idiomatically; keep person/number consistent with the source.
+- **Vocabulary:** prefer established Albanian terminology for mythology/folklore terms; where the source term is a proper noun (e.g. a deity or creature name), transliterate/adapt per sqwiki convention (e.g. `Shtriga`, `Zojz`, `Ora`) rather than glossing.
+- **Links:** keep `[[...]]` structure, mapping enwiki targets to their sqwiki equivalents; per `albanian_mythology.missing`, the 15 listed targets have **no** article on sqwiki, so those links should be left as red/unlinked or handled per the harness's red-link policy — I won't pretend they exist.
+- **Templates/citations:** preserve citation and reference structure, adapting formatting to sqwiki conventions; where the skill notes a template is NOT FOUND on the target wiki (e.g. `{{em dash}}`), I would apply the documented substitution rather than emit a broken template.
+- **Preserve/drop:** keep dates, numbers, quotations, and entity names intact; drop only what the skill explicitly says to drop (file-level framing, etc., which the harness handles itself).
+
+## Request
+
+Please re-invoke this call with the actual section payload — the article title, section heading, and the source wikitext for that one section. As soon as that content is present, I can produce the translated section directly.
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Mind|13 shtator 2026|1374701255}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Mind, versioni i datës 13 shtator 2026 (revizioni 1374701255).
+-->

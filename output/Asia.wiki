@@ -1,0 +1,820 @@
+{{Short description|Kontinent}}
+{{About|kontinentin}}
+{{Use dmy dates|date=August 2025}}
+{{Infobox continent
+|titulli             = Azia
+|image               = File:Asia (orthographic projection) without New Guinea.svg
+|image_size          = 220px
+|area                = 44.579.000 km² (17.212.000 milje katrorë) (e para)<ref>{{Cite book |publisher=National Geographic Society (U.S.) |title=National Geographic Family Reference Atlas of the World |location=Washington, D.C. |year=2006 |page=264 |language=en}}</ref>
+|population          = {{IncreaseNeutral}} 4.835.000.000 (2025; e para)<ref name="WPP2024_Asia">{{Cite web |url=https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/EXCEL_FILES/1_General/WPP2024_GEN_F01_DEMOGRAPHIC_INDICATORS_COMPACT.xlsx |title=World Population Prospects 2024: Demographic indicators by region, subregion and country |publisher=Departamenti i Çështjeve Ekonomike dhe Sociale i Kombeve të Bashkuara, Divizioni i Popullsisë |year=2024 |access-date=2026-10-09 |at=Azia, popullsia totale më 1 korrik 2025 |language=en}}</ref>
+|density             = afërsisht 110/km² (280/milje katrorë)
+|GDP_PPP             = 110,23 trilionë dollarë ndërkombëtarë (vlerësim 2026; e para)<ref name="IMF_WEO_2026">{{Cite web |title=World Economic Outlook Database, April 2026 |url=https://data.imf.org/en/datasets/IMF.RES:WEO |publisher=Fondi Monetar Ndërkombëtar |date=April 2026 |access-date=2026-10-09 |language=en}}</ref>
+|GDP_nominal         = {{Nowrap|44,85 trilionë dollarë amerikanë (vlerësim 2026; e para)<ref name="IMF_WEO_2026" />}}
+|GDP_per_capita      = 9.544 dollarë amerikanë (vlerësim 2026; e pestë)<ref name="IMF_WEO_2026" />
+|religions           = {{Small|vlerësime 2022}}<br />{{Unbulleted list
+ | [[Islami]] (28,0%)
+ | [[Hinduizmi]] (22,8%)
+ | Pa fe (13,9%)
+ | [[Budizmi]] (11,1%)
+ | Feja popullore kineze (9,7%)
+ | [[Krishtërimi]] (8,4%)
+ | [[Fetë etnike]] (3,5%)
+ | Fe të reja (1,3%)
+ | Të tjera (1,3%)<ref>{{Cite journal |last1=Johnson |first1=Todd M. |last2=Crossing |first2=Peter F. |date=2022-10-14 |title=Religions by Continent |journal=Journal of Religion and Demography |volume=9 |issue=1–2 |pages=91–110 |doi=10.1163/2589742x-bja10013 |issn=2589-7411 |language=en}}</ref>}}
+|demonym             = Aziatik
+|countries           = {{Unbulleted list
+ | 49 shtete anëtare të OKB-së
+ | 1 shtet vëzhgues i OKB-së
+ | 4 shtete të tjera
+}}
+|list_countries      = Lista e shteteve sovrane dhe territoreve të varura në Azi
+|dependencies        = {{Collapsible list
+| titlestyle = background:transparent;text-align:left;font-weight:normal;
+| list_style = text-align:left;
+| 1 = [[Akrotiri dhe Dhekelia]] | 2 = Territori Britanik i Oqeanit Indian | 3 = [[Ishulli i Krishtlindjeve]] | 4 = Ishujt Kokos (Keeling) | 5 = [[Hong Kong]] | 6 = [[Makao]]
+}}
+|unrecognized        = {{Collapsible list
+| titlestyle = background:transparent;text-align:left;font-weight:normal;
+| list_style = text-align:left;
+| 1 = [[Abkazia|Abhazia]]
+| 2 = [[Qiproja Veriore]]
+| 3 = [[Shteti i Palestinës|Palestina]]
+| 4 = [[Osetia e Jugut]]
+| 5 = [[Tajvani]]}}
+|languages           = Gjuhët e Azisë
+|zonat_kohore        = UTC+2 deri UTC+12
+|interneti           = .asia
+|cities              = {{Plainlist|
+* Lista e zonave metropolitane
+* Listat e qyteteve
+}}
+}}
+
+'''Azia''' (në anglisht shqiptohet /ˈeɪʒə/ ose /ˈeɪʃə/) është [[Kontinentet|kontinenti]] më i madh në botë si për sipërfaqen tokësore ashtu edhe për popullsinë.<ref>{{Cite web |title=Asia: The largest continent on Earth |url=https://www.bbc.co.uk/bitesize/articles/zmh4bdm |publisher=BBC Bitesize |url-status=live |archive-url=https://web.archive.org/web/20221007001521/https://www.bbc.co.uk/bitesize/articles/zmh4bdm |archive-date=2022-10-07 |language=en}}</ref><ref name=Boudreau>{{Cite web |title=Asia: Physical Geography |url=https://education.nationalgeographic.org/resource/asia/ |access-date=2023-02-04 |website=National Geographic Society |first1=Diane |last1=Boudreau |first2=Melissa |last2=McDaniel |first3=Erin |last3=Sprout |first4=Andrew |last4=Turgeon |others=Crooks, Mary; Gunther, Tim; Wynne, Nancy |editor-first1=Jeannie |editor-last1=Evers |editor-first2=Kara |editor-last2=West |archive-date=2022-06-30 |archive-url=https://web.archive.org/web/20220630200953/https://education.nationalgeographic.org/resource/asia |url-status=live |language=en}}</ref> Në botën anglishtfolëse, e cila përdor modelin me shtatë kontinente, Azia zakonisht konsiderohet kontinent më vete;<ref>{{Cite web |url=https://www.oxfordlearnersdictionaries.com/definition/english/asia?q=Asia |title=Asia |website=Oxford Learner's Dictionaries |publisher=Oxford University Press |language=en}}</ref><ref>{{Cite web |url=https://www.merriam-webster.com/dictionary/Asia |title=Asia |website=Merriam-Webster |publisher=Merriam-Webster |language=en}}</ref> modele të tjera e konsiderojnë Azinë pjesë të një kontinenti euroaziatik ose afro-euroaziatik. Ajo mbulon një sipërfaqe prej më shumë se 44 milionë kilometrash katrorë (44.579.000 km²; 17.212.000 milje katrorë), rreth 30% të sipërfaqes tokësore të planetit dhe 8% të sipërfaqes së tij totale. Ky kontinent, i cili prej kohësh ka qenë shtëpia e shumicës së [[Popullsia|popullsisë njerëzore]], ishte vendi i shumë prej qytetërimeve të para.<ref>{{Cite web |title=The World at Six Billion |url=https://www.un.org/esa/population/publications/sixbillion/sixbillion.htm |publisher=Divizioni i Popullsisë i OKB-së |archive-url=https://web.archive.org/web/20160305042434/http://www.un.org/esa/population/publications/sixbillion/sixbillion.htm |archive-date=2016-03-05 |url-status=dead |language=en}} {{Cite web |url=http://www.un.org/esa/population/publications/sixbillion/sixbilpart1.pdf |title=Table 2 |archive-url=https://web.archive.org/web/20160101220025/http://www.un.org/esa/population/publications/sixbillion/sixbilpart1.pdf |archive-date=2016-01-01 |url-status=dead |language=en}}</ref> Popullsia e tij, e vlerësuar në 4,8 miliardë banorë në vitin 2025, përbënte afërsisht 59% të popullsisë së botës.<ref name="WPP2024_Asia" />
+
+Azia ndan masën tokësore të [[Euroazia|Euroazisë]] me [[Evropa|Evropën]], dhe atë të Afro-Euroazisë me Evropën dhe [[Afrika|Afrikën]]. Në terma të përgjithshëm, kufizohet në lindje nga [[Oqeani Paqësor]], në jug nga [[Oqeani Indian]] dhe në veri nga [[Oqeani Arktik]]. Kufiri i Azisë me Evropën është një konstruksion historik dhe kulturor, pasi nuk ka ndarje të qartë fizike ose gjeografike mes tyre. Një ndarje e pranuar gjerësisht e vendos Azinë në lindje të [[Kanali i Suezit|Kanalit të Suezit]], i cili e ndan atë nga Afrika; dhe në lindje të Ngushticave turke, [[Malet Urale|Maleve Urale]] dhe Lumit të Uralit, si dhe në jug të [[Kaukazi|Maleve të Kaukazit]] dhe të [[Liqeni Kaspik|Detit Kaspik]] e të [[Deti i Zi|Detit të Zi]], të cilët e ndajnë atë nga Evropa.<ref name="National Geographic-1999">{{Cite book |title=National Geographic Atlas of the World |edition=botimi i 7-të |year=1999 |location=Washington, D.C. |publisher=[[National Geographic Society|National Geographic]] |isbn=978-0-7922-7528-2 |language=en}} "Europe" (pp. 68–69); "Asia" (pp. 90–91): "A commonly accepted division between Asia and Europe is formed by the Ural Mountains, Ural River, Caspian Sea, Caucasus Mountains, and the Black Sea with its outlets, the Bosporus and Dardanelles."</ref>
+
+Meqenëse koncepti i Azisë rrjedh nga termi për rajonin lindor nga këndvështrimi evropian, Azia është pjesa e mbetur e gjerë e Euroazisë, pa Evropën. Prandaj, Azia është një rajon ku bashkëjetojnë kultura të ndryshme të pavarura, në vend që të ndajnë një kulturë të vetme, dhe kufiri i saj me Evropën është deri diku arbitrar dhe ka lëvizur që nga konceptimi i saj i parë në [[Lashtësia klasike|lashtësinë klasike]]. Ndarja e Euroazisë në dy kontinente pasqyron dallimet kulturore Lindje–Perëndim, disa prej të cilave variojnë në një spektër.
+
+[[Kina]] dhe [[India]] u alternuan si ekonomitë më të mëdha në botë nga viti 1 deri në vitin 1800 e.s. [[Rruga e Mëndafshit]] u bë rruga kryesore tregtare lindje–perëndim në brendësitë e Azisë, ndërsa Ngushticat e Malakës përbënin një rrugë kryesore detare. Azia ka shfaqur dinamizëm ekonomik si dhe rritje të fortë të popullsisë gjatë shekullit të 20-të, por rritja e përgjithshme e popullsisë ka rënë që atëherë.<ref>{{Cite magazine |url=http://www.economist.com/diversions/millennium/displayStory.cfm?Story_ID=346605 |title=Like herrings in a barrel |magazine=The Economist |date=1999-12-23 |issue=Millennium issue: Population |url-status=live |archive-url=https://web.archive.org/web/20100104100155/http://www.economist.com/diversions/millennium/displayStory.cfm?Story_ID=346605 |archive-date=2010-01-04 |language=en}}</ref> Azia ishte vendlindja e shumicës së feve kryesore të botës, duke përfshirë [[Islami|Islamin]], [[Judaizmi|Judaizmin]], [[Krishtërimi|Krishtërimin]], [[Hinduizmi|Hinduizmin]], [[Budizmi|Budizmin]] dhe shumë fe të tjera.
+
+Azia ndryshon shumë midis rajoneve të saj dhe brenda tyre për sa i përket grupeve etnike, kulturave, mjedisit, ekonomisë, lidhjeve historike dhe sistemeve qeverisëse. Ajo gjithashtu ka një përzierje të shumë klimave të ndryshme, duke filluar nga jugu ekuatorial dhe duke kaluar përmes shkretëtirave të nxehta në pjesë të [[Azia Jugperëndimore|Azisë Jugperëndimore]], [[Azia Qendrore|Azisë Qendrore]], [[Azia Jugore|Azisë Jugore]] dhe [[Azia Lindore|Azisë Lindore]], te xhunglat tropikale në [[Azia Juglindore|Azinë Juglindore]], zonat me klimë të butë në lindje dhe në qendrën kontinentale, deri te zonat e gjera subarktike dhe polare në [[Azia Veriore|Azinë Veriore]].
+
+== Etimologjia ==
+
+[[File:Gulf5..JPG|thumb|left|Azia sipas [[Ptolemeu|Ptolemeut]]]]
+
+Besojmë se termi «Azi» e ka origjinën nga toponimi i [[Koha e Bronzit|Kohës së Bronzit]] {{ill|Asuva|en|Assuwa}} (hititisht: {{lang|hit|𒀸𒋗𒉿}}, romanizuar: ''aš-šu-wa''), i cili fillimisht tregonte vetëm një pjesë të [[Anadolli|Anadollit]] veriperëndimor. Termi shfaqet në dokumentet hitite, të cilat rrëfejnë sesi një konfederatë shtetesh asuviane, përfshirë [[Troja|Trojën]], u ngrit pa sukses kundër mbretit hitit Tudhaliya I rreth vitit 1400 p.e.s.<ref>{{cite encyclopedia |last=McMahon |first=Gregory |year=2011 |editor-last1=Steadman |editor-first1=Sharon |editor-last2=McMahon |editor-first2=Gregory |encyclopedia=The Oxford Handbook of Ancient Anatolia |title=The Land and Peoples of Anatolia through Ancient Eyes |publisher=Oxford University Press |doi=10.1093/oxfordhb/9780195376142.013.0002 |page=21 |language=en}}</ref><ref>Bossert, Helmut T., ''Asia'', Istanbul, 1946.</ref><ref>{{cite book |last=Rose |first=Charles Brian |year=2013 |title=The Archaeology of Greek and Roman Troy |publisher=Cambridge University Press |isbn=978-0-521-76207-6 |pages=108–109 |language=en}}</ref> Dokumente [[Linear B (shkrim)|Linear B]] pothuajse të njëkohshme përmbajnë termin {{lang|gmy|𐀀𐀯𐀹𐀊}} (''a-si-wi-ja''), me sa duket në lidhje me robër që vinin nga i njëjti rajon.<ref>{{harvnb|Ventris|Chadwick|1973|pp=410, 536}}.</ref><ref>{{cite book |last1=Collins |first1=Billie Jean |last2=Bachvarova |first2=Mary R. |last3=Rutherford |first3=Ian |title=Anatolian Interfaces: Hittites, Greeks and their Neighbours |date=2010-03-28 |publisher=Oxbow |isbn=978-1-78297-475-8 |page=120 |url=https://books.google.com/books?id=7KemAwAAQBAJ&pg=PT146 |quote=assuwa pylos "aswia" = Linear B A-si-wi-ja |access-date=2023-03-07 |archive-date=2022-12-04 |archive-url=https://web.archive.org/web/20221204010301/https://books.google.com/books?id=7KemAwAAQBAJ&pg=PT146 |url-status=live |language=en}}</ref>
+
+[[File:Roman Empire - Asia (125 AD).svg|thumb|left|{{ill|Provinca e Azisë|en|Asia (Roman province)}} brenda [[Perandoria Romake|Perandorisë Romake]]]]
+
+Herodoti e përdori termin për Anadollin dhe territorin e [[Perandoria Akamenide|Perandorisë Akamenide]], në kundërvënie me Greqinë dhe Egjiptin. Ai raporton se grekët supozonin se Azia e kishte marrë emrin nga bashkëshortja e [[Prometeu|Prometeut]], ndërsa [[Lidia|lidianët]] thonë se emrin e mori nga ''Asies'', i biri i Kotisit, i cili ia kaloi më pas emrin një fisi në [[Sarda (Lidiane)|Sardis]].<ref>Libri IV, neni 45.</ref> Në [[Mitologjia greke|mitologjinë greke]], «Azia» ({{lang|grc|Ἀσία}} ose {{lang|grc|Ἀσίη}}) ishte emri i një «[[Nimfat|nimfe]] ose perëndeshe titane e Lidias».<ref>{{cite encyclopedia |url=http://www.theoi.com/Nymphe/NympheAsie.html |title=Asie |encyclopedia=Encyclopedia: Greek Gods, Spirits, Monsters |publisher=Theoi Greek Mythology, Exploring Mythology in Classical Literature and Art |date=2000–2011 |url-status=live |archive-url=https://web.archive.org/web/20100604045105/http://www.theoi.com/Nymphe/NympheAsie.html |archive-date=2010-06-04 |language=en}}</ref> [[Iliada|Iliada]] (të cilën grekët e lashtë ia atribuonin [[Homeri|Homerit]]) përmend dy frigjianë në [[Lufta e Trojës|Luftën e Trojës]] me emrin Asios (fjalë për fjalë «aziatik»),<ref>Μ95, Π717.</ref> si dhe një moçal ose ultësirë me moçal në Lidi, të quajtur {{lang|grc|ασιος}}.<ref>Β461.</ref>
+
+Termin e miratuan më vonë [[Romakët|romakët]], të cilët e përdorën për provincën e Azisë, e cila ndodhej në Anadollin perëndimor.<ref>{{cite encyclopedia |year=2007 |title=Ἀσία |encyclopedia=A Greek-English Lexicon |publisher=Perseus Digital Library, Tufts University |location=Medford |url=https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3D*%29asi%2Fa |last1=Liddell |first1=Henry George |orig-year=1940 |archive-url=https://web.archive.org/web/20110427042823/http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3D*%29asi%2Fa |archive-date=2011-04-27 |last2=Scott |first2=Robert |last3=Jones |first3=Henry Stuart |last4=McKenzie |first4=Roderick |url-status=live |language=en}}</ref> Një nga shkrimtarët e parë që e përdori Azinë si emër për të gjithë kontinentin ishte [[Plini Plaku|Plini]].<ref>{{cite web |url=http://etymonline.com/index.php?term=Asia&allowed_in_frame=0 |title=Asia |website=Etymonline.com |access-date=2017-11-09 |url-status=live |archive-url=https://web.archive.org/web/20170525113914/http://etymonline.com/index.php?term=Asia&allowed_in_frame=0 |archive-date=2017-05-25 |language=en}}</ref>
+
+== Përkufizimi ==
+{{Hatnote|Shih më tepër për kufijtë e Azisë: {{ill|Gjeografia e Azisë|en|Geography of Asia}} (seksioni «Kufijtë»), {{ill|Kufijtë midis kontinenteve|en|Boundaries between the continents}}, {{ill|Lista e vendeve ndërkontinentale|en|List of transcontinental countries}} (seksioni «Azia dhe Evropa») dhe {{ill|Kriteret e Kopenhagenit|en|Copenhagen criteria}}}}<ref group="note">78% e popullsisë së Rusisë jeton në pjesën evropiane të saj.</ref>
+
+=== Kufiri midis Azisë dhe Evropës ===
+[[Skeda:Possible definitions of the boundary between Europe and Asia.png|thumb|upright=1.2|Përkufizimet e përdorura për kufirin midis Azisë dhe Evropës në periudha të ndryshme të historisë. [[Azia|Përkufizimet moderne]] përputhen kryesisht me vijat ''B'' dhe ''F'' të dhëna.]]
+
+Ndarja e trefishtë e Botës së Vjetër në [[Afrika|Afrikë]], Azi dhe [[Evropa|Evropë]] është në përdorim që nga shekulli VI&nbsp;p.e.s., për shkak të gjeografëve grekë si [[Anaksimandri|Anaksimandri]] dhe [[Hekateu i Miletit|Hekateu]].<ref>{{Cite book |last=Slomp |first=Hans |title=Europe, A Political Profile: An American Companion to European Politics |publisher=ABC-CLIO |isbn=978-0313391828 |edition=Ilustruar, i rishikuar |date=2011 |language=en}}</ref> Anaksimandri e vendosi kufirin midis Azisë dhe Evropës përgjatë lumit Fasis (tani Rioni) në [[Gjeorgjia|Gjeorgjinë]] e Kaukazit – nga grykëderdhja e tij pranë Potit në bregun e [[Deti i Zi|Detit të Zi]], përmes Qafës së Suramit dhe përgjatë lumit Kura deri në [[Deti Kaspik|Detin Kaspik]]. [[Herodoti]] ende ndoqi këtë konvencion në shekullin V&nbsp;p.e.s.<ref>''[[Historitë e Herodotit|Historitë]]'' 4.38. Krh. James Rennell, ''The Geographical System of Herodotus Examined and Explained'', vëll. 1, Rivington 1830, [https://archive.org/details/bub_gb_enQ-AAAAcAAJ/page/n274 f. 244].</ref> Gjatë {{ill|Periudha helenistike|en|Hellenistic period|lt=periudhës helenistike}},<ref>sipas Strabonit (''[[Gjeografia e Strabonit|Gjeografia]]'' 11.7.4), edhe në kohën e [[Aleksandri i Madh|Aleksandrit]], «të gjithë binin dakord se lumi Tanai ndan Azinë nga Evropa» ({{lang|grc|ὡμολόγητο ἐκ πάντων ὅτι διείργει τὴν Ἀσίαν ἀπὸ τῆς Εὐρώπης ὁ Τάναϊς ποταμός}}; krh. Duane W. Roller, ''Eratosthenes' Geography'', Princeton University Press, 2010, {{ISBN|978-0-691-14267-8}}, {{Cite book |url=https://books.google.com/books?id=8peKyWK_SWsC&pg=PA57 |title=Geography |page=57 |isbn=978-0-691-14267-8 |author1=Eratosthenes |date=2010-01-24 |publisher=Princeton University Press |access-date=2020-01-21 |archive-date=2022-03-26 |archive-url=https://web.archive.org/web/20220326125152/https://books.google.com/books?id=8peKyWK_SWsC&pg=PA57 |url-status=live |language=en}})</ref> ky konvencion u rishikua dhe kufiri midis Evropës dhe Azisë tani u konsiderua lumi Tanai (lumi i Donit i sotëm). Ky është konvencioni i përdorur nga autorë të epokës romake si Posidonius,<ref>{{Cite book |last=Theiler |first=W. |title=Posidonios. Die Fragmente |volume=1 |location=Berlin |publisher=De Gruyter |year=1982 |at=fragm. 47a |language=de}}</ref> [[Straboni]]<ref>{{Cite book |last1=Kidd |first1=I. G. |title=Posidonius: The Commentary |publisher=Cambridge University Press |year=2004 |page=738 |isbn=978-0-521-60443-7 |url=https://books.google.com/books?id=_iXs1aCr1ckC&pg=PA738 |access-date=2020-01-21 |archive-date=2020-08-01 |archive-url=https://web.archive.org/web/20200801115807/https://books.google.com/books?id=_iXs1aCr1ckC&pg=PA738 |url-status=live |language=en}}</ref> dhe [[Ptolemeu]].<ref>''Geographia'' 7.5.6 (bot. Nobbe 1845, vëll. 2, [https://books.google.com/books?id=vHMCAAAAQAAJ libri], [https://web.archive.org/web/20200524011208/https://books.google.com/books?id=vHMCAAAAQAAJ arkivi], f. 178). {{lang|grc|Καὶ τῇ Εὐρώπῃ δὲ συνάπτει διὰ τοῦ μεταξὺ αὐχένος τῆς τε Μαιώτιδος λίμνης καὶ τοῦ Σαρματικοῦ Ὠκεανοῦ ἐπὶ τῆς διαβάσεως τοῦ Τανάϊδος ποταμοῦ.}} «Dhe [Azia] lidhet me Evropën përmes ngushticës së tokës midis liqenit Maiotis dhe Oqeanit Sarmatik, atje ku kalon lumi Tanai.»</ref>
+
+Kufiri midis Azisë dhe Evropës u ripërcaktua më vonë nga studiuesit evropianë.<ref name="Lineback-2013">{{Cite magazine |url=http://voices.nationalgeographic.com/2013/07/09/geography-in-the-news-eurasias-boundaries/ |title=Geography in the News: Eurasia's Boundaries |first=Neal |last=Lineback |magazine=National Geographic |date=2013-07-09 |access-date=2016-06-09 |url-status=dead |archive-url=https://web.archive.org/web/20160508224947/http://voices.nationalgeographic.com/2013/07/09/geography-in-the-news-eurasias-boundaries/ |archive-date=2016-05-08 |language=en}}</ref> Më 1730, pesë vjet pas vdekjes së [[Pjetri i Madh|Pjetrit të Madh]], Philip Johan von Strahlenberg botoi në [[Suedia|Suedi]] një atlas të ri që propozonte [[Malet Urale]] si kufi të Azisë. Vasily Tatishchev deklaroi se ai ia kishte propozuar idenë von Strahlenbergut. Ky i fundit kishte sugjeruar lumin Emba si pjesën jugore të këtij kufiri. Gjatë shekullit në vijim u bënë propozime të ndryshme, derisa [[Lumi i Uralit]] fitoi në mesin e shekullit XIX. Kufiri ishte zhvendosur me forcë nga Deti i Zi (përkufizimi i romakëve) në Detin Kaspik, në të cilin derdhen lumenjtë Emba dhe Ural.<ref>{{Harvnb|Lewis|Wigen|1997|pp=27–28}}.</ref> Midis Detit të Zi dhe Detit Kaspik, kufiri shpesh vendoset përgjatë kreshtës së [[Kaukazi|Maleve të Kaukazit]], megjithëse ndonjëherë vendoset më në veri,<ref name="Lineback-2013" /> në Depresionin Kuma–Manych.
+<references group="note"><ref group="note">78% e popullsisë së Rusisë jeton në pjesën evropiane të saj.</ref></references>
+=== Kufiri Azia–Afrika ===
+Kufiri midis Azisë dhe [[Afrika|Afrikës]] përbëhet nga [[Kanali i Suezit]], [[Gjiri i Suezit]], [[Deti i Kuq]] dhe Bab el-Mandeb.<ref>{{cite encyclopedia |title=Suez Canal: 1250 to 1920: Middle East |encyclopedia=Cultural Sociology of the Middle East, Asia, & Africa: An Encyclopedia |year=2012 |publisher=Sage |doi=10.4135/9781452218458.n112 |isbn=978-1-4129-8176-7 |s2cid=126449508 |language=en}}</ref> Kjo e bën [[Egjipti|Egjiptin]] një vend transkontinental, me [[Gadishulli Sinai|Gadishullin Sinai]] në Azi dhe pjesën tjetër të vendit në Afrikë.
+
+=== Kufiri Azia–Oqeania ===
+[[Skeda:Map of Sunda and Sahul.svg|left|thumb|upright=1.2|Përkufizime të kufirit midis Azisë dhe Oqeanisë]]
+
+Kufiri midis Azisë dhe [[Oqeania|Oqeanisë]] zakonisht vendoset diku në Arkipelagun Indonezian, konkretisht në Indonezinë Lindore. {{ill|Linja e Wallace|en|Wallace Line}} ndan mbretëritë biogjeografike aziatike nga Wallacea, një zonë tranzicioni me ngushtica uji të thellë midis shelfeve kontinentale aziatike dhe australiane. Linja e Weberit e ndan rajonin në dy pjesë për sa i përket ekuilibrit të faunës me origjinë aziatike dhe me origjinë australo-papuane.<ref name="Simpson-1977">{{cite journal |last=Simpson |first=George Gaylord |title=Too Many Lines: The Limits of the Oriental and Australian Zoogeographic Regions |journal=Proceedings of the American Philosophical Society |publisher=American Philosophical Society |volume=121 |issue=2 |year=1977 |issn=0003-049X |jstor=986523 |pages=107–120 |language=en}}</ref> Kufiri lindor i Wallacea me [[Australia (kontinent)|Sahulin]] përfaqësohet nga Linja e Lydekkerit.<ref>{{cite journal |title=Islands under the sea: a review of early modern human dispersal routes and migration hypotheses through Wallacea |journal=The Journal of Island and Coastal Archaeology |volume=11 |issue=3 |pages=364–384 |year=2015 |doi=10.1080/15564894.2015.1119218 |url=https://www.researchgate.net/publication/287798057 |last1=Kealy |first1=Shimona |last2=Louys |first2=Julien |last3=O'Connor |first3=Sue |s2cid=129964987 |issn=1556-4894 |language=en}}</ref><ref>{{Cite journal |last=New |first=T. R. |year=2002 |title=Neuroptera of Wallacea: a transitional fauna between major geographical regions |url=http://actazool.nhmus.hu/48Suppl2/newwallace.pdf |journal=Acta Zoologica Academiae Scientiarum Hungaricae |volume=48 |issue=2 |pages=217–227 |language=en}}</ref> {{ill|Ishujt Maluku|en|Maluku Islands}} (me përjashtim të Ishujve Aru) shpesh konsiderohen se shtrihen në kufi të [[Azia Juglindore|Azisë Juglindore]], ndërsa Ishujt Aru dhe Guinea e Re Perëndimore, në lindje të Linjës së Lydekkerit, konsiderohen plotësisht pjesë e Oqeanisë, pasi të dyja ndodhen mbi pllakën kontinentale australiane.<ref name="Simpson-1977"/> Kulturalisht, rajoni i Wallacea përfaqësonte tranzicionin midis popujve austronezianë dhe melanezianë, me shkallë të ndryshme përzierjeje midis të dyve. Në përgjithësi, sa më në perëndim dhe më pranë bregdetit të jetë një rajon, aq më të forta janë ndikimet austroneziane; sa më në lindje dhe më në brendësi, aq më të forta janë ndikimet melaneziane.<ref>{{cite magazine |title=Jejak Pembauran Melanesia dan Austronesia |magazine=National Geographic |date=2015-11-26 |url=https://nationalgeographic.grid.id/read/13302465/jejak-pembauran-melanesia-dan-austronesia |language=id |access-date=2024-06-11}}</ref> Termat Azia Juglindore dhe Oqeania, të krijuar në shekullin e 19-të, kanë pasur që nga krijimi i tyre disa kuptime gjeografike krejt të ndryshme. Faktori kryesor për të përcaktuar se cilët ishuj të Arkipelagut Indonezian janë aziatikë ka qenë vendndodhja e zotërimeve koloniale të perandorive të ndryshme atje (jo të gjitha evropiane). Lewis dhe Wigen pohojnë: «Ngushtimi i "Azisë Juglindore" në kufijtë e saj të tanishëm ishte, pra, një proces gradual.»<ref>{{harvnb|Lewis|Wigen|1997|pp=170–173}}.</ref>
+
+=== Kufiri Azia–Amerika Veriore ===
+{{Hatnote|Shih edhe: {{ill|Azia Verilindore|en|Northeast Asia}}}}
+[[Skeda:Us-su-maritime.jpg|thumb|upright=1.2|Kufiri midis Shteteve të Bashkuara dhe Rusisë sipas Marrëveshjes për kufirin detar SHBA–BRSS]]
+[[Ngushtica e Beringut]] dhe [[Deti Bering]] ndajnë masat tokësore të Azisë dhe [[Amerika Veriore|Amerikës Veriore]], si dhe formojnë kufirin ndërkombëtar midis [[Rusia|Rusisë]] dhe [[Shtetet e Bashkuara të Amerikës|Shteteve të Bashkuara]]. Ky kufi kombëtar dhe kontinental ndan [[Ishujt Diomede]] në Ngushticën e Beringut, me ishullin Diomede i Madh në Rusi dhe Diomede i Vogël në Shtetet e Bashkuara. {{ill|Ishujt Aleutianë|en|Aleutian Islands}} janë një varg ishujsh që shtrihet drejt perëndimit nga Gadishulli i Alaskës drejt Ishujve Komandorski të Rusisë dhe [[Kamçatka|Gadishullit të Kamçatkës]]. Shumica e tyre gjithmonë lidhen me Amerikën e Veriut, me përjashtim të grupit më perëndimor, Ishujt e Afërt, të cilët ndodhen në shelfin kontinental të Azisë përtej Pellgut të Aleutëve të Veriut dhe në raste të rralla mund të lidhen me Azinë, gjë që atëherë do të mundësonte që Shtetet e Bashkuara të konsideroheshin një shtet transkontinental. Ishujt Aleutianë lidhen ndonjëherë edhe me Oqeaninë, për shkak të statusit të tyre si ishuj të largët të [[Oqeani Paqësor|Paqësorit]] dhe afërsisë me Pllakën e Paqësorit.<ref>{{cite book |last1=Danver |first1=Steven L. |title=Native Peoples of the World: An Encyclopedia of Groups, Cultures and Contemporary Issues |date=2015 |publisher=Taylor & Francis |page=185 |isbn=978-1317464006 |url=https://books.google.com/books?id=vf4TBwAAQBAJ&dq=%22aleutians%22+%22part+of+oceania%22&pg=PA185 |access-date=2022-04-23 |archive-date=2023-04-04 |archive-url=https://web.archive.org/web/20230404181817/https://books.google.com/books?id=vf4TBwAAQBAJ&dq=%22aleutians%22+%22part+of+oceania%22&pg=PA185 |url-status=live |language=en}}</ref><ref>{{cite book |last1=Wallace |first1=Alfred Russel |title=Australasia |date=1879 |publisher=University of Michigan |page=2 |url=https://books.google.com/books?id=e2kcAAAAMAAJ&dq=%22oceania+is+the+word+often%22&pg=PA2 |access-date=2022-03-12 |quote=The more northerly section, lying between Japan and California and between the Aleutian and Hawaiian Archipelagoes is relieved by nothing but a few solitary reefs and rocks at enormously distant intervals. |archive-date=2022-07-30 |archive-url=https://web.archive.org/web/20220730064236/https://www.google.com.au/books/edition/Australasia/e2kcAAAAMAAJ?hl=en&gbpv=1&dq=%22oceania+is+the+word+often%22&pg=PA2&printsec=frontcover |url-status=live |language=en}}</ref><ref>{{cite book |last1=Kohlhoff |first1=Dean |title=Amchitka and the Bomb: Nuclear Testing in Alaska |date=2002 |publisher=University of Washington Press |page=6 |isbn=978-0295800509 |url=https://books.google.com/books?id=kSWn8lbI4q4C&dq=%22aleutian+islands%22+%22oceania%22&pg=PA6 |access-date=2022-03-12 |quote=The regional name of the Pacific Islands is appropriate: Oceania, a sea of islands, including those of Alaska and Hawaii. The Pacific Basin is not insignificant or remote. It covers one third of the globe's surface. Its northern boundary is the Aleutian Islands chain. |archive-date=2023-05-17 |archive-url=https://web.archive.org/web/20230517051213/https://books.google.com/books?id=kSWn8lbI4q4C&dq=%22aleutian+islands%22+%22oceania%22&pg=PA6 |url-status=live |language=en}}</ref> Megjithatë, kjo është jashtëzakonisht e rrallë, për shkak të biogjeografisë së tyre jotrupikale, si dhe të banorëve të tyre, të cilët historikisht kanë qenë të lidhur me [[Popujt indigjenë të Amerikës]].<ref>{{cite book |last1=Flick |first1=Alexander Clarence |title=Modern World History, 1776-1926: A Survey of the Origins and Development of Contemporary Civilization |date=1926 |publisher=A. A. Knopf |page=492 |url=https://books.google.com/books?id=PhGHAAAAMAAJ&q=Modern%20World%20History,%201776-1926A%20Survey%20of%20the%20Origins%20and%20Development%20of%20Contemporary%20Civilization |access-date=2022-07-10 |archive-date=2022-07-30 |archive-url=https://www.google.com.au/books/edition/Modern_World_History_1776_1926/PhGHAAAAMAAJ?hl=en&gbpv=0&bsq=Modern+World+History%2C+1776-1926A+Survey+of+the+Origins+and+Development+of+Contemporary+Civilization |url-status=live |language=en}}</ref><ref>{{cite book |last1=Henderson |first1=John William |title=Area Handbook for Oceania |date=1971 |publisher=U.S. Government Printing Office |page=5 |url=https://books.google.com/books?id=NuOIqt-UQowC&dq=%22oceania%22+%22aleutian+islands%22&pg=PR5 |access-date=2022-03-11 |archive-date=2023-04-06 |archive-url=https://web.archive.org/web/20230406111120/https://books.google.com/books?id=NuOIqt-UQowC&dq=%22oceania%22+%22aleutian+islands%22&pg=PR5 |url-status=live |language=en}}</ref>
+
+Ishulli i Shën Lorencit në veri të Detit Bering i përket shtetit amerikan të [[Alaska|Alaskës]] dhe mund të lidhet me cilindo prej dy kontinenteve, por pothuajse gjithmonë konsiderohet pjesë e Amerikës së Veriut, njësoj si Ishujt Rat në vargun aleutian. Në pikat e tyre më të afërta, Alaska dhe Rusia ndahen nga vetëm 4 kilometra (2,5 mi).
+=== Përkufizimi i vazhdueshëm ===
+[[Skeda:Afro-Eurasia (orthographic projection).svg|thumb|left|Afro-Eurasia]]
+
+Azia gjeografike është një artefakt kulturor i koncepteve evropiane për botën, duke nisur me [[Greqia e Lashtë|grekët e lashtë]] dhe duke u imponuar kulturave të tjera — një koncept i paprecizuar që shkakton kontestim të vazhdueshëm rreth kuptimit të tij. Azia nuk përputhet saktësisht me kufijtë kulturorë të llojeve të ndryshme të përbërësve të saj.<ref>{{Harvnb|Lewis|Wigen|1997|pp=7–9}}.</ref>
+
+Që nga koha e [[Herodoti|Herodotit]], një pakicë gjeografësh e ka hedhur poshtë sistemin e tre kontinenteve ([[Evropa|Evropa]], [[Afrika|Afrika]], Azia), me arsyetimin se nuk ka ndarje fizike të konsiderueshme midis tyre.<ref>{{cite web |title=Asia |url=http://accessscience.com/abstract.aspx?id=054800&referURL=http%3a%2f%2faccessscience.com%2fcontent.aspx%3fid%3d054800 |work=AccessScience |publisher=McGraw-Hill |access-date=2011-07-26 |archive-date=2011-11-27 |archive-url=https://web.archive.org/web/20111127141127/http://accessscience.com/abstract.aspx?id=054800&referURL=http%3A%2F%2Faccessscience.com%2Fcontent.aspx%3Fid%3D054800 |url-status=dead |language=en}}</ref> Për shembull, Sir Barry Cunliffe, profesor emeritus i arkeologjisë evropiane në Oksford, argumenton se Evropa ka qenë, gjeografikisht dhe kulturalisht, thjesht «shtojca perëndimore e kontinentit të Azisë».<ref>{{cite magazine |url=https://www.theatlantic.com/doc/200812/editors-choice |title=Geography Is Destiny |first=Benjamin |last=Schwartz |magazine=The Atlantic |date=December 2008 |url-status=live |archive-url=https://web.archive.org/web/20090930211221/http://www.theatlantic.com/doc/200812/editors-choice |archive-date=2009-09-30 |language=en}}</ref>
+
+Gjeografikisht, Azia është përbërësi kryesor lindor i kontinentit të [[Evroazia|Evroazisë]], ndërsa Evropa është një [[Gadishulli|gadishull]] veriperëndimor i masës tokësore. Azia, Evropa dhe Afrika përbëjnë një masë tokësore të vetme dhe të vazhdueshme – {{ill|Afro-Eurasia|en}} – dhe kanë të përbashkët një {{ill|Rafti kontinental|en|Continental shelf|lt=raft kontinental}}. Pothuajse e gjithë Evropa dhe një pjesë e madhe e Azisë shtrihen mbi Pllakën Euroaziatike, së cilës në jug i bashkëngjiten Pllaka Arabe dhe Pllaka Indiane, ndërsa pjesa më lindore e [[Siberia|Siberisë]] (në lindje të Vargut të Çerskit) shtrihet mbi Pllakën e Amerikës së Veriut. Rreth 78% e popullsisë së Rusisë jeton në pjesën evropiane.
+{{Clear}}
+
+== Historia ==
+{{Kryesor|Historia e Azisë}}
+=== Prehistoria ===
+{{Hatnote|Shih edhe: {{ill|Azia parahistorike|en|Prehistoric Asia}}}}
+[[File:Spreading homo sapiens la.svg|thumb|Hartë e {{ill|Migrimet e hershme njerëzore|en|Early human migrations|lt=migrimeve të hershme njerëzore}} bazuar në {{ill|Origjina afrikane e njerëzve modernë|en|Recent African origin of modern humans|lt=teorinë "Jashtë Afrikës"}}.]]
+[[File:Indo-European_migrations_and_Ancient_Northeast_Asians.png |thumb|Migrimet e hershme indo-evropiane nga stepat pontike dhe nëpër [[Azia Qendrore|Azinë Qendrore]], si dhe ndeshja me popullsitë e lashta të Azisë Veri-lindore.]]
+Rreth 1,8 milionë vjet më parë, ''{{ill|Homo erectus|en}}'' la kontinentin afrikan.<ref>{{cite web |title=Out of Africa |url=http://www.amnh.org/exhibitions/past-exhibitions/human-origins/the-history-of-human-evolution/out-of-africa |publisher=Muzeu Amerikan i Historisë Natyrore |access-date=2014-04-23 |language=en |archive-url=https://web.archive.org/web/20140419064100/http://www.amnh.org/exhibitions/past-exhibitions/human-origins/the-history-of-human-evolution/out-of-africa |archive-date=2014-04-19}}</ref> Besohet se kjo specie ka jetuar në [[Azia Lindore|Azinë Lindore]] dhe [[Azia Jug-lindore|Azinë Jug-lindore]] nga 1,8 milionë deri në 110.000 vjet më parë.<ref>{{cite web |date=2024-01-03 |title=Homo erectus |url=https://humanorigins.si.edu/evidence/human-fossils/species/homo-erectus |website=The Smithsonian Institution's Human Origins Program |publisher=Smithsonian National Museum of Natural History |access-date=2026-09-14 |language=en}}</ref><ref name=Rizal2020>{{Cite journal |last1=Rizal |first1=Y. |last2=Westaway |first2=K. E. |last3=Zaim |first3=Y. |last4=van den Bergh |first4=E. A. |last5=Bettis III |first5= |last6=Morwood |first6=M. J. |last7=Huffman |first7=O. F. |last8=Grün |first8=R. |last9=Joannes-Boyau |first9=R. |last10=Bailey |first10=R. M. |author11=Sidarto |first12=M. C. |last12=Westaway |first13=I. |last13=Kurniawan |first14=M. W. |last14=Moore |first15=M. |last15=Storey |first16=F. |last16=Aziz |author17=Suminto |first18=J. |last18=Zhao |author19=Aswan |first20=M. E. |last20=Sipola |first21=R. |last21=Larick |first22=J.-P. |last22=Zonneveld |first23=R. |last23=Scott |first24=S. |last24=Putt |first25=R. L. |last25=Ciochon |year=2020 |title=Last appearance of ''Homo erectus'' at Ngandong, Java, 117,000–108,000 years ago |journal=Nature |volume=577 |issue=7790 |pages=381–385 |doi=10.1038/s41586-019-1863-2 |issn=0028-0836 |pmid=31853068 |s2cid=209410644 |hdl=10072/397335 |hdl-access=free |language=en}}</ref>
+
+Hulumtuesit besojnë se njeriu modern, ose ''[[Homo sapiens]]'', migroi rreth 60.000 vjet më parë në [[Azia Jugore|Azinë Jugore]] përgjatë [[Oqeani Indian|Oqeanit Indian]].<ref>{{cite web |title=By Land and Sea |url=http://www.amnh.org/exhibitions/past-exhibitions/human-origins/one-human-species/by-land-and-by-sea |publisher=Muzeu Amerikan i Historisë Natyrore |access-date=2014-04-23 |language=en |archive-url=https://web.archive.org/web/20140419113824/http://www.amnh.org/exhibitions/past-exhibitions/human-origins/one-human-species/by-land-and-by-sea |archive-date=2014-04-19}}</ref> Njerëzit modernë u kryqëzuan në Azinë Jug-lindore me një specie arkaike njerëzore të quajtur denisovanë.<ref>{{cite news |title=New evidence in search for the mysterious Denisovans |url=https://australian.museum/about/organisation/media-centre/new-evidence-denisovans/ |work=Muzeu Australian |language=en}}</ref> Përpara ardhjes së njerëzve modernë, ishulli Flores ishte i banuar nga ''{{ill|Homo floresiensis|en}}'', një njeri arkaik i vogël.<ref>{{cite journal |last1=Sutikna |first1=Thomas |last2=Tocheri |first2=Matthew W. |last3=Morwood |first3=Michael J. |display-authors=etal |title=Revised stratigraphy and chronology for ''Homo floresiensis'' at Liang Bua in Indonesia |journal=Nature |date=2016-03-30 |volume=532 |issue=7599 |pages=366–369 |bibcode=2016Natur.532..366S |doi=10.1038/nature17179 |pmid=27027286 |s2cid=4469009 |url=https://ro.uow.edu.au/smhpapers/3778 |hdl=2292/34938 |hdl-access=free |language=en}}</ref>
+
+Paraardhësit e euroazianëve lindorë u ndanë nga euroazianët e lashtë perëndimorë rreth 46.000 vjet më parë, duke migruar jashtë vatrës në Rrafshnaltën iraniane.<ref name=":0">{{Cite journal |last1=Vallini |first1=Leonardo |last2=Zampieri |first2=Carlo |last3=Shoaee |first3=Mohamed Javad |last4=Bortolini |first4=Eugenio |last5=Marciani |first5=Giulia |last6=Aneli |first6=Serena |last7=Pievani |first7=Telmo |last8=Benazzi |first8=Stefano |last9=Barausse |first9=Alberto |last10=Mezzavilla |first10=Massimo |last11=Petraglia |first11=Michael D. |last12=Pagani |first12=Luca |date=2024-03-25 |title=The Persian plateau served as hub for Homo sapiens after the main out of Africa dispersal |journal=Nature Communications |volume=15 |issue=1 |pages=1882 |bibcode=2024NatCo..15.1882V |doi=10.1038/s41467-024-46161-7 |doi-access=free |issn=2041-1723 |pmc=10963722 |pmid=38528002 |quote=... the split between EEC and WEC, with the former leaving the Hub 46 kya |language=en}}</ref> Dëshmitë nga studimet e plota gjenomike sugjerojnë se njerëzit e parë në Amerikë u ndanë nga aziatikët e lashtë lindorë rreth 36.000 vjet më parë dhe u shtrinë drejt veriut në Siberi, ku u ndeshën dhe ndërvepruan me një popullsi tjetër paleolitike siberiane (e njohur si euroazianët e lashtë veriorë), duke i dhënë jetë si popujve paleosiberianë, ashtu edhe amerikanëve të lashtë vendas.<ref>{{Cite web |last=Sapiens |date=2022-02-08 |title=A Genetic Chronicle of the First Peoples in the Americas |url=https://www.sapiens.org/archaeology/ancient-dna-native-americans/ |access-date=2022-10-29 |website=SAPIENS |language=en}}</ref>
+
+[[Aziatikët|Aziatikët]] e jugut modernë janë pasardhës të një kombinimi të prejardhjeve euroaziane perëndimore (veçanërisht komponentët e gjuetarëve-grumbullakësve iranianë neolitikë dhe ata të blegtorëve të stepës perëndimore) me një komponent të supozuar autokton lindor euroaziatik (i quajtur ''paraardhës i lashtë i indianëve të jugut''), më i afërt me pjesën jo-perëndimore euroaziatike të nxjerrë nga mostrat e Azisë Jugore; i lidhur nga larg me andamanezët, aziatikët lindorë dhe {{ill|Australianët aborigjenë|en|Aboriginal Australians|lt=australianët aborigjenë}}.<ref name="Narasimhan_2019">{{cite journal |last1=Narasimhan |first1=Vagheesh M. |last2=Patterson |first2=Nick |last3=Moorjani |first3=Priya |last4=Rohland |first4=Nadin |last5=Bernardos |first5=Rebecca |title=The formation of human populations in South and Central Asia |journal=Science |date=2019-09-06 |volume=365 |issue=6457 |page=eaat7487 |issn=0036-8075 |doi=10.1126/science.aat7487 |pmid=31488661 |pmc=6822619 |bibcode=2019Sci...365t7487N |doi-access=free |language=en}}</ref>
+=== Antikiteti ===
+''Shih edhe: [[:en:Sinosphere|Sfera kulturore kineze]], [[:en:Greater India|India e Madhe]], [[:en:Greater Iran|Irani i Madh]]''
+[[File:Silkroutes.jpg|thumb|upright=1.2|[[Rruga e Mëndafshit]] lidhte civilizimet nëpër Azi.<ref>{{Cite web |last=Lee |first=Adela C. Y. |title=Ancient Silk Road Travellers |url=http://www.silk-road.com/artl/srtravelmain.shtml |url-status=live |archive-url=https://web.archive.org/web/20171108022054/http://www.silk-road.com/artl/srtravelmain.shtml |archive-date=2017-11-08 |access-date=2017-11-09 |website=Silk-road.com |publisher=Silkroad Foundation |language=en}}</ref>]]
+[[:en:History of Asia|Historia e Azisë]] mund të shihet si historia e veçantë e disa rajoneve periferike bregdetare: [[Azia Lindore]], [[Azia Jugore]], [[Azia Juglindore]], [[Azia Qendrore]] dhe [[Azia Jugperëndimore]]. Periferia bregdetare ishte shtëpia e disa prej civilizimeve më të hershme të njohura në botë, secila prej tyre u zhvillua rreth luginave pjellore të lumenjve. Civilizimet në [[Mesopotamia|Mesopotami]], në Luginën e Indit dhe pranë [[Lumi Huang He|Lumit Huang He]] kishin shumë ngjashmëri. Këto civilizime mund të kenë shkëmbyer teknologji dhe ide si [[Matematika|matematika]] dhe [[Rrota|rrota]]. Inovacione të tjera, si shkrimi, duket se u zhvilluan në mënyrë të pavarur në secilin rajon. Qytetet, shtetet dhe perandoritë u zhvilluan në këto ultësira.
+
+Rajoni qendror i [[Stepa|stepës]] kishte qenë prej kohësh i banuar nga nomadë me kuaj, të cilët mund të arrinin në të gjitha zonat e Azisë nga stepa. Zgjerimi më i hershëm i supozuar jashtë stepës është ai i indoevropianëve, të cilët përhapën gjuhët e tyre në Azinë Jugperëndimore, Azinë Jugore dhe në kufijtë e Kinës,<ref name="Narasimhan_2019"/> ku jetonin [[Tokarianët]]. Pjesa më veriore e Azisë, duke përfshirë pjesën më të madhe të [[Siberia|Siberisë]], ishte kryesisht e paarritshme për nomadët e stepës, për shkak të pyjeve të dendura, klimës dhe [[Tundra|tundrës]]. Këto zona mbetën shumë pak të populluara.
+
+Qendra dhe periferitë mbaheshin kryesisht të ndara nga malet dhe shkretëtirat. Malet e [[Kaukazi (rajon)|Kaukazit]] dhe të Himalajës, si dhe shkretëtirat e [[Karakumi|Karakumit]] dhe të Gobit, formonin barriera që kalorësit e stepës mund t'i kalonin vetëm me vështirësi. Ndërsa banorët e qyteteve ishin më të përparuar teknologjikisht dhe shoqërisht, në shumë raste ata mund të bënin pak nga ana ushtarake për t'u mbrojtur nga hordhitë e kalorësve të stepës. Megjithatë, ultësirat nuk kishin kullota të hapura të mjaftueshme për të mbajtur një forcë të madhe kalorësish; për këtë dhe arsye të tjera, nomadët që pushtuan shtete në Kinë, Indi dhe Lindjen e Mesme shpesh gjendeshin duke u përshtatur me shoqëritë vendase, më të pasura.
+
+=== Mesjeta ===
+[[File:Mongol dominions1.jpg|thumb|upright=1.2|[[Perandoria Mongole]] në shtrirjen e saj më të madhe. Zona gri paraqet Perandorinë Timuride të mëvonshme.]]
+Disfatat e [[Kalifati|Kalifatit]] islamik ndaj perandorive bizantine dhe persiane bënë që [[Azia Jugperëndimore]], pjesët jugore të [[Azia Qendrore|Azisë Qendrore]] dhe pjesët perëndimore të [[Azia Jugore|Azisë Jugore]] të kalonin nën kontrollin e tij gjatë [[Ekspansioni islam|pushtimeve]] të shekullit të 7-të; islami gjithashtu [[Përhapja e Islamit|u përhap]] me kalimin e shekujve në rajonet jugore të Indisë dhe të Azisë Juglindore përmes tregtisë përgjatë Rrugës Detare të Mëndafshit.<ref>{{Cite web |title=How Islam Spread Throughout the World |url=https://yaqeeninstitute.org/read/paper/how-islam-spread-throughout-the-world |access-date=2024-08-08 |website=Yaqeen Institute for Islamic Research |date=2018-12-14 |language=en}}</ref><ref>{{Cite web |title=Did you know?: The Spread of Islam in Southeast Asia through the Trade Routes |url=https://en.unesco.org/silkroad/content/did-you-know-spread-islam-southeast-asia-through-trade-routes |access-date=2024-08-08 |website=en.unesco.org |language=en}}</ref> [[Perandoria Mongole]] pushtoi një pjesë të madhe të Azisë në shekullin e 13-të, një zonë që shtrihej nga Kina deri në Evropë. Para pushtimit mongol, [[Dinastia Song]] raportohet të kishte rreth 120 milionë banorë; regjistrimi i vitit 1300 që pasoi pushtimin raportoi afërsisht 60 milionë njerëz.<ref>{{Cite journal |last=Ho |first=Ping-ti |title=An Estimate of the Total Population of Sung-Chin China |journal=Études Song |series=Series 1 |issue=1 |date=1970 |pages=33–53 |language=en}}</ref>
+
+[[Vdekja e Zezë]], një nga [[Pandemia|pandemitë]] më shkatërruese në historinë njerëzore, mendohet të ketë origjinën në fushat e thata të Azisë qendrore, prej nga u përhap më pas përgjatë [[Rruga e Mëndafshit|Rrugës së Mëndafshit]].<ref>{{Cite web |url=https://www.bbc.co.uk/history/british/middle_ages/blackdisease_01.shtml |title=Black Death |publisher=BBC |date=2011-02-17 |url-status=live |archive-url=https://web.archive.org/web/20120605000815/http://www.bbc.co.uk/history/british/middle_ages/blackdisease_01.shtml |archive-date=2012-06-05 |language=en}}</ref>
+=== Epoka moderne ===
+{{Hatnote|Shih edhe: {{ill|Historia e Euroazisë|en|History of Eurasia}} dhe {{ill|Afro-Azia|en|Afro-Asia}}}}
+
+Përfshirja evropiane në Azi u bë më e rëndësishme që nga [[Epoka e Zbulimeve]] e në vazhdim, me detarë të sponsorizuar nga gadishulli Iberik si [[Kristofor Kolombi]] dhe [[Vasco da Gama]], të cilët i hapën rrugën rrugëve të reja nga Evropa Atlantike drejt Azisë së Paqësorit dhe Oqeanit Indian, përkatësisht, në fund të shekullit të 15-të.<ref>{{Cite journal |last1=Hu-DeHart |first1=Evelyn |last2=López |first2=Kathleen |date=2008 |title=Asian Diasporas in Latin America and the Caribbean: An Historical Overview |jstor=23055220 |journal=Afro-Hispanic Review |volume=27 |issue=1 |pages=9–21 |issn=0278-8969 |language=en}}</ref> [[Perandoria Ruse]] gjithashtu filloi të zgjerohej në Azinë veriperëndimore që nga shekulli i 17-të dhe përfundimisht mori kontrollin e të gjithë Siberisë dhe të pjesës më të madhe të [[Azia Qendrore|Azisë Qendrore]] deri në fund të shekullit të 19-të. Rreth 78% e popullsisë së Rusisë jeton në pjesën evropiane.
+
+Ndër perandoritë joevropiane, [[Perandoria Osmane]] kontrollonte Anadollin, pjesën më të madhe të [[Lindja e Mesme|Lindjes së Mesme]], Afrikën e Veriut dhe [[Ballkani|Ballkanin]] nga mesi i shekullit të 16-të e në vazhdim, ndërsa në shekullin e 17-të mançut pushtuan Kinën dhe krijuan [[Dinastia Qing|Dinastinë Qing]]. [[Perandoria Mogule]] islamike (e paraprirë nga {{ill|Sulltanati i Delhit|en|Delhi Sultanate}} i shekullit të 13-të deri në fillim të shekullit të 16-të)<ref>{{Cite web |title=The Story of India |publisher=PBS |url=https://www.pbs.org/thestoryofindia/timeline/5/ |access-date=2024-08-08 |website=www.pbs.org |language=en}}</ref><ref>{{Cite book |last=Jackson |first=Peter |url=http://archive.org/details/delhisultanatepo0000jack |title=The Delhi Sultanate: a political and military history |date=1999 |publisher=Cambridge; New York, NY: Cambridge University Press |others=Internet Archive |isbn=978-0-521-40477-8 |language=en}}</ref> dhe {{ill|Perandoria Maratha|en|Maratha Empire}} hindu kontrolluan pjesën më të madhe të Indisë përkatësisht në shekullin e 16-të dhe në shekullin e 18-të.<ref>{{cite book |last1=Sen |first1=Sailendra Nath |title=An Advanced History of Modern India |page=11 |url=https://books.google.com/books?id=bXWiACEwPR8C&pg=PA1941-IA82 |url-status=live |archive-url=https://web.archive.org/web/20200422184802/https://books.google.com/books?id=bXWiACEwPR8C&pg=PA1941-IA82 |archive-date=2020-04-22 |isbn=978-0-230-32885-3 |year=2010 |publisher=Macmillan |language=en}}</ref>
+
+[[File:Robert Clive and Mir Jafar after the Battle of Plassey, 1757 by Francis Hayman.jpg|thumb|Pasojat e {{ill|Beteja e Plasejit|en|Battle of Plassey|lt=Betejës së Plasejit}} të vitit 1757, e cila përfundimisht çoi në Indinë Britanike]]
+[[File:China, the cake of kings and emperors, Le Petit Journal 1898.jpg|thumb|Një përshkrim i vitit 1898 i fuqive perëndimore që po e copëtonin Kinën]]
+[[File:Victor Gillam A Thing Well Begun Is Half Done 1899 Cornell CUL PJM 1136 01.jpg|thumb|Një përshkrim i Amerikës që ndërton [[Kanali i Panamasë|lidhje me Paqësorin]] dhe koloninë e saj filipinase (majtas) pas {{ill|Lufta Spanjollo-Amerikane|en|Spanish–American War|lt=Luftës Spanjollo-Amerikane}} të vitit 1898]]
+
+Imperializmi perëndimor në Azi nga shekulli i 18-të deri në shekullin e 20-të përkoi me [[Revolucioni Industrial|Revolucionin Industrial]] në Perëndim dhe me rrëzimin e Indisë dhe Kinës nga pozita e ekonomive më të rëndësishme të botës.<ref>{{Cite magazine |date=2023-07-28 |title=How India's Economy Will Overtake the U.S.'s |url=https://time.com/6297539/how-india-economy-will-surpass-us/ |access-date=2023-08-31 |magazine=Time |archive-date=2023-08-31 |archive-url=https://web.archive.org/web/20230831071229/https://time.com/6297539/how-india-economy-will-surpass-us/ |url-status=live |language=en}}</ref> [[Perandoria Britanike]] u bë fillimisht dominuese në [[Azia Jugore|Azinë Jugore]], ku pjesa më e madhe e rajonit u pushtua nga tregtarë britanikë në fund të shekullit të 18-të dhe në fillim të shekullit të 19-të, përpara se të kalonte nën [[Raxhi Britanik|sundimin e drejtpërdrejtë britanik]] pas dështimit të kryengritjes së vitit 1857; përfundimi i [[Kanali i Suezit|Kanalit të Suezit]] në vitin 1869, i cili rriti aksesin britanik në Indi, çoi më tej në zgjerimin e ndikimit evropian mbi Afrikën dhe Azinë.<ref>{{Cite magazine |title=Behind the Enduring Relevance of the Suez Canal Is the Long Shadow of European Colonialism |url=https://thewire.in/history/suez-canal-relevance-europe-colonialism |access-date=2024-08-09 |magazine=The Wire |language=en}}</ref> Pikërisht në këtë kohë, fuqitë perëndimore filluan ta dominonin Kinën në atë që më vonë u quajt [[Shekulli i Turpërimit]], ku tregtia e opiumit e mbështetur nga britanikët dhe më pas [[Luftërat e Opiumit]] bënë që Kina të detyrohej të importonte më shumë sesa eksportonte, një situatë pa precedent.<ref>{{Cite web |title=Milestones: 1830–1860 – Office of the Historian |url=https://history.state.gov/milestones/1830-1860/china-1 |url-status=live |archive-url=https://web.archive.org/web/20230831071219/https://history.state.gov/milestones/1830-1860/china-1 |archive-date=2023-08-31 |access-date=2023-08-31 |website=history.state.gov |language=en}}</ref><ref>{{Cite news |date=2021-09-28 |title=For China, the history that matters is its 'century of humiliation' |url=https://www.scmp.com/comment/opinion/article/3150233/china-history-matters-still-century-humiliation |access-date=2023-08-31 |work=South China Morning Post |archive-date=2023-08-31 |archive-url=https://web.archive.org/web/20230831071219/https://www.scmp.com/web/20230831071219/https://www.scmp.com/comment/opinion/article/3150233/china-history-matters-still-century-humiliation |url-status=live |language=en}}</ref>
+
+Dominimin e huaj mbi Kinën e thelloi më tej perandoria koloniale japoneze, e cila kontrollonte një pjesë të [[Azia Lindore|Azisë Lindore]] dhe, për një kohë të shkurtër, pjesën më të madhe të [[Azia Juglindore|Azisë Juglindore]] (e cila më parë ishte marrë nga britanikët, holandezët dhe francezët në fund të shekullit të 19-të), Guinea e Re dhe ishujt e Paqësorit; dominimi i Japonisë u mundësua nga ngritja e saj e shpejtë gjatë [[Periudha Meixhi|periudhës Meixhi]] në fund të shekullit të 19-të, kur ajo zbatoi njohuritë industriale të mësuara nga Perëndimi dhe kështu e tejkaloi pjesën tjetër të Azisë.<ref>{{Cite web |title=Southeast Asia, 1800–1900 A.D. |publisher=Metropolitan Museum of Art |url=https://www.metmuseum.org/toah/ht/10/sse.html |url-status=live |archive-url=https://web.archive.org/web/20230831071219/https://www.metmuseum.org/toah/ht/10/sse.html |archive-date=2023-08-31 |access-date=2023-08-31 |website=The Met's Heilbrunn Timeline of Art History |language=en}}</ref><ref>{{Cite web |title=Introduction: Race and Empire in Meiji Japan |url=https://apjjf.org/2020/20/Zohar.html |access-date=2023-08-31 |website=The Asia–Pacific Journal: Japan Focus |date=2020-10-15 |archive-date=2023-08-31 |archive-url=https://web.archive.org/web/20230831071219/https://web.archive.org/web/20230831071219/https://apjjf.org/2020/20/Zohar.html |url-status=live |language=en}}</ref><ref>{{Cite book |last=Huffman |first=James L. |author1-link=James Huffman (historian) |title=The Rise and Evolution of Meiji Japan |date=2019 |publisher=Amsterdam University Press |doi=10.2307/j.ctvzgb64z |jstor=j.ctvzgb64z |isbn=978-1-898823-94-0 |s2cid=216630259 |language=en}}</ref> Një ndikim i rëndësishëm mbi Japoninë kishin pasur [[Shtetet e Bashkuara të Amerikës|Shtetet e Bashkuara]], të cilat kishin filluar të projektonin ndikim përgjatë Paqësorit pas zgjerimit të tyre drejt perëndimit në fillim dhe në mesin e shekullit të 19-të.<ref>{{Cite web |title=The United States and the Opening to Japan, 1853 |url=https://history.state.gov/milestones/1830-1860/opening-to-japan |language=en}}</ref> Shpërbërja e [[Perandoria Osmane|Perandorisë Osmane]] në fillim të shekullit të 20-të bëri që [[Lindja e Mesme]] të kontestohej dhe të ndahej gjithashtu nga britanikët dhe francezët.<ref>{{Cite journal |last=Yakoubi |first=Myriam |date=2022-01-04 |title=The French, the British and their Middle Eastern Mandates (1918-1939): Two Political Strategies |journal=Revue Française de Civilisation Britannique. French Journal of British Studies |volume=XXVII |issue=1 |doi=10.4000/rfcb.8787 |issn=0248-9015 |s2cid=246524226 |doi-access=free |language=en}}</ref>
+
+Azia ishte një teatër kryesor i [[Lufta e Dytë Botërore|Luftës së Dytë Botërore]]. {{ill|Lufta e Dytë Sino-Japoneze|en|Second Sino-Japanese War}}, e cila filloi në vitin 1937, u zgjerua në [[Lufta e Paqësorit|Luftën e Paqësorit]] më të gjerë pasi Japonia sulmoi territoret amerikane dhe britanike në dhjetor 1941 dhe pushtoi pjesë të mëdha të [[Azia Juglindore|Azisë Juglindore]]. Konflikti shkaktoi shkatërrime të gjera dhe viktima civile, duke përfshirë masakra gjatë pushtimit japonez të Kinës dhe të territoreve të tjera të pushtuara. Kapitullimi i Japonisë në vitin 1945 i dha fund perandorisë së saj përtej detit dhe ndihmoi në përshpejtimin e lëvizjeve kundër sundimit kolonial evropian në të gjithë Azinë.<ref>{{cite web |last=Mitter |first=Rana |title=Liberation in China and the Pacific |url=https://www.nationalww2museum.org/war/articles/liberation-china-and-pacific |access-date=2026-10-09 |publisher=The National WWII Museum |language=en}}</ref>
+=== Epoka bashkëkohore ===
+[[Skeda:Soviet Union and China map including the three co-bordering countries.svg|thumb|Bashkimi Sovjetik (me të kuqe) dhe Kina (me të verdhë) kontrollonin pjesën më të madhe të Azisë në fund të shekullit XX.]]
+Me përfundimin e [[Lufta e Dytë Botërore|Luftës së Dytë Botërore]] në 1945 dhe me shkatërrimin e Evropës dhe të Japonisë perandorake gjatë luftës, shumë vende të Azisë arritën të çlirohen shpejt nga sundimi kolonial, në një proces të njohur si {{ill|Dekolonizimi i Azisë|en|Decolonisation of Asia}}. Pavarësia e Indisë u shoqërua me {{ill|Ndarja e Indisë|en|Partition of India|lt=ndarjen e Indisë}}, pra me krijimin e një shteti të veçantë për shumicën e muslimanëve të Azisë Jugore, i cili në 1971, pas {{ill|Lufta Çlirimtare e Bangladeshit|en|Bangladesh Liberation War|lt=luftës çlirimtare të Bangladeshit}}, u nda më tej në Pakistan dhe [[Bangladeshi|Bangladesh]].<ref>{{cite book | last=Kennedy | first=Dane | title=Decolonization: A Very Short Introduction | publisher=Oxford University Press | date=2016 | isbn=978-0-19-934049-1 | doi=10.1093/actrade/9780199340491.003.0003 |chapter=Global war's colonial consequence| pages=25–45 |language=en}}</ref> [[Lufta e Ftohtë]] në Azi acaroi marrëdhëniet midis Indisë dhe Pakistanit dhe preku Azinë në përgjithësi.<ref>{{Cite magazine |last=Dalrymple |first=William |date=2015-06-22 |title=The Mutual Genocide of Indian Partition |url=https://www.newyorker.com/magazine/2015/06/29/the-great-divide-books-dalrymple |url-status=live |archive-url=https://web.archive.org/web/20190423182031/https://web.archive.org/web/20190423182031/https://www.newyorker.com/magazine/2015/06/29/the-great-divide-books-dalrymple |archive-date=2019-04-23 |access-date=2023-08-31 |magazine=The New Yorker |issn=0028-792X |language=en}}</ref> Fundi i Luftës së Ftohtë dhe [[Shpërbërja e Bashkimit Sovjetik|shpërbërja e Bashkimit Sovjetik]] deri në 1991 sollën pavarësinë e pesë vendeve moderne të [[Azia Qendrore|Azisë Qendrore]].<ref>{{Cite magazine |title=How the Cold War Shaped Bangladesh's Liberation War |url=https://thediplomat.com/2021/03/how-the-cold-war-shaped-bangladeshs-liberation-war/ |access-date=2024-08-07 |magazine=The Diplomat |language=en}}</ref><ref>{{Cite magazine |last=Foust |first=Joshua |date=2011-12-16 |title=No Great Game: The Story of Post-Cold War Powers in Central Asia |url=https://www.theatlantic.com/international/archive/2011/12/no-great-game-the-story-of-post-cold-war-powers-in-central-asia/250010/ |access-date=2024-08-08 |magazine=The Atlantic |language=en}}</ref>
+
+Azia e pasluftës u riformësua edhe nga revolucionet politike dhe konfliktet e [[Lufta e Ftohtë|Luftës së Ftohtë]]. Pas [[Lufta Civile Kineze|Luftës Civile Kineze]], [[Partia Komuniste e Kinës]] themeloi Republikën Popullore të Kinës në 1949, ndërsa qeveria e [[Republika e Kinës (1912-1949)|Republikës së Kinës]] u tërhoq në [[Tajvani|Tajvan]].<ref>{{cite web |title=Modern History and U.S. Foreign Policy: Asia |url=https://www.cfr.org/education/learn/resource-collections/asia-essentials/modern-history-and-us-foreign-policy-asia |access-date=2026-10-09 |publisher=Council on Foreign Relations |language=en}}</ref> [[Lufta Koreane]] (1950–1953) filloi kur [[Koreja e Veriut]] pushtoi [[Koreja e Jugut|Korenë e Jugut]], duke tërhequr një forcë të udhëhequr nga Kombet e Bashkuara që mbështeste Jugun dhe forcat kineze që mbështesnin Veriun. Lufta përfundoi me një armëpushim që la gadishullin Korean të ndarë.<ref>{{cite web |title=Korean War and Japan's Recovery |url=https://history.state.gov/milestones/1945-1952/korean-war |access-date=2026-10-09 |publisher=Office of the Historian, U.S. Department of State |language=en}}</ref> Në [[Azia Juglindore|Azinë Juglindore]], luftërat kundër sundimit kolonial dhe rivalitetet e Luftës së Ftohtë kontribuan në konflikte të zgjatura në Indokinë. [[Lufta e Vietnamit]] përfundoi në 1975 me rënien e Saigonit, e ndjekur nga ribashkimi formal i Vietnamit në 1976.<ref>{{cite web |title=Vietnam (09/04) |url=https://2009-2017.state.gov/outofdate/bgn/vietnam/40732.htm |access-date=2026-10-09 |publisher=U.S. Department of State |language=en}}</ref>
+
+Disa vende arabe përfituan ekonomikisht nga rezervat e mëdha nafte që u zbuluan në territoret e tyre, duke u bërë me ndikim në shkallë globale,<ref>{{Cite web |title=Oil Discovered in Saudi Arabia |url=https://education.nationalgeographic.org/resource/oil-discovered-saudi-arabia/ |access-date=2023-08-31 |website=education.nationalgeographic.org |archive-date=2023-12-03 |archive-url=https://web.archive.org/web/20231203035632/https://education.nationalgeographic.org/resource/oil-discovered-saudi-arabia/ |url-status=live |language=en}}</ref> ndonëse stabiliteti në [[Lindja e Mesme|Lindjen e Mesme]] është prekur që nga viti 1948 nga [[Konflikti Arabo-Izraelit]] dhe nga ndërhyrjet e udhëhequra nga Shtetet e Bashkuara.<ref>{{Cite news |last=Bazelon |first=Emily |date=2024-02-01 |title=The Road to 1948, and the Roots of a Perpetual Conflict |url=https://www.nytimes.com/interactive/2024/02/01/magazine/israel-founding-palestinian-conflict.html |access-date=2024-08-08 |work=The New York Times |issn=0362-4331 |language=en}}</ref><ref>{{Cite news |title=America's Middle East Scorecard: Many Interventions, Few Successes |url=https://www.npr.org/sections/parallels/2014/08/25/341892606/america-s-middle-east-scorecard-many-interventions-few-successes |work=NPR |language=en}}</ref> Vendet e [[Azia Lindore|Azisë Lindore]] (bashkë me Singaporin në Azinë Juglindore) u bënë ekonomikisht të begata falë „ekonomive tigër“ me rritje të lartë.<ref>{{Cite web |title=Economic Issues 1 – Growth in East Asia |url=https://www.imf.org/external/pubs/ft/issues1/ |url-status=live |archive-url=https://web.archive.org/web/20230320132157/https://www.imf.org/external/pubs/ft/issues1/ |archive-date=2023-03-20 |access-date=2023-08-31 |website=imf.org |language=en}}</ref> {{ill|Kriza financiare aziatike e 1997|en|1997 Asian financial crisis}} filloi në korrik 1997, kur Tajlanda hoqi dorë nga lidhja e [[Baht i Thailand|bahtit tajlandez]] me dollarin amerikan. Kriza u përhap në ekonomi të tjera, përfshirë [[Indonezia|Indonezinë]] dhe [[Koreja e Jugut|Korenë e Jugut]], duke shkaktuar tkurrje të rënda ekonomike dhe duke nxitur reforma në rregullimin financiar dhe në politikat e kursit të këmbimit në vendet e prekura.<ref>{{cite web |last=Furusawa |first=Mitsuhiro |date=2017-07-13 |title=What We Have Seen and Learned 20 Years After the Asian Financial Crisis |url=https://www.imf.org/en/blogs/articles/2017/07/13/what-we-have-seen-and-learned-20-years-after-the-asian-financial-crisis |access-date=2026-10-09 |publisher=International Monetary Fund |language=en}}</ref> Kina, pasi kaloi nëpër reformat dhe hapjen nën Deng Xiaoping,<ref>{{Cite web |title=China's Post-1978 Economic Development and Entry into the Global Trading System |url=https://www.cato.org/publications/chinas-post-1978-economic-development-entry-global-trading-system |access-date=2024-08-09 |website=The Cato Institute |language=en}}</ref> rifitoi vendin e saj mes dy ekonomive më të mëdha të botës deri në shekullin XXI.<ref>{{Cite news |last=Saul |first=Derek |title=China And India Will Overtake U.S. Economically By 2075, Goldman Sachs Economists Say |url=https://www.forbes.com/sites/dereksaul/2022/12/06/china-and-india-will-overtake-us-economically-by-2075-goldman-sachs-economists-say/ |access-date=2023-08-31 |work=Forbes |archive-date=2023-07-05 |archive-url=https://web.archive.org/web/20230705185916/https://www.forbes.com/sites/dereksaul/2022/12/06/china-and-india-will-overtake-us-economically-by-2075-goldman-sachs-economists-say/ |url-status=live |language=en}}</ref> Edhe India është rritur ndjeshëm për shkak të liberalizimit ekonomik që nisi në vitet 1990,<ref>{{Cite news |date=2016-07-07 |title=25 years of liberalisation: A glimpse of India's growth in 14 charts |url=https://www.firstpost.com/business/25-years-of-liberalisation-a-glimpse-of-indias-growth-in-14-charts-2877654.html |access-date=2023-09-04 |work=Firstpost |archive-date=2023-09-04 |archive-url=https://web.archive.org/web/20230904005244/https://www.firstpost.com/business/25-years-of-liberalisation-a-glimpse-of-indias-growth-in-14-charts.html |url-status=live |language=en}}</ref> me varfërinë ekstreme tani nën 20%;<ref>{{Cite news |last=Kumar |first=Manoj |date=2023-07-17 |title=One-tenth of India's population escaped poverty in 5 years – government report |url=https://www.reuters.com/world/india/one-tenth-of-indias-population-escaped-poverty-5-years-government-report-2023-07-17/ |url-status=live |archive-url=https://web.archive.org/web/20230904034523/https://www.reuters.com/world/india/one-tenth-of-indias-population-escaped-poverty-5-years-government-report-2023-07-17/ |archive-date=2023-09-04 |access-date=2023-09-04 |work=Reuters |language=en}}</ref> ngritja e Indisë dhe Kinës ka përkuar me tensione në rritje mes të dyjave, ndërsa Indo-Paqësori është tani një zonë e kontestuar në mënyrë aktive mes Kinës dhe forcave balancuese.<ref>{{Cite news |last=Matamis |first=Joaquin |date=2024-06-16 |title=From the Mountains to the Seas: India-China Competition in the Wake of Galwan |url=https://www.stimson.org/2024/from-the-mountains-to-the-seas-india-china-competition-in-the-wake-of-galwan/ |access-date=2024-08-08 |work=Stimson Center |language=en}}</ref><ref>{{Cite magazine |last=Kuo |first=Mercy A. |title=The Origin of 'Indo-Pacific' as Geopolitical Construct |url=https://thediplomat.com/2018/01/the-origin-of-indo-pacific-as-geopolitical-construct/ |access-date=2024-08-08 |magazine=The Diplomat |language=en}}</ref>
+
+<gallery>
+File:Anaximander world map (mul).svg|Ndarja e Botës së Vjetër në tri pjesë — Evropë, Azi dhe Afrikë — është në përdorim që nga shekulli VI p.e.s., falë gjeografëve grekë si [[Anaksimandri]] dhe [[Hekateu i Miletit|Hekateu]].
+File:A new universal atlas of the world.Asia.jpg|Hartë e Azisë e vitit 1825 nga Sidney Edwards Morse
+File:A Map of the Countries between Constantinople and Calcutta- Including Turkey in Asia, Persia, Afghanistan and Turkestan WDL11753.png|Hartë e Azisë Perëndimore, Jugore dhe Qendrore në 1885<ref>{{cite web |url=http://www.wdl.org/en/item/11753/#institution=library-of-congress&page=17 |title=A Map of the Countries between Constantinople and Calcutta: Including Turkey in Asia, Persia, Afghanistan and Turkestan |website=Wdl.org |access-date=2017-11-09 |url-status=live |archive-url=https://web.archive.org/web/20171017220525/https://web.archive.org/web/20171017220525/https://www.wdl.org/en/item/11753/#institution=library-of-congress&page=17 |archive-date=2017-10-17 |year=1885 |language=en}}</ref>
+File:Modern Asia (1796).tif|Harta e Azisë në 1796, e cila përfshinte edhe kontinentin e [[Australia (kontinent)|Australisë]] (atëherë i njohur si [[Hollanda e Re (Australi)|Hollanda e Re]])
+File:Asien Bd1.jpg|Hartë e Azisë e vitit 1890
+</gallery>
+== Gjeografia ==
+''Artikulli kryesor: {{ill|Gjeografia e Azisë|en|Geography of Asia}}''
+
+''Shih edhe: [[:Kategoria:Biota e Azisë|Biota e Azisë]]''
+[[Skeda:Himalayas.jpg|thumb|Vargu i [[Himalajet|Himalajeve]] strehon disa nga majat më të larta të planetit.]]
+Azia është kontinenti më i madh në Tokë. Ajo mbulon 9% të sipërfaqes totale të [[Toka|Tokës]] (ose 30% të sipërfaqes tokësore) dhe ka vijën bregdetare më të gjatë, rreth {{Convert|62800|km|mi|0}}. Azia përgjithësisht përkufizohet si katër të pestat lindore të [[Euroazia|Euroazisë]]. Ajo ndodhet në lindje të [[Kanali i Suezit|Kanalit të Suezit]] dhe [[Malet Urale|Maleve Urale]], si dhe në jug të [[Kaukazi|Maleve të Kaukazit]] (ose të Depresionit Kuma–Manyç) dhe të [[Liqeni Kaspik|Detit Kaspik]] e të [[Deti i Zi|Detit të Zi]].<ref name="National Geographic-1999" /><ref>{{Cite encyclopedia |title=Asia |url=https://www.britannica.com/eb/article-9110518/Asia |encyclopedia=[[Encyclopædia Britannica]] Online |year=2006 |url-status=live |archive-url=https://web.archive.org/web/20081118141016/https://www.britannica.com/eb/article-9110518/Asia |archive-date=2008-11-18 |language=en}}</ref> Ajo kufizohet në lindje nga [[Oqeani Paqësor]], në jug nga [[Oqeani Indian]] dhe në veri nga [[Oqeani Arktik]]. Azia ndahet në 49 vende; pesë prej tyre ([[Gjeorgjia]], [[Azerbajxhani]], [[Rusia]], [[Kazakistani]] dhe [[Turqia]]) janë vende transkontinentale që shtrihen pjesërisht në [[Evropa|Evropën]].
+
+Peizazhi fizik i Azisë përfshin rrafshina të gjera, pllaja, shkretëtira dhe vargje malore. {{ill|Rrafshina e Siberisë Perëndimore|en|West Siberian Plain}} zë një pjesë të madhe të [[Azia Veriore|Azisë Veriore]], ndërsa [[Pllaja Tibetiane]] është një nga pllajat më të larta dhe më të mëdha të botës. [[Himalajet]] shtrihen në pjesë të [[Pakistani|Pakistanit]], [[India|Indisë]], [[Nepali|Nepalit]], [[Butani|Butanit]] dhe [[Kina|Kinës]] dhe përfshijnë [[Mali Everest|Malin Everest]], malin më të lartë në botë mbi nivelin e detit. [[Lumi Jangce]] në [[Kina|Kinë]] është lumi më i gjatë i Azisë; lumenj të tjerë të rëndësishëm përfshijnë [[Lumi Indus|Indusin]], [[Gangu|Gangun]], {{ill|Lumi Brahmaputra|en|Brahmaputra River|lt=Brahmaputrën}}, [[Mekongu|Mekongun]], {{ill|Lumi Tigris|en|Tigris|lt=Tigrisin}} dhe [[Lumi i Eufratit|Eufratin]].<ref name=Boudreau/><ref>{{Cite web |title=Himalayas |url=https://www.britannica.com/place/Himalayas |access-date=2026-10-09 |website=Encyclopaedia Britannica |language=en}}</ref> Pyjet tropikale të shiut shtrihen në pjesën më të madhe të [[Azia Jugore|Azisë Jugore]], ndërsa pyjet halore dhe gjetherënëse ndodhen më në veri. Midis viteve 1990 dhe 2000, sipërfaqja e pyjeve parësore në Azi u zvogëlua me 1,06 milionë hektarë në vit; midis viteve 2000 dhe 2015, ajo u zvogëlua me 280.000 hektarë në vit.<ref>{{Cite book |last=FAO |url=https://openknowledge.fao.org/handle/20.500.14283/cd6709en |title=Global Forest Resources Assessment 2025 |date=2025 |publisher=FAO |isbn=978-92-5-140082-1 |language=en |doi=10.4060/cd6709en}}</ref>
+
+<gallery>
+Skeda:Tundra in Siberia.jpg|[[Tundra|Tundër]] në [[Siberia|Siberi]]
+Skeda:Rainforest cloud forming Kinabalu Sabah Borneo Kampong Kundasang 3.jpg|Pyll i shiut në [[Borneo]]
+Skeda:Kerala Backwaters, India.JPG|Kanalet e Keralës
+Skeda:Naadam rider 2.jpg|[[Stepa|Stepë]] mongole
+Skeda:1 li jiang guilin yangshuo 2011.jpg|Karsti i Kinës Jugore
+Skeda:Taman Negara, Malaysia, Panoramic view.jpg|Taman Negara, Malajzia Gadishullore
+Skeda:Akkem Valley 2011.jpg|Malet Altai
+Skeda:Hunza Valley from Eagle Point.jpg|Lugina e Hunzës
+Skeda:Baa atoll islands.JPG|Atolet e Maldiveve
+Skeda:Red sand of the Wadi Rum desert.jpg|Wadi Rum në [[Jordania|Jordaninë]]
+</gallery>
+=== Rajonet kryesore ===
+[[Skeda:Detailed_map_of_Asian_regions.png|thumb|Hartë e detajuar e rajoneve të Azisë]]
+Ka qasje të ndryshme për ndarjen rajonale të Azisë. Një skemë gjeografike e ndan kontinentin në gjashtë rajone, duke përfshirë [[Azia Veriore|Azinë Veriore]], e cila përfshin [[Siberia|Siberinë]]. Divizioni i Statistikave i Kombeve të Bashkuara (UNSD), nga ana tjetër, përdor pesë nënrajone aziatike për qëllime statistikore: [[Azia Qendrore]], [[Azia Lindore]], [[Azia Juglindore]], [[Azia Jugore]] dhe [[Azia Jugperëndimore]]. UNSD-ja nuk e njeh [[Azia Veriore|Azinë Veriore]] si nënrajon të veçantë statistikor; në vend të kësaj, e klasifikon [[Rusia|Rusinë]], për shkak se 78% e popullsisë së saj jeton në pjesën evropiane, duke përfshirë [[Siberia|Siberinë]], në [[Evropa|Evropën]] Lindore. Kombet e Bashkuara deklarojnë se grupimet e tyre rajonale janë për lehtësi statistikore dhe nuk nënkuptojnë ndonjë përkatësi politike ose tjetër.<ref>{{Cite web |title=Standard country or area codes for statistical use (M49) |url=https://unstats.un.org/unsd/methodology/m49/ |access-date=2026-10-09 |publisher=United Nations Statistics Division |language=en}}</ref>
+
+Gjashtë rajonet gjeografike janë:
+
+* [[Azia Veriore]] ([[Siberia]])
+* [[Azia Qendrore]]
+* [[Azia Jugperëndimore]] ([[Lindja e Mesme]] ose [[Lindja e Afërt]] dhe një pjesë e [[Kaukazi (rajon)|Kaukazit]])
+* [[Azia Jugore]] ([[Nënkontinenti indian]])
+* [[Azia Lindore]] ([[Lindja e Largët]])
+* [[Azia Juglindore]] (Inditë Lindore dhe Indokina)
+
+=== Klima ===
+''Artikulli kryesor: {{ill|Klima e Azisë|en|Climate of Asia}}''
+
+[[Skeda:Koppen-Geiger Map v2 Asia 1991–2020.svg|thumb|Harta e {{ill|Klasifikimi klimatik i Köppen|en|Köppen climate classification|lt=klasifikimit klimatik Köppen-Geiger}} për Azinë<ref>{{Cite journal |last1=Beck |first1=Hylke E. |last2=Zimmermann |first2=Niklaus E. |last3=McVicar |first3=Tim R. |last4=Vergopolan |first4=Noemi |last5=Berg |first5=Alexis |last6=Wood |first6=Eric F. |title=Present and future Köppen-Geiger climate classification maps at 1-km resolution |journal=Scientific Data |date=2018-10-30 |volume=5 |article-number=180214 |doi=10.1038/sdata.2018.214 |doi-access=free |pmid=30375988 |pmc=6207062 |bibcode=2018NatSD...580214B |language=en}}</ref>]]
+Azia ka karakteristika klimatike jashtëzakonisht të larmishme. Klimat variojnë nga ato [[Arktiku|arktike]] dhe subarktike në [[Siberia|Siberi]] deri në tropikale në [[India|Indinë]] jugore dhe [[Azia Juglindore|Azinë Juglindore]]. Ajo është e lagësht në pjesët juglindore dhe e thatë në pjesën më të madhe të brendësisë. Disa nga luhatjet më të mëdha të temperaturës ditore në Tokë ndodhin në pjesët perëndimore të Azisë. Qarkullimi i [[Monsunet|monsuneve]] dominon në pjesët jugore dhe lindore, për shkak se prania e [[Himalajet|Himalajeve]] detyron formimin e një depresioni termik i cili tërheq lagështinë gjatë verës. Pjesët jugperëndimore të kontinentit janë të nxehta. [[Siberia]] është një nga vendet më të ftohta të [[Hemisfera veriore|Hemisferës Veriore]] dhe mund të veprojë si burim i masave ajrore arktike për Amerikën e Veriut. Vendi më aktiv në Tokë për aktivitetin e [[Cikloni tropikal|cikloneve tropikale]] ndodhet në verilindje të [[Filipinet|Filipineve]] dhe në jug të [[Japonia|Japonisë]].
+
+==== Ndryshimet klimatike ====
+Ndryshimet klimatike ndikojnë në Azi përmes rritjes së temperaturave, ndryshimit të modeleve të reshjeve dhe shtimit të ngjarjeve ekstreme të motit. Shkrirja e akullnajave, rritja e nivelit të detit, thatësirat dhe përmbytjet kërcënojnë ekosistemet dhe komunitetet në rajon.
+
+====Ndryshimet klimatike====
+{{Clear}}
+
+== Politika ==
+{{Hatnote|Artikulli kryesor: {{ill|Politika e Azisë|en|Politics of Asia}}}}
+
+{{Hatnote|Shih edhe: {{ill|Lista e shteteve dhe territoreve sovrane në Azi|en|List of sovereign states and dependent territories in Asia}}}}
+[[File:V-Dem Electoral Democracy Index 2026 Asia.svg|alt=|thumb|Harta e Indeksit të Demokracisë Zgjedhore V-Dem për Azinë për vitin 2026; vlerat më të larta tregojnë demokraci më të madhe<ref name="j496"/>
+{{div col|colwidth=6em|content=
+{{Legend|#0c3091|0,90–1,00}}
+{{legend|#2f5cd5|0,80–0,89}}
+{{legend|#6bd2df|0,70–0,79}}
+{{legend|#c3eded|0,60–0,69}}
+{{legend|#f9f8bb|0,50–0,59}}
+{{legend|#fad45d|0,40–0,49}}
+{{legend|#da820f|0,30–0,39}}
+{{legend|#a8261f|0,20–0,29}}
+{{legend|#66000f|0,10–0,19}}
+{{legend|#240011|0,00–0,09}}
+{{legend|#c0c0c0|Nuk ka të dhëna}}
+}}|upright=1.4]]
+Vendet më {{ill|Demokracia në Azi|en|Democracy in Asia|lt=demokratike në Azi}} janë [[Japonia]], [[Tajvani]] dhe [[Koreja e Jugut]], sipas Indekseve të Demokracisë V-Dem.<ref name="j496">{{cite web | title=Democracy Report 2026, Unraveling The Democratic Era? | url=https://v-dem.net/documents/75/V-Dem_Institute_Democracy_Report_2026_lowres.pdf | access-date=2026-03-17 | publisher=V-Dem Institute | language=en}}</ref>
+
+Sistemet politike në të gjithë Azinë përfshijnë [[Republika kuvendore|republikat kuvendore]], republikat presidenciale, [[Monarkia kushtetuese|monarkitë kushtetuese]], [[Monarkia absolute|monarkitë absolute]], [[Shteti njëpartiak|shtetet njëpartiake]] dhe qeveritë e udhëhequra nga ushtria. Vendet ndryshojnë ndjeshëm për sa i përket sistemeve të tyre të qeverisjes, nivelit të konkurrencës zgjedhore dhe mbrojtjes së të drejtave politike e lirive civile.<ref>{{cite web |date=2025-03-14 |title=National Politics: Asia |url=https://www.cfr.org/education/learn/reading/national-politics-asia |access-date=2026-10-09 |publisher=Council on Foreign Relations |language=en}}</ref>
+
+Organizatat rajonale ofrojnë forume për bashkëpunim politik, ekonomik dhe të sigurisë midis vendeve aziatike. {{ill|Asociacioni i Kombeve të Azisë Juglindore|en|Association of Southeast Asian Nations}} (ASEAN) promovon bashkëpunimin politik dhe të sigurisë në [[Azia Juglindore|Azinë Juglindore]],<ref>{{cite web |title=ASEAN Political Security Community |url=https://asean.org/our-communities/asean-political-security-community |access-date=2026-10-09 |publisher=ASEAN |language=en}}</ref> ndërsa {{ill|Asociacioni i Azisë Jugore për Bashkëpunim Rajonal|en|South Asian Association for Regional Cooperation}} (SAARC) mbështet bashkëpunimin ekonomik, social dhe kulturor në [[Azia Jugore|Azinë Jugore]].<ref>{{cite web |title=About SAARC |url=https://saarc-sec.org/index.php/about-saarc/about-saarc |access-date=2026-10-09 |publisher=SAARC Secretariat |language=en}}</ref> {{ill|Organizata e Bashkëpunimit të Shangait|en|Shanghai Cooperation Organisation}} (SCO) lehtëson bashkëpunimin për çështje të sigurisë rajonale, politike dhe ekonomike në të gjithë [[Euroazia|Euroazinë]],<ref>{{cite web |date=2023-11-27 |title=Frequently Asked Questions |url=https://eng.sectsco.org/20231127/1168690.html |access-date=2026-10-09 |publisher=Shanghai Cooperation Organisation |language=en}}</ref> dhe {{ill|Këshilli i Bashkëpunimit të Gjirit|en|Gulf Cooperation Council}} (GCC) koordinon politikat dhe promovon integrimin midis gjashtë shteteve arabe të Gjirit Persik.<ref>{{cite web |title=About Us |url=https://www.gcc-sg.org/en/AboutUs/Pages/default.aspx |access-date=2026-10-09 |publisher=Gulf Cooperation Council |language=en}}</ref>{{Clear}}
+== Lista e shteteve dhe territoreve ==
+{{Hatnote|Për listën e plotë, shih {{ill|Lista e shteteve sovrane dhe territoreve të varura në Azi|en|List of sovereign states and dependent territories in Asia}}}}
+
+Të dhënat për popullsinë dhe sipërfaqen në tabelën vijuese i referohen vendeve të plota, duke përfshirë territorin jashtë Azisë në rastin e {{ill|Shteti ndërkontinental|en|Transcontinental country|lt=shteteve ndërkontinentale}}. Për shembull, të dhënat për [[Rusia|Rusinë]] përfshijnë territorin e saj evropian, ndërsa ato për [[Egjipti|Egjiptin]] përfshijnë territorin e tij kryesisht afrikan. Për rrjedhojë, të dhënat nuk mund të mblidhen për të llogaritur popullsinë ose sipërfaqen totale të Azisë.
+
+{| class="sortable wikitable"
+! style="line-height:95%; width:2em" class="unsortable" scope="col" | Stema
+! style="line-height:95%; width:2em" class="unsortable" scope="col" | [[Flamuri|Flamuri]]
+! Emri
+! Popullsia<br />(vlerësim)<ref name="un-pop-2023">{{cite web |url=https://population.un.org/wpp/ |title=World Population Prospects 2022 |publisher=United Nations |language=en}}</ref>
+! [[Lista e vendeve sipas sipërfaqes|Sipërfaqja]]<br />(km<sup>2</sup>)
+! [[Kryeqyteti|Kryeqyteti]]
+|-
+| style="text-align:center;"| [[File:Arms of the Islamic Emirate of Afghanistan.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Afghanistan}}
+| [[Afganistani]]
+| style="text-align:right;" data-sort-value="42239854" | 42.239.854
+| style="text-align:right;" data-sort-value="652864" | 652.864
+| [[Kabuli]]
+|-
+| style="text-align:center;"| [[File:Coat of arms of Armenia.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Armenia}}
+| [[Armenia]]
+| style="text-align:right;" data-sort-value="2777970" | 2.777.970
+| style="text-align:right;" data-sort-value="29743" | 29.743
+| [[Jerevani]]
+|-
+| style="text-align:center;"| [[File:Emblem of Azerbaijan.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Azerbaijan}}
+| [[Azerbajxhani]]<ref group="note">Azerbajxhani është një shtet ndërkontinental, që shtrihet në kufirin midis [[Evropa|Evropës]] dhe Azisë. Kultura e tij është e ndikuar nga zakonet [[Kultura e Evropës|evropiane]] dhe aziatike.</ref>
+| style="text-align:right;" data-sort-value="10412651" | 10.412.651
+| style="text-align:right;" data-sort-value="86600" | 86.600
+| [[Baku]]
+|-
+| style="text-align:center;"| [[File:Coat of Arms of The Kingdom of Bahrain.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Bahrain}}
+| [[Bahreini]]
+| style="text-align:right;" data-sort-value="1485509" | 1.485.509
+| style="text-align:right;" data-sort-value="760" | 760
+| [[Manama]]
+|-
+| style="text-align:center;"| [[File:National emblem of Bangladesh.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Bangladesh}}
+| [[Bangladeshi]]
+| style="text-align:right;" data-sort-value="172954319" | 172.954.319
+| style="text-align:right;" data-sort-value="147570" | 147.570
+| [[Dhaka]]
+|-
+| style="text-align:center;"| [[File:Emblem of Bhutan.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Bhutan}}
+| [[Butani]]
+| style="text-align:right;" data-sort-value="787424" | 787.424
+| style="text-align:right;" data-sort-value="38394" | 38.394
+| [[Thimphu]]
+|-
+| style="text-align:center;"| [[File:Emblem of Brunei.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Brunei}}
+| [[Brunei]]
+| style="text-align:right;" data-sort-value="452524" | 452.524
+| style="text-align:right;" data-sort-value="5765" | 5.765
+| [[Bandar Seri Begauan|Bandar Seri Begawan]]
+|-
+| style="text-align:center;"| [[File:Royal arms of Cambodia.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Cambodia}}
+| [[Kamboxhia]]
+| style="text-align:right;" data-sort-value="16944826" | 16.944.826
+| style="text-align:right;" data-sort-value="181035" | 181.035
+| [[Phnom Penh]]
+|-
+| style="text-align:center;"| [[File:中華人民共和國國徽.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|China}}
+| [[Kina]] (RPK)
+| style="text-align:right;" data-sort-value="1425671352" | 1.425.671.352
+| style="text-align:right;" data-sort-value="9596961" | 9.596.961
+| [[Pekini]]
+|-
+| style="text-align:center;"| [[File:Coat of arms of Cyprus (2006).svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Cyprus}}
+| [[Qipro]]
+| style="text-align:right;" data-sort-value="1260138" | 1.260.138
+| style="text-align:right;" data-sort-value="9251" | 9.251
+| [[Nikozia]]
+|-
+| style="text-align:center;"| [[File:Coat of arms of Egypt (Official).svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Egypt}}
+| [[Egjipti]]<ref group="note">Egjipti është një shtet ndërkontinental i vendosur kryesisht në [[Afrika|Afrikë]], me [[Gadishulli Sinai|Gadishullin Sinai]] në Azi.</ref>
+| style="text-align:right;" data-sort-value="112716598" | 112.716.598
+| style="text-align:right;" data-sort-value="1001449" | 1.001.449
+| [[Kajro]]<ref group="note">Kajroja ndodhet në [[Afrika|Afrikë]].</ref>
+|-
+| style="text-align:center;"| [[File:Greater coat of arms of Georgia.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Georgia}}
+| [[Gjeorgjia]]<ref group="note">Gjeorgjia është një shtet ndërkontinental, me një pjesë të vogël veriore në [[Evropa|Evropë]]. Megjithëse ndodhet kryesisht në Azi, Gjeorgjia anon fort drejt [[Kultura e Evropës|kulturës evropiane]] dhe ka lidhje më të ngushta me [[Organizata e Kombeve të Bashkuara|OKB-në]] dhe [[NATO|NATO-n]].</ref>
+| style="text-align:right;" data-sort-value="3728282" | 3.728.282
+| style="text-align:right;" data-sort-value="69700" | 69.700
+| [[Tbilisi]]
+|-
+| style="text-align:center;"| [[File:Emblem of India.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|India}}
+| [[India]]
+| style="text-align:right;" data-sort-value="1428627663" | 1.428.627.663
+| style="text-align:right;" data-sort-value="3287263" | 3.287.263
+| [[Nju Delhi]]
+|-
+| style="text-align:center;"| [[File:National emblem of Indonesia Garuda Pancasila.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Indonesia}}
+| [[Indonezia]]<ref group="note">Indonezia është një shtet ndërkontinental, me ishullin e {{ill|Guinea e Re|en|New Guinea|lt=Guinesë së Re}} në [[Melanezia|Melanezi]], një rajon i [[Oqeania|Oqeanisë]]. Pjesa lindore e Guinesë së Re ndahet me [[Papua Guinea e Re|Papuan Guinenë e Re]].</ref>
+| style="text-align:right;" data-sort-value="277534122" | 277.534.122
+| style="text-align:right;" data-sort-value="1904569" | 1.904.569
+| [[Xhakarta]]
+|-
+| style="text-align:center;"| [[File:Emblem of Iran.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Iran}}
+| [[Irani]]
+| style="text-align:right;" data-sort-value="89172767" | 89.172.767
+| style="text-align:right;" data-sort-value="1648195" | 1.648.195
+| [[Teherani]]
+|-
+| style="text-align:center;"| [[File:Coat of arms of Iraq.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Iraq}}
+| [[Iraku]]
+| style="text-align:right;" data-sort-value="45504560" | 45.504.560
+| style="text-align:right;" data-sort-value="438317" | 438.317
+| [[Bagdadi]]
+|-
+| style="text-align:center;"| [[File:Emblem of Israel.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Israel}}
+| [[Izraeli]]
+| style="text-align:right;" data-sort-value="9174520" | 9.174.520
+| style="text-align:right;" data-sort-value="20770" | 20.770
+| [[Jeruzalemi]] ({{ill|Statusi i Jeruzalemit|en|Status of Jerusalem|lt=me njohje të kufizuar}})
+|-
+| style="text-align:center;"| [[File:Imperial Seal of Japan.svg|20px|alt=Vula]]
+| style="text-align:center;"| {{Flagicon|Japan}}
+| [[Japonia]]
+| style="text-align:right;" data-sort-value="123294513" | 123.294.513
+| style="text-align:right;" data-sort-value="377915" | 377.915
+| [[Tokio]]
+|-
+| style="text-align:center;"| [[File:Coat of arms of Jordan.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Jordan}}
+| [[Jordania]]
+| style="text-align:right;" data-sort-value="11337052" | 11.337.052
+| style="text-align:right;" data-sort-value="89342" | 89.342
+| [[Amani]]
+|-
+| style="text-align:center;"| [[File:Emblem of Kazakhstan.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Kazakhstan}}
+| [[Kazakistani]]<ref group="note">Kazakistani është një shtet ndërkontinental, me rreth 15% të territorit në [[Evropa|Evropë]].</ref>
+| style="text-align:right;" data-sort-value="19606633" | 19.606.633
+| style="text-align:right;" data-sort-value="2724900" | 2.724.900
+| [[Astanaja]]
+|-
+| style="text-align:center;"| [[File:Emblem of the State of Kuwait.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Kuwait}}
+| [[Kuvajti]]
+| style="text-align:right;" data-sort-value="4310108" | 4.310.108
+| style="text-align:right;" data-sort-value="17818" | 17.818
+| [[Kuvajti (qytet)]]
+|-
+| style="text-align:center;"| [[File:Emblem of Kyrgyzstan.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Kyrgyzstan}}
+| [[Kirgistani]]
+| style="text-align:right;" data-sort-value="6735347" | 6.735.347
+| style="text-align:right;" data-sort-value="199951" | 199.951
+| [[Bishkeku]]
+|-
+| style="text-align:center;"| [[File:Emblem of Laos (1991-2025).svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Laos}}
+| [[Laosi]]
+| style="text-align:right;" data-sort-value="7633779" | 7.633.779
+| style="text-align:right;" data-sort-value="236800" | 236.800
+| [[Vientiane]]
+|-
+| style="text-align:center;" | <!-- Nga en.wiki: Kushtetuta e Libanit nuk përcakton një stemë zyrtare -->
+| style="text-align:center;"| {{Flagicon|Lebanon}}
+| [[Libani]]
+| style="text-align:right;" data-sort-value="5353930" | 5.353.930
+| style="text-align:right;" data-sort-value="10400" | 10.400
+| [[Bejruti]]
+|-
+| style="text-align:center;"| [[File:Coat of arms of Malaysia.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Malaysia}}
+| [[Malajzia]]
+| style="text-align:right;" data-sort-value="34308525" | 34.308.525
+| style="text-align:right;" data-sort-value="329847" | 329.847
+| [[Kuala Lumpur]]
+|-
+| style="text-align:center;"| [[File:Emblem of Maldives.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Maldives}}
+| [[Maldivet]]
+| style="text-align:right;" data-sort-value="521021" | 521.021
+| style="text-align:right;" data-sort-value="298" | 298
+| [[Malé]]
+|-
+| style="text-align:center;"| [[File:State emblem of Mongolia.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Mongolia}}
+| [[Mongolia]]
+| style="text-align:right;" data-sort-value="3447157" | 3.447.157
+| style="text-align:right;" data-sort-value="1564116" | 1.564.116
+| [[Ulan Batori]]
+|-
+| style="text-align:center;"| [[File:State Seal of the Republic of the Union of Myanmar.svg|20px|alt=Vula]]
+| style="text-align:center;"| {{Flagicon|Myanmar}}
+| [[Mianmari]]
+| style="text-align:right;" data-sort-value="54577997" | 54.577.997
+| style="text-align:right;" data-sort-value="676578" | 676.578
+| [[Nepxhidou]]
+|-
+| style="text-align:center;"| [[File:Emblem of Nepal (alternative).svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Nepal}}
+| [[Nepali]]
+| style="text-align:right;" data-sort-value="30896590" | 30.896.590
+| style="text-align:right;" data-sort-value="147181" | 147.181
+| [[Kathmandu]]
+|-
+| style="text-align:center;"| [[File:Emblem of North Korea.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|North Korea}}
+| [[Koreja e Veriut]]
+| style="text-align:right;" data-sort-value="26160821" | 26.160.821
+| style="text-align:right;" data-sort-value="120538" | 120.538
+| [[Pjonjangu]]
+|-
+| style="text-align:center;"| [[File:National emblem of Oman.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Oman}}
+| [[Omani]]
+| style="text-align:right;" data-sort-value="4644384" | 4.644.384
+| style="text-align:right;" data-sort-value="309500" | 309.500
+| [[Maskat]]
+|-
+| style="text-align:center;"| [[File:State emblem of Pakistan.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Pakistan}}
+| [[Pakistani]]
+| style="text-align:right;" data-sort-value="211103000" | 211.103.000
+| style="text-align:right;" data-sort-value="881913" | 881.913
+| [[Islamabadi]]
+|-
+| style="text-align:center;"| [[File:Coat of arms of the Philippines.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Philippines}}
+| [[Filipinet]]
+| style="text-align:right;" data-sort-value="117337368" | 117.337.368
+| style="text-align:right;" data-sort-value="343448" | 343.448
+| [[Manila]]
+|-
+| style="text-align:center;"| [[File:Emblem of Qatar-2022.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Qatar}}
+| [[Katari]]
+| style="text-align:right;" data-sort-value="2716391" | 2.716.391
+| style="text-align:right;" data-sort-value="11586" | 11.586
+| [[Doha]]
+|-
+| style="text-align:center;"| [[File:Coat of Arms of the Russian Federation.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Russia}}
+| [[Rusia]]<ref group="note">Rusia është një shtet ndërkontinental i vendosur në [[Evropa Lindore|Evropën Lindore]] dhe [[Azia Veriore|Azinë Veriore]], por konsiderohet evropiane historikisht, kulturorisht, etnikisht dhe politikisht, dhe shumica dërrmuese e popullsisë së saj (78%) jeton në pjesën evropiane.</ref>
+| style="text-align:right;" data-sort-value="144444359" | 144.444.359
+| style="text-align:right;" data-sort-value="17098242" | 17.098.242
+| [[Moska]]<ref group="note">Moska ndodhet në [[Evropa|Evropë]].</ref>
+|-
+| style="text-align:center;"| [[File:Emblem of Saudi Arabia.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Saudi Arabia}}
+| [[Arabia Saudite]]
+| style="text-align:right;" data-sort-value="36947025" | 36.947.025
+| style="text-align:right;" data-sort-value="2149690" | 2.149.690
+| [[Riadi]]
+|-
+| style="text-align:center;"| [[File:Coat of arms of Singapore.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Singapore}}
+| [[Singapori]]
+| style="text-align:right;" data-sort-value="6014723" | 6.014.723
+| style="text-align:right;" data-sort-value="697" | 697
+| [[Singapori]]
+|-
+| style="text-align:center;"| [[File:Emblem of South Korea.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|South Korea}}
+| [[Koreja e Jugut]]
+| style="text-align:right;" data-sort-value="51784059" | 51.784.059
+| style="text-align:right;" data-sort-value="100210" | 100.210
+| [[Seuli]]
+|-
+| style="text-align:center;"| [[File:Emblem of Sri Lanka.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Sri Lanka}}
+| [[Sri Lanka]]
+| style="text-align:right;" data-sort-value="21893579" | 21.893.579
+| style="text-align:right;" data-sort-value="65610" | 65.610
+| {{ill|Sri Jayawardenepura Kotte|en}}
+|-
+| style="text-align:center;"| [[File:Emblem of Syria (2025–present).svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Syria}}
+| [[Siria]]
+| style="text-align:right;" data-sort-value="23227014" | 23.227.014
+| style="text-align:right;" data-sort-value="185180" | 185.180
+| [[Damasku]]
+|-
+| style="text-align:center;"| [[File:Emblem of Tajikistan.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Tajikistan}}
+| [[Taxhikistani]]
+| style="text-align:right;" data-sort-value="10143543" | 10.143.543
+| style="text-align:right;" data-sort-value="143100" | 143.100
+| [[Dushanbe]]
+|-
+| style="text-align:center;"| [[File:Emblem of Thailand.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Thailand}}
+| [[Tajlanda]]
+| style="text-align:right;" data-sort-value="71801279" | 71.801.279
+| style="text-align:right;" data-sort-value="513120" | 513.120
+| [[Bangkoku]]
+|-
+| style="text-align:center;"| [[File:Coat of arms of East Timor.svg|20px|alt=Stema]]
+| style="text-align:center;"| [[File:Flag of Timor-Leste.svg|23x15px|border|alt=Flamuri]]
+| [[Timori Lindor]]
+| style="text-align:right;" data-sort-value="1360596" | 1.360.596
+| style="text-align:right;" data-sort-value="14874" | 14.874
+| [[Dili]]
+|-
+| style="text-align:center;" | <!-- Nga en.wiki: Kushtetuta e Turqisë nuk përcakton një stemë zyrtare -->
+| style="text-align:center;"| {{Flagicon|Turkey}}
+| [[Turqia]]<ref group="note">Turqia është një shtet ndërkontinental i vendosur kryesisht në [[Azia Jugperëndimore|Azinë Jugperëndimore]], me një pjesë më të vogël në [[Evropa Juglindore|Evropën Juglindore]].</ref>
+| style="text-align:right;" data-sort-value="85816199" | 85.816.199
+| style="text-align:right;" data-sort-value="783562" | 783.562
+| [[Ankaraja]]
+|-
+| style="text-align:center;"| [[File:Emblem of Turkmenistan.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Turkmenistan}}
+| [[Turkmenistani]]
+| style="text-align:right;" data-sort-value="6516100" | 6.516.100
+| style="text-align:right;" data-sort-value="488100" | 488.100
+| [[Aschgabat]]
+|-
+| style="text-align:center;"| [[File:Emblem of the United Arab Emirates.svg|28x28px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|United Arab Emirates}}
+| [[Emiratet e Bashkuara Arabe]]
+| style="text-align:right;" data-sort-value="9516871" | 9.516.871
+| style="text-align:right;" data-sort-value="83600" | 83.600
+| [[Abu Dabi]]
+|-
+| style="text-align:center;"| [[File:Emblem of Uzbekistan.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Uzbekistan}}
+| [[Uzbekistani]]
+| style="text-align:right;" data-sort-value="35163944" | 35.163.944
+| style="text-align:right;" data-sort-value="447400" | 447.400
+| [[Tashkenti]]
+|-
+| style="text-align:center;"| [[File:Emblem of Vietnam.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Vietnam}}
+| [[Vietnami]]
+| style="text-align:right;" data-sort-value="98858950" | 98.858.950
+| style="text-align:right;" data-sort-value="331212" | 331.212
+| [[Hanoi]]
+|-
+| style="text-align:center;"| [[File:Emblem of Yemen (2).svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Yemen}}
+| [[Jemeni]]<ref group="note">Jemeni është një shtet ndërkontinental. Ndërsa territori kontinental është gjeografikisht pjesë e Azisë, ishujt e Arkipelagut Sokotra ndodhen gjeografikisht në [[Afrika|Afrikë]].</ref>
+| style="text-align:right;" data-sort-value="34449825" | 34.449.825
+| style="text-align:right;" data-sort-value="527968" | 527.968
+| {{Unbulleted list|[[Sana]] (kryeqytet kushtetues; nën kontrollin e Këshillit Suprem Politik)|{{ill|Adeni|en|Aden}} (kryeqytet provizor i Këshillit të Udhëheqjes Presidenciale)}}
+|}
+
+Në mesin e shteteve të përmendura më sipër ndodhen disa vende pjesërisht të njohura, me njohje ndërkombëtare të kufizuar ose aspak. Asnjë prej tyre nuk është anëtar i [[Organizata e Kombeve të Bashkuara|OKB-së]]; megjithatë, [[Shteti i Palestinës|Palestina]] ka statusin e shtetit vëzhgues:
+
+{| class="sortable wikitable"
+! style="line-height:95%; width:2em" class="unsortable" | [[Simboli kombëtar|Simboli]]
+! style="line-height:95%; width:2em" class="unsortable" | [[Flamuri|Flamuri]]
+! Emri
+! Popullsia<br />
+! [[Lista e vendeve sipas sipërfaqes|Sipërfaqja]]<br />(km<sup>2</sup>)
+! [[Kryeqyteti|Kryeqyteti]]
+|-
+| style="text-align:center;"| [[File:Coat of arms of Abkhazia.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Abkhazia}}
+| [[Abkazia]]
+| style="text-align:right;" data-sort-value="242862" | 242.862
+| style="text-align:right;" data-sort-value="8660" | 8.660
+| {{ill|Suhumi|en|Sukhumi}}
+|-
+| style="text-align:center;"| [[File:Coat of arms of the Turkish Republic of Northern Cyprus.svg|20px|alt=Stema]]
+| style="text-align:center;"| [[File:Flag of the Turkish Republic of Northern Cyprus.svg|23x15px|border|alt=Flamuri]]
+| [[Qiproja Veriore]]
+| style="text-align:right;" data-sort-value="326000" | 326.000
+| style="text-align:right;" data-sort-value="3355" | 3.355
+| [[Nikozia e Veriut]]
+|-
+| style="text-align:center;"| [[File:Emblem of Palestine.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Palestine}}
+| [[Shteti i Palestinës|Palestina]]
+| style="text-align:right;" data-sort-value="5371230" | 5.371.230
+| style="text-align:right;" data-sort-value="6025" | 6.025
+| [[Jeruzalemi]] ({{ill|Statusi i Jeruzalemit|en|Status of Jerusalem|lt=me njohje të kufizuar}})
+|-
+| style="text-align:center;"| [[File:Coat of arms of South Ossetia.svg|20px|alt=Stema]]
+| style="text-align:center;"| [[File:Flag of South Ossetia.svg|23x15px|border|alt=Flamuri]]
+| [[Osetia e Jugut]]
+| style="text-align:right;" data-sort-value="51547" | 51.547
+| style="text-align:right;" data-sort-value="3900" | 3.900
+| [[Chinvali]]
+|-
+| style="text-align:center;"| [[File:National Emblem of the Republic of China.svg|20px|alt=Stema]]
+| style="text-align:center;"| {{Flagicon|Taiwan}}
+| [[Tajvani]] (RK)
+| style="text-align:right;" data-sort-value="23923276" | 23.923.276
+| style="text-align:right;" data-sort-value="36193" | 36.193
+| [[Taipei]]
+|}
+{{Clear}}
+== Ekonomia ==
+{{Hatnote|Artikujt kryesorë: {{ill|Ekonomia e Azisë|en|Economy of Asia}}, {{ill|Lista e vendeve aziatike sipas PBB-së|en|List of Asian countries by GDP}}, {{ill|Lista e vendeve të Azisë dhe Paqësorit sipas PBB-së nominale|en|List of countries in Asia-Pacific by GDP (nominal)}}, {{ill|Lista e vendeve të Azisë dhe Paqësorit sipas BFB-së|en|List of Asian and Pacific countries by GDP (PPP)}}}}
+
+[[Skeda:1 Singapore city skyline 2010 day panorama.jpg|thumb|upright=1.2|Singapori ka një nga portet konteinerike më të ngarkuara në botë dhe është qendra e katërt më e madhe në botë e tregtimit të valutës së huaj.]]
+Azia është njëkohësisht ekonomia më e madhe kontinentale në botë, si sipas [[Lista e vendeve sipas PBB|PBB-së nominale]] ashtu edhe sipas vlerave të [[Barazia e Fuqisë Blerëse|barazisë së fuqisë blerëse]], dhe rajoni ekonomik me rritjen më të shpejtë në botë.<ref name="International Monetary Fund">{{Cite web|title=World Economic Outlook Database April 2026|url=https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.RES:WEO(9.0.0)|access-date=2026-04-15|website=www.imf.org|language=en}}</ref> Që nga viti 2026, [[Kina]] është deri tani [[ekonomia më e madhe]] në kontinent. Ekonomitë e tjera të mëdha aziatike përfshijnë [[India|Indinë]], [[Japonia|Japoninë]], [[Indonezia|Indonezinë]], [[Koreja e Jugut|Korejën e Jugut]], [[Turqia|Turqinë]], [[Arabia Saudite|Arabinë Saudite]] dhe [[Tajvani|Tajvanin]].<ref>{{Cite web |date=April 2026 |title=World Economic Outlook (WEO) |url=https://data.imf.org/Datasets/WEO |access-date=2026-10-09 |publisher=International Monetary Fund |language=en}}</ref>
+
+Në fund të viteve 1990 dhe në fillim të viteve 2000, [[Ekonomia e Kinës|ekonomia e Kinës]]<ref>{{Citation |ssrn=916768 |title=Five Years of China WTO Membership: EU and US Perspectives About China's Compliance With Transparency Commitments and the Transitional Review Mechanism |date=2006-08-04 |last1=Farah |first1=Paolo Davide |language=en}}</ref> kishte një normë mesatare rritjeje vjetore prej më shumë se 8%. Sipas historianit ekonomik Angus Maddison, [[India]] kishte ekonominë më të madhe në botë për pjesën më të madhe të tre mijëvjeçarëve të fundit para shekullit XIX, duke përfaqësuar 25% të prodhimit industrial botëror.<ref>{{Cite book |url=https://books.google.com/books?id=a-JGGp2suQUC&q=angus+maddison |title=Contours of the World Economy 1-2030 AD: Essays in Macro-Economic History |isbn=978-0-19-164758-1 |last1=Maddison |first1=Angus |date=2007-09-20 |publisher=Oxford University Press |access-date=2021-05-30 |archive-date=2020-09-24 |archive-url=https://web.archive.org/web/20200924191955/https://books.google.com/books?id=a-JGGp2suQUC&dq=angus+maddison&hl=en |url-status=live |language=en}}</ref><ref>{{Cite book |url=https://books.google.com/books?id=rHJGz3HiJbcC&pg=PA261 |title=Development Centre Studies the World Economy Historical Statistics: Historical Statistics |isbn=978-9264104143 |last1=Maddison |first1=Angus |date=2003 |publisher=OECD |access-date=2021-05-30 |archive-date=2021-04-14 |archive-url=https://web.archive.org/web/20210414054608/https://books.google.com/books?id=rHJGz3HiJbcC&pg=PA261 |url-status=live |language=en}}</ref><ref>{{Cite book |url=https://archive.org/details/economicsworldhi00bair_0 |isbn=978-0-226-03463-8 |title=Economics and world history: Myths and paradoxes |year=1995 |last1=Bairoch |first1=Paul |publisher=University of Chicago Press |language=en}}</ref><ref>{{Cite book |last1=Maddison |first1=Angus |url=http://www.theworldeconomy.org/MaddisonTables/MaddisontableB-18.pdf |title=The World Economy |chapter=Table B–18. World GDP, 20 Countries and Regional Totals, 0–1998 A.D. |series=Development Centre Studies |date=2006-09-17 |doi=10.1787/9789264022621-en |isbn=978-92-64-02261-4 |access-date=2021-09-20 |archive-date=2013-07-22 |archive-url=https://web.archive.org/web/20130722202625/http://www.theworldeconomy.org/MaddisonTables/MaddisontableB-18.pdf |url-status=live |language=en}}</ref> Kina ishte ekonomia më e madhe dhe më e avancuar në Tokë për pjesën më të madhe të historisë së regjistruar dhe e ndante këtë kurorë me Indinë.<ref>{{Cite web |last=Nalapat |first=M. D. |date=2001-09-11 |title=Ensuring China's "Peaceful Rise" |url=http://www.bharat-rakshak.com/SRR/Volume14/nalapat.html |url-status=dead |archive-url=https://web.archive.org/web/20100110045822/http://www.bharat-rakshak.com/SRR/Volume14/nalapat.html |archive-date=2010-01-10 |access-date=2010-06-01 |publisher=Bharat-rakshak.com |language=en}}</ref><ref name="Eric.ed.gov-2000">{{Cite book |url=http://www.eric.ed.gov/ERICWebPortal/custom/portlets/recordDetails/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=ED460052&ERICExtSearch_SearchType_0=no&accno=ED460052 |title=China and the Knowledge Economy: Seizing the 21st Century |publisher=World Bank Publications |access-date=2010-06-01 |url-status=live |archive-url=https://web.archive.org/web/20080304235359/http://www.eric.ed.gov/ERICWebPortal/custom/portlets/recordDetails/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=ED460052&ERICExtSearch_SearchType_0=no&accno=ED460052 |archive-date=2008-03-04 |isbn=978-0-8213-5005-8 |last1=Dahlman |first1=Carl J. |last2=Aubert |first2=Jean-Eric |date=2000 |language=en}}</ref><ref>{{Cite magazine |url=http://www.economist.com/surveys/displaystory.cfm?story_id=E1_PNTJQTR |title=The Real Great Leap Forward |magazine=The Economist |date=2004-09-30 |access-date=2010-06-01 |url-status=live |archive-url=https://web.archive.org/web/20161227234147/http://www.economist.com/surveys/displaystory.cfm?story_id=E1_PNTJQTR |archive-date=2016-12-27 |language=en}}</ref>
+Për disa dekada në fund të shekullit të njëzetë, Japonia ishte ekonomia më e madhe në Azi dhe e dyta në botë, pasi kishte tejkaluar [[Bashkimi Sovjetik|Bashkimin Sovjetik]] (matur sipas produktit material neto) në vitin 1990 dhe Gjermaninë në vitin 1968. Kjo përfundoi në vitin 2010, kur Kina e tejkaloi Japoninë dhe u bë ekonomia e dytë më e madhe në botë. Në vitin 2025, India e tejkaloi Japoninë për nga [[Lista e vendeve sipas PBB|PBB-ja nominale]], duke u bërë ekonomia e katërt më e madhe në botë dhe e dyta më e madhe në Azi.
+
+Në fund të viteve 1980 dhe në fillim të viteve 1990, PBB-ja e Japonisë sipas kurseve të këmbimit valutor ishte pothuajse po aq e madhe sa ajo e pjesës tjetër të Azisë së bashku.<ref name="International Monetary Fund" /> Në vitin 1995, ekonomia e Japonisë pothuajse barazoi atë të Shteteve të Bashkuara si ekonomia më e madhe në botë për një ditë, pasi monedha japoneze arriti një nivel rekord prej 79 jenësh për dollar amerikan. Rritja ekonomike në Azi nga [[Lufta e Dytë Botërore]] deri në vitet 1990 ishte përqendruar në Japoni, si dhe në Korenë e Jugut, Tajvan, Hong Kong dhe Singapor, të njohura si [[Katër Tigrat Aziatikë]], të cilat tani konsiderohen të gjitha ekonomi të zhvilluara, me disa nga PBB-të për kokë banori më të larta në Azi.<ref name="International Monetary Fund" /><ref>{{cite web |url=http://www.emergingdragon.com/ |title=Rise of Japan and 4 Asian Tigers from |publisher=emergingdragon.com |access-date=2010-06-01 |archive-url=https://web.archive.org/web/20100422013118/http://www.emergingdragon.com/ |archive-date=2010-04-22 |url-status=dead |language=en}}</ref>
+
+[[File:Mumbai skyline BWSL.jpg|alt=|thumb|[[Mumbaj]] është një nga qytetet më të populluara në Azi, si dhe një qendër ekonomike dhe turistike.]]
+Azia është kontinenti më i madh në botë me një diferencë të konsiderueshme dhe është i pasur me burime natyrore, si [[Nafta e papërpunuar|nafta]], [[Pylli|pyjet]], [[Peshku|peshku]], [[Uji|uji]], [[Orizi|orizi]], [[Bakri|bakri]] dhe [[Argjendi|argjendi]]. Prodhimi industrial në Azi tradicionalisht ka qenë më i fortë në Azinë Lindore dhe Juglindore, veçanërisht në Kinë, Tajvan, Korenë e Jugut, Japoni, Indi, Filipine dhe Singapor. Japonia dhe Koreja e Jugut vazhdojnë të dominojnë në fushën e [[Korporata shumëkombëshe|korporatave shumëkombëshe]], megjithëse Kina dhe India po depërtojnë gjithnjë e më shumë. Shumë kompani nga Evropa, Amerika e Veriut, Koreja e Jugut dhe Japonia kanë operacione në vendet në zhvillim të Azisë për të përfituar nga oferta e bollshme e punës së lirë dhe infrastruktura relativisht e zhvilluar.<ref>{{Cite news |last=Fairless |first=Tom |title=Rich Countries Are Becoming Addicted to Cheap Labor |url=https://www.wsj.com/economy/business-immigrant-low-skilled-labor-addiction-bf009a83 |access-date=2024-06-04 |work=The Wall Street Journal |language=en}}</ref><ref>{{Cite news |title=Global firms are eyeing Asian alternatives to Chinese manufacturing |url=https://www.economist.com/business/2023/02/20/global-firms-are-eyeing-asian-alternatives-to-chinese-manufacturing |access-date=2024-06-04 |magazine=The Economist |language=en}}</ref>
+
+Qendrat e thirrjeve dhe firmat e {{ill|Externalizimi i proceseve të biznesit|en|Business process outsourcing}} (BPO) po bëhen punëdhënës të rëndësishëm në Indi dhe në Filipine, falë disponueshmërisë së një grupi të madh punëtorësh shumë të kualifikuar që flasin anglisht. Për shkak të industrisë së saj të madhe dhe jashtëzakonisht konkurruese të teknologjisë së informacionit, India është kthyer në një qendër të rëndësishme për outsourcing-un.<ref>{{Cite news |date=2021-10-28 |title=India growing as offshore outsourcing hub even for non-IT roles: Randstad India |url=https://www.businesstoday.in/latest/corporate/story/india-growing-as-offshore-outsourcing-hub-even-for-non-it-roles-randstad-india-310773-2021-10-28 |access-date=2024-06-04 |work=Business Today |language=en}}</ref>
+
+Tregtia midis vendeve të Azisë dhe vendeve të kontinenteve të tjera kryhet kryesisht përmes rrugëve detare. Rruga kryesore të çon nga bregdeti kinez në jug përmes Hanoit drejt [[Xhakarta|Xhakartës]], Singaporit dhe Kuala Lumpurs, përmes {{ill|Ngushtica e Malakës|en|Strait of Malacca}} dhe përmes [[Kolombo|Kolombos]] drejt majës jugore të Indisë, pastaj përmes Malés drejt [[Mombasa|Mombasës]] në Afrikën Lindore (shih edhe Indo-Paqësorin), prej andej drejt [[Xhibuti|Xhibutit]], pastaj përmes Detit të Kuq dhe [[Kanali i Suezit|Kanalit të Suezit]] në Detin Mesdhe (shih edhe: Indo-Mesdheun), pastaj përmes Haifës, [[Stambolli|Stambollit]] dhe [[Athina|Athinës]] drejt qendrës veriore italiane të [[Triestia|Triestes]], me lidhjet e saj hekurudhore drejt Evropës Qendrore dhe Lindore, ose më tej drejt [[Barcelona|Barcelonës]] dhe përreth Spanjës e Francës drejt porteve të Evropës Veriore. Një pjesë shumë më e vogël e trafikut të mallrave kalon përmes Afrikës së Jugut drejt Evropës. Një pjesë veçanërisht e rëndësishme e trafikut të mallrave aziatike kryhet në [[Buzë Paqësorit]], drejt [[Los Anxheles]]it dhe Long Beach. Shkrirja e Arktikut po hap gjithashtu rrugën për rrugë të reja detare nga Azia Verilindore drejt Evropës dhe Amerikës së Veriut.<ref>{{Cite news |date=2024-09-19 |title=Melting Arctic ice could transform international shipping routes, study finds |url=https://www.brown.edu/news/2022-06-22/arctic |access-date=2024-11-20 |work=Brown University |language=en}}</ref> Rruga tokësore drejt Evropës është gjithashtu objekt i projekteve ndërtimore, krahasimisht më të vogla në shkallë. Tregtia brenda Azisë, përfshirë atë detare, po rritet me shpejtësi.<ref>{{cite web |url=https://www.futurenautics.com/wp-content/uploads/2013/10/GlobalMarineTrends2030Report.pdf |title=Global Marine Trends 2030 Report |access-date=2021-01-26 |archive-date=2021-04-12 |archive-url=https://web.archive.org/web/20210412162434/https://www.futurenautics.com/wp-content/uploads/2013/10/GlobalMarineTrends2030Report.pdf |url-status=dead |language=en}}</ref><ref>Harry G. Broadman. "Afrika's Silk Road" (2007), pp. 59.</ref><ref>Harry de Wilt. Is One Belt, One Road a China crisis for North Sea main ports? in World Cargo News, 17 December 2019.</ref><ref>Bernhard Simon: Can The New Silk Road Compete With The Maritime Silk Road? in The Maritime Executive, 1 January 2020.</ref><ref>Jean-Marc F. Blanchard, "China's Maritime Silk Road Initiative and South Asia" (2018).</ref><ref>{{cite web |url=https://www.joc.com/maritime-news/trade-lanes/intra-asia |title=INTRA-ASIA |access-date=2021-01-26 |archive-date=2021-01-26 |archive-url=https://web.archive.org/web/20210126022043/https://www.joc.com/maritime-news/trade-lanes/intra-asia |url-status=live |language=en}}</ref><div style="clear:both;"></div>
+=== Energjia ===
+Kërkesa për energji elektrike në Azi është katërfishuar që nga viti 2000 (duke u rritur nga 4.199 TWh në mbi 16.000 TWh në vitin 2024). Kjo rritje, e drejtuar kryesisht nga Kina dhe gjithnjë e më shumë nga India, Indonezia dhe Vietnami,<ref name=":02">{{Cite web |title=Global Electricity Review 2025|url=https://ember-energy.org/latest-insights/global-electricity-review-2025|access-date=2026-03-18|website=Ember|language=en}}</ref> e bën Azinë rajonin me rritjen më të shpejtë të kërkesës për energji elektrike në botë, rreth 5% në vit.<ref name=":1">{{Cite web |title=Asia|url=https://ember-energy.org/countries-and-regions/asia|access-date=2026-03-18|website=Ember|language=en}}</ref> Rajoni tani përbën rreth 36% të {{ill|Konsumi primar i energjisë|en|World energy supply and consumption|lt=konsumit primar të energjisë}} në botë, një pjesë që parashikohet të arrijë në rreth 50% deri në vitin 2050.<ref name="AR6_WGII_Chapter10">{{cite book |author1=Paneli Ndërqeveritar për Ndryshimin e Klimës|title=Climate Change 2022 – Impacts, Adaptation and Vulnerability|date=2023|isbn=978-1-009-32584-4|pages=1457–1580|chapter=Asia|doi=10.1017/9781009325844.012|chapter-url=https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_Chapter10.pdf|doi-access=free|language=en}}</ref>{{Rp|1468}} [[Lënda djegëse fosile|Lëndët djegëse fosile]] mbeten qendrore në Azi: 66% e energjisë së saj prodhohet nga lëndët djegëse fosile, dhe Azia përbën 83% të prodhimit botëror të energjisë nga qymyri.<ref name=":1"/> Megjithatë, qymyri po hiqet gradualisht dhe [[Gazi natyror|gazi natyror]] po zëvendëson naftën dhe produktet e naftës në sektorë të ndryshëm, të mbështetur nga politika dhe rregullore. Kërkesa për gaz natyror në ekonomitë në zhvillim dhe tregjet në zhvillim të Azisë u rrit me rreth 6% në vitin 2024, duke përbërë pothuajse 40% të rritjes së kërkesës globale për gaz.<ref name=":3">{{Cite web |last=IEA|title=Natural gas: Global Energy Review 2025|url=https://www.iea.org/reports/global-energy-review-2025/natural-gas|access-date=2026-03-31|website=IEA|language=en}}</ref> Deri në vitin 2040, parashikohet që Azia të përbëjë pjesën më të madhe të përdorimit botëror të qymyrit dhe më shumë se një të katërtën e konsumit të gazit natyror.<ref name="AR6_WGII_Chapter10" />{{Rp|1468}}
+
+Në të njëjtën kohë, Azia është lidere botërore në zgjerimin e [[Energjia e ripërtëritshme|energjisë së ripërtëritshme]]. Aktualisht është rajoni i vetëm që është në rrugën e duhur për të arritur synimin e trefishimit të kapacitetit të ripërtëritshëm deri në vitin 2030, kryesisht falë Kinës, vendit lider në prodhimin e energjisë së ripërtëritshme.<ref>{{Cite web |last=Climate Analytics|date=2024-02-13|title=Tripling renewables by 2030: interpreting the global goal at the regional level|url=https://climateanalytics.org/publications/tripling-renewables-by-2030-interpreting-the-global-goal-at-the-regional-level|access-date=2026-04-02|website=Climate Analytics|language=en}}</ref><ref>{{Cite web |last=IEA|title=COP28 Tripling Renewable Capacity Pledge|url=https://www.iea.org/reports/cop28-tripling-renewable-capacity-pledge/executive-summary|access-date=2026-04-02|website=IEA|language=en}}</ref><ref>{{Cite web |title=Yearly Electricity Data |url=https://ember-energy.org/data/yearly-electricity-data |access-date=2026-04-02 |website=Ember |language=en}}</ref> Kapaciteti i erës dhe diellit i Kinës është rritur me shpejtësi në vitet e fundit, duke kapërcyer së bashku atë të qymyrit,<ref name=":4">{{Cite book |last=Ember|url=https://ember-energy.org/app/uploads/2025/09/China-Energy-Transition-Review-2025.pdf|title=China Energy Transition 2025|date=2025-09-09|publisher=Ember|language=en}}</ref> ndërsa në vitin 2024 India u bë prodhuesi i tretë më i madh në botë i energjisë elektrike nga era dhe dielli.<ref name=":5">{{Cite web |last=Ember|title=India|url=https://ember-energy.org/countries-and-regions/india|access-date=2026-03-31|website=Ember|language=en}}</ref> Pothuajse gjysma e kapacitetit të ri botëror të energjisë së ripërtëritshme ndërtohet në Azi.<ref name="AR6_WGII_Chapter10" />{{Rp|1470}}
+
+=== Turizmi ===
+[[File:วัดพระศรีรัตนศาสดาราม-5.jpg|thumb|alt=Kompleks tempulli tajlandez me disa ndërtesa të zbukuruara dhe shumë vizitorë|{{ill|Wat Phra Kaew|en}} në {{ill|Grand Palace|en}} është ndër atraksionet kryesore turistike të [[Bangkoku|Bangkokut]].]]
+Turizmi në Azi përfshin udhëtimet drejt vendeve kulturore dhe fetare, qyteteve të mëdha, destinacioneve bregdetare dhe peizazheve natyrore. Turizmi i brendshëm gjithashtu kontribuon në ekonomitë e shumë vendeve aziatike, krahas udhëtimeve ndërkombëtare.<ref>{{cite web |title=Domestic Tourism in Asia and the Pacific |url=https://www.unwto.org/archive/asia/publication/domestic-tourism-asia-and-pacific |access-date=2026-10-09 |publisher=World Tourism Organization |language=en}}</ref>
+
+Sipas [[Organizata Botërore e Turizmit|Organizatës Botërore të Turizmit]] (UN Tourism), rajoni i saj ''Azia dhe Paqësori'' regjistroi afërsisht 331 milionë mbërritje turistësh ndërkombëtarë në vitin 2025, një rritje prej 6% krahasuar me vitin 2024, ndonëse mbërritjet mbetën 9% nën nivelin e vitit 2019. Azia Verilindore regjistroi rritje veçanërisht të fortë, me mbërritje që u rritën me 13% krahasuar me vitin 2024.<ref>{{cite web |date=2026-01-20 |title=International tourist arrivals up 4% in 2025 reflecting strong travel demand around the world |url=https://www.untourism.int/news/international-tourist-arrivals-up-4-in-2025-reflecting-strong-travel-demand-around-the-world |access-date=2026-10-09 |publisher=UN Tourism |language=en}}</ref> Rajoni ''Azia dhe Paqësori'' i Organizatës Botërore të Turizmit përfshin Oqeaninë dhe nuk mbulon të gjithë Azinë gjeografike; prandaj statistikat e tij nuk duhet të interpretohen si totale për kontinentin aziatik.
+
+{{Clear}}
+
+== Demografia ==
+{{Hatnote|Artikulli kryesor: {{ill|Demografia e Azisë|en|Demographics of Asia}}}}
+
+{{Hatnote|Shih edhe: {{ill|Lista e shteteve aziatike sipas popullsisë|en|List of Asian countries by population}} dhe {{ill|Lista e shteteve aziatike sipas jetëgjatësisë|en|List of Asian countries by life expectancy}}}}
+
+{| class="wikitable" style="float:right"
+|+ Popullsia historike
+! Viti !! Popullsia
+|-
+| 1500 || 243000000
+|-
+| 1700 || 436000000
+|-
+| 1900 || 947000000
+|-
+| 1950 || 1402000000
+|-
+| 1999 || 3634000000
+|-
+| 2016 || 4462676731
+|}
+Burimi: [https://www.un.org/esa/population/publications/sixbillion/sixbilpart1.pdf "UN report 2004 data" (PDF).]<br />Shifra për vitin 2024 jepet nga [[Organizata e Kombeve të Bashkuara|OKB]].
+
+Trendet demografike ndryshojnë ndjeshëm në të gjithë Azinë. Sipas ''World Population Prospects 2024'' të [[Organizata e Kombeve të Bashkuara|Kombeve të Bashkuara]], popullsitë e [[Kina|Kinës]] dhe [[Japonia|Japonisë]] e kishin arritur kulmin tashmë deri në vitin 2024, ndërsa ato të [[Irani|Iranit]] dhe [[Vietnami|Vietnamit]] parashikohej të arrinin kulmin midis viteve 2025 dhe 2054. Në të kundërt, popullsitë e [[India|Indisë]], [[Indonezia|Indonezisë]] dhe [[Pakistani|Pakistanit]] parashikohej të vazhdonin rritjen të paktën deri në vitin 2054.<ref>{{cite web |date=2024-07-11 |title=UN projects world population to peak within this century |url=https://www.un.org/en/node/219445 |access-date=2026-10-09 |publisher=United Nations |language=en}}</ref>
+
+Plakja e popullsisë dhe rëniet e normave të fertilitetit janë veçanërisht të theksuara në pjesë të [[Azia Lindore|Azisë Lindore]] dhe [[Azia Juglindore|Azisë Juglindore]], ndonëse kushtet demografike ndryshojnë ndjeshëm midis vendeve.<ref>{{cite web |date=2025-11-11 |title=From ageing societies to youth potential: UNFPA-ASEAN Forum explores the future of Southeast Asia's populations |url=https://asiapacific.unfpa.org/en/news/ageing-societies-youth-potential-unfpa-asean-forum-explores-future-southeast-asias-populations |access-date=2026-10-09 |publisher=United Nations Population Fund |language=en}}</ref> Edhe nivelet e zhvillimit njerëzor ndryshojnë në të gjithë kontinentin. [[Indeksi i zhvillimit njerëzor]] (HDI), i botuar nga [[Programi i Kombeve të Bashkuara për Zhvillimin]], mat arritjet e vendeve në jetëgjatësi, arsim dhe të ardhura kombëtare bruto për kokë banori.<ref>{{cite web |title=Human Development Index (HDI) |url=https://hdr.undp.org/data-center/human-development-index |access-date=2026-10-09 |publisher=United Nations Development Programme |language=en}}</ref>[[File:WorldPopulation.png|thumb|Popullsia botërore]]
+
+=== Gjuhët ===
+''[[Gjuhët e Azisë]]''
+
+Azia karakterizohet nga një {{ill|Diversiteti gjuhësor|en|Linguistic diversity|lt=diversitet i konsiderueshëm gjuhësor}}, me gjuhë që i përkasin shumë familjeve të dallueshme gjuhësore. Familjet kryesore përfshijnë [[Gjuhët indo-evropiane|familjen indo-evropiane]], të përfaqësuar nga gjuhë si [[Gjuha hindi|hindi]], [[Gjuha bengale|bengalishtja]], [[Gjuha perse|persishtja]] dhe [[Gjuha ruse|rusishtja]], si dhe [[Gjuhët sino-tibetiane|familjen sino-tibetiane]], e cila përfshin [[Gjuha kineze|kinezishten]], gjuhët tibetike dhe birmanishten. [[Gjuhët dravidiane]], duke përfshirë [[Gjuha tamile|tamilishten]], [[Gjuha telugu|telugishten]], [[Kanadisht|kanadishten]] dhe [[Gjuha malajalame|malajalamishten]], janë të përqendruara në Indinë jugore dhe në rajonet fqinje. [[Gjuhët turkike]], si [[Gjuha turke|turqishtja]], uzbeqishtja dhe [[Gjuha kazake|kazakishtja]], fliten në pjesën më të madhe të [[Azia Qendrore|Azisë Qendrore]] dhe në pjesë të Azisë Jugperëndimore e Veriore. [[Gjuha arabe|Arabishtja]] dhe [[Gjuha hebreje|hebraishtja]] i përkasin degës [[Gjuhët semitike|semitike]] të familjes {{ill|Gjuhët afroaziatike|en|Afroasiatic languages|lt=afroaziatike}}.<ref name="glottolog_5_3">{{cite web |title=Glottolog 5.3 |url=https://glottolog.org/ |access-date=2026-10-09 |publisher=Max Planck Institute for Evolutionary Anthropology |language=en}}</ref>
+
+[[Azia Juglindore]] përmban disa familje të mëdha gjuhësore, duke përfshirë [[Gjuhët austronesiane|familjen austronesiane]], të përfaqësuar nga [[Gjuha indoneziane|indonezishtja]], malajishtja, [[Gjuha xhavaneze|xhavanezishtja]] dhe tagalogishtja; {{ill|Gjuhët austroaziatike|en|Austroasiatic languages|lt=familjen austroaziatike}}, e cila përfshin [[Gjuha vietnameze|vietnamishten]] dhe kmerishten; si dhe {{ill|Gjuhët kra-dai|en|Kra–Dai languages|lt=familjen kra-dai}}, e cila përfshin [[Gjuha tajlandeze|tajlandishten]] dhe [[Gjuha lao|laosishten]]. [[Gjuha japoneze|Japonishtja]] dhe [[Gjuha koreane|koreanishtja]] i përkasin përkatësisht familjeve të veçanta [[Gjuhët japoneze|japoneze]] dhe {{ill|Gjuhët koreane|en|Koreanic languages|lt=koreane}}.<ref name="glottolog_5_3" />
+
+Diversiteti gjuhësor ekziston edhe brenda vendeve individuale. Sipas shifrave të përpiluara nga ''Ethnologue'' dhe të raportuara në një rishikim rajonal të UNESCO-s, Indonezia ka më shumë se 700 gjuhë të gjalla, ndërsa India më shumë se 400.<ref>{{cite report |url=https://neqmap.bangkok.unesco.org/wp-content/uploads/2020/04/Thematic-review-language-barriers.pdf |title=Removing Language Barriers in Learning Assessments |year=2019 |publisher=UNESCO Bangkok |access-date=2026-10-09 |language=en}}</ref>
+
+=== Feja ===
+{{Hatnote|Shih edhe: {{ill|Filozofia lindore|en|Eastern philosophy}}, {{ill|Feja në Azi|en|Religion in Asia}}, {{ill|Lista e mitologjive aziatike|en|List of Asian mythologies}}}}
+
+Shumë nga fetë kryesore të botës e kanë origjinën në Azi, duke përfshirë pesë më të praktikuarat në botë (duke përjashtuar [[Jofeja|jofejanë]]): [[Krishtërimi|krishterimin]], [[Islami|islamin]], [[Hinduizmi|hinduizmin]], fenë popullore kineze (e klasifikuar si konfucianizëm dhe taoizëm) dhe [[Budizmi|budizmin]]. Mitologjia aziatike është komplekse dhe e larmishme. Rrëfimet për përmbytjen shfaqen në disa tradita fetare aziatike. Në [[Mitologjia e Mesopotamisë|mitologjinë e lashtë mesopotamase]], ato gjenden në [[Atra-Hasis|Atrahasis]] dhe në [[Epi i Gilgameshit|Epin e Gilgameshit]], të cilat ndajnë ngjashmëri të konsiderueshme me rrëfimin biblik për [[Noa|Noan]] në [[Libri i Zanafillës|Librin e Zanafillës]].<ref>{{cite web |last=Day |first=John |title=The Mesopotamian Origin of the Biblical Flood Story |url=https://www.thetorah.com/article/the-mesopotamian-origin-of-the-biblical-flood-story |website=TheTorah.com |date=2020-10-22 |access-date=2026-10-09 |language=en}}</ref> [[Kurani]] përmban gjithashtu rrëfimin për Noan dhe përmbytjen. [[Mitologjia hindu|Mitologjia hindu]] në mënyrë të ngjashme flet për [[Vishnu]]n, i cili u shfaq si një [[Avatari|avatar]] në formën e një peshku dhe e paralajmëroi Manun për një përmbytje të tmerrshme. Edhe [[Mitologjia kineze|mitologjia e lashtë kineze]] rrëfen për një përmbytje të madhe që zgjati brez pas brezi dhe që kërkoi përpjekjet e përbashkëta të perandorëve dhe hyjnive për ta vënë nën kontroll.
+
+==== Fejet abrahamike ====
+{{Hatnote|Shih edhe: [[Krishterimi në Azi]] dhe [[Islami në Azi]]}}
+[[File:Westernwall2.jpg|thumb|Muri Perëndimor dhe [[Kubeja e Shkëmbit]], në [[Jeruzalemi|Jeruzalemin]]]]
+[[File:Church of the Nativity (7703592746).jpg|thumb|Kisha e Lindjes së Krishtit në [[Betlehemi|Betlehemin]]]]
+[[File:Kaaba mirror edit jj.jpg|thumb|Pelegrinët gjatë [[Haxhillëku|Haxhillëkut]] vjetor pranë Qabes, në [[Meka|Mekë]]]]
+
+[[Fetë abrahamike]] – duke përfshirë [[Judaizmi|Judaizmin]], [[Krishtërimi|Krishtërimin]], [[Islami|Islamin]], besimin druz<ref>{{Cite book |last=Obeid |first=Anis |title=The Druze & Their Faith in Tawhid |url=https://books.google.com/books?id=FejqBQAAQBAJ&pg=PT1 |year=2006 |publisher=Syracuse University Press |isbn=978-0-8156-5257-1 |page=1 |language=en}}</ref> dhe [[Bahaizmi|Bahaizmin]] – e kanë origjinën në [[Azia Jugperëndimore|Azinë Jugperëndimore]].<ref>{{Cite book |title=An Introduction to Middle East Politics: Continuity, Change, Conflict and Co-operation |first=Benjamin |last=MacQueen |year=2013 |isbn=978-1-4462-8976-1 |page=5 |publisher=SAGE |language=en}}</ref><ref>{{Cite book |title=The Modern World: Civilizations of Africa, Civilizations of Europe, Civilizations of the Americas, Civilizations of the Middle East and Southwest Asia, Civilizations of Asia and the Pacific |first=Sarolta |last=Takacs |year=2015 |isbn=978-1-317-45572-1 |page=552 |publisher=Routledge |language=en}}</ref>
+
+[[Judaizmi]], më i vjetri ndër fetë abrahamike, praktikohet kryesisht në [[Izraeli|Izrael]], atdheu autokton dhe vendlindja historike e kombit hebre; ky i fundit përfshin sot si judejtë që mbetën në Lindjen e Mesme, ashtu edhe ata që u kthyen nga diaspora në Evropë, Amerikën e Veriut, [[Etiopia|Etiopi]], Indi dhe rajone të tjera,<ref>{{Cite web |url=https://www.jewishvirtuallibrary.org/jsource/Judaism/jewpop.html |title=The Jewish Population of the World |publisher=Jewishvirtuallibrary.org |access-date=2010-06-01 |url-status=live |archive-url=https://web.archive.org/web/20100621102211/http://www.jewishvirtuallibrary.org/jsource/Judaism/jewpop.html |archive-date=2010-06-21 |language=en}}</ref> ndonëse komunitete të ndryshme të diasporës hebraike ekzistojnë ende në mbarë botën. [[Judejtë]] përbëjnë grupin etnik mbizotërues në Izrael (75,6%) dhe numërojnë rreth 6,1 milionë.<ref>{{Cite news |first=Yoram |last=Ettinger |title=Defying demographic projections |url=http://www.israelhayom.com/site/newsletter_opinion.php?id=3913 |access-date=2013-10-29 |newspaper=Israel Hayom |date=2013-04-05 |url-status=live |archive-url=https://web.archive.org/web/20131029191655/http://www.israelhayom.com/site/newsletter_opinion.php?id=3913 |archive-date=2013-10-29 |language=en}}</ref> Nivelet e praktikimit fetar hebre ndryshojnë brenda shtetit hebre. Jashtë Izraelit, ka komunitete të vogla dhe të lashta hebreje në [[Turqia|Turqi]] (17.400),<ref>{{Cite web |url=https://www.jewishvirtuallibrary.org/jsource/vjw/Turkey.html |title=Turkey Virtual Jewish History Tour {{Pipe}} Jewish Virtual Library |publisher=jewishvirtuallibrary.org |access-date=2014-12-15 |url-status=live |archive-url=https://web.archive.org/web/20141011161052/http://www.jewishvirtuallibrary.org/jsource/vjw/Turkey.html |archive-date=2014-10-11 |language=en}}</ref> [[Azerbajxhani|Azerbajxhan]] (9.100),<ref>{{Cite web |url=http://pop-stat.mashke.org/azerbaijan-ethnic2009.htm |title=Ethnic composition of Azerbaijan 2009 |publisher=Pop-stat.mashke.org |date=1971-04-07 |access-date=2012-12-22 |url-status=live |archive-url=https://web.archive.org/web/20120207161726/http://pop-stat.mashke.org/azerbaijan-ethnic2009.htm |archive-date=2012-02-07 |language=en}}</ref> Iran (8.756),<ref>{{Cite news |url=https://www.timesofisrael.com/jewish-woman-brutally-murdered-in-iran-over-property-dispute/ |title=Jewish woman brutally murdered in Iran over property dispute |newspaper=The Times of Israel |date=2012-11-28 |access-date=2014-08-16 |url-status=live |archive-url=https://web.archive.org/web/20140819102713/https://www.timesofisrael.com/jewish-woman-brutally-murdered-in-iran-over-property-dispute/#ixzz3Ac6duaqw |archive-date=2014-08-19 |language=en}}</ref> Indi (5.000) dhe [[Uzbekistani|Uzbekistan]] (4.000),<ref>{{Cite web |url=http://www.ajcarchives.org/AJC_DATA/Files/AJYB727.CV.pdf |title=World Jewish Population 2007 |access-date=2015-07-18 |archive-date=2009-03-26 |archive-url=https://web.archive.org/web/20090326020910/http://www.ajcarchives.org/AJC_DATA/Files/AJYB727.CV.pdf |url-status=dead |publisher=American Jewish Yearbook |volume=107 |page=592 |language=en}}</ref> ndër shumë vende të tjera.
+
+[[Krishtërimi]] praktikohet në mbarë Azinë, me komunitete të konsiderueshme të krishtera në [[Filipinet|Filipine]], [[Kina|Kinë]], [[India|Indi]] dhe [[Koreja e Jugut|Korenë e Jugut]].<ref>{{Cite web |date=2025-06-09 |title=Religious Composition by Country, 2010–2020 |url=https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/ |access-date=2026-10-09 |publisher=Pew Research Center |language=en}}</ref> Në Filipine dhe [[Timori Lindor|Timorin Lindor]], katolicizmi është feja mbizotëruese;<ref name="Pew Research Center">{{Cite web |url=https://assets.pewresearch.org/wp-content/uploads/sites/11/2011/12/Christianity-fullreport-web.pdf |title=Global Christianity – A Report on the Size and Distribution of the World's Christian Population |publisher=Pew Research Center |access-date=2022-02-16 |archive-date=2021-08-09 |archive-url=https://web.archive.org/web/20210809110719/https://assets.pewresearch.org/wp-content/uploads/sites/11/2011/12/Christianity-fullreport-web.pdf |url-status=live |language=en}}</ref> ai u prezantua përkatësisht nga spanjollët dhe portugezët. Në [[Armenia|Armeni]] dhe Gjeorgji, [[Ortodoksia Lindore]] është feja mbizotëruese.<ref name="Pew Research Center" /> Në Lindjen e Mesme, si në [[Levanti|Levantin]], [[Anadolli|Anadollin]] dhe Fars, krishterimi siriak (Kisha e Lindjes) dhe ortodoksia orientale janë bashkësi fetare minoritare të përhapura, të cilat janë të dyja degë të krishtera lindore që ndiqen kryesisht nga asirianët ose të krishterët siriakë.<ref>{{Cite book |last1=Hindson |first1=Edward E. |last2=Mitchell |first2=Daniel R. |title=The Popular Encyclopedia of Church History |date=2013-08-01 |publisher=Harvest House |isbn=978-0-7369-4807-4 |page=225 |language=en}}</ref> Pakicat autoktone të gjalla në [[Azia Jugperëndimore|Azinë Jugperëndimore]] i përkasin [[Kishat katolike lindore|Kishave Katolike Lindore]] dhe [[Ortodoksia Lindore|Ortodoksisë Lindore]].<ref name="Pew Research Center" /> Krishterët e Shën Tomës në [[India|Indi]] e kanë origjinën nga veprimtaria ungjillizuese e [[Toma (apostull)|Tomës]] në shekullin I.<ref>{{Cite book |title=The Encyclopedia of Christianity |volume=5 |first=Erwin |last=Fahlbusch |publisher=Wm. B. Eerdmans |year=2008 |page=285 |isbn=978-0-8028-2417-2 |language=en}}</ref> Komunitete të rëndësishme të krishtera ndodhen gjithashtu në [[Azia Qendrore|Azinë Qendrore]], [[Azia Jugore|Azinë Jugore]], [[Azia Juglindore|Azinë Juglindore]] dhe [[Azia Lindore|Azinë Lindore]].<ref name="Pew Research Center" />
+
+[[Islami]] e ka origjinën në rajonin e [[Hixhazi|Hixhazit]] në [[Gadishulli Arabik|Gadishullin Arabik]] në shekullin VII dhe praktikohet gjerësisht në [[Azia Jugperëndimore|Azinë Jugperëndimore]], [[Azia Qendrore|Azinë Qendrore]], [[Azia Jugore|Azinë Jugore]] dhe [[Azia Juglindore|Azinë Juglindore]]. Sipas vlerësimeve të botuara nga Pew Research Center në vitin 2025, [[Indonezia]] kishte afërsisht 240 milionë muslimanë në vitin 2020, duke pasur popullsinë më të madhe muslimane në botë. Indonezia, [[Pakistani]] dhe [[India]] së bashku përbënin afërsisht një të tretën e popullsisë muslimane të botës.<ref>{{Cite web |date=2025-06-09 |title=3. Muslim population change |url=https://www.pewresearch.org/religion/2025/06/09/muslim-population-change/ |access-date=2026-10-09 |website=Pew Research Center |language=en}}</ref> [[Meka]], [[Medina]] dhe [[Jeruzalemi]] janë tre qytetet më të shenjta të Islamit në botë. [[Haxhillëku]] dhe [[Umreja]] tërheqin një numër të madh besimtarësh muslimanë nga e gjithë bota në Mekë dhe Medinë. Irani është vendi me popullsinë më të madhe shiite.
+
+[[Druzët]] e kanë origjinën në [[Azia Jugperëndimore|Azinë Jugperëndimore]]; feja e tyre është monoteiste dhe bazohet në mësimet e figurave si Hamza ibn Ali dhe al-Hakim bi-Amr Allah, si dhe të filozofëve grekë si [[Platoni]] dhe [[Aristoteli]]. Numri i druzëve në mbarë botën është rreth një milion. Rreth 45–50% jetojnë në [[Siria|Siri]], 35–40% në [[Libani|Liban]] dhe më pak se 10% në [[Izraeli|Izrael]]. Kohët e fundit, ka pasur një diasporë druze në rritje.<ref>{{Cite book |last=Colbert |first=C. Held |title=Middle East Patterns: Places, People, and Politics |publisher=Routledge |year=2008 |isbn=978-0-429-96200-4 |page=109 |language=en}}</ref>
+
+[[Bahaizmi]] e ka origjinën në Azi, në Iran (Persia), dhe u përhap prej andej në Perandorinë Osmane, [[Azia Qendrore|Azinë Qendrore]], [[India|Indi]] dhe Birmani gjatë jetës së Bahá'u'lláh. Që nga mesi i shekullit XX, rritja ka ndodhur veçanërisht në vende të tjera aziatike, sepse aktivitetet bahaiste në shumë vende muslimane janë shtypur rëndë nga autoritetet. Tempulli i Lotusit është një tempull i madh i besimit bahaist në Indi.
+
+<references group="note"><ref>Rreth 78% e popullsisë së Rusisë jeton në pjesën evropiane të saj.</ref></references>
+==== Fetë indiane dhe të Azisë Lindore ====
+{{Hatnote|Shih edhe: {{ill|Fetë lindore|en|Eastern religions}}}}[[File:Akshardham Lotus.jpg|thumb|Faltorja hindu Akshardham në [[Delhi]], sipas Rekordeve Botërore Guinness, është ''tempulli hindu më i madh gjithëpërfshirës në botë''.<ref>{{Cite news |first=Preeti |last=Jha |url=http://www.expressindia.com/latest-news/Guinness-comes-to-east-Delhi-Akshardham-worlds-largest-Hindu-temple/254631/ |title=Guinness comes to east Delhi: Akshardham world's largest Hindu temple |date=2007-12-26 |newspaper=The Indian Express |access-date=2008-01-02 |url-status=dead |archive-url=https://web.archive.org/web/20071228055300/http://www.expressindia.com/latest-news/Guinness-comes-to-east-Delhi-Akshardham-worlds-largest-Hindu-temple/254631/ |archive-date=2007-12-28 |language=en}}</ref>]]
+Pothuajse të gjitha fetë aziatike kanë karakter filozofik, ndërsa traditat filozofike aziatike mbulojnë një spektër të gjerë mendimesh dhe shkrimesh filozofike. Filozofia indiane përfshin filozofinë hindu dhe filozofinë budiste. Ato përmbajnë elemente të kërkimit jomaterial, ndërsa një shkollë tjetër e mendimit nga India, çarvaka, predikonte shijimin e botës materiale. Fetë e [[Hinduizmi|hinduizmit]], [[Budizmi|budizmit]], [[Xhainizmi|xhainizmit]] dhe [[Sikizmi|sikizmit]] lindën në Indi, në [[Azia Jugore|Azinë Jugore]]. Në Azinë Lindore, veçanërisht në [[Kina|Kinë]] dhe [[Japonia|Japoni]], morën formë [[Konfucianizmi|konfucianizmi]], [[Taoizmi|taoizmi]] dhe [[Zen|budizmi zen]].
+
+Sipas vlerësimeve të botuara nga Qendra Kërkimore Pew në vitin 2025, rreth 1,2 miliardë njerëz në mbarë botën u identifikuan si [[Hinduizmi|hindu]] në vitin 2020, dhe rreth 95% e tyre jetojnë në [[India|Indi]]. Hinduizmi është i përqendruar kryesisht në [[Azia Jugore|Azinë Jugore]], ku është feja mazhoritare në Indi dhe [[Nepali|Nepal]]. Hinduët përbënin rreth 79% të popullsisë së Indisë dhe 81% të popullsisë së Nepalit në vitin 2020. Komunitete hindu ekzistojnë gjithashtu në [[Bangladeshi|Bangladesh]], [[Pakistani|Pakistan]], [[Sri Lanka]], [[Butani|Butan]] dhe në pjesë të [[Azia Juglindore|Azisë Juglindore]], përfshirë Balin në Indonezi.<ref>{{Cite web |last=Hackett |first=Conrad |author2=Marcin Stonawski |author3=Yunping Tong |author4=Stephanie Kramer |author5=Anne Shi |author6=Dalia Fahmy |title=5. Hindu population change |url=https://www.pewresearch.org/religion/2025/06/09/hindu-population-change/ |website=Pew Research Center |date=2025-06-09 |access-date=2026-10-09 |language=en}}</ref>
+
+[[Xhainizmi]] gjendet kryesisht në Indi dhe në komunitetet indiane jashtë vendit, si në Shtetet e Bashkuara dhe në Malajzi. [[Sikizmi]] gjendet në Indinë Veriore dhe mes komuniteteve indiane jashtë vendit në pjesë të tjera të Azisë, veçanërisht në Azinë Juglindore. [[Konfucianizmi]] gjendet kryesisht në Kinën kontinentale, në Korenë e Jugut, në Tajvan dhe mes popullsive kineze jashtë vendit. [[Taoizmi]] gjendet kryesisht në Kinën kontinentale, Tajvan, Malajzi dhe Singapor. Në shumë komunitete kineze, taoizmi sinkretizohet lehtë me budizmin mahajana, prandaj statistikat e sakta fetare janë të vështira për t'u marrë dhe mund të nënvlerësohen ose mbivlerësohen.
+
+<gallery>
+File:Traditional wedding at Meji-jingu 72570539 f30636e2ef o.jpg|Dasmë japoneze në faltoren Meixhi
+File:A day of devotion – Thaipusam in Singapore (4316108409).jpg|Festivali hindu i Thaipusamit i kremtuar nga komuniteti tamil i Singaporit
+File:Bar Mitzvah Western Wall.jpg|Bar micvah në Murin Perëndimor në Jerusalem
+File:Feast of Black Nazarene, Quiapo, Manila.JPG|Procesion katolik i Nazarenit të Zi në [[Manila]]
+File:Flickr - Government Press Office (GPO) - Nebi Shueib Festival.jpg|Dinjitarë druzë gjatë festivalit Ziyarat al-Nabi Shuajb pranë varrit të profetit në Hittin
+File:Echmiadzin Cathedral, Armenia (5047080550).jpg|Armenë të krishterë luten në katedralen e Eçmiadzinit në Vagharshapat
+File:İstanbul 4258.jpg|Burra myslimanë luten në xhaminë Ortaköy në [[Stambolli|Stamboll]]
+File:Buddhist alms in Si Phan Don.jpg|Murgj budistë në Laos duke mbledhur lëmoshë
+</gallery>
+
+
+== Kultura ==
+{{Hatnote|Artikulli kryesor: {{ill|Kultura e Azisë|en|Culture of Asia}}}}
+
+Kultura e Azisë është një përzierje e larmishme zakonesh dhe traditash që grupet e ndryshme etnike të kontinentit i kanë praktikuar për shekuj me radhë. Kontinenti ndahet në gjashtë nënrajone gjeografike: [[Azia Qendrore]], [[Azia Lindore]], [[Azia Veriore]], [[Azia Jugore]], [[Azia Juglindore]] dhe [[Azia Jugperëndimore]].<ref>{{Cite web |url=https://unstats.un.org/unsd/methodology/m49/ |title=Geographic Regions |publisher=United Nations |access-date=2018-03-31 |archive-date=2017-08-30 |archive-url=https://web.archive.org/web/20170830170949/https://unstats.un.org/unsd/methodology/m49/ |url-status=live |language=en}}</ref> Këto rajone përcaktohen nga ngjashmëritë e tyre kulturore, përfshirë fetë, gjuhët dhe etnitë e përbashkëta. Azia Jugperëndimore, e njohur edhe si Azia Perëndimore ose [[Lindja e Mesme]], i ka rrënjët kulturore në qytetërimet e lashta të Gjysmëhënës Pjellore dhe të [[Mesopotamia|Mesopotamisë]], të cilat krijuan perandoritë persiane, [[Bota arabe|arabe]] dhe [[Perandoria Osmane|osmane]], si dhe fetë abrahamike: judaizmin, krishterimin dhe islamin.<ref>{{Cite web |last=Collon |first=Dominique |title=BBC – History – Ancient History in depth: Mesopotamia |url=https://www.bbc.co.uk/history/ancient/cultures/mesopotamia_gallery.shtml |url-status=live |archive-url=https://web.archive.org/web/20230102042221/https://www.bbc.co.uk/history/ancient/cultures/mesopotamia_gallery.shtml |archive-date=2023-01-02 |access-date=2018-03-31 |language=en}}</ref> Këto qytetërime, të vendosura në shpatet kodrinore pjellore, janë ndër më të vjetrat në botë, me dëshmi të bujqësisë që datojnë rreth vitit 9000 p.e.s.<ref>{{Cite book |last=Morris |first=Ian |title=Why the West rules – for now: the patterns of history, and what they reveal about the future |date=2011 |publisher=Profile |isbn=978-1846682087 |oclc=751789199 |language=en}}</ref> Pavarësisht sfidave që paraqet shtrirja e gjerë e kontinentit dhe prania e barrierave natyrore si shkretëtirat dhe vargjet malore, tregtia dhe shkëmbimi ndihmuan në krijimin e një kulture pan-aziatike të përbashkët në të gjithë rajonin.<ref>{{Cite book |url=https://books.google.com/books?id=lTEeCgAAQBAJ&q=Indianized+kingdoms&pg=PA299 |title=Societies, Networks, and Transitions, Volume I: To 1500: A Global History |date=2014-06-19 |access-date=2018-03-31 |isbn=978-1285783086 |last1=Lockard |first1=Craig A. |publisher=Cengage |archive-date=2023-03-26 |archive-url=https://web.archive.org/web/20230326205006/https://books.google.com/books?id=lTEeCgAAQBAJ&q=Indianized+kingdoms&pg=PA299 |url-status=live |language=en}}</ref>
+
+Shoqëritë aziatike kanë zhvilluar tradita të larmishme të [[Letërsia|letërsisë]], [[Historia e arteve pamore|arteve pamore]], [[Muzika|muzikës]], [[Teatri|teatrit]] dhe [[Tregimtaria|tregimtarisë]]. Shembuj praktikash që [[UNESCO]] i njeh si [[Trashëgimia kulturore jomateriale|trashëgimi kulturore jomateriale]] përfshijnë kaligrafinë kineze,<ref>{{Cite web |title=Chinese calligraphy |url=https://ich.unesco.org/en/RL/chinese-calligraphy-00216 |access-date=2026-10-09 |publisher=UNESCO |language=en}}</ref> kaligrafinë arabe,<ref>{{Cite web |title=Arabic calligraphy: knowledge, skills and practices |url=https://ich.unesco.org/en/RL/arabic-calligraphy-knowledge-skills-and-practices-01718 |access-date=2026-10-09 |publisher=UNESCO |language=en}}</ref> kutijatamin, një traditë teatri sanskrit që praktikohet në [[Kerala]], Indi,<ref>{{Cite web |title=Kutiyattam, Sanskrit theatre |url=https://ich.unesco.org/en/RL/kutiyattam-sanskrit-theatre-00010 |access-date=2026-10-09 |publisher=UNESCO |language=en}}</ref> dhe vajeang-un, një formë teatri me kukulla me origjinë në [[Xhava]], Indonezi.<ref>{{Cite web |title=Wayang puppet theatre |url=https://ich.unesco.org/en/RL/wayang-puppet-theatre-00063 |access-date=2026-10-09 |publisher=UNESCO |language=en}}</ref>
+
+Traditat kulturore janë formësuar gjithashtu nga shkëmbimet mes pjesëve të ndryshme të Azisë dhe rajoneve fqinje. Rrugët e mëndafshit, tokësore dhe detare, lehtësuan përcjelljen e praktikave artistike, të letërsisë, të besimeve fetare dhe të teknologjive mes shoqërive.<ref>{{Cite web |title=About the Silk Roads |url=https://www.unesco.org/en/silk-roads/about-silk-roads |access-date=2026-10-09 |publisher=UNESCO |language=en}}</ref> Traditat letrare aziatike kanë fituar gjithashtu njohje ndërkombëtare në epokën moderne; poeti dhe shkrimtari bengalez [[Rabindranat Tagora]] mori çmimin Nobel në letërsi në vitin 1913.<ref>{{Cite web |title=The Nobel Prize in Literature 1913 |url=https://www.nobelprize.org/prizes/literature/1913/summary/ |access-date=2026-10-09 |publisher=NobelPrize.org |language=en}}</ref>
+== Shiko edhe ==
+{{Portal|Azia}}
+{{Hatnote|Artikulli kryesor: {{ill|Përvijimi i Azisë|en|Outline of Asia}} dhe {{ill|Indeksi i artikujve mbi Azinë|en|Index of Asia-related articles}}}}
+
+* {{ill|Shekulli aziatik|en|Asian Century}}
+* {{ill|Kuzhina aziatike|en|Asian cuisine}}
+* {{ill|Mobiljet aziatike|en|Asian furniture}}
+* {{ill|Lojërat Aziatike|en|Asian Games}}
+* {{ill|Rrjeti aziatik i autostradave|en|Asian Highway Network}}
+* {{ill|Njësia Monetare Aziatike|en|Asian Monetary Unit}}
+* {{ill|Lojërat Paraaziatike|en|Asian Para Games}}
+* {{ill|Mesdheu Lindor|en|Eastern Mediterranean}}
+* {{ill|Bota lindore|en|Eastern world}}
+* {{ill|Fauna e Azisë|en|Fauna of Asia}}
+* {{ill|Flamujt e Azisë|en|Flags of Asia}}
+* {{ill|Hekurudha Trans-Aziatike|en|Trans-Asian Railway}}
+
+== Shënime ==
+{{Listë shënimesh|30em}}
+
+== Burimet ==
+Teksti i këtij artikulli përfshin material nga ''Global Forest Resources Assessment 2025'', botuar nga Organizata e Kombeve të Bashkuara për Ushqimin dhe Bujqësinë (FAO), i disponueshëm në [https://openknowledge.fao.org/bitstreams/2dee6e93-1988-4659-aa89-30dd20b43b15/download openknowledge.fao.org], nën licencën [https://creativecommons.org/licenses/by/4.0/ CC BY 4.0]. Kushtet e licencës gjenden në [https://openknowledge.fao.org/items/090d2fbb-32a6-412b-a3b8-1ce5c5905df2 faqen përkatëse të dokumentit].
+
+== Referime ==
+
+{{Reflist}}
+
+== Bibliografia ==
+* {{Cite book |title=The myth of continents: a critique of metageography |first1=Martin W. |last1=Lewis |first2=Kären |last2=Wigen |publisher=University of California Press |year=1997 |isbn=978-0-520-20743-1 |location=Berkeley |language=en}}
+* {{Cite book |first1=Michael |last1=Ventris |first2=John |last2=Chadwick |title=Documents in Mycenaean Greek |edition=2nd |year=1973 |publisher=Cambridge University Press |language=en}}
+
+== Lexim i mëtejshëm ==
+* Embree, Ainslie T., ed. ''Encyclopedia of Asian history'' (1988)
+** [https://archive.org/details/encyclopediaofas0003unse/page/n5/mode/2up vol. 1 online]; [https://archive.org/details/encyclopediaofas0002unse/page/n5/mode/2up vol 2 online]; [https://archive.org/details/encyclopediaofas0003unse_l9c1/page/n5/mode/2up vol 3 online]; [https://archive.org/details/encyclopediaofas0000embr vol 4 online]
+* Higham, Charles. ''Encyclopedia of Ancient Asian Civilizations''. Facts on File library of world history. New York: Facts On File, 2004.
+* Kamal, Niraj. "Arise Asia: Respond to White Peril". New Delhi: Wordsmith, 2002, {{ISBN|978-81-87412-08-3}}
+* Kapadia, Feroz, and Mandira Mukherjee. ''Encyclopaedia of Asian Culture and Society.'' New Delhi: Anmol Publications, 1999.
+* Levinson, David, and Karen Christensen, eds. ''Encyclopedia of Modern Asia''. (6 vols. Charles Scribner's Sons, 2002).
+* {{Cite book |last=Wang |first=Hui |title=The Politics of Imagining Asia |publisher=Harvard University Press |publication-place=Cambridge, Mass. |date=2011-03-31 |isbn=978-0-674-05519-3 |url=https://books.google.com/books?id=L_d9QajZdFwC |language=en}}
+
+== Lidhje të jashtme ==
+* [https://www.britannica.com/place/Asia Azia] në ''Encyclopædia Britannica''
+* [https://education.nationalgeographic.org/resource/asia-human/ Asia: Human Geography] në [[National Geographic Society|National Geographic]]
+* [https://www.loc.gov/research-centers/asian/about-this-research-center/ Salla e Leximit Aziatike] në {{ill|Bibliotekën e Kongresit|en|Library of Congress}} të Shteteve të Bashkuara
+* {{Cite EB1911|wstitle=Asia |volume=2 |pages=320–358 |short=1}}
+* {{Cite web |title=Display Maps |work=The Soil Maps of Asia |publisher=European Digital Archive of Soil Maps – EuDASM |url=http://eusoils.jrc.ec.europa.eu/esdb_archive/EuDASM/asia/indexes/idx_country.htm |access-date=2011-07-26 |url-status=dead |archive-url=https://web.archive.org/web/20110812114558/http://eusoils.jrc.ec.europa.eu/esdb_archive/EuDASM/asia/indexes/idx_country.htm |archive-date=2011-08-12 |language=en}}
+* {{Cite web |title=Asia Maps |work=Perry–Castañeda Library Map Collection |url=http://www.lib.utexas.edu/maps/asia.html |publisher=University of Texas Libraries |access-date=2011-07-20 |archive-url=https://web.archive.org/web/20110718061834/http://web.archive.org/web/20110718061834/http://www.lib.utexas.edu/maps/asia.html |archive-date=2011-07-18 |url-status=live |language=en}}
+* {{Cite web |title=Asia |publisher=Norman B. Leventhal Map Center at the Boston Public Library |url=http://maps.bpl.org/search_advanced/?mtid=786 |access-date=2011-07-26 |url-status=dead |archive-url=https://web.archive.org/web/20110929144209/http://web.archive.org/web/20110929144209/http://maps.bpl.org/search_advanced/?mtid=786 |archive-date=2011-09-29 |language=en}}
+* {{Cite journal |title=What is Asia? |url=http://afe.easia.columbia.edu/geography/geo_whatis.html |first=Philip |last=Bowring |journal=Eastern Economic Review |volume=135 |number=7 |date=1987-02-12 |ref=none |access-date=2009-04-22 |archive-date=2011-07-28 |archive-url=https://web.archive.org/web/20110728121004/http://web.archive.org/web/20110728121004/http://afe.easia.columbia.edu/geography/geo_whatis.html |url-status=dead |language=en}}
+
+{{Authority control}}
+
+[[Kategoria:Azia| ]]
+[[Kategoria:Kontinentet]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Asia|15 tetor 2026|1380357737}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Asia, versioni i datës 15 tetor 2026 (revizioni 1380357737).
+-->

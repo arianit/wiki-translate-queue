@@ -1,0 +1,13 @@
+Your message appears truncated — I can see the tail of what looks like a template-checking report (`{{wiktionary}}` → `{{Wiktionary kuti}}`, `{{Authority control}}` → present), but no actual task is included.
+
+For reference: this environment *does* have a shell, file tools, and Wikipedia skills available, so I can perform the translation work if you send the full request. What would you like me to do?
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Behavior|3 shtator 2026|1372938722}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Behavior, versioni i datës 3 shtator 2026 (revizioni 1372938722).
+-->

@@ -1,0 +1,24 @@
+The task input appears truncated — I only received a fragment of a citation (`022-2 |doi-access=free |pmid=25798216 ...`). There's no full wikitext or instruction to act on.
+
+Please send the complete invalid translated wikitext (or the file path to it), and I'll repair it.
+Let me read the session handoff and understand the current state of the harness.
+I'll start by reading the full session handoff to understand the state.
+
+I have the handoff context. The task: verify that the validator fix works and the queue drain is blocked only by OpenRouter credits. Let me check the current state.It looks like your message got cut off — it ends mid-sentence with an invalid wikitext marker (`--- END INVALID TRANSLATED WIKITEXT ---`). What would you like me to do? For example:
+
+- Fix syntax in a translated wikitext file (which file?)
+- Repair a specific citation/template
+- Continue drafting a translation
+
+Let me know the file path or paste the full text.That message appears garbled or truncated — it cuts off with "END INVALID TRANSLATED WIKITEXT" and doesn't contain a complete request. Could you resend the full instructions or clarify what you'd like me to do?
+Ready. Awaiting the translation task (source wikitext, target language, and any options).
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Woman|16 shtator 2026|1375201094}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Woman, versioni i datës 16 shtator 2026 (revizioni 1375201094).
+-->

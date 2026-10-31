@@ -1,0 +1,1034 @@
+{{Short description|Kontinent}}
+{{Hatnote|Mos ngatërroni me {{ill|Amerika Veriore (nënrajon)|en|Northern America}} ose {{ill|Shtetet verilindore të Shteteve të Bashkuara|en|Northern United States}}.}}
+{{Use mdy dates}}
+{{CS1 config|mode=cs1}}
+{{Infobox continent
+|title              = Amerika Veriore
+|image              = Location North America.svg
+|area               = {{Convert|24.709|e6km2|e6sqmi|2|abbr=unit}} (e treta)
+|population         = {{IncreaseNeutral}} 592.296.233 (2021; e katërta)
+|density            = {{Pop density|592296233|23090542|km2|sqmi|prec=1}} (2021){{efn|Shifra e dendësisë për Amerikën e Veriut bazohet vetëm në sipërfaqen tokësore prej 23.090.542 km<sup>2</sup>, dukshëm më të vogël se sipërfaqja e përgjithshme tokësore dhe ujore prej 24,709 milionë km<sup>2</sup>.}}
+|GDP_PPP            = {{Nowrap|36,6 trilionë [[Dollari i Shteteve të Bashkuara|dollarë amerikanë]] (vlerësim për 2025; e dyta)}}<ref>{{Cite web |url=https://www.imf.org/external/datamapper/PPPGDP@WEO/OEMDC/ADVEC/WEOWORLD |title=GDP PPP, current prices |publisher=International Monetary Fund |date=2021 |access-date=2022-01-16 |archive-date=2021-01-22 |archive-url=https://web.archive.org/web/20210122001107/https://www.imf.org/external/datamapper/PPPGDP@WEO/OEMDC/ADVEC/WEOWORLD |url-status=live |language=en}}</ref>
+|GDP_nominal        = 34,61 trilionë dollarë amerikanë (vlerësim për 2025; e dyta)<ref>{{Cite web |title=GDP Nominal, current prices |url=https://www.imf.org/external/datamapper/NGDPD@WEO/OEMDC/ADVEC/WEOWORLD |publisher=International Monetary Fund |date=2021 |access-date=2022-01-16 |archive-date=2017-02-25 |archive-url=https://web.archive.org/web/20170225211431/https://www.imf.org/external/datamapper/NGDPD@WEO/OEMDC/ADVEC/WEOWORLD |url-status=live |language=en}}</ref>
+|GDP_per_capita     = 67.000 dollarë amerikanë (vlerësim për 2025; e dyta)<ref>{{Cite web |url=https://www.imf.org/external/datamapper/NGDPDPC@WEO/OEMDC/ADVEC/WEOWORLD |title=Nominal GDP per capita |publisher=International Monetary Fund |date=2021 |access-date=2022-02-17 |archive-date=2020-01-11 |archive-url=https://web.archive.org/web/20200111084550/https://www.imf.org/external/datamapper/NGDPDPC@WEO/OEMDC/ADVEC/WEOWORLD |url-status=live |language=en}}</ref>
+|religions          = {{unbulleted list
+ | [[Feja në Amerikën e Veriut|Krishtërimi]] (74,6%)<ref name="Survey">{{Cite web |url=https://www.pewforum.org/files/2014/01/global-religion-full.pdf |title=The Global Religious Landscape |publisher=Pewforum.org |archive-url=https://web.archive.org/web/20170125173538/https://www.pewforum.org/files/2014/01/global-religion-full.pdf |access-date=2020-05-07 |archive-date=2017-01-25 |url-status=dead |language=en}}</ref><ref name="pew-relig">{{Cite web |url=https://www.pewforum.org/2015/04/02/religious-projection-table/2020/percent/all/ |title=Religious Composition by Country, 2010–2050 |website=pewforum.org |access-date=2022-02-17 |archive-date=2019-12-21 |archive-url=https://web.archive.org/web/20191221014350/https://www.pewforum.org/2015/04/02/religious-projection-table/2020/percent/all/ |url-status=dead |language=en}}</ref>
+ | [[Jofeja|Pa fe]] (19,2%)<ref name="pew-relig"/>
+ | [[Judaizmi]] (1,6%)<ref name="pew-relig"/>
+ | [[Islami]] (1,3%)<ref name="pew-relig"/>
+ | [[Hinduizmi]] (0,9%)<ref name="pew-relig"/>
+ | [[Budizmi]] (0,9%)<ref name="pew-relig"/>
+ | [[Feja në Amerikën e Veriut|Të tjera]] (1,3%)<ref name="pew-relig"/>
+ }}
+|demonym            = Amerikano-verior
+|countries          = 23 shtete sovrane
+|dependencies       = 23 territore josovrane
+|languages          = [[Gjuha angleze|Anglishtja]], [[Gjuha spanjolle|spanjishtja]], [[Gjuha frënge|frëngjishtja]], [[Gjuha holandeze|holandishtja]], [[Gjuha daneze|danishtja]], {{ill|Gjuhët vendase të Amerikave|en|indigenous languages of the Americas|lt=gjuhët vendase të Amerikave}} dhe shumë të tjera
+|time               = [[UTC−10]] deri {{ill|UTC±00:00|en|UTC+00:00}}
+|cities             = Lista e zonave urbane:<ref>{{Cite web |url=http://www.demographia.com/db-worldua.pdf |title=Demographia.com |access-date=2015-08-13 |archive-date=2011-08-14 |archive-url=https://web.archive.org/web/20110814123122/http://demographia.com/db-worldua.pdf |url-status=live |language=en}}</ref><br />{{Hlist|[[Meksiko|Meksiko]]|[[Nju Jorku|Nju Jorku]]|[[Los Anxhelosi|Los Anxhelosi]]|[[Çikago|Çikago]]|[[San Francisko|San Francisko]]|[[Bostoni|Bostoni]]|[[Toronto|Toronto]]|[[Uashingtoni|Uashingtoni]]|[[Dallas|Dallas]]|[[Filadelfia|Filadelfia]]}}
+|m49                = <code>003</code> – Amerika e Veriut<br /><code>019</code> – [[Amerika]]<br /><code>001</code> – [[Bota]]
+}}
+[[File:Map of populous North America (physical, political, population).jpg|thumb|Hartë e veçorive fizike, politike dhe demografike të Amerikës Veriore, sipas vitit 2018]]
+
+'''Amerika Veriore''' është një [[Kontinentet|kontinent]]{{efn|Disa shtete i konsiderojnë [[Amerika|Amerikat]] si një [[Kontinentet|kontinent të vetëm]], që përfshin Amerikën Veriore dhe [[Amerika Jugore|Amerikën Jugore]].}} në [[Hemisfera veriore|Hemisferën Veriore]] dhe [[Hemisfera Perëndimore|Hemisferën Perëndimore]].{{Efn|[[Ishujt Aleutianë]] të Alaskës shtrihen deri në [[Hemisfera Lindore|Hemisferën Lindore]].}} Në veri kufizohet nga [[Oqeani Arktik]], në lindje nga [[Oqeani Atlantik]], në juglindje nga [[Amerika Jugore]] dhe [[Deti i Karaibeve]], ndërsa në jug dhe perëndim nga [[Oqeani Paqësor]].
+
+Amerika Veriore zë një sipërfaqe prej rreth {{convert|24709000|km2|abbr=off|sp=us}}, që përbën afërsisht 16,5% të sipërfaqes tokësore të [[Toka|Tokës]] dhe 4,8% të sipërfaqes së saj të përgjithshme. Për nga madhësia, është kontinenti i tretë më i madh, pas [[Azia|Azisë]] dhe [[Afrika|Afrikës]], ndërsa për nga popullsia është i katërti, pas Azisë, Afrikës dhe [[Evropa|Evropës]]. {{As of|2021}}, popullsia e Amerikës Veriore vlerësohet në mbi 592 milionë banorë, të shpërndarë në {{ill|Lista e shteteve sovrane dhe territoreve të varura në Amerikën Veriore|en|List of sovereign states and dependent territories in North America|lt=23 shtete sovrane dhe territore}} të pavarura, ose rreth 7,5% të popullsisë botërore.
+
+Kontinenti përfshin nënrajonet e {{ill|Amerika Veriore (nënrajon)|en|Northern America|lt=Amerikës së Veriut}} (që përfshin [[Kanadaja|Kanadanë]], [[Grenlanda|Grenlandën]] dhe {{ill|Shtetet e Bashkuara kontinentale|en|Continental United States|lt=Shtetet e Bashkuara kontinentale}}, si edhe territoret ishullore të [[Bermuda|Bermudës]] dhe [[Shën Pierre dhe Miquelon|Shën Pierit dhe Miquelonit]]) dhe {{ill|Amerika e Mesme|en|Middle America (Americas)|lt=Amerikës së Mesme}} (që përfshin [[Meksika|Meksikën]], [[Amerika Qendrore|Amerikën Qendrore]] dhe [[Karaibet|Karaibet]]). Në {{ill|Terminologjia e Amerikave|en|Americas (terminology)|lt=gjeografinë njerëzore}}, termat «Amerika Veriore» dhe «amerikano-verior» shpesh i referohen vetëm Amerikës së Veriut.<ref>{{cite book |author1-first=H. J. |author1-last=de Blij |author2-first=Peter O. |author2-last=Mulle |title=Geography: Realms, Regions, and Concepts |publisher=Wiley |edition=12th |year=2005 |pages=30–31 |isbn=0-471-71786-X |language=en}}</ref><ref name="MoC">{{cite book |title=The Myth of Continents |first1=Martin W. |last1=Lewis |first2=Karen E. |last2=Wigen |author-link2=Kären Wigen |chapter=Chapter One, The Architecture of Continents |publisher=University of California Press |year=1997 |isbn=0-520-20742-4 |page=168 |language=en}}</ref><ref>Burchfield, R. W., ed. 2004. "America." ''{{ill|Fowler's Modern English Usage|en|Fowler's Modern English Usage}}'' ({{ISBN|0-19-861021-1}}) New York: Oxford University Press, p. 48</ref><ref>McArthur, Tom. 1992. "North American." ''The Oxford Companion to the English Language'' ({{ISBN|0-19-214183-X}}) New York: Oxford University Press, p. 707.</ref><ref>{{cite web |title=Common Errors in English Usage |date=2016-05-16 |publisher=Paul Brians, Washington State University |url=https://brians.wsu.edu/2016/05/16/american/ |access-date=2022-04-04 |archive-date=2022-04-24 |archive-url=https://web.archive.org/web/20220424154758/https://brians.wsu.edu/2016/05/16/american/ |url-status=live |language=en}}</ref>
+
+Nuk dihet saktësisht se si dhe kur arritën në Amerikën Veriore popullsitë e para njerëzore. Dihet se njerëzit kanë jetuar në [[Amerika|Amerika]] të paktën 20.000 vjet më parë,<ref>{{Cite journal |last1=Pigati |first1=Jeffrey S. |last2=Springer |first2=Kathleen B. |last3=Honke |first3=Jeffrey S. |last4=Wahl |first4=David |last5=Champagne |first5=Marie R. |last6=Zimmerman |first6=Susan R. H. |last7=Gray |first7=Harrison J. |last8=Santucci |first8=Vincent L. |last9=Odess |first9=Daniel |last10=Bustos |first10=David |last11=Bennett |first11=Matthew R. |date=2023-10-06 |title=Independent age estimates resolve the controversy of ancient human footprints at White Sands |url=https://www.science.org/doi/10.1126/science.adh5007 |journal=Science |language=en |volume=382 |issue=6666 |pages=73–75 |doi=10.1126/science.adh5007 |pmid=37797035 |bibcode=2023Sci...382...73P |s2cid=263672291 |issn=0036-8075 |access-date=2023-12-06 |archive-date=2023-10-05 |archive-url=https://web.archive.org/web/20231005182411/https://www.science.org/doi/10.1126/science.adh5007 |url-status=live |url-access=subscription}}</ref> por dëshmi të ndryshme sugjerojnë se kjo mund të ketë ndodhur edhe më herët.<ref>{{Citation |last1=Goodyear |first1=Albert C. |chapter=The Pre-Clovis Occupation of the Topper Site, Allendale County, South Carolina |date=2018-05-22 |chapter-url=http://florida.universitypressscholarship.com/view/10.5744/florida/9781683400349.001.0001/upso-9781683400349-chapter-002 |title=Early Human Life on the Southeastern Coastal Plain |pages=8–31 |access-date=2023-12-05 |publisher=University Press of Florida |language=en |doi=10.5744/florida/9781683400349.003.0002 |isbn=978-1-68340-034-9 |last2=Sain |first2=Douglas A. |archive-date=2023-12-07 |archive-url=https://web.archive.org/web/20231207012636/https://academic.oup.com/florida-scholarship-online/book/27901/chapter-abstract/203874636?redirectedFrom=fulltext |url-status=live |chapter-url-access=subscription}}</ref><ref>{{Cite journal |last1=Ardelean |first1=Ciprian F. |last2=Becerra-Valdivia |first2=Lorena |last3=Pedersen |first3=Mikkel Winther |last4=Schwenninger |first4=Jean-Luc |last5=Oviatt |first5=Charles G. |last6=Macías-Quintero |first6=Juan I. |last7=Arroyo-Cabrales |first7=Joaquin |last8=Sikora |first8=Martin |last9=Ocampo-Díaz |first9=Yam Zul E. |last10=Rubio-Cisneros |first10=Igor I. |last11=Watling |first11=Jennifer G. |last12=de Medeiros |first12=Vanda B. |last13=De Oliveira |first13=Paulo E. |last14=Barba-Pingarón |first14=Luis |last15=Ortiz-Butrón |first15=Agustín |date=2020-07-22 |title=Evidence of human occupation in Mexico around the Last Glacial Maximum |url=https://www.nature.com/articles/s41586-020-2509-0 |journal=Nature |language=en |volume=584 |issue=7819 |pages=87–92 |doi=10.1038/s41586-020-2509-0 |pmid=32699412 |bibcode=2020Natur.584...87A |s2cid=256819465 |issn=1476-4687 |access-date=2023-12-06 |archive-date=2021-04-21 |archive-url=https://web.archive.org/web/20210421030732/https://www.nature.com/articles/s41586-020-2509-0 |url-status=live |url-access=subscription}}</ref> Periudha paleoindiane në Amerikën Veriore pasoi Periudhën e Fundit Akullnajore dhe zgjati deri rreth 10.000 vjet më parë, kur nisi {{ill|Periudha arkaike në Amerikën Veriore|en|Archaic period (North America)|lt=periudha arkaike}}. Pas saj erdhi {{ill|Faza klasike|en|Classic stage|lt=faza klasike}}, e cila zgjati përafërsisht nga shekulli i 6-të deri në shekullin e 13-të. {{ill|Eksplorimi dhe kolonizimi nordik i Amerikës Veriore|en|Norse settlement of North America|lt=Eksplorimi dhe kolonizimi nordik}} nisën në fund të shekullit të 10-të; nordikët ndërtuan {{ill|Vendbanimet nordike në Grenlandë|en|Norse settlements in Greenland|lt=disa vendbanime në Grenlandë}} dhe të paktën një vendbanim në [[L'Anse aux Meadows]].
+
+Duke filluar nga viti 1492, {{ill|Udhëtimet e Kristofor Kolombit|en|Voyages of Christopher Columbus|lt=udhëtimet e Kristofor Kolombit}} çuan në {{ill|Shkëmbimi kolumbian|en|Columbian exchange|lt=shkëmbimin transatlantik}}, duke përfshirë {{ill|Migrimi transatlantik|en|Transatlantic migration|lt=migrimet}} e kolonëve evropianë gjatë [[Epoka e Zbulimeve|Epokës së Zbulimeve]] dhe [[Periudha e hershme moderne|periudhës së hershme moderne]]. Modelet e sotme kulturore dhe etnike pasqyrojnë ndërveprimet mes kolonistëve të hershëm evropianë, [[Popujt indigjenë të Amerikës|popujve indigjenë]], afrikanëve të skllavëruar, emigrantëve të mëvonshëm nga Evropa dhe Azia, si dhe pasardhësve të këtyre grupeve. {{ill|Kolonizimi evropian i Amerikave|en|European colonization of the Americas|lt=Kolonizimi evropian}} bëri që shumica e banorëve të Amerikës Veriore të flasin [[gjuhë evropiane|gjuhë evropiane]] (si [[Gjuha angleze|anglishtja]], [[Gjuha spanjolle|spanjishtja]] dhe [[Gjuha frënge|frëngjishtja]]), ndërsa kulturat e rajonit pasqyrojnë zakonisht [[Kultura perëndimore|traditat perëndimore]]. Megjithatë, vazhdojnë të jetojnë popullsi të konsiderueshme indigjene që u përmbahen traditave të tyre kulturore dhe gjuhësore të periudhës para kolonizimit.
+== Emri ==
+{{Anchor|Etimologjia}}
+{{Hatnote|Shih më tepër: {{ill|Emërtimi i Amerikave|en|Naming of the Americas}}, {{ill|Spanja e Re|en|New Spain}}, {{ill|Ishulli i Breshkës|en|Turtle Island}} dhe {{ill|Vinlandi|en|Vinland}}}}
+[[File:Historisch Nordamerika (cropped).jpg|thumb|Hartë e Amerikës së Veriut e vitit 1621]]
+[[File:The Harmsworth atlas and Gazetter 1908 (135850870).jpg|thumb|Hartë e Amerikës së Veriut e vitit 1908, botuar në ''The Harmsworth Atlas and Gazetteer'']]
+[[Amerika|Amerikat]] u emërtuan sipas eksploruesit [[Italianët|italian]] [[Amerigo Vespucci]], nga hartografët gjermanë {{ill|Martin Waldseemüller|en|Martin Waldseemüller}} dhe {{ill|Matthias Ringmann|en|Matthias Ringmann}}.<ref>{{Cite encyclopedia |url=https://www.britannica.com/EBchecked/topic/626894/Amerigo-Vespucci |title=Amerigo Vespucci |encyclopedia=Encyclopædia Britannica |access-date=7 July 2011 |archive-date=10 July 2012 |archive-url=https://web.archive.org/web/20120710004308/http://www.britannica.com/EBchecked/topic/626894/Amerigo-Vespucci |url-status=live |language=en}}</ref> Vespucci eksploroi [[Amerika Jugore|Amerikën e Jugut]] midis viteve 1497 dhe 1502 dhe ishte i pari evropian që sugjeroi se Amerikat përbënin një masë tokësore të panjohur deri atëherë për evropianët. Më 1507, Waldseemüller botoi një hartë të botës dhe vendosi fjalën «Amerika» në kontinentin që sot quhet Amerika e Jugut.<ref>{{Cite book |url=https://archive.org/details/cosmographiintr00waldgoog |title=The Cosmographiæ Introductio of Martin Waldseemüller in Facsimile |others=Translated by Edward Burke and Mario E. Cosenza, introduction by Joseph Fischer and Franz von Wieser |editor-last=Herbermann |editor-first=Charles George |place=New York |publisher=The United States Catholic Historical Society |year=1907 |page=[https://archive.org/details/cosmographiintr00waldgoog/page/n27 9] |quote={{Lang|la|Quarta pars per Americum Vesputium (ut in sequentibus audietur) inventa est, quam non video, cur quis jure vetet, ab Americo inventore sagacis ingenii viro Amerigen quasi Americi terram sive Americam dicendam, cum et Europa et Asia a mulieribus sua sortita sint nomina.}} |language=en}}</ref> Kontinenti në veri të Meksikës së sotme atëherë quhej Parias.<ref>{{Cite web |last=Arbuckle |first=Alex |date=24 December 2016 |title=This 509-year-old map contains the first known use of the word 'America' — but not where you may think |url=https://mashable.com/feature/universalis-cosmographia |access-date=26 May 2022 |website=Mashable |language=en |archive-date=26 May 2022 |archive-url=https://web.archive.org/web/20220526014743/https://mashable.com/feature/universalis-cosmographia |url-status=live}}</ref> Në një hartë të botës të botuar më 1553 nga {{ill|Petrus Apianus|en|Petrus Apianus}},<ref>{{Cite web |last=Apianus |first=Petrus |title=English: 1553 world map – Charta Cosmographica, Cum Ventorum Propria Natura et Operatione |date=1553 |url=https://commons.wikimedia.org/wiki/File:1553_world_map_-_Charta_Cosmographica,_Cum_Ventorum_Propria_Natura_et_Operatione.jpg |access-date=10 August 2022 |archive-date=9 July 2022 |archive-url=https://web.archive.org/web/20220709045708/https://commons.wikimedia.org/wiki/File:1553_world_map_-_Charta_Cosmographica,_Cum_Ventorum_Propria_Natura_et_Operatione.jpg |url-status=live |language=en}}</ref> Amerika e Veriut quhej «Baccalearum», që do të thotë «mbretëria e merlucëve», duke iu referuar bollëkut të [[merluc]]ëve në [[bregu lindor i Shteteve të Bashkuara|bregun lindor të Shteteve të Bashkuara]].<ref>{{Cite web |publisher=Stanford University |location=Stanford, California |title=Charta Cosmographica, Cum Ventorum Propria Natura et Operatione |url=https://exhibits.stanford.edu/ruderman/catalog/dp027ft1928 |access-date=10 August 2022 |website=Barry Lawrence Ruderman Map Collection – Spotlight at Stanford |language=en |archive-date=26 March 2023 |archive-url=https://web.archive.org/web/20230326033917/https://exhibits.stanford.edu/ruderman/catalog/dp027ft1928 |url-status=live}}</ref>
+
+Waldseemüller përdori formën e latinizuar të emrit të Vespuccit, Americus Vespucius, në trajtën femërore «America», sipas shembujve «Europa», «Asia» dhe «Africa». Emri Americus e ka prejardhjen nga {{Lang|la-x-medieval|Emericus}} i latinishtes mesjetare (shih [[Princ Emeriku i Hungarisë]]), që vjen nga emri i vjetër gjermanik i lartë {{ill|Emmerich (name)|en|Emmerich (name)|lt=Emmerich}}. Hartografët më vonë e shtrinë emrin Amerikë edhe në Amerikën e Veriut.
+
+Më 1538, {{ill|Gerardus Mercator|en|Gerardus Mercator}} përdori termin «Amerika» në hartën e tij të botës, që paraqiste të gjithë [[Hemisfera Perëndimore|hemisferën perëndimore]].<ref name="Cohen">{{Cite web |url=http://www.uhmc.sunysb.edu/surgery/america.html |title=The Naming of America: Fragments We've Shored Against Ourselves |first=Jonathan |last=Cohen |access-date=3 February 2014 |archive-date=15 August 2018 |archive-url=https://web.archive.org/web/20180815164226/https://web.archive.org/web/20180815164226/http://www.uhmc.sunysb.edu/surgery/america.html |url-status=dead |publisher=Stony Brook Medicine |language=en}}</ref> Në hartën e tij të mëvonshme të vitit 1569, Mercator e quajti Amerikën e Veriut «America or New India» (''America sive India Nova'').<ref>{{Cite web |title=Mercator 1587 {{!}} Envisioning the World {{!}} The First Printed Maps |url=https://lib-dbserver.princeton.edu/visual_materials/maps/websites/wendt-world-maps/Mercator_1587.html |access-date=12 September 2020 |website=lib-dbserver.princeton.edu |archive-date=12 September 2020 |archive-url=https://web.archive.org/web/20200912213223/https://lib-dbserver.princeton.edu/visual_materials/maps/websites/wendt-world-maps/Mercator_1587.html |url-status=dead |language=en}}</ref>
+
+Perandoria Spanjolle i quante territoret e saj në Amerikën e Veriut dhe të Jugut «Las Indias», ndërsa organi shtetëror që mbikëqyrte rajonin quhej [[Këshilli i Indive]].
+== <span id="Usage of the term">Përkufizimi</span> ==
+[[File:North America satellite orthographic.jpg|thumb|Një imazh satelitor i Amerikës Veriore i vitit 2005 nga [[NASA]]]]
+
+[[Organizata e Kombeve të Bashkuara]] dhe {{ill|Divizioni i Statistikave i Kombeve të Bashkuara|en|United Nations Statistics Division}} e përkufizojnë Amerikën Veriore si të përbërë nga tri nënrajone: {{ill|Amerika Veriore (nënrajon)|en|Northern America}}, [[Amerika Qendrore]] (e cila përfshin Meksikën) dhe [[Karaibet]].<ref>{{cite web |url=https://unstats.un.org/unsd/methodology/m49/ |title=UNSD — Methodology |last=Division |first=United Nations Statistics |website=unstats.un.org |language=en |access-date=1 November 2018 |archive-date=30 August 2017 |archive-url=https://web.archive.org/web/20170830170949/https://unstats.un.org/unsd/methodology/m49/ |url-status=live |quote=The continent of North America (numerical code 003) comprises Northern America (numerical code 021), Caribbean (numerical code 029), and Central America (numerical code 013).}}</ref> Në kontekstin e kufizuar të marrëveshjeve tregtare rajonale si NAFTA, termi përdoret për t'iu referuar tri vendeve: [[Kanadaja|Kanadasë]], Meksikës dhe [[Shtetet e Bashkuara të Amerikës|Shteteve të Bashkuara]].
+
+Sipas modelit me gjashtë kontinente, i përhapur në [[Amerika Latine|Amerikën Latine]] dhe në mbarë botën folëse të [[Gjuhët neolatine|gjuhëve neolatine]], si edhe në [[Greqia|Greqi]], «Amerika Veriore» nënkupton një nënrajon që përfshin Kanadanë, Meksikën, [[Shën Pierre dhe Miquelon|Shën-Pierin dhe Mikelonin]] dhe Shtetet e Bashkuara; shpesh përfshihen edhe [[Bermuda]], {{ill|Ishulli Kliperton|en|Clipperton Island}} dhe [[Grenlanda]].<ref>{{cite web |url=http://mx.encarta.msn.com/encyclopedia_761562468/Norteam%C3%A9rica.html |archive-url=https://web.archive.org/web/20090130015145/http://mx.encarta.msn.com/encyclopedia_761562468/Norteam%C3%A9rica.html |archive-date=30 January 2009 |title=Norteamérica |trans-title=North America |language=es |quote=In Ibero-America, ''North America'' is considered a subcontinent containing Canada, the United States, Mexico, Greenland, Bermuda and Saint-Pierre and Miquelon. |access-date=30 January 2007 |url-status=dead}}</ref><ref>{{cite web |title=Six or Seven Continents on Earth |url=http://geography.about.com/od/learnabouttheearth/qt/qzcontinents.htm |access-date=18 December 2016 |language=en |archive-date=26 November 2016 |archive-url=https://web.archive.org/web/20161126015411/http://geography.about.com/od/learnabouttheearth/qt/qzcontinents.htm |url-status=dead |quote=In Europe and other parts of the world, many students are taught of six continents, where North and South America are combined to form a single continent of America. Thus, these six continents are Africa, America, Antarctica, Asia, Australia, and Europe.}}</ref><ref>{{cite web |title=Continents |url=http://www.worldometers.info/geography/continents/ |access-date=18 December 2016 |language=en |archive-date=21 December 2016 |archive-url=https://web.archive.org/web/20161221035719/https://www.worldometers.info/geography/continents/ |url-status=live |quote=six-continent model (used mostly in France, Italy, Portugal, Spain, Romania, Greece, and Latin America) groups together North America+South America into the single continent America.}}</ref><ref>{{cite web |title=AMÉRIQUE |date=24 February 2000 |url=http://www.universalis.fr/encyclopedie/amerique-structure-et-milieu-geographie/ |access-date=18 December 2016 |language=fr |archive-date=5 December 2016 |archive-url=https://web.archive.org/web/20161205122940/http://www.universalis.fr/encyclopedie/amerique-structure-et-milieu-geographie/ |url-status=live}}</ref><ref>{{cite web |title=America |url=http://www.treccani.it/enciclopedia/america_%28Dizionario-di-Storia%29/ |access-date=18 December 2016 |language=it |archive-date=21 December 2016 |archive-url=https://web.archive.org/web/20161221042321/https://www.treccani.it/enciclopedia/america_%28Dizionario-di-Storia%29/ |url-status=live}}</ref>
+
+Historikisht, Amerika Veriore është njohur edhe me emra të tjerë, përfshirë Amerikën Veriore Spanjolle, {{ill|Spanja e Re|en|New Spain}}, {{ill|Franca e Re|en|New France}}, {{ill|Amerika Veriore Britanike|en|British North America}} dhe ''América {{ill|Septentrional|en|Septentrional}}'', emri i parë zyrtar i dhënë Meksikës nga {{ill|Akti solemn i Deklaratës së Pavarësisë së Amerikës Veriore|en|Solemn Act of the Declaration of Independence of Northern America}}.<ref name="AGN">{{cite web |title=Acta Solemne de la Declaración de Independencia de la América Septentrional |trans-title=Solemn Act of the Declaration of Independence of Northern America |url=http://www.agn.gob.mx/independencia/documentos.html |work=Archivos de la Independencia |publisher=Archivo General de la Nación |access-date=8 July 2011 |language=es |archive-date=11 August 2011 |archive-url=https://web.archive.org/web/20110811023151/http://www.agn.gob.mx/independencia/documentos.html |url-status=dead}}</ref>
+===Rajonet===
+{{Hatnote|Shih më tepër: {{ill|Lista e rajoneve të Kanadasë|en|List of regions of Canada}}; {{ill|Lista e rajoneve të Shteteve të Bashkuara|en|List of regions of the United States}}}}
+
+Amerika Veriore përfshin disa rajone dhe nënrajone, secili me karakteristikat e veta kulturore, ekonomike dhe gjeografike. Rajonet ekonomike përfshijnë disa rajone të formalizuara në marrëveshje tregtare të shekujve XX dhe XXI, përfshirë [[North American Free Trade Agreement|NAFTA-n]] ndërmjet [[Kanadaja|Kanadasë]], [[Meksika|Meksikës]] dhe [[Shtetet e Bashkuara të Amerikës|Shteteve të Bashkuara]], si dhe {{ill|Marrëveshja e Tregtisë së Lirë mes Republikës Dominikane dhe Amerikës Qendrore|en|Dominican Republic–Central America Free Trade Agreement}} (CAFTA) ndërmjet [[Amerika Qendrore|Amerikës Qendrore]], [[Republika Dominikane|Republikës Dominikane]] dhe Shteteve të Bashkuara.
+
+Amerika Veriore ndahet nga pikëpamja gjuhësore dhe kulturore në dy rajone kryesore: {{ill|Amerika anglofone|en|Anglo-America}} dhe [[Amerika Latine]]. Amerika anglofone përfshin pjesën më të madhe të Amerikës Veriore, [[Beliza|Belizën]] dhe ishujt e [[Karaibet|Karaibeve]] me popullsi që flet [[Gjuha angleze|anglisht]]. Ka edhe rajone, përfshirë [[Luiziana|Luizianën]] dhe [[Kebeku (provincë)|Kebekun]], me popullsi të mëdha frankofone; në Kebek dhe në [[Shën Pierre dhe Miquelon]], [[Gjuha frënge|frëngjishtja]] është gjuhë zyrtare.<ref name="language">{{Cite web |url=http://www.oqlf.gouv.qc.ca/english/charter/index.html |title=Status of the French language |author=Office Québécois de la langue francaise |publisher=Government of Quebec |access-date=2010-11-10 |language=en |url-status=dead |archive-url=https://web.archive.org/web/20110514153402/http://www.oqlf.gouv.qc.ca/english/charter/index.html |archive-date=2011-05-14}}</ref><!--Original French: http://www.oqlf.gouv.qc.ca/charte/charte/clflgoff.html -->
+
+Pjesa jugore e Amerikës Veriore përfshin Amerikën Qendrore dhe vendet e Karaibeve ku nuk flitet anglisht.<ref name="BritannicaCA">{{Cite encyclopedia |title=Central America |url=http://encarta.msn.com/dictionary_1861670266/Central_America.html |encyclopedia=Encarta Encyclopedia |access-date=2011-05-30 |language=en |archive-url=https://web.archive.org/web/20091103174029/http://encarta.msn.com/dictionary_1861670266/Central_America.html |archive-date=2009-11-03 |url-status=dead}}</ref><ref>{{Cite encyclopedia |title=Caribbean |url=http://encyclopedia2.thefreedictionary.com/Caribbean |dictionary=The Free Dictionary |access-date=2011-05-30 |language=en |archive-date=2011-11-06 |archive-url=https://web.archive.org/web/20111106140233/http://encyclopedia2.thefreedictionary.com/Caribbean |url-status=live}}</ref> Edhe pjesa veriore e kontinentit ka rajone të njohura. Ndryshe nga përkufizimi i zakonshëm i Amerikës Veriore, që përfshin tërë kontinentin e Amerikës Veriore, termi «Amerika Veriore» përdoret ndonjëherë më ngushtë, për t'iu referuar vetëm katër vendeve: Kanadasë, Grenlandës, Meksikës dhe SHBA-së.<ref name="CIAGreenland">{{Cite web |title=The World Factbook – North America |url=https://www.cia.gov/library/publications/the-world-factbook/wfbExt/region_noa.html |access-date=2011-06-20 |language=en |publisher=Central Intelligence Agency |archive-date=2011-06-23 |archive-url=https://web.archive.org/web/20110623043844/https://www.cia.gov/library/publications/the-world-factbook/wfbExt/region_noa.html |url-status=dead}}</ref><ref name="CountryReports">{{Cite web |title=Countries in North America – Country Reports |url=http://www.countryreports.org/maps/northamerica.aspx |language=en |publisher=Country Reports |url-status=dead |archive-url=https://web.archive.org/web/20150427050055/http://www.countryreports.org/maps/northamerica.aspx |archive-date=2015-04-27}}</ref><ref name="eNotes">{{Cite web |title=North America: World of Earth Science |url=http://www.enotes.com/earth-science/north-america |language=en |publisher=eNotes Inc. |access-date=2011-06-20 |url-status=dead |archive-url=https://web.archive.org/web/20101220133458/http://www.enotes.com/earth-science/north-america |archive-date=2010-12-20}}</ref><ref name="Trilateral">{{Cite web |title=North American Region |url=http://www.trilateral.org/go.cfm?do=Page.View&pid=12 |language=en |publisher=The Trilateral Commission |access-date=2011-05-30 |url-status=dead |archive-url=https://web.archive.org/web/20121021204534/http://www.trilateral.org/go.cfm?do=Page.View&pid=12 |archive-date=2012-10-21}}</ref><ref>{{Cite book |last1=Parsons |first1=Alan |last2=Schaffer |first2=Jonathan |title=Geopolitics of oil and natural gas |publisher=U.S. Department of State |series=Economic Perspectives |date=May 2004 |language=en}}{{Nevojitet citimi i plotë|date=February 2014}}</ref> Byroja e Regjistrimit të SHBA-së përfshin Shën Pierre dhe Miquelon, por e përjashton [[Meksika|Meksikën]] nga përkufizimi i saj.<ref>{{Cite web |title=Schedule C – Country Codes and Descriptions |url=https://www.census.gov/foreign-trade/schedules/c/countrycode.html |url-status=live |archive-url=https://web.archive.org/web/20231203204307/https://www.census.gov/foreign-trade/schedules/c/countrycode.html |archive-date=2023-12-03 |access-date=2023-12-03 |language=en |publisher=US Census Bureau}}</ref>
+
+Termi «Amerika Veriore» (Northern America) u referohet vendeve dhe territoreve më veriore të Amerikës Veriore: SHBA-së, [[Bermuda|Bermudës]], Kanadasë, Grenlandës dhe Shën Pierre dhe Miquelon.<ref>{{Cite web |url=http://esa.un.org/migration/index.asp?panel=3 |title=Definition of major areas and regions |language=en |publisher=United Nations |access-date=2007-10-03 |archive-date=2019-07-03 |archive-url=https://web.archive.org/web/20190703142031/https://esa.un.org/migration/index.asp?panel=3 |url-status=live}}</ref><!--Cruft, commenting out 3 February 2014:from World Migrant Stock: The 2005 Revision Population Database, United Nations Population Division. Accessed on line 3 October 2007.--><ref>{{Cite web |url=http://unstats.un.org/unsd/methods/m49/m49regin.htm |title=Composition of macro geographical (continental) regions, geographical sub-regions, and selected economic and other groupings |language=en |publisher=UN Statistics Division |access-date=2007-10-03 |archive-date=2019-01-16 |archive-url=https://web.archive.org/web/20190116150809/https://unstats.un.org/unsd/methods/m49/m49regin.htm |url-status=live}} ([http://unstats.un.org/unsd/methods/m49/m49regnf.htm frëngjisht] {{Webarchive|url=https://web.archive.org/web/20101224062835/http://unstats.un.org/unsd/methods/m49/m49regnf.htm |date=2010-12-24 }}).</ref> Ndonëse termi nuk i referohet një rajoni të bashkuar,<ref>{{Cite web |last1=Berglee |first1=Royal |date=2016-06-17 |title=Chapter 5, Middle America |url=http://open.lib.umn.edu/worldgeography/part/chapter-5-middle-america/ |url-status=live |archive-url=https://web.archive.org/web/20180401174521/http://open.lib.umn.edu/worldgeography/part/chapter-5-middle-america/ |archive-date=2018-04-01 |access-date=2018-04-03 |language=en |publisher=University of Minnesota}}</ref> {{ill|Amerika e Mesme|en|Middle America (Americas)}} përfshin Meksikën, Amerikën Qendrore dhe Karaibet.<ref>{{Cite encyclopedia |title=Middle America (region, Mesoamerica) |url=https://www.britannica.com/EBchecked/topic/381099/Middle-America |access-date=2011-06-20 |encyclopedia=Encyclopædia Britannica |language=en |archive-date=2011-09-19 |archive-url=https://web.archive.org/web/20110919063254/https://www.britannica.com/EBchecked/topic/381099/Middle-America |url-status=live}}</ref>
+
+Kanadaja dhe SHBA-ja janë vendet më të mëdha të Amerikës Veriore për nga sipërfaqja tokësore; të dyja kanë nënrajone të përcaktuara qartë dhe të njohura. Në Kanada, këto përfshijnë (nga lindja në perëndim) Kanadanë Atlantike, Kanadanë Qendrore, Preritë Kanadeze, Bregdetin e Kolumbisë Britanike, Kanadanë Perëndimore dhe Kanadanë Veriore. Në SHBA, ato përfshijnë [[Anglia e Re]]n, rajonin Mid-Atlantic, si dhe shtetet e Atlantikut Jugor, të Qendrës Veriore Lindore, të Qendrës Veriore Perëndimore, të Qendrës Jugore Lindore, të Qendrës Jugore Perëndimore, Malore dhe të Paqësorit. Rajoni i Liqeneve të Mëdha dhe Paqësori Veriperëndimor përfshijnë territore si në SHBA, ashtu edhe në Kanada.
+== Historia ==
+{{Hatnote|Artikulli kryesor: [[Historia e Amerikës së Veriut]]}}
+===Epoka parakolumbiane===
+{{Hatnote|Artikulli kryesor: {{ill|Epoka parakolumbiane|en|Pre-Columbian era}}}}
+[[File:America 1000 BCE.png|thumb|Hartë e mënyrave të sigurimit të jetesës në [[Amerika (kontinent)|Amerikat]], përfshirë Amerikën e Veriut, rreth vitit 1000 p.e.s.
+{{Legend|#FEFE00|{{ill|Gjuetarët-mbledhësit|en|Hunter-gatherer|lt=Gjuetarë-mbledhës}}}}
+{{Legend|#00FE00|Shoqëri bujqësore të thjeshta}}
+{{Legend|#FE7F3F|Shoqëri të ndërlikuara bujqësore, përfshirë [[ill|kryesitë fisnore]] dhe [[Qytetërimi|qytetërimet]]}}
+]]
+[[Popujt indigjenë të Amerikës]] kanë shumë [[Krijimi|mite të krijimit]], disa prej të cilëve pohojnë se ata kanë qenë në këtë tokë që prej krijimit të saj,<ref name="Curtin2014">{{cite book |first=Jeremiah |last=Curtin |title=Creation Myths of Primitive America |url=https://books.google.com/books?id=PRK1AwAAQBAJ&pg=PT2 |year=2014 |publisher=Jazzybee Verlag |isbn=978-3-8496-4454-3 |page=2 |access-date=2015-11-22 |archive-date=2016-02-09 |archive-url=https://web.archive.org/web/20160209074925/https://books.google.com/books?id=PRK1AwAAQBAJ&pg=PT2 |url-status=live |language=en}}</ref> por nuk ka dëshmi se njerëzit evoluan atje.<ref name="Krensky">{{cite book |last=Krensky |first=Stephen |others=Ilustrimet nga Steve Sullivan |title=Who Really Discovered America? |year=1987 |publisher=Scholastic Inc. |isbn=978-0-590-40854-7 |page=13 |language=en}}</ref> Hollësitë e vendosjes fillestare të njerëzve në Amerikë nga aziatikët e lashtë janë ende objekt kërkimesh dhe debatesh.<ref name="White2006">{{cite book |first=Phillip M. |last=White |title=American Indian chronology: chronologies of the American mosaic |url=https://books.google.com/books?id=_VnZ8_2kSScC&pg=PA1 |access-date=2011-11-29 |year=2006 |publisher=Greenwood Publishing Group |isbn=978-0-313-33820-5 |page=1 |archive-date=2014-01-11 |archive-url=https://web.archive.org/web/20140111211639/http://books.google.com/books?id=_VnZ8_2kSScC&pg=PA1 |url-status=live |language=en}}</ref> Sipas teorisë tradicionale, gjuetarët hynë në {{ill|Beringia|en|Beringia|lt=urën tokësore të Beringut}}, midis [[Siberia|Siberisë]] lindore dhe [[Alaska|Alaskës]] së sotme, rreth 27.000 deri në 14.000 vjet më parë.<ref name="HavilandPrins2013">{{cite book |first1=William |last1=Haviland |first2=Harald |last2=Prins |first3=Dana |last3=Walrath |first4=Bunny |last4=McBride |title=Anthropology: The Human Challenge |url=https://books.google.com/books?id=0bpuCgAAQBAJ&pg=PA219 |date=2013 |publisher=Cengage Learning |isbn=978-1-285-67758-3 |pages=219, 220 |access-date=2015-11-22 |archive-date=2016-02-07 |archive-url=https://web.archive.org/web/20160207213447/https://books.google.com/books?id=0bpuCgAAQBAJ&pg=PA219 |url-status=live |language=en}}</ref><ref name="Sonneborn-2007">{{cite book |first=Liz |last=Sonneborn |title=Chronology of American Indian History |url=https://books.google.com/books?id=OKfBId96DTIC&pg=PA3 |date=January 2007 |publisher=Infobase Publishing |isbn=978-0-8160-6770-1 |page=3 |access-date=2011-11-29 |archive-date=2014-01-03 |archive-url=https://web.archive.org/web/20140103103603/http://books.google.com/books?id=OKfBId96DTIC&pg=PA3 |url-status=live |language=en}}</ref>{{Efn|Tërheqja e oqeaneve gjatë epokave të njëpasnjëshme të [[Koha e akullit|akullnajave]] mund t’u ketë mundësuar njerëzve të kalonin urën tokësore që 40.000 vjet më parë.<ref name=really>{{cite book |last=Krensky |first=Stephen |others=Ilustrimet nga Steve Sullivan |title=Who Really Discovered America? |year=1987 |publisher=Scholastic Inc. |isbn=978-0-590-40854-7 |pages=11, 13 |language=en}}</ref>}} Gjithnjë e më shumë përkrahet mendimi se banorët e parë të Amerikës lundruan nga Beringia rreth 13.000 vjet më parë,<ref>{{cite journal |url=https://www.science.org/content/article/most-archaeologists-think-first-americans-arrived-boat-now-they-re-beginning-prove-it |title=Most archaeologists think the first Americans arrived by boat. Now, they're beginning to prove it |last=Wade |first=Lizzie |journal=[[Revista Science|Science]] |date=2017-08-10 |doi=10.1126/science.aan7213 |access-date=2018-12-26 |archive-date=2020-01-31 |archive-url=https://web.archive.org/web/20200131022108/https://www.sciencemag.org/news/2017/08/most-archaeologists-think-first-americans-arrived-boat-now-they-re-beginning-prove-it |url-status=live |language=en}}</ref> ndërsa vendbanimet u përhapën gjerësisht në Amerikë gjatë fundit të [[Periudha e fundit akullnajore|Periudhës së fundit akullnajore]], në atë që njihet si Maksimumi i Vonë Akullnajor, rreth 12.500 vjet më parë.<ref name="Pauketat2012">{{cite book |first=Timothy R. |last=Pauketat |title=The Oxford Handbook of North American Archaeology |date=2012-02-23 |publisher=OUP US |isbn=978-0-19-538011-8 |page=96 |language=en}}</ref> [[Petroglifi|Petroglifet]] më të vjetra në Amerikën e Veriut datojnë nga 15.000 deri në 10.000 vjet para së tashmes.<ref>{{cite web |url=https://www.npr.org/2013/08/16/212569006/n-americas-oldest-known-petroglyphs-discovered-in-nevada |title=N. America's Oldest Known Petroglyphs Discovered In Nevada |last=Shogren |first=Elizabeth |date=2013-08-16 |website=NPR |access-date=2018-12-12 |archive-date=2020-08-05 |archive-url=https://web.archive.org/web/20200805060403/https://www.npr.org/2013/08/16/212569006/n-americas-oldest-known-petroglyphs-discovered-in-nevada |url-status=live |language=en}}</ref>
+[[Antropologjia|Kërkimet gjenetike]] dhe [[Antropologjia|antropologjia]] tregojnë se gjatë Holocenit të hershëm dhe të mesëm pati valë të tjera migrimi nga Azia përmes [[Ngushtica e Beringut|Ngushticës së Beringut]].<ref name="SkoglundMallick2015">{{Cite journal |last1=Skoglund |first1=P. |last2=Mallick |first2=S. |last3=Bortolini |first3=M. C. |last4=Chennagiri |first4=N. |last5=Hünemeier |first5=T. |last6=Petzl-Erler |first6=M. L. |last7=Salzano |first7=F. M. |last8=Patterson |first8=N. |last9=Reich |first9=D. |date=2015-07-21 |title=Genetic evidence for two founding populations of the Americas |journal=Nature |volume=525 |issue=7567 |pages=104–8 |bibcode=2015Natur.525..104S |doi=10.1038/nature14895 |pmc=4982469 |pmid=26196601 |language=en}}</ref><ref name="BellwoodNess2014">{{Cite book |first1=Peter |last1=Bellwood |first2=Immanuel |last2=Ness |title=The Global Prehistory of Human Migration |url=https://books.google.com/books?id=2HMTBwAAQBAJ&pg=PA194 |date=2014 |publisher=John Wiley & Sons |isbn=978-1-118-97059-1 |page=194 |access-date=2015-11-22 |archive-date=2016-02-07 |archive-url=https://web.archive.org/web/20160207210859/https://books.google.com/books?id=2HMTBwAAQBAJ&pg=PA194 |url-status=live |language=en}}</ref><ref>{{Cite book |last=Krensky |first=Stephen |others=Illustrated by Steve Sullivan |title=Who Really Discovered America? |year=1987 |publisher=Scholastic Inc. |isbn=978-0-590-40854-7 |pages=17–27 |language=en}}</ref>
+
+Para mbërritjes së eksploruesve dhe kolonistëve evropianë në Amerikën Veriore, {{ill|Paleo-Indians|en|Paleo-Indians|lt=popujt vendas të Amerikës Veriore}} ishin të ndarë në shumë njësi politike, nga grupe të vogla familjesh deri te perandori të mëdha. Ata jetonin në disa rajone kulturore, që përkonin përafërsisht me [[Gjeografia e Amerikës Veriore|zonat gjeografike dhe biologjike]] që përcaktonin kulturat dhe mënyrat përfaqësuese të jetesës së popujve vendas të atyre zonave. Këtu përfshiheshin [[Gjuetarët-mbledhës|gjuetarët e bizonëve]] në [[Fushat e Mëdha]] dhe bujqit e [[Mezoamerika|Mezoamerikës]]. Grupet vendase klasifikohen edhe sipas [[Gjuhët vendase të Amerikës|familjeve gjuhësore]], përfshirë gjuhët atabaskane dhe uto-aztekane. Megjithatë, popujt që flisnin gjuhë të ngjashme nuk ndanin gjithmonë të njëjtën kulturë materiale dhe nuk ishin domosdoshmërisht aleatë. Antropologët mendojnë se {{ill|Inuit|en|Inuit|lt=inuitët}} e [[Arktiku|Arktikut]] të lartë mbërritën në Amerikën Veriore shumë më vonë se grupet e tjera vendase. Këtë e mbështesin zhdukja e artefakteve të [[Kultura Dorset|kulturës Dorset]] nga të dhënat arkeologjike dhe zëvendësimi i tyre me ato të [[Populli Thule|popullit Thule]].
+
+Gjatë mijëra vjetëve të banimit vendas në kontinent, kulturat ndryshuan dhe u zhvilluan. Një nga më të vjetrat e zbuluara deri më sot është [[Kultura Klovis|kultura Clovis]] (rreth 9550–9050 p.e.s.), në territorin e sotëm të [[Nju Meksiko|Nju Meksikos]].<ref name="bradshaw">{{Cite web |url=http://www.bradshawfoundation.com/south_america/serra_da_capivara/index.php |title=America's Oldest Art – The Rock Art of Serra da Capivara |last=Nash |first=George |year=2011 |website=Bradshaw Foundation |access-date=2018-12-12 |archive-date=2017-09-24 |archive-url=https://web.archive.org/web/20170924163146/http://www.bradshawfoundation.com/south_america/serra_da_capivara/index.php |url-status=live |language=en}}</ref> Pas periudhës së hershme arkaike, zhvillime të rëndësishme rajonale përfshinë [[Kultura Misisipiane|kulturën e Misisipit]], që shtrihej në luginën e [[Lumi i Misisipit|lumit Misisipi]] dhe kishte qendra urbane me tuma-platforma, si dhe [[Popujt Pueblo paraardhës|popujt pueblo paraardhës]] të rajonit Four Corners. Grupet kulturore më jugore të Amerikës Veriore zbutën shumë kultura bujqësore të zakonshme që sot përdoren në mbarë botën, si domatet, kungulli dhe [[Misri|misri]]. Zhvillimi i bujqësisë në jug solli edhe shumë përparime të tjera kulturore. Majat zhvilluan një [[Shkrimi maja|sistem shkrimi]], ndërtuan [[Piramidat mezoamerikane|piramida dhe tempuj të mëdhenj]], kishin një [[Kalendari maja|kalendar të ndërlikuar]] dhe rreth vitit 400 e.s. zhvilluan konceptin e zeros.<ref>{{Cite magazine |url=http://www.scientificamerican.com/article.cfm?id=what-is-the-origin-of-zer |title=What is the origin of zero? How did we indicate nothingness before zero? |first=Robert |last=Kaplan |magazine=Scientific American |date=2007-01-16 |access-date=2008-02-19 |archive-date=2011-03-19 |archive-url=https://web.archive.org/web/20110319151336/http://www.scientificamerican.com/article.cfm?id=what-is-the-origin-of-zer |url-status=live |language=en}}</ref>
+
+Përmendjet e para të regjistruara evropiane për Amerikën Veriore gjenden në [[Sagët e Vinlandit|sagat norvegjeze]], ku kontinenti quhet [[Vinlanda|Vinland]].<ref>{{Cite web |last1=Groeneveld |first1=Emma |title=Vinland |url=https://www.worldhistory.org/Vinland/ |website=World History Encyclopedia |date=2018-09-10 |access-date=2020-06-12 |archive-date=2021-04-20 |archive-url=https://web.archive.org/web/20210420181420/https://www.worldhistory.org/Vinland/ |url-status=live |language=en}}</ref> Rasti më i hershëm i verifikueshëm i kontaktit ndërkontinental parakolumbian nga një kulturë evropiane me pjesën kontinentale të Amerikës Veriore daton rreth vitit 1000 e.s.<ref>{{Cite encyclopedia |first1=Linda S. |last1=Cordell |first2=Kent |last2=Lightfoot |first3=Francis |last3=McManamon |first4=George |last4=Milner |title=L'Anse aux Meadows National Historic Site |encyclopedia=Archaeology in America: An Encyclopedia |url=https://books.google.com/books?id=arfWRW5OFVgC&pg=PA82 |date=2009 |publisher=ABC-CLIO |isbn=978-0-313-02189-3 |page=82 |access-date=2020-12-19 |archive-date=2016-12-30 |archive-url=https://web.archive.org/web/20161230134928/https://books.google.com/books?id=arfWRW5OFVgC&pg=PA82 |url-status=live |language=en}}</ref> [[L'Anse aux Meadows#Norse site (c. 1000)|Vendbanimi]], i ndodhur në skajin më verior të ishullit të quajtur {{ill|Newfoundland|en|Newfoundland}}, ka dhënë dëshmi të pakundërshtueshme të një vendbanimi [[Fiset Nordike|nordik]].<ref>{{ill|Helge Ingstad|en|Helge Ingstad|lt=H. Ingstad}} dhe A. Stine Ingstad, ''The Viking Discovery of America'' (2000), f. 141.</ref> Mendohet se eksploruesi nordik [[Leif Eriksoni|Leif Erikson]] (rreth viteve 970–1020 e.s.) e vizitoi këtë zonë.{{Efn|Përshkrimet e vendeve të eksploruara nga Eriksoni duket se përkojnë me ishullin Baffin, bregdetin e Labradorit pranë kepit Porcupine në Newfoundland dhe Belle Isle, si edhe me një vend që e shtyu ta quante vendin Vinland («Vendi i verës»).<ref>{{Cite book |last1=Wernick |first1=Robert |title=The Vikings |date=1979 |publisher=Time-Life Books |location=Alexandria, VA |isbn=0-8094-2709-5 |pages=149–151 |language=en}}</ref>}} Eriksoni ishte evropiani i parë që zbriti në kontinent (duke përjashtuar Grenlandën).<ref>{{Cite web |last1=Little |first1=Becky |title=Why Do We Celebrate Columbus Day and Not Leif Erikson Day? |url=https://www.nationalgeographic.com/news/2015/10/151011-columbus-day-leif-erikson-italian-americans-holiday-history/ |website=National Geographic |access-date=2020-05-28 |date=2015-10-11 |archive-date=2019-03-28 |archive-url=https://web.archive.org/web/20190328203350/https://news.nationalgeographic.com/2015/10/151011-columbus-day-leif-erikson-italian-americans-holiday-history/ |url-status=dead |language=en}}</ref><ref>{{Cite web |title=History – Leif Erikson |url=https://www.bbc.co.uk/history/historic_figures/erikson_leif.shtml |website=BBC |access-date=2020-06-08 |archive-date=2012-01-20 |archive-url=http://web.archive.org/web/20120120185237/http://www.bbc.co.uk/history/historic_figures/erikson_leif.shtml |url-status=live |language=en}}</ref>
+
+Kultura maja ishte ende e pranishme në jug të Meksikës, në gadishullin e Jukatanit, dhe në [[Guatemala]], kur mbërritën pushtuesit spanjollë. Megjithatë, epërsia politike në atë zonë kishte kaluar te [[Perandoria Azteke]], kryeqyteti i së cilës, [[Tenochtitlán]], ndodhej më në veri, në Luginën e Meksikës. Aztekët u pushtuan më 1521 nga [[Hernan Kortes|Hernán Cortés]].<ref name="Grunberg">Bernard Grunberg, ''«La folle aventure d'Hernan Cortés»'', te ''L'Histoire'' nr. 322, korrik–gusht 2007 </ref>
+=== Pas kontaktit, 1492–1910 ===
+{{Hatnote|Artikulli kryesor: {{ill|Kolonizimi evropian i Amerikave|en|European colonization of the Americas}}}}
+{{Hatnote|Shih më tepër: {{ill|Kronologjia e kolonizimit evropian të Amerikës së Veriut|en|Timeline of the European colonization of North America}}; {{ill|Amerika britanike|en|British America}}; {{ill|Amerika franceze|en|French America}}; {{ill|Spanja e Re|en|New Spain}}; {{ill|Kolonizimi rus i Amerikave|en|Russian colonization of the Americas}}}}
+[[File:Waldseemuller map 2.jpg|thumb|Harta e botës e hartografit gjerman {{ill|Martin Waldseemüller|en|Martin Waldseemüller}} (Gjermani, 1507), ku u përdor për herë të parë emri Amerikë{{Citim i duhur|date=February 2026}}]]
+[[File:QueenAnnesWarBefore.svg|thumb|Hartë e Amerikës së Veriut e vitit 1702, ku paraqiten fortesa, qytete dhe (me ngjyra të plota) zonat e banuara nga kolonët evropianë]]
+Gjatë të ashtuquajturës [[Epoka e Zbulimeve]], evropianët eksploruan territore përtej detit dhe pretenduan pjesë të ndryshme të Amerikës së Veriut, pjesa më e madhe e së cilës ishte tashmë e banuar nga popuj vendas. Pas mbërritjes së evropianëve në «[[Bota e Re|Botën e Re]]», popujt vendas reaguan në mënyra të ndryshme, mes të tjerash me kureshtje, tregti, bashkëpunim, dorëzim dhe rezistencë. Popullsia vendase u pakësua ndjeshëm pas mbërritjes së evropianëve, kryesisht për shkak të futjes së sëmundjeve euroaziatike, si [[Lia|lia]], ndaj së cilës popujt vendas nuk kishin imunitet, si dhe për shkak të {{ill|Luftërave të indianëve të Amerikës|en|American Indian Wars|lt=luftërave të indianëve të Amerikës}} të dhunshme me evropianët.<ref>{{Cite book |title=A Concise History of World Population: An Introduction to Population Processes |last=Massimo Livi Bacci |first=Malden |place=Massachusetts |publisher=Blackwell Publishing |year=2001 |edition=3rd |isbn=978-0-631-22335-1 |pages=42–46 |language=en}}</ref> Kultura vendase ndryshoi ndjeshëm, ashtu si edhe përkatësia e popullsive te grupet politike dhe kulturore. Disa grupe gjuhësore u zhdukën, ndërsa të tjera ndryshuan mjaft shpejt.
+
+Në bregdetin juglindor të Amerikës së Veriut, eksploruesi spanjoll {{ill|Juan Ponce de León|en|Juan Ponce de León}}, i cili kishte marrë pjesë në udhëtimin e dytë të Kolombit, vizitoi dhe i dha emrin ''{{ill|La Florida|en|Spanish Florida}}'' në vitin 1513.<ref>{{Cite book |last=Bergreen |first=Lawrence |author-link=Laurence Bergreen |url=https://books.google.com/books?id=3Dyhtkk4VQcC |title=Columbus: The Four Voyages, 1493–1504 |publisher=Penguin Group US |year=2011 |isbn=978-1-101-54432-7 |page=127 |access-date=2020-09-13 |archive-date=2020-12-17 |archive-url=https://web.archive.org/web/20201217004027/https://books.google.com/books?id=3Dyhtkk4VQcC |url-status=live |language=en}}</ref> Gjatë periudhës koloniale, [[Spanja]], Anglia dhe Franca pushtuan dhe pretenduan territore të gjera përgjatë brigjeve lindore dhe jugore të Amerikës së Veriut. Spanja themeloi vendbanime të përhershme në ishujt e Karaibeve [[Hispaniola]] dhe [[Kuba|Kubë]] në vitet 1490. Ajo ndërtoi qytete, i detyroi popullsitë vendase që banonin atje të punonin, kultivoi të mbjella për kolonët spanjollë dhe nxori ar për t'i pasuruar spanjollët. Një pjesë e madhe e popullsisë vendase vdiq nga sëmundjet dhe puna e tepërt, duke i nxitur spanjollët të pretendonin toka dhe popuj të rinj. Në vitin 1519, një ekspeditë nën komandën e kolonit spanjoll [[Hernan Kortes|Hernan Kortes (Hernán Cortés)]] lundroi drejt perëndimit, në një vend që doli të ishte kontinenti i Meksikës. Me aleatët vendas, spanjollët pushtuan {{ill|Perandorinë Azteke në Meksikën qendrore|en|Spanish conquest of the Aztec empire}} në vitin 1521. Më pas, gjatë shekullit të gjashtëmbëdhjetë, Spanja themeloi qytete të përhershme në [[Meksika|Meksikë]], Amerikën Qendrore dhe Amerikën Jugore spanjolle. Pasi spanjollët pushtuan qytetërimet e zhvilluara të aztekëve dhe inkëve, Karaibet u kthyen në një rajon të lënë pas dore të Perandorisë Spanjolle.
+
+Fuqitë e tjera evropiane nisën të ndërhynin në zonat e pretenduara nga Spanja, përfshirë ishujt e Karaibeve. Franca mori gjysmën perëndimore të [[Hispaniola]]s dhe e zhvilloi {{ill|Saint-Domingue|en|Saint-Domingue|lt=Sën-Domingun}} si koloni prodhuese të sheqerit nga kallami, ku puna kryhej nga skllevër zezakë. Britania mori [[Barbadosi|Barbadosin]] dhe [[Xhamajka|Xhamajkën]], ndërsa holandezët dhe danezët morën ishuj që më parë i pretendonte Spanja. Britania nuk nisi të themelonte vendbanime në kontinentin e Amerikës së Veriut deri njëqind vjet pas vendbanimeve të para spanjolle, pasi fillimisht kërkonte të kontrollonte [[Irlanda|Irlandën]] e afërt.
+
+=== Vendbanimet angleze ===
+{{Kryesor|Amerika britanike}}
+Vendbanimi i parë i përhershëm anglez ishte në Xhejmstaun të Virxhinias, në vitin 1607; më pas u krijuan vendbanime të tjera koloniale në [[Bregu Lindor i Shteteve të Bashkuara|bregun lindor]], nga [[Xhorxhia]] e sotme në jug deri te [[Masaçusec|Masaçusetsi]] në veri, duke formuar [[Trembëdhjetë Kolonitë|Trembëdhjetë Kolonitë e Amerikës Britanike]]. Anglezët nuk krijuan vendbanime në veri ose në lindje të luginës së [[Lumi i Shën Lorencit|Shën Lorencit]] në Kanadanë e sotme deri pas përfundimit të [[Lufta Revolucionare Amerikane|Luftës Revolucionare Amerikane]]. Vendbanimet e para të përhershme britanike në Kanadanë e sotme përfshinin [[Saint John's (Newfoundland dhe Labradori)|Saint John's në Newfoundland]], në vitin 1630, dhe [[Halifax (Skocia e Re)|Halifax në Skocinë e Re]], në vitin 1749. Vendbanimi i parë i përhershëm francez ishte në qytetin e {{ill|Quebec City|en|Quebec City|lt=Kebekut}}, i themeluar në vitin 1608.
+
+=== Lufta Shtatëvjeçare ===
+{{Hatnote|Artikulli kryesor: {{ill|Lufta Shtatëvjeçare|en|Seven Years' War}}}}
+Pas fitores britanike në Luftën Shtatëvjeçare, Franca ia lëshoi Britanisë, në vitin 1763, pretendimet e saj mbi territoret e Amerikës së Veriut në lindje të [[Lumi i Misisipit|Misisipit]]. [[Spanja]], nga ana e saj, fitoi të drejta mbi territoret në perëndim të Misisipit, i cili më pas shërbeu si kufi mes pretendimeve territoriale të Spanjës dhe Britanisë. Kolonët francezë u vendosën në Territorin e Ilinoisit pas disa brezash përvoje në Amerikën e Veriut. Ata kaluan lumin e Misisipit dhe u shpërngulën në rajone ku nuk kishte prani spanjolle dhe ku mund të shfrytëzonin vendbanimet e mëparshme franceze në Luiziana, përreth [[Gjiri i Meksikës|Gjirit të Meksikës]]. Këta kolonë të hershëm francezë krijuan aleanca me fiset vendase të Mesperëndimit, ndërsa pasardhësit e tyre me prejardhje të përzier më vonë vijuan zgjerimin drejt perëndimit, deri në [[Oqeani Paqësor|Oqeanin Paqësor]] dhe në bregun perëndimor të Shteteve të Bashkuara të sotme.
+
+=== Revolucioni Amerikan ===
+{{Kryesor|Revolucioni Amerikan|Lufta Revolucionare Amerikane}}
+Në vitin 1776, pas disa përpjekjesh për të zgjidhur mosmarrëveshjet me [[Mbretëria e Britanisë së Madhe|Mbretërinë e Britanisë së Madhe]], [[Trembëdhjetë Kolonitë|Trembëdhjetë Kolonitë]] e Amerikës Britanike dërguan delegatë në [[Kongresi i Dytë Kontinental|Kongresin e Dytë Kontinental]] në [[Filadelfia|Filadelfi]]. Më 4 korrik 1776, kongresi miratoi njëzëri [[Deklarata e Pavarësisë së Shteteve të Bashkuara|Deklaratën e Pavarësisë]], të hartuar kryesisht nga anëtari i [[Komiteti i Pesësh|Komitetit të Pesësh]], [[Thomas Jefferson]], të cilin Kongresi i Dytë Kontinental e kishte ngarkuar për hartimin e saj. Në Deklaratë, trembëdhjetë kolonitë shpallën pavarësinë nga monarkia britanike, e cila atëherë drejtohej nga mbreti [[Xhorxhi III]], dhe renditën faktorët që ndikuan në vendimin e tyre. Nënshkrimi dhe shpallja e Deklaratës së Pavarësisë zyrtarizuan dhe përshkallëzuan Luftën Revolucionare Amerikane, e cila kishte nisur një vit më parë, më 19 prill 1775, me {{ill|Betejat e Leksingtonit dhe Konkordit|en|Battles of Lexington and Concord|lt=betejat e Leksingtonit dhe Konkordit}}. Pas shpërthimit të luftës, delegatët e Trembëdhjetë Kolonive u mblodhën në Filadelfi, krijuan {{ill|Ushtrinë Kontinentale|en|Continental Army}} nga milicitë e ndryshme të {{ill|Patriotëve të Revolucionit Amerikan|en|Patriot (American Revolution)|lt=patriotëve të Revolucionit Amerikan}} që po i bënin qëndresë britanikëve, dhe emëruan [[Xhorxh Uashington|Xhorxh Uashingtonin (George Washington)]] komandant ushtarak të Ushtrisë Kontinentale.
+
+Teksa përparonte Lufta Revolucionare Amerikane, Franca dhe Spanja, të dyja armiq të Britanisë në atë kohë, nisën të shihnin mundësinë e një fitoreje amerikane në luftë dhe filluan të mbështesnin Uashingtonin dhe kauzën revolucionare amerikane. Nga ana e saj, {{ill|Ushtria Britanike gjatë Luftës Revolucionare Amerikane|en|British Army during the American Revolutionary War}} u mbështet nga njësi ushtarake hesiane nga Gjermania e sotme.
+
+Në vitin 1783, pas një përpjekjeje tetëvjeçare për të mposhtur kryengritjen amerikane, mbreti Xhorxhi III pranoi humbjen e Britanisë në luftë. Kjo çoi në nënshkrimin e [[Traktati i Parisit (1783)|Traktatit të Parisit]] më 3 shtator 1783, i cili konsolidoi krijimin sovran të Shteteve të Bashkuara.
+===Zgjerimi drejt perëndimit===
+{{Hatnote|Artikulli kryesor: {{ill|Shtigjet e zgjerimit drejt perëndimit|en|Westward Expansion Trails}}}}
+{{Hatnote|Shih: {{ill|Ekspedita e Luisit dhe Klarkut|en|Lewis and Clark Expedition}}, {{ill|Blerja e Luizianës|en|Louisiana Purchase}} dhe {{ill|Ekspedita Eksploruese e Shteteve të Bashkuara|en|United States Exploring Expedition}}}}
+[[Skeda:Professor G. Droysens Allgemeiner historischer Handatlas 1886 (134038141).jpg|thumb|right|Kolonizimi evropian i Amerikës së Veriut dhe {{ill|Territorial evolution of the United States|en|Territorial evolution of the United States|lt=ndryshimi territorial i Shteteve të Bashkuara}}, nga Gustav Droysen]]
+Nga fundi i shekullit XVIII, Rusia ishte vendosur përgjatë bregdetit verior të {{ill|Pacific Northwest|en|Pacific Northwest|lt=veriperëndimit të Paqësorit}}, ku merrej me tregtinë detare të gëzofëve dhe mbështetej nga vendbanime të ndryshme të popujve vendas të rajonit. Si rezultat, spanjollët shfaqën interes më të madh për kontrollin e tregtisë në bregdetin e Paqësorit dhe hartëzuan pjesën më të madhe të vijës bregdetare. Gjatë asaj periudhe u bënë përpjekjet e para për të krijuar vendbanime spanjolle në {{ill|Alta California|en|Alta California|lt=Kaliforninë e Epërme}}. Një numër ekspeditash tokësore të lidhura me udhëtarët kanadezë të lumenjve (''voyageurs''), tregtinë e gëzofëve dhe ekspeditat e drejtuara nga Shtetet e Bashkuara, përfshirë ato të Luisit dhe Klarkut, Frémontit dhe Wilkesit, arritën deri në Paqësor.
+
+Në vitin 1803, gjatë presidencës së Thomas Jeffersonit, presidenti i tretë i Shteteve të Bashkuara, Napoleoni Bonaparti i shiti Shteteve të Bashkuara pretendimet e mbetura territoriale të Francës në Amerikën e Veriut, përfshirë rajonet në perëndim të lumit Misisipi, nëpërmjet {{ill|Louisiana Purchase|en|Louisiana Purchase|lt=Blerjes së Luizianës}}. Spanja dhe Shtetet e Bashkuara e zgjidhën mosmarrëveshjen për kufirin e tyre perëndimor në vitin 1819, me {{ill|Adams–Onís Treaty|en|Adams–Onís Treaty|lt=Traktatin Adams–Onís}}. Meksika zhvilloi një luftë të gjatë për pavarësi nga Spanja dhe e fitoi atë në vitin 1821; Meksika përfshinte në atë kohë edhe Amerikën Qendrore. Shtetet e Bashkuara kërkuan zgjerim të mëtejshëm drejt perëndimit dhe zhvilluan {{ill|Mexican–American War|en|Mexican–American War|lt=Luftën Meksikano-Amerikane}}, duke fituar një territor të gjerë, të cilin fillimisht e pretendoi Spanja e më pas Meksika, por që asnjëra nuk e kontrollonte efektivisht. Në fakt, pjesën më të madhe të zonës e zotëronin popujt vendas, të cilët nuk i njihnin pretendimet e Spanjës, Francës apo Shteteve të Bashkuara. Në vitin 1867, Rusia ia shiti Shteteve të Bashkuara pretendimet e saj në Amerikën e Veriut, përfshirë territorin e shtetit të sotëm amerikan të [[Alaska|Alaskës]].
+
+===Kanadaja dhe Kanali i Panamasë===
+{{Kryesor|Kanadaja}}
+{{Hatnote|Artikulli kryesor: {{ill|Kanali i Panamasë|en|Panama Canal}}}}
+Në vitin 1867, kolonët në veri të Shteteve të Bashkuara u bashkuan si Dominion i Kanadasë. Shtetet e Bashkuara kërkuan të hapnin një kanal përmes {{ill|Isthmus of Panama|en|Isthmus of Panama|lt=istmit të Panamasë}}, në [[Panamaja|Panamanë]] e sotme, në Amerikën Qendrore, që atëherë ishte pjesë e [[Kolumbia|Kolumbisë]] së sotme. Shtetet e Bashkuara i ndihmuan panamezët në një luftë që çoi në shkëputjen e tyre nga Kolumbia. Më pas, Shtetet e Bashkuara krijuan Zonën e Kanalit të Panamasë dhe shpallën sovranitetin mbi të. Pas dekadash pune, Kanali i Panamasë përfundoi në vitin 1913, duke lidhur Oqeanin Atlantik me Oqeanin Paqësor dhe duke lehtësuar ndjeshëm lundrimin në transportin detar global.
+== Gjeografia ==
+{{Hatnote|Artikulli kryesor: {{ill|Gjeografia e Amerikës së Veriut|en|Geography of North America}}}}
+[[File:Physical Features of North America map by Tom Patterson v. 1.01, meters.jpg|thumb|Format e relievit dhe mbulesa e tokës në Amerikën e Veriut, paraqitur në një hartë të vitit 2021]]
+[[File:Saguaro National Park - Flickr - Joe Parks.jpg|thumb|[[Shkretëtira Sonorane]] në [[Arizona]]]]
+[[File:Moraine Lake 17092005.jpg|thumb|[[Liqeni Moraine]] në [[Parku kombëtar Banff|Parkun Kombëtar Banff]], në [[Alberta]]]]
+[[File:Nuuk city below Sermitsiaq.JPG|thumb|[[Nuuk]], kryeqyteti i [[Grenlanda|Grenlandës]]]]
+Amerika e Veriut zë pjesën veriore të masës tokësore që përgjithësisht quhet Bota e Re, [[Hemisfera Perëndimore|hemisfera perëndimore]], Amerikat ose thjesht Amerika, e cila në shumë vende konsiderohet një kontinent i vetëm<ref name="IOC">{{Cite web |url=http://multimedia.olympic.org/pdf/en_report_672.pdf |title=The Olympic symbols |publisher=[[Komiteti Olimpik Ndërkombëtar]] |year=2002 |archive-url=https://web.archive.org/web/20080307073846/http://multimedia.olympic.org/pdf/en_report_672.pdf |archive-date=2008-03-07 |location=Lausanne: Olympic Museum and Studies Centre |language=en}} Pesë unazat e flamurit olimpik përfaqësojnë pesë kontinentet e banuara pjesëmarrëse: Afrikën, Amerikën, Azinë, Evropën dhe Oqeaninë.</ref><ref>{{Cite web |url=http://www.moscow2001.olympic.org/en/pdf/members_by_continent.pdf |title=Members by continent |archive-url=https://web.archive.org/web/20020223205800/http://www.moscow2001.olympic.org/en/pdf/members_by_continent.pdf |archive-date=2002-02-23 |language=en}}</ref><ref name="Oceano">{{Cite book |title=Océano Uno, Diccionario Enciclopédico y Atlas Mundial |chapter=Continente |pages=392, 1730 |isbn=978-84-494-0188-6 |last1=Equipo |year=1997 |publisher=Océano |language=es}}</ref><ref name="cincocontinentes">{{Cite book |title=Los Cinco Continentes (The Five Continents) |publisher=Planeta-De Agostini Editions |year=1997 |isbn=978-84-395-6054-8 |language=es}}</ref>, ndërsa Amerika e Veriut është një nënkontinent.<ref>{{Cite web |title=Encarta, "Norteamérica" |url=http://mx.encarta.msn.com/encyclopedia_761562468/Norteam%C3%A9rica.html |archive-url=https://web.archive.org/web/20090130015145/http://mx.encarta.msn.com/encyclopedia_761562468/Norteam%C3%A9rica.html |archive-date=2009-01-30 |url-status=dead |language=es |access-date=2007-01-30}}</ref><ref name="britannica-northamerica">{{Cite encyclopedia |url=https://www.britannica.com/EBchecked/topic/418612/North-America |title=North America |encyclopedia=[[Encyclopædia Britannica]] |access-date=2014-02-03 |archive-date=2012-05-20 |archive-url=https://web.archive.org/web/20120520211322/http://www.britannica.com/EBchecked/topic/418612/North-America |url-status=live |language=en}}</ref><ref>{{Cite web |title=Map And Details Of All 7 Continents |url=https://www.worldatlas.com/aatlas/infopage/contnent.htm |access-date=2016-09-02 |publisher=worldatlas.com |quote=In some parts of the world, students are taught that there are only six continents, as they combine North America and South America into one continent called the Americas. |archive-date=2016-03-04 |archive-url=https://web.archive.org/web/20160304032048/http://worldatlas.com/aatlas/infopage/contnent.htm |url-status=live |language=en}}</ref> Amerika e Veriut është kontinenti i tretë për nga sipërfaqja, pas [[Azia|Azisë]] dhe [[Afrika|Afrikës]].<ref>{{Cite web |last=Rosenberg |first=Matt |date=2020-04-11 |title=Ranking the 7 Continents by Size and Population |url=https://www.thoughtco.com/continents-ranked-by-size-and-population-4163436 |access-date=2020-08-27 |website=ThoughtCo |language=en |archive-date=2020-11-01 |archive-url=https://web.archive.org/web/20201101002537/https://www.thoughtco.com/continents-ranked-by-size-and-population-4163436 |url-status=live}}</ref><ref>{{Cite web |title=North America Land Forms and Statistics |url=http://www.worldatlas.com/webimage/countrys/nalandst.htm |access-date=2013-06-16 |publisher=World Atlas.com |archive-date=2013-06-23 |archive-url=https://web.archive.org/web/20130623010048/http://www.worldatlas.com/webimage/countrys/nalandst.htm |url-status=live |language=en}}</ref>
+
+E vetmja lidhje tokësore e Amerikës së Veriut me [[Amerika Jugore|Amerikën Jugore]] gjendet në territorin e sotëm të [[Panamaja|Panamasë]], te Gryka e Darienit, në kufirin Kolumbi–Panama, duke bërë që pothuajse e gjithë Panamaja të përfshihet në Amerikën e Veriut.<ref>{{Cite web |url=http://unstats.un.org/unsd/methods/m49/m49regin.htm#americas |title=Americas |work=Standard Country and Area Codes Classifications (M49) |publisher=United Nations Statistics Division |access-date=2014-02-03 |archive-date=2009-12-11 |archive-url=https://wayback.archive-it.org/all/20091211114207/http://unstats.un.org/unsd/methods/m49/m49regin.htm#americas |url-status=live |language=en}}</ref><ref>{{Cite web |url=http://atlas.nrcan.gc.ca/site/english/maps/reference/international/north_america/referencemap_image_view |archive-url=https://web.archive.org/web/20061021010223/http://atlas.nrcan.gc.ca/site/english/maps/reference/international/north_america/referencemap_image_view |archive-date=2006-10-21 |title=North America |work=Atlas of Canada |access-date=2011-05-12 |url-status=dead |language=en}}</ref><ref name="North America Atlas">{{Cite magazine |url=http://www.nationalgeographic.com/xpeditions/atlas/index.html?Parent=nameri&Rootmap=&Mode=d&SubMode=w |title=North America Atlas |magazine=National Geographic |access-date=2011-05-12 |archive-date=2020-05-25 |archive-url=https://web.archive.org/web/20200525180734/https://www.nationalgeographic.org/education/?xpop=1 |url-status=dead |language=en}}</ref> Sipas një këndvështrimi tjetër, disa gjeologë e vendosin kufirin jugor të kontinentit, nga pikëpamja fiziko-gjeografike, te Istmi i Tehuantepekut në Meksikë; sipas këtij përcaktimi, Amerika Qendrore shtrihet prej aty në juglindje, deri në Amerikën Jugore.<ref>{{Cite encyclopedia |title=Central America |url=https://www.britannica.com/EBchecked/topic/102196/Central-America |encyclopedia=Encyclopædia Britannica |access-date=2011-06-28 |archive-date=2011-07-08 |archive-url=https://web.archive.org/web/20110708183740/https://www.britannica.com/EBchecked/topic/102196/Central-America |url-status=live |language=en}}</ref> Ishujt e Karaibeve, ose Inditë Perëndimore, konsiderohen pjesë e Amerikës së Veriut.<ref name="britannica-northamerica"/> Vija bregdetare kontinentale është e gjatë dhe e çrregullt. Gjiri i Meksikës është trupi ujor më i madh që futet në kontinent, i ndjekur nga Gjiri Hadson. Të tjerë janë Gjiri i Shën Lorencit dhe Gjiri i Kalifornisë.
+
+Përpara formimit të istmit të Amerikës Qendrore, rajoni kishte qenë i mbuluar nga ujërat. Ishujt e Indive Perëndimore shënojnë një ish-urë tokësore të zhytur, që kishte lidhur Amerikën e Veriut me Amerikën Jugore përmes zonave ku sot ndodhen [[Florida]] dhe [[Venezuela]].
+
+Në brigjet e kontinentit ka disa ishuj dhe grupe ishujsh; ndër më të rëndësishmit janë Arkipelagu Arktik, Antilet e Mëdha dhe Antilet e Vogla, Ishujt Aleutianë (disa prej të cilëve ndodhen në hemisferën lindore), Arkipelagu Aleksandër, mijëra ishuj të bregdetit të Kolumbisë Britanike dhe Njufaundlendi. [[Grenlanda]], një ishull danez me vetëqeverisje dhe ishulli më i madh në botë, ndodhet mbi të njëjtën pllakë tektonike (Pllakën e Amerikës së Veriut) dhe, nga pikëpamja gjeografike, është pjesë e Amerikës së Veriut. Në kuptimin gjeologjik, Bermudet nuk janë pjesë e Amerikave, por janë ishuj oqeanikë të formuar mbi çarjen e Kurrizit të Mes-Atlantikut më shumë se 100 milionë vjet më parë. Masa tokësore më e afërt është Kepi Hateras në [[Karolina e Veriut]]. Megjithatë, Bermudet shpesh konsiderohen pjesë e Amerikës së Veriut, sidomos për shkak të lidhjeve të tyre historike, politike dhe kulturore me [[Virxhinia|Virxhinian]] dhe pjesë të tjera të kontinentit.
+
+Pjesa dërrmuese e Amerikës së Veriut ndodhet mbi Pllakën e Amerikës së Veriut. Pjesë të Meksikës perëndimore, përfshirë Gadishullin e Kalifornisë së Poshtme, si dhe të [[Kalifornia|Kalifornisë]], përfshirë qytetet [[San Diego]], [[Los Anxheles]] dhe Santa Kruz, ndodhen në skajin lindor të Pllakës së Paqësorit; të dyja pllakat takohen përgjatë Thyerjes së San Andreasit. Pjesa më jugore e kontinentit dhe pjesa më e madhe e Indive Perëndimore ndodhen mbi Pllakën e Karaibeve, ndërsa Pllaka Huan de Fuka dhe Pllaka e Kokosit kufizojnë Pllakën e Amerikës së Veriut në skajin e saj perëndimor.
+
+Kontinenti mund të ndahet në katër rajone të mëdha, secili me shumë nënrajone: Fushat e Mëdha, që shtrihen nga Gjiri i Meksikës deri në Arktikun kanadez; perëndimi i ri nga pikëpamja gjeologjike dhe malor, përfshirë Malet Shkëmbore, Pellgun e Madh, [[Kalifornia|Kaliforninë]] dhe [[Alaska|Alaskën]]; pllaja e ngritur, por relativisht e rrafshët, e Mburojës Kanadeze në verilindje; dhe rajoni i larmishëm lindor, ku përfshihen Malet Apalaçe, fusha bregdetare përgjatë bregut të Atlantikut dhe Gadishulli i Floridës. Meksika, me pllajat dhe vargmalet e saj të gjata, shtrihet kryesisht në rajonin perëndimor, megjithëse fusha bregdetare lindore vazhdon në jug përgjatë Gjirit.
+
+Malet perëndimore ndahen në mes në vargun kryesor të Maleve Shkëmbore dhe vargmalet bregdetare në [[Kalifornia|Kaliforni]], [[Oregon]], [[Uashington|Uashington (shtet)]] dhe [[Kolumbia Britanike]], me Pellgun e Madh ndërmjet tyre — një zonë më e ulët, me vargmale më të vogla dhe shkretëtira të ulëta. Maja më e lartë është [[Denali]] (i quajtur edhe Mali Mek-Kinli) në Alaskë.
+
+Shërbimi Gjeologjik i SHBA-së (USGS) thotë se qendra gjeografike e Amerikës së Veriut ndodhet «10 km në perëndim të Baltës, në kontenë Pirsi, Dakotë e Veriut», afërsisht në {{Coord|48|10|N|100|10|W}}, rreth {{Convert|15|mi|km|order=flip|sp=us}} nga Rajbi, në Dakotë të Veriut. USGS-ja thotë gjithashtu se «asnjë pikë e shënuar apo e përuruar nga ndonjë agjenci qeveritare nuk është përcaktuar si qendra gjeografike e as 50 shteteve, e as e Shteteve të Bashkuara kontinentale, e as e kontinentit të Amerikës së Veriut».<ref>{{Cite web |url=http://egsc.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html |archive-url=https://web.archive.org/web/20120722022527/http://egsc.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html |archive-date=2012-07-22 |title=Elevations and Distances |access-date=2013-12-09 |url-status=dead |language=en}}</ref> Megjithatë, në Rajbi ndodhet një obelisk prej guri, 4,6 m i lartë, që pretendon se shënon qendrën. Poli kontinental i paarritshmërisë së Amerikës së Veriut ndodhet 1.650 km larg vijës bregdetare më të afërt, midis Allenit dhe Kajlit, në Dakotën e Jugut, te {{Coord|43.36|N|101.97|W|name=Poli i paarritshmërisë së Amerikës së Veriut}}.<ref name="PIA">{{Cite journal |doi=10.1080/14702540801897809 |volume=123 |issue=3 |pages=227–233 |last1=Garcia-Castellanos |first1=D. |last2=Lombardo |first2=U. |title=Poles of Inaccessibility: A Calculation Algorithm for the Remotest Places on Earth |journal=Scottish Geographical Journal |date=2007 |bibcode=2007ScGJ..123..227G |s2cid=55876083 |url=http://cuba.ija.csic.es/~danielgc/papers/Garcia-Castellanos,%20Lombardo,%202007,%20SGJ.pdf |url-status=dead |archive-url=https://web.archive.org/web/20140629230429/http://cuba.ija.csic.es/~danielgc/papers/Garcia-Castellanos,%20Lombardo,%202007,%20SGJ.pdf |archive-date=2014-06-29 |access-date=2011-06-03 |issn=1470-2541 |language=en}}</ref>
+=== Kanada ===
+{{Hatnote|Artikulli kryesor: {{ill|Gjeografia e Kanadasë|en|Geography of Canada}}}}
+
+Kanadaja mund të ndahet në afërsisht shtatë njësi [[fiziografike]]:<ref>{{Cite web |last=Government of Canada |first=Natural Resources Canada |date=12 September 2016 |title=Natural Resources Canada. The Atlas of Canada. Physiographic Regions of Canada |url=https://atlas.gc.ca/phys/en/index.html |access-date=15 September 2024 |website=atlas.gc.ca |language=en}}</ref>
+
+# {{ill|Mburoja Kanadeze|en|Canadian Shield}}
+# {{ill|Rrafshinat e Brendshme|en|Interior Plains}}
+# Ultësirat e Liqeneve të Mëdha dhe lumit Shën Lorenc
+# Rajoni i [[Malet Apalashe|Maleve Apalashe]]
+# Kordiliera Perëndimore
+# {{ill|Ultësirat e Gjirit Hadson|en|Hudson Bay Lowlands}}
+# {{ill|Arkipelagu Arktik|en|Arctic Archipelago}}
+
+=== Shtetet e Bashkuara ===
+{{Hatnote|Artikujt kryesorë: {{ill|Gjeografia e Shteteve të Bashkuara|en|Geography of the United States}}; {{ill|Rajonet fiziografike të Shteteve të Bashkuara|en|Physiographic regions of the United States}}}}
+
+48 shtetet e poshtme të SHBA-së mund të ndahen në afërsisht tetë njësi [[fiziografike]]:<ref>{{Cite web |date=15 May 2006 |title=Physiographic Regions |url=http://tapestry.usgs.gov/physiogr/physio.html |url-status=dead |archive-url=https://web.archive.org/web/20060515044037/http://tapestry.usgs.gov/physiogr/physio.html |archive-date=15 May 2006 |access-date=15 September 2024 |publisher=United States Geological Survey |language=en}}</ref>
+
+# {{ill|Rrafshnaltat ndërmalore|en|Intermontane Plateaus}}
+# {{ill|Rrafshnalta Laurentiane|en|Laurentian Upland}}, pjesë e [[Mburoja Kanadeze|Mburojës Kanadeze]],<ref name="Marianopolis" /> në pjesën veriore të {{ill|Midwestern United States|en|Midwestern United States|lt=Midwestit}} të sipërm të SHBA-së
+# [[Rrafshinat e Brendshme]]
+# {{ill|Rrafshina Atlantike|en|Atlantic Plain}}
+# Malësitë Apalashe
+# {{ill|Malësitë e Brendshme|en|U.S. Interior Highlands}}
+# {{ill|Sistemi i Maleve Shkëmbore|en|Geology of the Rocky Mountains}}
+# Sistemi i Maleve të Bregdetit të Paqësorit
+
+=== Meksika ===
+{{Hatnote|Artikulli kryesor: {{ill|Gjeografia e Meksikës|en|Geography of Mexico}}}}
+
+Meksika mund të ndahet në afërsisht pesëmbëdhjetë njësi [[fiziografike]]:<ref>{{Cite book |last=Bautista |first=Francisco |title=El Kast de México |publisher=Asociación Mexicana de Estudios sobre el Karst |year=2023 |publication-place=Ciudad de México |page=47 |language=es |trans-title=The Karst of Mexico}}</ref>
+
+# Gadishulli i Kalifornisë së Poshtme
+# Baseni dhe vargmalet e Sonorës
+# {{ill|Sierra Madre Occidental|en|Sierra Madre Occidental|lt=Sierra Madreja Perëndimore}}
+# Malet dhe rrafshinat veriore
+# {{ill|Sierra Madre Oriental|en|Sierra Madre Oriental|lt=Sierra Madreja Lindore}}
+# Rrafshina e Madhe
+# Rrafshina bregdetare e Paqësorit
+# Rrafshina bregdetare veriore e Gjirit
+# [[Rrafshnalta Meksikane|Rrafshnalta Qendrore]]
+# [[Brezi vullkanik trans-meksikan|Boshti Vullkanik]]
+# {{ill|Sierra Madre del Sur|en|Sierra Madre del Sur|lt=Sierra Madreja Jugore}}
+# [[Rrafshina bregdetare e Gjirit|Rrafshina bregdetare jugore e Gjirit]]
+# {{ill|Sierra Madre del Sur|en|Sierra Madre del Sur|lt=Sierra Madreja e Chiapasit}}
+# Malësitë e Chiapasit
+# Gadishulli Jukatan
+
+=== Klima ===
+[[File:Koppen-Geiger Map North America present.svg|thumb|upright=1.2|Harta e klasifikimit klimatik Köppen-Geiger për Amerikën e Veriut]]
+
+Amerika e Veriut është një kontinent shumë i madh që shtrihet nga veriu i [[Rrethi Arktik|Rrethit Arktik]] deri në jug të [[Tropiku i Gaforres|Tropikut të Gaforres]]. Groenlanda, bashkë me [[Mburoja Kanadeze|Mburojën Kanadeze]], përbëhet nga [[Tundra|tundra]], me temperatura mesatare që variojnë nga {{Cvt|10|to|20|C}}, ndërsa Groenlanda qendrore mbulohet nga një shtresë shumë e madhe akulli. Kjo tundër shtrihet në pjesën më të madhe të Kanadasë, por kufiri i saj përfundon pranë Maleve Shkëmbore (duke përfshirë edhe Alaskën) dhe në skajin e Mburojës Kanadeze, pranë [[Liqenet e Mëdha|Liqeneve të Mëdha]]. Klima në perëndim të [[Malet Kaskade|Maleve Kaskade]] përshkruhet si klimë e butë, me reshje mesatare prej {{Convert|20|in|abbr=off|sp=us}}.<ref>{{cite web |url=http://cses.washington.edu/cig/pnwc/pnwc.shtml |title=Cascades weather |author=University of Washington |work=University of Washington |access-date=7 June 2015 |archive-date=10 March 2013 |archive-url=https://web.archive.org/web/20130310162902/http://cses.washington.edu/cig/pnwc/pnwc.shtml |url-status=live |language=en}}</ref> Klima në zonat bregdetare të Kalifornisë përshkruhet si [[Klima mesdhetare|mesdhetare]]; temperaturat mesatare në qytete si [[San Francisko]] variojnë nga {{Cvt|57|to|70|F}} gjatë vitit.<ref>{{cite web |url=http://www.sftodo.com/sanfranciscoweather.html |archive-url=https://web.archive.org/web/20130719235932/http://www.sftodo.com/sanfranciscoweather.html |url-status=dead |archive-date=19 July 2013 |title=Temperature of San Francisco |author=SF to do |work=tourism |language=en}}</ref>
+
+Nga [[Bregu Lindor i Shteteve të Bashkuara|Bregu Lindor]] deri në pjesën lindore të [[Dakota e Veriut|Dakotës së Veriut]], e më tej në jug deri në [[Kanzas]], shtrihet [[Klima kontinentale e lagësht|klima kontinentale e lagësht]], me stinë të theksuara dhe reshje të shumta vjetore. Në [[Nju Jork Siti]], për shembull, bien mesatarisht {{Cvt|50|in}} reshje në vit.<ref>{{cite web |url=http://www.currentresults.com/Weather/New-York/average-yearly-precipitation.php |title=Rainfall of NYC |work=Current Results |access-date=7 June 2015 |archive-date=5 July 2015 |archive-url=https://web.archive.org/web/20150705180619/http://www.currentresults.com/Weather/New-York/average-yearly-precipitation.php |url-status=live |language=en}}</ref> Duke nisur nga kufiri jugor i klimës kontinentale të lagësht dhe duke u shtrirë deri në [[Gjiri i Meksikës|Gjirin e Meksikës]], ndërsa përfshin gjysmën lindore të Teksasit, shtrihet [[Klima subtropikale e lagësht|klima subtropikale e lagësht]]. Kjo zonë ka qytetet më të lagështa në SHBA-në e afërt, ku reshjet vjetore arrijnë {{Cvt|67|in}} në {{ill|Mobile, Alabama|en|Mobile, Alabama|lt=Mobile}} të Alabamës.<ref>{{cite web |url=http://www.livescience.com/1558-study-reveals-top-10-wettest-cities.html |title=Top 10 wettest cities |first=Andrea |last=Thompson |work=livescience |date=18 May 2007 |access-date=7 June 2015 |archive-date=15 February 2015 |archive-url=https://web.archive.org/web/20150215104426/http://www.livescience.com/1558-study-reveals-top-10-wettest-cities.html |url-status=live |language=en}}</ref> Nga kufiri mes klimave kontinentale të lagështa dhe subtropikale, e duke u shtrirë në perëndim deri te [[Sierra Nevada (SHBA)|Sierra Nevada]], në jug deri te skaji jugor i Durangos dhe në veri deri te kufiri me klimën e tundrës, shtrihen klimët [[Klima gjysmë e thatë|gjysmë të thata]] të stepës dhe [[Klima shkretinore|shkretëtirës]], më të thatat në SHBA.<ref>{{cite web |url=http://home.comcast.net/~rhaberlin/crpptnts.htm |date=2015 |title=Climate Regions of North America |first=Rita D. |last=Haberlin |work=Peralta Colleges, Physical Geography |url-status=dead |archive-url=https://web.archive.org/web/20151002103016/http://home.comcast.net/~rhaberlin/crpptnts.htm |archive-date=2 October 2015 |language=en}}</ref> Klimat malore shtrihen nga veriu në jug të kontinentit. Klimat [[Klima subtropikale|subtropikale]] ose [[Klima e butë|të buta]] gjenden menjëherë në jug të tropikëve, si në Meksikën qendrore dhe në [[Guatemala]]. [[Klima tropikale|Klimat tropikale]] shfaqen në rajonet [[Ishulli|ishullore]] dhe në ngushticën e nënkontinentit, në vende dhe shtete të lagura nga [[Deti i Karaibeve]] ose që ndodhen në jug të Gjirit të Meksikës dhe të [[Oqeani Paqësor|Oqeanit Paqësor]].<ref>{{Cite news |url=http://www.naturalhistoryonthenet.com/Continents/north_america.htm |title=Facts and Information about the Continent of North America |date=7 July 2016 |work=Natural History on the Net |access-date=15 September 2018 |language=en-US |archive-date=15 September 2018 |archive-url=https://web.archive.org/web/20180915125641/http://www.naturalhistoryonthenet.com/Continents/north_america.htm |url-status=live}}</ref> Modelet e reshjeve ndryshojnë në të gjithë rajonin; si rrjedhojë, gjenden klima të [[Klima tropikale e pyjeve të shiut|pyjeve tropikale të shiut]], [[Klima tropikale musonike|musonike]] dhe [[Klima tropikale e savanës|savanore]], me reshje dhe temperatura të larta gjatë gjithë vitit.
+=== Ekologjia ===
+[[File:NorthAmerica-WaterDivides.png|thumb|Ndarjet kryesore ujore në [[Kanadaja|Kanada]], [[Shtetet e Bashkuara të Amerikës]] dhe [[Meksika|Meksikë]]]]
+{{Hatnote|Shih edhe: {{ill|Jeta e egër e Meksikës|en|Wildlife of Mexico}}, {{ill|Fauna e Shteteve të Bashkuara|en|Fauna of the United States}}, {{ill|Flora e Shteteve të Bashkuara|en|Flora of the United States}} dhe {{ill|Jeta e egër e Kanadasë|en|Wildlife of Canada}}}}
+Fauna e spikatur e Amerikës së Veriut përfshin {{ill|Bizoni amerikan|en|American bison|lt=bizonin}}, {{ill|Ariu i zi amerikan|en|American black bear|lt=arin e zi}}, [[Jaguari|jaguarin]], [[Puma|pumën]], {{ill|Qeni i prerisë|en|prairie dog|lt=qenin e prerisë}}, [[Gjel deti (shpend)|gjelin e detit]], {{ill|Antilopa pronghorn|en|pronghorn|lt=pronghornin}}, {{ill|Rakuni|en|raccoon|lt=rakunin}}, [[Kojota|kojotën]] dhe {{ill|Flutura monarke|en|monarch butterfly|lt=fluturën monarke}}. Ndër bimët e zbutura në Amerikën e Veriut përfshihen [[Duhani|duhani]], [[Misri|misri]], [[Cucurbita|kungulli]], [[Domatja|domatja]], {{ill|Luledielli|en|sunflower|lt=luledielli}}, [[Boronica|boronica]], [[Avokado|avokadoja]], pambuku, speci djegës dhe [[Vanilja|vanilja]].
+
+=== Gjeologjia ===
+{{Hatnote|Artikulli kryesor: {{ill|Gjeologjia e Amerikës së Veriut|en|Geology of North America}}}}
+
+==== Historia gjeologjike ====
+{{ill|Laurentia|en|Laurentia}} është një {{ill|Kraton|en|craton|lt=kraton}} i lashtë, që përbën bërthamën gjeologjike të Amerikës së Veriut; ajo u formua midis 1,5 dhe 1,0 miliard vjetësh më parë, gjatë eonit {{ill|Proterozoiku|en|Proterozoic}}.<ref>{{Cite journal |last=Dalziel |first=I. W. D. |year=1992 |title=On the organization of American Plates in the Neoproterozoic and the breakout of Laurentia |journal=GSA Today |volume=2 |issue=11 |pages=237–241 |language=en}}</ref> [[Mburoja Kanadeze]] është pjesa më e madhe e këtij kratoni që del në sipërfaqe. Nga Paleozoiku i vonë deri në Mezozoikun e hershëm, Amerika e Veriut ishte e bashkuar me kontinentet e tjera të sotme në superkontinentin [[Pangea]], me [[Evroazia|Evroazinë]] në lindje të saj. Një nga pasojat e formimit të Pangjesë ishte krijimi i [[Malet Apalashe|Maleve Apalashe]], të cilat u formuan rreth 480 milionë vjet më parë dhe janë ndër vargmalet më të vjetra në botë. Kur Pangea nisi të çahej rreth 200 milionë vjet më parë, Amerika e Veriut u bë pjesë e {{ill|Laurazia|en|Laurasia}}, përpara se të ndahej nga Evroazia dhe të bëhej kontinent më vete, gjatë mesit të periudhës {{ill|Kretaku|en|Cretaceous}}.<ref name="ReferenceA">{{Cite book |last1=Merali |first1=Zeeya |title=Visualizing Earth Science |last2=Skinner |first2=Brian J. |date=2009-01-09 |publisher=Wiley |isbn=978-0-470-41847-5 |language=en}}</ref> Malet Shkëmbore dhe vargmalet e tjera perëndimore nisën të formoheshin rreth kësaj kohe, gjatë një periudhe ngritjeje malore të quajtur {{ill|Orogjeneza Laramide|en|Laramide orogeny|lt=orogjeneza Laramide}}, midis 80 dhe 55 milionë vjetëve më parë. Formimi i {{ill|Istmit të Panamasë|en|Isthmus of Panama}}, që lidhi kontinentin me Amerikën e Jugut, ndodhi me gjasë rreth 12–15 milionë vjet më parë.<ref name="Origins">{{Cite web |date=2015-04-10 |title=Land Bridge Linking Americas Rose Earlier Than Thought |url=http://www.livescience.com/50450-when-panama-land-bridge-appeared.html |url-status=live |archive-url=https://web.archive.org/web/20151004171848/http://www.livescience.com/50450-when-panama-land-bridge-appeared.html |archive-date=2015-10-04 |access-date=2015-10-03 |work=LiveScience.com |language=en}}</ref> [[Liqenet e Mëdha]] (si edhe shumë liqene dhe lumenj të tjerë veriorë me ujë të ëmbël) u formuan nga akullnajat që u tërhoqën rreth 10.000 vjet më parë.
+
+Amerika e Veriut është burim i shumë prej njohurive të njerëzimit për periudhat e kohës gjeologjike.<ref name="dinopedia-american">{{Cite book |last=Dodson |first=Peter |title=Encyclopedia of Dinosaurs |publisher=Academic Press |year=1997 |editor1-last=Currie |editor1-first=Phillip J. |pages=10–13 |chapter=American Dinosaurs |editor2-last=Padian |editor2-first=Kevin |language=en}}</ref> Territori që më vonë do të bëhej Shtetet e Bashkuara ka dhënë më shumë lloje dinozaurësh se çdo vend tjetër i sotëm.<ref name="dinopedia-american" /> Sipas paleontologut Peter Dodson, kjo lidhet kryesisht me stratigrafinë, klimën dhe gjeografinë, burimet njerëzore dhe historinë.<ref name="dinopedia-american" /> Pjesa më e madhe e erës mezozoike përfaqësohet nga dalje shkëmbore të ekspozuara në rajonet e shumta të thata të kontinentit.<ref name="dinopedia-american" /> Vendburimi më i rëndësishëm i fosileve të dinosaurëve të Jurasikut të vonë në Amerikën e Veriut është {{ill|Formacioni Morrison|en|Morrison Formation}}, në perëndim të SHBA-së.<ref name="jurassicdistribution">{{Cite book |last=Weishampel |first=David B. |title=Dinosaur distribution (Late Jurassic, North America) |publisher=University of California Press |year=2004 |isbn=978-0-520-24209-8 |editor-last1=Weishampel |editor-first1=David B. |series=The Dinosauria |location=Berkeley |pages=543–545 |editor2-last=Dodson |editor3-last=Halszka |editor3-first=Osmólska |language=en}}</ref>
+
+==== Kanadaja ====
+{{Hatnote|Artikulli kryesor: {{ill|Gjeologjia e Kanadasë|en|Geology of Canada}}}}
+[[File:USGS Geologic Map of North America.jpg|thumb|Hartë gjeologjike e Amerikës së Veriut, botuar nga {{ill|U.S. Geographical Survey|en|U.S. Geographical Survey|lt=Shërbimi Gjeologjik i Shteteve të Bashkuara}}]]
+[[Kanadaja|Kanadaja]] është, nga pikëpamja gjeologjike, një nga rajonet më të vjetra në botë; më shumë se gjysma e saj përbëhet nga shkëmbinj të [[Koha Prekambriane|Prekambrianit]], të cilët kanë qenë mbi nivelin e detit që nga fillimi i erës paleozoike.<ref name="Marianopolis">{{Cite book |last=Wallace |first=Stewart W. |url=http://faculty.marianopolis.edu/c.belanger/quebechistory/encyclopedia/GeologyofCanada.htm |title=Geology Of Canada |publisher=University Associates of Canada |year=1948 |series=The Encyclopedia of Canada |volume=III |place=Toronto |pages=23–26 |access-date=2011-06-01 |archive-url=https://web.archive.org/web/20100704145706/http://faculty.marianopolis.edu/c.belanger/quebechistory/encyclopedia/GeologyofCanada.htm |archive-date=2010-07-04 |url-status=dead |via=Marianopolis College |language=en}}</ref> Burimet minerare të Kanadasë janë të larmishme dhe të shumta.<ref name="Marianopolis" /> Në Mburojën Kanadeze dhe në veri gjenden rezerva të mëdha hekuri, nikeli, [[Zinku|zinku]], bakri, ari, plumbi, [[Molibdeni|molibdeni]] dhe [[Urani (element kimik)|urani]]. Në Arktik janë zbuluar së fundmi përqendrime të mëdha diamantesh,<ref>{{Cite magazine |title=Digging for Diamonds 24/7 Under Frozen Snap Lake |url=https://www.wired.com/science/planetearth/magazine/16-12/ff_diamonds_sb |url-status=live |archive-url=https://web.archive.org/web/20110903095743/http://www.wired.com/science/planetearth/magazine/16-12/ff_diamonds_sb |archive-date=2011-09-03 |access-date=2011-06-01 |magazine=Wired |language=en}}</ref> çka e ka bërë Kanadanë një nga prodhuesit më të mëdhenj në botë. Në të gjithë Mburojën ka shumë qytete minerare ku nxirren këto minerale. Më i madhi dhe më i njohuri është [[Greater Sudbury]], në Ontario. Sudbury bën përjashtim nga procesi i zakonshëm i formimit të mineraleve në Mburojë, sepse ka prova të shumta që {{ill|Baseni i Sudbury-t|en|Sudbury Basin}} është një {{ill|Krater përplasjeje|en|impact crater|lt=krater përplasjeje}} i lashtë, i formuar nga një {{ill|Meteorit|en|meteorite|lt=meteorit}}. {{ill|Anomalia magnetike e Temagamit|en|Temagami Magnetic Anomaly}}, pranë tij, por më pak e njohur, ka ngjashmëri të theksueshme me Basenin e Sudbury-t. Anomalitë e saj magnetike janë shumë të ngjashme me ato të Basenit të Sudbury-t, ndaj mund të jetë një krater i dytë përplasjeje, i pasur me metale.<ref name="GH">{{Cite news |title=3-D Magnetic Imaging using Conjugate Gradients: Temagami anomaly |url=http://gdcinfo.agg.nrcan.gc.ca/app/3Dimaging/temagami_e.html |url-status=dead |archive-url=https://web.archive.org/web/20090711184237/http://gdcinfo.agg.nrcan.gc.ca/app/3Dimaging/temagami_e.html |archive-date=2009-07-11 |access-date=2008-03-13 |language=en}}</ref> Mburoja është gjithashtu e mbuluar nga pyje të gjera boreale, të cilat mbështesin një industri të rëndësishme të shfrytëzimit të lëndës drusore.
+==== Shtetet e Bashkuara ====
+{{Hatnote|Artikulli kryesor: {{ill|Gjeologjia e Shteteve të Bashkuara|en|Geology of the United States}}}}
+
+{{Multiple image
+| align             = right
+| direction         = horizontal
+| header            = 
+| header_align      = left/right/center
+| header_background = 
+| footer            = 
+| footer_background = 
+| width             = 
+| image1            = North america terrain 2003 map.jpg
+| width1            = 180
+| caption1          = Pamje e vitit 2003 e bazamentit shkëmbor dhe terrenit të Amerikës së Veriut
+| image2            = North america basement rocks.png
+| width2            = 180
+| caption2          = Hartë e vitit 2015 e {{ill|Kraton|en|craton|lt=kratonet}} dhe shkëmbinjve bazë të Amerikës së Veriut
+}}
+
+Shtetet e Bashkuara mund të ndahen në dymbëdhjetë provinca kryesore gjeologjike:<ref>{{Cite web |date=2013-06-25 |title=Geologic Provinces of the United States: Records of an Active Earth |url=http://geomaps.wr.usgs.gov/parks/province/index.html |archive-url=https://web.archive.org/web/20130625144411/http://geomaps.wr.usgs.gov/parks/province/index.html |archive-date=2013-06-25 |access-date=2024-09-15 |language=en}}</ref>
+
+# Paqësori
+# {{ill|Rrafshnalta e Kolumbisë|en|Columbia Plateau}}
+# {{ill|Pellgu dhe Vargmalet|en|Basin and Range Province}}
+# {{ill|Rrafshnalta e Kolorados|en|Colorado Plateau}}
+# {{ill|Sistemi i Maleve Shkëmbore|en|Geology of the Rocky Mountains}}
+# {{ill|Rrafshnalta Laurentiane|en|Laurentian Upland}}
+# {{ill|Rrafshinat e Brendshme|en|Interior Plains}}
+# {{ill|Malësitë e Brendshme|en|U.S. Interior Highlands}}
+# {{ill|Malësitë Apalaçiane|en|Geology of the Appalachians}}
+# {{ill|Rrafshina Atlantike|en|Atlantic Plain}}
+# Alaskane
+# Havaiane
+
+Çdo provincë ka historinë e vet gjeologjike dhe veçori unike. Gjeologjia e [[Alaska]]s është tipike për atë të kordilerës, ndërsa ishujt kryesorë të [[Havai]]t përbëhen nga shkëmbinj vullkanikë të neogjenit, të shpërthyer mbi një pikë të nxehtë.
+
+==== Amerika Qendrore ====
+{{Hatnote|Artikulli kryesor: {{ill|Gjeologjia e Amerikës Qendrore|en|Geology of Central America}}}}
+[[File:Tectonic plates Caribbean.png|thumb|[[Amerika Qendrore]] shtrihet mbi Pllakën e Karaibeve.]]
+[[Amerika Qendrore]] është gjeologjikisht aktive, me [[shpërthim vullkanik|shpërthime vullkanike]] dhe tërmete që ndodhin herë pas here. Në vitin 1976, Guatemala u godit nga një {{ill|Tërmet i madh|en|1976 Guatemala earthquake|lt=tërmet i madh}}, ku humbën jetën 23.000 njerëz; Managua, kryeqyteti i Nikaraguas, u shkatërrua nga tërmetet e viteve 1931 dhe 1972, ku i fundit shkaktoi vdekjen e rreth 5.000 njerëzve; tre tërmete shkatërruan El Salvadorin, njëri në vitin 1986 dhe dy të tjerë në vitin 2001; në vitin 2009, një {{ill|Tërmet|en|2009 Costa Rica earthquake|lt=tërmet}} shkatërroi veriun dhe qendrën e Kosta Rikës, duke shkaktuar të paktën 34 viktima; në [[Hondurasi|Honduras]], një tërmet i fuqishëm shkaktoi shtatë viktima në vitin 2009.
+
+{{ill|Shpërthimet vullkanike|en|Volcanic eruption|lt=Shpërthime vullkanike}} janë të zakonshme në rajon. Në vitin 1968, {{ill|Vullkani Arenal|en|Arenal Volcano|lt=vullkani Arenal}}, në Kosta Rikë, shpërtheu dhe shkaktoi vdekjen e 87 njerëzve. Tokat pjellore të formuara nga llavat vullkanike të shpërbëra kanë bërë të mundur mbajtjen e popullsive të dendura në zonat malore me prodhimtari të lartë bujqësore.
+
+Amerika Qendrore ka shumë [[Vargmali|vargmale]]; më të gjatat janë Sierra Madre de Chiapas, Cordillera Isabelia dhe Cordillera de Talamanca. Midis vargmaleve shtrihen lugina pjellore, të përshtatshme për banim; në të vërtetë, shumica e popullsisë së Hondurasit, Kosta Rikës dhe Guatemalës jeton në lugina. Luginat janë gjithashtu të përshtatshme për kultivimin e kafesë, fasuleve dhe kulturave të tjera.
+== Lista e shteteve dhe territoreve ==
+{{Hatnote|Artikulli kryesor: {{ill|Lista e shteteve sovrane dhe territoreve të varura në Amerikën Veriore|en|List of sovereign states and dependent territories in North America}}}}
+{| class="wikitable sortable" style="float:center; text-align:center; white-space:nowrap"
+|-
+! class="unsortable" | [[Stema|Stema]]
+! class="unsortable" style="width:20px" | [[Flamuri kombëtar|Flamuri]]
+! [[Shteti i pavarur|Shteti]] / Territori i varur<ref name="spp">{{cite web |url=http://www.spp.gov/ |archive-url=https://web.archive.org/web/20080618182224/http://www.spp.gov/ |archive-date=18 June 2008 |title=SPP Background |publisher=Security and Prosperity Partnership of North America |work=CommerceConnect.gov |access-date=14 November 2010 |language=en}}</ref><ref name="epa">{{cite web |url=http://www.epa.gov/wed/pages/ecoregions/na_eco.htm |title=Ecoregions of North America |publisher={{ill|Agjencia e Shteteve të Bashkuara për Mbrojtjen e Mjedisit|en|United States Environmental Protection Agency}} |access-date=30 May 2011 |archive-date=25 December 2018 |archive-url=https://web.archive.org/web/20181225195609/https://www.epa.gov/aboutepa/about-national-health-and-environmental-effects-research-laboratory-nheerl |url-status=dead |language=en}}</ref>
+! [[Lista e vendeve sipas sipërfaqes|Sipërfaqja]]<ref>Përveç rasteve kur shënohet ndryshe, të dhënat për sipërfaqen tokësore janë marrë nga {{Cite web |url=https://unstats.un.org/unsd/demographic/products/dyb/dyb2008/Table03.pdf |title=Demographic Yearbook—Table 3: Population by sex, rate of population increase, surface area and density |publisher=United Nations Statistics Division |year=2008 |access-date=14 October 2010 |journal= |archive-date=25 December 2018 |archive-url=https://web.archive.org/web/20181225215827/https://web.archive.org/web/20181225215827/https://unstats.un.org/unsd/demographic/products/dyb/dyb2008/Table03.pdf%0A |url-status=live |language=en}}</ref>
+! [[Lista e vendeve dhe varësive sipas popullsisë|Popullsia]]<br />(2021)<ref name="UN_WPP">{{Cite web |url=https://population.un.org/wpp/ |title=World Population Prospects 2022 |publisher=United Nations Department of Economic and Social Affairs, Population Division |access-date=2022-07-17 |language=en}}</ref><ref name="UN_WPP_2022">{{Cite web |url=https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_General/WPP2022_GEN_F01_DEMOGRAPHIC_INDICATORS_COMPACT_REV1.xlsx |title=World Population Prospects 2022: Demographic indicators by region, subregion and country, annually for 1950–2100 |type=«Popullsia totale, më 1 korrik (në mijëra)» |publisher=United Nations Department of Economic and Social Affairs, Population Division |access-date=2022-07-17 |format=XLSX |language=en}}</ref>
+! [[Dendësia e popullsisë në vende dhe varësi|Dendësia<br /> e popullsisë]]
+! [[Kryeqyteti|Kryeqyteti]]
+! [[Gjuha (komunikim)|Emri/t në gjuhën/ët zyrtare]]
+! Kodi ISO 3166-1
+|-
+| [[File:Coat of arms of Anguilla.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Anguilla|size=45}}
+| [[Anguilla]]<br />([[Mbretëria e Bashkuar]])
+| style="text-align:right;"| {{Cvt|91|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|15753}}
+| style="text-align:right;"| {{Cvt|164.8|/km2|disp=br()|sortable=on}}
+| The Valley
+| Anguilla
+| AIA
+|-
+| [[File:Insigne Antiquae et Barbudae.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Antigua and Barbuda|size=45}}
+| [[Antigua dhe Barbuda]]
+| style="text-align:right;"| {{Cvt|442|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|93219}}
+| style="text-align:right;"| {{Cvt|199.1|/km2|disp=br()|sortable=on}}
+| [[Saint Xhons]]
+| Antigua and Barbuda
+| ATG
+|-
+| [[File:Insigne Arubae.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Aruba|size=45}}
+| [[Aruba]]<br />([[Mbretëria e Holandës]]){{Efn|name="two"|Në varësi të përkufizimit, [[Panamaja]] mund të konsiderohet shtet ndërkontinental, ndërsa ishujt ABC (Aruba, Bonaire dhe [[Curaçao]]) dhe [[Trinidadi dhe Tobago]] mund të konsiderohen si pjesë ose të Amerikës Veriore, ose të Amerikës Jugore.}}
+| style="text-align:right;"| {{Cvt|180|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|106537}}
+| style="text-align:right;"| {{Cvt|594.4|/km2|disp=br()|sortable=on}}
+| Oranjestad
+| Aruba
+| ABW
+|-
+| [[File:Insigne Bahamarum.svg|30px|link=|alt=]]
+| {{Flagg|pxx|The Bahamas|size=45}}
+| [[Bahamasi]]{{Efn|name="one"|Meqë [[Arkipelagu i Lukajanit]] ndodhet në Oqeanin Atlantik dhe jo në [[Deti i Karaibeve|Detin e Karaibeve]], [[Bahamasi]] bën pjesë në [[Inditë Perëndimore]], por teknikisht nuk është pjesë e [[Karaibet|Karaibeve]], megjithëse Kombet e Bashkuara e grupojnë me to.}}
+| style="text-align:right;"| {{Cvt|13943|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|407906}}
+| style="text-align:right;"| {{Cvt|24.5|/km2|disp=br()|sortable=on}}
+| [[Nassau]]
+| Bahamas
+| BHS
+|-
+| [[File:Insigne Barbatae.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Barbados|size=45}}
+| [[Barbadosi]]
+| style="text-align:right;"| {{Cvt|430|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|281200}}
+| style="text-align:right;"| {{Cvt|595.3|/km2|disp=br()|sortable=on}}
+| [[Bridgetown]]
+| Barbados
+| BRB
+|-
+| [[File:Insigne Belizae.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Belize|size=45}}
+| [[Beliza]]
+| style="text-align:right;"| {{Cvt|22966|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|400031}}
+| style="text-align:right;"| {{Cvt|13.4|/km2|disp=br()|sortable=on}}
+| [[Belmopan]]
+| Belize
+| BLZ
+|-
+| [[File:Insigne Bermudae.svg|30px|link=|alt=]]
+| [[File:Flag of Bermuda.svg|45px|border|link=|alt=]]
+| [[Bermuda]]<br />(Mbretëria e Bashkuar)
+| style="text-align:right;"| {{Cvt|54|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|64185}}
+| style="text-align:right;"| {{Cvt|1203.7|/km2|disp=br()|sortable=on}}
+| Hamilton
+| Bermuda
+| BMU
+|-
+| [[File:Insigne Insulae Boni Aëris.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Bonaire|size=45}}
+| Bonaire<br />([[Mbretëria e Holandës]]){{Efn|name="two"}}<ref name="nethant">Vlerësimet e popullsisë janë marrë nga {{cite web |author=Central Bureau of Statistics Netherlands Antilles |title=Statistical information: Population |url=http://www.cbs.an/population/population_b2.asp |archive-url=https://web.archive.org/web/20100501150627/http://www.cbs.an/population/population_b2.asp |archive-date=1 May 2010 |publisher=Government of the Netherlands Antilles |access-date=14 October 2010 |language=en}}</ref>
+| style="text-align:right;"| {{Cvt|294|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| 12.093
+| style="text-align:right;"| {{Cvt|41.1|/km2|disp=br()|sortable=on}}
+| Kralendijk
+| Boneiru
+| BES
+|-
+| [[File:Insigne Insularum Virginis Britannicae.svg|30px|link=|alt=]]
+| [[File:Flag of the British Virgin Islands.svg|45px|border|link=|alt=]]
+| [[Ishujt e Virgjër Britanikë]]<br />(Mbretëria e Bashkuar)
+| style="text-align:right;"| {{Cvt|151|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|31122}}
+| style="text-align:right;"| {{Cvt|152.3|/km2|disp=br()|sortable=on}}
+| Road Town
+| British Virgin Islands
+| VGB
+|-
+| [[File:Arms of Canada.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Canada|size=45}}
+| [[Kanadaja]]
+| style="text-align:right;"| {{Cvt|9984670|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|38155012}}
+| style="text-align:right;"| {{Cvt|3.7|/km2|disp=br()|sortable=on}}
+| [[Otava]]
+| Canada
+| CAN
+|-
+| [[File:Insigne Insularum Caimanenses.svg|30px|link=|alt=]]
+| [[File:Flag of the Cayman Islands.svg|45px|border|link=|alt=]]
+| [[Ishujt Cayman]]<br />(Mbretëria e Bashkuar)
+| style="text-align:right;"| {{Cvt|264|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|68136}}
+| style="text-align:right;"| {{Cvt|212.1|/km2|disp=br()|sortable=on}}
+| George Town
+| Cayman Islands
+| CYM
+|-
+| [[File:Arms of the French Republic.svg|30px|link=|alt=]]
+| {{Flagg|pxx|France|size=45}}
+| {{ill|Ishulli Kliperton|en|Clipperton Island}} (Franca)
+| style="text-align:right;"| {{Cvt|6|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| 0
+| style="text-align:right;"| {{Cvt|0|/km2|disp=br()|sortable=on}}
+| —
+| Île de Clipperton
+| CPT
+|-
+| [[File:Insigne Costaricum.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Costa Rica|size=45}}
+| [[Kosta Rika]]
+| style="text-align:right;"| {{Cvt|51180|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|5153957}}
+| style="text-align:right;"| {{Cvt|89.6|/km2|disp=br()|sortable=on}}
+| [[San José (Kosta Rika)|San José]]
+| Costa Rica
+| CRI
+|-
+| [[File:Insigne Cubicum.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Cuba|size=45}}
+| [[Kuba]]
+| style="text-align:right;"| {{Cvt|109886|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|11256372}}
+| style="text-align:right;"| {{Cvt|102.0|/km2|disp=br()|sortable=on}}
+| [[Havana]]
+| Cuba
+| CUB
+|-
+| [[File:Blason an Curaçao.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Curaçao|size=45}}
+| [[Curaçao]]<br />([[Mbretëria e Holandës]]){{Efn|name="two"}}
+| style="text-align:right;"| {{Cvt|444|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|190338}}
+| style="text-align:right;"| {{Cvt|317.1|/km2|disp=br()|sortable=on}}
+| Willemstad
+| Curaçao ([[Gjuha holandeze|holandisht]]); Kòrsou (papiamento)
+| CUW
+|-
+| [[File:Insigne Dominicae.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Dominica|size=45}}
+| [[Domenika]]
+| style="text-align:right;"| {{Cvt|751|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|72412}}
+| style="text-align:right;"| {{Cvt|89.2|/km2|disp=br()|sortable=on}}
+| [[Roseau]]
+| Dominica
+| DMA
+|-
+| [[File:Insigne Dominicum.svg|30px|link=|alt=]]
+| {{Flagg|pxx|the=yes|Dominican Republic|size=45}}
+| [[Republika Dominikane]]
+| style="text-align:right;"| {{Cvt|48671|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|11117873}}
+| style="text-align:right;"| {{Cvt|207.3|/km2|disp=br()|sortable=on}}
+| Santo Domingo
+| República Dominicana
+| DOM
+|-
+| [[File:Insigne Salvatoriae.svg|30px|link=|alt=]]
+| [[File:Flag of El Salvador.svg|45px|border|link=|alt=]]
+| [[Salvadori]]
+| style="text-align:right;"| {{Cvt|21041|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|6314167}}
+| style="text-align:right;"| {{Cvt|293.0|/km2|disp=br()|sortable=on}}
+| [[San Salvadori]]
+| El Salvador
+| SLV
+|-
+| [[File:Insigne Venetiolae.svg|30px|link=|alt=]]
+| [[File:Federal dependencies of Venezuela's Flag.svg|45px|border|link=|alt=]]
+| Varësitë Federale të Venezuelës<br />([[Venezuela]])
+| style="text-align:right;"| {{Cvt|342|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| 2.155
+| style="text-align:right;"| {{Cvt|6.3|/km2|disp=br()|sortable=on}}
+| Gran Roque
+| Dependencias Federales de Venezuela
+| VEN-W
+|-
+| [[File:Coat of arms of Greenland.svg|30px|link=|alt=]]
+| [[File:Flag of Greenland.svg|45px|border|link=|alt=]]
+| [[Grenlanda]]<br />(Mbretëria e Danimarkës)
+| style="text-align:right;"| {{Cvt|2166086|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|56243}}
+| style="text-align:right;"| {{Cvt|0.026|/km2|disp=br()|sortable=on}}
+| [[Nuuk]]
+| Kalaallit Nunaat ([[Gjuha grenlandeze|grenlandisht]]); Grønland ([[Gjuha daneze|danisht]])
+| GRL
+|-
+| [[File:Insigne Granatae.png|30px|link=|alt=]]
+| {{Flagg|pxx|Grenada|size=45}}
+| [[Grenada]]
+| style="text-align:right;"| {{Cvt|344|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|124610}}
+| style="text-align:right;"| {{Cvt|302.3|/km2|disp=br()|sortable=on}}
+| [[Saint George's]]
+| Gwenad
+| GRD
+|-
+| [[File:Coat of arms of Guadeloupe.svg|30px]]
+| {{Flagg|pxx|Guadeloupe|size=45}}
+| [[Guadalupa]]<br />(Franca)
+| style="text-align:right;"| {{Cvt|1628|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|396051}}
+| style="text-align:right;"| {{Cvt|246.7|/km2|disp=br()|sortable=on}}
+| [[Basse-Terre]]
+| Gwadloup
+| GLP
+|-
+| [[File:Coat of arms of Guatemala.svg|30px]]
+| {{Flagg|pxx|Guatemala|size=45}}
+| [[Guatemala]]
+| style="text-align:right;"| {{Cvt|108889|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|17608483}}
+| style="text-align:right;"| {{Cvt|128.8|/km2|disp=br()|sortable=on}}
+| [[Guatemala (Qytet)|Qyteti i Guatemalës]]
+| Guatemala
+| GTM
+|-
+| [[File:Coat of arms of Haiti.svg|30px]]
+| {{Flagg|pxx|Haiti|size=45}}
+| [[Haiti]]
+| style="text-align:right;"| {{Cvt|27750|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|11447569}}
+| style="text-align:right;"| {{Cvt|361.5|/km2|disp=br()|sortable=on}}
+| [[Port-au-Prince]]
+| Ayiti/Haïti
+| HTI
+|-
+| [[File:Insigne Honduriae.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Honduras|size=45}}
+| [[Hondurasi]]
+| style="text-align:right;"| {{Cvt|112492|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|10278345}}
+| style="text-align:right;"| {{Cvt|66.4|/km2|disp=br()|sortable=on}}
+| [[Tegucigalpa]]
+| Honduras
+| HND
+|-
+| [[File:Insigne Iamaicae.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Jamaica|size=45}}
+| [[Xhamajka]]
+| style="text-align:right;"| {{Cvt|10991|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|2827695}}
+| style="text-align:right;"| {{Cvt|247.4|/km2|disp=br()|sortable=on}}
+| [[Kingston]]
+| Jumieka
+| JAM
+|-
+| [[File:BlasonMartinique.svg|30px]]
+| [[File:Flag-of-Martinique.svg|45px|border|link=|alt=]]
+| [[Martinika]]<br />(Franca)
+| style="text-align:right;"| {{Cvt|1128|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|368796}}
+| style="text-align:right;"| {{Cvt|352.6|/km2|disp=br()|sortable=on}}
+| Fort-de-France
+| Martinique ([[Gjuha frënge|frëngjisht]]); Matinik (kreolishtja e Martinikës)
+| MTQ
+|-
+| [[File:Coat of arms of Mexico.svg|30px]]
+| {{Flagg|pxx|Mexico|size=45}}
+| [[Meksika]]
+| style="text-align:right;"| {{Cvt|1964375|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|126705138}}
+| style="text-align:right;"| {{Cvt|57.1|/km2|disp=br()|sortable=on}}
+| [[Qyteti i Meksikës]]
+| México
+| MEX
+|-
+| [[File:Coat of arms of Montserrat.svg|30px|link=|alt=]]
+| [[File:Flag of Montserrat.svg|45px|border|link=|alt=]]
+| [[Montserrati]]<br />(Mbretëria e Bashkuar)
+| style="text-align:right;"| {{Cvt|102|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|4417}}
+| style="text-align:right;"| {{Cvt|58.8|/km2|disp=br()|sortable=on}}
+| Plymouth,<br />Brades{{Efn|Për shkak të aktivitetit të vazhdueshëm të vullkanit Soufrière Hills, që nisi në korrik 1995, pjesa më e madhe e Plymouthit u shkatërrua dhe zyrat qeveritare u zhvendosën në Brades. Plymouthi mbetet kryeqyteti ''de jure''.}}
+| Montserrat
+| MSR
+|-
+| [[File:Insigne Nicaraguae.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Nicaragua|size=45}}
+| [[Nikaragua]]
+| style="text-align:right;"| {{Cvt|130373|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|6850540}}
+| style="text-align:right;"| {{Cvt|44.1|/km2|disp=br()|sortable=on}}
+| [[Managua]]
+| Nicaragua
+| NIC
+|-
+| [[File:Coat of arms of Nueva Esparta State.svg|30px]]
+| [[File:Flag of Nueva Esparta.svg|45px|border|link=|alt=]]
+| Nueva Esparta<br />(Venezuela)
+| style="text-align:right;"| {{Cvt|1151|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| 491.610
+| style="text-align:right;"| {{Cvt|427.1|/km2|disp=br()|sortable=on}}
+| La Asunción
+| Nueva Esparta
+| VEN-O
+|-
+| [[File:Insigne Panamae.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Panama|size=45}}
+| [[Panamaja]]{{Efn|name="two"}}{{Efn|name="three"|Panamaja përgjithësisht konsiderohet vend i Amerikës Veriore, megjithëse disa autoritete e ndajnë nëpërmjet [[Kanali i Panamasë|Kanalit të Panamasë]]. Shifrat e paraqitura këtu i përfshijnë të gjithë vendin.}}
+| style="text-align:right;"| {{Cvt|75417|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|4351267}}
+| style="text-align:right;"| {{Cvt|45.8|/km2|disp=br()|sortable=on}}
+| [[Qyteti i Panamasë]]
+| Panamá
+| PAN
+|-
+| [[File:Insigne Portus divitis.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Puerto Rico|size=45}}
+| [[Portorikoja]]<br />(Shtetet e Bashkuara)
+| style="text-align:right;"| {{Cvt|8870|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|3256028}}
+| style="text-align:right;"| {{Cvt|448.9|/km2|disp=br()|sortable=on}}
+| San Juan
+| Puerto Rico
+| PRI
+|-
+| [[File:Insigne Sabae.svg|30px|link=|alt=]]
+| [[File:Flag of Saba.svg|45px|border|link=|alt=]]
+| [[Saba]]<br />([[Mbretëria e Holandës]])<ref name="nethant"/>
+| style="text-align:right;"| {{Cvt|13|km2|0|disp=br()|sortable=on}}
+| style="text-align:right;"| 1.537
+| style="text-align:right;"| {{Cvt|118.2|/km2|disp=br()|sortable=on}}
+| The Bottom
+| Saba
+| BES
+|-
+| [[File:Escudo de San Andrés y Providencia.svg|30px]]
+| [[File:Flag of San Andrés y Providencia.svg|45px|border|link=|alt=]]
+| [[Arkipelagu i San Andrésit, Providencias dhe Santa Catalinës|San Andrési dhe Providencia]]<br />([[Kolumbia]])
+| style="text-align:right;"| {{Cvt|53|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| 77.701
+| style="text-align:right;"| {{Cvt|1468.59|/km2|disp=br()|sortable=on}}
+| San Andrés
+| San Andrés
+| COL-SAP
+|-
+| [[File:BlasonSaintBarthelemy.svg|30px|link=|alt=]]
+| [[File:Flag of France.svg|45px|border|link=|alt=]]
+| [[Shën Barthélemy]]<br />(Franca)<ref name="popcia">Këto vlerësime të popullsisë janë për vitin 2010 dhe janë marrë nga {{cite web |title=The World Factbook: 2010 edition |url=https://www.cia.gov/library/publications/the-world-factbook/fields/2119.html |publisher=Government of the United States, Central Intelligence Agency |access-date=14 October 2010 |archive-date=26 November 2015 |archive-url=https://web.archive.org/web/20151126112445/https://web.archive.org/web/20151126112445/https://www.cia.gov/library/publications/the-world-factbook/fields/2119.html |url-status=dead |language=en}}</ref>
+| style="text-align:right;"| {{Cvt|21|km2|disp=br()|sortable=on}}<ref name="areacia">Të dhënat për sipërfaqen tokësore janë marrë nga {{cite web |title=The World Factbook: 2010 edition |url=https://www.cia.gov/library/publications/the-world-factbook/fields/2147.html |publisher=Government of the United States, Central Intelligence Agency |access-date=14 October 2010 |archive-date=31 January 2014 |archive-url=https://web.archive.org/web/20140131115000/https://web.archive.org/web/20140131115000/https://www.cia.gov/library/publications/the-world-factbook/fields/2147.html |url-status=dead |language=en}}</ref>
+| style="text-align:right;"| 7.448
+| style="text-align:right;"| {{Cvt|354.7|/km2|disp=br()|sortable=on}}
+| Gustavia
+| Saint-Barthélemy
+| BLM
+|-
+| [[File:Insigne Sancti Christophori et Nivium.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Saint Kitts and Nevis|size=45}}
+| [[Shën Kits dhe Nevis]]
+| style="text-align:right;"| {{Cvt|261|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|47606}}
+| style="text-align:right;"| {{Cvt|199.2|/km2|disp=br()|sortable=on}}
+| {{ill|Basseterre|en|Basseterre}}
+| Saint Kitts and Nevis
+| KNA
+|-
+| [[File:Insigne Sanctae Luciae.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Saint Lucia|size=45}}
+| [[Shën Luçia]]
+| style="text-align:right;"| {{Cvt|539|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|179651}}
+| style="text-align:right;"| {{Cvt|319.1|/km2|disp=br()|sortable=on}}
+| [[Castries]]
+| Sainte-Lucie
+| LCA
+|-
+| [[File:Insigne Insulae Sancti Martini (Francia).svg|30px|link=|alt=]]
+| [[File:Flag of France.svg|45px|border|link=|alt=]]
+| Kolektiviteti i Shën Martinit<br />(Franca)<ref name="popcia"/>
+| style="text-align:right;"| {{Cvt|54|km2|disp=br()|sortable=on}}<ref name="areacia"/>
+| style="text-align:right;"| 29.820
+| style="text-align:right;"| {{Cvt|552.2|/km2|disp=br()|sortable=on}}
+| Marigot
+| Saint-Martin
+| MAF
+|-
+| [[File:BlasonSaintPierreetMiquelon.svg|30px|link=|alt=]]
+| [[File:Flag of France.svg|45px|border|link=|alt=]]
+| [[Shën Pierre dhe Miquelon]]<br />(Franca)
+| style="text-align:right;"| {{Cvt|242|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|5883}}
+| style="text-align:right;"| {{Cvt|24.8|/km2|disp=br()|sortable=on}}
+| Saint-Pierre
+| Saint-Pierre-et-Miquelon
+| SPM
+|-
+| [[File:Insigne Sancti Vincenti et Granatinae.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Saint Vincent and the Grenadines|size=45}}
+| [[Shën Vincenti dhe Grenadinet]]
+| style="text-align:right;"| {{Cvt|389|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|104332}}
+| style="text-align:right;"| {{Cvt|280.2|/km2|disp=br()|sortable=on}}
+| Kingstown
+| Saint Vincent and the Grenadines
+| VCT
+|-
+| [[File:Insigne Insulae Eustathii.svg|30px|link=|alt=]]
+| [[File:Flag of Sint Eustatius.svg|45px|border|link=|alt=]]
+| Sint Eustatius<br />([[Mbretëria e Holandës]])<ref name="nethant"/>
+| style="text-align:right;"| {{Cvt|21|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| 2.739
+| style="text-align:right;"| {{Cvt|130.4|/km2|disp=br()|sortable=on}}
+| Oranjestad
+| Sint Eustatius
+| BES
+|-
+| [[File:Insigne Insulae Sancti Martini (Nederlandia).svg|30px|link=|alt=]]
+| {{Flagg|pxx|Sint Maarten|size=45}}
+| Sint Maarten<br />([[Mbretëria e Holandës]])
+| style="text-align:right;"| {{Cvt|34|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|44042}}
+| style="text-align:right;"| {{Cvt|1176.7|/km2|disp=br()|sortable=on}}
+| Philipsburg
+| Sint Maarten
+| SXM
+|-
+| [[File:Insigne Trinitatis et Tobaci.svg|30px|link=|alt=]]
+| {{Flagg|pxx|Trinidad and Tobago|size=45}}
+| [[Trinidadi dhe Tobago]]{{Efn|name="two"}}
+| style="text-align:right;"| {{Cvt|5130|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|1525663}}
+| style="text-align:right;"| {{Cvt|261.0|/km2|disp=br()|sortable=on}}
+| [[Port-of-Spain]]
+| Trinidad and Tobago
+| TTO
+|-
+| [[File:Shield of the Turks and Caicos Islands.svg|30px]]
+| [[File:Flag of the Turks and Caicos Islands.svg|45px|border|link=|alt=]]
+| [[Turks dhe Kaikos]]<br />(Mbretëria e Bashkuar){{Efn|Meqë [[Arkipelagu i Lukajanit]] ndodhet në Oqeanin Atlantik dhe jo në [[Deti i Karaibeve|Detin e Karaibeve]], [[Turks dhe Kaikos|Ishujt Turks dhe Kaikos]] bëjnë pjesë në [[Inditë Perëndimore]], por teknikisht nuk janë pjesë e [[Karaibet|Karaibeve]], megjithëse Kombet e Bashkuara i grupojnë me to.}}
+| style="text-align:right;"| {{Cvt|948|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|45114}}
+| style="text-align:right;"| {{Cvt|34.8|/km2|disp=br()|sortable=on}}
+| Grand Turk (Cockburn Town)
+| Turks and Caicos Islands
+| TCA
+|-
+| [[File:Coat of arms of the United States.svg|30px|link=|alt=]]
+| {{Flagg|pxx|the=yes|United States|size=45}}
+| [[Shtetet e Bashkuara të Amerikës]]{{Efn|Përfshihen shtetet e Havait dhe Alaskës, të cilat të dyja janë të ndara nga pjesa kryesore kontinentale e SHBA-së. Havai ndodhet larg masës tokësore të Amerikës Veriore, në Oqeanin Paqësor, ndaj zakonisht lidhet më shumë me territoret e tjera të Oqeanisë, ndërsa Alaska ndodhet midis [[Azia|Azisë]] ([[Rusia|Rusisë]]) dhe [[Kanadaja|Kanadasë]].}}
+| style="text-align:right;"| {{Cvt|9629091|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|336997624}}
+| style="text-align:right;"| {{Cvt|32.7|/km2|disp=br()|sortable=on}}
+| [[Uashington D.C.]]
+| United States of America
+| USA
+|-
+| [[File:Seal of the United States Virgin Islands.svg|30px]]
+| [[File:Flag of the United States Virgin Islands.svg|45px|border|link=|alt=]]
+| [[Ishujt e Virgjër të Shteteve të Bashkuara]]<br />(Shtetet e Bashkuara)
+| style="text-align:right;"| {{Cvt|347|km2|disp=br()|sortable=on}}
+| style="text-align:right;"| {{Nts|100091}}
+| style="text-align:right;"| {{Cvt|317.0|/km2|disp=br()|sortable=on}}
+| Charlotte Amalie
+| U.S. Virgin Islands
+| VIR
+|-
+! colspan="3"| Gjithsej
+! style="text-align:left;"| {{Cvt|24500995|km2|disp=br()|sortable=on}}
+! style="text-align:left;"| {{Nts|583473912}}
+! style="text-align:left;"| {{Cvt|{{#expr:(541720440/24500995) round 1}}|/km2|disp=br()|sortable=on}}
+! colspan="3"|
+|}
+== Ekonomia ==
+{{Hatnote|Artikulli kryesor: {{ill|Ekonomia e Amerikës së Veriut|en|Economy of North America}}}}
+{{Hatnote|Shih edhe: {{ill|Lista e vendeve të Amerikës së Veriut sipas PBB-së nominale|en|List of North American countries by GDP (nominal)}}, {{ill|Lista e vendeve të Amerikës së Veriut sipas PBB-së (PPP)|en|List of North American countries by GDP (PPP)}}}}
+{| class="wikitable" style="text-align: right; float:right; border:1px solid #aaa; margin:10px"
+|- style="background:#dbdbdb;"
+! Renditja
+! Shteti ose territori
+! {{ill|PBB-ja|en|List of IMF ranked countries by past and projected GDP (nominal)}} <small>(nominale, viti i pikut)</small><br /><small>miliona {{ill|Dollari ndërkombëtar|en|International dollar|lt=USD}}</small>
+! {{ill|PBB-ja|en|List of countries by past and projected GDP (PPP)}}<ref name="IMF Data">{{Cite web |title=World Economic Outlook Database April 2026 |url=https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.RES:WEO(9.0.0)|access-date=2026-04-18 |website=International Monetary Fund |language=en}}</ref> <small>(PPP, viti i pikut)</small><br /><small>miliona {{ill|Dollari ndërkombëtar|en|International dollar|lt=USD}}</small>
+|-
+| 1 ||align=left|{{Flag|United States}} ||32.383.920||32.383.920
+|-
+| 2 ||align=left|{{Flag|Mexico}} ||2.120.855||3.580.952
+|-
+| 3 ||align=left|{{Flag|Canada}} ||2.507.340||2.910.718
+|-
+| 4 ||align=left|{{Nowrap|{{Flag|Cuba}}<ref>{{Cite web |url=https://databankfiles.worldbank.org/public/ddpext_download/GDP.pdf |title=World Bank's GDP (Nominal) data for Cuba |access-date=2023-07-16 |archive-date=2023-07-16 |archive-url=https://web.archive.org/web/20230716085238/https://databankfiles.worldbank.org/public/ddpext_download/GDP.pdf |url-status=live |language=en}}</ref> (2021, 2015)}}||545.218||254.865
+|-
+| 5 ||align=left|{{Flag|Dominican Republic}}||136.148||353.142
+|-
+| 6 ||align=left|{{Flag|Guatemala}}||128.886||303.207
+|-
+| 7 ||align=left|{{Flag|Panama}}||95.024||214.435
+|}
+
+PBB-ja për frymë e Amerikës së Veriut u vlerësua në tetor 2016 nga [[Fondi Monetar Ndërkombëtar]] (FMN) në 41.830 dollarë, duke e bërë atë kontinentin më të pasur në botë,<ref name="IMFcapitaGDP"/> e ndjekur nga [[Oqeania]].<ref name="cia-us"/>
+
+SHBA-ja ka ekonominë më të madhe në botë.<ref name="cia-us">{{cite web |url=https://www.cia.gov/the-world-factbook/countries/united-states/ |title=United States, Economy |publisher=U.S. Central Intelligence Agency |access-date=2011-06-01 |archive-date=2021-03-21 |archive-url=https://web.archive.org/web/20210321202516/https://www.cia.gov/the-world-factbook/countries/united-states/ |url-status=dead |language=en}}</ref> Në vitin 2016, sipas [[Banka Botërore|Bankës Botërore]], PBB-ja për frymë e SHBA-së e vlerësuar sipas PPP-së ishte 57.466 dollarë dhe ekonomia e saj ishte më e zhvilluara teknologjikisht nga të tria.<ref>{{cite web |url=https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?year_high_desc=true |title=GDP per capita (current US$) – Data |publisher=World Bank |access-date=2017-09-24 |archive-date=2017-09-13 |archive-url=https://web.archive.org/web/20170913231748/https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?year_high_desc=true |url-status=live |language=en}}</ref> Sektori i shërbimeve përbënte 77% të PBB-së së vendit (sipas vlerësimeve të vitit 2010), industria 22% dhe bujqësia 1,2%.<ref name="cia-us"/> Ekonomia e SHBA-së është gjithashtu ekonomia me rritjen më të shpejtë në Amerikën e Veriut dhe në tërë kontinentin e Amerikës,<ref name="IMFcapitaGDP"/><ref>{{cite web |url=http://statisticstimes.com/economy/south-american-countries-by-gdp-per-capita.php |last=International Monetary Fund |publisher=International Monetary Fund |title=List of South American countries by GDP per capita |work=World Economic Outlook |date=October 2016 |access-date=2017-09-25 |archive-date=2017-10-10 |archive-url=https://web.archive.org/web/20171010112722/http://statisticstimes.com/economy/south-american-countries-by-gdp-per-capita.php |url-status=live |language=en}}</ref> si dhe ka PBB-në më të lartë për frymë në kontinentin e Amerikës.<ref name="IMFcapitaGDP">{{cite web |url=http://statisticstimes.com/economy/north-american-countries-by-gdp-per-capita.php |author=International Monetary Fund |publisher=International Monetary Fund |title=List of North American countries by GDP per capita |work=World Economic Outlook |date=October 2016 |access-date=2017-02-22 |url-status=live |archive-url=https://web.archive.org/web/20170924205236/http://statisticstimes.com/economy/north-american-countries-by-gdp-per-capita.php |archive-date=2017-09-24 |language=en}}</ref>
+
+Kanadaja ka rritje të ndjeshme në sektorët e shërbimeve, minierave dhe industrisë përpunuese.<ref name="cia-ca">{{cite web |url=https://www.cia.gov/the-world-factbook/countries/canada/ |title=Canada, Economy |publisher=U.S. Central Intelligence Agency |access-date=2011-06-01 |archive-date=2021-09-22 |archive-url=https://web.archive.org/web/20210922212931/https://www.cia.gov/the-world-factbook/countries/canada/ |url-status=dead |language=en}}</ref> PBB-ja për frymë e Kanadasë sipas PPP-së u vlerësua në 44.656 dollarë, ndërsa në vitin 2014 ajo kishte PBB-në e 11-të më të madhe nominale.<ref name="cia-ca"/> Sektori i shërbimeve përbënte 78% të PBB-së së vendit (sipas vlerësimeve të vitit 2010), industria 20% dhe bujqësia 2%.<ref name="cia-ca"/> Meksika ka PBB për frymë prej 16.111 dollarësh sipas PPP-së; në vitin 2014, ajo kishte PBB-në e 15-të më të madhe nominale në botë.<ref name="imf-mx">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2010/02/weodata/weorept.aspx?pr.x=42&pr.y=9&sy=2009&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=273&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CGGXWDG_NGDP&grp=0&a= |title=World Economic Outlook Database, October 2010 |publisher=International Monetary Fund |access-date=2011-03-05 |archive-date=2011-04-29 |archive-url=https://web.archive.org/web/20110429202110/http://www.imf.org/external/pubs/ft/weo/2010/02/weodata/weorept.aspx?pr.x=42&pr.y=9&sy=2009&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=273&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CGGXWDG_NGDP&grp=0&a= |url-status=live |language=en}}</ref>
+Duke qenë një {{ill|Vend i sapoindustrializuar|en|Newly industrialized country|lt=vend i sapoindustrializuar}},<ref name="AIA">{{Cite book |title=Geography, An Integrated Approach |first=David |last=Waugh |chapter=Manufacturing industries (chapter 19), World development (chapter 22) |pages=563, 576–579, 633, and 640 |publisher=Nelson Thornes Ltd. |edition=3rd |year=2000 |isbn=978-0-17-444706-1 |language=en}}</ref> Meksika ruan objekte dhe veprimtari industriale e bujqësore si moderne, ashtu edhe të vjetruara.<ref name="cia-mex">{{cite web |url=https://www.cia.gov/the-world-factbook/countries/mexico/ |title=Mexico, Economy |publisher=U.S. Central Intelligence Agency |access-date=2011-06-01 |archive-date=2021-01-26 |archive-url=https://web.archive.org/web/20210126164719/https://www.cia.gov/the-world-factbook/countries/mexico |url-status=dead |language=en}}</ref> Burimet kryesore të të ardhurave të saj janë nafta, eksportet industriale, mallrat e prodhuara, elektronika, industria e rëndë, automjetet, ndërtimi, ushqimi, bankat dhe shërbimet financiare.<ref>{{cite web |url=http://www.stratfor.com/global_market_brief_mexico_sees_decline_remittances |title=Stratfor Global Market – Mexico |publisher=Stratfor |date=2007-08-30 |access-date=2010-05-30 |url-status=dead |archive-url=https://web.archive.org/web/20120307204352/http://www.stratfor.com/global_market_brief_mexico_sees_decline_remittances |archive-date=2012-03-07 |language=en}}</ref>
+
+Ekonomia e Amerikës së Veriut është e përcaktuar dhe e strukturuar mirë në tri zona kryesore ekonomike.<ref name="UANL">{{cite book |last1=De la Torre |first1=Miguel |last2=Benavides |first2=Benigno |last3=Saldaña |first3=José |last4=Fernández |first4=Jesús |title=Sociología y Profesión |trans-title=Sociology and Profession |year=2008 |publisher=Nuevo León Autonomous University (UANL) |location=Monterrey |isbn=978-970-24-0051-6 |page=116 |chapter=Las profesiones en México: condiciones económicas, culturales y sociales |language=es |quote=La economía de América del Norte se encuentra bien definida y estructurada en tres principales áreas económicas: el Tratado de Libre Comercio de América del Norte (TLCAN), el CARICOM y el Mercado Común Centroamericano}}</ref> Këto zona përfshijnë ato që mbulohen nga Marrëveshja e Tregtisë së Lirë të Amerikës së Veriut (NAFTA), Komuniteti dhe Tregu i Përbashkët i Karaibeve (CARICOM) dhe Tregu i Përbashkët i Amerikës Qendrore (CACM).<ref name="UANL"/>{{Qartëso|reason=Artikulli i Wikipedia-s për CARICOM-in thotë se kishte katër anëtarë themelues dhe se aktualisht ka pesëmbëdhjetë anëtarë. A duhet rishikuar kjo fjali?|date=October 2026}} Nga këto blloqe tregtare, SHBA-ja merr pjesë në dy. Përveç blloqeve më të mëdha tregtare, ekziston edhe Marrëveshja e Tregtisë së Lirë Kanada–Kosta Rika, krahas shumë marrëdhënieve të tjera të tregtisë së lirë, shpesh mes vendeve më të mëdha e më të zhvilluara dhe vendeve të Amerikës Qendrore e Karaibeve.
+
+[[File:President Donald J. Trump at the G20 Summit (44300765490).jpg|thumb|Presidenti meksikan [[Enrique Peña Nieto]], [[Presidenti i Shteteve të Bashkuara|presidenti i SHBA-së]] [[Donald Trump]] dhe {{ill|Kryeministri i Kanadasë|en|Prime Minister of Canada|lt=kryeministri kanadez}} [[Justin Trudeau]] nënshkruajnë Marrëveshjen SHBA–Meksikë–Kanada gjatë samitit të G20-s në Buenos Aires më 2018]]
+NAFTA-ja përbënte një nga katër blloqet më të mëdha tregtare në botë.<ref>{{cite web |title=Regional Trade Blocs |url=http://ucatlas.ucsc.edu/trade/subtheme_trade_blocs.php |publisher=University of California, Santa Cruz |access-date=2011-06-10 |archive-date=2011-07-01 |archive-url=https://web.archive.org/web/20110701135703/http://ucatlas.ucsc.edu/trade/subtheme_trade_blocs.php |url-status=dead |language=en}}</ref> Zbatimi i saj në vitin 1994 synonte njëtrajtësimin ekonomik, me shpresën për të eliminuar pengesat ndaj tregtisë dhe investimeve të huaja mes Kanadasë, SHBA-së dhe Meksikës.<ref>{{cite encyclopedia |title=North American Free Trade Agreement |url=https://www.britannica.com/EBchecked/topic/418784/North-American-Free-Trade-Agreement-NAFTA |encyclopedia=Encyclopædia Britannica |access-date=2011-06-10 |archive-date=2011-09-04 |archive-url=https://web.archive.org/web/20110904104559/https://www.britannica.com/EBchecked/topic/418784/North-American-Free-Trade-Agreement-NAFTA |url-status=live |language=en}}</ref> Kanadaja dhe SHBA-ja kishin tashmë marrëdhënien më të madhe dypalëshe tregtare në botë, dhe e kanë ende edhe sot; marrëdhëniet tregtare mes Kanadasë dhe SHBA-së lejonin tashmë tregtinë pa taksa e tarifa kombëtare,<ref>{{cite web |title=CRS Report for Congress: United States-Canada Trade and Economic Relationship – Prospects and Challenges |url=http://www.nationalaglawcenter.org/assets/crs/RL33087.pdf |publisher=Congress Research Service |last=Fergusson |first=Ian |access-date=2011-06-09 |url-status=dead |archive-url=https://web.archive.org/web/20060806171755/http://www.nationalaglawcenter.org/assets/crs/RL33087.pdf |archive-date=2006-08-06 |language=en}}</ref> ndërsa NAFTA-ja i mundësoi Meksikës të përfitonte tregti të ngjashme pa dogana. Marrëveshja e tregtisë së lirë mundësoi heqjen e tarifave që më parë zbatoheshin për tregtinë SHBA–Meksikë. Vëllimi tregtar është rritur vazhdimisht çdo vit dhe, në vitin 2010, tregtia tokësore mes tri vendeve të NAFTA-s shënoi një rritje rekord historike prej 24,3%, ose 791 miliardë dollarësh amerikanë.<ref>{{cite web |url=http://www.integrationpoint.com/globaltradenews/index.php/nafta-trade-volume-increases/ |archive-url=https://web.archive.org/web/20110808161643/http://www.integrationpoint.com/globaltradenews/index.php/nafta-trade-volume-increases/ |archive-date=2011-08-08 |title=NAFTA Trade Volume Increases |access-date=2011-05-12 |url-status=dead |language=en}}</ref> Prodhimi i brendshëm bruto (PBB) i bllokut tregtar NAFTA, sipas barazisë së fuqisë blerëse (BFB), është më i madhi në botë, me 17,617 trilionë dollarë amerikanë.
+<ref>{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?sy=2010&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512%2C941%2C914%2C446%2C612%2C666%2C614%2C668%2C311%2C672%2C213%2C946%2C911%2C137%2C193%2C962%2C122%2C674%2C912%2C676%2C313%2C548%2C419%2C556%2C513%2C678%2C316%2C181%2C913%2C682%2C124%2C684%2C339%2C273%2C638%2C921%2C514%2C948%2C218%2C943%2C963%2C686%2C616%2C688%2C223%2C518%2C516%2C728%2C918%2C558%2C748%2C138%2C618%2C196%2C522%2C278%2C622%2C692%2C156%2C694%2C624%2C142%2C626%2C449%2C628%2C564%2C228%2C283%2C924%2C853%2C233%2C288%2C632%2C293%2C636%2C566%2C634%2C964%2C238%2C182%2C662%2C453%2C960%2C968%2C423%2C922%2C935%2C714%2C128%2C862%2C611%2C716%2C321%2C456%2C243%2C722%2C248%2C942%2C469%2C718%2C253%2C724%2C642%2C576%2C643%2C936%2C939%2C961%2C644%2C813%2C819%2C199%2C172%2C184%2C132%2C524%2C646%2C361%2C648%2C362%2C915%2C364%2C134%2C732%2C652%2C366%2C174%2C734%2C328%2C144%2C258%2C146%2C656%2C463%2C654%2C528%2C336%2C923%2C263%2C738%2C268%2C578%2C532%2C537%2C944%2C742%2C176%2C866%2C534%2C369%2C536%2C744%2C429%2C186%2C433%2C925%2C178%2C869%2C436%2C746%2C136%2C926%2C343%2C466%2C158%2C112%2C439%2C111%2C916%2C298%2C664%2C927%2C826%2C846%2C542%2C299%2C967%2C582%2C443%2C474%2C917%2C754%2C544%2C698&s=PPPGDP&grp=0&a=&pr.x=41&pr.y=16 |title=2010 Report Countries by GDP (PPP) |publisher=International Monetary Fund |date=2006-09-14 |access-date=2011-10-31 |archive-date=2011-10-08 |archive-url=https://web.archive.org/web/20111008054821/http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?sy=2010&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512%2C941%2C914%2C446%2C612%2C666%2C614%2C668%2C311%2C672%2C213%2C946%2C911%2C137%2C193%2C962%2C122%2C674%2C912%2C676%2C313%2C548%2C419%2C556%2C513%2C678%2C316%2C181%2C913%2C682%2C124%2C684%2C339%2C273%2C638%2C921%2C514%2C948%2C218%2C943%2C963%2C686%2C616%2C688%2C223%2C518%2C516%2C728%2C918%2C558%2C748%2C138%2C618%2C196%2C522%2C278%2C622%2C692%2C156%2C694%2C624%2C142%2C626%2C449%2C628%2C564%2C228%2C283%2C924%2C853%2C233%2C288%2C632%2C293%2C636%2C566%2C634%2C964%2C238%2C182%2C662%2C453%2C960%2C968%2C423%2C922%2C935%2C714%2C128%2C862%2C611%2C716%2C321%2C456%2C243%2C722%2C248%2C942%2C469%2C718%2C253%2C724%2C642%2C576%2C643%2C936%2C939%2C961%2C644%2C813%2C819%2C199%2C172%2C184%2C132%2C524%2C646%2C361%2C648%2C362%2C915%2C364%2C134%2C732%2C652%2C366%2C174%2C734%2C328%2C144%2C258%2C146%2C656%2C463%2C654%2C528%2C336%2C923%2C263%2C738%2C268%2C578%2C532%2C537%2C944%2C742%2C176%2C866%2C534%2C369%2C536%2C744%2C429%2C186%2C433%2C925%2C178%2C869%2C436%2C746%2C136%2C926%2C343%2C466%2C158%2C112%2C439%2C111%2C916%2C298%2C664%2C927%2C826%2C846%2C542%2C299%2C967%2C582%2C443%2C474%2C917%2C754%2C544%2C698&s=PPPGDP&grp=0&a=&pr.x=41&pr.y=16 |url-status=live |language=en}}</ref> Kjo i atribuohet pjesërisht faktit se ekonomia e [[Shtetet e Bashkuara|SHBA-së]] është ekonomia kombëtare më e madhe në botë; në vitin 2010, vendi kishte një PBB nominale prej rreth 14,7 trilionë dollarësh.<ref name="bea2011">{{Cite press release |url=https://www.bea.gov/newsreleases/national/gdp/2011/pdf/gdp4q10_adv.pdf |title=BEA News Release: Gross Domestic Product |publisher=Bureau of Economic Analysis |access-date=2014-02-03 |archive-date=2014-07-09 |archive-url=https://web.archive.org/web/20140709041929/http://web.archive.org/web/20140709041929/http://www.bea.gov/newsreleases/national/gdp/2011/pdf/gdp4q10_adv.pdf |url-status=live |language=en}}</ref> Vendet e NAFTA-s janë gjithashtu disa nga partnerët më të mëdhenj tregtarë të njëri-tjetrit. SHBA-ja është partneri më i madh tregtar i [[Kanadaja|Kanadasë]] dhe [[Meksiko|Meksikës]],<ref>{{cite web |title=United States Foreign Trade Highlights |url=https://www.census.gov/foreign-trade/statistics/highlights/top/top1012yr.html |publisher=United States of America Bureau of the Census |access-date=2014-02-03 |archive-date=2020-11-14 |archive-url=https://web.archive.org/web/20201114003737/https://www.census.gov/foreign-trade/statistics/highlights/top/top1012yr.html |url-status=live |language=en}}</ref> ndërsa Kanadaja dhe Meksika janë secila partnerja e tretë më e madhe tregtare e tjetrës.<ref>{{cite web |title=Canadian Manufacturing Association |url=http://www.canadianmanufacturing.com/general/increase-bilateral-trade-between-nafta-countries-cme-32091 |access-date=2011-06-09 |archive-date=2011-06-04 |archive-url=https://web.archive.org/web/20110604035537/http://web.archive.org/web/20110604035537/http://www.canadianmanufacturing.com/general/increase-bilateral-trade-between-nafta-countries-cme-32091 |url-status=dead |language=en}}</ref><ref>{{cite web |title=Mexico Free Trade Agreements |url=https://fas.org/sgp/crs/row/R40784.pdf |publisher=Federation of American Scientists |access-date=2011-06-09 |url-status=dead |archive-url=https://web.archive.org/web/20110623092721/http://web.archive.org/web/20110623092721/http://fas.org/sgp/crs/row/R40784.pdf |archive-date=2011-06-23 |language=en}}</ref> Në vitin 2018, NAFTA-ja u zëvendësua nga [[Marrëveshja SHBA–Meksikë–Kanada|Marrëveshja SHBA–Meksikë–Kanada (USMCA)]].
+
+Blloku tregtar i Karaibeve (CARICOM) u krijua në vitin 1973, kur u nënshkrua një marrëveshje nga 15 vende të Karaibeve. Në vitin 2000, vëllimi tregtar i CARICOM-it ishte 96 miliardë dollarë amerikanë. CARICOM-i mundësoi gjithashtu krijimin e një {{ill|CARICOM passport|en|CARICOM passport|lt=pasaporte të përbashkët}} për vendet e asociuara. Gjatë dekadës së fundit, blloku tregtar u përqendrua kryesisht te marrëveshjet e tregtisë së lirë; nën kujdesin e Zyrës së Negociatave Tregtare të CARICOM-it, marrëveshje të tilla janë nënshkruar dhe kanë hyrë në fuqi.
+
+Integrimi i ekonomive të Amerikës Qendrore u zhvillua pas nënshkrimit të marrëveshjes për Tregun e Përbashkët të Amerikës Qendrore në vitin 1961; kjo ishte përpjekja e parë për t'i përfshirë vendet e kësaj zone në një bashkëpunim më të ngushtë financiar. Zbatimi në vitin 2006 i Marrëveshjes së Tregtisë së Lirë të Amerikës Qendrore (CAFTA) e la të paqartë të ardhmen e CACM-së.<ref>{{cite web |title=Central American Community and Market |url=http://www.infoplease.com/ce6/history/A0811094.html |publisher=Pearson Education |access-date=2014-02-03 |archive-date=2012-10-15 |archive-url=https://web.archive.org/web/20121015060116/http://web.archive.org/web/20121015060116/http://www.infoplease.com/ce6/history/A0811094.html |url-status=live |language=en}}</ref> Marrëveshja e Tregtisë së Lirë të Amerikës Qendrore u nënshkrua nga pesë vende të Amerikës Qendrore, Republika Dominikane dhe SHBA-ja. Synimi kryesor i CAFTA-s është krijimi i një zone të tregtisë së lirë të ngjashme me atë të NAFTA-s. Përveç SHBA-së, Kanadaja mban marrëdhënie edhe me blloqet tregtare të Amerikës Qendrore.
+
+Këto vende marrin pjesë edhe në blloqe tregtare ndërkontinentale. Meksika merr pjesë në [[Marrëveshja e Tregtisë së Lirë G3|Marrëveshjen e Tregtisë së Lirë G3]] me Kolumbinë dhe Venezuelën dhe ka një marrëveshje tregtare me [[Bashkimi Evropian|Bashkimin Evropian]]. SHBA-ja ka propozuar dhe zbatuar marrëveshje tregtare në kuadër të {{ill|Transatlantic Free Trade Area|en|Transatlantic Free Trade Area|lt=Zonës Transatlantike të Tregtisë së Lirë}}, mes saj dhe Bashkimit Evropian; {{ill|U.S.–Middle East Free Trade Area|en|U.S.–Middle East Free Trade Area|lt=Zonës së Tregtisë së Lirë SHBA–Lindja e Mesme}}, mes saj dhe disa vendeve të Lindjes së Mesme; dhe {{ill|Trans-Pacific Strategic Economic Partnership|en|Trans-Pacific Strategic Economic Partnership|lt=Partneritetit Strategjik Ekonomik Trans-Paqësor}}, mes vendeve të Azisë Juglindore, Australisë dhe Zelandës së Re.
+
+Këto vende marrin pjesë edhe në blloqe tregtare ndërkontinentale. Meksika merr pjesë në [[Marrëveshja e Tregtisë së Lirë G3|Marrëveshjen e Tregtisë së Lirë G3]] me Kolumbinë dhe Venezuelën dhe ka një marrëveshje tregtare me [[Bashkimi Evropian|Bashkimin Evropian]]. SHBA-ja ka propozuar dhe zbatuar marrëveshje tregtare në kuadër të {{ill|Transatlantic Free Trade Area|en|Transatlantic Free Trade Area|lt=Zonës Transatlantike të Tregtisë së Lirë}}, mes saj dhe Bashkimit Evropian; {{ill|U.S.–Middle East Free Trade Area|en|U.S.–Middle East Free Trade Area|lt=Zonës së Tregtisë së Lirë SHBA–Lindja e Mesme}}, mes saj dhe disa vendeve të Lindjes së Mesme; dhe {{ill|Trans-Pacific Strategic Economic Partnership|en|Trans-Pacific Strategic Economic Partnership|lt=Partneritetit Strategjik Ekonomik Trans-Paqësor}}, mes vendeve të Azisë Juglindore, Australisë dhe Zelandës së Re.
+
+=== <span id="Infrastructure">Transporti</span> ===
+{{Hatnote|Artikulli kryesor: {{ill|Transporti në Amerikën e Veriut|en|Transportation in North America}}}}
+[[File:Class1rr.png|thumb|Harta e vitit 2006 e rrjetit të {{ill|Hekurudha e klasit I|en|Class I railroad}} në Amerikën e Veriut]]
+Rruga e {{ill|Autostrada Panamerikane|en|Pan-American Highway}} në kontinentet amerikane është pjesë e një rrjeti rrugësh me gjatësi gati {{Cvt|48000|km}}, që përshkon vendet kontinentale. Nuk ka një gjatësi përfundimtare të përcaktuar për Autostradën Panamerikane, pasi qeveritë e SHBA-së dhe Kanadasë nuk kanë përcaktuar kurrë zyrtarisht rrugë të veçanta si pjesë të saj, ndërsa Meksika ka zyrtarisht shumë degë që lidhen me kufirin e SHBA-së. Megjithatë, gjatësia e përgjithshme e pjesës nga Meksika deri në skajin verior të autostradës është afërsisht {{cvt|16000|mi|km|order=flip}}.
+
+Hekurudha e parë transkontinentale në SHBA u ndërtua gjatë viteve 1860, duke lidhur rrjetin hekurudhor të lindjes së vendit me Kaliforninë, në bregdetin e Paqësorit. E përfunduar më 10 maj 1869, gjatë ceremonisë së famshme të {{ill|Kunji i artë|en|golden spike}} në {{ill|Maja Promontory, Juta|en|Promontory Summit, Utah}}, ajo krijoi një rrjet kombëtar të mekanizuar transporti, që revolucionarizoi popullsinë dhe ekonominë e [[Perëndimi i Vjetër|kufirit perëndimor amerikan]], duke përshpejtuar kalimin nga {{ill|Karvani i vagonëve|en|wagon train|lt=karvanët e vagonëve}} të dekadave të mëparshme te një sistem modern transporti.<ref name="WDL">{{cite web |url=http://www.wdl.org/en/item/11371/ |title=Ceremony at "Wedding of the Rails", May 10, 1869, at Promontory Point, Utah |website=[[World Digital Library]] |date=1869-05-10 |access-date=2013-07-20 |archive-date=2013-10-18 |archive-url=https://web.archive.org/web/20131018052635/http://www.wdl.org/en/item/11371/ |url-status=live |language=en}}</ref> Megjithëse ishte një arritje, ajo u bë hekurudha e parë transkontinentale duke lidhur një mori hekurudhash të lindjes së SHBA-së me Paqësorin, por nuk ishte sistemi i vetëm hekurudhor më i madh në botë. Deri më 1867, {{ill|Hekurudha Grand Trunk|en|Grand Trunk Railway}} e Kanadasë kishte grumbulluar tashmë më shumë se {{cvt|2055|km}} shina, duke lidhur Ontarion me provincat kanadeze të Atlantikut, deri në {{ill|Port Huron, Miçigan|en|Port Huron, Michigan}} në perëndim, përmes {{ill|Sarnia, Ontario|en|Sarnia, Ontario}}.
+
+=== Komunikimet ===
+Një sistem i përbashkët telefonik i njohur si {{ill|Plani i Numërimit të Amerikës së Veriut|en|North American Numbering Plan}} është një [[Kodi telefonik|plan i integruar numërimi telefonik]] për 24 vende dhe territore: SHBA-në dhe {{ill|Territoret ishullore të SHBA-së|en|Insular area|lt=territoret e saj}}, Kanadanë, Bermudën dhe 17 vende të Karaibeve.
+
+== Demografia ==
+{{Hatnote|Shih edhe: {{ill|Lista e vendeve të Amerikës së Veriut sipas popullsisë|en|List of North American countries by population}}, {{ill|Lista e vendeve të Amerikës së Veriut sipas jetëgjatësisë|en|List of North American countries by life expectancy}}}}
+[[File:Non-Native American Nations Control over N America 1750-2008.gif|thumb|Kontrolli dhe pretendimet e vendeve joindigjene mbi Amerikën e Veriut, {{Rreth|1750 to 2008}}]]
+Kanadaja dhe Shtetet e Bashkuara janë vendet më të pasura dhe më të [[Shtetet e zhvilluara|zhvilluara]] të kontinentit, të ndjekura nga Meksika, një vend i sapoindustrializuar.<ref name="AIA"/> Vendet e Amerikës Qendrore dhe Karaibeve kanë nivele të ndryshme zhvillimi ekonomik dhe njerëzor. Për shembull, shtetet e vogla ishullore të Karaibeve, si Barbadosi, Trinidadi dhe Tobagoja, si dhe Antigua dhe Barbuda, kanë një {{ill|Prodhimi i Brendshëm Bruto (PPP) për frymë|en|List of countries by GDP (PPP) per capita|lt=PBB (PPP) për frymë}} më të lartë se Meksika, për shkak të popullsisë së tyre më të vogël. Panamaja dhe Kosta Rika kanë një [[Lista e shteteve sipas Indeksit të Zhvillimit Njerëzor|Indeks të Zhvillimit Njerëzor]] dhe PBB dukshëm më të lartë se vendet e tjera të Amerikës Qendrore.<ref name="UNDP">{{cite web |url=http://hdr.undp.org/en/media/HDR_2010_EN_Complete.pdf |archive-url=https://web.archive.org/web/20101108160356/http://hdr.undp.org/en/media/HDR_2010_EN_Complete.pdf |archive-date=2010-11-08 |title=2010 Human Development Report |date=January 2010 |publisher=[[Programi i Kombeve të Bashkuara për Zhvillimin]] |pages=148–151 |access-date=2011-05-06 |language=en}}</ref> Për më tepër, megjithëse Grenlanda ka burime të shumta nafte dhe mineralesh, pjesa më e madhe e tyre mbetet e pashfrytëzuar dhe ishulli varet ekonomikisht nga peshkimi, turizmi dhe subvencionet nga Danimarka. Megjithatë, ishulli është shumë i zhvilluar.<ref>{{Cite news |url=https://www.economist.com/news/europe/21640224-falling-crude-prices-are-forcing-greenland-put-plans-split-denmark-independence-ice |title=Independence on ice |date=2015-01-21 |newspaper=The Economist |access-date=2017-09-06 |archive-date=2017-07-01 |archive-url=https://web.archive.org/web/20170701163114/http://www.economist.com/news/europe/21640224-falling-crude-prices-are-forcing-greenland-put-plans-split-denmark-independence-ice |url-status=live |language=en}}</ref>
+
+Nga pikëpamja demografike, Amerika e Veriut është e larmishme nga ana etnike. Tri grupet më të mëdha janë [[Njerëz të bardhë|të bardhët]], [[Mestikët|mestikët]] dhe {{ill|Njerëz të zinj|en|Black people|lt=zezakët}}.<ref name="Composed">{{cite book |url=https://as.nyu.edu/content/dam/nyu-as/faculty/documents/Pop.Comp.IESBS.2001.pdf |chapter=Population Composition by Race and Ethnicity: North America |department=[[Universiteti i Nju Jorkut]] |publisher={{ill|Elsevier Science|en|Elsevier Science}} |pages=11745–11749 |title=International Encyclopedia of the Social & Behavioral Sciences |isbn=0-08-043076-7 |edition=1 |editor1=N.J. Smelser |editor-link1=Neil Smelser |editor2=P.B. Baltes |editor-link2=Paul Baltes |year=2001 |access-date=2021-06-24 |archive-date=2021-06-24 |archive-url=https://web.archive.org/web/20210624204640/https://as.nyu.edu/content/dam/nyu-as/faculty/documents/Pop.Comp.IESBS.2001.pdf |url-status=live |language=en}}</ref> Përveç grupeve të tjera më të vogla, ka edhe një pakicë të konsiderueshme popujsh indigjenë amerikanë dhe {{ill|Popuj aziatikë|en|Asian people|lt=aziatikësh}}.<ref name="Composed"/>
+
+=== Gjuhët ===
+[[File:Chinatown 1.jpg|thumb|{{ill|Qytetet kineze në Queens|en|Chinatowns in Queens|lt=Qyteti Kinez në Flushing}}, në [[Nju Jork Siti|Nju Jork]], është bërë qendra globale e sotme e {{ill|Emigrimi kinez|en|Chinese emigration|lt=emigracionit kinez}} dhe qendra ndërkombëtare e kontrollit që drejton këtë migrim. Shumë gjuhë janë përhapur në shoqërinë e Amerikës së Veriut.<ref name="NYC800Languages">{{cite news |title=Linguistics – Say what? |url=https://www.economist.com/science-and-technology/2011/09/10/say-what |access-date=2024-08-30 |publisher=The Economist |language=en}}</ref><ref name="NYCPrimaryChineseDestination">{{cite news |author=Sullivan |first=Eileen |date=2023-11-24 |title=Growing Numbers of Chinese Migrants Are Crossing the Southern Border |url=https://www.nytimes.com/2023/11/24/us/politics/china-migrants-us-border.html |access-date=2023-11-24 |newspaper=The New York Times |quote=Flushing, Queens, has been a destination for Chinese citizens for generations. |language=en}}</ref>]]
+{{Hatnote|Artikulli kryesor: {{ill|Gjuhët e Amerikës së Veriut|en|Languages of North America}}}}
+Gjuhët mbizotëruese në Amerikën e Veriut janë [[Gjuha angleze|anglishtja]], [[Gjuha spanjolle|spanjishtja]] dhe [[Gjuha franceze|frëngjishtja]]. [[Gjuha daneze|Danishtja]] është e përhapur në Grenlandë, krahas [[Gjuha grenlandeze|grenlandishtes]], ndërsa [[Gjuha holandeze|holandishtja]] flitet përkrah gjuhëve vendore në [[Antilet Holandeze|Karaibet Holandeze]]. Termi «Anglo-Amerikë» përdoret për t'iu referuar vendeve anglishtfolëse të kontinentit amerikan: përkatësisht Kanadasë, ku anglishtja dhe frëngjishtja janë gjuhë zyrtare, dhe SHBA-së, por ndonjëherë edhe Belizes dhe pjesëve të zonës tropikale, veçanërisht {{ill|Karaibet e Komonuelthit|en|Commonwealth Caribbean}}. «Amerika Latine» u referohet pjesëve të tjera të kontinentit amerikan (përgjithësisht në jug të SHBA-së), ku mbizotërojnë spanjishtja dhe [[Gjuha portugeze|portugalishtja]]—të dyja {{ill|Gjuhët romane|en|Romance language|lt=gjuhë romane}}, që rrjedhin nga {{ill|Gjuha latine|en|Latin language|lt=latinishtja}}—(megjithëse vendet frankofone zakonisht përjashtohen): republikat e tjera të Amerikës Qendrore (por jo gjithmonë Belizeja), një pjesë e Karaibeve (jo zonat holandishtfolëse, anglishtfolëse ose frëngjishtfolëse), Meksika dhe pjesa më e madhe e Amerikës së Jugut (përveç [[Guajana|Guajanës]], [[Surinami|Surinamit]], [[Guajana Franceze|Guajanës Franceze]] [Francë] dhe [[Ishujt Falkland|Ishujve Falkland]] [MB]).
+
+SHBA-ja ka një popullsi të larmishme nga ana etnike, dhe 37 grupe prejardhjeje kanë mbi një milion pjesëtarë.<ref name="An2000">{{cite web |title=Ancestry 2000 |url=https://www.census.gov/prod/2004pubs/c2kbr-35.pdf |date=June 2004 |publisher=U.S. Census Bureau |url-status=live |archive-url=http://webarchive.loc.gov/all/20041204015245/https://www.census.gov/prod/2004pubs/c2kbr-35.pdf |archive-date=2004-12-04 |access-date=2016-12-02 |language=en}}</ref> Gjuha frënge ka luajtur historikisht një rol të rëndësishëm në Amerikën e Veriut dhe vazhdon të ketë prani të veçantë në disa rajone. Kanadaja është zyrtarisht dygjuhëshe. Frëngjishtja është gjuhë zyrtare në provincën e [[Kebeku (provincë)|Kebekut]], ku 95% e banorëve e flasin si gjuhë të parë ose të dytë; ajo është gjithashtu gjuhë zyrtare krahas anglishtes në provincën e [[New Brunswick]]. Vende të tjera ku flitet frëngjishtja përfshijnë provincën e [[Ontario]]s (gjuha zyrtare është anglishtja, por vlerësohet se ka 600.000 franko-ontarianë), provincën e [[Manitoba]]s (frëngjishtja është gjuhë zyrtare krahas anglishtes sipas ''[[De jure|de jure]]''), {{ill|Antilet Franceze|en|French West Indies}} dhe {{ill|Sen-Pjer dhe Mikelon|en|Saint-Pierre et Miquelon}}, si dhe shtetin amerikan të [[Luiziana|Luizianës]], ku frëngjishtja është gjithashtu gjuhë zyrtare. Haiti përfshihet në këtë grup për shkak të lidhjeve historike, por haitianët flasin edhe {{ill|Gjuha kreole haitiane|en|Haitian Creole language|lt=kreolisht}}, krahas frëngjishtes. Po kështu, frëngjishtja dhe kreolishtja e Antileve Franceze fliten në Shën Luçia dhe {{ill|Komonuelthi i Dominikës|en|Commonwealth of Dominica}}, krahas anglishtes.
+===Gjuhët vendase===
+[[File:Langs N.Amer.png|thumb|[[Gjuha e parë|Gjuhët amtare]] të Shteteve të Bashkuara, Kanadasë, Grenlandës dhe Meksikës veriore]]
+Në Amerikën e Veriut fliten shumë [[Gjuhët indigjene të Amerikave|gjuhë indigjene]], ku rreth 6 milionë banorë të Meksikës flasin një gjuhë indigjene në shtëpi,<ref>{{Cite web |last=Cocking |first=Lauren |title=A Guide To Mexico's Indigenous Languages |url=https://theculturetrip.com/north-america/mexico/articles/a-guide-to-mexicos-indigenous-languages/ |access-date=2020-08-16 |website=Culture Trip |date=2016-12-23 |language=en |archive-date=2020-09-24 |archive-url=https://web.archive.org/web/20200924142928/https://theculturetrip.com/north-america/mexico/articles/a-guide-to-mexicos-indigenous-languages/ |url-status=live}}</ref> 372.000 njerëz në SHBA,<ref>{{Cite web |title=Census Shows Native Languages Count |url=https://www.languagemagazine.com/census-shows-native-languages-count/ |access-date=2020-08-16 |website=Language Magazine |language=en |archive-date=2020-08-10 |archive-url=https://web.archive.org/web/20200810115520/https://web.archive.org/web/20200810115520/https://www.languagemagazine.com/census-shows-native-languages-count/ |url-status=live}}</ref> dhe rreth 225.000 në Kanada.<ref>{{cite web |url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/abpopprof/details/page.cfm?Lang=E&Geo1=PR&Code1=01&Data=Count&SearchText=Canada&SearchType=Begins&B1=Language&C1=All&SEX_ID=1&AGE_ID=1&RESGEO_ID=1 |title=Aboriginal Population Profile, 2016 |date=2018-06-21 |publisher=Statistics Canada |access-date=2020-08-16 |language=en |archive-date=2020-11-19 |archive-url=https://web.archive.org/web/20201119101441/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/abpopprof/details/page.cfm?Lang=E&Geo1=PR&Code1=01&Data=Count&SearchText=Canada&SearchType=Begins&B1=Language&C1=All&SEX_ID=1&AGE_ID=1&RESGEO_ID=1 |url-status=live}}</ref> Në SHBA dhe Kanada kanë mbijetuar rreth 150 gjuhë indigjene nga 300 që fliteshin përpara kontaktit me evropianët.<ref>{{Cite web |title=North American Indian languages |url=https://www.britannica.com/topic/North-American-Indian-languages |access-date=2020-08-16 |website=Encyclopedia Britannica |language=en |archive-date=2020-11-11 |archive-url=https://web.archive.org/web/20201111195401/https://www.britannica.com/web/20201111195401/https://www.britannica.com/topic/North-American-Indian-languages}}</ref>
+=== Fetë ===
+{{Hatnote|Artikulli kryesor: {{ill|Feja në Amerikën e Veriut|en|Religion in North America}}}}
+{{Hatnote|Shih edhe: {{ill|Fetë e botës|en|Religions of the world}}}}
+[[File:North America Religious Belief.svg|thumb|Përqindja e njerëzve që identifikohen me një fe në Amerikën e Veriut, sipas të dhënave të viteve 2010–2012]]
+[[Krishtërimi]] është feja më e përhapur në Shtetet e Bashkuara, Kanada dhe Meksikë. Sipas një ankete të vitit 2012 të {{ill|Qendra Kërkimore Pew|en|Pew Research Center}}, 77% e popullsisë e konsideronte veten të krishterë.<ref>[http://www.pewforum.org/files/2014/01/global-religion-full.pdf The Global Religious Landscape A Report on the Size and Distribution of the World's Major Religious Groups as of 2010] {{Webarchive|url=https://web.archive.org/web/20150924113632/http://www.pewforum.org/files/2014/01/global-religion-full.pdf |date=2015-09-24}} Pew Forum on Religion & Public Life, f. 18</ref> Krishterimi është gjithashtu feja mbizotëruese në {{ill|Lista e shteteve sovrane dhe territoreve të varura në Amerikën Veriore|en|List of sovereign states and dependent territories in North America|lt=23 territoret e varura në Amerikën e Veriut}}.<ref>[http://www.pewforum.org/files/2011/12/Christianity-fullreport-web.pdf Global Christianity A Report on the Size and Distribution of the World's Christian Population], {{Webarchive|url=https://web.archive.org/web/20130805020311/http://www.pewforum.org/files/2011/12/Christianity-fullreport-web.pdf|date=2013-08-05}} Pew Forum on Religion & Public Life, f. 15.</ref> Shtetet e Bashkuara kanë popullsinë më të madhe të krishterë në botë, me afro 247&nbsp;milionë të krishterë (70%), megjithëse në disa vende të tjera përqindja e të krishterëve në popullsi është më e lartë.<ref>{{Cite web |url=http://www.pewforum.org/2015/05/12/americas-changing-religious-landscape/ |title=America's Changing Religious Landscape |publisher=Pew Research Center: Religion & Public Life |date=2015-05-12 |access-date=2015-07-18 |archive-date=2021-02-01 |archive-url=https://web.archive.org/web/20210201011958/https://www.pewforum.org/2015/05/12/americas-changing-religious-landscape/ |url-status=live |language=en}}</ref> Meksika ka numrin e dytë më të madh të katolikëve në botë, pas [[Brazili]]t.<ref>{{Cite web |url=http://www.adherents.com/largecom/com_romcath.html |archive-url=https://web.archive.org/web/20000818085719/http://www.adherents.com/largecom/com_romcath.html |archive-date=2000-08-18 |title=The Largest Catholic Communities |access-date=2007-11-10 |work=Adherents.com |url-status=usurped |language=en}}</ref>
+
+Sipas të njëjtit studim, personat [[Jofeja|pa përkatësi fetare]] (përfshirë {{ill|Agnostikët|en|Agnosticism|lt=agnostikët}} dhe {{ill|Ateistët|en|Atheism|lt=ateistët}}) përbëjnë rreth 17% të popullsisë së Kanadasë dhe të Shteteve të Bashkuara.<ref name="Religiously Unaffiliated">{{Cite web |url=http://www.pewforum.org/global-religious-landscape-unaffiliated.aspx |title=Religiously Unaffiliated |date=2012-12-18 |work=Pew Research Center's Religion & Public Life Project |access-date=2015-02-22 |archive-date=2013-07-30 |archive-url=https://web.archive.org/web/20130730043126/http://www.pewforum.org/global-religious-landscape-unaffiliated.aspx |url-status=dead |language=en}}</ref> Personat pa përkatësi fetare përbëjnë rreth 24% të popullsisë së përgjithshme të Kanadasë.<ref name="religion2011">{{Cite web |url=http://www.statcan.gc.ca/daily-quotidien/130508/dq130508b-eng.htm?HPA |title=Religions in Canada—Census 2011 |publisher=Statistics Canada/Statistique Canada |date=2013-05-08 |access-date=2015-07-18 |archive-date=2015-12-19 |archive-url=https://web.archive.org/web/20151219142107/http://www.statcan.gc.ca/daily-quotidien/130508/dq130508b-eng.htm?HPA |url-status=live |language=en}}</ref>
+
+Kanadaja, Shtetet e Bashkuara dhe Meksika kanë bashkësi [[Judejtë|hebreje]] (6&nbsp;milionë ose rreth 1,8%),<ref>{{Cite web |url=http://www.pewforum.org/2012/12/18/global-religious-landscape-jew/ |title=The Global Religious Landscape: Jews |access-date=2012-12-18 |work=pewforum |date=2012-12-18 |archive-date=2020-05-18 |archive-url=https://web.archive.org/web/20200518052016/https://www.pewforum.org/2012/12/18/global-religious-landscape-jew/ |url-status=live |language=en}}</ref> {{ill|Budiste|en|Buddhism|lt=budiste}} (3,8&nbsp;milionë ose 1,1%)<ref>{{Cite web |url=http://www.pewforum.org/2012/12/18/global-religious-landscape-buddhist/ |title=The Global Religious Landscape: Buddhists |access-date=2012-12-18 |work=Pew Research Center |date=2012-12-18 |archive-date=2018-04-18 |archive-url=https://web.archive.org/web/20180418052913/http://www.pewforum.org/2012/12/18/global-religious-landscape-buddhist/ |url-status=live |language=en}}</ref> dhe [[Myslimanët|myslimane]] (3,4&nbsp;milionë ose 1,0%).<ref>{{Cite web |url=http://www.pewforum.org/2012/12/18/global-religious-landscape-muslim/ |title=The Global Religious Landscape: Muslims |access-date=2012-12-18 |publisher=Pew Forum on Religion & Public Life |date=2012-12-18 |archive-date=2021-03-21 |archive-url=https://web.archive.org/web/20210321144033/https://www.pewforum.org/2012/12/18/global-religious-landscape-muslim/ |url-status=live |language=en}}</ref> Numri më i madh i hebrenjve gjendet në Shtetet e Bashkuara (5,4&nbsp;milionë),<ref>{{Cite web |url=http://www.jewishdatabank.org/Studies/downloadFile.cfm?FileID=2941 |title=World Jewish Population, 2012 |access-date=2015-07-18 |archive-date=2016-03-04 |archive-url=https://web.archive.org/web/20160304031023/http://www.jewishdatabank.org/Studies/downloadFile.cfm?FileID=2941 |url-status=live |language=en}}</ref> Kanada (375.000)<ref>{{Cite web |url=http://www.jewishdatabank.org/studies/downloadFile.cfm?FileID=3113 |title=World Jewish Population, 2013 |first=Sergio |last=DellaPergola |author-link=Sergio DellaPergola |editor1-first=Arnold |editor1-last=Dashefsky |editor1-link=Arnold Dashefsky |editor2-first=Ira |editor2-last=Sheskin |date=2013 |work=Current Jewish Population Reports |publisher=North American Jewish Data Bank |location=Storrs, Connecticut |format=PDF |access-date=2015-07-18 |archive-date=2018-10-05 |archive-url=https://web.archive.org/web/20181005011011/http://www.jewishdatabank.org/Studies/downloadFile.cfm?FileID=3113 |url-status=live |language=en}}</ref> dhe Meksikë (67.476).<ref name="INEGI">{{Cite web |title=Panorama de las religiones en México 2010 |url=http://www.inegi.org.mx/prod_serv/contenidos/espanol/bvinegi/productos/censos/poblacion/2010/panora_religion/religiones_2010.pdf |publisher=INEGI |access-date=2015-03-02 |page=3 |language=es |url-status=dead |archive-url=https://web.archive.org/web/20151021230003/http://www.inegi.org.mx/prod_serv/contenidos/espanol/bvinegi/productos/censos/poblacion/2010/panora_religion/religiones_2010.pdf |archive-date=2015-10-21}}</ref> Shtetet e Bashkuara kanë popullsinë më të madhe myslimane në Amerikën e Veriut, me 2,7&nbsp;milionë ose 0,9%,<ref name="pew2015">{{Cite web |url=http://www.pewforum.org/2015/05/12/americas-changing-religious-landscape/ |title=America's Changing Religious Landscape |publisher=The Pew Forum on Religion & Public Life |access-date=2015-05-12 |date=2015-05-12 |archive-date=2021-02-01 |archive-url=https://web.archive.org/web/20210201011958/https://www.pewforum.org/2015/05/12/americas-changing-religious-landscape/ |url-status=live |language=en}}</ref><ref name="Islam in the United States">{{Cite web |url=http://www.euro-islam.info/country-profiles/united-states |title=Demographics |date=2008-10-22 |access-date=2013-05-02 |archive-date=2013-04-26 |archive-url=https://web.archive.org/web/20130426035056/http://www.euro-islam.info/country-profiles/united-states/ |url-status=live |language=en}}</ref> ndërsa Kanadaja ka rreth një milion myslimanë, ose 3,2% të popullsisë.<ref>{{Cite web |url=http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=01&Data=Count&SearchText=Canada&SearchType=Begins&SearchPR=01&A1=Religion&B1=All&Custom=&amp;TABID=1 |title=National Household Survey (NHS) Profile, 2011 |date=2013-09-11 |publisher=Statistics Canada |access-date=2022-01-29 |archive-date=2018-08-13 |archive-url=https://web.archive.org/web/20180813191748/https://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=01&Data=Count&SearchText=Canada&SearchType=Begins&SearchPR=01&A1=Religion&B1=All&Custom=&TABID=1 |url-status=live |language=en}}</ref> Në Meksikë, në vitin 2010 kishte 3.700 myslimanë.<ref name="2010-census">{{Cite web |url=http://www3.inegi.org.mx/sistemas/TabuladosBasicos/Default.aspx?c=27302&s=est |title=Censo de Población y Vivienda 2010 – Cuestionario básico |year=2010 |publisher=INEGI |access-date=2011-03-04 |archive-date=2018-12-24 |archive-url=https://web.archive.org/web/20181224211325/http://www3.inegi.org.mx/sistemas/TabuladosBasicos/Default.aspx?c=27302&s=est%20 |url-status=dead |language=es}}</ref> Në vitin 2012, gazeta ''{{ill|U-T San Diego|en|U-T San Diego}}'' vlerësoi se në Shtetet e Bashkuara kishte 1,2&nbsp;milionë praktikues të budizmit, prej të cilëve 40% jetonin në {{ill|Kaliforninë Jugore|en|Southern California}}.<ref>{{Cite journal |last=Rowe |first=Peter |date=2012-04-16 |title=Dalai Lama facts and figures |url=http://www.utsandiego.com/news/2012/apr/16/all-about-dalai-lama |journal=U-T San Diego |access-date=2015-01-15 |archive-date=2012-06-08 |archive-url=https://web.archive.org/web/20120608082954/http://www.utsandiego.com/news/2012/apr/16/all-about-dalai-lama/ |url-status=live |language=en}}</ref>
+
+Feja mbizotëruese në Meksikë dhe Amerikën Qendrore është krishterimi (96%).<ref name="Christianity in its Global Context">{{Cite web |url=http://wwwgordonconwell.com/netcommunity/CSGCResources/ChristianityinitsGlobalContext.pdf |archive-url=https://web.archive.org/web/20130815184022/http://wwwgordonconwell.com/netcommunity/CSGCResources/ChristianityinitsGlobalContext.pdf |url-status=dead |archive-date=2013-08-15 |title=Christianity in its Global Context |access-date=2016-12-30 |language=en}}</ref> Duke nisur me kolonizimin spanjoll të Meksikës në shekullin e 16-të, [[Kisha Katolike Romake|katolicizmi romak]] ishte feja e vetme e lejuar nga kurora spanjolle dhe Kisha Katolike. U ndërmor një fushatë e gjerë për konvertimin fetar, e ashtuquajtura «pushtimi shpirtëror», për t’i përfshirë popujt vendas në besimin e krishterë. U krijua [[Inkuizicioni meksikan|Inkuizicioni]] për të siguruar respektimin e besimit dhe praktikës ortodokse. Kisha Katolike mbeti një institucion i rëndësishëm, ndaj edhe pas pavarësisë politike katolicizmi romak mbeti feja mbizotëruese. Që nga vitet 1960 është shtuar numri i grupeve të tjera të krishtera, veçanërisht i [[Protestantizmi|protestantëve]], si dhe i organizatave të tjera fetare dhe i personave që identifikohen si pa fe. Krishterimi është gjithashtu feja mbizotëruese në Karaibe (85%).<ref name="Christianity in its Global Context"/> Grupe të tjera fetare në rajon janë [[Hinduizmi]], [[Islami]], [[Rastafari]] (në Xhamajkë) dhe {{ill|Fetë afro-amerikane|en|Afro-American religions|lt=fetë afro-amerikane}}, si {{ill|Santería|en|Santería}} dhe {{ill|Voodoo-ja haitiane|en|Haitian Vodou}}.
+=== Popullsia ===
+{{Multiple image
+| align             = right
+| direction         = vertical
+| caption_align     = center
+| header            = Qytetet e Amerikës së Veriut
+| header_align      = left/right/center
+| header_background = 
+| footer            = 
+| footer_background = 
+| width             = 
+| image1            = Mexico City Reforma skyline (cropped).jpg
+| width1            = 200
+| caption1          = [[Qyteti i Meksikës]]
+| image2            = Luchtfoto van Lower Manhattan.jpg
+| width2            = 200
+| caption2          = [[Nju Jork Siti]]
+| image3            = Los Angeles with Mount Baldy.jpg
+| width3            = 200
+| caption3          = [[Los Anxheles]]
+| image4            = Downtown Toronto in September 2018 (Early Sunday Morning, view from a kayak).jpg
+| width4            = 200
+| caption4          = [[Toronto]]
+| image5            = Chicago-00.jpg
+| width5            = 200
+| caption5          = [[Çikago]]
+| image6            = Zapopan Guadalajara Mexico 2 (cropped).jpg
+| width6            = 200
+| caption6          = Guadalajara
+| total_width       = 
+}}
+
+[[File:Life expectancy map -North America -2021 -with names.png|thumb|upright=0.91|[[Jetëgjatësia]] në Amerikën e Veriut në vitin 2021]]
+
+Amerika e Veriut është kontinenti i katërt më i populluar, pas Azisë, Afrikës dhe Evropës.<ref>{{cite web |title=North America Fast Facts |url=http://www.worldatlas.com/webimage/countrys/nafacts.htm |access-date=16 June 2013 |publisher=World Atlas.com |archive-date=23 June 2013 |archive-url=https://web.archive.org/web/20130623005828/http://www.worldatlas.com/webimage/countrys/nafacts.htm |url-status=live |language=en}}</ref> Vendi me popullsinë më të madhe është SHBA-ja, me 342,9&nbsp;milionë banorë. Vendi i dytë për nga madhësia është Meksika, me një popullsi prej 126&nbsp;milionësh.<ref>{{Cite web |title=Census of Population and Housing (CPV) 2020 |url=https://en.www.inegi.org.mx/programas/ccpv/2020/ |access-date=20 December 2025 |website=Instituto Nacional de Estadística y Geografía |language=en}}</ref> Kanadaja është vendi i tretë më i populluar, me 41,5&nbsp;milionë banorë.<ref>{{cite web |date=27 June 2018 |title=Population estimates, quarterly |url=https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901 |url-status=live |archive-url=https://web.archive.org/web/20190109220020/https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901 |archive-date=9 January 2019 |access-date=20 December 2025 |website=Statistics Canada |language=en}}</ref> Shumica e shteteve ishullore të Karaibeve kanë popullsi nën një milion, megjithëse Kuba, Republika Dominikane, Haiti, Porto Rikoja (territor i SHBA-së), Xhamajka dhe Trinidadi e Tobagoja kanë secila popullsi mbi një milion.{{refn|name="cubastat"|{{cite web |title=Anuario Estadístico de Cuba 2009 |url=http://www.one.cu/aec2009/esp/20080618_tabla_cuadro.htm |archive-url=https://web.archive.org/web/20100716124826/http://www.one.cu/aec2009/esp/20080618_tabla_cuadro.htm |archive-date=16 July 2010 |access-date=6 November 2010 |publisher=Oficina Nacional de Estadísticas, República de Cuba |language=es |edition=2010}} Shënim: Për konvertimin e PBB-së u përdor kursi i këmbimit prej 1 CUC për 1,08 dollarë amerikanë.}} {{refn|group=lower-alpha|{{cite web |title=The World Factbook: Cuba |url=https://www.cia.gov/the-world-factbook/countries/cuba/ |date=2 December 2021 |publisher=Central Intelligence Agency |language=en}}}}<ref name="prez">{{cite web |url=http://www.presidencia.gob.do/app/pre_nuestro_pais.aspx?id=372 |archive-url=https://web.archive.org/web/20071122172644/http://www.presidencia.gob.do/app/pre_nuestro_pais.aspx?id=372 |archive-date=22 November 2007 |title=Presidencia de la República; Generalidades |access-date=14 December 2009 |language=es |url-status=dead}}</ref><ref>{{cite web |title=The World Factbook: Haiti |url=https://www.cia.gov/the-world-factbook/countries/haiti/ |publisher=Central Intelligence Agency |access-date=11 June 2011 |archive-date=9 February 2021 |archive-url=https://web.archive.org/web/20210209014627/https://www.cia.gov/the-world-factbook/countries/haiti/ |url-status=dead |language=en}}</ref><ref>{{cite web |url=http://2010.census.gov/2010census/data/index.php |title=2010 U.S. Census Data |publisher=2010.census.gov |access-date=6 February 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120215083619/http://2010.census.gov/2010census/data/index.php |archive-date=15 February 2012 |language=en}}</ref><ref>{{cite web |title=The World Factbook: Jamaica |url=https://www.cia.gov/the-world-factbook/countries/jamaica/ |access-date=11 June 2011 |publisher=Central Intelligence Agency |archive-date=11 January 2021 |archive-url=https://web.archive.org/web/20210111023238/https://www.cia.gov/the-world-factbook/countries/jamaica |url-status=dead |language=en}}</ref> Groenlanda ka një popullsi të vogël prej 55.984 banorësh, përkundër përmasave të saj të mëdha (2,166&nbsp;milionë&nbsp;km<sup>2</sup> ose 836.300&nbsp;mi<sup>2</sup>); si rrjedhojë, ka dendësinë më të ulët të popullsisë në botë, 0,026 banorë/km<sup>2</sup> (0,067 banorë/mi<sup>2</sup>).<ref>{{Cite web |url=https://stat.gl/dialog/main.asp?lang=en&theme=Population&link=BE |title=Grønlands Statistik |website=stat.gl |access-date=29 November 2020 |archive-date=19 November 2020 |archive-url=https://web.archive.org/web/20201119100924/https://stat.gl/dialog/main.asp?lang=en&theme=Population&link=BE |url-status=live |language=da}}</ref>
+Ndërsa Shtetet e Bashkuara, Kanadaja dhe Meksika kanë popullsitë më të mëdha, qytetet e mëdha nuk gjenden vetëm në këto vende. Ka qytete të mëdha edhe në [[Karaibet]]. Qytetet më të mëdha të Amerikës së Veriut, me një diferencë të konsiderueshme, janë Qyteti i Meksikos dhe [[Nju Jorku]]. Këto janë të vetmet qytete në kontinent me më shumë se tetë milionë banorë dhe dy nga tre të tillat në kontinentet e Amerikës. Pas tyre vijnë Los Anxhelosi, [[Toronto]],<ref>{{Cite web |url=https://www.thestar.com/news/city_hall/2013/03/05/torontos_population_overtakes_chicago.html |title=Toronto's population overtakes Chicago |work=Toronto Star |date=5 March 2013 |access-date=6 September 2017 |archive-date=8 March 2013 |archive-url=https://web.archive.org/web/20130308132904/http://www.thestar.com/news/city_hall/2013/03/05/torontos_population_overtakes_chicago.html |url-status=live |language=en}}</ref> Çikagoja, Havana, Santo Domingo dhe [[Montreali|Montreali]]. Qytetet në rajonet e Brezit të Diellit në SHBA, si ato në Kaliforninë Jugore, si dhe [[Houston]], [[Phoenix|Phoenixi]], Miami, [[Atlanta]], dhe [[Las Vegas]], po përjetojnë rritje të shpejtë. Ndër shkaqet janë temperaturat e ngrohta, dalja në pension e brezit të lindur gjatë bumit të lindjeve, industritë e mëdha dhe ardhja e emigrantëve. Edhe qytetet pranë kufirit të SHBA-së, veçanërisht ato në Meksikë, po përjetojnë rritje të madhe. Më i spikaturi është [[Tijuana]], qytet në kufi me San Diegon, që tërheq emigrantë nga e gjithë Amerika Latine, si edhe nga pjesë të Evropës dhe Azisë. Megjithatë, ndërsa qytetet rriten në këto rajone më të ngrohta të Amerikës së Veriut, ato po përballen gjithnjë e më shumë me problemin madhor të [[mungesat e ujit|mungesës së ujit]].<ref>{{Cite book |last1=Cetron |first1=Marvin J. |last2=O'Toole |first2=Thomas |url=https://archive.org/details/encounterswithfu00cetr |url-access=registration |title=Encounters with the future: a forecast of life into the 21st century |publisher=Mcgraw-Hill |date=April 1982 |page=[https://archive.org/details/encounterswithfu00cetr/page/34 34] |isbn=978-0-07-010347-4 |language=en}}</ref>
+
+Tetë nga dhjetë [[zonat metropolitane]] më të mëdha ndodhen në [[Shtetet e Bashkuara]]. Të gjitha këto zona metropolitane kanë mbi 5,5 milionë banorë dhe përfshijnë [[zona metropolitane e Nju Jorkut|zonën metropolitane të Nju Jorkut]], [[zona metropolitane e Los Anxhelosit|zonën metropolitane të Los Anxhelosit]], [[zona metropolitane e Çikagos|zonën metropolitane të Çikagos]] dhe {{ill|Dallas–Fort Worth|en|Dallas–Fort Worth|lt=aglomerimin Dallas–Fort Worth}}.<ref name="PopEstCBSA">{{Cite web |url=http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_NSRD_GCTPL2.US24PR&prodType=table |title=Population and Housing Occupancy Status: 2010 – United States – Metropolitan Statistical Area; and for Puerto Rico more information 2010 Census National Summary File of Redistricting Data |work=2010 United States Census |publisher={{ill|United States Census Bureau|en|United States Census Bureau|lt=Byroja e Regjistrimit e Shteteve të Bashkuara}}, Divizioni i Popullsisë |date=14 April 2011 |access-date=14 April 2011 |language=en}}{{Lidhje e vdekur|bot=medic|date=April 2020}}{{Cbignore|bot=medic}}</ref> Megjithëse shumica e zonave metropolitane më të mëdha ndodhen në SHBA, Meksika ka zonën metropolitane me popullsinë më të madhe në Amerikën e Veriut: [[Qyteti i Madh i Meksikos]].<ref>{{Cite web |title=The World Factbook: Mexico |url=https://www.cia.gov/the-world-factbook/countries/mexico/ |access-date=20 June 2011 |publisher=Central Intelligence Agency |archive-date=26 January 2021 |archive-url=https://web.archive.org/web/20210126164719/https://www.cia.gov/the-world-factbook/countries/mexico |url-status=dead |language=en}}</ref> Kanadaja gjithashtu renditet mes dhjetë zonave metropolitane më të mëdha, ku zona metropolitane e Torontos ka gjashtë milionë banorë.<ref name="statcan2006">{{Cite web |url=http://www12.statcan.ca/census-recensement/2006/dp-pd/prof/92-591/details/page.cfm?Lang=E&Geo1=CMA&Code1=535__&Geo2=PR&Code2=35&Data=Count&SearchText=Toronto&SearchType=Begins&SearchPR=01&B1=All&Custom= |title=Toronto, Ontario (Census metropolitan area) |author=Statistics Canada |author-link=Statistics Canada |work=[[Regjistrimi i Kanadasë 2006|Regjistrimi i vitit 2006]] |year=2006 |access-date=29 January 2010 |url-status=dead |archive-url=https://web.archive.org/web/20150114131145/http://www12.statcan.ca/census-recensement/2006/dp-pd/prof/92-591/details/page.cfm?Lang=E&Geo1=CMA&Code1=535__&Geo2=PR&Code2=35&Data=Count&SearchText=Toronto&SearchType=Begins&SearchPR=01&B1=All&Custom= |archive-date=14 January 2015 |language=en}}</ref> Afërsia e qyteteve me njëri-tjetrin përgjatë [[kufiri Kanada–Shtetet e Bashkuara|kufirit Kanada–Shtetet e Bashkuara]] dhe kufirit Meksikë–SHBA ka çuar në krijimin e zonave metropolitane ndërkombëtare. Këto aglomerime urbane janë më të mëdha dhe më produktive në zonat {{ill|Detroit–Windsor|en|Detroit–Windsor}} dhe {{ill|San Diego–Tijuana|en|San Diego–Tijuana}}, ku zhvillohet veprimtari e gjerë tregtare, ekonomike dhe kulturore. Zonat metropolitane janë përgjegjëse për tregti me vlerë miliona dollarë, e cila varet nga transporti ndërkombëtar i mallrave. Në Detroit–Windsor, studimi i Partneritetit të Transportit Kufitar në vitin 2004 arriti në përfundimin se tregtia me vlerë 13&nbsp;miliardë [[Dollari i Shteteve të Bashkuara|dollarësh amerikanë]] varej nga pika kufitare ndërkombëtare Detroit–Windsor; ndërsa në San Diego–Tijuana, transporti i mallrave në [[Porti i hyrjes Otay Mesa|portin e hyrjes Otay Mesa]] vlerësohej në 20&nbsp;miliardë dollarë amerikanë.<ref>{{Cite web |publisher=Detroit Regional Chamber |year=2006 |url=http://www.detroitchamber.com/detroiter/articles.asp?cid=7&detcid=531 |archive-url=https://web.archive.org/web/20060321130504/http://www.detroitchamber.com/detroiter/articles.asp?cid=7&detcid=531 |archive-date=21 March 2006 |title=Detroit/Windsor Border Update: Part I – Detroit River International Crossing Study |access-date=10 June 2011 |url-status=dead |language=en}}</ref><ref name="Planning SD-TJ">{{Cite web |title=Chapter IV Planning for the Future: Urban & Regional Planning in the San Diego-Tijuana Region |publisher=International Community Foundation |url=http://www.icfdn.org/publications/blurredborders/documents/urbanch4.pdf |access-date=20 March 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110723181848/http://www.icfdn.org/publications/blurredborders/documents/urbanch4.pdf |archive-date=23 July 2011 |language=en}}</ref>
+
+{{Hatnote|Shih më tepër: {{ill|Rajonet megaurbane të Shteteve të Bashkuara|en|Megaregions of the United States}}}}
+Amerika e Veriut ka përjetuar gjithashtu rritjen e rajoneve megaurbane. Shtetet e Bashkuara përfshijnë njëmbëdhjetë rajone të tilla.
+
+{| class="sortable wikitable"
+|+ Dhjetë zonat metropolitane më të mëdha të Amerikës së Veriut sipas popullsisë, në vitin 2013, bazuar në të dhënat e regjistrimeve kombëtare të [[Regjistrimi i popullsisë në Shtetet e Bashkuara|SHBA-së]] dhe në vlerësimet e regjistrimeve të [[Regjistrimi i popullsisë në Kanada|Kanadasë]] dhe Meksikës
+|-
+! Zona metropolitane
+! Popullsia
+! Sipërfaqja
+! Vendi
+|- style="vertical-align: top; text-align: left;"
+| [[Qyteti i Madh i Meksikos|Qyteti i Meksikos]]
+| 21.163.226<sup>†</sup>
+| {{Cvt|7346|km2}}
+| Meksika
+|- style="vertical-align: top; text-align: left;"
+| [[zona metropolitane e Nju Jorkut|Qyteti i Nju Jorkut]]
+| 19.949.502
+| {{Cvt|17405|km2}}
+| Shtetet e Bashkuara
+|- style="vertical-align: top; text-align: left;"
+| [[zona metropolitane e Los Anxhelosit|Los Anxhelosi]]
+| 13.131.431
+| {{Cvt|12562|km2}}
+| Shtetet e Bashkuara
+|- style="vertical-align: top; text-align: left;"
+| [[zona metropolitane e Çikagos|Çikagoja]]
+| 9.537.289
+| {{Cvt|24814|km2}}
+| Shtetet e Bashkuara
+|- style="vertical-align: top; text-align: left;"
+| {{ill|Dallas–Fort Worth|en|Dallas–Fort Worth|lt=Dallas–Fort Worth}}
+| 6.810.913
+| {{Cvt|24059|km2}}
+| Shtetet e Bashkuara
+|- style="vertical-align: top; text-align: left;"
+| {{ill|Greater Houston|en|Greater Houston|lt=Houstoni}}
+| 6.313.158
+| {{Cvt|26061|km2}}
+| Shtetet e Bashkuara
+|- style="vertical-align: top; text-align: left;"
+| {{ill|Greater Toronto Area|en|Greater Toronto Area|lt=Toronto}}
+| 6.054.191<sup>†</sup>
+| {{Cvt|5906|km2}}
+| Kanadaja
+|- style="vertical-align: top; text-align: left;"
+| {{ill|Philadelphia metropolitan area|en|Philadelphia metropolitan area|lt=Filadelfia}}
+| 6.034.678
+| {{Cvt|13256|km2}}
+| Shtetet e Bashkuara
+|- style="vertical-align: top; text-align: left;"
+| {{ill|Washington, D.C. metropolitan area|en|Washington, D.C. metropolitan area|lt=Uashington, D.C.}}
+| 5.949.859
+| {{Cvt|14412|km2}}
+| Shtetet e Bashkuara
+|- style="vertical-align: top; text-align: left;"
+| {{ill|South Florida metropolitan area|en|South Florida metropolitan area|lt=Miami}}
+| 5.828.191
+| {{Cvt|15896|km2}}
+| Shtetet e Bashkuara
+|}
+<small><sup>†</sup>Të dhënat e regjistrimit të vitit 2011</small>
+{{Clear}}
+== Kultura ==
+{{Hatnote|Artikulli kryesor: {{ill|Kultura e Amerikës së Veriut|en|Culture of North America}}}}
+[[File:Yankee Stadium upper deck 2010.jpg|thumb|[[Bejsbolli]] njihet si argëtimi kombëtar i Shteteve të Bashkuara, por luhet edhe në Kanada dhe në shumë vende të Amerikës Latine.]]
+[[Image:Ninenations.PNG|thumb|right|{{ill|Nëntë kombet e Amerikës së Veriut|en|The Nine Nations of North America}}]]
+Kulturat e Amerikës së Veriut janë të larmishme. Shtetet e Bashkuara dhe Kanadaja anglofone kanë shumë ngjashmëri kulturore, ndërsa Kanadaja frankofone ka një kulturë të veçantë, e cila mbrohet me ligj. Meqë Shtetet e Bashkuara u formuan nga territore që më parë i përkisnin Perandorisë Spanjolle e më pas Meksikës së pavarur, dhe meqë vazhdon të ketë imigrim të konsiderueshëm të folësve të spanjishtes nga jugu i kufirit SHBA–Meksikë, në [[Shtetet e Bashkuara Jugperëndimore|jugperëndimin e SHBA-së]] janë të pranishme elemente e tradita të shumta kulturore hispanike, si dhe dygjuhësia. Meksika dhe Amerika Qendrore janë pjesë e [[Amerika Latine|Amerikës Latine]] dhe kanë dallime kulturore nga Amerika e Veriut anglofone dhe frankofone. Megjithatë, ato ndajnë me Shtetet e Bashkuara krijimin e qeverive pas pavarësisë si republika federale përfaqësuese, me kushtetuta të shkruara që datojnë nga themelimi i tyre si kombe. Kanadaja është një demokraci parlamentare federale nën një monarki kushtetuese.
+
+[[Kushtetuta e Kanadasë|Kushtetuta e Kanadasë]] daton nga viti 1867, kur u krijua konfederata sipas Aktit të Amerikës së Veriut Britanike; megjithatë, vetëm në vitin 1982 Kanadaja fitoi të drejtën për ta ndryshuar vetë kushtetutën e saj. Trashëgimia frankofone e Kanadasë u sanksionua me ligj që kur Parlamenti Britanik miratoi [[Akti i Kebekut|Aktin e Kebekut]] më 1774. Ndryshe nga kolonët anglofonë, kryesisht protestantë, në Amerikën e Veriut, kanadezët frankofonë ishin katolikë. Akti i Kebekut garantoi lirinë e kanadezëve frankofonë katolikë për të ushtruar fenë e tyre, riktheu të drejtën e Kishës Katolike për të vendosur të dhjeta për mbështetjen e saj dhe vendosi të drejtën civile franceze në shumicën e rasteve.
+
+Veçantia e gjuhës dhe kulturës franceze është kodifikuar në ligjin kanadez, i cili përcakton anglishten dhe frëngjishten si gjuhë zyrtare. SHBA-ja nuk ka gjuhë zyrtare, por gjuha e saj kombëtare është anglishtja.
+
+Qeveria kanadeze ndërmori masa për të mbrojtur kulturën kanadeze duke kufizuar përmbajtjen jokanadeze në transmetime dhe duke krijuar Komisionin Kanadez të Radio-Televizionit dhe Telekomunikacionit për të mbikëqyrur përmbajtjen kanadeze. Në Kebek, qeveria provinciale krijoi Zyrën e Gjuhës Frënge të Kebekut, të cilën anglofonët shpesh e quajnë «policia e gjuhës» dhe që e bën të detyrueshme përdorimin e terminologjisë dhe të sinjalistikës në frëngjisht.<ref>{{Cite web |url=https://www.theglobeandmail.com/opinion/yes-the-quebec-language-police-does-serve-a-purpose/article36329861/ |title=Yes, the Quebec language police does serve a purpose |website=The Globe and Mail |language=en |access-date=2021-07-05 |archive-date=2021-08-14 |archive-url=https://web.archive.org/web/20210814033935/https://www.theglobeandmail.com/opinion/yes-the-quebec-language-police-does-serve-a-purpose/article36329861/ |url-status=live}}</ref> Që nga viti 1968, legjislatura njëdhomëshe quhet Asambleja Kombëtare e Kebekut. Dita e Shën Gjon Pagëzorit, më 24 qershor, është festa kombëtare e Kebekut dhe kremtohet nga kanadezët frankofonë në mbarë Kanadanë. Në Kebek, sistemi shkollor ishte i ndarë në shkolla katolike dhe protestante, të ashtuquajtura shkolla konfesionale. Arsimi në anglisht në Kebek është dobësuar gjithnjë e më shumë.<ref>{{Cite web |url=https://theconversation.com/quebecs-bill-40-further-undermines-the-provinces-english-language-school-system-131595 |title=Quebec's Bill 40 further undermines the province's English-language school system |website=The Conversation |language=en |access-date=2021-07-05 |archive-date=2021-07-09 |archive-url=https://web.archive.org/web/20210709184520/https://web.archive.org/web/20210709184520/https://theconversation.com/quebecs-bill-40-further-undermines-the-provinces-english-language-school-system-131595 |url-status=live}}</ref>
+
+Kultura latine është e fortë në [[Shtetet e Bashkuara Jugperëndimore|jugperëndimin e Shteteve të Bashkuara]], si edhe në zonën metropolitane të Nju Jorkut dhe në [[Florida]], të cilat tërheqin latinoamerikanë nga shumë vende të [[Hemisfera Perëndimore|Hemisferës Perëndimore]]. [[Meksika Veriore]], veçanërisht qytetet e {{ill|Monterreit|en|Monterrey}}, Tijuana, {{ill|Ciudad Juárez|en|Ciudad Juárez|lt=Sjudad Huarezit}} dhe {{ill|Mexicalit|en|Mexicali}}, ndikohet fuqishëm nga [[Kultura e Shteteve të Bashkuara|kultura]] dhe [[Mënyra amerikane e jetesës|mënyra amerikane e jetesës]]. Monterreyi, një qytet modern me një sektor të rëndësishëm industrial, është konsideruar qyteti më i amerikanizuar i Meksikës.<ref name="MonterreyFall">{{cite news |title=Special report: If Monterrey falls Mexico falls |agency=Reuters |date=2011-06-01 |last=Emmot |first=Robert |language=en}}</ref>
+
+Shtetet e [[Karaibet anglofone|Karaibeve anglofone]] kanë përjetuar dhe kanë marrë pjesë në rënien e [[Perandoria Britanike|Perandorisë Britanike]] dhe të ndikimit të saj në rajon, si edhe në rritjen e ndikimit ekonomik të {{ill|Amerikës Veriore|en|Northern America}} mbi Karaibet anglofone. Kjo lidhet pjesërisht me popullsinë relativisht të vogël të vendeve anglishtfolëse të Karaibeve, si dhe me faktin se shumë prej tyre kanë tani më shumë njerëz që jetojnë jashtë vendit sesa banorë që kanë mbetur në atdhe.<ref>{{Cite book |last=Kirton |first=Claremont |title=Beyond Small Change: Making Migrant Remittances Count |publisher=Inter-American Development Bank |year=2005 |editor-last=Terry |editor-first=Donald |location=Washington, District of Columbia, United States of America |pages=261–296 |language=en |chapter=Remittances: The Experience of the English-speaking Caribbean |editor-last2=Wilson |editor-first2=Steven}}</ref>
+
+[[Grenlanda]] ka përjetuar disa valë imigrimi nga [[Kanadaja Veriore]], për shembull nga populli Thule. Prandaj, Grenlanda ndan disa lidhje kulturore me popujt autoktonë të Kanadasë. Ajo konsiderohet gjithashtu pjesë e [[Vendet Nordike|vendeve nordike]] dhe ka lidhje të forta me Danimarkën për shkak të shekujve të kolonizimit danez.<ref>{{Cite web |url=https://arcticfriend.dk/bag-om-groenland/ |title=BAG OM GRØNLAND |website=Arctic Friend |language=da |access-date=2020-04-18 |archive-date=2020-08-04 |archive-url=https://web.archive.org/web/20200804211108/https://arcticfriend.dk/bag-om-groenland/ |url-status=live}}</ref>
+
+=== Sporti ===
+{{Hatnote|Artikulli kryesor: {{ill|Sporti në Amerikën e Veriut|en|Sport in North America}}}}
+Shtetet e Bashkuara dhe Kanadaja kanë ekipe të mëdha sportive që garojnë kundër njëra-tjetrës në bejsboll, basketboll, hokej dhe futboll. Kanadaja, Meksika dhe Shtetet e Bashkuara organizuan së bashku [[Kampionati Botëror i Futbollit 2026|Kampionatin Botëror të Futbollit 2026]].
+
+Loja vendase amerikane e lakrosit konsiderohet sport kombëtar në Kanada. [[Karlingu]] është një sport i rëndësishëm dimëror në Kanada dhe përfshihet në programin e Lojërave Olimpike Dimërore. Kriketi, sport anglez, është i përhapur në disa pjesë të Kanadasë anglofone dhe shumë popullor në disa pjesë të ish-Perandorisë Britanike, por në Kanada konsiderohet sport i dorës së dytë. Boksi është gjithashtu sport i rëndësishëm në disa vende, si Meksika, Panamaja dhe Porto Riko, dhe konsiderohet një nga sportet individuale kryesore në Shtetet e Bashkuara. Kanadaja ka një ligë të veçantë të futbollit kanadez, të ndarë nga ekipet amerikane.
+
+Tabela e mëposhtme paraqet ligat sportive më të spikatura në Amerikën e Veriut, sipas të ardhurave mesatare.<ref>[https://web.archive.org/web/20180524151209/https://fivethirtyeight.com/features/theres-a-big-five-in-north-american-pro-sports/ "The 'Big Five' in North American Pro Sports"], FiveThirtyEight, Nate Silver, 4 prill 2014.</ref><ref>[https://www.theguardian.com/football/2014/mar/12/mls-soccer-nfl-nba-mlb-nhl-epl-business "MLS vs the major leagues: can soccer compete when it comes to big business?"] {{Webarchive|url=https://web.archive.org/web/20161119005010/https://www.theguardian.com/football/2014/mar/12/mls-soccer-nfl-nba-mlb-nhl-epl-business|date=2016-11-19}}, Guardian.com, 12 mars 2014.</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Liga !! Sporti !! Vendi kryesor<br /> !! Themeluar !! Ekipe !! Të ardhura<br />US$ (mld) !! Pjesëmarrja<br />mesatare
+|-
+| align=left | {{ill|National Football League|en|National Football League}} (NFL) || [[Futboll Amerikan|futbolli amerikan]] || align=left | Shtetet e Bashkuara || 1920 || 32 || $9,0 || {{Nts|67604}}
+|-
+| align=left | [[Major League Baseball]] (MLB) || [[Bejsbolli]] || align=left | Shtetet e Bashkuara<br />Kanadaja || 1869 || 30 || $8,0 || {{Nts|30.458}}
+|-
+| align=left | [[National Basketball Association]] (NBA) || [[Basketbolli]] || align=left | Shtetet e Bashkuara<br />Kanadaja || 1946 || 30 || $5,0 || {{Nts|17347}}
+|-
+| align=left | {{ill|National Hockey League|en|National Hockey League}} (NHL) || [[Hokej mbi akull|hokeji mbi akull]] || align=left | Shtetet e Bashkuara<br />Kanadaja || 1917 || 32 || $3,3 || {{Nts|17720}}
+|-
+| align=left | [[Liga MX]] || [[Futbolli|futbolli (soccer)]] || align=left | Meksika || 1943 || 18 || $0,6 || {{Nts|25557}}
+|-
+| align=left | [[Major League Soccer]] (MLS) || [[Futbolli|futbolli (soccer)]] || align=left | Shtetet e Bashkuara<br />Kanadaja || 1994 || 28 || $0,5 || {{Nts|21574}}
+|-
+| align=left | {{ill|Canadian Football League|en|Canadian Football League}} (CFL) || {{ill|Futbolli kanadez|en|Canadian football}} || align=left | Kanadaja || 1958 || 9 || $0,3 || {{Nts|23890}}
+|}
+{{Reflist|group=sn}}
+== Shiko edhe ==
+* {{ill|Flamujt e Amerikës Veriore|en|Flags of North America}}
+* {{ill|Lista e qyteteve në Amerikën Veriore|en|List of cities in North America}}
+* {{ill|Bashkimi i Amerikës së Veriut|en|North American Union}}
+* {{ill|Etiketa e tryezës në Amerikën Veriore|en|Table manners in North America}}
+
+== Referime ==
+=== Shënime ===
+{{Listë shënimesh}}
+
+=== Citime ===
+{{Reflist|30em}}
+
+== Lexim i mëtejshëm ==
+{{Refbegin|30em}}
+* {{Cite book |title=The Cambridge History of America and the World: Volume 1, 1500–1820 |last1=Gould |first1=E. |last2=Mapp |first2=P. |last3=Pestana |first3=C. G. |isbn=978-1-108-31781-8 |year=2022 |publisher=[[Cambridge University Press]] |language=en}}
+* {{Cite book |title=North America: The Historical Geography of a Changing Continent |last1=McIlwraith |first1=T. F. |last2=Muller |first2=E. K. |last3=Conzen |first3=M. P. |last4=DeVorsey |first4=L. |last5=Earle |first5=C. |last6=Grim |first6=R. E. |last7=Groves |first7=P. A. |last8=Guelke |first8=J. K. |last9=Harris |first9=C. |last10=Harris |first10=R. |isbn=978-1-4616-3960-2 |lccn=2020740684 |year=2001 |publisher=Rowman & Littlefield |language=en}}
+* {{Cite book |title=National Geographic Visual History of the World |author=Berndl |first=K. |author2=National Geographic Society (U.S.) |isbn=978-0-7922-3695-5 |lccn=2005541553 |year=2005 |publisher=[[National Geographic Society]] |language=en}}
+* {{Cite book |title=After Columbus: Essays in the Ethnohistory of Colonial North America |author=Axtell |first=J. |isbn=978-0-19-802206-0 |lccn=87034886 |year=1988 |publisher=Oxford University Press |language=en}}
+* {{Cite book |title=North America before the European Invasions |author=Kehoe |first=A. B. |isbn=978-1-317-49544-4 |lccn=2016054024 |year=2016 |publisher={{ill|Taylor & Francis|en|Taylor & Francis}} |language=en}}
+* {{Cite book |title=A Population History of North America |last1=Haines |first1=M. R. |last2=Steckel |first2=R. H. |isbn=978-0-521-49666-7 |lccn=99023284 |year=2000 |publisher=Cambridge University Press |language=en}}
+* {{Cite book |title=Time of Anarchy: Indigenous Power and the Crisis of Colonialism in Early America |author=Kruer |first=M. |isbn=978-0-674-26956-9 |year=2022 |publisher={{ill|Harvard University Press|en|Harvard University Press}} |language=en}}
+* {{Cite book |title=The European and the Indian: Essays in the Ethnohistory of Colonial North America |author=Axtell |first=J. |isbn=978-0-19-502904-8 |lccn=lc80025084 |year=1981 |publisher=Oxford University Press |language=en}}
+{{Refend}}
+
+== Lidhje të jashtme ==
+* [https://education.nationalgeographic.org/resource/north-america-human-geography/ Amerika Veriore: gjeografia njerëzore] {{Webarchive|url=https://web.archive.org/web/20230929160456/https://education.nationalgeographic.org/resource/north-america-human-geography/ |date=2023-09-29}} te [[National Geographic Society]]
+* [https://education.nationalgeographic.org/resource/european-colonization-north-america/ Kolonizimi evropian i Amerikës Veriore] {{Webarchive|url=https://web.archive.org/web/20230928052219/https://education.nationalgeographic.org/resource/european-colonization-north-america/ |date=2023-09-28}} te National Geographic Society
+* {{Cite encyclopedia |title=North America |encyclopedia=Encyclopædia Britannica |edition=11th |volume=19 |pages=760–765 |language=en}}
+* [http://www.columbiagazetteer.org/ The Columbia Gazetteer of the World Online] {{Webarchive|url=https://web.archive.org/web/20060901152611/http://www.columbiagazetteer.org/ |date=2006-09-01}} {{ill|Columbia University Press|en|Columbia University Press}}
+* {{Cite web |url=https://colonialnorthamerica.library.harvard.edu/spotlight/cna |publisher={{ill|Harvard Library|en|Harvard Library}} |year=2015 |title=Colonial North America at Harvard Library |language=en |location=Cambridge, Massachusetts |lccn=2019234716 |access-date=2023-03-25 |archive-date=2023-03-25 |archive-url=https://web.archive.org/web/20230325121642/https://colonialnorthamerica.library.harvard.edu/spotlight/cna |url-status=dead}}
+* [[Media:Non-Native American Nations Control over N America 1750-2008 SMIL.svg|Version interaktiv SVG i animacionit «Kontrolli i kombeve joamerikane mbi Amerikën Veriore, 1750–2008»]]
+
+{{Shiriti i temës|auto=yes}}
+{{Authority control}}
+
+[[Kategoria:Amerikë Veriore| ]]
+[[Kategoria:Kontinente]]
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|North America|16 tetor 2026|1380487689}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:North America, versioni i datës 16 tetor 2026 (revizioni 1380487689)
+-->

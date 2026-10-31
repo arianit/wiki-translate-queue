@@ -1,0 +1,1685 @@
+AUDIT REPORT ON ANNUAL FINANCIAL STATEMENTS OF THE
+  KOSOVO ENERGY CORPORATION J.S.C. FOR YEAR 2024
+
+
+
+
+                  Prishtina, June 2025
+               ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+TABLE OF CONTENT
+
+
+
+Audit Opinion ............................................................................................................................................................ 3
+
+Findings and recommendations ....................................................................................................................... 9
+
+3       Issues addressed during the audit process ......................................................................................23
+
+4 Progress in implementing recommendations.......................................................................................23
+
+
+
+
+                                                                                     2
+          ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Audit Opinion
+We have completed the audit of the financial statements of Kosovo Energy Corporation J.S.C. for the
+year ended on 31 December 2024 in accordance with the Law on the National Audit Office of the
+Republic of Kosovo and International Standards of Supreme Audit Institutions (ISSAIs). The audit was
+mainly conducted to enable us to express an opinion on the financial statements and conclusion on
+compliance with authorities1.
+
+
+Qualified opinion on annual financial statements
+
+We have audited the annual financial statements of the Kosovo Energy Corporation J.S.C., which
+comprise the statement of financial position for 2024, statement of comprehensive income,
+statement of cash flow, statement of changes in equity, explanatory notes to financial statements,
+including a summary of significant accounting policies and other reports, for the year ended as of
+31 December 2024.
+
+
+In our opinion, except for the matter/s described in the Basis for Qualified Opinion section of our
+report, the enterprise’s financial statements give a true and fair view in all material aspects of the
+financial position of the Kosovo Energy Corporation J.S.C. as of December 31, 2024, and its financial
+performance and its cash flows for the year 2024, in accordance with International Financial
+Reporting Standards (IFRSs) and International Accounting Standards (IAS).
+
+
+Basis for Qualified Opinion
+
+B1     The enterprise has not managed to finalize the update of the immovable property register,
+       despite efforts to update them. The register continues to include properties that are not
+       owned by the enterprise, such as land in Podujeva of 1,250 hectares worth €5,000,000, five
+       properties transferred to Infrakos worth over €7,867,541, as well as 11 parcels worth €866,223
+       identified for deletion, but which are still presented in the financial statements. Also, the
+       property in the centre of Prishtina has not been updated according to the ownership
+       certificate, while the part of the land in Vasileva, for which there is a decision for expropriation,
+       is partially registered. These discrepancies have not been fully disclosed in the explanatory
+       notes.
+
+
+B2     For more than 20 years, the management has not performed periodic revaluations for all
+       classes of assets held in the books according to the revaluation model. The book value of
+       these assets presented in the financial statements was €8,663,716. Furthermore, 71% of the
+       recorded assets are in use, but have been fully depreciated and have a book value of zero.
+
+
+
+
+1 Compliance with authorities – compliance with all the public sector laws, rules, regulations, and relevant standards and
+
+ good practices
+
+
+
+
+                                                            3
+         ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+A1    The enterprise had not fully addressed the differences identified by the stocktaking
+      committees and had not reconciled the results between the asset and stocktaking report and
+      the accounting records, and consequently in the annual financial statements.
+
+
+
+For more details, see sub-chapter 2.1 Issues with impact on the audit opinion
+
+We conducted our audit in accordance with International Standards of Supreme Audit Institutions
+(ISSAIs). Our responsibilities under those standards are further described in the Auditor’s
+Responsibilities for the Audit of the Financial Statements section of our report. NAO is independent
+from the auditee in accordance with INTOSAI-P 10, ISSAI 130, NAO Code of Ethics, and other
+requirements relevant to our audit of the budget organisations’ AFS. We believe that the audit
+evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+
+Audit Conclusion on Compliance
+
+We have also audited if the processes and underlying transactions are in compliance with the
+established audit criteria arising from the legislation applicable for the auditee as regards making
+use of financial resources.
+
+In our opinion, except for the effects of the matter/s described in the Basis for Conclusion section of
+our report, the transactions carried out at the Kosovo Energy Corporation J.S.C. have been, in all
+material respects, in compliance with the established audit criteria arising from the legislation
+applicable for the auditee as regards making use of financial resources.
+
+
+Basis for Conclusion
+
+A2    The enterprise had made payments in the amount of €378,882 for deratization, disinfection
+      and disinsection services, based on an agreement and not according to the procedures of the
+      Law on Public Procurement.
+B3    Although the NAO had planned to audit the enterprise's financial statements for 2024 and
+      had agreed to conduct two additional audits upon special request, the enterprise had
+      concluded a contract with a private enterprise for the same audits, incurring additional
+      expenses.
+B4    During 2024, the enterprise had concluded a total of six (6) negotiated contracts without
+      publication for the supply of fuel for boilers - fuel oil (Fuel Oil 1%), in a cumulative value of
+      over €3,532,914, as well as eight (8) other contracts for the supply of chemicals (hydrochloric
+      acid and NaOH), in a value of over €648,683. This had occurred as a result of the inability to
+      finalize regular procurement procedures due to shortcomings in the due diligence of the
+      tender documentation and the bid evaluation process.
+
+
+
+For more details, see sub–chapter 2.1 Issues with impact on the compliance conclusion
+
+
+
+
+                                                  4
+        ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+We conducted our audit in accordance with International Standards of Supreme Audit Institutions
+(ISSAIs). Our responsibilities under those standards are further described in the Auditor’s
+Responsibilities for the Audit of the Financial Statements section of our report. NAO is independent
+from the auditee in accordance with INTOSAI-P 10, ISSAI 130, NAO Code of Ethics, and other
+requirements relevant to our audit of the budget organisations’ AFS. We believe that the audit
+evidence we have obtained is sufficient and appropriate to provide a basis for our conclusion.
+
+
+Other issue
+
+1     In February 2023, the enterprise signed the contract for the “Modernization of turbines B1
+      and B2”, worth €56,522,000. The works were scheduled to start in May 2024 for B2 and in May
+      2025 for B1. These deadlines were set as part of a strategic decision to implement the project
+      in parallel with the replacement of electrostatic precipitators, funded by the European Union
+      (EU) Office in Kosovo, in order to avoid long interruptions in operation and minimize the
+      impact       on     production     and      consequently       on     production     revenues.
+
+      In the meantime, in August 2023, the enterprise was informed by the EU that the project for
+      the replacement of electrostatic precipitators had encountered unforeseen obstacles, creating
+      a real risk of not starting the works within the planned deadline and as a result, the enterprise
+      had notified the economic operator to postpone the implementation of the contract for the
+      “Modernization of turbines B1 and B2” for 12 months. According to this notice, works on
+      turbine B2 will start in May 2025, while for turbine B1 in May 2026.
+
+      The notice of postponement is based on article 17, paragraphs 1 and 2 of the contract, which
+      allow for the postponement of works for up to 12 months with notice given until October
+      2023, where the contractor in this case is obliged to store the equipment in a place
+      determined by it, but without determining the price of storage. Although no additional costs
+      for storage are determined, paragraph 3 of article 17, requires the implementation of point
+      14 of the EMMA agreement (“Exceptional Manufacturer's Modified Agreement”), which
+      provides that either party may propose changes to the schedule or purpose of the project,
+      but such changes are not binding without a written agreement that clearly describes the
+      scope,        schedule,       price       and         other         agreed       conditions.
+
+      Since specific circumstances had arisen, the enterprise had carried out a negotiated procedure
+      with the same operator for “Storage of parts for one year in the warehouse”, concluding a
+      contract        worth     €637,200         for     the       B2       turbine       equipment.
+
+      However, based on the basic contract for the modernization of the turbines, the enterprise
+      had made payments to the operator in the amount of €41.86 million (75% of the contract) by
+      the                        end                          of                          2024.
+      According to information, works on the B2 turbine began in April 2025.
+
+      Furthermore, the failure to implement two strategic projects – the modernization of the
+      turbines and the installation of electrostatic precipitators – in a synchronized manner results
+      in the turbines being stopped for a long period of time, which in addition to the operational
+      impact, also results in losses in potential production revenues and additional maintenance or
+      storage costs.
+
+
+
+                                                  5
+         ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Information Other than the Financial Statements and Auditor’s Report Thereon
+
+Management is responsible for the other information. The other information comprises the
+information included in the management report and the corporate governance statement but does
+not include the financial statements and our auditor’s report thereon.
+
+Our opinion on the financial statements does not cover the other information and we do not express
+any form of assurance conclusion thereon.
+
+In connection with our audit of the financial statements, our responsibility is to read the other
+information and, in doing so, consider whether the other information is materially inconsistent with
+the financial statements, or our knowledge obtained in the audit or otherwise appears to be
+materially misstated.
+
+We have considered whether the information included in the management report is in compliance
+with the information included in the financial statements and the corporate governance statement,
+including the disclosures required in articles 7 and 10 of the Law no.06/L-032 on Accounting,
+Financial Reporting and Auditing.
+
+If, based on the work we have performed, we conclude that there is a material misstatement of this
+other information, we are required to report that fact. As described in the Basis for Qualified Opinion
+section:
+
+1     Failure to update the property register with changes that have occurred over the years for
+      immovable properties
+2     Failure to periodically revalue long-term assets that are kept in the register according to the
+      revaluation model
+
+
+Responsibilities of Management and Those Charged with Governance for the Annual Financial
+Statements
+
+The Management is responsible for the preparation and fair presentation of the financial statements
+in accordance with International Financial Reporting Standards (IFRSs). The Management is also
+responsible for establishing internal controls that management determines are necessary to enable
+the preparation of financial statements that are free from material misstatements whether due to
+fraud or error. This includes also the application of Law no. 03 / L-048 on Public Financial
+Management and Accountability (as amended), Law no. 04 / L-087 on Publicly Owned Enterprises
+(as amended), and Law 06 / L-032 on Accounting, Financial Reporting and Auditing.
+
+The Board of Directors is responsible to ensure the oversight of the Kosovo Energy Corporation
+J.S.C.’s financial reporting process.
+
+
+
+
+                                                  6
+           ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Management’s Responsibility for Compliance
+
+The Kosovo Energy Corporation J.S.C.’s Management is also responsible for the use of the Kosovo
+Energy Corporation J.S.C.’s financial resources in compliance with the Law on Public Owned
+Enterprises and all other applicable laws, rules and regulations.2
+
+
+Auditor General’s Responsibility for the audit of AFS
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report
+that includes our opinion. Reasonable assurance is a high level of assurance but is not a guarantee
+that an audit conducted in accordance with ISSAIs will always detect a material misstatement when
+it exists. Misstatements can arise from fraud or error and are considered material if, individually or
+in the aggregate, they could reasonably be expected to influence the economic decisions of users
+taken on the basis of these financial statements.
+
+Our objective is also to express an audit opinion on compliance of respective Kosovo Energy
+Corporation J.S.C.’s authorities with the established audit criteria arising from the legislation
+applicable for the auditee as regards making use of financial resources. As part of an audit in
+accordance with the Law on NAO and ISSAIs, we exercise professional judgment and maintain
+professional scepticism throughout the audit. We also:
+
+        Identify and assess the risks of material misstatement of the financial statements, whether
+         due to fraud or error, design and perform audit procedures responsive to those risks, and
+         obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion.
+         The risk of not detecting a material misstatement resulting from fraud is higher than for one
+         resulting from error, as fraud may involve collusion, forgery, intentional omissions,
+         misrepresentations, or the override of internal control.
+
+        Identify and assess the risks of non-compliance with authorities, whether due to fraud or
+         error, design and perform audit procedures responsive to those risks, and obtain audit
+         evidence that is sufficient and appropriate to provide a basis for our opinion on compliance
+         with authorities. The risk of not detecting an incidence of non-compliance with authorities
+         resulting from fraud is higher than for one resulting from error, as fraud may involve
+         collusion, forgery, intentional omissions, misrepresentations, or the override of internal
+         control.
+
+        Obtain an understanding of internal control relevant to the audit in order to design audit
+         procedures that are appropriate in the circumstances, but not for the purpose of expressing
+         an opinion on the effectiveness of the Kosovo Energy Corporation J.S.C.’s internal control.
+
+        Assess the appropriateness of accounting policies used and the reasonableness of
+         accounting estimates and related disclosures made by management.
+
+
+2 Collectively referred to as compliance with authorities
+
+
+
+
+                                                            7
+        ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+      Conclude on the appropriateness of management’s use of the going concern basis of
+       accounting and, based on the audit evidence obtained, whether a material uncertainty exists
+       related to events or conditions that may cast significant doubt on the CERN’s ability to
+       continue as a going concern. If we conclude that a material uncertainty exists, we are required
+       to draw attention in our auditor’s report to the related disclosures in the financial statements
+       or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on
+       the audit evidence obtained up to the date of our auditor’s report. However, future events
+       or conditions may cause the Organisation to cease to continue as a going concern.
+
+      Assess the overall presentation, structure and content of the financial statements, including
+       the disclosures, and whether the financial statements give a true and fair view of the
+       underlying transactions and events.
+
+We communicate with management and those charged with governance regarding, among other
+matters, the planned scope and timing of the audit and significant audit findings, including any
+significant shortcomings in internal control that we identify during our audit.
+
+From the matters communicated with management, we determine those matters that were of most
+significance in the audit of the financial statements of the current period and are therefore the key
+audit matters. The audit report is published on the NAO’s website, except for information classified
+as sensitive or other legal or administrative prohibitions in accordance with applicable legislation.
+
+
+
+
+                                                  8
+         ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Findings and recommendations
+During the audit, we identified areas for potential improvement, including internal control, which are
+presented below for your consideration in the form of findings and recommendations. The findings
+with an impact on the opinion on the financial statements are: failure to periodically revalue long-
+term assets held in books at fair value, failure to update the register of immovable properties with
+changes that occurred over the years, and shortcomings in the treatment, reporting and accounting
+presentation of the results of the annual stocktaking.
+
+Issues with an impact on the compliance conclusion were: signing of the contract for the audit of
+the financial statements and shortcomings in the negotiated procedures without publication of the
+contract notice. These findings and recommendations are intended to make the necessary
+corrections to the financial information presented in the financial statements, including disclosures
+in the form of explanatory notes, and to improve internal controls over financial reporting and
+compliance with authorities regarding the management of public sector resources.
+
+We will follow up (review) these recommendations during next year's audit.
+
+This report has resulted in eight (8) recommendations, of which two (2) are new recommendations,
+five (5) are repeated and one (1) is partially repeated.
+
+For the status of previous year’s recommendations and the extent of their implementation, see
+Chapter 4.
+
+
+
+
+                                                  9
+          ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Issues with impact on audit opinion
+Issue B1 - Failure to update the property register with changes that have occurred over the
+years for immovable properties
+
+Finding                According to IAS 16 paragraph 6, Land, buildings, machinery and equipment
+                       are classified as tangible assets that are held for use in the production or
+                       supply of goods and services, for rental to third parties or for administrative
+                       purposes, and that are expected to be used for more than one reporting
+                       period. Also according to paragraph 112 of IAS 1, the entity should disclose
+                       in the explanatory notes any additional information that is not presented
+                       directly in the financial statements, but that is relevant to a correct
+                       understanding of their content and purpose by users.
+
+                       The enterprise's management during 2024 had undertaken several actions,
+                       with the aim of updating the asset register and reflecting the actual situation
+                       of the real estate properties, however, it had not managed to fully update
+                       them, as well as to properly disclose the information, as follows:
+
+                              According to the ownership certificate, the enterprise owns 1.72
+                               hectares of land (registered 15.9 ares) in the center of Prishtina and a
+                               140m2 premises. During the year, the enterprise had requested the
+                               property history from the Municipality of Prishtina and the Kosovo
+                               Cadastral Agency for the land, but until the balance sheet date it had
+                               not managed to update this property in the property registry, while
+                               the enterprise is still in legal proceedings for the premises;
+
+                              The property registers record five (5) properties (land category), worth
+                               €7,867,541, which are not owned by the enterprise, since they were
+                               transferred to the public enterprise Infrakos sh.a., according to the
+                               decision of the Government of Kosovo in 2010, respectively through
+                               the Agreement for the transfer of properties between the Ministry of
+                               Economic Development and Infrakos J.S.C., in 2012;
+
+                              According to the expropriation decision, the enterprise is the owner of
+                               116.88 hectares of land in the cadastral area of Vasilevë (Municipality
+                               of Gllogoc). In the property registers, it has a surface area of 61.1
+                               hectares, while the rest is in legal proceedings and until the balance
+                               sheet date it had not managed to update this property in the property
+                               register;
+
+
+
+
+                                                  10
+         ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                             The enterprise’s asset register includes a land parcel with an area of
+                              1,250 hectares, named “Forested Mountain” in the Municipality of
+                              Podujeva, with a registered value of €5,000,000. However, according
+                              to the revaluation commission, this land is not owned by the enterprise
+                              and that the enterprise has requested clarification from the Kosovo
+                              Cadastral Agency to obtain additional clarifications and the history of
+                              the parcel, but while we were in the audit there was no concrete
+                              answer about this property. The enterprise had not disclosed this issue
+                              in the explanatory notes;
+
+                             Also, the land revaluation commission had identified that there were
+                              11 lands in the property register, worth €866,223, which were not
+                              owned by the enterprise, and the commission had recommended that
+                              they be deleted from the property register, but while we were in the
+                              audit, they had not been deleted and they had not been disclosed in
+                              the explanatory notes.
+
+                      The lack of complete and accurate presentation of real estate properties
+                      occurred due to the complexity of property issues related to third parties, as
+                      well as the lack of effective actions taken by the enterprise over the years.
+                      However, it is worth noting that the enterprise on 03.04.2025 had signed a
+                      memorandum of cooperation with the Kosovo Cadastral Agency for the
+                      provision of data related to the enterprise's properties. While in cases of
+                      property disputes, it had filed lawsuits with the competent authorities.
+
+Impact                Failure to revalue long-term assets at regular intervals, as well as failure to
+                      review the residual value and useful life of assets at least at the end of each
+                      annual reporting period, may result in the unfair presentation of long-term
+                      assets.
+
+Recommendation B1The Board of Directors should ensure that the asset register is updated with
+                 the current status, accurately and fairly presenting the enterprise's long-term
+                 assets in the annual financial statements.
+                 Management’s Response: Disagree
+                 In more detail, see Appendix I
+
+
+Issue B2 - Failure to periodically revalue long-term assets held in the register according to the
+revaluation model
+
+
+
+
+                                                 11
+          ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Finding                According to IAS 16 paragraphs 29, 31 and 51, if an entity chooses the
+                       revaluation model then revaluations shall be made on a regular and sufficient
+                       basis to ensure that the carrying amount of non-current assets (property,
+                       plant and equipment) does not differ materially from that which would be
+                       determined if fair value at the end of the reporting period were used. The
+                       frequency of revaluation depends on the changes in the fair value of the items
+                       of non-current assets (property, plant and equipment) being revalued; if the
+                       assets do not undergo significant and frequent changes in fair value, the item
+                       is revalued only every three or five years. In addition, the residual value and
+                       useful life of the assets should be reviewed at least at the end of each annual
+                       reporting period to verify whether current expectations are consistent with
+                       previous assessments.
+
+                       The issue of asset revaluation has been recommended in previous years, but
+                       continues to remain unresolved in its entirety. In 2023, the management
+                       established a commission for the revaluation of the land-yard class, but did
+                       not take action to revalue other classes of long-term assets such as buildings,
+                       mining lands and forests, plants, machinery and equipment. The revaluation
+                       of land was done based on property tax invoices for the municipality of Obiliq
+                       and the Commercial Property Valuation Report issued by the Ministry of
+                       Finance for other municipalities (October 2023).
+
+
+
+
+                                                  12
+         ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                      In addition to the class of land-yards that have been revalued, the enterprise
+                      also maintains 506 other assets in the asset register, with a net book value of
+                      €8,663,716, for which no revaluations have been carried out for more than 20
+                      years. In one case, we noticed that the value of a building in Prishtina,
+                      according to the property tax assessment, is €3,946,040, while in the
+                      accounting books it is reported with a net value of €141,271. This indicates a
+                      significant discrepancy between the book value and the real value.
+
+                      Furthermore, around 71% of the assets recorded (14,315 out of 20,270 items),
+                      with an initial cost of 267 million euros, are assets in use but fully depreciated
+                      (with a book value of zero), for which the residual value and useful life have
+                      not been reviewed at the end of the reporting period. Of these, 35% of the
+                      assets with a NBV of zero are key assets such as power and coal production
+                      equipment, buildings, software and mining land – which generate regular
+                      income for the enterprise – while 65% include office equipment and inventory.
+
+                      Also, the asset register includes 5,564 assets that had an initial value of zero,
+                      the same were not revalued, and consequently the net value is zero. This
+                      register includes important categories of the enterprise's activity such as:
+                      buildings, roads, railways, networks, transmission lines, equipment and
+                      machinery. It is worth noting that the enterprise on 30.12.2024 had
+                      established a committee for the treatment of assets with a net value of zero,
+                      but until the end of the audit there was no work report from the committee.
+
+                      This happened because management considered it as a specific industry and
+                      re-evaluating all classes is difficult to implement in practice.
+
+Impact                Failure to revalue long-term assets at regular intervals, as well as failure to
+                      review the residual value and useful life of assets at least at the end of each
+                      annual reporting period, may result in the unfair presentation of long-term
+                      assets.
+
+Recommendation B2The Board of Directors should ensure that assets recorded under the
+                 revaluation model are revalued at regular and reasonable frequencies as
+                 required by the standards, so that the value presented in the financial
+                 statements and their remaining lives reflect the fair value at the end of each
+                 reporting period, avoiding material deviations. Furthermore, the value and
+                 remaining lives of assets held at zero initial cost are determined.
+                 Management’s Response: Disagree
+                 In more detail, see Appendix I
+
+
+
+
+                                                 13
+          ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Issue A1 - Shortcomings in the handling, reporting and accounting of the results of the
+annual stocktaking
+
+Finding                According to Article 12 of Law No. 06/L-032 on Accounting, Financial
+                       Reporting and Auditing, business organizations must verify the existence and
+                       valuation of assets, liabilities and capital at least once a year, by stocktaking
+                       these elements and their supporting evidence through the stocktaking
+                       process. The results of the stocktaking report must be reconciled with the
+                       accounting books.
+
+                       The enterprise had established the asset and liability stocktaking committee
+                       at the end of 2024 and had carried out the stocktaking process. However, the
+                       audit identified discrepancies between the unit committee reports, the final
+                       stocktaking committee report (study) and the accounting records. The
+                       discrepancies are as follows:
+
+                              The stocktaking committee had proposed the write-off of obsolete
+                               stocks in the amount of €23,474, while the enterprise had made a
+                               general deduction of the stock item in the AFS in the amount of
+                               €20,576, without performing an analytical reconciliation between the
+                               stock situation and the accounting books;
+
+                              According to the documentation of the stocktaking process, the
+                               enterprise had carried out a partial physical verification of the lands
+                               and forests, while it had not verified 12 apartments with a net value of
+                               €25,427. These results were not addressed in the final report of the
+                               stocktaking commission (study);
+
+                              The Inventory Commission had recommended the write-off of assets,
+                               which were approved by the Board of Directors. However, we observed
+                               that an additional 190 assets with a net value of €8,512 were neither
+                               addressed by the central commission nor written off from the asset
+                               register, despite the fact that the inventory documentation had
+                               recommended their write-off;
+
+                              Also, the unit stocktaking committees have identified assets for paying
+                               with a net value of €290,679, which are in the asset register and were
+                               not addressed in the final report by the inventory committee (study).
+
+                       Furthermore, the Board of Directors had approved the write-off of assets that
+                       were recommended by the stocktaking committee without a prior assessment
+                       of the lack of assets.
+
+
+
+
+                                                  14
+         ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                      The failure to present and process all results of the stocktaking commission,
+                      and to reconcile the results with the accounting records, occurred due to the
+                      commissions' delays in carrying out the registration.
+
+Impact                Differences between accounting records and the results of the stocktaking
+                      committee process, in addition to affecting the inaccurate presentation of
+                      assets, may expose them to the possibility of misuse.
+
+Recommendation A1 The Board of Directors should ensure that the stocktaking process is carried
+                 out in accordance with legal requirements. After evaluating all results and
+                 approving the final inventory report, all necessary actions are taken to
+                 reconcile the results with the accounting books.
+                 Management’s Response: Disagree
+                 In more detail, see Appendix I
+
+
+
+
+                                                 15
+          ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Issues with impact on the compliance conclusion
+Issue A2 - Expenditures incurred in no compliance with procurement procedures
+
+Finding                According to Article 32 of Law No. 04/L-042 on Public Procurement,
+                       contracting authorities are obliged to carry out all expenditures for supplies,
+                       services or works in accordance with the types of public procurement
+                       procedures in order to ensure a fair, transparent and competitive process.
+                       Furthermore, according to Article 38 of the same law, a public framework
+                       contract cannot be extended or renewed and its terms cannot be changed.
+
+                       Through testing of expenditures, we identified that the enterprise had
+                       incurred expenses in the amount of €378,882 for deratization, disinfection and
+                       disinsection services.
+
+                       This had happened due to the fact that on 21.09.2023, the enterprise had
+                       signed a so-called 'friendly' agreement for a period of 24 months, for the
+                       extension of the framework contract dated 02.11.2022, which had a validity
+                       period of 12 months. The agreement referred to in Article 20 of the framework
+                       contract, which deals with the resolution of disputes, however, the
+                       implementation of this article is related to the terms of the initial contract, and
+                       does not provide for the extension of the term or the change of its terms.
+
+                       This happened because the enterprise had concluded the initial framework
+                       contract for a period of 12 months, while the contract award notice in 2022
+                       was for a period of 36 months. In addition, another reason was the economic
+                       operator's request for an extension of the contract term.
+
+Impact                 Expenditures incurred through irregular procurement procedures and the
+                       extension of the framework contract prevent competition in the provision of
+                       services and prices, and consequently jeopardize the quality and most
+                       favourable prices for the contracting authority.
+
+Recommendation A2 The Board of Directors should ensure that all expenditures are made in full
+                 compliance with legal provisions and that adequate procedures are
+                 developed according to the requirements of the Public Procurement Law,
+                 guaranteeing respect for the principles of transparency, competition and fair
+                 and efficient management of public funds.
+                 Management’s Response: Agree
+
+
+
+
+                                                  16
+          ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Issue B3 - Signing the contract for the audit of the Financial Statements
+
+Finding                According to Article 137, point 3 of the Constitution of the Republic of Kosovo,
+                       the Auditor General of the Republic of Kosovo controls the economic activity
+                       of public enterprises and other legal entities in which the State has a part of
+                       shares, or when their loans, credits and obligations are guaranteed by the
+                       State. In accordance with Article 33.3 of Law No. 03/L-087 on Publicly-Owned
+                       Enterprises (as amended and supplemented), the Audit of Financial
+                       Statements shall be carried out by the Office of the Auditor General,
+                       otherwise, the Procurement Officer of the POE shall procure the services of an
+                       auditor to conduct an external audit in accordance with the conditions set out
+                       in the Law on Public Procurement. Also, Law No. 05/L-055 on the Auditor
+                       General and the National Audit Office of the Republic of Kosovo, Article 18,
+                       point 4, states that: "The National Audit Office may conduct mandatory
+                       regularity audits in Publicly-owned Enterprises" and "The Auditor General
+                       shall inform the Shareholder no later than September 30 of the current year
+                       on which of these audits will be conducted".
+
+                       As part of the annual audit planning, the National Audit Office (NAO) had
+                       foreseen the audit of the annual financial statements of the Kosovo Energy
+                       Corporation (KEK) for the year 2024 in accordance with the International
+                       Financial Reporting Standards (IFRS). In addition, at the request of the
+                       enterprise, the NAO had also approved the engagement to conduct two
+                       separate audits, according to the requirements of the Energy Regulatory
+                       Office (ERO) and the Independent Commission for Mines and Minerals
+                       (ICMM). The NAO had notified the enterprise and the shareholders of the
+                       enterprise in a timely manner, namely on 27.09.2024.
+
+                       Furthermore, following the KEK letter dated 02.10.2024, we have once again
+                       confirmed our commitment regarding the special audits dated 09.10.2024 and
+                       as a result, the NAO had allocated the necessary resources to carry out these
+                       audits.
+
+                       However, despite the fact that the NAO had expressed its willingness to cover
+                       these two additional audits, the enterprise on 06.01.2025 had entered into a
+                       contract with a private company to conduct the audit of the annual financial
+                       statements for 2024, as well as two separate audits as requested by ERO and
+                       ICMM, causing the enterprise additional expenses in the amount of €23,900.
+
+
+
+
+                                                  17
+          ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                       Therefore, the NAO on 24.01.2025 had notified the enterprise that, referring
+                       to the new circumstances highlighted above, and in order to avoid additional
+                       expenses, the NAO had considered the engagement to conduct special
+                       purpose audits unreasonable and had announced that it was withdrawing
+                       from conducting two additional audits of financial statements prepared in
+                       accordance with special purpose frameworks, for ERO and ICMM.
+
+                       As a result, the NAO will only continue with the audit of the annual financial
+                       statements for 2024 in accordance with IFRS requirements and legal
+                       obligations arising from the Constitution and the Law on the National Audit
+                       Office.
+
+                       Even though the National Audit Office had notified the enterprise within the
+                       legal deadline for the audit of the Annual Financial Statements, the enterprise
+                       had not considered it sufficient, failing to properly address and apply the legal
+                       requirements.
+
+Impact                 Engaging audit services also from a private auditor, despite the fact that it was
+                       subject to audit by the NAO, in addition to additional expenses, creates
+                       uncertainty among readers of the financial statements due to different audit
+                       opinions.
+
+Recommendation B3The Board of Directors should ensure that, in the event of engaging the
+                 National Audit Office to audit the Annual Financial Statements, unnecessary
+                 expenses for the same services are avoided, respecting the principle of
+                 efficient and economic use of public funds.
+                 Management’s Response: Disagree
+                 In more detail, see Appendix I
+
+
+Issue B4 - Implementation of negotiated procedures without publication due to shortcomings
+in the regular procedures
+
+Finding                According to Article 35.2 of the Law on Public Procurement, the contracting
+                       authority may use the negotiated procedure without prior publication only in
+                       cases of extreme urgency, caused by unforeseeable and verifiable events, for
+                       which the time necessary for the usual procedures cannot be granted. This
+                       does not apply if the emergency is the result of negligent or intentional acts
+                       or omissions of the contracting authority.
+
+                       During 2024, the enterprise had concluded a total of six (6) negotiated
+                       contracts without publication for the supply of fuel for boilers - fuel oil (Fuel
+                       Oil 1%), in a cumulative value of over €3,532,914, as well as eight (8) other
+                       contracts for the supply of chemicals (hydrochloric acid and NaOH), in a value
+                       of over €648,683.
+
+
+
+                                                  18
+         ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                      This action was a result of the inability to finalize open procurement
+                      procedures due to bidders' complaints to the Contracting Authority and the
+                      Procurement Review Body, the review of which identified the following
+                      shortcomings:
+
+                      - In the procurement activity for Supply of heavy fuel oil, the procedure failed
+                      because the procurement office in the tender dossier had placed the
+                      requirement/criterion of the country of origin of the heavy fuel oil and the
+                      producer in the wrong section of the tender dossier, as well as due to
+                      insufficient care by the evaluation commission during the evaluation of the
+                      bids in accordance with the established criteria.
+
+                      -As for the procurement activity for Chemical Supplies (hydrochloric acid and
+                      NaOH), the regular procedure had failed because unclear criteria were set in
+                      the tender dossier such as: uncertainty about the completion of the price
+                      form, uncertainty about the use of prices with VAT, non-extension of the
+                      validity of the offers and due to shortcomings in the offer evaluation process.
+                      As a result, the process was challenged with continuous complaints to the
+                      Contracting Authority and the PRB.
+
+                      Shortcomings in the due diligence of tender documentation and in the bid
+                      evaluation process have resulted in the prolongation of regular procurement
+                      procedures, and consequently, in the development of negotiated procedures
+                      without publication.
+
+Impact                The failure to conclude the contract through regular procedures and the
+                      continuous postponement of the conclusion of the procurement activity for
+                      the supply of heavy fuel oil and chemicals have left the enterprise without
+                      sufficient reserves, forcing it to conclude 14 negotiated contracts without
+                      publication. Since the relevant activities have not yet been finalized, there is a
+                      real risk of concluding other negotiated contracts.
+
+Recommendation B4The Board of Directors should ensure that a full analysis of all the
+                 circumstances that have led to the current situation is carried out and identify
+                 the shortcomings that are forcing the enterprise to conclude contracts
+                 through the negotiated procedure. It should also ensure that the evaluation
+                 of the offers by the relevant committees and the review by the procurement
+                 office are carried out carefully, guaranteeing a fair, transparent and impartial
+                 process, with the aim of concluding contracts through open procedures.
+                 Management’s Response: Agree
+
+
+
+
+                                                 19
+          ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+2.3 Other financial and compliance management issues
+
+2.3.1 Operating Expenses
+
+Operating expenses amount to €75,305,000. They relate to electricity and utility costs, maintenance
+costs, materials and supplies, lignite costs, provisions, deferred energy production costs and other
+operating expenses.
+
+Issue B5 - Frequent use of the minimum value procedure
+
+Finding                According to Articles 16, 17 and 18 of the Law on Public Procurement,
+                       contracting authorities shall not choose or use methods of evaluation or
+                       structuring of requests that aim to reduce the value of the contract for
+                       supplies, services or works, so that they fall below the limits set out in Article
+                       19 of this Law. It is also prohibited to split up the request for procurement for
+                       a certain quantity of products or services with the aim of lowering these
+                       financial limits.
+
+                       During 2024, the enterprise had conducted several separate procurement
+                       procedures for the same categories of supplies within the same calendar year.
+
+                              The enterprise had signed 12 contracts for the Supply of Bearings, with
+                               a total value of €96,774. Seven (7) of these contracts had a value lower
+                               than €1,000, while seven (7) contracts were concluded with the same
+                               economic operator.
+
+                              While according to the procurement plan for 2024, four (4) Toner
+                               Supplies were foreseen, divided according to the units of the
+                               enterprise. However, during the year the enterprise had signed 12
+                               contracts, in a total value of €20,254. Of the contracts concluded, eight
+                               (8) were concluded by only two economic operators.
+
+                       Furthermore, according to the report of signed contracts, the enterprise had
+                       also carried out 7 other types of supplies, through 44 special procurement
+                       procedures, with a total value of €650,964, including road signage, supply and
+                       installation of air conditioners, office inventory, protective equipment,
+                       hydrated lime, T-46 oil and weighing services.
+
+                       The non-strategic approach to procurement has resulted from a lack of
+                       coordination and planning of needs by the requesting units.
+
+Impact                 Carrying out many low-value procurement activities burdens the operational
+                       capacity of the procurement office and reduces its efficiency. Furthermore,
+                       this practice may undermine cost-effectiveness, as prices for smaller
+                       quantities may be higher compared to purchases in larger quantities.
+
+
+
+                                                  20
+          ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Recommendation B5The Board of Directors should ensure that requests from requesting units
+                 are grouped in order to develop procurement activities that ensure higher
+                 competition and more economical prices. To avoid duplication of
+                 procurement activities, the enterprise should aggregate needs in order to be
+                 more efficient and economical.
+                 Management’s Response: Agree
+
+
+         Information Systems
+
+This area only includes monitoring the implementation of recommendations related to Information
+Technology in KEK J.S.C., specifically assessing progress in addressing issues identified from previous
+audits
+
+       1 - User access via virtual private network (VPN)
+
+Finding                According to the Information Security Policy, before employees are allowed
+                       access to the enterprise's virtual private network - VPN, they must be required
+                       to complete a special VPN access application form, which verifies the access
+                       requester, supervisor approval for access, commitment to use equipment
+                       owned and managed by the enterprise's IT, as well as protecting the integrity
+                       of the enterprise's information and network.
+
+                       By comparing the accesses allowed through the virtual private network (VPN)
+                       with the special forms for applying for accesses, out of 20 allowed accesses,
+                       in seven of them the Information Security Policy was not respected, as the
+                       forms that confirm the access requester, the supervisor's approval for access,
+                       the commitment to use equipment owned and managed by the enterprise's
+                       IT, as well as the protection of the integrity of the enterprise's information and
+                       network were missing.
+
+                       The ones in charge of allowing employee’s access to the VPN had considered
+                       that management and those responsible for maintenance were exempt, even
+                       though according to the action plan from the previous year, they were
+                       committed that the recommendation would be implemented.
+
+Impact                 Failure to implement an information security policy for completing forms for
+                       remote access via VPN makes security monitoring more vulnerable to the risk
+                       of unauthorized access.
+
+
+
+
+                                                  21
+        ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Recommendation C1 The Board of Directors should ensure the implementation of the information
+                  security policy in the enterprise, ensuring that before allowing employees
+                  access to the enterprise's virtual private network - VPN, a special access form
+                  is completed. Furthermore, the blank forms should be completed for all active
+                  accesses       to      the         virtual     private      network        VPN.
+                  Management’s Response: Agree
+
+
+
+
+                                                22
+          ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+3 Issues addressed during the audit process
+During the audit, several issues were identified that were communicated to management and
+effectively addressed during the current audit. They do not require any further action and are
+reported only for the purpose of documenting the communication in question, the actions taken
+and their results. These are presented below:
+
+Material issues that we identified which have been improved during the audit
+
+Issue 1                    Misclassification of deposits by maturity
+
+
+Finding
+                           In the 2024 financial statements, the enterprise had misclassified term
+                           deposits, reporting 106.9 million euros as long-term assets, although
+                           based on the contractual term deposit agreements, 48 million euros had
+                           a maturity after 31.12.2025, namely more than 12 months after the
+                           reporting date.
+
+Action required            According to IAS 1, all term deposits are classified as short-term if they
+                           are expected to mature within 12 months after the balance sheet date,
+                           while term deposits that are expected to mature after 12 months from
+                           the balance sheet date are classified as long-term assets.
+
+
+Result                     After communicating the issue, corrective actions were taken during the
+                           audit process and the same were reflected in the final version of the
+                           financial statements.
+
+
+
+
+4 Progress in implementing recommendations
+The audit report for the 2023 Financial Statements resulted in eight (8) recommendations. The
+enterprise had prepared an action plan, in which it had presented the recommendations that it would
+implement, as well as the actions that it would undertake. By the end of our 2024 audit, two (2)
+recommendations had been implemented, one (1) recommendation had been partially
+implemented, and five (5) recommendations had not been implemented.
+
+For a more complete description of the recommendations and how they have been addressed, see
+the following chart and table:
+
+
+
+
+                                                  23
+        ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Chart 1. Progress in implementing previous year’s recommendations
+
+
+
+
+Table 1 Summary of previous year's recommendations
+
+
+No.   Audit scope     Recommendations for 2023                   Actions taken       Status
+
+
+1     Basis for       The Board of Directors should ensure that Apart from the      Implementation has
+      Opinion         revaluations of all classes of assets held revaluation of the not started.
+                      under the revaluation model are carried asset class "yard
+                      out at sufficiently regular intervals to   lands" carried out
+                      ensure that the carrying amount of the     in 2023, the
+                      assets presented in the financial          enterprise during
+                      statements does not differ materially      2024 did not
+                      from their fair value at the end of the    implement a
+                      reporting period.                          revaluation for
+                                                                 other asset
+                                                                 classes held
+                                                                 according to the
+                                                                 revaluation
+                                                                 model, such as:
+                                                                 lands and forests
+                                                                 for coal
+                                                                 extraction,
+                                                                 buildings, plants,
+                                                                 machinery and
+                                                                 production
+                                                                 equipment.
+2     Basis for       The Board of Directors should ensure       The enterprise,     Implementation has
+      Conclusion      that, in the case of engaging the National although it was     not started
+                      Audit Office for the audit of AFS, no      notified in time
+                      unnecessary audit-related expenditures     about the
+                      are incurred.                              engagement of
+                                                                 the National
+                                                                 Audit Office, has
+                                                                 developed
+
+
+
+                                                  24
+      ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                                                            procurement
+                                                            procedures for
+                                                            the audit of the
+                                                            2024 financial
+                                                            statements.
+3   Basis for       The Board of Directors should strengthen The enterprise    Implementation has
+    Conclusion      the procurement activity planning        has continued to not started.
+                    process in order to minimize the use of  develop
+                    negotiated procedures without the        procurement
+                    publication of a contract notice.        procedures,
+                    Furthermore, the Board of Directors      applying
+                    should ensure that contracts with        negotiated
+                    economic operators are signed only after procedures
+                    all the conditions set out in the tender without
+                    dossier are met. In this case, the price publication in an
+                    quotation form and the certificate       irregular manner
+                    regarding the tax obligation status must and with
+                    comply with the requirements of the      shortcomings in
+                    Public Procurement Law.                  accordance with
+                                                             legal
+                                                             requirements.
+4   Fixed assets    The Board of Directors should ensure that Management had Implementation has
+                    the necessary actions are taken to         not updated the not started.
+                    address all property-related matters of    asset register,
+                    the company and that the asset register is thus not
+                    updated to reflect the current situation,  reflecting the
+                    accurately and fairly presenting the       current status of
+                    company’s non-current assets.              the enterprise's
+                                                               real estate
+                                                               properties
+                                                               accurately and
+                                                               up-to-date
+5   Operating       The Board of Directors should ensure that Through sample Implementation has
+    Expenses        requests from requesting units are         testing, it was  not started.
+                    consolidated so that fewer procurement found that the
+                    activities are conducted, enabling greater enterprise has
+                    competition and more economical            continued this
+                    pricing. To avoid the repetition of        year with the
+                    procurement activities, the company        frequent use of
+                    should aggregate its needs in a way that minimally-valued
+                    ensures greater efficiency and cost-       procedures,
+                    effectiveness.                             repeating
+                                                               previous issues.
+6   Operating       The Board of Directors should ensure that During the audit, Implemented
+    Expenses        all difficulties which have hindered the  it was found from
+                    implementation of legal requirements are the selected
+                    eliminated and should immediately         samples that the
+                    ensure the commencement of the use of requirements set
+                    E-procurement modules for contract        out in the
+                                                              relevant
+
+
+
+
+                                              25
+      ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                    management and performance              legislation and
+                    evaluation of contractors.              the
+                                                            recommendations
+                                                            given were
+                                                            implemented.
+
+
+
+
+7   Operating       The Board of Directors should ensure that During the audit, Implemented
+    Expenses        the planning of investment projects is    it was found from
+                    coordinated in such a way that the        the selected
+                    timelines established by the Public       samples that the
+                    Procurement Law are fully respected.      requirements set
+                                                              out in the
+                                                              relevant
+                                                              legislation and
+                                                              the
+                                                              recommendations
+                                                              given have been
+                                                              implemented.
+8   Information     The Board of Directors should ensure that During 2023, the Partially implemented
+    Systems         all company employees comply with the enterprise
+                    company’s information security policy     completed the
+                    and store all their sensitive data in the file encryption
+                    encrypted folder. Additionally, the       process, while the
+                    information security policy for VPN       application of
+                    access should be enforced. Old access     VPN access forms
+                    permissions should be reviewed, and new was partially
+                    approvals should be supported by the      implemented, as
+                    completion of the required VPN access     testing confirmed
+                    request forms.                            that they were
+                                                              not used in all
+                                                              cases.
+
+
+
+
+                                              26
+        ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Vlora Spanca, Auditor General
+
+
+
+
+Mehmet Mucaj, Head of Audit
+
+
+
+
+Xhemile Berisha - Hoti, Team leader
+
+
+
+
+Lindita Ajeti Team member
+
+
+
+
+Arben Selimi, Team member
+
+
+
+
+                                                27
+         ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Annex I: Letter of confirmation/ Comments of BO regarding
+the audit report (if any)
+ Issue                Comments from the BO                       KNAO view
+ Issue B1 - Failure   According to the Conceptual                Despite the actions taken by the
+ to update the        Framework for Financial Reporting -        enterprise and the explanations
+ asset ledger with    IFRS, paragraph 4.5, an entity             provided, the finding remains
+ changes over the     recognizes an asset as an economic         valid, as the immovable property
+ years concerning     resource if it meets the three (3) basic   register still does not fully and
+ immovable            aspects of the definition: a) the right,   accurately reflect the actual and
+ properties           b) the potential to receive economic       legal status of the properties.
+                      benefits, and c) control over that         Although it is evident that steps
+                      asset. Additionally, in accordance         have been taken in some cases to
+                      with IAS1, paragraph 112, the entity       clarify ownership, and that
+                      should disclose in the explanatory         administrative or judicial
+                      notes any additional information that      procedures have been initiated,
+                      is not presented elsewhere in the          the current discrepancies between
+                      financial statements, but is relevant      the property registers and official
+                      for users to accurately understand         data, as well as the lack of
+                      their content and purpose.                 updates, represent a documented
+                                                                 shortcoming that affects the
+                      KEK JSC has updated its asset ledger       accurate presentation of long-
+                      in accordance with the financial           term assets.
+                      reporting requirements as outlined in      Furthermore, the incomplete
+                      the Framework and International            disclosure in the explanatory notes
+                      Financial     Reporting    Standards       of assets with unclear ownership
+                      mentioned above.                           status does not comply with IAS 1,
+                      a) 1.72 hectares of construction land      paragraph 112, and undermines
+                      - the company has only updated the         transparency for the users of the
+                      ledger for the portion of land             financial statements.
+                      measuring 15.91 ares that it currently     Given the significant financial
+                      uses and controls (the company             value of the assets in question, as
+                      disclosed in explanatory note No. 4        well as the uncertainty regarding
+                      the steps taken and the current            the right and control over some of
+                      status of this property);                  them, we assess that the impact
+                      b) Land of 116.88 hectares in the          on the financial statements is
+                      cadastral zone Vasilevë - KEK has          material.
+                      included in the asset ledger only the
+                      part of the parcel measuring 61.18 ha
+                      over which it holds legal rights and
+                      control, whereas the remaining 55.70
+                      ha, according to the certificate of
+                      ownership, is registered under the
+                      Kosovo Forestry Agency.
+
+
+
+
+                                                  28
+ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+             Following the failure of the
+             administrative procedure to transfer
+             these properties into the name of
+             KEK J.S.C. based on the expropriation
+             decisions, due to the lack of proof of
+             payments as required by these
+             decisions, KEK filed a lawsuit in 2024
+             against the Municipality of Gllogoc,
+             with the subject matter of the dispute
+             being the transfer of ownership in
+             accordance with the expropriation
+             decisions.    This    concerns      the
+             following parcels: cadastral parcel
+             361; cadastral parcel 366, and
+             cadastral parcel 667, CZ. Vasilevë (the
+             company disclosed these details in
+             the explanatory notes).
+             c) Commercial premises of 140 m² -
+             according to the definition of an
+             asset, the company does not have
+             the possibility of use (economic
+             benefits) or control over this asset.
+             Therefore,         it      is       not
+             included/registered in the asset
+             ledger (this is also disclosed by the
+             company in the explanatory notes).
+             d) Five assets (properties) in the
+             municipality of Podujeva – although
+             these properties were transferred to
+             the public enterprise Infrakos JSC,
+             respectively through the 2012
+             Property      Transfer      Agreement
+             between the Ministry of Economic
+             Development and Infrakos JSC,
+             based on the 2007 Possession List,
+             KEK JSC is the legitimate owner of
+             these assets (properties). Therefore,
+             there is no evidence/ documentation
+             confirming the legal transfer of
+             ownership from KEK JSC to Infrakos.
+             For this purpose, KEK has filed a
+             lawsuit before the Commercial Court
+             against        Infrakos,       seeking
+             confirmation of ownership and
+             partial annulment of the decision. In
+             response to this situation, the
+             management and Board of Directors
+
+
+
+                                        29
+ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+             of KEK JSC have not taken any further
+             action to remove these properties
+             from the asset ledger until the
+             transfer of ownership from KEK to
+             Infrakos is clearly defined (the
+             company disclosed these details in
+             the explanatory notes).
+             e) Forested land, 1,250 Ha - this
+             property has been included in KEK’s
+             asset ledger since 2004, at the time
+             of corporatization, according to
+             Deloitte’s report.            Based on
+             documentation obtained from the
+             Cadastre of the Municipality of
+             Podujeva and the Kosovo Cadastral
+             Agency, there is no clear evidence of
+             an eventual transfer of ownership
+             from KEK to the former Forest
+             Economy “Javor.”
+             Therefore, considering that such an
+             asset with significant financial impact
+             is part of KEK’s asset ledger, the
+             Board of Directors has not approved
+             its write-off until all legal avenues for
+             verifying ownership transfer from
+             KEK have been exhausted. This year,
+             KEK’s     management          has   also
+             submitted a request to the Cadastral
+             Agency      for     comparison       and
+             verification of properties and the
+             Kosovo Privatization Agency (to
+             obtain possible evidence on whether
+             KEK was a user, investor, or co-
+             founder of the former socially-owned
+             forest enterprise during the period
+             1968-1999).
+
+
+
+
+                                         30
+      ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                     f) 11 properties in the Municipality
+                     of Obiliq, valued at €866,223 - Based
+                     on the documentation received
+                     from the Cadastre of the
+                     Municipality of Obiliq and the
+                     Kosovo Cadastral Agency, there is
+                     no clear evidence of an eventual
+                     transfer of ownership from KEK to
+                     private individuals. Therefore, KEK’s
+                     management submitted a request
+                     this year to the Cadastral Agency for
+                     comparison and verification of the
+                     assets, utilizing all legal mechanisms
+                     available to verify ownership of
+                     these lands.
+Issue B2 - Failure   Based on the recommendation of the          The recommendation provided
+to periodically      National Audit Office (NAO), the            pertains to assets that are
+revalue long-        company has revalued the land               recorded using the revaluation
+term assets          category in accordance with the             model. According to IAS 16,
+recorded under       requirements         of     International   paragraphs 29, 31 and 51,
+the revaluation      Financial Reporting Standards (IFRS),       revaluations should be conducted
+model                using internal resources without            at regular intervals to accurately
+                     incurring any additional financial          reflect the true market value of the
+                     costs to the company. As a result of        assets.
+                     this revaluation, the value of the          Although the company has taken
+                     company's land has increased by €53         some actions regarding
+                     million. For other asset categories,        land/yards, a portion of long-term
+                     management considers that the cost          assets held under this model have
+                     model       is    significantly    more     not been revalued for more than
+                     appropriate and representative of           two decades. Our testing in one
+                     the corporation’s asset condition, for      case revealed a discrepancy
+                     the following reasons:                      between the accounting value and
+                     -    Cost-based        approach:     The    the fair value.
+                     revaluation method involves valuing         Furthermore, assets that are
+                     assets at their fair value, which may       currently being used, including
+                     not be practical or meaningful for          those with a zero accounting
+                     certain asset types, such as power          value, have not undergone a
+                     plants and related equipment used in        review of their useful life and
+                     electricity generation. These assets        residual value, despite still
+                     are specialized and industry-specific,      generating income for the
+                     making it difficult, nearly impossible      company. This lack of review is not
+                     to determine their precise fair value.      in line with the requirements of
+                     In such cases, a cost-based approach,       IAS 16 and IAS 8, which require
+                     such as historical cost or depreciated      annual reviews and the reflection
+                     cost, provides more reliable and            of any changes in the financial
+                     appropriate information for financial       statements.
+                     reporting.
+
+
+
+                                                 31
+ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+             - Volatility: The revaluation method       Therefore, the lack of revaluations
+             may introduce considerable volatility      and the identified discrepancies
+             into the financial statements. Fair        compromise the fair and reliable
+             value changes, particularly for long-      presentation of the financial
+             lived assets such as power plants, can     statements, rendering the finding
+             fluctuate due to changes in market         valid and materially impactful.
+             condition,                technological
+             developments, or regulatory factors.
+             This volatility may distort the
+             company's financial performance
+             and make it difficult for investors and
+             stakeholders to assess the company’s
+             true underlying profitability.
+             - Regulatory environment: Electricity
+             generation companies operate in a
+             regulated environment, where tariffs
+             and revenues are set by regulatory
+             bodies based on predetermined
+             formulas        or       cost-recovery
+             mechanisms. In such cases, indirectly
+             applicable to KEK, the revaluation
+             method may not align with the
+             regulatory framework, and applying
+             fair value measurements may result
+             in discrepancies between reported
+             values and regulatory requirements.
+             These discrepancies could cause
+             confusion and hinder comparability
+             with other enterprises in the industry.
+             - Practical challenges: Implementing
+             the revaluation method requires
+             significant expertise, resources, and
+             ongoing valuation assessments. It
+             demands engaging external experts,
+             conducting regular valuations, and
+             maintaining      complex       valuation
+             models. For electricity generation
+             companies, continuously applying
+             the revaluation model is both an
+             operational and financial challenge,
+             especially       considering         the
+             specialized     nature       of    their
+             infrastructure and the dynamic
+             nature of the industry.
+             Management, in accordance with
+             IFRS requirements, has conducted
+             annual impairment testing of assets
+
+
+
+                                         32
+     ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                  by comparing the net asset value
+                  with the discounted net income
+                  expected to be generated by those
+                  assets in the coming years. Based on
+                  these tests, it was determined that
+                  the net carrying amount of the assets
+                  does not materially differ from their
+                  net income expected to be
+                  generated over the years. This
+                  implies that the assets reflect their
+                  actual value and no adjustments to
+                  their carrying amounts is necessary.
+                  Mining lands are held at historical
+                  cost, and management has not
+                  deemed it reasonable to revalue this
+                  asset category. The depreciation of
+                  these lands is based on the
+                  company's operational plan for
+                  utilizing coal reserves (extraction of
+                  economic benefits) and the zero
+                  residual value assigned to 495 assets
+                  in this category reflects their fair
+                  value until their potential
+                  revitalization by KEK for alternative
+                  use, as the coal reserves from these
+                  lands have already been exploited.
+Issue A1 -        a) Analytical reconciliation between       Despite the clarifications provided
+Shortcomings in   stock balances and accounting books        by the company, our analysis
+the treatment,    - According to KEK’s annual asset          shows that the stocktaking
+reporting, and    and liability registration report, the     process did not result in full
+accounting        value of written-off stock is              reconciliation between the data
+presentation of   €23,473.84, and the value of surplus       from the unit reports, the final
+annual            stock is €2,550.00 (resulting in a net     stocktaking report, and the
+stocktaking       effect of €20,923.84).                     accounting records. Below is our
+results           In the accounting books, KEK               position on each of the
+                  reported written-off stock at a value      commented issues:
+                  of €20,575.94. The discrepancy of          (a) Regarding inventories, the
+                  €347.90 is not material (considering       finding is not limited to the
+                  the materiality thresholds of KEK          numerical value, but also concerns
+                  transactions) and should NOT be            the lack of analytical reconciliation
+                  treated as a finding.                      between the actual condition and
+                                                             the accounting records, which is in
+                  b) Asset write-offs with a net value of    contradiction with the
+                  €29,950 - According to KEK’s annual        requirements of Article 12 of Law
+                  asset and liability registration report,   No. 06/L-032.
+                  and the list of written-off assets from    (b) Asset write-offs in the amount
+                  the relevant module (attached as           of €29,950 were processed and
+
+
+
+                                              33
+ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+             evidence after the draft report was       taken into consideration after the
+             submitted), an identical write-off        submission of evidence of sale,
+             value was recorded, including             whereas 190 assets with a value of
+             missing assets (which were written        €8,512 were not written off from
+             off: €29,950.70 + €1,353.25 =             the register, despite having been
+             €31,303.95), therefore, the NAO’s         recommended for write-off during
+             finding regarding the unrecorded          the inventory process.
+             write-off of 190 assets does not          (c) Regarding the verification of
+             stand (as evidenced by the list of all    apartments: The lack of physical
+             written-off assets, which is identical    verification of 12 apartments was
+             in both the Report and the balance        not addressed in the final
+             confirmation).                            stocktaking report, although the
+                                                       Board’s decision prohibits their
+             c)      Physical verification of 12       write-off. However, this does not
+             apartments with a net value of            exempt the legal obligation for
+             €25,427 - According to the Board of       physical verification and accurate
+             Directors’ Decision No. 2135 dated        reporting of the actual situation,
+             04.04.2023 (item 1), the write-off of     as required by Article 12 of the
+             residential units from KEK JSC’s asset    Accounting Law.
+             register in the 2022 annual               (d) With regard to assets with a
+             stocktaking report was not approved       net value of €290,679, although
+             until sufficient evidence of ownership    the enterprise provided a report
+             transfer to natural persons based on      on the assessment of the
+             sale-purchase agreements or user          functionality of the assets
+             right predating 1999 is provided.         proposed for write-off by the
+             Consequently, this issue was not          respective commissions, the
+             included in the final stocktaking         aforementioned assets were not
+             commission report.                        included in this report.
+             In     2024,     KEK’s    management      In conclusion, despite efforts
+             established a commission to address       made, the stocktaking process was
+             the issue of the apartments,              not fully completed or
+             specifically     to    assess   claims    harmonized, which impacts the
+             concerning housing rights under Law       reliability of financial information
+             No. 04/L-061. Upon appointment of         and compliance with legal
+             a notary, ownership for approved          requirements. Therefore, the
+             claims will be transferred to the         finding remains valid.
+             respective natural persons, and those
+             assets will be written off from the
+             asset register.
+
+             d) Stocktaking commissions of units
+             identified 19 assets for write-off with
+             a net value of €290,679 - Following
+             the submission of stocktaking
+             reports by the relevant unit
+             commission, special commissions
+             were established to assess the
+
+
+
+                                        34
+      ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                     functionality of certain proposed
+                     assets with remaining book value, in
+                     order to determine if they should be
+                     retired from use (these reports and
+                     supporting evidence were attached
+                     after the submission of the draft
+                     report).
+                     Other than the specific cases above,
+                     and the apartment issue outlined in
+                     point (c), all remaining assets
+                     proposed for write-off by the
+                     registration commissions were
+                     included in the Report approved by
+                     the Board of Directors.
+Issue B3 -           The audit of Financial Statements of     The National Audit Office, in
+Signing of the       business organizations is regulated      accordance with its constitutional
+contract for the     by Law No. 06/L- 032 ON                  and legal mandate, promptly
+audit of Financial   ACCOUNTING,                 FINANCIAL    informed the company of the
+Statements           REPORTING AND AUDITING;                  planned audits, including those of
+                     The legal requirements from this law     a special nature as requested by
+                     are mandatory for Publicly-Owned         ERO and ICMM. Despite this, the
+                     Enterprises, which additionally face     company hired a private auditor
+                     specific obligations related to          for the same purpose, resulting in
+                     financial reporting and auditing.        unnecessary expenses.
+                     In this regard, KEK has addressed this   Claims suggesting that the NAO is
+                     issue with both the Kosovo Council       unable to meet legal requirements
+                     for Financial Reporting (KCFR) and       are baseless, as the current legal
+                     the National Audit Office (NAO).         framework clearly defines the
+                     Based on the responses received          obligation, responsibilities, and
+                     from both parties, the KCRF              authority of the NAO to conduct
+                     confirmed that KEK is obliged to         audits.
+                     perform the audit in accordance with     Therefore, the company’s actions
+                     ISAs by an independent licensed          do not comply with the applicable
+                     audit firm and submit the report no      legal requirements, and the
+                     later than April 30 (statutory           finding remains valid.
+                     requirement). Meanwhile, in its
+                     response, the NAO informed us that
+                     it cannot meet these statutory
+                     requirements.       Therefore,    KEK
+                     proceeded with contracting the audit
+                     in accordance with the statutory
+                     requirements.
+                     Furthermore, the NAO confirmed
+                     that in addition to being unable to
+                     fulfil the legal requirements under
+                     Law No. 06/L-032 on Accounting,
+                     Financial Reporting, and Auditing, it
+
+
+
+                                               35
+        ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                          also cannot comply with obligations
+                          arising from Article 4 of the electricity
+                          generation License, in accordance
+                          with the Law No. 05-L-084 on the
+                          Energy Regulator, which requires the
+                          report to be submitted no later than
+                          March 31 of the following year for
+                          the previous period, and
+                          The requirements of Law No. 03/L-
+                          163 on Mines and Minerals, Article 34
+                          Mining      License     Rights      and
+                          Obligations, paragraph 4.2.2, no later
+                          than 28 February of the following
+                          year for the previous period.
+
+                          From the correspondence received
+                          from the NAO, the institution itself
+                          acknowledged          that       legal
+                          amendments would be necessary in
+                          order for publicly-owned enterprises
+                          (POEs) to be exempted from these
+                          statutory requirements. However,
+                          such legal amendments have not
+                          been enacted, and as such, KEK
+                          remains    legally    obligated     to
+                          implement the requirements under
+                          the current legislation (see attached
+                          correspondence).
+
+                          Therefore, given the above and
+                          taking    into    account      official
+                          communications which constitute
+                          undisputable facts in this matter, KEK
+                          considers that this audit finding
+                          cannot be part of the report, and its
+                          inclusion contradicts the legal
+                          requirements KEK is bound to fulfil.
+
+                          Moreover, this finding was not
+                          presented in the NAO's audit report
+                          for the 2022 financial year, despite
+                          the fact that the same situation
+                          applied at that time.
+*This Report is a translation from the original version in the Albanian language. In case of inconsistency, the version in the
+Albanian language prevails.
+
+
+
+
+                                                             36
+          ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+End Notes
+
+¹ Compliance with authorities – refers to adherence to all relevant laws, regulations, directives, standards, and
+best practices.
+² Collectively refers to compliance with authorities.
+
+
+
+
+                                                      37
+

@@ -1,0 +1,161 @@
+{{Infobox kompani
+| emri = Korporata Energjetike e Kosovës
+| emri_tregtar = KEK sh.a.
+| lloji = Ndërmarrje publike
+| industria = Energjetika
+| selia = [[Prishtina]], [[Kosova]]
+| zona_shërbimit = [[Kosova]]
+| produktet = [[Energjia elektrike]], [[linjiti]]
+| pronari = [[Qeveria e Kosovës]]
+| të_ardhurat = 218.591 milionë euro (2024)
+| fitimi_neto = 39.124 milionë euro (2024)
+| faqja = https://kek-energy.com/
+}}
+
+'''Korporata Energjetike e Kosovës''' ('''KEK''') është ndërmarrje publike energjetike në [[Kosova|Kosovë]], veprimtaria kryesore e së cilës është prodhimi i energjisë elektrike nga [[linjiti]] dhe nxjerrja e linjitit për furnizimin e kapaciteteve të saj gjeneruese.<ref>{{Cite web |title=Energy Sector Players |url=https://reskosovo.rks-gov.net/energy-overview/energy-sector-players/ |website=RESKosovo |publisher=Ministria e Ekonomisë |access-date=4 tetor 2026 |language=en}}</ref> KEK-u operon termocentralet [[Termocentrali Kosova A|Kosova A]] dhe [[Termocentrali Kosova B|Kosova B]], të vendosura në zonën e [[Obiliqi]]t, si dhe kapacitetet për nxjerrjen e linjitit që i furnizojnë këto termocentrale.<ref>{{Cite web |title=Energy Sector Players |url=https://reskosovo.rks-gov.net/energy-overview/energy-sector-players/ |website=RESKosovo |publisher=Ministria e Ekonomisë |access-date=4 tetor 2026 |language=en}}</ref>
+
+KEK-u ka qenë historikisht ndërmarrje e integruar vertikalisht, me përgjegjësi për prodhimin, transmetimin, shpërndarjen dhe furnizimin me energji elektrike. Gjatë reformimit të sektorit elektroenergjetik, funksionet e transmetimit dhe operimit të sistemit u ndanë nga KEK-u dhe kaluan te [[KOSTT]]-i në vitin 2006, ndërsa shpërndarja dhe furnizimi u ndanë më vonë në kuadër të KEDS-it dhe u privatizuan në vitin 2013.<ref>{{Cite web |title=Home Page |url=https://kostt.com/ |website=KOSTT |access-date=4 tetor 2026 |language=sq}}</ref><ref>{{Cite web |title=Kosovo: Electricity Distribution |url=https://ppp.worldbank.org/library/kosovo-electricity-distribution-0 |publisher=World Bank Group |date=1 janar 2013 |access-date=4 tetor 2026 |language=en}}</ref>
+
+== Historia ==
+
+=== Zhvillimi i industrisë elektroenergjetike ===
+
+Zhvillimi në shkallë të gjerë i prodhimit të energjisë elektrike nga linjiti në Kosovë lidhet me shfrytëzimin e rezervave të linjitit në [[Baseni i Kosovës|Basenin e Kosovës]]. Minierat sipërfaqësore dhe termocentralet u zhvilluan në afërsi të Obiliqit, duke krijuar kompleksin kryesor të prodhimit termoenergjetik të vendit.
+
+Njësia e parë e termocentralit Kosova A hyri në punë në vitin 1962. Kompleksi u zgjerua gradualisht deri në vitin 1975 dhe përfundimisht përbëhej nga pesë njësi prodhuese. Termocentrali Kosova B u ndërtua më vonë dhe përbëhet nga dy njësi, të vëna në punë në vitet 1983 dhe 1984.<ref>{{Cite report |title=Sustainable Energy Options for Kosovo |publisher=World Bank |date=19 janar 2012 |url=https://documents1.worldbank.org/curated/en/241371468089094798/pdf/696730IPR0p1180PN0REQUEST0RQ0120010.pdf |access-date=4 tetor 2026 |language=en}}</ref>
+
+Kosova A kishte pesë njësi me kapacitet fillestar të instaluar prej rreth 800 MW. Njësitë A1 dhe A2 më vonë dolën jashtë përdorimit, ndërsa kapaciteti i instaluar i tri njësive A3, A4 dhe A5 është rreth 610 MW. Kosova B përbëhet nga dy njësi prej 339 MW secila, me kapacitet të përgjithshëm të instaluar prej 678 MW.<ref>{{Cite report |title=Sustainable Energy Options for Kosovo |publisher=World Bank |date=19 janar 2012 |url=https://documents1.worldbank.org/curated/en/241371468089094798/pdf/696730IPR0p1180PN0REQUEST0RQ0120010.pdf |access-date=4 tetor 2026 |language=en}}</ref>
+
+=== Periudha pas vitit 1999 ===
+
+Pas [[Lufta e Kosovës|luftës së Kosovës]] dhe vendosjes së administratës ndërkombëtare më 1999, sektori energjetik u përball me kapacitete të dëmtuara, mirëmbajtje të pamjaftueshme dhe nevojë për investime të mëdha. Në vitet pasuese, KEK-u iu nënshtrua një procesi të ristrukturimit institucional dhe teknik, paralelisht me krijimin e institucioneve të reja rregullatore dhe operatorëve të veçantë të sektorit.
+
+Në këtë periudhë KEK-u vazhdoi të ishte për një kohë ndërmarrje e integruar vertikalisht, duke përfshirë minierat, prodhimin, transmetimin, shpërndarjen dhe furnizimin me energji elektrike.<ref>{{Cite report |title=Sustainable Energy Options for Kosovo |publisher=World Bank |date=19 janar 2012 |url=https://documents1.worldbank.org/curated/en/241371468089094798/pdf/696730IPR0p1180PN0REQUEST0RQ0120010.pdf |access-date=4 tetor 2026 |language=en}}</ref>
+
+=== Ristrukturimi i sektorit energjetik ===
+
+Një nga ndryshimet kryesore strukturore ishte ndarja e funksionit të transmetimit nga KEK-u. [[KOSTT]] sh.a. u themelua më 1 korrik 2006 dhe mori funksionet e operatorit të sistemit, transmetimit dhe tregut. Licenca e tij si operator i sistemit të transmetimit hyri në fuqi më 4 tetor 2006.<ref>{{Cite web |title=Home Page |url=https://kostt.com/ |website=KOSTT |access-date=4 tetor 2026 |language=sq}}</ref><ref>{{Cite web |title=Operatori i Sistemit të Transmetimit |url=https://kostt.com/OST/Index |website=KOSTT |access-date=4 tetor 2026 |language=sq}}</ref>
+
+Ristrukturimi vazhdoi me ndarjen e veprimtarisë së shpërndarjes dhe furnizimit. Kompania Kosovare për Distribuim dhe Furnizim me Energji Elektrike (KEDS) u krijua nga funksionet përkatëse të KEK-ut. Konsorciumi turk Çalık–Limak fitoi tenderin për blerjen e 100 për qind të aksioneve të KEDS-it për 26.3 milionë euro, ndërsa marrëveshja u nënshkrua në tetor 2012. Operimi iu transferua investitorit privat në maj 2013.<ref>{{Cite web |title=Kosovo: Electricity Distribution |url=https://ppp.worldbank.org/library/kosovo-electricity-distribution-0 |publisher=World Bank Group |date=1 janar 2013 |access-date=4 tetor 2026 |language=en}}</ref>
+
+Pas këtyre ndryshimeve, veprimtaria kryesore e KEK-ut u përqendrua në nxjerrjen e linjitit dhe prodhimin e energjisë elektrike.
+
+== Veprimtaria ==
+
+=== Prodhimi i energjisë elektrike ===
+
+KEK-u prodhon energji elektrike kryesisht në dy termocentralet me linjit, Kosova A dhe Kosova B. Këto termocentrale vazhdojnë të përbëjnë pjesën më të madhe të prodhimit vendor të energjisë elektrike në Kosovë. Sipas një përmbledhjeje të Parlamentit Evropian të vitit 2025, dy termocentralet e KEK-ut prodhonin afërsisht 95 për qind të energjisë elektrike të prodhuar brenda vendit.<ref>{{Cite report |title=EU energy relations with the Western Balkans |publisher=European Parliamentary Research Service |date=2025 |url=https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/769552/EPRS_BRI%282025%29769552_EN.pdf |access-date=4 tetor 2026 |language=en}}</ref>
+
+Sipas Zyrës së Rregullatorit për Energji, gjatë vitit 2024 prodhimi i KEK-ut i dorëzuar në sistem nga termocentralet Kosova A dhe Kosova B ishte rreth 5,284 GWh.<ref>{{Cite report |title=Raporti Vjetor 2024 |publisher=Zyra e Rregullatorit për Energji |year=2025 |url=https://www.ero-ks.org/zrre/sites/default/files/Publikimet/Raportet%20Vjetor/Raporti%20vjetor%202024_ZRRE.pdf |access-date=4 tetor 2026 |language=sq}}</ref>
+
+Të dhënat e prodhimit bruto janë më të larta se energjia e dorëzuar në sistem, pasi përfshijnë edhe energjinë e konsumuar nga vetë centralet. Sipas të dhënave të publikuara nga KEK-u, prodhimi bruto gjatë vitit 2024 ishte rreth 6.18 milionë MWh, kundrejt rreth 5.53 milionë MWh në vitin 2023.<ref>{{Cite web |title=KEK-u lavdërohet, thotë se performancën e vitit 2024 e pati dukshëm më të mirë se vitin paraprak |url=https://lajmi.net/kek-u-lavderohet-thote-se-performancen-e-vitit-2024-e-pati-dukshem-me-te-mire-se-te-vitin-paraprak/ |date=2025 |access-date=4 tetor 2026 |language=sq}}</ref>
+
+=== Termocentrali Kosova A ===
+
+[[Termocentrali Kosova A]] është termocentrali më i vjetër i KEK-ut. Pesë njësitë e tij u ndërtuan ndërmjet viteve 1962 dhe 1975. Njësitë A1 dhe A2 nuk janë më operative, ndërsa prodhimi është mbështetur në njësitë A3, A4 dhe A5.<ref>{{Cite report |title=Sustainable Energy Options for Kosovo |publisher=World Bank |date=19 janar 2012 |url=https://documents1.worldbank.org/curated/en/241371468089094798/pdf/696730IPR0p1180PN0REQUEST0RQ0120010.pdf |access-date=4 tetor 2026 |language=en}}</ref>
+
+Në vitin 2024, Zyra e Rregullatorit për Energji ia vazhdoi KEK-ut licencën për prodhimin e energjisë elektrike në Kosova A për periudhën nga 4 tetori 2024 deri më 4 tetor 2026.<ref>{{Cite web |title=Vendimet 2024 |url=https://ero-ks.org/zrre/sq/vendimet-2024 |publisher=Zyra e Rregullatorit për Energji |access-date=4 tetor 2026 |language=sq}}</ref>
+
+Në vitin 2025 u njoftua një projekt prej rreth 137 milionë eurosh për rehabilitimin dhe modernizimin e njësisë A3. Projekti synon rritjen e kapacitetit të njësisë nga rreth 120–140 MW në rreth 215 MW, rritjen e disponueshmërisë dhe reduktimin e konsumit specifik të linjitit dhe emetimeve.<ref>{{Cite web |title=Korporata Energjetike e Kosovës investon 137 milionë euro për rehabilitimin dhe modernizimin e Njësisë A3 të Termocentralit Kosova |url=https://kryeministri.rks-gov.net/news/korporata-energjetike-e-kosoves-investon-137-milione-euro-per-rehabilitimin-dhe-modernizimin-e-njesise-a3-te-termocentralit-kosova/ |publisher=Zyra e Kryeministrit të Kosovës |access-date=4 tetor 2026 |language=sq}}</ref>
+
+=== Termocentrali Kosova B ===
+
+[[Termocentrali Kosova B]] përbëhet nga dy njësi, B1 dhe B2, me kapacitet të instaluar prej 339 MW secila. Njësitë hynë në operim përkatësisht në vitet 1983 dhe 1984.<ref>{{Cite report |title=Sustainable Energy Options for Kosovo |publisher=World Bank |date=19 janar 2012 |url=https://documents1.worldbank.org/curated/en/241371468089094798/pdf/696730IPR0p1180PN0REQUEST0RQ0120010.pdf |access-date=4 tetor 2026 |language=en}}</ref>
+
+Për shkak të moshës së centraleve dhe disponueshmërisë së tyre teknike, kapaciteti i instaluar nuk duhet ngatërruar me kapacitetin që është realisht i disponueshëm në çdo moment. Banka Botërore ka theksuar prej kohësh se kufizimet e furnizimit në Kosovë lidhen pjesërisht me vjetërsinë dhe besueshmërinë e kufizuar të kapaciteteve ekzistuese me linjit.<ref>{{Cite web |title=Energy in Kosovo |url=https://www.worldbank.org/en/country/kosovo/brief/energy-in-kosovo |publisher=World Bank |access-date=4 tetor 2026 |language=en}}</ref>
+
+=== Nxjerrja e linjitit ===
+
+KEK-u nxjerr linjit për furnizimin e termocentraleve të tij. Historikisht, prodhimi u zhvillua në minierat sipërfaqësore të Mirashit dhe Bardhit, ndërsa zhvillimi i mëvonshëm i mihjeve u zhvendos drejt fushës së Sibovcit.<ref>{{Cite report |title=Environmental Assessment of the Energy Sector Clean-up and Land Reclamation Project |publisher=World Bank |url=https://documents1.worldbank.org/curated/en/299271468088159164/pdf/E13670VOL130Box327408B.pdf |access-date=4 tetor 2026 |language=en}}</ref>
+
+Sipas të dhënave të publikuara nga KEK-u, gjatë vitit 2024 u nxorën rreth 8.07 milionë tonë qymyr, krahasuar me rreth 6.92 milionë tonë në vitin 2023.<ref>{{Cite web |title=KEK-u lavdërohet, thotë se performancën e vitit 2024 e pati dukshëm më të mirë se vitin paraprak |url=https://lajmi.net/kek-u-lavderohet-thote-se-performancen-e-vitit-2024-e-pati-dukshem-me-te-mire-se-te-vitin-paraprak/ |date=2025 |access-date=4 tetor 2026 |language=sq}}</ref>
+
+== Kapacitetet dhe prodhimi ==
+
+Kapaciteti nominal historik i pesë njësive të Kosovës A ishte rreth 800 MW, ndërsa Kosova B ka kapacitet të instaluar prej 678 MW. Megjithatë, A1 dhe A2 janë jashtë operimit dhe tri njësitë aktive të Kosovës A kanë kapacitet të instaluar prej rreth 610 MW. Për këtë arsye, burimet që përfshijnë të pesë njësitë historike japin një shifër më të lartë se burimet që llogarisin vetëm njësitë aktive.<ref>{{Cite report |title=Sustainable Energy Options for Kosovo |publisher=World Bank |date=19 janar 2012 |url=https://documents1.worldbank.org/curated/en/241371468089094798/pdf/696730IPR0p1180PN0REQUEST0RQ0120010.pdf |access-date=4 tetor 2026 |language=en}}</ref>
+
+Në vitin 2024 KEK-u raportoi prodhim bruto prej rreth 6.18 TWh energji elektrike. Ndërkaq, ZRRE-ja regjistroi rreth 5.284 TWh energji të KEK-ut të dhënë në sistem, çka pasqyron dallimin ndërmjet prodhimit bruto dhe prodhimit të dorëzuar pas konsumit vetanak të centraleve.<ref>{{Cite report |title=Raporti Vjetor 2024 |publisher=Zyra e Rregullatorit për Energji |year=2025 |url=https://www.ero-ks.org/zrre/sites/default/files/Publikimet/Raportet%20Vjetor/Raporti%20vjetor%202024_ZRRE.pdf |access-date=4 tetor 2026 |language=sq}}</ref>
+
+== Pronësia dhe organizimi ==
+
+KEK sh.a. është ndërmarrje publike qendrore në pronësi shtetërore. Mbikëqyrja e pronësisë publike ushtrohet përmes institucioneve të Republikës së Kosovës dhe Njësisë për Politika dhe Monitorim të Ndërmarrjeve Publike në kuadër të ministrisë përgjegjëse për ekonominë.<ref>{{Cite web |title=Korporata Energjetike e Kosovës |url=https://me.rks-gov.net/njpmnp/korporata-energjetike-e-kosoves/ |publisher=Ministria e Ekonomisë |access-date=4 tetor 2026 |language=sq}}</ref>
+
+KEK-u nuk duhet ngatërruar me operatorët e tjerë të sektorit energjetik. KOSTT-i operon sistemin e transmetimit dhe tregun; KEDS-i operon rrjetin e shpërndarjes, ndërsa furnizimi me energji elektrike kryhet nga kompani të licencuara për furnizim. KEK-u është i përqendruar kryesisht në prodhimin e energjisë dhe nxjerrjen e linjitit.
+
+== Të dhënat financiare ==
+
+Sipas Zyrës Kombëtare të Auditimit, KEK-u realizoi 218.591 milionë euro të hyra dhe 179.467 milionë euro shpenzime gjatë vitit 2024, duke rezultuar me fitim prej 39.124 milionë eurosh. Detyrimet afatshkurtra në fund të periudhës ishin rreth 32.813 milionë euro, ndërsa detyrimet afatgjata rreth 164.486 milionë euro.<ref>{{Cite report |title=Raporti Vjetor i Auditimit 2024 |publisher=Zyra Kombëtare e Auditimit |year=2025 |url=https://zka-rks.org/cms/ReportFiles/2025_f55bfd12-deb7-4182-a525-d74fdb2a25fe.pdf |access-date=4 tetor 2026 |language=sq}}</ref>
+
+{| class="wikitable"
+! Viti
+! Të hyrat
+! Shpenzimet
+! Fitimi
+|-
+| 2022
+| 309.655 milionë €
+| 204.538 milionë €
+| 105.117 milionë €<ref>{{Cite report |title=Raporti Vjetor i Auditimit 2022 |publisher=Zyra Kombëtare e Auditimit |year=2023 |access-date=4 tetor 2026 |language=sq}}</ref>
+|-
+| 2023
+| —
+| —
+| 12.320 milionë €<ref>{{Cite report |title=Korporata Energjetike e Kosovës Sh.A. – Pasqyrat financiare për vitin 2023 |publisher=Zyra Kombëtare e Auditimit |year=2024 |url=https://zka-rks.org/cms/ReportFiles/2024_88148f1e-72ea-4b6d-9815-4edfe7d80b1d.pdf |access-date=4 tetor 2026 |language=sq}}</ref>
+|-
+| 2024
+| 218.591 milionë €
+| 179.467 milionë €
+| 39.124 milionë €<ref>{{Cite report |title=Raporti Vjetor i Auditimit 2024 |publisher=Zyra Kombëtare e Auditimit |year=2025 |url=https://zka-rks.org/cms/ReportFiles/2025_f55bfd12-deb7-4182-a525-d74fdb2a25fe.pdf |access-date=4 tetor 2026 |language=sq}}</ref>
+|}
+
+Në vitin 2024, KEK-u kishte fitimin më të madh ndër ndërmarrjet publike të audituara nga Zyra Kombëtare e Auditimit, me rreth 39.1 milionë euro. ZKA-ja theksoi se një ndër arsyet e rritjes së të hyrave krahasuar me vitin paraprak ishte një rimbursim nga Administrata Tatimore e Kosovës.<ref>{{Cite report |title=Raporti Vjetor i Auditimit 2024 |publisher=Zyra Kombëtare e Auditimit |year=2025 |url=https://zka-rks.org/cms/ReportFiles/2025_f55bfd12-deb7-4182-a525-d74fdb2a25fe.pdf |access-date=4 tetor 2026 |language=sq}}</ref>
+
+== Roli në sistemin energjetik të Kosovës ==
+
+Për shkak të peshës së termocentraleve Kosova A dhe Kosova B në prodhimin vendor, KEK-u ka rol qendror në sigurinë e furnizimit me energji elektrike në Kosovë. Megjithatë, prodhimi vendor nuk mbulon në çdo periudhë kërkesën e sistemit. ZRRE-ja ka vlerësuar se kapacitetet vendore nuk janë të mjaftueshme për të mbuluar ngarkesën maksimale, prandaj mungesa plotësohet edhe përmes importit të energjisë elektrike.<ref>{{Cite report |title=Raporti Vjetor 2024 |publisher=Zyra e Rregullatorit për Energji |year=2025 |url=https://www.ero-ks.org/zrre/sites/default/files/Publikimet/Raportet%20Vjetor/Raporti%20vjetor%202024_ZRRE.pdf |access-date=4 tetor 2026 |language=sq}}</ref>
+
+Roli i KEK-ut në sistem është i ndryshëm nga ai i KOSTT-it, i cili menaxhon transmetimin dhe operimin e sistemit, dhe nga KEDS-i, i cili menaxhon rrjetin e shpërndarjes. Ky konfigurim është rezultat i reformave dhe ndarjes së ndërmarrjes së dikurshme të integruar vertikalisht.
+
+== Ndikimi mjedisor ==
+
+Prodhimi i energjisë nga linjiti ka ndikim të konsiderueshëm mjedisor. Ai lidhet me emetimet e ndotësve të ajrit dhe gazeve serrë, deponimin e hirit, shfrytëzimin e tokës dhe ndikimin e minierave sipërfaqësore. Banka Botërore ka evidentuar se dekadat e prodhimit të energjisë nga qymyri kanë lënë sasi të mëdha hiri në zonën përreth termocentraleve dhe kanë kontribuar në ndotjen e ajrit.<ref>{{Cite web |title=Energy in Kosovo |url=https://www.worldbank.org/en/country/kosovo/brief/energy-in-kosovo |publisher=World Bank |access-date=4 tetor 2026 |language=en}}</ref>
+
+Termocentralet Kosova A dhe Kosova B janë centrale të vjetra me linjit dhe janë ndër burimet kryesore të emetimeve në sektorin energjetik të Kosovës. Western Balkans Investment Framework e ka përshkruar Kosovën B si një nga burimet më të mëdha të emetimeve të pluhurit ndër termocentralet me qymyr në Ballkanin Perëndimor.<ref>{{Cite web |title=Project details |url=https://www.wbif.eu/technicalassistancegrants/WBEC-KOS-ENE-01 |publisher=Western Balkans Investment Framework |access-date=4 tetor 2026 |language=en}}</ref>
+
+Strategjitë afatgjata të tranzicionit energjetik parashohin zvogëlimin e varësisë nga linjiti dhe rritjen e burimeve të ripërtëritshme. Banka Botërore ka vlerësuar se arritja e neutralitetit klimatik do të kërkonte largimin gradual të centraleve me linjit dhe zgjerim të konsiderueshëm të kapaciteteve diellore, të erës dhe të ruajtjes së energjisë.<ref>{{Cite web |title=Kosovo—Country Climate and Development Report |url=https://www.worldbank.org/en/country/kosovo/publication/kosovo-country-climate-and-development-report |publisher=World Bank |access-date=4 tetor 2026 |language=en}}</ref>
+
+KEK-u është përfshirë gjithashtu në zhvillimin e kapaciteteve të reja të energjisë së ripërtëritshme. Projekti Solar4Kosovo parashikon ndërtimin e një centrali fotovoltaik prej rreth 100 MW në zonën e KEK-ut, me prodhim të planifikuar prej rreth 152 GWh në vit.<ref>{{Cite web |title=Solar4Kosovo, Photovoltaic Plant |url=https://kosovoprojects.eu/project/solar4kosovo-photovoltaic-plant/ |website=Kosovo Projects |access-date=4 tetor 2026 |language=en}}</ref>
+
+== Kontestet dhe kritikat ==
+
+KEK-u ka qenë objekt i auditimeve dhe procedurave rregullatore lidhur me menaxhimin financiar, prokurimin dhe respektimin e rregullave të tregut të energjisë.
+
+Në vitin 2023, Zyra e Rregullatorit për Energji i shqiptoi KEK-ut një gjobë prej 3,229,905 eurosh për shkelje të konstatuara lidhur me blerjet e energjisë elektrike, pagesat dhe nominimet.<ref>{{Cite web |title=Vendimet 2023 |url=https://www.ero-ks.org/zrre/sq/node/421 |publisher=Zyra e Rregullatorit për Energji |access-date=4 tetor 2026 |language=sq}}</ref>
+
+Auditimet e Zyrës Kombëtare të Auditimit kanë identifikuar gjithashtu çështje në raportimin dhe menaxhimin financiar të ndërmarrjes. Për vitin 2022, ZKA-ja dha opinion të kualifikuar për pasqyrat financiare të KEK-ut.<ref>{{Cite report |title=Raporti Vjetor i Auditimit 2022 |publisher=Zyra Kombëtare e Auditimit |year=2023 |access-date=4 tetor 2026 |language=sq}}</ref>
+
+Privatizimi i funksioneve të shpërndarjes dhe furnizimit të ish-KEK-ut ishte po ashtu objekt debatesh publike. IFC-ja këshilloi Qeverinë e Kosovës në procesin e privatizimit, ndërsa KEDS-i iu shit konsorciumit Çalık–Limak për 26.3 milionë euro. Vlerësime të mëvonshme të Bankës Botërore kanë vërejtur se disa palë të interesuara argumentuan se çmimi i shitjes e nënvlerësonte ndërmarrjen, ndërsa Zyra e Këshilltarit për Pajtueshmëri/Ombudsmanit e IFC-së arriti në përfundimin se IFC-ja kishte trajtuar në mënyrë adekuate rreziqet përkatëse.<ref>{{Cite web |title=World Bank Group Support to Kosovo’s Energy Transition |url=https://ieg.worldbankgroup.org/evaluations/world-bank-group-kosovo-fiscal-years-2012-25/chapter-5-world-bank-group-support-kosovos |publisher=Independent Evaluation Group, World Bank Group |access-date=4 tetor 2026 |language=en}}</ref>
+
+== Shih edhe ==
+
+* [[Energjia në Kosovë]]
+* [[Termocentrali Kosova A]]
+* [[Termocentrali Kosova B]]
+* [[KOSTT]]
+* [[KEDS]]
+* [[Zyra e Rregullatorit për Energji]]
+
+== Referencat ==
+
+{{Reflist}}
+
+== Lidhje të jashtme ==
+
+* [https://kek-energy.com/ Faqja zyrtare e Korporatës Energjetike të Kosovës]
+* [https://me.rks-gov.net/njpmnp/korporata-energjetike-e-kosoves/ KEK në Njësinë për Politika dhe Monitorim të Ndërmarrjeve Publike]
+* [https://www.ero-ks.org/ Zyra e Rregullatorit për Energji]
+
+[[Kategoria:Kompanitë e Kosovës]]
+[[Kategoria:Ndërmarrjet publike në Kosovë]]
+[[Kategoria:Energjia në Kosovë]]
+[[Kategoria:Kompanitë energjetike]]

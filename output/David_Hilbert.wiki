@@ -1,0 +1,366 @@
+{{Short description|Matematikan gjerman (1862–1943)}}
+{{Redirect|Hilbert}}
+{{Use dmy dates|date=December 2023}}
+{{Infobox scientist
+| name              = David Hilbert
+| image             = Hilbert.jpg
+| caption           = Hilbert në 1912
+| birth_date        = {{birth date|1862|1|23|df=y}}
+| birth_place       = [[Kaliningradi|Königsberg]] ose Wehlau, Mbretëria e Prusisë
+| death_date        = {{death date and age|1943|2|14|1862|1|23|df=y}}
+| death_place       = [[Göttingen]], Gjermania naziste
+| field             = [[Matematika]], fizika, filozofia
+| work_institutions = Universiteti i Königsbergut<br />Universiteti i Gëtingenit
+| education         = Universiteti i Königsbergut (PhD)
+| thesis_title      = Mbi vetitë e invariantave të formave binare speciale, veçanërisht të funksioneve harmonike sferike
+| thesis_year       = 1885
+| doctoral_advisor  = Ferdinand von Lindemann<ref name="Lindemann">{{MathGenealogy|id=7298}}</ref>
+| doctoral_students = {{collapsible list
+|Wilhelm Ackermann
+|Heinrich Behmann
+|Felix Bernstein
+|Otto Blumenthal
+|Anne Bosworth
+|Werner Boy
+|Ugo Broggi
+|Richard Courant
+|Haskell Curry
+|Max Dehn
+|Ludwig Föppl
+|Rudolf Fueter
+|Paul Funk
+|Kurt Grelling
+|Alfréd Haar
+|Erich Hecke
+|Earle Hedrick
+|Ernst Hellinger
+|Wallie Hurwitz
+|Margarete Kahn
+|Oliver Kellogg
+|Hellmuth Kneser
+|Robert König|[[Emanuel Lasker]]
+|Klara Löbenstein|Charles Max Mason
+|Alexander Myller
+|Erhard Schmidt
+|Kurt Schütte
+|Andreas Speiser
+|Hugo Steinhaus
+|Gabriel Sudan
+|Teiji Takagi
+|Hermann Weyl
+|Ernst Zermelo
+|title={{nbsp}}
+}}
+| notable_students  = Edward Kasner<br />[[John von Neumann]]<br />[[Emanuel Lasker]]<br />Carl Gustav Hempel
+| known_for         = {{ill|Teorema e bazës së Hilbertit|en|Hilbert's basis theorem}}<br />{{ill|Nullstellensatz-i i Hilbertit|en|Hilbert's Nullstellensatz}}<br />{{ill|Aksiomat e Hilbertit|en|Hilbert's axioms}}<br />{{ill|Problemet e Hilbertit|en|Hilbert's problems}}<br />{{ill|Programi i Hilbertit|en|Hilbert's program}}<br />{{ill|Veprimi Einstein–Hilbert|en|Einstein–Hilbert action}}<br />[[Hapësira e Hilbertit]]<br />Sistemi Hilbert<br />Kalkuli epsilon
+| prizes            = Çmimi Lobaçevski <small>(1903)</small><br />Çmimi Bolyai <small>(1910)</small><br />ForMemRS <small>(1928)</small><ref name="frs">{{Cite journal|last1=Weyl|first1=H.|author-link=Hermann Weyl|title=David Hilbert. 1862–1943|doi=10.1098/rsbm.1944.0006|doi-access=free|journal=Obituary Notices of Fellows of the Royal Society|volume=4|issue=13|pages=547–553|year=1944|s2cid=161435959|language=en}}</ref>
+| spouse            = Käthe Jerosch
+| children          = Franz (l. 1893)
+}}
+
+'''David Hilbert''' ({{IPA|de|ˈdaːvɪt ˈhɪlbɐt|lang}}; 23 janar 1862 – 14 shkurt 1943) ishte një matematikan dhe filozof i matematikës gjerman, një nga matematikanët më me ndikim të të gjitha kohërave.
+
+Hilberti zbuloi dhe zhvilloi një gamë të gjerë idesh themelore, përfshirë {{ill|teorinë e invariantave|en|Invariant theory}}, {{ill|llogaritjen e variacioneve|en|Calculus of variations}}, {{ill|algjebrën komutative|en|Commutative algebra}}, {{ill|teorinë algjebrike të numrave|en|Algebraic number theory}}, {{ill|themelet e gjeometrisë|en|Hilbert's axioms}}, {{ill|teorinë spektrale|en|Spectral theory}} të operatorëve dhe zbatimin e saj në {{ill|ekuacionet integrale|en|Integral equation}}, {{ill|fizikën matematikore|en|Mathematical physics}}, dhe {{ill|themelet e matematikës|en|Foundations of mathematics}} (veçanërisht {{ill|teorinë e vërtetimit|en|Proof theory}}). Ai përqafoi dhe mbrojti teorinë e bashkësive të [[Georg Cantor]]it dhe numrat transfinitë. Në vitin 1900, ai paraqiti një përmbledhje problemesh që përcaktoi drejtimin e kërkimit matematikor të shekullit XX.<ref>{{cite web|last1=Joyce|first1=David|title=The Mathematical Problems of David Hilbert|url=https://mathcs.clarku.edu/~djoyce/hilbert/|website=Clark University|access-date=2021-01-15|language=en}}</ref><ref>{{cite web|last1=Hilbert|first1=David|title=Mathematical Problems|url=https://mathcs.clarku.edu/~djoyce/hilbert/problems.html|access-date=2021-01-15|language=en}}</ref>
+
+Hilberti dhe studentët e tij kontribuan në vendosjen e rigorozitetit dhe zhvilluan mjete të rëndësishme të përdorura në fizikën moderne matematikore. Ai ishte bashkëthemelues i teorisë së vërtetimit dhe i logjikës matematikore.<ref>{{cite encyclopedia|url=https://plato.stanford.edu/entries/hilbert-program/|title=Hilbert's Program|encyclopedia=Stanford Encyclopedia of Philosophy|author=Zach, Richard|author-link=Richard Zach|date=2003-07-31|access-date=2009-03-23|language=en}}</ref>
+
+== Jeta ==
+
+=== Fëmijëria dhe arsimimi ===
+Hilberti, i pari nga dy fëmijë dhe djali i vetëm i Ottos, gjyqtar i qarkut, dhe i Maria Therese Hilbert (e lindur Erdtmann), vajza e një tregtari, lindi në Provincën e Prusisë, Mbretëria e Prusisë, qoftë në Königsberg, sot Kaliningrad, (sipas deklaratës së vetë Hilbertit) ose në Wehlau (i njohur që nga viti 1946 si Znamensk) pranë Königsbergut, ku i ati punonte në kohën e lindjes së tij. Gjyshi i tij nga babai ishte David Hilbert, gjyqtar dhe ''Geheimrat''. E ëma, Maria, kishte interes për filozofinë, astronominë dhe numrat e thjeshtë, ndërsa i ati, Otto, i mësoi virtytet pruse. Pasi i ati u bë gjyqtar qyteti, familja u vendos në Königsberg. Motra e Davidit, Elise, lindi kur ai ishte gjashtë vjeç. Ai filloi shkollën në moshën tetë vjeç, dy vjet më vonë se mosha e zakonshme e fillimit.<ref>{{Harvnb|Reid|1996|p=[https://books.google.com/books?id=mR4SdJGD7tEC&pg=PA1 1–3]}}; gjithashtu në [https://books.google.com/books?id=mR4SdJGD7tEC&pg=PA8 f. 8], Reid vëren se ka njëfarë paqartësie se ku saktësisht lindi Hilberti. Vetë Hilberti deklaroi se kishte lindur në Königsberg.</ref>
+
+Në fund të vitit 1872, Hilberti u regjistrua në gjimnazin Friedrichskolleg (''Collegium fridericianum'', e njëjta shkollë ku [[Immanuel Kant]] kishte studiuar 140 vjet më parë); por, pas një periudhe të pakëndshme, ai u transferua (në fund të 1879) dhe u diplomua (në fillim të 1880) nga Wilhelm Gymnasium, më i orientuar drejt shkencave. {{Sfn|Reid|1996|p=[https://books.google.com/books?id=mR4SdJGD7tEC&pg=PA4 4–7]}} Pas diplomimit, në vjeshtën e vitit 1880, Hilberti u regjistrua në Universitetin e Königsbergut, "Albertina". Në fillim të vitit 1882, Hermann Minkowski (dy vjet më i ri se Hilberti dhe gjithashtu i lindur në Königsberg, por që kishte kaluar tre semestra në Berlin), {{Sfn|Reid|1996|p=[https://books.google.com/books?id=mR4SdJGD7tEC&pg=PA11 11]}} u kthye në Königsberg dhe u regjistrua në universitet. Hilberti zhvilloi një miqësi të përjetshme me Minkowskin, të ndrojtur dhe të talentuar.{{Sfn|Reid|1996|p=[https://books.google.com/books?id=mR4SdJGD7tEC&pg=PA12 12]}}<ref>{{citation|first=Hermann|last=Weyl|title=Levels of Infinity/Selected writings on Mathematics and Philosophy|chapter=David Hilbert and his Mathematical Work|page=94|year=2012|publisher=Dover|editor=Peter Pesic|isbn=978-0-486-48903-2|language=en}}</ref>
+
+=== Karriera ===
+{{Multiple image|image1=David Hilbert 1886.jpg|image2=David Hilbert, 1907.jpg|caption2=Hilberti në 1907|caption1=Hilberti në 1886|direction=horizontal|align=left|total_width=390}}
+Në vitin 1884, Adolf Hurwitz erdhi nga Göttingeni si ''Extraordinarius'' (d.m.th., profesor i asociuar). Filloi një shkëmbim shkencor intensiv dhe frytdhënës mes të treve, dhe Minkowski e Hilberti veçanërisht do të ushtronin një ndikim të ndërsjellë njëri mbi tjetrin gjatë karrierave të tyre shkencore. Hilberti mori doktoraturën në vitin 1885, me një disertacion, të shkruar nën mbikëqyrjen e Ferdinand von Lindemann-it,<ref name="Lindemann"/> i titulluar ''Über invariante Eigenschaften spezieller binärer Formen, insbesondere der Kugelfunktionen'' ("Mbi vetitë e invariantave të formave binare speciale, veçanërisht të funksioneve harmonike sferike").
+
+Hilberti mbeti në Universitetin e Königsbergut si ''Privatdozent'' (lektor i lartë) nga 1886 deri 1895. Në vitin 1895, si rezultat i ndërhyrjes në favor të tij nga Felix Klein, ai mori postin e Profesorit të Matematikës në Universitetin e Gëtingenit. Gjatë viteve të Kleinit dhe Hilbertit, Gëtingeni u bë institucioni kryesor në botën matematikore.<ref>{{citation|first=Jeff|last=Suzuki|title=Mathematics in Historical Context|year=2009|publisher=Mathematical Association of America|isbn=978-0-88385-570-6|page=342|url=https://books.google.com/books?id=lew5IC5piCwC&q=gottingen+mathematics&pg=PA342|language=en}}</ref> Ai mbeti atje për pjesën tjetër të jetës së tij.
+
+[[File:Mathematik Göttingen.jpg|thumb|right|Instituti Matematik në Göttingen. Ndërtesa e tij e re, e ndërtuar me fonde nga Fondacioni Rockefeller, u hap nga Hilberti dhe Couranti në 1930.]]
+
+=== Shkolla e Gëtingenit ===
+Mes studentëve të Hilbertit ishin Hermann Weyl, kampioni i shahut [[Emanuel Lasker]], Ernst Zermelo dhe Carl Gustav Hempel. [[John von Neumann]] ishte asistenti i tij. Në Universitetin e Gëtingenit, Hilberti ishte i rrethuar nga një rreth shoqëror i disa prej matematikanëve më të rëndësishëm të shekullit XX, si [[Emmy Noether]] dhe Alonzo Church.
+
+Mes 69 studentëve të tij të doktoraturës në Gëtingen ishin shumë që më vonë u bënë matematikanë të famshëm, përfshirë (me datën e tezës): Otto Blumenthal (1898), Felix Bernstein (1901), Hermann Weyl (1908), Richard Courant (1910), Erich Hecke (1910), Hugo Steinhaus (1911) dhe Wilhelm Ackermann (1925).<ref>{{cite web|url=https://genealogy.math.ndsu.nodak.edu/html/id.phtml?id=7298|title=The Mathematics Genealogy Project – David Hilbert|access-date=2007-07-07|language=en}}</ref> Mes viteve 1902 dhe 1939 Hilberti ishte redaktor i ''Mathematische Annalen'', revista kryesore matematikore e kohës. Ai u zgjodh Anëtar Ndërkombëtar i Akademisë Kombëtare të Shkencave të Shteteve të Bashkuara në vitin 1907.<ref>{{Cite web|title=David Hilbert|url=https://www.nasonline.org/directory-entry/david-hilbert-vt6cev/|access-date=2023-06-30|website=www.nasonline.org|language=en}}</ref>
+
+=== Jeta personale ===
+[[File:ConstantinCaratheodory KatheHilbert MFO633.jpg|thumb|Käthe Hilbert me Constantin Carathéodory-n, para 1932]]
+{{Multiple image|image1=David Hilbert and Käthe Jerosch.png|image2=FranzHilbert MFO.jpg|caption2=Franz Hilbert|caption1=Hilberti dhe gruaja e tij Käthe Jerosch (1892)|direction=horizontal|align=left|total_width=370}}
+Në vitin 1892, Hilberti u martua me Käthe Jerosch (1864–1945), vajza e një tregtari nga Königsbergu, "një zonjë e re e sinqertë me një pavarësi mendimi që përputhej [me atë të Hilbertit]." {{Sfn|Reid|1996|p=[https://books.google.com/books?id=mR4SdJGD7tEC&pg=PA36 36]}} Ndërsa ishin në Königsberg, ata patën fëmijën e tyre të vetëm, Franz Hilbert (1893–1969).
+Franzi vuajti gjatë gjithë jetës nga sëmundje mendore, dhe pasi u shtrua në një klinikë psikiatrike, Hilberti tha: "Që tani e tutje, duhet ta konsideroj veten sikur të mos kem djalë." Qëndrimi i tij ndaj Franzit i solli Käthes një hidhërim të konsiderueshëm.{{Sfn|Reid|1996|p=[https://books.google.com/books?id=mR4SdJGD7tEC&pg=PA139 139]}}
+
+Hilberti e konsideronte matematikanin Hermann Minkowski "mikun e tij më të mirë dhe më të vërtetë".{{Sfn|Reid|1996|p=121}}
+
+Hilberti u pagëzua dhe u rrit si kalvinist në Kishën Evangjelike Prusiane.<ref group=lower-alpha>Deri në atë kohë, Hilbertët kishin lënë kishën protestante kalviniste në të cilën ishin pagëzuar dhe martuar. – Reid 1996, f. 91</ref> Më vonë ai la Kishën dhe u bë agnostik.<ref name=hilbertagnostic group=lower-alpha>David Hilberti dukej agnostik dhe nuk kishte të bënte fare me teologjinë apo edhe fenë. Constance Reid tregon një histori për këtë temë: <blockquote>Deri në atë kohë [rreth 1902] Hilbertët kishin lënë Kishën Protestante Reformuese në të cilën ishin pagëzuar dhe martuar. Në Gëtingen tregohej se, kur [djali i David Hilbertit] Franzi filloi shkollën, nuk mund t'i përgjigjej pyetjes "Ç'fe je?" (1970, f. 91)</blockquote> Në fjalimin e vitit 1927 në Hamburg, Hilberti pohoi: "matematika është një shkencë pa parakushte (die Mathematik ist eine voraussetzungslose Wissenschaft)" dhe "për ta themeluar atë nuk kam nevojë për një Zot të mirë ([z]u ihrer Begründung brauche ich weder den lieben Gott)" (1928, f. 85; van Heijenoort, 1967, f. 479). Megjithatë, nga ''Mathematische Probleme'' (1900) deri te ''Naturerkennen und Logik'' (1930), ai vendosi besimin e tij quasi-fetar te fryma njerëzore dhe te fuqia e mendimit të pastër, me fëmijën e tij të dashur — matematikën. Ai ishte thellësisht i bindur se çdo problem matematikor mund të zgjidhej me arsye të pastër: si në matematikë ashtu edhe në çdo pjesë të shkencës natyrore (nëpërmjet matematikës) nuk kishte "asnjë ignorabimus" (Hilbert, 1900, f. 262; 1930, f. 963; Ewald, 1996, f. 1102, 1165). Kjo është arsyeja pse gjetja e një baze të brendshme absolute për matematikën u bë vepra e jetës së Hilbertit. Ai nuk e la kurrë këtë qëndrim, dhe është simbolike që fjalët e tij "wir müssen wissen, wir werden wissen" ("ne duhet të dimë, ne do të dimë") nga fjalimi i tij i vitit 1930 në Königsberg u gdhendën në varrin e tij. Këtu, ndeshemi me një fantazmë të teologjisë së zhdukur (për të modifikuar fjalët e George Berkeley-t), pasi absolutizimi i njohjes njerëzore nënkupton identifikimin e saj në heshtje me atë hyjnore. — {{cite journal|last=Shaposhnikov|first=Vladislav|year=2016|title=Theological Underpinnings of the Modern Philosophy of Mathematics. Part II: The Quest for Autonomous Foundations|journal=Studies in Logic, Grammar and Rhetoric|volume=44|issue=1|pages=147–168|doi=10.1515/slgr-2016-0009|doi-access=free|language=en}}</ref> Ai gjithashtu argumentoi se e vërteta matematikore ishte e pavarur nga ekzistenca e Zotit apo supozime të tjera ''a priori''.<ref group=lower-alpha>"Matematika është një shkencë pa parakushte. Për ta themeluar atë nuk kam nevojë për Zotin, siç bën Kroneckeri, apo supozimin e një aftësie të veçantë të kuptimit tonë të përshtatur me parimin e induksionit matematik, siç bën Poincaré, apo intuitën primare të Brouwerit, apo, së fundi, siç bëjnë Russelli dhe Whitehead, aksiomat e pafundësisë, reduktibilitetit apo plotësisë, të cilat në fakt janë supozime aktuale, përmbajtjesore, që nuk mund të kompensohen nga prova qëndrueshmërie." David Hilbert, ''Die Grundlagen der Mathematik'', Programi i Hilbertit, 22C:096, Universiteti i Iowa-s.</ref><ref group=lower-alpha>{{cite book|title=Science, Worldviews and Education|year=2009|publisher=Springer|isbn=978-90-481-2779-5|page=129|author=Michael R. Matthews|quote=As is well known, Hilbert rejected Leopold Kronecker's God for the solution of the problem of the foundations of mathematics.|language=en}}</ref> Kur Galileo Galilei u kritikua për mosmbrojtjen e bindjeve të tij lidhur me teorinë heliocentrike, Hilberti kundërshtoi: "Por [Galileo] nuk ishte idiot. Vetëm një idiot mund të besonte se e vërteta shkencore ka nevojë për martirizim; kjo mund të jetë e nevojshme në fe, por rezultatet shkencore vërtetohen vetë me kalimin e kohës."<ref group=lower-alpha>{{cite book|author1=Constance Reid|author2=Hermann Weyl|title=Hilbert|url=https://archive.org/details/hilbert0000reid_e2z0|url-access=registration|date=1970|publisher=Springer-Verlag|isbn=978-0-387-04999-1|page=92|quote=Perhaps the guests would be discussing Galileo's trial and someone would blame Galileo for failing to stand up for his convictions. "But he was not an idiot," Hilbert would object. "Only an idiot could believe that scientific truth needs martyrdom; that may be necessary in religion, but scientific results prove themselves in due time."|language=en}}</ref>
+
+=== Vitet e fundit ===
+Ashtu si [[Albert Einstein]]i, Hilberti kishte kontakte të ngushta me Grupin e Berlinit, themeluesit kryesorë të të cilit kishin studiuar nën Hilbertin në Gëtingen (Kurt Grelling, Hans Reichenbach dhe Walter Dubislav).<ref>{{cite book|first1=Nikolay|last1=Milkov|first2=Volker|last2=Peckhaus|chapter=The Berlin Group and the Vienna Circle: Affinities and Divergences|url=https://philpapers.org/archive/MILTBG-2.pdf|archive-url=https://web.archive.org/web/20140820161819/http://philpapers.org/archive/MILTBG-2.pdf|archive-date=2014-08-20|url-status=live|page=20|date=2013-01-01|doi=10.1007/978-94-007-5485-0_1|title=The Berlin Group and the Philosophy of Logical Empiricism|access-date=2021-05-19|series=Boston Studies un the Philosophy and History of Science|volume=273|isbn=978-94-007-5485-0|oclc=7325392474|language=en}}</ref>
+
+Rreth vitit 1925, Hilbertit iu shfaq anemia pernicioze, atëherë një mangësi vitaminash e patrajtueshme, simptoma kryesore e së cilës është lodhja e skajshme; asistenti i tij Eugene Wigner e përshkroi si të prekur nga "lodhje e jashtëzakonshme" dhe se "dukej mjaft i moshuar", dhe se, edhe pasi u diagnostikua dhe u trajtua, "vështirë se ishte shkencëtar pas 1925, dhe me siguri jo një Hilbert".<ref>{{cite book|date=1992-10-01|first2=Andrew|last2=Szanton|first1=Eugene P.|last1=Wigner|title=The Recollections of Eugene P. Wigner|publisher=Plenum|isbn=0-306-44326-0|language=en}}</ref>
+
+Hilberti u zgjodh në Shoqërinë Amerikane të Filozofisë në vitin 1932.<ref>{{Cite web|title=APS Member History|url=https://search.amphilsoc.org/memhist/search?creator=David+Hilbert&title=&subject=&subdiv=&mem=&year=&year-max=&dead=&keyword=&smode=advanced|access-date=2023-06-30|website=search.amphilsoc.org|language=en}}</ref>
+
+Hilberti jetoi aq gjatë sa të shihte pastrimin nazist të shumë prej anëtarëve kryesorë të fakultetit të Universitetit të Gëtingenit në vitin 1933.<ref>{{cite web|first=Steve|last=Tappan|url=http://www.atomicheritage.org/index.php/component/content/167.html?task=view|title="Shame" at Göttingen|access-date=2013-06-05|archive-date=2013-11-05|archive-url=https://web.archive.org/web/20131105154634/http://www.atomicheritage.org/index.php/component/content/167.html?task=view|url-status=dead|language=en}} (kolegët e Hilbertit u përzunë)</ref> Mes atyre që u detyruan të largohen ishin Hermann Weyl (i cili kishte marrë karrigen e Hilbertit kur ai doli në pension në 1930), Emmy Noether dhe Edmund Landau. Njëri prej atyre që u detyrua të largohej nga Gjermania, Paul Bernays, kishte bashkëpunuar me Hilbertin në logjikën matematikore, dhe kishte bashkautorizuar me të librin e rëndësishëm ''Grundlagen der Mathematik''<ref>{{cite journal|url=https://www.nature.com/articles/136126a0|title=Grundlagen der Mathematik|last=Milne-Thomson|first=L|date=1935|journal=Nature|volume=136|issue=3430|pages=126–127|doi=10.1038/136126a0|bibcode=1935Natur.136..126M|s2cid=4122792|access-date=2023-12-15|quote=This is probably the most important book on mathematical foundations that has appeared since Whitehead and Russell's "Principia Mathematica".|url-access=subscription|language=en}}</ref> (i cili përfundimisht doli në dy vëllime, në 1934 dhe 1939). Ky ishte një vazhdim i librit Hilbert–Ackermann ''Principles of Mathematical Logic'' (1928). Pasardhësi i Hermann Weyl-it ishte Helmut Hasse.<ref>{{Cite web|title=Helmut Hasse - Biography|url=https://mathshistory.st-andrews.ac.uk/Biographies/Hasse/|access-date=2025-07-01|website=Maths History|language=en}}</ref>
+
+Rreth një vit pas pastrimit, Hilberti mori pjesë në një banket dhe u ul pranë Ministrit të ri të Arsimit, Bernhard Rust. Rusti pyeti nëse "Instituti Matematik vuajti me të vërtetë kaq shumë për shkak të largimit të hebrenjve". Hilberti u përgjigj: "Vuajti? Nuk ekziston më fare, apo jo?"<ref>{{cite book|first=Eckart|last=Menzler-Trott|title=Gentzens Problem. Mathematische Logik im nationalsozialistischen Deutschland.|publisher=Birkhäuser|date=2001|isbn=3-764-36574-9|location=Auflage|page=142|language=de}}</ref><ref>{{cite book|first=Hajo G.|last=Meyer|title=Tragisches Schicksal. Das deutsche Judentum und die Wirkung historischer Kräfte: Eine Übung in angewandter Geschichtsphilosophie|publisher=Frank & Timme|date=2008|isbn=978-3-865-96174-7|page=202|language=de}}</ref>
+
+=== Vdekja ===
+[[File:Göttingen Stadtfriedhof Grab David Hilbert.jpg|thumb|Varri i Hilbertit:<br />''Wir müssen wissen''<br />''Wir werden wissen'']]
+Deri kur vdiq Hilberti në 1943, nazistët e kishin ristafuar pothuajse plotësisht universitetin, pasi shumë prej anëtarëve të mëparshëm të fakultetit ishin ose hebrenj ose të martuar me hebrenj. Në funeralin e Hilbertit morën pjesë më pak se një duzinë njerëzish, vetëm dy prej të cilëve ishin akademikë kolegë, mes tyre Arnold Sommerfeld, fizikant teorik dhe gjithashtu i lindur në Königsberg.{{Sfn|Reid|1996|p=213}} Lajmi për vdekjen e tij u bë i njohur për botën e gjerë vetëm disa muaj pas vdekjes së tij.{{Sfn|Reid|1996|p=214}}
+
+Epitafi në gurin e tij të varrit në Gëtingen përbëhet nga rreshtat e famshëm që ai shqiptoi në përfundim të fjalimit të tij të daljes në pension para Shoqërisë së Shkencëtarëve dhe Mjekëve Gjermanë më 8 shtator 1930. Fjalët u dhanë si përgjigje ndaj maksimës latine: "''Ignoramus et ignorabimus''" ose "Nuk dimë dhe nuk do të dimë":{{Sfn|Reid|1996|p=192}}
+
+{{blockquote|<poem>
+Wir müssen wissen.
+Wir werden wissen.
+</poem>
+''(Ne duhet të dimë. Ne do të dimë.)''}}
+
+Një ditë përpara se Hilberti të shqiptonte këto fjalë në mbledhjen vjetore të vitit 1930 të Shoqërisë së Shkencëtarëve dhe Mjekëve Gjermanë, Kurt Gödeli — në një diskutim tryeze të rrumbullakët gjatë Konferencës mbi Epistemologjinë, mbajtur bashkërisht me mbledhjet e Shoqërisë — njoftoi në mënyrë të kujdesshme shprehjen e parë të {{ill|teoremës së tij të mosplotësisë|en|Gödel's incompleteness theorem}}.<ref group=lower-alpha>"Konferenca mbi Epistemologjinë e Shkencave të Sakta zgjati tri ditë, nga 5 deri më 7 shtator" (Dawson 1997:68). "Ajo ... u mbajt në lidhje me dhe pak para mbledhjes së nëntëdhjetenjëtë vjetore të Shoqërisë së Shkencëtarëve dhe Mjekëve Gjermanë ... dhe Asamblesë së gjashtë të Fizikantëve dhe Matematikanëve Gjermanë.... Fjalimi i kontribuar i Gödelit u mbajt të shtunën, 6 shtator [1930], nga ora 3 deri në 3:20 pasdite, dhe të dielën mbledhja përfundoi me një diskutim tryeze të rrumbullakët të fjalimeve të ditës së parë. Gjatë këtij të fundit ngjarje, pa paralajmërim dhe pothuajse rastësisht, Gödeli njoftoi qetësisht se "dikush mund të japë madje shembuj propozicionesh (dhe në fakt të llojit të Goldbachut ose Fermatit) që, ndërkohë që janë të vërteta për nga përmbajtja, janë të paprovueshme në sistemin formal të matematikës klasike [153]" (Dawson:69) "... Siç ndodhi, vetë Hilberti ishte i pranishëm në Königsberg, megjithëse me sa duket jo në Konferencën mbi Epistemologjinë. Një ditë pas diskutimit të tryezës së rrumbullakët, ai mbajti fjalimin hapës para Shoqërisë së Shkencëtarëve dhe Mjekëve Gjermanë — fjalimin e tij të famshëm ''Naturerkennen und Logik'' (Njohja e natyrës dhe logjika), në fund të të cilit deklaroi: 'Për matematikanin nuk ka Ignorabimus, dhe, sipas mendimit tim, aspak edhe për shkencën natyrore. ... Arsyeja e vërtetë pse [askush] nuk ka arritur të gjejë një problem të pazgjidhshëm është, sipas mendimit tim, se nuk ka ''asnjë'' problem të pazgjidhshëm. Në kundërshtim me Ignorabimus-in e marrë, kredoja jonë thotë: Ne duhet të dimë, Ne do të dimë [159]'"(Dawson:71). Punimi i Gödelit u pranua më 17 nëntor 1930 (krh. Reid f. 197, van Heijenoort 1976:592) dhe u botua më 25 mars 1931 (Dawson 1997:74). Por Gödeli kishte mbajtur një fjalim për të më parë... "Një abstrakt ishte paraqitur në tetor 1930 pranë Akademisë së Shkencave të Vjenës nga Hans Hahn" (van Heijenoort:592); ky abstrakt dhe punimi i plotë të dyja shfaqen te van Heijenoort:583ff.</ref> Teoremat e mosplotësisë të Gödelit tregojnë se edhe sistemet aksiomatike elementare si aritmetika e Peanos janë ose vetë-kontradiktore ose përmbajnë propozicione logjike që janë të pamundura për t'u vërtetuar ose hedhur poshtë brenda atij sistemi.
+== Kontributet në matematikë dhe fizikë ==
+
+=== Zgjidhja e Problemit të Gordanit ===
+Puna e parë e Hilbertit mbi funksionet e invariantit e çoi atë në demonstrimin, në vitin 1888, të ''teoremës së tij të famshme të fundshmërisë''. Njëzet vjet më parë, Paul Gordan kishte demonstruar teoremën e fundshmërisë së gjeneratorëve për format binare duke përdorur një qasje llogaritëse komplekse. Përpjekjet për të përgjithësuar metodën e tij në funksione me më shumë se dy variabla dështuan për shkak të vështirësisë së jashtëzakonshme të llogaritjeve të përfshira. Për të zgjidhur atë që ishte njohur në disa rrethe si ''Problemi i Gordanit'', Hilberti kuptoi se ishte e nevojshme të ndiqte një rrugë krejtësisht të ndryshme. Si rezultat, ai demonstroi ''teoremën e bazës të Hilbertit'', duke treguar ekzistencën e një bashkësie të fundme gjeneratorësh, për invariantet e formave algjebrike në çdo numër variablash, por në një formë abstrakte. Domethënë, ndërkohë që demonstronte ekzistencën e një bashkësie të tillë, kjo nuk ishte një provë konstruktive — nuk shfaqte "një objekt" — por përkundrazi ishte një provë ekzistence{{Sfn|Reid|1996|p=[https://books.google.com/books?id=mR4SdJGD7tEC&pg=PA36 36–37]}} dhe mbështetej në përdorimin e ligjit të të mesit të përjashtuar në një zgjerim të pafundëm.
+
+Hilberti ia dërgoi rezultatet e tij ''Mathematische Annalen''-it. Gordani, eksperti i shtëpisë për teorinë e invariantave për ''Mathematische Annalen''-in, nuk mundi ta vlerësonte natyrën revolucionare të teoremës së Hilbertit dhe e refuzoi artikullin, duke kritikuar ekspozimin sepse nuk ishte mjaftueshëm gjithëpërfshirës. Komenti i tij ishte:
+
+{{blockquote|<poem>
+Das ist nicht Mathematik. Das ist Theologie.
+</poem>
+''(Kjo nuk është matematikë. Kjo është teologji.){{Sfn|Reid|1996|p=34}}''}}
+
+Klein, nga ana tjetër, e njohu rëndësinë e punës, dhe garantoi se ajo do të botohej pa asnjë ndryshim. I inkurajuar nga Klein, Hilberti e zgjeroi metodën e tij në një artikull të dytë, duke ofruar vlerësime mbi shkallën maksimale të bashkësisë minimale të gjeneratorëve, dhe e dërgoi edhe një herë te ''Annalen''-i. Pasi lexoi dorëshkrimin, Klein i shkroi, duke thënë:
+
+{{blockquote|Pa dyshim kjo është puna më e rëndësishme mbi algjebrën e përgjithshme që ''Annalen''-i ka botuar ndonjëherë.{{Sfn|Reid|1996|p=195}}}}
+
+Më vonë, pasi dobia e metodës së Hilbertit u njoh universalisht, vetë Gordani do të thoshte:
+
+{{blockquote|Jam bindur se edhe teologjia ka meritat e veta.<ref name=":0">{{harvnb|Reid|1996|p=[https://books.google.com/books?id=mR4SdJGD7tEC&pg=PA37 37].}}</ref>}}
+
+Përkundër gjithë suksesit të tij, natyra e provës së tij krijoi më shumë telashe sesa mund ta kishte imagjinuar Hilberti. Megjithëse Kronecker ishte dorëzuar, Hilberti më vonë do t'u përgjigjej kritikave të ngjashme të të tjerëve se "shumë ndërtime të ndryshme përfshihen nën një ide themelore" — me fjalë të tjera (për të cituar Reid): "Përmes një prove ekzistence, Hilberti kishte qenë në gjendje të merrte një ndërtim"; "prova" (d.m.th. simbolet në faqe) ''ishte'' "objekti".<ref name=":0"/> Jo të gjithë u bindën. Ndërsa Kronecker do të vdiste së shpejti pas kësaj, filozofia e tij konstruktiviste do të vazhdonte me të riun Brouwer dhe "shkollën" e tij po zhvillimtare intuicioniste, për mundim të madh të Hilbertit në vitet e tij të fundit.<ref>krh. {{harvnb|Reid|1996|pp=148–149.}}</ref> Në të vërtetë, Hilberti do ta humbiste "nxënësin e tij të talentuar" Weyl-in për intuicionizmin — "Hilberti u shqetësua nga magjepsja e ish-studentit të tij me idetë e Brouwerit, gjë që zgjoi te Hilberti kujtimin e Kroneckerit".{{Sfn|Reid|1996|p=148}} Brouweri, intuicionisti, kundërshtoi veçanërisht përdorimin e Ligjit të të Mesit të Përjashtuar mbi bashkësi të pafundme (siç e kishte përdorur Hilberti). Hilberti u përgjigj:
+
+{{blockquote|T'i marrësh Parimin e të Mesit të Përjashtuar matematikanit ... është njësoj si ... t'i ndalosh boksierit përdorimin e grushteve të tij.{{Sfn|Reid|1996|p=150}}}}
+
+=== Nullstellensatz-i ===
+{{Hatnote|Artikulli kryesor: {{ill|Nullstellensatz-i i Hilbertit|en|Hilbert's Nullstellensatz}}}}
+Në lëmin e algjebrës, një fushë quhet ''algjebrikisht e mbyllur'' nëse dhe vetëm nëse çdo polinom mbi të ka një rrënjë në të. Nën këtë kusht, Hilberti dha një kriter për kur një bashkësi polinomesh <math>(p_\lambda)_{\lambda \in \Lambda}</math> me <math>n</math> variabla ka një rrënjë ''të përbashkët'': Ky është rasti nëse dhe vetëm nëse nuk ekzistojnë polinome <math>q_1, \ldots, q_k</math> dhe indekse <math>\lambda_1, \ldots, \lambda_k</math> të tilla që
+:<math>1 = \sum_{j=1}^k p_{\lambda_j}(\vec x) q_j(\vec x)</math>.
+Ky rezultat njihet si '''teorema e rrënjës së Hilbertit''', ose "Hilberts Nullstellensatz" në gjermanisht. Ai gjithashtu vërtetoi se korrespondenca mes idealeve zhdukëse dhe bashkësive të tyre zhdukëse është bijektive mes varieteteve afine dhe idealeve radikale në <math>\C[x_1, \ldots, x_n]</math>.
+
+=== Kurba ===
+{{Hatnote|Artikulli kryesor: {{ill|Kurba e Hilbertit|en|Hilbert curve}}}}
+[[File:Hilbert_curve_production_rules!.svg|thumb|Rregullat e zëvendësimit]]
+
+Në mars 1890, Giuseppe Peano kishte botuar një artikull në ''Mathematische Annalen'' që përshkruante kurbën e parë historike që mbush hapësirën. Në përgjigje, Hilberti dizajnoi ndërtimin e tij të një kurbe të tillë, e cila tani quhet ''kurba e Hilbertit''. Përafrimet e kësaj kurbe ndërtohen në mënyrë të përsëritur sipas rregullave të zëvendësimit në figurën e parë të kësaj pjese. Vetë kurba është pastaj kufiri pikësor.
+
+[[File:Hilbert_curve.svg|thumb|center|Gjashtë përafrimet e para me kurbën e Hilbertit]]
+
+=== Aksiomatizimi i gjeometrisë ===
+{{Hatnote|Artikulli kryesor: {{ill|Aksiomat e Hilbertit|en|Hilbert's axioms}}}}
+
+Teksti ''Grundlagen der Geometrie'' (përkth.: ''Themelet e Gjeometrisë''), botuar nga Hilberti në 1899, propozon një bashkësi formale, të quajtur aksiomat e Hilbertit, që zëvendëson aksiomat tradicionale të Euklidit. Ato shmangin dobësitë e identifikuara në ato të Euklidit, veprat e të cilit në atë kohë ende përdoreshin si tekst shkollor. Është e vështirë të specifikohen aksiomat e përdorura nga Hilberti pa iu referuar historisë së botimit të ''Grundlagen''-it, pasi Hilberti i ndryshoi dhe i modifikoi disa herë. Monografia origjinale u pasua shpejt nga një përkthim frëngjisht, në të cilin Hilberti shtoi V.2, Aksiomën e Plotësisë. Një përkthim anglisht, i autorizuar nga Hilberti, u bë nga E.J. Townsend dhe u mbrojt me të drejta autori në 1902.<ref>{{harvnb|Hilbert|1950}}</ref><ref>G. B. Mathews (1909) [https://www.nature.com/nature/journal/v80/n2066/pdf/080394a0.pdf The Foundations of Geometry] nga ''Nature'' 80:394,5 (#2066)</ref> Ky përkthim përfshiu ndryshimet e bëra në përkthimin frëngjisht dhe kështu konsiderohet një përkthim i botimit të 2-të. Hilberti vazhdoi të bënte ndryshime në tekst dhe disa botime u shfaqën në gjermanisht. Botimi i 7-të ishte i fundit që u shfaq gjatë jetës së Hilbertit. Botime të reja ndoqën të 7-tin, por teksti kryesor thelbësisht nuk u rishikua.<ref group=lower-alpha>Në mënyrë të pavarur dhe njëkohësisht, një student amerikan 19-vjeçar i quajtur Robert Lee Moore botoi një bashkësi ekuivalente aksiomash. Disa nga aksiomat përputhen, ndërsa disa nga aksiomat në sistemin e Moore-it janë teorema në atë të Hilbertit dhe anasjelltas.</ref>
+
+Qasja e Hilbertit shënoi kalimin drejt metodës moderne aksiomatike. Në këtë, Hilberti u paraprijë nga puna e Moritz Pasch-it e vitit 1882. Aksiomat nuk merren si të vërteta vetvetiu të qarta. Gjeometria mund të trajtojë ''gjëra'', për të cilat kemi intuita të fuqishme, por nuk është e nevojshme t'u caktohet kuptim eksplicit koncepteve të papërcaktuara. Elementet, si pika, drejtëza, plani, dhe të tjera, mund të zëvendësoheshin, siç raportohet se Hilberti i ka thënë Schoenflies-it dhe Kötter-it, me tavolina, karrige, gota birre dhe objekte të tjera të tilla.<ref>{{cite book|author=Otto Blumenthal|title=Lebensgeschichte|year=1935|volume=3|pages=388–429|publisher=Julius Springer|editor=David Hilbert|series=Gesammelte Abhandlungen|url=http://gdz-lucene.tc.sub.uni-goettingen.de/gcs/gcs?action=pdf&metsFile=PPN237834022&divID=LOG_0001&pagesize=original&pdfTitlePage=http://gdz.sub.uni-goettingen.de/dms/load/pdftitle/?metsFile=PPN237834022%7C&targetFileName=PPN237834022_LOG_0001.pdf&|access-date=2018-09-06|archive-url=https://web.archive.org/web/20160304122623/http://gdz-lucene.tc.sub.uni-goettingen.de/gcs/gcs?action=pdf&metsFile=PPN237834022&divID=LOG_0001&pagesize=original&pdfTitlePage=http%3A%2F%2Fgdz.sub.uni-goettingen.de%2Fdms%2Fload%2Fpdftitle%2F%3FmetsFile%3DPPN237834022%7C&targetFileName=PPN237834022_LOG_0001.pdf&|archive-date=2016-03-04|url-status=dead|author-link=Otto Blumenthal|language=de}} Këtu: f. 402-403</ref> Janë marrëdhëniet e tyre të përcaktuara ato që diskutohen.
+
+Hilberti fillimisht numëron konceptet e papërcaktuara: pika, drejtëza, plani, të ndodhurit mbi (një relacion mes pikave dhe drejtëzave, pikave dhe planeve, dhe drejtëzave dhe planeve), ndërmjetësia, kongruenca e çifteve të pikave (segmentet e drejtëzës), dhe kongruenca e këndeve. Aksiomat bashkojnë si gjeometrinë plane ashtu edhe gjeometrinë e ngurtë të Euklidit në një sistem të vetëm.
+
+=== 23 problemet ===
+{{Hatnote|Artikulli kryesor: {{ill|Problemet e Hilbertit|en|Hilbert's problems}}}}
+Hilberti paraqiti një listë prej 23 problemesh të pazgjidhura në Kongresin Ndërkombëtar të Matematikanëve në Paris në 1900. Kjo listë, që përfshin Hipotezën e Riemannit, konsiderohet përgjithësisht si përmbledhja më e suksesshme dhe më thellësisht e menduar e problemeve të hapura ndonjëherë e prodhuar nga një matematikan i vetëm.
+
+Pasi rishikoi themelet e gjeometrisë klasike, Hilberti mund ta kishte zgjeruar këtë qasje në pjesën tjetër të matematikës. Qasja e tij ndryshoi nga ajo e mëvonshme "themelvëniese" e Russell–Whitehead-it apo "enciklopediste" e Nicolas Bourbaki-t, dhe nga bashkëkohësi i tij Giuseppe Peano. E gjithë komuniteti matematikor mund të angazhohej në problemet që ai kishte identifikuar si aspekte kyçe të fushave të rëndësishme të matematikës.
+
+Bashkësia e problemeve u lançua si një fjalim, "Problemet e Matematikës", i mbajtur gjatë Kongresit të Dytë Ndërkombëtar të Matematikanëve, mbajtur në Paris. Hyrja e fjalimit që mbajti Hilberti thoshte:
+
+{{blockquote|Cili prej nesh nuk do të gëzohej ta ngrinte perden pas së cilës fshihet e ardhmja; të hidhte një vështrim te përparimet e ardhshme të shkencës sonë dhe te sekretet e zhvillimit të saj gjatë shekujve të ardhshëm? Cilat qëllime të veçanta do të ketë drejt të cilave do të përpiqen frymat kryesore matematikore të brezave të ardhshëm? Cilat metoda dhe fakte të reja në fushën e gjerë dhe të pasur të mendimit matematikor do të zbulojnë shekujt e rinj?<ref name="BAMSProblems">{{cite journal|last=Hilbert|first=David|translator-last1=Winston Newson|translator-first1=Mary|translator-link1=Mary Frances Winston Newson|title=Mathematical problems|journal=Bulletin of the American Mathematical Society|volume=8|issue=10|date=1902|issn=0273-0979|doi=10.1090/S0002-9904-1902-00923-3|doi-access=free|pages=437–479|language=en}}</ref>}}
+
+Ai paraqiti më pak se gjysmën e problemeve në Kongres, të cilat u botuan në aktet e Kongresit. Në një botim pasues, ai zgjeroi panoramën, dhe arriti në formulimin e tanimë-kanonikeve 23 Problemeve të Hilbertit (shih edhe Problemin e njëzetekatërt të Hilbertit). Teksti i plotë është i rëndësishëm, pasi ekzegjeza e pyetjeve ende mund të jetë çështje debati kur pyetet se sa prej tyre janë zgjidhur.
+
+Disa prej tyre u zgjidhën brenda një kohe të shkurtër. Të tjera janë diskutuar gjatë gjithë shekullit XX, me disa tani të konsideruara si të papërshtatshme e të hapura për t'u mbyllur. Disa vazhdojnë të mbeten sfida.
+
+Në vijim janë titujt për 23 problemet e Hilbertit ashtu siç u shfaqën në përkthimin e vitit 1902 në ''Bulletin of the American Mathematical Society''.
+
+: 1. Problemi i Cantorit mbi numrin kardinal të kontinuumit.
+: 2. Përputhshmëria e aksiomave aritmetike.
+: 3. Barazia e vëllimeve të dy tetraedrave me baza të barabarta dhe lartësi të barabarta.
+: 4. Problemi i drejtëzës si distanca më e shkurtër ndërmjet dy pikave.
+: 5. Koncepti i Lie-t për një grup të vazhdueshëm transformimesh pa supozimin e diferencueshmërisë së funksioneve që përcaktojnë grupin.
+: 6. Trajtimi matematikor i aksiomave të fizikës.
+: 7. Iracionaliteti dhe transhendenca e disa numrave të caktuar.
+: 8. Probleme të numrave të thjeshtë (Hipoteza e Riemannit).
+: 9. Prova e ligjit më të përgjithshëm të reciprocitetit në çdo fushë numerike.
+: 10. Përcaktimi i zgjidhshmërisë së një ekuacioni diofantin.
+: 11. Format kuadratike me çfarëdo koeficientësh numerikë algjebrikë.
+: 12. Zgjerimet e teoremës së Kroneckerit mbi fushat abeliane në çdo mbretëri algjebrike racionaliteti.
+: 13. Pamundësia e zgjidhjes së ekuacionit të përgjithshëm të shkallës së 7-të nëpërmjet funksioneve me vetëm dy argumente.
+: 14. Prova e fundshmërisë së disa sistemeve të plota funksionesh.
+: 15. Themelimi rigoroz i kalkulit numërues të Schubert-it.
+: 16. Problemi i topologjisë së kurbave dhe sipërfaqeve algjebrike.
+: 17. Shprehja e formave të përcaktuara me katrorë.
+: 18. Ndërtimi i hapësirës nga poliedra kongruente.
+: 19. A janë zgjidhjet e problemeve të rregullta në llogaritjen e variacioneve gjithmonë domosdoshmërisht analitike?
+: 20. Problemi i përgjithshëm i vlerave kufitare (Probleme të vlerave kufitare në ekuacionet me derivate të pjesshme).
+: 21. Prova e ekzistencës së ekuacioneve diferenciale lineare me një grup të parashikuar monodromie.
+: 22. Uniformizimi i relacioneve analitike nëpërmjet funksioneve automorfe.
+: 23. Zhvillimi i mëtejshëm i metodave të llogaritjes së variacioneve.
+
+=== Formalizmi ===
+Në një rrëfim që ishte bërë standard nga mesi i shekullit, bashkësia e problemeve të Hilbertit ishte gjithashtu një lloj manifesti që hapi rrugën për zhvillimin e {{ill|shkollës formaliste|en|Formalism (mathematics)}}, një nga tri shkollat kryesore të matematikës të shekullit XX. Sipas formalistit, matematika është manipulim simbolesh sipas rregullave formale të pranuara. Prandaj është një aktivitet autonom i mendimit.
+
+==== Programi ====
+{{Hatnote|Artikulli kryesor: {{ill|Programi i Hilbertit|en|Hilbert's program}}}}
+Në vitin 1920, Hilberti propozoi një projekt kërkimor në metamatematikë që u bë i njohur si programi i Hilbertit. Ai donte që matematika të formulohej mbi një bazë logjike solide dhe të plotë. Ai besonte se, në parim, kjo mund të bëhej duke treguar se:
+
+# e gjithë matematika rrjedh nga një sistem i fundëm aksiomash i zgjedhur saktë; dhe
+# se një sistem i tillë aksiomash mund të provohet i qëndrueshëm nëpërmjet ndonjë mjeti si kalkuli epsilon.
+
+Ai duket se ka pasur arsye si teknike ashtu edhe filozofike për ta formuluar këtë propozim. Ai afirmoi mospëlqimin e tij për atë që ishte njohur si ignorabimus-i, ende një çështje aktive në kohën e tij në mendimin gjerman, dhe që gjurmohet mbrapa në atë formulim te Emil du Bois-Reymond.<ref>{{Cite book|last=Finkelstein|first=Gabriel|title=Emil du Bois-Reymond: Neuroscience, Self, and Society in Nineteenth-Century Germany|date=2013|publisher=The MIT Press|isbn=978-0262019507|location=Cambridge; London|pages=265–289|language=en}}</ref>
+
+Ky program mbetet i njohshëm në filozofinë e matematikës më të njohur, ku zakonisht quhet ''formalizëm''. Për shembull, grupi Bourbaki miratoi një version të holluar dhe selektiv të tij si të mjaftueshëm për kërkesat e dy projekteve të tyre binjake: (a) shkrimin e veprave themelore enciklopedike, dhe (b) mbështetjen e metodës aksiomatike si mjet kërkimi. Kjo qasje ka qenë e suksesshme dhe me ndikim në lidhje me punën e Hilbertit në algjebër dhe analizën funksionale, por ka dështuar të angazhohet në të njëjtën mënyrë me interesat e tij në fizikë dhe logjikë.
+
+Hilberti shkroi në 1919:
+
+{{blockquote|Nuk po flasim këtu për arbitraritet në asnjë kuptim. Matematika nuk është si një lojë detyrat e së cilës përcaktohen nga rregulla të stipuluara në mënyrë arbitrare. Përkundrazi, është një sistem konceptual që zotëron një domosdoshmëri të brendshme që mund të jetë vetëm kështu e në asnjë mënyrë tjetër.<ref>Hilbert, D. (1919–20), Natur und Mathematisches Erkennen: Vorlesungen, gehalten 1919–1920 in Göttingen. Nach der Ausarbeitung von Paul Bernays (redaktuar dhe me një hyrje angleze nga David E. Rowe), Basel, Birkhäuser (1992).</ref>}}
+
+Hilberti botoi pikëpamjet e tij mbi themelet e matematikës në veprën me 2 vëllime, ''Grundlagen der Mathematik''.
+
+==== Puna e Gödelit ====
+Hilberti dhe matematikanët që punuan me të në këtë ndërmarrje ishin të përkushtuar ndaj projektit. Përpjekja e tij për të mbështetur matematikën e aksiomatizuar me parime përfundimtare, që mund të shpartallonin pasiguritë teorike, përfundoi në dështim.
+
+Gödeli demonstroi se çdo sistem formal i qëndrueshëm që është mjaftueshëm i fuqishëm për të shprehur aritmetikën bazë nuk mund ta provojë plotësinë e vet duke përdorur vetëm aksiomat dhe rregullat e veta të inferencës. Në vitin 1931, teorema e tij e mosplotësisë tregoi se plani i madh i Hilbertit ishte i pamundur ashtu siç ishte parashtruar. Pika e dytë nuk mund të kombinohet në asnjë mënyrë të arsyeshme me pikën e parë, përderisa sistemi i aksiomave është vërtet finitar.
+
+Sidoqoftë, arritjet pasuese të teorisë së vërtetimit të paktën ''sqaruan'' qëndrueshmërinë ashtu siç lidhet me teoritë me interes qendror për matematikanët. Puna e Hilbertit e kishte nisur logjikën në këtë rrugë sqarimi; nevoja për të kuptuar punën e Gödelit çoi më pas në zhvillimin e teorisë së rekursionit dhe më pas të logjikës matematikore si një disiplinë autonome në vitet 1930. Baza për shkencën e mëvonshme kompjuterike teorike, në punën e Alonzo Church-it dhe Alan Turing-ut, gjithashtu doli drejtpërdrejt nga ky "debat".<ref>{{Cite journal|last=Reichenberger|first=Andrea|date=2019-01-31|title=From Solvability to Formal Decidability: Revisiting Hilbert's "Non-Ignorabimus"|url=https://scholarship.claremont.edu/jhm/vol9/iss1/5|journal=Journal of Humanistic Mathematics|volume=9|issue=1|pages=49–80|doi=10.5642/jhummath.201901.05|s2cid=127398451|issn=2159-8118|doi-access=free|language=en}}</ref>
+
+=== Analiza funksionale ===
+Rreth vitit 1909, Hilberti iu përkushtua studimit të ekuacioneve diferenciale dhe integrale; puna e tij pati pasoja të drejtpërdrejta për pjesë të rëndësishme të analizës funksionale moderne. Për të kryer këto studime, Hilberti prezantoi konceptin e një hapësire euklidiane me dimensione të pafundme, të quajtur më vonë hapësira e Hilbertit. Puna e tij në këtë pjesë të analizës siguroi bazën për kontribute të rëndësishme në matematikën e fizikës gjatë dy dekadave në vijim, megjithëse nga një drejtim i papritur. Më vonë, Stefan Banach e zgjeroi konceptin, duke përkufizuar hapësirat Banach. Hapësirat Hilbert janë një klasë e rëndësishme objektesh në fushën e analizës funksionale, veçanërisht të teorisë spektrale të operatorëve linearë vetë-shtrënguar, që u zhvillua përreth saj gjatë shekullit XX.
+
+=== Fizika ===
+Deri në 1912, Hilberti ishte pothuajse ekskluzivisht një matematikan i pastër. Kur planifikonte një vizitë nga Bonni, ku ishte i zhytur në studimin e fizikës, kolegu dhe miku i tij matematikan Hermann Minkowski bëri shaka se duhej të kalonte 10 ditë në karantinë para se të mund ta vizitonte Hilbertin. Në fakt, Minkowski duket i përgjegjshëm për shumicën e hulumtimeve fizike të Hilbertit para 1912, përfshirë seminarin e tyre të përbashkët mbi temën në 1905.
+
+Në vitin 1912, tre vjet pas vdekjes së mikut të tij, Hilberti e ktheu fokusin e tij te kjo fushë pothuajse ekskluzivisht. Ai u organizua të kishte një "tutor fizike" për vete. Ai filloi të studionte teorinë kinetike të gazrave dhe kaloi te teoria elementare e rrezatimit dhe teoria molekulare e materies. Edhe pas fillimit të luftës në 1914, ai vazhdoi seminaret dhe klasat ku veprat e Albert Einstein-it dhe të tjerëve ndiqeshin nga afër.
+
+Deri në 1907, Einsteini kishte formuluar bazat e teorisë së gravitetit, por më pas u përpoq për gati 8 vjet ta vendoste teorinë në formën e saj përfundimtare.<ref>Isaacson 2007:218</ref> Takimi me Emmy Noether-in në Gëtingen ishte instrumental në përparimin e tij të madh.<ref>{{cite book|title=Einsten's Tutor: The Story of Emmy Noether and the Invention of Modern Physics|last=Phillips|first=Lee|year=2024|isbn=978-1541702950|publisher=PublicAffairs|language=en}}</ref> Deri në fillim të verës së 1915, interesi i Hilbertit në fizikë ishte fokusuar te relativiteti i përgjithshëm, dhe ai e ftoi Einsteinin në Gëtingen për të mbajtur një javë leksionesh mbi temën.<ref>{{harvnb|Sauer|1999}}; {{harvnb|Fölsing|1998}}; Isaacson 2007:212</ref> Einsteini u prit me entuziazëm në Gëtingen.<ref>Isaacson 2007:213</ref> Gjatë verës, Einsteini mësoi se Hilberti po punonte gjithashtu mbi ekuacionet e fushës dhe i dyfishoi përpjekjet e tij. Gjatë nëntorit 1915, Einsteini botoi disa punime që kulmuan me ''The Field Equations of Gravitation'' (shih ekuacionet e fushës të Einsteinit).<ref group=lower-alpha>Me kalimin e kohës, lidhja e ekuacioneve të fushës gravitacionale me emrin e Hilbertit u bë gjithnjë e më pak e zakonshme. Një përjashtim i dukshëm është P. Jordan (Schwerkraft und Weltall, Braunschweig, Vieweg, 1952), i cili i quajti ekuacionet e gravitetit në vakum ekuacionet Einstein–Hilbert. (Leo Corry, ''David Hilbert and the Axiomatization of Physics'', f. 437)</ref> Pothuajse njëkohësisht, Hilberti botoi "The Foundations of Physics", një derivim aksiomatik i ekuacioneve të fushës (shih {{ill|veprimin Einstein–Hilbert|en|Einstein–Hilbert action}}). Hilberti ia atribuoi plotësisht Einsteinit origjinën e teorisë dhe asnjë mosmarrëveshje publike përparësie lidhur me ekuacionet e fushës nuk lindi kurrë mes dy burrave gjatë jetës së tyre.<ref group=lower-alpha>Që nga viti 1971 ka pasur disa diskutime të gjalla dhe shkencore rreth se cili prej dy burrave paraqiti i pari formën tani të pranuar të ekuacioneve të fushës. "Hilberti pranoi lirshëm, dhe deklaroi shpesh në leksione, se ideja e madhe ishte e Einsteinit: 'Çdo djalë në rrugët e Gëtingenit kupton më shumë për gjeometrinë katërdimensionale sesa Einsteini,' vërejti ai një herë. 'Megjithatë, përkundër kësaj, Einsteini bëri punën dhe jo matematikanët.'" (Reid 1996, f. 141–142, gjithashtu Isaacson 2007:222 duke cituar Thorne f. 119).</ref>
+
+Përveç kësaj, puna e Hilbertit parashikoi dhe ndihmoi disa përparime në formulimin matematikor të mekanikës kuantike. Puna e tij ishte një aspekt kyç i punës së Hermann Weyl-it dhe John von Neumann-it mbi ekuivalencën matematikore të mekanikës matricore të Werner Heisenberg-ut dhe ekuacionit valor të Erwin Schrödinger-it, dhe hapësira e tij homonime, Hapësira Hilbert, luan një rol të rëndësishëm në teorinë kuantike. Në vitin 1926, von Neumann-i tregoi se, nëse gjendjet kuantike kuptoheshin si vektorë në Hapësirën Hilbert, ato do të korrespondonin si me teorinë e funksionit valor të Schrödinger-it ashtu edhe me matricat e Heisenberg-ut.<ref group=lower-alpha>Në vitin 1926, viti pas formulimit të mekanikës matricore të teorisë kuantike nga Max Born-i dhe Werner Heisenberg-u, matematikani John von Neumann u bë asistent i Hilbertit në Gëtingen. Kur von Neumann-i u largua në 1932, libri i von Neumann-it mbi themelet matematikore të mekanikës kuantike, bazuar në matematikën e Hilbertit, u botua nën titullin ''Mathematische Grundlagen der Quantenmechanik''. Shih: Norman Macrae (1999) ''John von Neumann: The Scientific Genius Who Pioneered the Modern Computer, Game Theory, Nuclear Deterrence, and Much More'' (ribotuar nga American Mathematical Society) dhe Reid (1996).</ref>
+
+Gjatë kësaj zhytjeje në fizikë, Hilberti punoi për të vendosur rigorozitet në matematikën e fizikës. Ndërkohë që ishin shumë të varur nga matematika e lartë, fizikantët prireshin të ishin "të pakujdesshëm" me të. Për një matematikan të pastër si Hilberti, kjo ishte njëkohësisht e shëmtuar dhe e vështirë për t'u kuptuar. Ndërsa filloi ta kuptonte fizikën dhe mënyrën se si fizikantët e përdornin matematikën, ai zhvilloi një teori koherente matematikore për atë që gjeti — më e rëndësishmja, në fushën e ekuacioneve integrale. Kur kolegu i tij Richard Courant shkroi veprën tani klasike ''Methoden der mathematischen Physik'' (''Metodat e Fizikës Matematikore''), duke përfshirë disa nga idetë e Hilbertit, ai shtoi emrin e Hilbertit si autor, edhe pse Hilberti nuk kishte kontribuar drejtpërdrejt në shkrimin e saj. Hilberti tha "Fizika është shumë e vështirë për fizikantët", duke nënkuptuar se matematika e nevojshme ishte përgjithësisht përtej aftësive të tyre; libri Courant–Hilbert ua bëri më të lehtë atyre.
+
+=== Teoria e numrave ===
+Hilberti bashkoi fushën e teorisë algjebrike të numrave me traktatin e tij të vitit 1897 ''Zahlbericht'' (fjalë për fjalë "raport mbi numrat"). Ai gjithashtu zgjidhi një problem të rëndësishëm të teorisë së numrave, të formuluar nga Waring në 1770. Ashtu si me teoremën e fundshmërisë, ai përdori një provë ekzistence që tregon se duhet të ketë zgjidhje për problemin, në vend që të ofrojë një mekanizëm për të prodhuar përgjigjet.{{sfn|Reid|1996|p=114}} Ai më pas kishte pak më shumë për të botuar mbi temën; por shfaqja e formave modulare të Hilbertit në disertacionin e një studenti do të thotë që emri i tij mbetet i lidhur më tej me një fushë të madhe.
+
+Ai bëri një sërë hamendjesh mbi teorinë e fushës së klasës. Konceptet ishin shumë me ndikim, dhe kontributi i tij vetjak jeton më tej në emrat e fushës së klasës të Hilbertit dhe të simbolit të Hilbertit të teorisë lokale të fushës së klasës. Rezultatet u vërtetuan kryesisht deri në 1930, pas punës nga Teiji Takagi.<ref group=lower-alpha>Kjo punë e vendosi Takagin si matematikanin e parë të Japonisë me përmasa ndërkombëtare.</ref>
+
+Hilberti nuk punoi në fushat qendrore të teorisë analitike të numrave, por emri i tij është bërë i njohur për hamendjen Hilbert–Pólya, për arsye që janë anekdotike. Ernst Hellinger, një student i Hilbertit, i tregoi një herë André Weil-it se Hilberti kishte njoftuar në seminarin e tij në fillim të viteve 1900 se priste që prova e Hipotezës së Riemannit të ishte pasojë e punës së Fredholm-it mbi ekuacionet integrale me një bërthamë simetrike.<ref name="Weil anecdote">{{citation|first1=S.|last1=Endres|first2=F.|last2=Steiner|year=2009|title=The Berry–Keating operator on <math>L^2({\mathbb R}_>,{\rm d}x)</math> and on compact quantum graphs with general self-adjoint realizations|journal=Journal of Physics A: Mathematical and Theoretical|volume=43|issue=9|page=37|doi=10.1088/1751-8113/43/9/095204|arxiv=0912.3183v5|s2cid=115162684|language=en}}</ref>
+
+== Veprat ==
+Veprat e tij të mbledhura (''Gesammelte Abhandlungen'') janë botuar disa herë. Versionet origjinale të punimeve të tij përmbanin "shumë gabime teknike të shkallëve të ndryshme";<ref>{{harvnb|Reid|1996}}, kap. 13.</ref> kur koleksioni u botua për herë të parë, gabimet u korrigjuan dhe u zbulua se kjo mund të bëhej pa ndryshime të mëdha në formulimet e teoremave, me një përjashtim — një provë e pretenduar e {{ill|hipotezës së kontinuumit|en|continuum hypothesis}}.{{sfn|Sieg|2013|p=284-285}}<ref name="Rota97">Rota G.-C. (1997), "[https://www.ams.org/notices/199701/comm-rota.pdf Ten lessons I wish I had been taught]", ''Notices of the AMS'', 44: 22–25.</ref> Gabimet ishin megjithatë aq të shumta dhe të rëndësishme sa i deshën Olga Taussky-Todd-it tre vjet për t'i bërë korrigjimet.<ref name="Rota97"/>
+== Shiko edhe ==
+
+=== Koncepte ===
+{{Div col|colwidth=15em}}
+* {{ill|Lista e gjërave të quajtura sipas David Hilbertit|en|List of things named after David Hilbert}}
+* {{ill|Themelet e gjeometrisë|en|Foundations of geometry}}
+* {{ill|Hilbert C*-moduli|en|Hilbert C*-module}}
+* {{ill|Kubi i Hilbertit|en|Hilbert cube}}
+* {{ill|Kurba e Hilbertit|en|Hilbert curve}}
+* {{ill|Matrica e Hilbertit|en|Hilbert matrix}}
+* {{ill|Metrika e Hilbertit|en|Hilbert metric}}
+* {{ill|Kriteri Hilbert–Mumford|en|Hilbert–Mumford criterion}}
+* {{ill|Numri i Hilbertit|en|Hilbert number}}
+* {{ill|Unaza e Hilbertit|en|Hilbert ring}}
+* {{ill|Seria Hilbert–Poincaré|en|Hilbert–Poincaré series}}
+* {{ill|Seria dhe polinomi i Hilbertit|en|Hilbert series and Hilbert polynomial}}
+* [[Hapësira e Hilbertit]]
+* {{ill|Spektri i Hilbertit|en|Hilbert spectrum}}
+* {{ill|Sistemi i Hilbertit|en|Hilbert system}}
+* [[Transformimi i Hilbertit]]
+* {{ill|Aritmetika e skajeve e Hilbertit|en|Hilbert's arithmetic of ends}}
+* {{ill|Paradoksi i Hotelit të Madh të Hilbertit|en|Hilbert's paradox of the Grand Hotel}}
+* {{ill|Operatori Hilbert–Schmidt|en|Hilbert–Schmidt operator}}
+* {{ill|Hamendja Hilbert–Smith|en|Hilbert–Smith conjecture}}
+
+=== Teorema ===
+* {{ill|Teorema Hilbert–Burch|en|Hilbert–Burch theorem}}
+* {{ill|Teorema e pareduktueshmërisë e Hilbertit|en|Hilbert's irreducibility theorem}}
+* {{ill|Nullstellensatz-i i Hilbertit|en|Hilbert's Nullstellensatz}}
+* {{ill|Teorema e Hilbertit (gjeometria diferenciale)|en|Hilbert's theorem (differential geometry)}}
+* {{ill|Teorema 90 e Hilbertit|en|Hilbert's Theorem 90}}
+* {{ill|Teorema e sizigjive e Hilbertit|en|Hilbert's syzygy theorem}}
+* {{ill|Teorema Hilbert–Speiser|en|Hilbert–Speiser theorem}}
+
+=== Të tjera ===
+* {{ill|Kontroversia Brouwer–Hilbert|en|Brouwer–Hilbert controversy}}
+* {{ill|Metoda e drejtpërdrejtë në llogaritjen e variacioneve|en|Direct method in the calculus of variations}}
+* {{ill|Entscheidungsproblem-i|en|Entscheidungsproblem}}
+* ''{{ill|Gjeometria dhe Imagjinata|en|Geometry and the Imagination}}''
+* {{ill|Mosmarrëveshja e përparësisë mbi relativitetin e përgjithshëm|en|General relativity priority dispute}}
+{{Div col end}}
+
+== Shënime ==
+{{Listë shënimesh|group=lower-alpha}}
+
+== Citime ==
+{{Reflist|25em}}
+
+== Burimet ==
+
+=== Literatura parësore në përkthim anglisht ===
+* {{cite book|editor=Ewald, William B.|year=1996|title=From Kant to Hilbert: A Source Book in the Foundations of Mathematics|publisher=Oxford University Press|location=Oxford, UK|language=en}}
+** 1918. "Axiomatic thought," 1114–1115.
+** 1922. "The new grounding of mathematics: First report," 1115–1133.
+** 1923. "The logical foundations of mathematics," 1134–1147.
+** 1930. "Logic and the knowledge of nature," 1157–1165.
+** 1931. "The grounding of elementary number theory," 1148–1156.
+** 1904. "On the foundations of logic and arithmetic," 129–138.
+** 1925. "On the infinite," 367–392.
+** 1927. "The foundations of mathematics," me koment nga Weyl dhe Shtojcë nga Bernays, 464–489.
+* {{cite book|author-link=Jean van Heijenoort|first=Jean|last=van Heijenoort|year=1967|title=From Frege to Gödel: A source book in mathematical logic, 1879–1931|publisher=Harvard University Press|language=en}}
+* {{cite book|last=Hilbert|first=David|title=The Foundations of Geometry [Grundlagen der Geometrie]|edition=2nd|publisher=Open Court Publishing|place=La Salle, IL|year=1950|orig-year=1902|translator=Townsend, E.J.|url=http://www.gutenberg.org/files/17384/17384-pdf.pdf|archive-url=https://web.archive.org/web/20051228050734/http://www.gutenberg.org/files/17384/17384-pdf.pdf|archive-date=2005-12-28|url-status=live|language=en}}
+* {{cite book|last=Hilbert|first=David|title=Foundations of Geometry [Grundlagen der Geometrie]|edition=2nd English|publisher=Open Court Publishing|place=La Salle, IL|year=1990|orig-year=1971|translator=Unger, Leo|quote=translated from the 10th German edition|isbn=978-0-87548-164-7|language=en}}
+* {{cite book|title=Geometry and Imagination|author1=Hilbert, David|author2=Cohn-Vossen, Stephan|year=1999|publisher=American Mathematical Society|isbn=978-0-8218-1998-2|quote=An accessible set of lectures originally for the citizens of Göttingen.|language=en}}
+* {{cite book|title=David Hilbert's Lectures on the Foundations of Mathematics and Physics, 1891–1933|author=Hilbert, David|editor1=Hallett, Michael|editor2=Majer, Ulrich|year=2004|publisher=Springer-Verlag|location=Berlin & Heidelberg|isbn=978-3-540-64373-9|language=en}}
+
+=== Literatura dytësore ===
+* {{Citation|last=Bertrand|first=Gabriel|title=Allocution|journal=Comptes rendus hebdomadaires des séances de l'Académie des sciences|place=Paris|volume=217|pages=625–640|date=1943-12-20|language=fr|url=https://gallica.bnf.fr/ark:/12148/bpt6k31698/f629.image}}, e disponueshme te Gallica. "Fjalimi" i Gabriel Bertrand-it i datës 20 dhjetor 1943 në Akademinë Franceze: ai jep skica biografike të jetëve të anëtarëve të vdekur së fundmi, përfshirë Pieter Zeeman-in, David Hilbertin dhe Georges Giraud-in.
+* Bottazzini Umberto, 2003. ''Il flauto di Hilbert. Storia della matematica''. UTET, {{isbn|88-7750-852-3}} (italisht)
+* Corry, L., Renn, J., dhe Stachel, J., 1997, "Belated Decision in the Hilbert-Einstein Priority Dispute," ''Science 278'': nn-nn.
+* {{cite book|title=David Hilbert and the Axiomatization of Physics (1898–1918): From Grundlagen der Geometrie to Grundlagen der Physik|first=Leo|last=Corry|year=2004|publisher=Springer|isbn=90-481-6719-1|language=en}}
+* Dawson, John W. Jr 1997. ''Logical Dilemmas: The Life and Work of Kurt Gödel''. Wellesley MA: A. K. Peters. {{isbn|1-56881-256-6}}
+* {{Cite book|last=Fölsing|first=Albrecht|title=Albert Einstein|publisher=Penguin|year=1998|language=de}}
+* Grattan-Guinness, Ivor, 2000. ''The Search for Mathematical Roots 1870–1940''. Princeton Univ. Press.
+* Gray, Jeremy, 2000. ''The Hilbert Challenge''. {{isbn|0-19-850651-1}}
+* {{Cite book|last=Isaacson|first=Walter|date=2007|title=Einstein: His Life and Universe|publisher=Simon & Schuster Paperbacks|location=New York|isbn=978-0-7432-6473-0|language=en}}
+* {{cite book|title=From Brouwer to Hilbert, The Debate on the Foundations of Mathematics in 1920s|first=Paolo|last=Mancosu|year=1998|publisher=Oxford Univ. Press|isbn=978-0-19-509631-6|language=en}}
+* Mehra, Jagdish, 1974. ''Einstein, Hilbert, and the Theory of Gravitation''. Reidel.
+* Odifreddi, Piergiorgio, 2003. ''Divertimento Geometrico. Le origini geometriche della logica da Euclide a Hilbert''. Bollati Boringhieri, {{isbn|88-339-5714-4}} (italisht). Një ekspozim i qartë i "gabimeve" të Euklidit dhe i zgjidhjeve të paraqitura në ''Grundlagen der Geometrie'', me referim te gjeometria joeuklidiane.
+* {{Cite book|last=Reid|first=Constance.|url=https://books.google.com/books?id=mR4SdJGD7tEC|title=Hilbert|publisher=Springer|year=1996|isbn=0-387-94674-8|location=New York|language=en}} Biografia përfundimtare në gjuhën angleze e Hilbertit.
+* {{Cite journal|last1=Rowe|first1=D. E.|doi=10.1086/368687|title=Klein, Hilbert, and the Gottingen Mathematical Tradition|journal=Osiris|volume=5|pages=186–213|year=1989|s2cid=121068952|language=en}}
+* {{cite journal|last1=Sauer|first1=Tilman|year=1999|title=The Relativity of Discovery: Hilberts First Note on the Foundations of Physics|journal=Archive for History of Exact Sciences|volume=53|issue=5|pages=529–575|arxiv=physics/9811050|bibcode=1998physics..11050S|doi=10.1007/s004070050006|language=en}}
+* {{Cite book|last=Sieg|first=Wilfried|url=https://books.google.com/books?id=4lDrwqo-8TkC|title=Hilbert's Programs and Beyond|publisher=Oxford University Press|year=2013|isbn=978-0-19-537222-9|language=en}}
+* Sieg, Wilfried, dhe Ravaglia, Mark, 2005, "Grundlagen der Mathematik" në Grattan-Guinness, I., red., ''Landmark Writings in Western Mathematics''. Elsevier: 981–99.
+* Thorne, Kip, 1995. ''Black Holes and Time Warps: Einstein's Outrageous Legacy'', W. W. Norton & Company; ribotim. {{isbn|0-393-31276-3}}
+* Georg von Wallwitz: ''Meine Herren, dies ist keine Badeanstalt. Wie ein Mathematiker das 20. Jahrhundert veränderte.'' Berenberg Verlag, Berlin 2017, ISBN 978-3-946334-24-8 (gjermanisht). Biografia përfundimtare në gjuhën gjermane e Hilbertit.
+
+== Lidhje të jashtme ==
+{{wikisource}}
+{{commons}}
+* [https://web.archive.org/web/20110517092213/http://www.ags.uni-sb.de/~cp/p/hilbertbernays/goal.htm Hilbert Bernays Project]
+* [http://aleph0.clarku.edu/~djoyce/hilbert/problems.html Adresa mbi 23 Problemet e Hilbertit]
+* [https://mathematics.conference-site.com// ICMM 2014 kushtuar kujtimit të D. Hilbertit]
+* [https://www.gutenberg.org/ebooks/author/7340 Veprat e David Hilbertit] në Project Gutenberg
+* {{Internet Archive author|sname=David Hilbert}}
+* [http://math.sfsu.edu/smith/Documents/HilbertRadio/HilbertRadio.mp3 Fjalimi radiofonik i Hilbertit, regjistruar në Königsberg në 1930 (në gjermanisht)] {{Webarchive|url=https://web.archive.org/web/20060214172824/http://math.sfsu.edu/smith/Documents/HilbertRadio/HilbertRadio.mp3|date=2006-02-14}}, me përkthim [http://math.sfsu.edu/smith/Documents/HilbertRadio/HilbertRadio.pdf në anglisht] {{Webarchive|url=https://web.archive.org/web/20201112012103/http://math.sfsu.edu/smith/Documents/HilbertRadio/HilbertRadio.pdf|date=2020-11-12}}
+* [https://mathworld.wolfram.com/HilbertsConstants.html Wolfram MathWorld – Hilbert's Constant]
+* {{MathGenealogy|id=7298}}
+* [https://web.archive.org/web/20080514013255/http://www.gresham.ac.uk/event.asp?PageId=45&EventId=628 'From Hilbert's Problems to the Future'], leksion nga Profesor Robin Wilson, Gresham College, 27 shkurt 2008 (i disponueshëm në tekst, audio dhe video).
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|David Hilbert|25 gusht 2026|1367739036}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:David Hilbert, versioni i datës 25 gusht 2026 (revizioni 1367739036)
+-->

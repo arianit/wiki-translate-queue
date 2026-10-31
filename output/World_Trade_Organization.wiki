@@ -1,0 +1,274 @@
+{{Short description|organizatë ndërqeverisive ndërkombëtare tregtare}}
+{{Redirect|OBT}}
+{{Use dmy dates|date=August 2020}}
+{{Infobox organization
+| name          = Organizata Botërore e Tregtisë
+| native_name   = Organisation mondiale du commerce; Organización Mundial del Comercio
+| native_name_lang = fr, es
+| image         = World Trade Organization (logo and wordmark).svg
+| map           = WTO members and observers.svg
+| abbreviation  = OBT
+| map_caption   = <div style="text-align:left;">{{Legend|#008000|Anëtarë}} {{Legend|#0174DF|Anëtarë, të përfaqësuar dypërfaqësisht nga [[Bashkimi Evropian]] (BE)}} {{Legend|#eeee00|Vëzhgues}} {{Legend|#ff1111|Shtete jo pjesëmarrëse}} {{Legend|#808080|Nuk zbatohet}}</div>
+| type          = {{ill|Organizata ndërqeverisive|en|Intergovernmental organization}}
+| purpose       = Ulja e tarifave dhe e penguesve të tjera tregtare
+| headquarters  = {{ill|Qendra William Rappard|en|Centre William Rappard}}, [[Gjeneva]], [[Zvicra]]
+| coordinates   = {{Coord|46|13|27|N|06|08|58|E|display=inline,title}}
+| region_served = Mbarë botë
+| num_members   = 166 anëtarë (162 shtete anëtare të Kombeve të Bashkuara, [[Bashkimi Evropian]], Hong Kongu, Makaosi dhe Tajvani)<ref>{{Cite web|title=Members and Observers|publisher=World Trade Organization|url=http://wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm|access-date=2011-09-10|language=en|archive-url=https://web.archive.org/web/20110910105304/http://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm|archive-date=2011-09-10|url-status=live}}</ref>
+| languages     = anglisht, frëngjisht, spanjisht<ref>{{Cite web|title=Languages, Documentation and Information Management Division|publisher=World Trade Organization|url=http://wto.org/english/thewto_e/secre_e/div_e.htm|access-date=2011-12-24|language=en|archive-url=https://web.archive.org/web/20111224151405/http://www.wto.org/english/thewto_e/secre_e/div_e.htm|archive-date=2011-12-24|url-status=live}}</ref>
+| leader_title  = Drejtori i Përgjithshëm
+| leader_name   = {{ill|Ngozi Okonjo-Iweala|en|Ngozi Okonjo-Iweala}}<ref name="wto-chief">{{Cite web|date=2021-02-15|title=Nigeria's Ngozi Okonjo-Iweala confirmed as WTO chief|url=http://www.theguardian.com/world/2021/feb/15/nigerias-ngozi-okonjo-iweala-confirmed-as-wto-chief|access-date=2021-03-01|website=the Guardian|language=en|archive-date=2021-03-01|archive-url=https://web.archive.org/web/20210301094825/https://www.theguardian.com/world/2021/feb/15/nigerias-ngozi-okonjo-iweala-confirmed-as-wto-chief|url-status=live}}</ref><br>(prej vitit 2021)
+| formation     = {{Start date and age|1995|01|01|df=y}}
+| budget        = CHF 204.928.900 (2024)<ref name="wtoannualreport">{{Cite web|title=WTO Annual Report 2024|url=https://www.wto.org/english/res_e/booksp_e/anrep_e/ar24_e.pdf|access-date=2025-05-22|website=www.wto.org|page=199|language=en}}</ref>
+| num_staff     = rreth 630 (më 31 dhjetor 2024)<ref>{{Cite web|title=WTO Annual Report 2024|url=https://www.wto.org/english/res_e/booksp_e/anrep_e/ar24_e.pdf|access-date=2025-05-21|website=www.wto.org|page=196|language=en}}</ref>
+| website       = https://www.wto.org/
+}}
+
+'''Organizata Botërore e Tregtisë''' ('''OBT''') është një [[Organizata ndërkombëtare|organizatë ndërkombëtare]] ndërqeverisive që rregullon dhe lehtëson [[Tregtia ndërkombëtare|tregtinë ndërkombëtare]]. E themeluar më 1 janar 1995, në zbatim të {{ill|Marrakeshi i vitit 1994|en|Marrakesh Agreement|lt=Marrakesh-it të vitit 1994}}, ajo zëvendësoi [[GATT|Marrëveshjen e Përgjithshme mbi Tarifat dhe Tregtinë]], e cila u krijua në vitin 1948. Si organizata ndërkombëtare ekonomike më e madhe në botë, OBT-ja ka 166 anëtarë, të përfaqësuar mbi 98% të tregtisë globale dhe të [[Prodhimi i Brendshëm Bruto|prodhimit të brendshëm bruto global]].<ref>{{Cite web|title=International Economic Organizations, Developing Country Reforms, and Trade|work=The Reporter|first1=Anne O.|last1=Krueger|publisher=NBER|url=http://www.nber.org/reporter/winter00/krueger.html|url-status=live|language=en|archive-url=https://web.archive.org/web/20170518033322/http://www.nber.org/reporter/winter00/krueger.html|archive-date=2017-05-18|access-date=2017-05-20}}</ref><ref>{{Cite web|title=Understanding the WTO – The GATT years: from Havana to Marrakesh|url=https://www.wto.org/english/thewto_e/whatis_e/tif_e/fact4_e.htm|url-status=live|language=en|publisher=World Trade Organization|archive-url=https://web.archive.org/web/20180305153601/https://www.wto.org/english/thewto_e/whatis_e/tif_e/fact4_e.htm|archive-date=2018-03-05|access-date=2019-03-28}}</ref><ref name="memberlist">{{Cite web|url=http://wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm|title=Members and Observers|publisher=World Trade Organization|date=2012-08-24|access-date=2011-09-10|language=en|archive-url=https://web.archive.org/web/20110910105304/http://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm|archive-date=2011-09-10|url-status=live}}</ref> Selia e saj gjendet në [[Gjeneva|Gjenevë]], në [[Zvicra|Zvicrë]].
+
+Funksionet kryesore të OBT-së janë ofrimi i një kuadri për negociimin e marrëveshjeve tregtare dhe zgjidhja e konflikteve tregtare ndërmjet anëtarëve.<ref name=":2">{{Cite news|url=http://econofact.org/u-s-trade-policy-going-it-alone-vs-abiding-by-the-world-trade-organization|title=U.S. Trade Policy: Going it Alone vs. Abiding by the WTO|date=2018-06-15|work=Econofact|access-date=2018-06-30|language=en|archive-url=https://web.archive.org/web/20180630161908/http://econofact.org/u-s-trade-policy-going-it-alone-vs-abiding-by-the-world-trade-organization|archive-date=2018-06-30|url-status=live}}</ref> Marrëveshjet e saj, të negociuara dhe të nënshkruara nga shumica e vendeve tregtare të botës dhe të ratifikuara në legjislaturat e tyre,<ref name="britannica">{{Cite encyclopedia|author1=Malanczuk, P.|title=International Organisations and Space Law: World Trade Organization|encyclopedia=Encyclopædia Britannica|volume=442|pages=305|year=1999|language=en|bibcode=1999ESASP.442..305M}}</ref> mbulojnë tregtinë e mallrave, të shërbimeve dhe të {{ill|Pronësia intelektuale|en|Intellectual property|lt=pronësisë intelektuale}}. Organizata funksionon sipas parimit të mosdiskriminimit, i përfshirë në dispozitat për {{ill|Vendi më i favorizuar|en|Most favoured nation|lt=vendin më të favorizuar}} dhe {{ill|Trajtimi kombëtar|en|National treatment|lt=trajtimin kombëtar}}, por lejon përjashtime për mbrojtjen e mjedisit, sigurinë kombëtar dhe objektiva të tjera.<ref name=":2" />
+
+Organi më i lartë vendosës i OBT-së është {{ill|Konferenca e Ministrave|en|Ministerial Conference}}, e cila mblidhet çdo dy vjet dhe merr vendime me konsensus.<ref>{{Cite web|title=WTO {{!}} Ministerial conferences|url=https://www.wto.org/english/thewto_e/minist_e/minist_e.htm|access-date=2021-02-18|website=www.wto.org|language=en|archive-date=2021-03-06|archive-url=https://web.archive.org/web/20210306211034/https://www.wto.org/english/thewto_e/minist_e/minist_e.htm|url-status=live}}</ref> Aktiviteti ditësor menaxhohet nga Këshilli i Përgjithshëm, i përbërë nga përfaqësuesit e të gjitha shteteve anëtare.<ref>{{Cite web|title=WTO {{!}} Understanding the WTO – Whose WTO is it anyway?|url=https://www.wto.org/english/thewto_e/whatis_e/tif_e/org1_e.htm|access-date=2021-02-18|website=www.wto.org|language=en|archive-date=2021-07-04|archive-url=https://web.archive.org/web/20210704133012/https://www.wto.org/english/thewto_e/whatis_e/tif_e/org1_e.htm|url-status=live}}</ref> Organizata administrohet nga Sekretariati, i udhëhequr nga {{ill|Drejtori i Përgjithshëm i Organizatës Botërore të Tregtisë|en|Director-General of the World Trade Organization}}; prej vitit 2021, këtë pozicion e mban {{ill|Ngozi Okonjo-Iweala|en|Ngozi Okonjo-Iweala}}<ref name="wto-chief" /> nga [[Nigeria|Nigerisë]]. Buxheti vjetor i organizatës është rreth 200 milionë [[Frangu zviceran|franga zvicerane]] (263 milionë [[Dollari i Shteteve të Bashkuara|dollarë amerikane]]), të cilin e kontribuojnë anëtarët sipas pjesës së tyre në tregtinë ndërkombëtare.<ref name="wtoannualreport" />
+
+Studimet ekonomike në përgjithësi arrijnë në përfundim se OBT-ja ka nxitur tregtinë dhe ka zvogëluar penguesit tregtarë.<ref>{{Cite journal|last1=Goldstein|first1=Judith L.|last2=Rivers|first2=Douglas|last3=Tomz|first3=Michael|date=2007|title=Institutions in International Relations: Understanding the Effects of the GATT and the WTO on World Trade|journal=International Organization|language=en|volume=61|issue=1|pages=37–67|doi=10.1017/S0020818307070014|issn=1531-5088|doi-access=free}}</ref><ref name=":4">{{Cite journal|last1=Tomz|first1=Michael|last2=Goldstein|first2=Judith L|last3=Rivers|first3=Douglas|date=2007|title=Do We Really Know That the WTO Increases Trade? Comment|journal=American Economic Review|language=en|volume=97|issue=5|pages=2005–2018|doi=10.1257/aer.97.5.2005|issn=0002-8282}}</ref><ref>{{Cite journal|last1=Silva|first1=Peri Agostinho|last2=Nicita|first2=Alessandro|last3=Olarreaga|first3=Marcelo|date=2018|title=Cooperation in WTO's Tariff Waters?|url=http://www.ferdi.fr/sites/www.ferdi.fr/files/publication/fichiers/p176-_ferdi_-olarreaga_and_all.pdf|journal=Journal of Political Economy|volume=126|issue=3|pages=1302–1338|language=en|doi=10.1086/697085|issn=0022-3808|s2cid=152401600|archive-url=https://web.archive.org/web/20190429100839/http://www.ferdi.fr/sites/www.ferdi.fr/files/publication/fichiers/p176-_ferdi_-olarreaga_and_all.pdf|archive-date=2019-04-29|url-status=live}}</ref> Kritikat ndaj OBT-së përfshijnë faktin se përfitjet e [[Tregtia e lirë|tregtisë së lirë]] të lehtësuar nga ajo nuk ndahen në mënyrë të barabartë, se marrëveshjet e saj mund të dëmtojnë {{ill|Vendet në zhvillim|en|Developing country|lt=vendet në zhvillim}} dhe se interesat komerciale u kanë dhënë përparësi shqetësimeve mjedisore dhe të punëtorëve.<ref name=":7">{{Cite book|last1=Joseph|first1=Sarah|url=https://books.google.com/books?id=-U_1KMg6GkgC|title=Blame it on the WTO?: A Human Rights Critique|last2=Joseph|first2=Sarah Louise|year=2011|publisher=OUP Oxford|isbn=978-0-19-956589-4|pages=164–167|language=en|access-date=2020-08-23|archive-date=2024-02-14|archive-url=https://web.archive.org/web/20240214033000/https://books.google.com/books?id=-U_1KMg6GkgC|url-status=live}}</ref><ref name="Polity">{{Cite book|last1=Wilkinson|first1=Rorden|title=What's wrong with the WTO and how to fix it|date=2014|publisher=Polity|location=Cambridge, UK|isbn=978-0-745-67245-8|url=https://www.wiley.com/en-us/What%27s+Wrong+with+the+WTO+and+How+to+Fix+It-p-9780745672458|language=en|access-date=2020-09-12|archive-date=2021-04-16|archive-url=https://web.archive.org/web/20210416030000/https://www.wiley.com/en-us/What%27s+Wrong+with+the+WTO+and+How+to+Fix+It-p-9780745672458|url-status=live}}</ref> Organizata ka luajtur gjithashtu rol qendror në mosmarëveshje të mëdha tregtare dhe negociata të bllokuara, si {{ill|Rruga e Zhvillimit të Dohës|en|Doha Development Round}} dhe paralizimi i {{ill|Trupi i Apelimit|en|Appellate Body|lt=Trupit të Apelimit}}, duke ngritur pyetje rreth efektivitetit të saj në të ardhmen.
+===Raundi i Urugait: 1986–1994===
+==Zgjidhja e moskërimeve==
+== Ndikimi ==
+== Shiko edhe ==
+=== Raundi i Urugait: 1986–1994 ===
+{{Hatnote|Artikulli kryesor: {{ill|Raundi i Urugait|en|Uruguay Round}}}}
+
+Shumë përpara 40-vjetorit të [[GATT|GATT-it]] (që pritej të shënohej në vitet 1987–1988), anëtarët e GATT-it vendosën se sistemi i GATT-i po vuante nga përshtatja me [[Ekonomia botërore|ekonominë botërore]] që po globalizohej.<ref name="G4">{{Cite book
+ |last1 = Gallagher
+ |first1 = Peter
+ |title = The First Ten Years of the WTO: 1995–2005
+ |series = Collected courses of the Academy of European Law
+ |publication-place = Cambridge
+ |publisher = Cambridge University Press
+ |year = 2005
+ |page = 4
+ |isbn = 9780521862158
+ |language = en
+}}</ref><ref name="UR">{{Cite web
+ |url = http://www.wto.org/english/thewto_e/whatis_e/tif_e/fact5_e.htm
+ |title = The Uruguay Round
+ |publisher = World Trade Organization
+ |archive-url = https://web.archive.org/web/20070320103620/http://www.wto.org/english/thewto_e/whatis_e/tif_e/fact5_e.htm
+ |archive-date = 2007-03-20
+ |language = en
+}}</ref> Në përgjigje të problemeve të identifikuara në Deklaratën e Ministrave të vitit 1982 (deficiencat strukturore, ndikimet e tepërt që politikat e disa vendeve ushtronin mbi tregtinë ndërkombëtare dhe të cilat GATT-i nuk mund t'i menaxhonte, etj.), takimi i mbajtur në {{ill|Punta del Este|es|Punta del Este}}, [[Uruguai|Uruguain]], nisi ciklin e tetë të GATT-it—i njohur si "{{ill|Raundi i Urugait|en|Uruguay Round}}"—në shtator të vitit 1986.<ref>{{Cite book
+ |publisher = General Agreement on Tariffs and Trade
+ |year = 1994
+ |title = Press Communiqué, Issues 1604–1664
+ |url = https://books.google.com/books?id=a20qAQAAMAAJ
+ |page = 22
+ |access-date = 2023-03-16
+ |quote = …&nbsp;GATT-i sapo e ka përfunduar ciklin e tetë—dhe deri në atë kohë më i ambiciosi—të negociatave, Raundi i Urugait, i nisur në shtator të vitit 1986 në Punta del Este, Urugai.
+ |archive-date = 2023-03-16
+ |archive-url = https://web.archive.org/web/20230316035154/https://books.google.com/books?id=a20qAQAAMAAJ
+ |url-status = live
+ |language = en
+}}</ref><ref>{{Cite book
+ |last1 = Gallagher
+ |first1 = Peter
+ |series = Collected courses of the Academy of European Law
+ |date = 2005-12-15
+ |chapter = Looking back, looking forward
+ |title = The First Ten Years of the WTO: 1995–2005
+ |url = https://books.google.com/books?id=QwM7dDO22-MC
+ |publication-place = Cambridge
+ |publisher = Cambridge University Press
+ |page = 133
+ |isbn = 9780521862158
+ |access-date = 2023-03-16
+ |quote = Raundi i Urugait kishte afat katërvjeçar kur u nis në vitin 1986&nbsp;…
+ |archive-date = 2024-02-14
+ |archive-url = https://web.archive.org/web/20240214033012/https://books.google.com/books?id=QwM7dDO22-MC
+ |url-status = live
+ |language = en
+}}</ref>
+
+Në kuadër të mandatit më të madh të negociatave tregtare të pranuar ndonjëherë, bisedat e Raunit të Urugait synonin ta zgjeronin sistemin tregtar në disa fusha të reja, veçanërisht në tregtinë në shërbime dhe në pronësinë intelektuale, si dhe të reformonin tregtinë në sektorët e ndjeshëm të bujqësisë dhe tekstileve; të gjitha nenet fillestare të GATT-it u parashtruan për shqyrtim.<ref name="UR"/> Akti Përfundimtar që mbylli {{ill|Raundi i Urugait|en|Uruguay Round|lt=Raudin e Urugait}} dhe krijoi zyrtarisht regjimin e WTO-së u nënshkrua më 15 prill 1994, gjatë mbledhjes ministrore në [[Marakeshi|Marakeshin]], [[Maroku|Marokun]]—i njohur si {{ill|Marrakeshi i vitit 1994|en|Marrakesh Agreement}}—.<ref>{{Cite web
+ |url = http://www.wto.org/english/docs_e/legal_e/04-wto_e.htm
+ |title = Legal texts – Marrakesh agreement
+ |publisher = World Trade Organization
+ |access-date = 2010-05-30
+ |archive-url = https://web.archive.org/web/20100525093037/http://www.wto.org/english/docs_e/legal_e/04-wto_e.htm
+ |archive-date = 2010-05-25
+ |url-status = live
+ |language = en
+}}</ref>
+
+GATT-i ekziston ende si traktati mërthësor i WTO-së për tregtinë në mallra, i përditësuar si pasojë e negocimit të Raunit të Urugait (bëhet dallim midis ''GATT 1994'', pjesëve të përditësuara të GATT-it, dhe ''GATT 1947'', marrëveshjes fillestare, e cila mbetet zemra e GATT 1994).<ref name="G4" /> Megjithatë, GATT 1994 nuk është e vetmja marrëveshje me detyrime ligjore e përfshirë nëpërmjet Aktit Përfundimtar të nënshkruar në Marakesh; u adoptua një listë e gjatë prej rreth 60 marrëveshjeve, shtojcave, vendimeve dhe kuptimeve. Marrëveshjet ndahen në gjashtë pjesë kryesore:
+* Marrëveshja për Themelimin e WTO-së
+* Marrëveshjet Multilaterale mbi Tregtinë në Mallra, duke përfshirë GATT 1994 dhe Masurat e Investimit lidhur me Tregtinë (TRIMS)
+* {{ill|Marrëveshja e Përgjithshme mbi Tregtinë në Shërbime|en|General Agreement on Trade in Services}} (GATS)
+* Marrëveshja mbi Aspektet e Tregtisë së Lidhura me Të Drejtat e Pronësisë Intelektuale (TRIPS)
+* zgjidhja e mosmarrëveshjeve<ref>{{Cite journal
+ |url = http://digitalcommons.law.scu.edu/scujil/vol2/iss1/2/
+ |title = Resolving Trade Disputes, the Mechanisms of GATT/WTO Dispute Resolution
+ |issue = 1
+ |pages = 40
+ |journal = Santa Clara Journal of International Law
+ |volume = 2
+ |access-date = 2016-04-03
+ |date = January 2004
+ |last1 = Erskine
+ |first1 = Daniel
+ |archive-url = https://web.archive.org/web/20160416222738/http://digitalcommons.law.scu.edu/scujil/vol2/iss1/2/
+ |archive-date = 2016-04-16
+ |url-status = live
+ |language = en
+}}</ref>
+* shqyrtimi i politikave tregtare të qeverive<ref name="OL">{{Cite web
+ |url = http://www.wto.org/english/thewto_e/whatis_e/tif_e/agrm1_e.htm
+ |title = Overview: a Navigational Guide
+ |publisher = World Trade Organization
+ |archive-url = https://web.archive.org/web/20070315073728/http://www.wto.org/english/thewto_e/whatis_e/tif_e/agrm1_e.htm
+ |archive-date = 2007-03-15
+ |language = en
+}}</ref>
+
+Për listën e përfundtë të «Marrëveshjeve të Raunit të Urugait», shih:
+* {{Cite web
+ |url = http://www.wto.org/english/docs_e/legal_e/legal_e.htm
+ |title = WTO legal texts
+ |publisher = World Trade Organization
+ |archive-url = https://web.archive.org/web/20051214090600/http://www.wto.org/english/docs_e/legal_e/legal_e.htm
+ |archive-date = 2005-12-14
+ |language = en
+}}
+* {{Cite web
+ |url = http://www.worldtradelaw.net/uragreements/
+ |title = Uruguay Round Agreements, Understandings, Decisions and Declarations
+ |publisher = WorldTradeLaw.net
+ |archive-url = https://web.archive.org/web/20070927223022/http://www.worldtradelaw.net/uragreements/
+ |archive-date = 2007-09-27
+ |language = en
+}}
+
+Në lidhje me [[#Parimet e sistemit tregtar|parimin e WTO-së për "lidhjen e tarifave në nivel maksimal" (nr. 3)]], Raundi i Urugait ka qenë i suksesshëm në rritjen e angazhimeve të lidhura nga të dy grupet e vendeve të zhvilluara dhe në zhvillim, siç tregojnë përqindjet e tarifave të lidhura para dhe pas bisedave të periudhës 1986–1994.
+(empty)
+No wikitext was provided to repair.
+<!-- No translated wikitext was provided for repair. -->
+{{#if:{{NAMESPACE}}|}}{{Përkthyer nga}}
+== Zgjidhja e moskërimeve ==
+{{Hatnote|Artikulli kryesor: {{ill|Zgjidhja e moskërimeve në OBT|en|Dispute settlement in the WTO}}}}
+
+Sistemi i zgjidhjes së moskërimeve të OBT-së "është rezultati i evolucionit të rregullave, procedurave dhe praktikave të zhvilluara gjatë pothuajse gjysë shekulli nën GATT 1947".<ref>{{Cite web |url=https://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c1s2p1_e.htm |title=1.2 The Dispute Settlement Understanding |publisher=WTO official website |date=2005 |language=en |access-date=2005-03-07 |archive-url=https://web.archive.org/web/20050317103153/http://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c1s2p1_e.htm |archive-date=2005-03-17 |url-status=live }}</ref> Në vitin 1994, anëtarët e OBT-së ranë dakord për Mirëthyesen mbi rregullat dhe procedurat që rregulojnë zgjidhjen e moskërimeve (DSU), e bashkëngjitur me "Aktin përfundimtar", të nënshkruar në Marrakesh në vitin 1994.<ref>Stewart-Dawyer, ''The WTO Dispute Settlement System'', 7</ref> Zgjidhja e moskërimeve konsiderohet nga OBT si shtylla qendrore e sistemit multilateral tregtar dhe si "kontribim i vetëm për stabilitetin e ekonomisë globale".<ref>S. Panitchpakdi, ''The WTO at ten'', 8.</ref> Anëtarët e OBT-së kanë rënë dakord se, nëse besojnë se anëtarët e tjerë po shkelin rregullat tregtare, do ta përdorin sistemin multilateral të zgjidhjes së moskërimeve në vend të marrjes së veprimeve njëpërshër.<ref name="UnSD">[http://www.wto.org/english/thewto_e/whatis_e/tif_e/disp1_e.htm Settling Disputes:a Unique Contribution] {{Cite web |url=http://www.wto.org/english/thewto_e/whatis_e/tif_e/disp1_e.htm|archive-url=https://web.archive.org/web/20070314030521/http://www.wto.org/english/thewto_e/whatis_e/tif_e/disp1_e.htm |date=2007-03-14 |language=en }}, WTO official site</ref>
+
+Funksionimi i procesit të zgjidhjes së moskërimeve të OBT-së përfshin panele të posaçme për çdo çështje<ref>{{Cite web |url=https://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c3s3p1_e.htm |title=3.3 Panels |publisher=WTO official website |date=2005 |language=en |access-date=2005-03-07 |archive-url=https://web.archive.org/web/20050317103228/http://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c3s3p1_e.htm |archive-date=2005-03-17 |url-status=live }}</ref> të caktuara nga Trupi për Zgjidhjen e Moskërimeve (DSB),<ref>{{Cite web|url=http://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c3s1p1_e.htm|title=3.1 The Dispute Settlement Body (DSB)|publisher=WTO official website|date=2005|language=en|access-date=2015-03-07|archive-url=https://web.archive.org/web/20150407103603/https://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c3s1p1_e.htm|archive-date=2015-04-07|url-status=live}}</ref> si dhe {{ill|Trupi i Apelimit|en|Appellate Body}},<ref>{{Cite web |url=https://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c3s4p1_e.htm |title=3.4 Appellate Body |publisher=WTO official website |date=2005 |language=en |access-date=2005-03-07 |archive-url=https://web.archive.org/web/20050302040836/http://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c3s4p1_e.htm |archive-date=2005-03-02 |url-status=live }}</ref> Drejtori i Përgjithshëm dhe Sekretariati i OBT-së,<ref>{{Cite web |url=https://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c3s2p1_e.htm |title=3.2 The Director-General and the WTO Secretariat |publisher=WTO official website |date=2005 |language=en |access-date=2005-03-07 |archive-url=https://web.archive.org/web/20050302040327/http://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c3s2p1_e.htm |archive-date=2005-03-02 |url-status=live }}</ref> arbitërit,<ref>{{Cite web |url=https://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c3s5p1_e.htm |title=3.5 arbitrators |publisher=WTO official website |date=2005 |language=en |access-date=2005-03-07 |archive-url=https://web.archive.org/web/20050317103237/http://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c3s5p1_e.htm |archive-date=2005-03-17 |url-status=live }}</ref> dhe ekspertët këshilltarë.<ref>{{Cite web |url=https://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c3s6p1_e.htm |title=3.6 Experts |publisher=WTO official website |date=2005 |language=en |access-date=2005-03-07 |archive-url=https://web.archive.org/web/20050317103241/http://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c3s6p1_e.htm |archive-date=2005-03-17 |url-status=live }}</ref>
+
+Përparësia u jepet zgjidhjes së moskërimeve, idealisht përmes një zgjidhjeje të pranuar nga të dyja palët, dhe është siguruar që procesi të kryhet në një mënyrë efikase dhe pa humbur kohë, në mënyrë që "Nëse një çështje gjykohet, zakonisht duhet të kërkojë jo më shumë se një vjet për aktgjykimin e panelit dhe jo më shumë se 16 muaj nëse çështja apelohet... Nëse paditësi e konsideron çështjen urgjente, shqyrtimi i saj duhet të kërkojë edhe më pak kohë."<ref>{{Cite web |url=https://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c1s3p3_e.htm |title="Mutually Agreed Solutions" as "Preferred Solution" |publisher=WTO official website |date=2005 |language=en |access-date=2005-03-07 |archive-url=https://web.archive.org/web/20050317103205/http://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c1s3p3_e.htm |archive-date=2005-03-17 |url-status=live }}</ref> Shtetet anëtare të OBT-së janë të detyruara të pranojnë procesin si të vetëm dhe të detyrueshëm.<ref>{{Cite web |url=https://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c1s3p3_e.htm |title=1.3 Functions, objectives and key features of the dispute settlement system |publisher=WTO official website |date=2005 |language=en |access-date=2005-03-07 |archive-url=https://web.archive.org/web/20050317103205/http://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c1s3p3_e.htm |archive-date=2005-03-17 |url-status=live }}</ref>
+
+Sipas një studimi të vitit 2018 të publikuar në ''The Journal of Politics'', shtetet kanë më pak gjasa dhe më shumë vosa për të zbatuar rregullat e OBT-së kur shkeljet prekin shtetet në një mënyrë të shpërndarë.<ref name=":1">{{Cite journal|last1=Johns|first1=Leslie|last2=Pelc|first2=Krzysztof J.|date=2018-04-25|title=Free Riding on Enforcement in the World Trade Organization|journal=The Journal of Politics|language=en|volume=80|issue=3|pages=873–889|doi=10.1086/697463|s2cid=67756781|issn=0022-3816|url=https://pdfs.semanticscholar.org/1eb8/816f7bdc309659a42dc5bf5f8d89a8fcabd8.pdf|archive-url=https://web.archive.org/web/20200209030428/https://pdfs.semanticscholar.org/1eb8/816f7bdc309659a42dc5bf5f8d89a8fcabd8.pdf|url-status=dead|archive-date=2020-02-09}}</ref> Kjo ndodh sepse shtetet përballen me probleme të veprimit kolektiv kur nisin procese gjyqësore: të gjitha presin që shtetet e tjera të përballen me kostot e proceseve gjyqësore.<ref name=":1" /> Një studim i vitit 2016 i publikuar në ''International Studies Quarterly'' konteston pretendimin se sistemi i zgjidhjes së moskërimeve të OBT-së çon në rritje më të madhe të tregtisë.<ref>{{Cite journal|last1=Chaudoin|first1=Stephen|last2=Kucik|first2=Jeffrey|last3=Pelc|first3=Krzysztof|date=2016-04-15|title=Do WTO Disputes Actually Increase Trade?|journal=International Studies Quarterly|language=en|volume=60|issue=2|pages=294–306|doi=10.1093/isq/sqw009|s2cid=56249395|issn=0020-8833}}</ref>
+
+Megjithatë, sistemi i zgjidhjes së moskërimeve nuk mund të përdoret për zgjidhjen e moskërimeve tregtare që lindin nga dallime politike. Kur Katari kërkoi ngritjen e një paneli për moskërimin në lidhje me masat e ndërmarra nga Emiratet e Bashkuara Arabe, vendet e tjera të Këshillit të Bashkuar të Gjibraltarit dhe SHBA e hodhën shpejt tej kërkesën e Katarit, duke e konsideruar çështje politike, dhe deklaruan se çështjet e sigurisë kombëtare ishin politike dhe nuk ishin të përshtatshme për sistemin e zgjidhjes së moskërimeve të OBT-së.<ref>{{Cite web|url=https://ameinfo.com/money/economy/the-first-middle-east-victims-are-oil-exporters/|title=A US-less WTO: The first Middle East victims are oil exporters|website=ameinfo.com|language=en|access-date=2018-09-05|date=2018-09-02|archive-url=https://web.archive.org/web/20180905180021/https://ameinfo.com/money/economy/the-first-middle-east-victims-are-oil-exporters/|archive-date=2018-09-05|url-status=live}}</ref>
+
+Që nga viti 2019, kur {{ill|Administrimi i parë i Donald Trump|en|First presidency of Donald Trump}} bllokoi emërimet, {{ill|Trupi i Apelimit|en|Appellate Body}} nuk ka qenë në gjendje të zbatonte rregullat e OBT-së dhe të ndëshkonte ata që i shkelin rregullat.<ref>{{Cite journal |last=Hopewell |first=Kristen |date=2024-07-03 |title=The (surprise) return of development policy space in the multilateral trading system: what the WTO Appellate Body blockage means for the developmental state |url=https://www.tandfonline.com/doi/full/10.1080/09692290.2024.2303681 |journal=Review of International Political Economy |language=en |volume=31 |issue=4 |pages=1245–1270 |doi=10.1080/09692290.2024.2303681 |issn=0969-2290|url-access=subscription }}</ref> Në mars 2020, [[Bashkimi Evropian]] dhe 15 anëtarë të tjerë të OBT-së ranë dakord për ''Marrëveshjen e Përkohshme Shumëpalëshe për Arbitrimin e Apelimeve'' (MPIA). Kjo dërhoi mundësinë e përdorimit të një mekanizmi alternativ për apelimin (me arbitrim si mekanizëm apelimi), ndërsa Trupi i Apelimit nuk funksionon.<ref>{{Cite web |last=Parliament |first=EU |title=International trade dispute settlement: World Trade Organisation Appellate Body crisis and the multi-party interim appeal arbitration arrangement |url=https://www.europarl.europa.eu/RegData/etudes/BRIE/2024/762342/EPRS_BRI(2024)762342_EN.pdf |language=en |access-date=2024-09-15 |website=European Parliament }}</ref>
+==Adhërimi dhe anëtarësia==
+{{Hatnote|Artikulli kryesor: {{ill|Adhërimi dhe anëtarësia e Organizatës Botërore të Tregtisë|en|World Trade Organization accession and membership}}}}
+
+Procesi i anëtarësimit në [[Organizata Botërore e Tregtisë|Organizatën Botërore të Tregtisë]] është i ndryshëm për çdo vend që aplikon dhe kushtet e adhërimit varen nga faza e zhvillimit ekonomik të vendit dhe regjimi tregtar aktual.<ref name="AS">{{Cite web|title=Accessions Summary|url=http://www.cid.harvard.edu/cidtrade/issues/accessions.html|website=Center for International Development|archive-url=https://web.archive.org/web/20070203051531/http://www.cid.harvard.edu/cidtrade/issues/accessions.html|archive-date=2007-02-03|language=en}}</ref> Procesi zgjat mesatarisht rreth pesë vjet, por mund të zgjasë më shumë nëse vendi nuk është plotësisht i angazhuar në proces ose nëse çështjet politike pengojnë atë. Negocita më e shkurtër ishte ajo e Republikës Kirgize, ndërsa më e gjata ishte ajo e Rusisë, e cila, pasi aplikoi fillimisht për anëtarësi në [[GATT]] në vitin 1993, u aprovua për anëtarësi në dhjetor të vitit 2011 dhe u bë anëtar i WTO-së më 22 gusht 2012.<ref name="rusmem">{{Cite web|title=Ministerial Conference approves Russia's WTO membership|url=http://www.wto.org/english/news_e/news11_e/acc_rus_16dec11_e.htm|date=2011-12-16|archive-url=https://web.archive.org/web/20120107231725/http://wto.org/english/news_e/news11_e/acc_rus_16dec11_e.htm|archive-date=2012-01-07|publisher=World Trade Organization|language=en}}</ref> Grupi i Punës për Adhërimin e [[Kazakistani|Kazakistanit]] u themelua në vitin 1996 dhe anëtarësia e vendit u aprovua në vitin 2015.<ref>{{Cite web|title=Kazakhstan|url=https://www.wto.org/english/thewto_e/acc_e/a1_kazakhstan_e.htm|website=www.wto.org|access-date=2016-02-23|archive-url=https://web.archive.org/web/20160425071631/https://www.wto.org/english/thewto_e/acc_e/a1_kazakhstan_e.htm|archive-date=2016-04-25|url-status=live|language=en}}</ref> E dyti më i gjatë ishte ai i Vanuatit, grupi i punës për adhërimin e të cilit u themelua më 11 korrik 1995. Pas mbledhjes së fundit të grupit të punës në tetor 2001, Vanuati kërkoi më shumë kohë për të shqyrtuar kushtet e veta të adhërimit. Në vitin 2008, ai shprehu interesin për të rifilluar dhe përfunduar adhërimin e tij në WTO. Grupi i Punës për Adhërimin e Vanuatit u mblodh përsëri informalisht më 4 prill 2011 për të diskutuar anëtarësinë e ardhshme të Vanuatit në WTO. Grupi i punës i mbledhur përsëri përfundoi mandatin e tij më 2 maj 2011. Këshilli i Përgjithshëm aprovoi zyrtarisht paketën e adhërimit të Vanuatit më 26 tetor 2011. Më 24 gusht 2012, WTO e pranoi Vanuatin si anëtarin e saj të 157-të.<ref>{{Cite web|title=Accession status: Vanuatu|url=http://www.wto.org/english/thewto_e/acc_e/a1_vanuatu_e.htm|publisher=World Trade Organization|access-date=2013-07-12|archive-url=https://web.archive.org/web/20120811121430/http://www.wto.org/english/thewto_e/acc_e/a1_vanuatu_e.htm|archive-date=2012-08-11|language=en}}</ref> Një ofertë për adhërim jepet vetëm pasi të arrihet konsensusi ndërmjet palëve të interesuara.<ref name="M64">{{Cite book|author=C. Michalopoulos|title=WTO Accession|page=64|language=en}}</ref>
+
+Një studim i vitit 2017 argumenton se «lidhjet politike, e jo përfitimet funksionale sipas fushave, përcaktojnë kush bashkohet» dhe tregon «si rreshtimi gjeopolitik ndikon anën e kërkesës dhe të ofertës së anëtarësimit».<ref name=":0">{{Cite journal|last1=Davis|first1=Christina L.|last2=Wilf|first2=Meredith|date=2017-05-10|title=Joining the Club: Accession to the GATT/WTO|journal=The Journal of Politics|pages=964–978|volume=79|issue=3|doi=10.1086/691058|s2cid=152423155|issn=0022-3816|url=https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1916410_code671351.pdf?abstractid=1900340&mirid=1&type=2|language=en}}</ref> Gjetjet sfidojnë mendimin se shtetet e liberalizojnë tregtinë së pari për t'u bashkuar me GATT/WTO. Në vend të kësaj, demokracia dhe ngjashmëria e politikës së jashtme i inkurajojnë shtetet të bashkohen.<ref name=":0" />
+
+===Procesi i adhërimit===
+[[File:WTO enlargement.svg|thumb|right|upright=1.8|Progresi i procesit të adhërimit në WTO:<ref>{{Cite web|url=http://www.wto.org/english/thewto_e/acc_e/status_e.htm|title=Summary Table of Ongoing Accessions|date=April 2014|access-date=2014-10-25|publisher=World Trade Organization|archive-url=https://web.archive.org/web/20140929083614/http://wto.org/english/thewto_e/acc_e/status_e.htm|archive-date=2014-09-29|url-status=live|language=en}}</ref> {{Legend|#008000|U adoptua raporti i draftit të grupit të punës ose përmbledhja e fakteve}} {{Legend|#0000ff|U parashtruan ofertat për mallra ose shërbime}} {{Legend|#eeee00|Mbledhjet e grupit të punës}} {{Legend|orange|U parashtrua memorandumi mbi regjimin e tregtisë së jashtme}} {{Legend|#ff1111|U themelua grupi i punës}}]]
+[[File:General Council (15850309447).jpg|thumb|Procesi i adhërimit mund të zgjasë disa vite para se një vend të bëhet anëtar i zyrtar i organizatës.]]
+
+Një vend që dëshiron të adhëruojë në WTO parashtron një kërkesë Këshillit të Përgjithshëm dhe duhet të përshkruajë të gjitha aspektet e politikave tregtare dhe ekonomike që kanë lidhje me marrëveshjet e WTO-së.<ref name="BM">{{Cite web|title=Membership, Alliances and Bureaucracy|url=http://www.wto.org/english/thewto_e/whatis_e/tif_e/org3_e.htm#join|archive-url=https://web.archive.org/web/20070316000217/http://www.wto.org/english/thewto_e/whatis_e/tif_e/org3_e.htm#join|archive-date=2007-03-16|publisher=World Trade Organization|language=en}}</ref> Kërkesa parashtrohet në WTO përmes një memorandumi, i cili shqyrt ohet nga një grup pune i hapur për të gjithë anëtarët e interesuar të WTO-së.<ref name="autogenerated1">{{Cite book|author=C. Michalopoulos|title=WTO Accession|pages=62–63|language=en}}</ref>
+
+Pasi janë mbledhur të gjitha informacionet e nevojshme në sfond, grupi i punës përqendrohet te çështjet ku rregullat e WTO-së nuk përputhen me politikat dhe ligjet tregtare ndërkombëtare dhe të brendshme të vendit aplikues. Grupi i punës përcakton termat dhe kushtet e hyrjes së vendit aplikues në WTO dhe mund të shqyrtojë periudha kalimtare që u lejojnë vendeve hapësirë për t'iu përmbajtur rregullave të WTO-së.<ref name="AS"/>
+
+Faza e fundit e adhërimit përfshin negocita bilaterale midis vendit aplikues dhe anëtarëve të tjerë të grupit të punës, lidhur me koncesionet dhe angazhimet mbi nivelet tarifore dhe qasjen në treg për mallrat dhe shërbimet. Angazhimet e anëtarit të ri duhet të zbatohen njësoj për të gjithë anëtarët e WTO-së sipas rregullave normale të mosdiskriminimit, edhe pse janë negociuar bilateralisht.<ref name="BM"/> Për shembull, si rezultat i bashkimit me WTO, [[Armenia]] ofroi si tarifë të detyrueshme një tavan prej 15% për qasjen në tregun e saj të mallrave. Meqë tarifat e detyrueshme janë ''ad valorem'', nuk ekzistojnë tarifa specifike ose të përziera. Përveç kësaj, nuk ka kuota tarifore as për produktet industriale as për ato bujqësore.<ref>{{Cite web|title=Armenia – WTO|url=http://www.wto.am/en/wto-membership|website=www.wto.am|archive-url=https://web.archive.org/web/20190512153250/http://www.wto.am/en/wto-membership|archive-date=2019-05-12|language=en}}</ref> Rritja e performancës ekonomike dhe tregtare të Armenisë u vëzhgua që nga vlerësimi i parë në vitin 2010, veçanërisht rimëkëmbja pas [[Kriza financiare 2007-2008|krizës financiare të vitit 2008]], me një shkallë mesatare vjetore rritjeje të PKB-së prej 4%, pavarësisht nga disa lëkundje. Ekonomia e Armenisë u karakterizua nga inflacion i ulët, varfëri në rënie dhe progres i rëndësishëm në forcimin e qëndrueshmërisë së saj makroekonomike, ndërsa tregtia me mallra dhe shërbime, e barabartë me 87% të PKB-së, po zinte një rol gjithnjë e më të rëndësishëm.<ref>{{Cite web|title=Concluding remarks by the Chairperson|url=https://www.wto.org/english/tratop_e/tpr_e/tp479_crc_e.htm|archive-url=https://web.archive.org/web/20190512195924/https://www.wto.org/english/tratop_e/tpr_e/tp479_crc_e.htm|archive-date=2019-05-12|publisher=World Trade Organization|language=en}}</ref>
+
+Kur negocitat bilaterale përfundojnë, grupi i punës i dërgon Këshillit të Përgjithshëm ose Konferencës Ministore një paketë adhërimi, e cila përfshin një përmbledhje të të gjitha mbledhjeve të grupit të punës, Protokollin e Adhërimit (një projekt traktati anëtarësimi) dhe listat («programet») të angazhimeve që anëtari do të detyrohet t'i zbatojë. Pasi Këshilli i Përgjithshëm ose Konferenca Ministore miratojnë kushtet e adhërimit, parlamenti i vendit aplikues duhet të ratifikojë Protokollin e Adhërimit para se vendi të mund të bëhet anëtar.<ref>{{Cite web|title=How to Become a Member of the WTO|url=http://www.wto.org/english/thewto_e/acc_e/acces_e.htm|archive-url=https://web.archive.org/web/20070313234319/http://www.wto.org/english/thewto_e/acc_e/acces_e.htm|archive-date=2007-03-13|publisher=World Trade Organization|language=en}}</ref> Disa vende mund të kenë përballur me një proces adhërimi më të vështirë dhe shumë më të gjatë si pasojë e sfidave gjatë negociatave me anëtarë të tjerë të WTO-së, si në rastin e Vietnamit, negocatat e të cilit zgjatur më shumë se 11 vjet para se të bëhej anëtar i zyrtar në janar 2007.<ref>{{Cite book|last1=Napier|first1=Nancy K.|last2=Vuong|first2=Quan Hoang|title=What we see, why we worry, why we hope: Vietnam going forward|publisher=Boise State University CCI Press|year=2013|location=Boise, ID|page=140|isbn=978-0-9855305-8-7|language=en}}</ref>
+===Raundi i Urugait: 1986–1994===
+==Zgjidhja e moskërimeve==
+== Ndikimi ==
+== Shiko edhe ==
+===Raundi i Urugait: 1986–1994===
+== Zgjidhja e moskërimeve ==
+== Ndikimi ==
+== Shiko edhe ==
+== Ndikimi ==
+
+Studimet tregojnë se Organizata Botërore e Tregtisë (OBT) ka nxitur tregtinë.<ref name=":3">{{Cite journal|last1=Goldstein|first1=Judith L.|last2=Rivers|first2=Douglas|last3=Tomz|first3=Michael|date=2007|title=Institutions in International Relations: Understanding the Effects of the GATT and the WTO on World Trade|journal=International Organization|language=en|volume=61|issue=1|pages=37–67|doi=10.1017/S0020818307070014|issn=1531-5088|author-link1=Judith Goldstein (political scientist)|doi-access=free}}</ref><ref name=":4">{{Cite journal|last1=Tomz|first1=Michael|last2=Goldstein|first2=Judith L|last3=Rivers|first3=Douglas|date=2007|title=Do We Really Know That the WTO Increases Trade? Comment|journal=American Economic Review|language=en|volume=97|issue=5|pages=2005–2018|doi=10.1257/aer.97.5.2005|issn=0002-8282}}</ref><ref>{{Cite journal|last=Chen|first=Natalie|doi-access=free|title=Gravity and heterogeneous trade cost elasticities|journal=Economic Journal|year=2021|language=en|volume=132|issue=644|pages=1349–1377|doi=10.1093/ej/ueab067|oclc=1259290547|hdl=10.1093/ej/ueab067|hdl-access=free}}</ref><ref>{{Cite journal|last1=Goldstein|first1=Judith|last2=Gulotty|first2=Robert|date=2021|title=Trading Away Tariffs: The Operations of the GATT System|journal=World Trade Review|volume=21|issue=2|pages=135–158|language=en|doi=10.1017/S1474745621000458|s2cid=239630296|issn=1474-7456|doi-access=}}</ref> Kërkimet tregojnë se pa OBT-në, vendi mesatar do të përballohej me një rritje prej 32 pikë përqindje të tarifave mbi eksportet e tij.<ref name=":5">{{Cite journal|last1=Silva|first1=Peri Agostinho|last2=Nicita|first2=Alessandro|last3=Olarreaga|first3=Marcelo|date=2018|title=Cooperation in WTO's Tariff Waters?|url=http://www.ferdi.fr/sites/www.ferdi.fr/files/publication/fichiers/p176-_ferdi_-olarreaga_and_all.pdf|journal=Journal of Political Economy|language=en|volume=126|issue=3|pages=1302–1338|doi=10.1086/697085|issn=0022-3808|s2cid=152401600|archive-url=https://web.archive.org/web/20190429100839/http://www.ferdi.fr/sites/www.ferdi.fr/files/publication/fichiers/p176-_ferdi_-olarreaga_and_all.pdf|archive-date=2019-04-29|url-status=live}}</ref><ref>{{Cite web|url=https://voxeu.org/article/trade-war-will-increase-average-tariffs-32-percentage-points|title=A trade war will increase average tariffs by 32 percentage points|last1=Nicita|first1=Alessandro|last2=Olarreaga|first2=Marcelo|date=2018-04-05|website=VoxEU.org|access-date=2018-04-27|last3=Silva|first3=Peri da|archive-url=https://web.archive.org/web/20180427180653/https://voxeu.org/article/trade-war-will-increase-average-tariffs-32-percentage-points|archive-date=2018-04-27|url-status=live|language=en}}</ref> Mekanizmi i zgjidhjes së kontesteve në kuadër të OBT-së është një nga mënyrat përmes të cilave rritet tregtia.<ref>{{Cite journal|last1=Bechtel|first1=Michael M.|last2=Sattler|first2=Thomas|date=2015|title=What Is Litigation in the World Trade Organization Worth?|journal=International Organization|language=en|volume=69|issue=2|pages=375–403|doi=10.1017/S002081831400037X|s2cid=232251704|issn=0020-8183}}</ref><ref>{{Cite journal|last1=Shin|first1=Wonkyu|last2=Ahn|first2=Dukgeun|date=2019|title=Trade Gains from Legal Rulings in the WTO Dispute Settlement System|journal=World Trade Review|language=en|volume=18|issue=1|pages=1–31|doi=10.1017/S1474745617000544|issn=1474-7456|doi-access=free}}</ref><ref>{{Cite journal|last=Bown|first=Chad P.|date=2004|title=On the Economic Success of GATT/WTO Dispute Settlement|url=https://ideas.repec.org/a/tpr/restat/v86y2004i3p811-823.html|journal=The Review of Economics and Statistics|language=en|volume=86|issue=3|pages=811–823|doi=10.1162/0034653041811680|s2cid=28108505|access-date=2020-03-24|archive-date=2020-03-24|archive-url=https://web.archive.org/web/20200324165318/https://ideas.repec.org/a/tpr/restat/v86y2004i3p811-823.html|url-status=live|url-access=subscription}}</ref><ref>{{Cite journal|last=Bown|first=Chad P.|date=2004|title=Trade Policy under the GATT/WTO: Empirical Evidence of the Equal Treatment Rule|journal=The Canadian Journal of Economics|volume=37|issue=3|pages=678–720|doi=10.1111/j.0008-4085.2004.00243.x|jstor=3696011|ssrn=563589|s2cid=5705448|issn=0008-4085|language=en}}</ref> Një studim i vitit 2023 sugjeron se anëtarësia në OBT nuk ka rritur tregtinë për vendet e Bashësisë së Shteteve të Pavarura (BSHP).<ref>{{Cite journal|last1=Tanaguzova|first1=Mereke|last2=Nanovsky|first2=Simeon|last3=Orazgaliyev|first3=Serik|date=2023-09-14|title=Assessing the Effect of Joining the World Trade Organization on Trade Performance: A Study of CIS Countries|journal=Economies|language=en|volume=11|issue=9|pages=236|doi=10.3390/economies11090236|doi-access=free|issn=2227-7099|hdl=10419/328861|hdl-access=free}}</ref> Një studim i vitit 2026 gjeti se anëtarësia në OBT kontribuon në formalizimin e ekonomisë dhe në zvogëlimin e [[Ekonomia joformale|ekonomisë joformale]].<ref>{{Cite journal|last=Doan|first=Nguyen|date=2026|title=Formal Trade and the Informal Economy: Evidence From GATT/WTO Membership|url=https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.70051|journal=The World Economy|language=en|doi=10.1111/twec.70051|issn=1467-9701|url-access=subscription}}</ref>
+
+Sipas një studimi të vitit 2017 të botuar në ''Journal of International Economic Law'', "pothëse të gjitha marrëveshjet më të fundit tregtare preferuese (PTAs) e përmendin shprehimisht OBT-në, shpesh dhjetëra herë nëpër kapituj të ndryshëm. Po ashtu, në shumë prej këtyre marrëveshjeve të njëjta gjejmë se pjesë të mëdha të tekstit të traktatit — herë të tjera edhe shumica e një kapitulli — janë kopjuar fjalë për fjalë nga një marrëveshje e OBT-së... prania e OBT-së në PTAs është rritur me kalimin e kohës."<ref name=":6">{{Cite journal|last1=Allee|first1=Todd|last2=Elsig|first2=Manfred|last3=Lugg|first3=Andrew|date=2017|title=The Ties between the World Trade Organization and Preferential Trade Agreements: A Textual Analysis|journal=Journal of International Economic Law|language=en|volume=20|issue=2|pages=333–363|doi=10.1093/jiel/jgx009|issn=1369-3034}}</ref>
+
+Ndërsa OBT-ja është fajësuar për efektet ekonomike dhe sociale të globalizimit, Bernhofeni vlerësoi se [[Kontejneri i transportimit|kontejnerizimi]] rriti tregtinë dypërmesore mes vendeve të industrializuara me rreth 790% gjatë njëzetvjeçorit pas futjes së tij në përdorim, krahasuar me rreth 285% për anëtarësinë e përbashkët në [[GATT]] dhe 45% për marrëveshjet e tjera të tregtisë së lirë.<ref name="Bernhofen2016">{{Cite journal|last1=Bernhofen|first1=Daniel M.|last2=El-Sahli|first2=Zouheir|last3=Kneller|first3=Richard|title=Estimating the effects of the container revolution on world trade|journal=Journal of International Economics|date=January 2016|volume=98|pages=36–50|doi=10.1016/j.jinteco.2015.09.001|language=en}}</ref> ''The Economist'' shkroi se kontejneri kishte qenë «më shumë një nxitës i globalizimit se të gjitha marrëveshjet e tregtisë gjatë 50 vjetëve të fundit, të marra së bashku».<ref name="Economist2013">{{Cite news|title=The humble hero|work=The Economist|date=2013-05-18|url=https://www.economist.com/finance-and-economics/2013/05/18/the-humble-hero|language=en}}</ref> Një raport i vitit 2021 gjeti se rritja e [[Produktiviteti|produktivitetit]], e jo tregtia, ishte përgjegjëse për pothëse të gjithë rënien e punësimit në sektorin e prodhimit të SHBA-ve, duke iu referuar një rënie prej 85 përqind të punës së nevojshme për prodhimin e një toni çelik.<ref>{{Cite web|last=Rose|first=Stephen J.|title=Do Not Blame Trade for the Decline in Manufacturing Jobs|url=https://www.csis.org/analysis/do-not-blame-trade-decline-manufacturing-jobs|publisher=Center for Strategic and International Studies|date=January 2021|access-date=2026-08-16|language=en}}</ref>
+No wikitext was provided between the BEGIN/END markers, so no structural repair can be made.
+== Shiko edhe ==
+{{Div col}}
+* {{ill|Marrëveshja mbi masat e investimit lidhur me tregtinë|en|Agreement on Trade Related Investment Measures}}
+* {{ill|Lëvizja kundër globalizmit|en|Anti-globalization movement}}
+* {{ill|Kina dhe Organizata Botërore e Tregtisë|en|China and the World Trade Organization}}
+* {{ill|Kritika ndaj Organizatës Botërore të Tregtisë|en|Criticism of the World Trade Organization}}
+* {{ill|Zgjidhja e mosmarrëveshjeve në Organizatën Botërore të Tregtisë|en|Dispute settlement in the World Trade Organization}}
+* {{ill|Statistikat e tregtisë me filialet e huaja|en|Foreign Affiliate Trade Statistics}}
+* {{ill|Ligji mbi tregimet gjeografike të mallrave (regjistrimi dhe mbrojtja), viti 1999|en|Geographical Indications of Goods (Registration and Protection) Act, 1999}}
+* {{ill|E drejta administrative ndërkombëtare|en|Global administrative law}}
+* {{ill|Marrëveshja mbi teknologjinë e informacionit|en|Information Technology Agreement}}
+* {{ill|Qendra Ndërkombëtare e Tregtisë|en|International Trade Centre}}
+* {{ill|Standardet e punës në Organizatën Botërore të Tregtisë|en|Labour standards in the World Trade Organization}}
+* {{ill|Barrierat tregtare jo-tarifore|en|Non-tariff barriers to trade}}
+* [[North American Free Trade Agreement|Marrëveshja e Tregtisë së Lirisë të Amerikës së Veriut]]
+* {{ill|Formula e Zvicrës|en|Swiss Formula}}
+* [[Blloku tregtar]]
+* {{ill|UNIDROIT|en|UNIDROIT}}
+* {{ill|Komisioni i Kombeve të Bashkuara për të drejtën ndërkombëtare të tregtisë|en|United Nations Commission on International Trade Law}} (UNCITRAL)
+* {{ill|Konsensusi i Uashingtonit|en|Washington Consensus}}
+* {{ill|Aktiviteti protestues gjatë Konferencës së Ministrave të Organizatës Botërore të Tregtisë të vitit 1999|en|World Trade Organization Ministerial Conference of 1999 protest activity}}
+* ''{{ill|Raporti i Tregtisë Botërore|en|World Trade Report}}''
+{{Div col end}}
+
+== Shënime dhe referime ==
+
+== Lexim i mëtejshëm ==
+* Acharya, Rohini, et al. "Trade and Women—Opportunities for Women in the Framework of the World Trade Organization". ''Journal of International Economic Law'' 22.3 (2019): 323–354.
+* Bishop, Matthew Louis, and Zhang Xiaotong. "[https://eprints.whiterose.ac.uk/143106/1/Bishop%20and%20Zhang%20-%20Why%20is%20China%20a%20Reluctant%20Leader%20%28Repository%20Open%20Access%20Version%29.pdf Why is China a reluctant leader of the World Trade Organization?]" ''New Political Economy'' 25.5 (2020): 755–772.
+* Bowen, T. Renee, J. Lawrence Broz, and Marc-Andreas Muendler. "[https://ccd.ucsd.edu/_files/papers/bowen-broz_wto-and-us-domestic-politics.pdf The World Trade Organization and US Domestic Politics]". Punim kërkimor, 2021.
+* Broude, Tomer. "The World Trade Organization: A Short Introduction". ''Journal of International Economic Law'', vëll. 14, nr. 3, 2011, fq. 435–451.
+* Busch, Marc L., and Eric Reinhardt. "The Political Economy of World Trade Organization Negotiations: The Design of the Multilateral Trading System". ''International Organization'', vëll. 57, nr. 3, 2003, fq. 565–599.
+* Das, Abhijit. 2025. ''[https://global.oup.com/academic/product/strategies-in-gatt-and-wto-negotiations-9780198934400 Strategies in GATT and WTO Negotiations]''. Oxford University Press.
+* Graziano, Daniela. "The World Trade Organization in the Global Governance Network: A Political Analysis of Its Role and Functions". ''Global Governance'' vëll. 15, nr. 4, 2009, fq. 467–484.
+* Holland, Kenneth. "[https://pure.jgu.edu.in/id/eprint/1474/1/IJIEL2021.pdf The Trump Administration's Critique of the World Trade Organization and Its Implications for the International Trading System]". ''Indian Journal of international economic law'' 13 (2021): 154+.
+* Jackson, John H. ''The World Trading System: Law and Policy of International Economic Relations.'' (MIT Press, 2017).
+* Joost, Peter. "The World Trade Organization: Structure and Jurisprudence". ''International Trade Law and Regulation'' vëll. 9, nr. 5, 2003, fq. 1–12.
+* Karlas, Jan, and Michal Parízek. "Supply of Policy Information in the World Trade Organization: Cross-National Compliance with One-Time and Regular Notification Obligations, 1995–2014". ''World Trade Review'' 19.1 (2020): 30–50.
+* Matsushita, Mitsuo, et al. ''The World Trade Organization: law, practice, and policy'' (Oxford University Press, 2015). [https://www.logobook.kz/af/11074554/2287/0199284563_sample.pdf online]
+* Palmeter, David, Petros C. Mavroidis, and Niall Meagher. ''Dispute Settlement in the World Trade Organization'' (Cambridge University Press, 2022). [https://books.google.com/books?id=8oxVEAAAQBAJ&dq=World+Trade+Organization+&pg=PR21 online]
+* Pearson, Margaret M. "China in Geneva: lessons from China's early years in the World Trade Organization" në ''New Directions in the Study of China's Foreign Policy'' (Stanford University Press, 2022), fq. 242–275.
+* Qureshi, Asif H. ''The World Trade Organization: implementing international trade norms. The World Trade Organization'' (Manchester University Press, 2022).
+
+== Lidhje të jashtme ==
+{{Commonskat}}
+* {{Official website}}
+* [http://www.intracen.org/about/itcs-role-in-un-and-wto/ Qendra Ndërkombëtare e Tregtisë] – agjensi e përbashkët e OKB-së dhe OBT-së
+
+{{Authority control}}
+
+[[Kategoria:Organizata Botërore e Tregtisë| ]]
+[[Kategoria:Organizatat ndërkombëtare të tregtisë]]
+[[Kategoria:Organizata me bazë në Gjenevë]]
+[[Kategoria:Organizatat e themeluara në vitin 1995]]
+[[Kategoria:Qeverisja botërore]]
+[[Kategoria:Blloqet tregtare]]
+[[Kategoria:E drejta ndërkombëtare të tregtisë]]
+[[Kategoria:Investimet e huaja të drejtpërdrejta]]
+[[ategoria:Traktatat që hyjnë në fuqi në vitin 1995]]
+[[Kategoria:Vëzhguesit e Asamblesë së Përgjithshme të Kombeve të Bashkuara]]
+[[Kategoria:Organizatat ndërqeverisore të themeluara me traktat]]
+[[Kategoria:Organizatat ndërkombëtare me bazë në Zvicër]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|World Trade Organization|9 shtator 2026|1374066339}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:World Trade Organization, versioni i datës 9 shtator 2026 (revizioni 1374066339).
+-->

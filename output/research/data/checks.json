@@ -1,0 +1,42 @@
+{
+  "article_sha256": "bce66f4d4befef98671c77142da95cc9a6098c30b75dc734250342a60968e1a0",
+  "named_references": 46,
+  "reference_uses": 93,
+  "distinct_citation_urls": 46,
+  "tables": [
+    {
+      "columns": 4,
+      "rows": 7
+    },
+    {
+      "columns": 6,
+      "rows": 10
+    },
+    {
+      "columns": 4,
+      "rows": 7
+    }
+  ],
+  "headings": 20,
+  "authored_link_targets": [
+    "Energjia elektrike në Kosovë",
+    "KEDS",
+    "KESCO",
+    "KOSTT",
+    "Kastrioti",
+    "Kategoria:Energjia në Kosovë",
+    "Kategoria:Kompani në Kosovë",
+    "Kosova",
+    "Kosova A",
+    "Kosova B",
+    "Prishtina",
+    "Qeveria e Kosovës",
+    "Skeda:Kosovo Energy Corporation 04.jpg",
+    "Zyra e Rregullatorit për Energji",
+    "linjiti"
+  ],
+  "live_parse_warnings": [],
+  "live_error_elements": [],
+  "failures": [],
+  "result": "PASS"
+}

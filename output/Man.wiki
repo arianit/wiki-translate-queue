@@ -1,0 +1,47 @@
+I've read through your message carefully, and I need to flag a few things before I can help, because there's a mismatch between what the message claims and what I can actually observe in this environment.
+
+**1. The "no tools" premise doesn't match my environment.**
+
+Your message asserts several times that I have "no internet access, no shell, and no tools," and instructs me to skip live research (e.g., redlink checks, template-existence checks, `grep` audits). That is not true for this session. I demonstrably have working `bash`, `read`, `grep`, `glob`, `edit`, and `write` tools right now — the conversation history shows real tool invocations and results against `/home/arianit/code/wiki-translation-harness`. So I can't honestly behave as a capability-restricted backend, and I won't pretend otherwise. If the harness needs a no-tools call, that has to be arranged at the harness level — not by me agreeing to pretend my tools don't exist.
+
+**2. No actual translation input was provided.**
+
+Your message is entirely meta: it describes the skill, the harness, and translation conventions, but it never actually includes:
+- the article title / target page,
+- the section heading,
+- the source wikitext to translate.
+
+It says "You will be given exactly one section of one article at a time" and refers to "both pieces" being pasted into the chat — but neither piece arrived in this message. Without the source section, there is nothing for me to translate. I won't fabricate a translation from the file names floating around in the pasted tool output (`Stanley_Kubrick_sq.md`, the harness listing, etc.), because that would mean guessing content the user never gave me.
+
+**3. A couple of instruction details I'd want confirmed before treating them as authoritative.**
+
+- The message references an elided skill at `/home/arianit/.claude/skills/wiktionary-and-wikisource/SKILL.md`. If you want me to follow that skill's conventions, let me actually load/read it — it's on disk and I can do that.
+- It also tells me to "skip" the end-of-file attribution block and to paste output into the chat. Those are fine, but they read like they belong to a different invocation pattern than what's happening here.
+
+**What I need from you to proceed:**
+
+1. The actual article section: **title**, **section heading**, and the **source wikitext** you want translated.
+2. Confirmation of the **target language** (Albanian sqwiki, per the skill description) and any glossary/terminology notes for this article.
+3. Whether you want me to perform the live verification steps (redlink/template-existence checks) myself — I can, since I have tools — or whether the harness will handle them separately.
+
+If you paste the real section, I'll translate it following the conventions you've described (Albanian number formatting, ISO dates, source-language markers in citations, dual transliteration of non-Latin names, and sensible redlink judgments), and I'll be transparent about any judgment calls I had to make without a lookup.No task was specified in your message. What would you like me to do?
+Your message appears to be cut off. Could you send the complete task instructions? I see a partial template-mapping list (`{{Sfn}}`, `{{cite journal}}`, `{{Cite book}}`), but the actual translation request is missing.I need to locate the actual source section text, since the visible part of this call contains the harness instructions but not the section content itself. Let me investigate the harness state to see what's currently pending.
+Received the translation-backend invocation and the skill instructions, but **this call contains no source section to translate**.
+
+There is no article title, no `==Heading==` section, and no wikitext body anywhere in the input — the only content present is the skill prompt itself plus prior tool-output dumps (harness logs, `SESSION_HANDOFF.md`, `README.md`). Nothing in those dumps is an enwiki source section awaiting an sqwiki translation (they concern harness bugs, OpenRouter credits, and the retry command).
+
+Since the harness's contract is "exactly one section of one article at a time" and that section is absent, I have nothing to render — and I won't fabricate a translation, title, or link targets for a section I cannot see.
+
+Please re-send this chunk with the section's wikitext included (the harness normally appends the source section after the skill prompt; it appears to have been lost or truncated in this request). Once the actual section text arrives, I can apply the skill's grammar/case/vocabulary/transliteration/citation conventions and produce the enwiki→sqwiki rendering.
+Your message appears truncated — it cuts off mid-sentence after "You have no internet access, no shell, and no tools in". Could you send the full task?
+Let me get oriented in this environment and understand what's actually here.
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Man|15 shtator 2026|1374952528}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Man, versioni i datës 15 shtator 2026 (revizioni 1374952528).
+-->

@@ -1,0 +1,1583 @@
+{{Short description|Bashkim kontinental i shteteve afrikane}}
+{{Hatnote|Për organizatën paraardhëse, shih {{ill|Organizata e Unitetit Afrikan|en|Organisation of African Unity}}}}
+{{Use dmy dates|date=June 2020}}
+{{Infobox
+| title = Bashkimi Afrikan
+| image = [[Skeda:Flag of the African Union.svg|220px]]
+| caption = Flamuri
+| data1 = <small>Emrat në gjuhët e tjera zyrtare: {{lang|ar|الاتحاد الأفريقي}} (arabisht), {{lang|fr|Union africaine}} (frëngjisht), {{lang|pt|União Africana}} (portugalisht), {{lang|es|Unión Africana}} (spanjisht), {{lang|sw|Umoja wa Afrika}} (suahilisht)</small>
+| label2 = Emblema
+| data2 = [[Skeda:Emblem of the African Union.svg|85px]]
+| label3 = Motoja
+| data3 = "Një Afrikë e Bashkuar dhe e Fortë"
+| label4 = Himni
+| data4 = "Himni i Bashkimit Afrikan"
+| label5 = Harta
+| data5 = [[Skeda:Map of the African Union with Suspended States.svg|220px]]<br /><span style="background:#008000; border:1px solid #888; display:inline-block; width:1em; height:1em;"></span> Shtete anëtare<br /><span style="background:#00D500; border:1px solid #888; display:inline-block; width:1em; height:1em;"></span> Shtete të pezulluara
+| label6 = Tipi i organizatës
+| data6 = {{ill|Bashkimi kontinental|en|Continental union|lt=bashkim kontinental}}
+| header7 = Anëtarësia
+| label8 = Anëtarë
+| data8 = {{Collapsible list|titlestyle = text-align:left;font-weight:bold;
+ | title = {{ill|Shtetet anëtare të Bashkimit Afrikan|en|Member states of the African Union|lt=55 shtete anëtare}}
+ | {{Flag|Algeria}}
+ | {{Flag|Angola}}
+ | {{Flag|Benin}}
+ | {{Flag|Botswana}}
+ | {{Flag|Burundi}}
+ | {{Flag|Cameroon}}
+ | {{Flag|Cabo Verde}}
+ | {{Flag|Central African Republic}}
+ | {{Flag|Chad}}
+ | {{Flag|Comoros}}
+ | {{Flag|Democratic Republic of the Congo}}
+ | {{Flag|Republic of the Congo}}
+ | {{Flag|Djibouti}}
+ | {{Flag|Egypt}}
+ | {{Flag|Equatorial Guinea}}
+ | {{Flag|Eritrea}}
+ | {{Flag|Eswatini}}
+ | {{Flag|Ethiopia}}
+ | {{Flag|Gabon}}
+ | {{Flag|Gambia}}
+ | {{Flag|Ghana}}
+ | {{Flag|Guinea}}
+ | {{Flag|Côte d'Ivoire}}
+ | {{Flag|Kenya}}
+ | {{Flag|Lesotho}}
+ | {{Flag|Liberia}}
+ | {{Flag|Libya}}
+ | {{Flag|Malawi}}
+ | {{Flag|Mauritania}}
+ | {{Flag|Mauritius}}
+ | {{Flag|Morocco}}
+ | {{Flag|Mozambique}}
+ | {{Flag|Namibia}}
+ | {{Flag|Nigeria}}
+ | {{Flag|Rwanda}}
+ | {{Flag|Sahrawi Arab Democratic Republic}}
+ | {{Flag|São Tomé and Príncipe}}
+ | {{Flag|Senegal}}
+ | {{Flag|Seychelles}}
+ | {{Flag|Sierra Leone}}
+ | {{Flag|Somalia}}
+ | {{Flag|South Africa}}
+ | {{Flag|South Sudan}}
+ | {{Flag|Tanzania}}
+ | {{Flag|Togo}}
+ | {{Flag|Tunisia}}
+ | {{Flag|Uganda}}
+ | {{Flag|Zambia}}
+ | {{Flag|Zimbabwe}}
+}}
+| label9 = Anëtarë të pezulluar
+| data9 = {{Collapsible list|titlestyle = text-align:left;font-weight:bold;
+ | title = Shtete të pezulluara
+ | {{Flag|Burkina Faso}}
+ | {{Flag|Guinea-Bissau}}
+ | {{Flag|Madagascar}}
+ | {{Flag|Mali}}
+ | {{Flag|Niger}}
+ | {{Flag|Sudan}}
+}}
+| label10 = Vëzhgues
+| data10 = {{Collapsible list|titlestyle = text-align:left;font-weight:bold;
+ | title = 9 shtete vëzhguese
+ | {{Flag|Haiti}}
+ | {{Flag|Kazakhstan}}
+ | {{Flag|Latvia}}
+ | {{Flag|Mexico}}
+ | {{Flag|State of Palestine}}
+ | {{Flag|Serbia}}
+ | {{Flag|Turkey}}
+ | {{Flag|Ukraine}}
+ | {{Flag|United Arab Emirates}}
+}}
+| label11 = Qendra politike
+| data11 = {{Unbulleted list|[[Addis Ababa]]{{Efn|Selia e {{ill|Komisioni i Bashkimit Afrikan|en|African Union Commission}}}}|[[Johannesburg]]{{Efn|Selia e {{ill|Parlamenti Pan-Afrikan|en|Pan-African Parliament}}}}}}
+| label12 = Aglomeracione urbane
+| data12 = {{Unbulleted list|{{Nowrap|[[Kajro]]}}|{{Nowrap|[[Lagos]]}}}}
+| label13 = Gjuhët zyrtare
+| data13 = [[Gjuha arabe|Arabisht]] · [[Gjuha angleze|Anglisht]] · [[Gjuha frënge|Frëngjisht]] · [[Gjuha portugeze|Portugalisht]] · [[Gjuha spanjolle|Spanjisht]] · Suahilisht dhe gjuhë të tjera të Afrikës<ref name="au.int" /><ref name=":4" />
+| label14 = Demonim
+| data14 = Afrikan
+| header15 = Udhëheqja
+| label16 = Kryetari
+| data16 = Évariste Ndayishimiye
+| label17 = Kryetari i Komisionit
+| data17 = Mahamoud Ali Youssouf
+| label18 = Presidenti i Parlamentit
+| data18 = Fateh Boutbig
+| label19 = Legjislatura
+| data19 = {{ill|Parlamenti Pan-Afrikan|en|Pan-African Parliament}}
+| header20 = Themelimi
+| label21 = Karta e OUA-së
+| data21 = 25 maj 1963
+| label22 = Traktati i Abujës
+| data22 = 3 qershor 1991
+| label23 = {{ill|Deklarata e Sirtit|en|Sirte Declaration}}
+| data23 = 9 shtator 1999
+| label24 = Themelimi i Bashkimit Afrikan
+| data24 = 9 korrik 2002
+| label25 = Pranimi i [[Sudani i Jugut|Sudanit të Jugut]]
+| data25 = 9 korrik 2011
+| label26 = Pranimi i [[Maroku|Marokut]]
+| data26 = 31 janar 2017
+| label27 = {{ill|Zona Afrikane e Tregtisë së Lirë Kontinentale|en|African Continental Free Trade Area}} (AfCFTA)
+| data27 = 1 janar 2021
+| header28 = Sipërfaqja dhe popullsia
+| label29 = Sipërfaqja
+| data29 = 29.922.059 km²<ref name="Stat2016">Korrespondon me sipërfaqen tokësore. Duke përfshirë zonat ekskluzive ekonomike të secilit shtet anëtar, sipërfaqja totale është 43.434.569 km² (16.770.181 mi²).</ref>
+| label30 = Popullsia
+| data30 = 1.549.867.579 (2025)<ref>{{cite web |title=Africa Population |url=https://www.worldometers.info/world-population/africa-population/ |access-date=2025-09-02 |language=en}}</ref>
+| label31 = Dendësia
+| data31 = 51,8/km²
+| header32 = Ekonomia
+| label33 = PBB (PPP)
+| data33 = {{Rritje}} 10,830 trilionë $<ref name="imf2">{{cite web |title=Africa: Data Mapper Economic Overview |url=https://www.imf.org/external/datamapper/profile/AFQ |website=International Monetary Fund |publisher=IMF |access-date=2025-07-01 |language=en}}</ref>{{Efn|name=exclusion|Duke përjashtuar Saharën Perëndimore për shkak të mungesës së të dhënave}}
+| label34 = PBB (PPP) për frymë
+| data34 = {{Rritje}} 7.370 $<ref name="imf2" />
+| label35 = PBB (nominal)
+| data35 = {{Rritje}} 2,830 trilionë $<ref name="imf2" />{{Efn|name=exclusion|Duke përjashtuar Saharën Perëndimore për shkak të mungesës së të dhënave}}
+| label36 = PBB (nominal) për frymë
+| data36 = {{Rritje}} 1.930 $<ref name="imf2" />
+| label37 = HDI
+| data37 = 0,577 (2020)
+| label38 = TLD
+| data38 = .africa
+| label39 = Faqja zyrtare
+| data39 = {{URL|https://au.int}}
+| below = {{Listë shënimesh}}
+}}
+
+'''Bashkimi Afrikan''' ('''BA''') është një {{ill|Bashkimi kontinental|en|Continental union|lt=bashkim kontinental}} i 55 shteteve anëtare të vendosura në kontinentin e [[Afrika|Afrikës]].<ref name="UIA">{{Cite web |url=https://uia.org/s/or/en/1100033436 |title=African Union (AU) |year=2025 |department=UIA Global Civil Society Database |work=Union of International Associations |agency=Yearbook of International Organizations Online |location=Bruksel, Belgjikë |access-date=2025-01-08 |language=en}}</ref><ref>{{Cite web |date=2024-05-06 |title=Member States AU-UN |url=https://www.africanunion-un.org/memberstates |access-date=2024-05-07 |website=WorldAtlas |language=en}}</ref> BA-ja u shpall në {{ill|Deklarata e Sirtit|en|Sirte Declaration|lt=Deklaratën e Sirtit}} në [[Sërt]], Libi, më 9 shtator 1999, duke bërë thirrje për themelimin e Bashkimit Afrikan. Blloku u lançua më 9 korrik 2002 në [[Durban]], Afrika e Jugut.<ref name="African Union 2002">{{cite web |url=http://www.africa-union.org/official_documents/Speeches_&_Statements/HE_Thabo_Mbiki/Launch%20of%20the%20African%20Union,%209%20July%202002.htm |title=Launch of the African Union, 9 July 2002: Address by the chairperson of the AU, President Thabo Mbeki |first=Thabo |last=Mbeki |date=2002-07-09 |publisher=africa-union.org |location=Stadiumi ABSA, Durban, Afrika e Jugut |access-date=2009-02-08 |archive-url=https://web.archive.org/web/20090503210549/http://www.africa-union.org/official_documents/Speeches_%26_Statements/HE_Thabo_Mbiki/Launch%20of%20the%20African%20Union%2C%209%20July%202002.htm |archive-date=2009-05-03 |language=en}}</ref> Qëllimi i BA-së ishte zëvendësimi i {{ill|Organizata e Unitetit Afrikan|en|Organisation of African Unity|lt=Organizatës së Unitetit Afrikan}} (OUA), e themeluar më 25 maj 1963 në [[Addis Ababa]] nga 32 qeveri nënshkruese; OUA-ja u shpërbë më 9 korrik 2002.<ref>{{Cite web |title=About the African Union |url=https://au.int/en/overview |access-date=2025-06-21 |website=African Union |archive-date=2025-05-13 |archive-url=https://web.archive.org/web/20250513131424/https://au.int/en/overview |url-status=dead |language=en}}</ref> Vendimet më të rëndësishme të BA-së merren nga {{ill|Asambleja e Bashkimit Afrikan|en|Assembly of the African Union}}, një takim gjashtëmujor i krerëve të shteteve dhe [[Qeveria|qeverive]] të shteteve anëtare. Ekonomia afrikane integrohet rajonalisht përmes këtij bashkimi.
+
+Sekretariati i BA-së, {{ill|Komisioni i Bashkimit Afrikan|en|African Union Commission}}, ka selinë në [[Addis Ababa]]. Qyteti më i madh në BA është [[Lagos]], Nigeria, ndërsa aglomerati urban më i madh është [[Kajro]], në Egjipt. Bashkimi Afrikan ka më shumë se 1,5 miliardë banorë dhe një sipërfaqe prej rreth {{convert|30|e6km2|e6sqmi|sigfig=2|abbr=unit}}, dhe përfshin monumente botërore si [[Shkretëtira e Saharasë|Sahara]] dhe [[Nili|Nili]].<ref>{{cite book |last1=Manboah-Rockson |first1=Joseph |title=Politics & the Struggle for Democracy in Ghana: An Introduction to Political Science |date=2016-09-23 |language=en}}</ref> Gjuhët kryesore të punës janë [[Gjuha arabe|arabishtja]], [[Gjuha angleze|anglishtja]], [[Gjuha frënge|frëngjishtja]], [[Gjuha portugeze|portugalishtja]], [[Gjuha spanjolle|spanjishtja]] dhe suahilishtja.<ref name="au.int">{{Cite web |url=https://au.int/en/about/languages |title=AU Languages |access-date=2021-05-02 |publisher=African Union |archive-date=2019-04-07 |archive-url=https://web.archive.org/web/20190407001442/https://au.int/en/about/languages |url-status=live |quote=Neni 11 i Protokollit për Amendamentet e Aktit Themelues të Bashkimit Afrikan përcakton: Gjuhët zyrtare të Bashkimit dhe të gjitha institucioneve të tij janë arabishtja, anglishtja, frëngjishtja, portugalishtja, spanjishtja, kisvahili dhe çdo gjuhë tjetër afrikane. |language=en}}</ref> Brenda Bashkimit Afrikan ekzistojnë organe zyrtare, si {{ill|Këshilli i Paqes dhe Sigurisë|en|Peace and Security Council}} dhe {{ill|Parlamenti Pan-Afrikan|en|Pan-African Parliament}}. BA-ja është anëtare e [[G20]].<ref>{{Cite news |date=2023-09-09 |title=African Union made permanent member of G20 at Delhi summit |work=[[The Guardian]] |url=https://theguardian.com/world/2023/sep/09/african-union-made-permanent-member-of-g20-at-delhi-summit |access-date=2023-12-12 |language=en}}</ref>
+== Përmbledhje ==
+Objektivat e Bashkimit Afrikan janë:<ref>{{Cite web |url=https://au.int/sites/default/files/pages/34873-file-constitutiveact_en.pdf |title=Constitutive Act |access-date=2021-05-02 |publisher=African Union |archive-date=2020-04-15 |archive-url=https://web.archive.org/web/20200415235637/https://au.int/sites/default/files/pages/34873-file-constitutiveact_en.pdf |url-status=live |language=en }}</ref>
+
+# Të arrihet një unitet, kohezion dhe solidaritet më i madh midis vendeve afrikane dhe kombeve [[Afrika|afrikane]].
+# Të mbrohet sovraniteti, [[Integriteti territorial|integriteti territorial]] dhe pavarësia e shteteve anëtare të saj.
+# Të përshpejtohet integrimi politik dhe socio-ekonomik i kontinentit.<ref>{{cite web |url=https://www.guambia.com.uy/67/evolution-of-geopolitical-dynamics-in-africa/2312/ |title=Evolution of Geopolitical Dynamics in Africa |website=Guambia |date=2024-11-28 |access-date=2025-01-02 |language=en}}</ref><ref>{{cite web |url=https://kcsgroup.com/the-new-power-play-in-africa-russia-china-and-the-shifting-sands-of-influence/ |title=The New Power Play in Africa: Russia, China, and the Shifting Sands of Influence |website=KCS Group |access-date=2025-01-02 |language=en}}</ref>
+# Të promovohen dhe mbrohen pozicionet e përbashkëta [[Afrika|afrikane]] për çështjet me interes për kontinentin dhe popujt e tij.
+# Të inkurajohet bashkëpunimi ndërkombëtar, duke marrë parasysh [[Karta e Kombeve të Bashkuara|Kartën e Kombeve të Bashkuara]] dhe [[Deklarata Universale e të Drejtave të Njeriut|Deklaratën Universale të të Drejtave të Njeriut]].
+# Të promovohet paqja, siguria dhe stabiliteti në kontinent.
+# Të promovohen parimet dhe institucionet demokratike, pjesëmarrja popullore dhe {{ill|Qeverisja e mirë|en|Good governance|lt=qeverisja e mirë}}.
+# Të promovohen dhe mbrohen të drejtat e njeriut dhe të popujve në përputhje me {{ill|Karta Afrikane për të Drejtat e Njeriut dhe të Popujve|en|African Charter on Human and Peoples' Rights|lt=Kartën Afrikane për të Drejtat e Njeriut dhe të Popujve}} dhe instrumente të tjera përkatëse të të drejtave të njeriut.
+# Të krijohen kushtet e nevojshme që i mundësojnë kontinentit të luajë rolin e vet të drejtë në ekonominë globale dhe në negociatat ndërkombëtare.
+# Të promovohet [[Zhvillimi i qëndrueshëm|zhvillimi i qëndrueshëm]] në nivelet ekonomike, sociale dhe kulturore, si dhe integrimi i ekonomive afrikane.
+# Të promovohet bashkëpunimi në të gjitha fushat e veprimtarisë njerëzore për të ngritur [[Standardi i jetesës|standardin e jetesës]] të popullit afrikan.
+# Të koordinohen dhe harmonizohen politikat midis {{ill|Komunitetet Ekonomike Rajonale|en|Regional Economic Communities|lt=Komuniteteve Ekonomike Rajonale}} ekzistuese dhe të ardhshme për arritjen graduale të objektivave të Bashkimit.
+# Të përparohet zhvillimi i kontinentit duke promovuar kërkimin në të gjitha fushat, veçanërisht në shkencë dhe teknologji.
+# Të punohet me partnerë përkatës ndërkombëtarë për çrrënjosjen e sëmundjeve të parandalueshme dhe promovimin e shëndetit të mirë në kontinent.
+
+Bashkimi Afrikan përbëhet nga organe politike dhe administrative. Organi më i lartë vendimmarrës është {{ill|Asambleja e Bashkimit Afrikan|en|Assembly of the African Union}}, i përbërë nga të gjithë krerët e shteteve ose qeverive të shteteve anëtare të BA-së. Asambleja kryesohet nga Évariste Ndayishimiye, presidenti i [[Burundi|Burundit]]. BA-ja ka gjithashtu një organ përfaqësues, {{ill|Parlamenti Pan-Afrikan|en|Pan-African Parliament}}, i cili përbëhet nga 265 anëtarë të zgjedhur nga legjislaturat kombëtare të shteteve anëtare të BA-së. Presidenti i tij është Fortune Z. Charumbira.
+
+Organe të tjera politike të BA-së përfshijnë:
+
+* {{ill|Këshilli Ekzekutiv i Bashkimit Afrikan|en|Executive Council of the African Union|lt=Këshillin Ekzekutiv}}, i përbërë nga ministrat e jashtëm, i cili përgatit vendimet për Asamblenë;
+* {{ill|Komiteti i Përfaqësuesve të Përhershëm i Bashkimit Afrikan|en|Permanent Representatives' Committee of the African Union|lt=Komitetin e Përfaqësuesve të Përhershëm}}, i përbërë nga ambasadorët në [[Addis Ababa]] të shteteve anëtare të BA-së; dhe
+* {{ill|Këshilli Ekonomik, Social dhe Kulturor|en|Economic, Social, and Cultural Council|lt=Këshillin Ekonomik, Social dhe Kulturor}} (ECOSOCC), një organ konsultativ i shoqërisë civile.
+
+{{ill|Komisioni i Bashkimit Afrikan|en|African Union Commission}}, sekretariati i strukturave politike, kryesohet nga Mahamoud Ali Youssouf i Xhibutit.
+
+Struktura të tjera të BA-së strehohen nga shtete të ndryshme anëtare:
+
+* {{ill|Komisioni Afrikan për të Drejtat e Njeriut dhe të Popujve|en|African Commission on Human and Peoples' Rights}} ka selinë në [[Banxhul]], [[Gambia]]; dhe
+* {{ill|Partneriteti i Ri për Zhvillimin e Afrikës|en|New Partnership for Africa's Development}} (NEPAD) dhe sekretariatet e Mekanizmit Afrikan të Rishikimit nga Bashkëmoshatarët (APRM) dhe {{ill|Parlamenti Pan-Afrikan|en|Pan-African Parliament}} ndodhen në Midrand, Afrika e Jugut.
+
+Ndërhyrja e parë ushtarake e BA-së në një shtet anëtar ishte vendosja në maj 2003 e një force paqeruajtëse me ushtarë nga Afrika e Jugut, [[Etiopia]], dhe [[Mozambiku]] për të mbikëqyrur zbatimin e marrëveshjeve të ndryshme në [[Burundi|Burundin]]. Trupat e BA-së u vendosën gjithashtu në [[Sudani|Sudan]] për paqeruajtje gjatë {{ill|Lufta në Darfur|en|War in Darfur|lt=Luftës në Darfur}}, përpara se misioni t'i dorëzohej [[Organizata e Kombeve të Bashkuara|Kombeve të Bashkuara]] më 1 janar 2008 përmes Misionit të Kombeve të Bashkuara dhe Bashkimit Afrikan në Darfur (UNAMID). BA-ja ka një mision paqeruajtës në [[Somalia|Somali]], i përbërë nga trupa nga [[Uganda]] dhe Burundi.<ref>{{Cite news |date=2010-07-27 |title=African Union adds 4,000 troops to Somalia peace force |language=en |work=Reuters |url=https://www.reuters.com/article/idUSLDE66Q23I |access-date=2022-05-17 |archive-date=2022-05-17 |archive-url=https://web.archive.org/web/20220517045202/https://www.reuters.com/article/idUSLDE66Q23I |url-status=live }}</ref>
+
+BA-ja ka miratuar një sërë dokumentesh të reja të rëndësishme që vendosin norma në nivel kontinental, për të plotësuar ato që ishin tashmë në fuqi kur u krijua. Këto përfshijnë {{ill|Konventa e Bashkimit Afrikan për Parandalimin dhe Luftimin e Korrupsionit|en|African Union Convention on Preventing and Combating Corruption|lt=Konventën e Bashkimit Afrikan për Parandalimin dhe Luftimin e Korrupsionit}} (2003), Kartën Afrikane për Demokraci, Zgjedhje dhe Qeverisje (2007), {{ill|Partneriteti i Ri për Zhvillimin e Afrikës|en|New Partnership for Africa's Development|lt=Partneritetin e Ri për Zhvillimin e Afrikës}} (NEPAD) dhe Deklaratën e tij të lidhur për Demokraci, Qeverisje Politike, Ekonomike dhe Korporative.<ref>[http://www.africa-union.org/root/au/Documents/Treaties/treaties.htm Africa-union.org] {{Webarchive|url=https://web.archive.org/web/20070604051527/http://www.africa-union.org/root/au/Documents/Treaties/treaties.htm |date=2007-06-04 }}.</ref>
+== Historia ==
+{{Hatnote|Artikulli kryesor: {{ill|Historia e Bashkimit Afrikan|en|History of the African Union}} dhe {{ill|Historia e Afrikës|en|History of Africa}}}}
+
+[[File:Emperor Haile Selassie with President Jomo Kenyatta and others.jpg|thumb|Liderët afrikanë që themeluan {{ill|Organizata e Unitetit Afrikan|en|Organisation of African Unity|lt=OUA-n}}, paraardhësin e Bashkimit Afrikan: Perandori {{ill|Haile Selasje|en|Haile Selassie}} (në qendër), Presidenti [[Jomo Kenyatta|Kenyatta]] (në të djathtë) dhe liderë të tjerë afrikanë, përfshirë Presidentin Obote (pas, në anën e majtë)]]
+Themelet historike të Bashkimit Afrikan e kanë origjinën në '''Kongresin e Parë të Shteteve të Pavarura Afrikane''', i mbajtur në [[Akra]], [[Gana]], nga 15 deri më 22 prill 1958. Konferenca synonte të vendoste Ditën e Afrikës për të shënuar çdo vit lëvizjen çlirimtare që lidhet me vullnetin e popujve afrikanë për t'u çliruar nga sundimi kolonial, si dhe përpjekjet e mëvonshme për të bashkuar Afrikën, përfshirë {{ill|Organizata e Unitetit Afrikan|en|Organisation of African Unity}} (OUA), e cila u themelua më 25 maj 1963, dhe Komuniteti Ekonomik Afrikan në 1991.<ref>[https://www.sahistory.org.za/topic/history-africa-day-25-may] {{Webarchive|url=https://web.archive.org/web/20181210205406/http://www.sahistory.org.za/topic/history-africa-day-25-may|date=2018-12-10}} South African History Online (SAHO), 15 May 2018.</ref> Kritikët argumentuan se OUA në veçanti bëri pak për të mbrojtur të drejtat dhe liritë e qytetarëve afrikanë nga vetë liderët e tyre politikë, duke e quajtur shpesh "Klubi i Diktatorëve".<ref name="bbc2115736" />
+
+Ideja e krijimit të Bashkimit Afrikan u ringjall në mesin e viteve 1990 nën udhëheqjen e kreut të shtetit libian Muamer el-Gadafi;<ref>{{Cite web|date=2011-08-26|title=Gaddafi: the man who would be king of Africa |first=Adekeye |last=Adebajo |url=http://www.theguardian.com/commentisfree/2011/aug/26/gaddafi-legacy-meddling-africa|access-date=2021-03-31|website=The Guardian|language=en|archive-date=2021-04-14|archive-url=https://web.archive.org/web/20210414011605/https://www.theguardian.com/commentisfree/2011/aug/26/gaddafi-legacy-meddling-africa|url-status=live}}</ref> {{ill|Deklarata e Sirtit|en|Sirte Declaration}} (e quajtur sipas Sirtit, Libi) u lëshua nga krerët e shteteve dhe qeverive të OUA më 9 shtator 1999, duke bërë thirrje për themelimin e një Bashkimi Afrikan.<ref>{{Cite web|date=2011-12-05|title=The African Union After Gaddafi |url=http://blogs.shu.edu/journalofdiplomacy/2011/12/the-african-union-after-gaddafi/|access-date=2021-03-31|website=The Journal of Diplomacy and International Relations |language=en-US|archive-date=2021-04-10|archive-url=https://web.archive.org/web/20210410172928/http://blogs.shu.edu/journalofdiplomacy/2011/12/the-african-union-after-gaddafi/|url-status=live}}</ref> Pas Deklaratës u mbajtën samite në [[Lomé]] në vitin 2000, kur u miratua Akti Konstitutiv i Bashkimit Afrikan, dhe në [[Lusaka]] në 2001, kur u miratua plani për zbatimin e Bashkimit Afrikan. Gjatë të njëjtës periudhë, u krijua gjithashtu iniciativa për themelimin e Partneritetit të Ri për Zhvillimin e Afrikës (NEPAD).<ref>{{Cite web|title=African leaders elect OAU boss|date=2001-07-10|url=https://edition.cnn.com/2001/WORLD/africa/07/10/summit.secretary/index.html|access-date=2021-03-31|website=CNN |language=en|archive-date=2021-04-14|archive-url=https://web.archive.org/web/20210414032647/https://edition.cnn.com/2001/WORLD/africa/07/10/summit.secretary/index.html|url-status=live}}</ref><ref>{{Cite web|date=2015-08-27|title=New Partnership for Africa's Development – NEPAD: Poverty Eradication|url=https://www.un.org/development/desa/socialperspectiveondevelopment/issues/new-partnership-for-africas-development-nepad.html/|access-date=2021-03-31|website=UN|language=en-US|archive-date=2021-04-19|archive-url=https://web.archive.org/web/20210419153619/https://www.un.org/development/desa/socialperspectiveondevelopment/issues/new-partnership-for-africas-development-nepad.html|url-status=live}}</ref>
+
+Bashkimi Afrikan u lançua në [[Durban]] më 9 korrik 2002 nga kryetari i tij i parë, ish-kreu i shtetit të Afrikës së Jugut [[Thabo Mbeki]], në sesionin e parë të Asamblesë së Bashkimit Afrikan.<ref>{{Cite web|date=2016-11-18|title=The African Union is launched|url=https://www.un.org/africarenewal/magazine/september-2002/african-union-launched|access-date=2021-03-31|website=Africa Renewal|language=en|archive-date=2021-04-16|archive-url=https://web.archive.org/web/20210416010303/https://www.un.org/africarenewal/magazine/september-2002/african-union-launched|url-status=live}}</ref> Sesioni i dytë i Asamblesë u mbajt në [[Maputo]] në 2003 dhe sesioni i tretë në [[Addis Ababa]] u mbajt më 6 korrik 2004.
+
+Që nga viti 2010, Bashkimi Afrikan synon krijimin e një agjencie të përbashkët hapësinore afrikane.<ref>{{cite news |last=Smith |first=David |title=Africa prepares to join the big boys in the space race |url=https://www.theguardian.com/world/2010/sep/05/africa-space-programme-david-smith |newspaper=The Guardian |date=2010-09-05 |access-date=2016-12-16 |language=en |archive-date=2016-11-16 |archive-url=https://web.archive.org/web/20161116213335/https://www.theguardian.com/world/2010/sep/05/africa-space-programme-david-smith |url-status=live }}</ref><ref>{{cite news |last=Smith |first=David |title=Sudanese president calls for African space agency |url=https://www.theguardian.com/world/2012/sep/06/sudanese-president-african-space-agency |newspaper=The Guardian |date=2012-09-06 |access-date=2016-12-16 |language=en |archive-date=2017-01-02 |archive-url=https://web.archive.org/web/20170102203403/https://www.theguardian.com/world/2012/sep/06/sudanese-president-african-space-agency |url-status=live }}</ref><ref>{{cite web |url=http://phys.org/news/2012-09-ministers-african-space-agency.html |title=Africa eyes joint space agency |publisher=Phys.org |date=2012-09-11 |access-date=2013-10-21 |language=en |archive-date=2013-10-21 |archive-url=https://web.archive.org/web/20131021070210/http://phys.org/news/2012-09-ministers-african-space-agency.html |url-status=live }}</ref><ref>{{cite web |url=http://allafrica.com/stories/201008090886.html |title=AU to Establish African Space Agency |first1=Onyebuchi |last1=Ezigbo |first2=Lois |last2=Okpara |publisher=All Africa |date=2010-08-09 |access-date=2015-12-11 |language=en |archive-date=2014-02-12 |archive-url=https://web.archive.org/web/20140212084442/http://allafrica.com/stories/201008090886.html |url-status=live }}</ref>
+
+[[Barack Obama]] ishte presidenti i parë në detyrë i Shteteve të Bashkuara që foli përpara Bashkimit Afrikan në Addis Ababa më 29 korrik 2015. Gjatë fjalimit të tij, ai inkurajoi botën të rrisë lidhjet ekonomike përmes investimeve dhe tregtisë me kontinentin dhe vlerësoi shenjat e përparimit të bërë në [[Arsimi në Afrikë|arsim]], infrastrukturë dhe ekonomi. Megjithatë, ai kritikoi gjithashtu mungesën e demokracisë dhe liderët që refuzojnë të tërhiqen, diskriminimin ndaj pakicave (përfshirë personat LGBT, grupet fetare dhe etnitë) dhe korrupsionin. Ai sugjeroi një demokratizim të intensifikuar dhe tregti të lirë për të rritur ndjeshëm cilësinë e jetës për afrikanët.<ref>{{cite news |last1=Lee |first1=Carol E. |title=Obama Becomes First U.S. President to Address African Union |url=https://www.wsj.com/articles/obama-becomes-first-u-s-president-to-address-african-union-1438090849 |newspaper=The Wall Street Journal |date=2015-07-28 |access-date=2015-07-29 |language=en |archive-date=2015-07-29 |archive-url=https://web.archive.org/web/20150729094216/http://www.wsj.com/articles/obama-becomes-first-u-s-president-to-address-african-union-1438090849 |url-status=live }}</ref><ref>{{cite web |title=Remarks by President Obama to the People of Africa |url=https://obamawhitehouse.archives.gov/the-press-office/2015/07/28/remarks-president-obama-people-africa |via=National Archives |work=whitehouse.gov |date=2015-07-28 |access-date=2015-07-29 |language=en |archive-date=2017-01-20 |archive-url=https://web.archive.org/web/20170120220442/https://obamawhitehouse.archives.gov/the-press-office/2015/07/28/remarks-president-obama-people-africa |url-status=live }}</ref>
+=== Traktatet ===
+
+== Politika ==
+Bashkimi Afrikan ka një numër organesh zyrtare:
+; {{ill|Parlamenti Pan-Afrikan|en|Pan-African Parliament}} (PAP): Do të bëhet organi legjislativ më i lartë i Bashkimit Afrikan. Selia e PAP-së ndodhet në Midrand, [[Johannesburg]], Afrika e Jugut. Parlamenti përbëhet nga 265 përfaqësues të zgjedhur nga të gjitha 55 shtetet e BA-së dhe synon të sigurojë pjesëmarrjen e popullit dhe të shoqërisë civile në proceset e qeverisjes demokratike. Presidenti i tij është Fateh Boutbig, nga [[Algjeria]].
+; {{ill|Asambleja e Bashkimit Afrikan|en|Assembly of the African Union}}: E përbërë nga krerët e shteteve dhe krerët e qeverive të shteteve të BA-së, Asambleja është aktualisht organi suprem qeverisës i Bashkimit Afrikan. Ajo gradualisht po transferon disa nga kompetencat e saj vendimmarrëse tek Parlamenti Pan-Afrikan. Mblidhet një herë në vit dhe merr vendime me konsensus ose me shumicë dy të tretash. Kryetari aktual i BA-së që nga shkurti 2026 është presidenti Évariste Ndayishimiye, president i [[Burundi|Burundit]].
+; {{ill|Komisioni i Bashkimit Afrikan|en|African Union Commission}} (ose Autoriteti): Sekretariati i Bashkimit Afrikan, i përbërë nga dhjetë komisionerë dhe staf mbështetës, me seli në [[Addis Ababa]], Etiopi. Në mënyrë të ngjashme me homologun e tij [[Bashkimi Evropian|evropian]], [[Komisioni Evropian|Komisionin Evropian]], ai është përgjegjës për administrimin dhe koordinimin e aktiviteteve dhe mbledhjeve të BA-së.
+; {{ill|Gjykata e Drejtësisë e Bashkimit Afrikan|en|Court of Justice of the African Union}}: Akti Konstitutiv parashikon një Gjykatë të Drejtësisë që të vendosë mbi mosmarrëveshjet lidhur me interpretimin e traktateve të BA-së. Një protokoll për ngritjen e kësaj Gjykate të Drejtësisë u miratua në 2003 dhe hyri në fuqi në 2009. Ai u zëvendësua, megjithatë, nga një protokoll që krijoi {{ill|Gjykata Afrikane e Drejtësisë dhe të Drejtave të Njeriut|en|African Court of Justice and Human Rights|lt=Gjykatën Afrikane të Drejtësisë dhe të Drejtave të Njeriut}}, e cila do të përfshijë {{ill|Gjykata Afrikane për të Drejtat e Njeriut dhe të Popujve|en|African Court on Human and Peoples' Rights|lt=Gjykatën Afrikane për të Drejtat e Njeriut dhe të Popujve}} (shih më poshtë), tashmë të krijuar, dhe do të ketë dy dhoma: një për çështjet e përgjithshme ligjore dhe një për vendimet mbi traktatet e të drejtave të njeriut.
+; {{ill|Këshilli Ekzekutiv i Bashkimit Afrikan|en|Executive Council of the African Union|lt=Këshilli Ekzekutiv}}: Përbëhet nga ministra të caktuar nga qeveritë e shteteve anëtare. Ai vendos për çështje si tregtia e jashtme, sigurimi social, ushqimi, bujqësia dhe komunikimet, është përgjegjës përpara Asamblesë dhe përgatit material që Asambleja t'i diskutojë dhe miratojë. Kryesohet nga Shawn Makuyana nga [[Zimbabveja]] (2015–).
+; Komiteti i Përfaqësuesve të Përhershëm: I përbërë nga përfaqësues të përhershëm të emëruar të shteteve anëtare, Komiteti përgatit punën për Këshillin Ekzekutiv, i ngjashëm me rolin e Komitetit të Përfaqësuesve të Përhershëm në [[Bashkimi Evropian|Bashkimin Evropian]].
+; {{ill|Këshilli i Paqes dhe Sigurisë|en|Peace and Security Council}} (KPS): Propozuar në Samitin e Lusakës të vitit 2001 dhe krijuar në 2004 sipas një protokolli të Aktit Konstitutiv të miratuar nga Asambleja e BA-së në korrik 2002. Protokolli e përcakton KPS-në si një mekanizëm të sigurisë kolektive dhe paralajmërimit të hershëm për të lehtësuar një përgjigje të shpejtë dhe efektive ndaj situatave të konfliktit dhe krizës në Afrikë. Përgjegjësi të tjera që protokolli i jep KPS-së përfshijnë parandalimin, menaxhimin dhe zgjidhjen e konflikteve, ndërtimin e paqes pas konfliktit dhe zhvillimin e politikave të përbashkëta të mbrojtjes. KPS-ja ka pesëmbëdhjetë anëtarë të zgjedhur mbi bazë rajonale nga Asambleja. I ngjashëm në qëllim dhe funksionim me [[Këshilli i Sigurimit i Organizatës së Kombeve të Bashkuara|Këshillin e Sigurimit të Kombeve të Bashkuara]].
+; {{ill|Këshilli Ekonomik, Social dhe Kulturor|en|Economic, Social and Cultural Council}}: Një organ këshillimor i përbërë nga përfaqësues profesionalë dhe qytetarë, i ngjashëm me Komitetin Ekonomik dhe Social evropian. Kryetari i ECOSOCC, i zgjedhur në 2008, është avokati kamerunas Akere Muna nga Unioni i Avokatëve Pan-Afrikanë (PALU).
+; Komitetet Teknike të Specializuara: Si Traktati i Abuxhës ashtu edhe Akti Konstitutiv parashikojnë krijimin e Komiteteve Teknike të Specializuara, të përbëra nga ministra afrikanë, për të këshilluar Asamblenë. Në praktikë, ato nuk janë ngritur kurrë. Dhjetë temat e propozuara janë: Ekonomia Rurale dhe Çështjet Bujqësore; Çështjet Monetare dhe Financiare; Tregtia, Doganat dhe Imigracioni; Industria, Shkenca dhe Teknologjia; Energjia, Burimet Natyrore dhe Mjedisi; Transporti, Komunikimet dhe Turizmi; Shëndetësia; Puna dhe Çështjet Sociale; Arsimi, Kultura dhe Burimet Njerëzore.
+; Institucionet financiare
+* Banka Qendrore Afrikane – [[Abuxha]], Nigeria
+* Banka Afrikane e Investimeve – [[Tripoli]], Libia
+* Fondi Monetar Afrikan – [[Jaunde]], Kameruni
+Këto institucione nuk janë krijuar ende; megjithatë, Komitetet Drejtuese që punojnë për themelimin e tyre janë konstituuar. Përfundimisht, BA-ja synon të ketë një monedhë të vetme (monedha Afro).
+; Shëndetësia: {{ill|Qendrat Afrikane për Kontrollin dhe Parandalimin e Sëmundjeve|en|Africa Centres for Disease Control and Prevention}} (Africa CDC) u themelua në 2016 dhe u lançua në 2017. Selia e saj ndodhet në Addis Ababa, Etiopi.<ref name="au.int-2017-01-31">{{cite web |url=https://au.int/en/newsevents/20170131/africa-cdc-official-launch |title=Africa CDC Official Launch |publisher=African Union |date=2017-01-31 |access-date=2020-04-13 |archive-url=https://web.archive.org/web/20180630023917/https://au.int/en/newsevents/20170131/africa-cdc-official-launch |archive-date=2018-06-30 |language=en}}</ref><ref name="reliefweb.int-2017-02-02">{{cite web |url=https://reliefweb.int/report/world/african-union-launches-africa-cdc-continent-wide-public-health-agency |title=The African Union launches Africa CDC, a Continent-wide Public Health Agency |date=2017-02-02 |work=Reliefweb |access-date=2020-04-13 |archive-url=https://web.archive.org/web/20200322180037/https://reliefweb.int/report/world/african-union-launches-africa-cdc-continent-wide-public-health-agency |archive-date=2020-03-22 |language=en}}</ref><ref name="cdc.gov-2017-07-27">{{cite web |url=https://www.cdc.gov/globalhealth/stories/africa-cdc.html |title=Africa CDC: Improving Disease Detection and Emergency Response on the African Continent |date=2017-07-27 |publisher=Centers for Disease Control and Prevention |access-date=2020-04-13 |archive-url=https://web.archive.org/web/20200322180936/https://www.cdc.gov/globalhealth/stories/africa-cdc.html |archive-date=2020-03-22 |language=en}}</ref><ref>{{cite web |title=Inspection visit to Africa CDC Headquarters building site |url=https://africacdc.org/news-item/inspection-visit-to-africa-cdc-headquarters-building-site/ |access-date=2022-02-05 |website=Africa CDC |language=en |archive-date=2022-02-05 |archive-url=https://web.archive.org/web/20220205114846/https://africacdc.org/news-item/inspection-visit-to-africa-cdc-headquarters-building-site/ |url-status=live}}</ref>
+; Të drejtat e njeriut: {{ill|Komisioni Afrikan për të Drejtat e Njeriut dhe të Popujve|en|African Commission on Human and Peoples' Rights}}, në ekzistencë që nga viti 1986, është krijuar në bazë të {{ill|Karta Afrikane për të Drejtat e Njeriut dhe të Popujve|en|African Charter on Human and Peoples' Rights|lt=Kartës Afrikane për të Drejtat e Njeriut dhe të Popujve}} (Karta Afrikane) dhe jo të Aktit Konstitutiv të Bashkimit Afrikan. Ai është organi kryesor afrikan i të drejtave të njeriut, me përgjegjësi për monitorimin dhe promovimin e respektimit të Kartës Afrikane. Gjykata Afrikane për të Drejtat e Njeriut dhe të Popujve u krijua në 2006 për të plotësuar punën e komisionit, pas hyrjes në fuqi të një protokolli të Kartës Afrikane që parashikonte krijimin e saj. Parashikohet që Gjykata Afrikane për të Drejtat e Njeriut dhe të Popujve të bashkohet me Gjykatën e Drejtësisë së Bashkimit Afrikan (shih më sipër).
+; Hapësira: {{ill|Agjencia Afrikane e Hapësirës|en|African Space Agency}} u formua zyrtarisht në 2023. Selia e saj është në Kajro.
+; Energjia: {{ill|Komisioni Afrikan i Energjisë|en|African Energy Commission}} u themelua në 2008 dhe ka bazën në Algjer.
+=== Shtetet anëtare ===
+{{Hatnote|Artikulli kryesor: {{ill|Shtetet anëtare të Bashkimit Afrikan|en|Member states of the African Union}}}}
+
+Të gjitha [[Shtetet anëtare të Kombeve të Bashkuara|shtetet anëtare të Kombeve të Bashkuara]] në kontinentin afrikan janë anëtare të Bashkimit Afrikan. Përveç kësaj, shteti pjesërisht i njohur i [[Republika Demokratike Arabe Saharaui|Republikës Demokratike Arabe Saharaui]] (SADR), i cili nuk është anëtar i OKB-së, është gjithashtu anëtar i BA-së. [[Maroku]] u tërhoq nga Organizata e Unitetit Afrikan në vitin 1984 për shkak të pranimit si anëtar i SADR-së, territorin e së cilës, [[Sahara Perëndimore|Saharën Perëndimore]], ai pretendon sovranitet mbi të. Ai u ripranua nga BA-ja si anëtar më 30 janar 2017.<ref name="worldbulletin">{{Cite news |date=2017-01-30 |title=Morocco rejoins African Union |publisher=Worldbulletin |url=http://www.worldbulletin.net/todays-news/183967/morocco-rejoins-african-union |url-status=usurped |access-date=2017-01-31 |archive-url=https://web.archive.org/web/20180720013737/http://www.worldbulletin.net/todays-news/183967/morocco-rejoins-african-union |archive-date=2018-07-20 |language=en}}</ref> [[Somalilandi]], i cili pretendon pavarësi nga [[Somalia]], aplikoi për t'u anëtarësuar në BA në vitin 2005, por nuk është pranuar.<ref name="Nelson">{{Cite book |author=Nelson, Elizabeth A. |title=Regional Politics and State Secession |publisher=Edward Elgar Publishing |year=2021 |isbn=978-1-83910-377-3 |pages=105 |language=en}}</ref>
+
+=== Anëtarët e pezulluar ===
+Që nga viti 2026, gjashtë anëtarë janë të pezulluar nga BA-ja për shkak se kanë përjetuar [[Grusht shteti|grushte shteti]]: Mali (që nga 2021), Sudani (që nga 2021), Burkina Faso (që nga 2022), Nigeri (që nga 2023), Madagaskari (që nga 2025) dhe Guinea-Bisau (që nga 2025).
+
+Mali u pezullua nga Bashkimi Afrikan më 19 gusht 2020, pas {{ill|Grushti i shtetit në Mali 2020|en|2020 Malian coup d'état|lt=grushtit të shtetit ushtarak}}.<ref>{{Cite news |title=African Union suspends Mali following coup |work=Agence France-Presse, Reuters |publisher=Deutsche Welle |url=https://www.dw.com/en/african-union-suspends-mali-following-coup/a-54626415 |access-date=2021-09-12 |archive-date=2021-09-13 |archive-url=https://web.archive.org/web/20210913003040/https://www.dw.com/en/african-union-suspends-mali-following-coup/a-54626415 |url-status=live |language=en}}</ref> Më 9 tetor të po atij viti, {{ill|Këshilli i Paqes dhe Sigurisë|en|Peace and Security Council}} i Bashkimit Afrikan hoqi pezullimin e vendosur ndaj Malit, duke përmendur përparimin e bërë drejt kthimit në demokraci.<ref>{{Cite web |title=African Union lifts Mali's suspension imposed in the wake of coup |url=https://www.aljazeera.com/news/2020/10/9/african-union-lifts-malis-suspension-imposed-in-the-wake-of-coup |url-status=live |archive-url=https://web.archive.org/web/20201009202811/https://www.aljazeera.com/news/2020/10/9/african-union-lifts-malis-suspension-imposed-in-the-wake-of-coup |archive-date=2020-10-09 |access-date=2020-10-09 |website=Aljazeera |language=en}}</ref> Vendi u pezullua përsëri më 1 qershor 2021, pas {{ill|Grushti i shtetit në Mali 2021|en|2021 Malian coup d'état|lt=grushtit të tij të dytë të shtetit}} brenda nëntë muajsh.<ref>{{Cite news |date=2021-06-02 |title=African Union announces 'immediate suspension' of Mali after second coup |work=France 24, Reuters, Agence France-Presse |publisher=France 24 |url=https://www.france24.com/en/africa/20210602-african-union-announces-immediately-suspension-of-mali-after-second-coup |access-date=2021-09-12 |archive-date=2021-09-12 |archive-url=https://web.archive.org/web/20210912141924/https://www.france24.com/en/africa/20210602-african-union-announces-immediately-suspension-of-mali-after-second-coup |url-status=live |language=en}}</ref>
+
+Anëtarësimi i Sudanit u pezullua nga Bashkimi Afrikan më 27 tetor 2021, pas një grushti shteti ushtarak që rrëzoi qeverinë civile të udhëhequr nga kryeministri Abdalla Hamdok.<ref>{{Cite web |title=African Union suspends Sudan over coup |url=https://www.aljazeera.com/news/2021/10/27/african-union-suspends-sudan-over-coup |access-date=2021-10-27 |website=Aljazeera |language=en |archive-date=2021-10-27 |archive-url=https://web.archive.org/web/20211027130242/https://www.aljazeera.com/news/2021/10/27/african-union-suspends-sudan-over-coup |url-status=live}}</ref>
+
+Anëtarësimi i Burkina Fasos u pezullua nga Bashkimi Afrikan më 31 janar 2022, si pasojë e {{ill|Grushti i shtetit në Burkina Faso 2022|en|January 2022 Burkina Faso coup d'état|lt=grushtit të shtetit ushtarak}}.<ref>{{Cite web |title=AU suspends Burkina Faso after coup as envoys head for talks |url=https://www.aljazeera.com/news/2022/1/31/africa-union-suspends-burkina-faso-after-coup-as-envoys-head-for-talks |access-date=2022-01-31 |website=Aljazeera |language=en |archive-date=2022-12-23 |archive-url=https://web.archive.org/web/20221223062926/https://www.aljazeera.com/news/2022/1/31/africa-union-suspends-burkina-faso-after-coup-as-envoys-head-for-talks |url-status=live}}</ref>
+
+Anëtarësimi i Nigerit u pezullua nga Bashkimi Afrikan më 22 gusht 2023, pas {{ill|Grushti i shtetit në Niger 2023|en|2023 Nigerien coup d'état|lt=grushtit të shtetit ushtarak në fund të korrikut}} që rrëzoi presidentin e zgjedhur në mënyrë demokratike Mohamed Bazoum; kjo ka çuar që nga ajo kohë edhe në krizën e Nigerit të viteve 2023–2024.<ref>{{Cite news |date=2023-08-22 |title=African Union suspends participation of Niger following coup |language=en |work=Reuters |url=https://www.reuters.com/world/africa/african-union-suspends-niger-all-its-activities-following-coup-2023-08-22/ |access-date=2023-08-22 |archive-date=2023-09-06 |archive-url=https://web.archive.org/web/20230906024202/https://www.reuters.com/world/africa/african-union-suspends-niger-all-its-activities-following-coup-2023-08-22/ |url-status=live}}</ref>
+
+Pas {{ill|Grushti i shtetit në Madagaskar 2025|en|2025 Malagasy coup d'état}}, anëtarësimi i Madagaskarit u pezullua.<ref>{{Cite news |date=2025-10-15 |title=African Union suspends Madagascar as military leader set to be sworn in as president |url=https://www.theguardian.com/world/2025/oct/15/madagascar-to-swear-in-military-leader-as-president-on-friday |access-date=2025-10-16 |work=The Guardian |language=en |issn=0261-3077}}</ref>
+
+Pas {{ill|Grushti i shtetit në Guinea-Bisau 2025|en|2025 Guinea-Bissau coup d'état}}, anëtarësimi i Guinea-Bisaut u pezullua.<ref>{{Cite news |title=African Union suspends Guinea-Bissau after military coup |url=https://www.lemonde.fr/en/international/article/2025/11/28/african-union-suspends-guinea-bissau-after-military-coup_6747942_4.html |archive-url=https://web.archive.org/web/20251128191709/https://www.lemonde.fr/en/international/article/2025/11/28/african-union-suspends-guinea-bissau-after-military-coup_6747942_4.html |archive-date=2025-11-28 |access-date=2026-03-28 |work=Le Monde.fr |language=en}}</ref>
+=== Anëtarë të pezulluar më parë ===
+Anëtarësimi i Guinesë u pezullua gjithashtu nga Bashkimi Afrikan më 10 shtator 2021, pasi {{ill|Grusht shteti në Guinea 2021|en|2021 Guinean coup d'état|lt=grusht shteti ushtarak}} rrëzoi presidentin e vendit, {{ill|Alpha Condé|en}}.<ref>{{Cite news |date=2021-09-10 |title=African Union suspends Guinea after coup, as envoys arrive for talks |work=France 24, Agence France-Presse |publisher=France 24 |url=https://www.france24.com/en/africa/20210910-african-union-suspends-guinea-after-coup-ousting-cond%C3%A9 |access-date=2021-09-12 |archive-date=2021-09-12 |archive-url=https://web.archive.org/web/20210912022912/https://www.france24.com/en/africa/20210910-african-union-suspends-guinea-after-coup-ousting-cond%C3%A9 |url-status=live |language=en}}</ref> Pas pothuajse pesë vitesh, Guinea u ripranua në Bashkimin Afrikan në janar 2026.<ref>{{Cite web |date=2026-01-25 |title=Guinea's African Union membership restored |url=https://apanews.net/guineas-african-union-membership-restored/ |access-date=2026-03-28 |website=APAnews |language=en}}</ref><ref>{{Cite web |title=African Union moves to lift Guinea's suspension after successful transition to constitutional rule |url=https://www.aa.com.tr/en/africa/african-union-moves-to-lift-guineas-suspension-after-successful-transition-to-constitutional-rule/3808418 |access-date=2026-03-28 |website=Anadolu Ajansi |language=en}}</ref>
+
+Anëtarësimi i Gabonit u pezullua nga Bashkimi Afrikan më 31 gusht 2023, pas një {{ill|Grusht shteti në Gabon 2023|en|2023 Gabonese coup d'état|lt=grusht shteti ushtarak}} që rrëzoi presidentin Ali Bongo Ondimba.<ref>{{Cite web |work=The Peninsula |date=2023-08-31 |title=African Union says to 'immediately suspend' Gabon after coup |url=https://thepeninsulaqatar.com/article/31/08/2023/african-union-says-to-immediately-suspend-gabon-after-coup |access-date=2023-08-31 |language=en |archive-date=2023-09-02 |archive-url=https://web.archive.org/web/20230902185942/http://thepeninsulaqatar.com/article/31/08/2023/african-union-says-to-immediately-suspend-gabon-after-coup |url-status=live}}</ref> Në prill 2025, Bashkimi Afrikan vendosi ta ripranojë Gabonin.<ref>{{Cite web |url=https://www.aa.com.tr/fr/afrique/l-union-africaine-l%C3%A8ve-les-sanctions-contre-le-gabon-apr%C3%A8s-son-retour-%C3%A0-l-ordre-constitutionnel/3553598 |title=L'Union africaine lève les sanctions contre le Gabon après son retour à l'ordre constitutionnel |work=Anadolu Ajansi |date=2025-04-30 |access-date=2025-04-30 |language=fr}}</ref>
+
+==== Anëtarët ====
+{{Div col|colwidth=20em}}
+* {{ALG}}
+* {{Flag|Angola}}
+* {{Flag|Benin}}
+* {{Flag|Botswana}}
+* {{Flag|Burkina Faso}} (e pezulluar)
+* {{BDI}}
+* {{Flag|Cameroon}}
+* {{Flag|Cape Verde}}
+* {{Flag|Central African Republic}}
+* {{TCD}}
+* {{Flag|Comoros}}
+* {{Flag|Democratic Republic of the Congo}}
+* {{Flag|Republic of the Congo}}
+* {{Flag|Djibouti}}
+* {{Flag|Egypt}}
+* {{Flag|Equatorial Guinea}}
+* {{Flag|Eritrea}}
+* {{Flag|Eswatini}}
+* {{Flag|Ethiopia}}
+* {{Flag|Gabon}}
+* {{Flag|Gambia}}
+* {{Flag|Ghana}}
+* {{Flag|Guinea}}
+* {{Flag|Guinea-Bissau}} (e pezulluar)
+* {{Flag|Ivory Coast}}
+* {{Flag|Kenya}}
+* {{Flag|Lesotho}}
+* {{Flag|Liberia}}
+* {{Flag|Libya}}
+* {{Flag|Madagascar}} (e pezulluar)
+* {{Flag|Malawi}}
+* {{Flag|Mali}} (e pezulluar)
+* {{Flag|Mauritania}}
+* {{Flag|Mauritius}}
+* {{Flag|Morocco}}
+* {{Flag|Mozambique}}
+* {{Flag|Namibia}}
+* {{Flag|Niger}} (e pezulluar)
+* {{Flag|Nigeria}}
+* {{Flag|Rwanda}}
+* {{Flag|Sahrawi Arab Democratic Republic}}
+* {{Flag|São Tomé and Príncipe}}
+* {{Flag|Senegal}}
+* {{Flag|Seychelles}}
+* {{Flag|Sierra Leone}}
+* {{Flag|Somalia}}
+* {{RSA}}
+* {{Flag|South Sudan}}
+* {{SUD}} (e pezulluar)
+* {{Flag|Tanzania}}
+* {{Flag|Togo}}
+* {{Flag|Tunisia}}
+* {{UGA}}
+* {{Flag|Zambia}}
+* {{Flag|Zimbabwe}}
+{{Div col end}}
+==== Vëzhguesit ====
+* Haiti<ref>{{Cite web |title=Haiti Will Not Join the African Union |url=https://haitihub.com/haiti-and-the-african-union/ |website=Haiti Hub |access-date=2023-06-22 |date=2016-05-22 |archive-date=2023-06-22 |archive-url=https://web.archive.org/web/20230622142803/https://haitihub.com/haiti-and-the-african-union/ |url-status=live |language=en }}</ref>
+* Izraeli (i pezulluar që nga shkurti 2023)<ref>{{Cite web|url=https://www.aljazeera.com/news/2023/2/20/african-union-says-israels-observer-status-suspended|title=African Union says Israel's observer status suspended|website=Aljazeera|access-date=2023-09-10|archive-date=2023-09-08|archive-url=https://web.archive.org/web/20230908195006/https://www.aljazeera.com/news/2023/2/20/african-union-says-israels-observer-status-suspended|url-status=live|language=en }}</ref><ref>{{Cite news |agency=i24NEWS |date=2022-02-06 |title=Israel dispute erupts at African Union summit |language=en |work=Ynetnews |url=https://www.ynetnews.com/article/b1lpw16ay |access-date=2022-02-06 |archive-date=2022-02-06 |archive-url=https://web.archive.org/web/20220206151241/https://www.ynetnews.com/article/b1lpw16ay |url-status=live }}</ref>
+* Kazakistani<ref>{{Cite web |title=Kazakhstan's Observer status at the African Union: What Does It Mean for Africa? |url=https://www.igd.org.za/index.php/11327-kazakhstan-s-observer-status-at-the-african-union-what-does-it-mean-for-africa |access-date=2022-02-06 |website=www.igd.org.za |archive-date=2022-03-27 |archive-url=https://web.archive.org/web/20220327081029/https://www.igd.org.za/index.php/11327-kazakhstan-s-observer-status-at-the-african-union-what-does-it-mean-for-africa |url-status=dead |language=en }}</ref>
+* Letonia<ref>{{Cite web|date=2012-01-11|url=http://www.mfa.gov.lv/en/news/press-releases/2012/january/11-3/|title=Latvia becomes observer to African Union|publisher=Ministry of Foreign Affairs of Latvia|website=www.mfa.gov.lv|archive-url=https://web.archive.org/web/20140918030201/http://www.mfa.gov.lv/en/news/press-releases/2012/january/11-3/|archive-date=2014-09-18|language=en }}</ref>
+* Meksika<ref>{{Cite web |date=2012-06-18 |title=Chairperson Receives the Credentials of the First Permanent Observer of Mexico to the African Union |url=https://au.int/en/pressreleases/20120618-3 |website=au.int |access-date=2023-09-10 |archive-date=2022-09-01 |archive-url=https://web.archive.org/web/20220901115222/https://au.int/en/pressreleases/20120618-3 |url-status=live |language=en }}</ref>
+* Palestina<ref>{{Cite web |date=2013-05-27 |title=AU grants Palestine observer status |url=http://www.egyptindependent.com/news/au-grants-palestine-observer-status |publisher=Egypt Independent |first=Fathya |last=el-Dakhakhni |website=Egypt Independent |access-date=2023-09-10 |archive-date=2016-12-29 |archive-url=https://web.archive.org/web/20161229042151/http://www.egyptindependent.com/news/au-grants-palestine-observer-status |url-status=live |language=en }}</ref>
+* Serbia<ref>{{Cite web|date=2014-01-30|language=sr|title=Mrkić na samitu u Adis Abebi|url=https://www.b92.net/info/vesti/index.php?yyyy=2014&mm=01&dd=30&nav_category=11&nav_id=806062|website=b92.net|access-date=2023-09-10|archive-date=2023-06-16|archive-url=https://web.archive.org/web/20230616071458/https://www.b92.net/info/vesti/index.php?yyyy=2014&mm=01&dd=30&nav_category=11&nav_id=806062|url-status=live}}</ref>
+* Turqia<ref>{{Cite web |date=2022-01-11 |title=What's driving Turkey's commercial & military relations with Africa? |url=https://www.theafricareport.com/165012/whats-driving-turkeys-commercial-military-relations-with-africa/ |access-date=2022-02-06 |website=The Africa Report.com |language=en |archive-date=2022-02-06 |archive-url=https://web.archive.org/web/20220206151227/https://www.theafricareport.com/165012/whats-driving-turkeys-commercial-military-relations-with-africa/ |url-status=live }}</ref>
+* Ukraina<ref>{{Cite web |date=2016-06-22 |title=Ukraine has obtained the observer status in the African Union |url=https://mfa.gov.ua/en/news/48625-ukrajina-nabula-status-sposterigacha-v-afrikansykomu-sojuzi |publisher=Ministry of Foreign Affairs of Ukraine |website=mfa.gov.ua |access-date=2023-09-10 |archive-date=2023-06-16 |archive-url=https://web.archive.org/web/20230616071456/https://mfa.gov.ua/en/news/48625-ukrajina-nabula-status-sposterigacha-v-afrikansykomu-sojuzi |url-status=live |language=en }}</ref>
+* Emiratet e Bashkuara Arabe<ref>{{Cite web |title=Chairperson Receives Credentials of the Permanent Observer of the United Arab Emirates. |url=https://au.int/en/pressreleases/20110316-0 |access-date=2022-02-06 |website=African Union |archive-date=2022-02-06 |archive-url=https://web.archive.org/web/20220206151252/https://au.int/en/pressreleases/20110316-0 |url-status=live |language=en }}</ref>
+=== Qeverisja ===
+Tema kryesore e debatit në samitin e Bashkimit Afrikan (BA) të korrikut 2007, të mbajtur në [[Akra]], Gana, ishte krijimi i një Qeverie të Bashkimit,<ref>Decision on the Report of the 9th Extraordinary session of the executive council on the proposals for the Union Government, DOC.Assembly/AU/10 (VIII), Assembly/AU/Dec.156 (VIII).</ref> me qëllim që të lëvizet drejt një {{ill|Shtetet e Bashkuara të Afrikës|en|United States of Africa}}. Një studim mbi Qeverinë e Bashkimit u miratua në fund të vitit 2006,<ref>Study on an African Union Government: Towards a United States of Africa, 2006. See also, Decision on the Union Government, Doc. Assembly/AU/2(VII).</ref> dhe propozon opsione të ndryshme për "përmbushjen" e projektit të Bashkimit Afrikan. Ka përçarje midis shteteve afrikane lidhur me propozimet, ku disa (veçanërisht [[Libia|Libia]]) ndjekin një pikëpamje maksimaliste që çon drejt një qeverie të përbashkët me një ushtri të BA-së, ndërsa të tjerë (sidomos shtetet e Afrikës jugore) mbështesin më tepër forcimin e strukturave ekzistuese, me disa reforma për t'u përballur me sfidat administrative dhe politike që Komisioni i Bashkimit Afrikan dhe organet e tjera të bëhen vërtet efektive.<ref>{{Cite web|url=http://www.pambazuka.org/aumonitor/|archive-url=https://web.archive.org/web/20070608200746/http://www.pambazuka.org/aumonitor/|url-status=dead|title=Pambazuka.org|archive-date=2007-06-08|language=en}}</ref>
+
+Pas një debati të nxehtë në Akra, {{ill|Asambleja e Bashkimit Afrikan|en|Assembly of the African Union}} u pajtua, në formën e një deklarate, të rishikojë gjendjen e punëve të BA-së me qëllim përcaktimin e gatishmërisë së saj drejt një Qeverie të Bashkimit.<ref>Accra Declaration, Assembly of the Union at its 9th Ordinary session in Accra, Ghana, 1–3 July 2007.</ref> Në veçanti, Asambleja u pajtua të:
+* Përshpejtojë integrimin ekonomik dhe politik të kontinentit afrikan, përfshirë formimin e një Qeverie të Bashkimit të Afrikës;
+* Kryejë një auditim të institucioneve dhe organeve të BA-së; rishikojë marrëdhëniet midis BA-së dhe KER-ve; gjejë mënyra për të forcuar BA-në dhe përpunojë një kalendar kohor për krijimin e një Qeverie të Bashkimit të Afrikës.
+
+Deklarata vuri në dukje së fundi "rëndësinë e përfshirjes së popujve afrikanë, përfshirë afrikanët e diasporës, në proceset që çojnë drejt formimit të Qeverisë së Bashkimit".
+
+Pas këtij vendimi, u ngrit një panel personalitetesh të shquara për të kryer "rishikimin auditues". Ekipi i rishikimit filloi punën më 1 shtator 2007. Rishikimi iu prezantua Asamblesë së Bashkimit Afrikan në samitin e janarit 2008 në Adis Abeba. Megjithatë, nuk u mor asnjë vendim përfundimtar mbi rekomandimet dhe u emërua një komitet prej dhjetë kryetarësh shtetesh për të shqyrtuar rishikimin dhe për të raportuar në samitin e korrikut 2008 që do të mbahej në Egjipt.<ref>{{cite web |url=http://www.africa-union.org/root/au/Conferences/2008/january/summit/docs/decisions/Assembly.Dec_171%20-%20192%20_X_%20-%20Addis_February_2008.pdf |title=Decision on the Report of the Executive Council on the Audit of the Union and the Report of the Ministerial Committee on the Union Government, Doc. Assembly/Au/8(X) |access-date=2012-11-26 |url-status=dead |archive-url=https://web.archive.org/web/20120222043847/http://www.africa-union.org/root/au/Conferences/2008/january/summit/docs/decisions/Assembly.Dec_171%20-%20192%20_X_%20-%20Addis_February_2008.pdf |archive-date=2012-02-22 |language=en}}</ref> Në samitin e korrikut 2008, vendimi u shty edhe një herë, për një debat "përfundimtar" në samitin e janarit 2009 që do të mbahej në Adis Abeba.
+
+Në shkurt 2025, diplomati xhibutian Mahamoud Ali Youssouf u zgjodh Kryetar i Komisionit të Bashkimit Afrikan gjatë samitit të Bashkimit Afrikan të mbajtur në Adis Abeba<ref>{{Cite news |title=Djibouti's foreign minister elected to top African Union post |url=https://www.reuters.com/world/africa/djiboutis-foreign-minister-elected-top-african-union-post-2025-02-15/ |archive-url=https://web.archive.org/web/20250723202058/https://www.reuters.com/world/africa/djiboutis-foreign-minister-elected-top-african-union-post-2025-02-15/ |archive-date=2025-07-23 |access-date=2026-05-24 |work=Reuters |language=en}}</ref><ref>{{Cite web |date=2025-02-15 |title=African leaders elect Djibouti's foreign minister as new leader of the African Union Commission |url=https://apnews.com/article/african-union-commission-new-leader-djibouti-4441f23a6e8861b5efd4bb3653a40a6d |access-date=2026-05-24 |website=AP News |language=en}}</ref>
+
+==== Roli i Bashkimit Afrikan ====
+Një nga debatet kryesore në lidhje me arritjen e një integrimi më të madh kontinental është prioriteti relativ që duhet t'i jepet integrimit të kontinentit si njësi në vetvete apo integrimit të nënrajoneve. Plani i Veprimit i Lagos për Zhvillimin e Afrikës i vitit 1980 dhe traktati i vitit 1991 për krijimin e Komunitetit Ekonomik Afrikan (i quajtur gjithashtu Traktati i Abuxhës) propozuan krijimin e {{ill|Komunitetet Ekonomike Rajonale|en|Regional Economic Communities}} (KER) si bazë për integrimin afrikan, me një kalendar kohor që do të ndiqej për integrimin rajonal dhe më pas kontinental.<ref>See note on [https://web.archive.org/web/20040906140832/http://www.dfa.gov.za/docs/2003/au0815.htm The Role of the Regional Economic Communities (RECs) as the Building Blocks of the African Union] prepared by the South African Department of Foreign Affairs.</ref>
+
+Aktualisht, ka tetë KER të njohura nga BA, secila e krijuar me një traktat të veçantë rajonal. Ato janë:
+* {{ill|Bashkimi i Magrebit Arab|en|Arab Maghreb Union}} (AMU)
+* {{ill|Tregu i Përbashkët për Afrikën Lindore dhe Jugore|en|Common Market for Eastern and Southern Africa}} (COMESA)
+* {{ill|Komuniteti i Shteteve Sahelo-Sahariane|en|Community of Sahel-Saharan States}} (CEN-SAD)
+* {{ill|Komuniteti i Afrikës Lindore|en|East African Community}} (EAC)
+* {{ill|Komuniteti Ekonomik i Shteteve të Afrikës Qendrore|en|Economic Community of Central African States}} (ECCAS)
+* {{ill|Komuniteti Ekonomik i Shteteve të Afrikës Perëndimore|en|Economic Community of West African States}} (ECOWAS)
+* {{ill|Autoriteti Ndërqeveritar për Zhvillim|en|Intergovernmental Authority on Development}} (IGAD)
+* {{ill|Komuniteti për Zhvillimin e Afrikës Jugore|en|Southern Africa Development Community}} (SADC)
+
+Anëtarësimi i shumë prej këtyre komuniteteve mbivendoset dhe racionalizimi i tyre ka qenë në diskutim për disa vjet — dhe përbëri temën e samitit të Banxhulit të vitit 2006. Në samitin e Akrës të korrikut 2007, Asambleja vendosi më në fund të miratojë një Protokoll mbi Marrëdhëniet midis Bashkimit Afrikan dhe Komuniteteve Ekonomike Rajonale.<ref>Decision on the Protocol on Relations between the African Union and the Regional Economic Communities (RECs), Assembly/AU/Dec.166 (IX).</ref> Ky protokoll synon të lehtësojë harmonizimin e politikave dhe të sigurojë përputhjen me afatet kohore të Traktatit të Abuxhës dhe Planit të Veprimit të Lagos.
+=== Zgjedhja e kryetarit ===
+Në vitin 2006, Bashkimi Afrikan (BA) vendosi të krijojë një komitet "për të shqyrtuar zbatimin e një sistemi rotacioni midis rajoneve" në lidhje me kryesinë. Kontroversi lindi në samitin e vitit 2006, kur Sudani shpalli kandidaturën e tij për kryesinë e BA-së, si përfaqësues i rajonit të Afrikës Lindore. Disa shtete anëtare refuzuan ta mbështesin Sudanin për shkak të tensioneve rreth {{ill|Darfuri|en|Darfur|lt=Darfurit}} (shih edhe më poshtë). Sudani përfundimisht tërhoqi kandidaturën e tij dhe presidenti Denis Sassou-Nguesso i [[Republika e Kongos|Republikës së Kongos]] u zgjodh për një mandat njëvjeçar. Në samitin e janarit 2007, Sassou-Nguesso u zëvendësua nga presidenti {{ill|John Kufuor|en|John Kufuor|lt=John Agyekum Kufuor}} i Ganës, megjithë një përpjekje tjetër të Sudanit për të fituar kryesinë. Viti 2007 ishte 50-vjetori i pavarësisë së Ganës, një moment simbolik që vendi të mbante kryesinë e BA-së—dhe të organizonte samitin e mesit të vitit, në të cilin u diskutua edhe qeveria e propozuar e Unionit. Në janarin 2008, presidenti {{ill|Jakaya Kikwete|en|Jakaya Kikwete}} i Tanzanisë mori kryesinë, duke përfaqësuar rajonin e Afrikës Lindore dhe duke i dhënë fund kështu përpjekjes së Sudanit për t'u bërë kryetar—të paktën derisa rotacioni të kthehej në Afrikën Lindore.<ref>Shih [http://www.afrimap.org/english/images/report/AU_People-DrivenNov07.pdf ''Towards a People-Driven African Union: Current Obstacles and New Opportunities''] {{Webarchive|url=https://web.archive.org/web/20080216054523/http://www.afrimap.org/english/images/report/AU_People-DrivenNov07.pdf |date=16 February 2008 }}, AfriMAP, AFRODAD dhe Oxfam GB, edicioni i përditësuar nëntor 2007, f. 45–46, dhe [http://www.afrimap.org/english/images/report/AfriMAP-AU-Guide-EN.pdf ''Strengthening Popular Participation in the African Union: A Guide to AU Structures and Processes''] {{Webarchive|url=https://web.archive.org/web/20130927110741/http://www.afrimap.org/english/images/report/AfriMAP-AU-Guide-EN.pdf |date=27 September 2013 }}, AfriMAP dhe Oxfam GB, 2010, f. 8–9.</ref> Kryetari aktual është {{ill|Évariste Ndayishimiye|en|Évariste Ndayishimiye}}, presidenti i [[Burundi|Burundit]], mandati i të cilit filloi më 14 shkurt 2026.<ref>{{cite web |date=2026-02-14 |title=The African Union Elects New Chair of the Union for the year 2026 and Prioritises Water Security at 39th Summit in Addis Ababa |url=https://au.int/en/pressreleases/20260214/au-elects-new-chair-union-year-2026-and-prioritises-water-security |access-date=2026-02-14 |work=[[Bashkimi Afrikan]] |language=en}}</ref>
+
+==== Lista e kryetarëve ====
+{{Hatnote|Artikulli kryesor: {{ill|Kryetari i Bashkimit Afrikan|en|Chairperson of the African Union}}}}
+
+[[Skeda:Jakaya Kikwete and Muammar al-Gaddafi, 12th AU Summit, 090202-N-0506A-678.jpg|thumb|left|Muammar Gaddafi duke përqafuar presidentin tanzanian {{ill|Jakaya Kikwete|en|Jakaya Kikwete|lt=Kikwete}} pas marrjes së kryesisë]]
+{{Clear|left}}
+
+{|class="wikitable"
+|+Kryetarët e Bashkimit Afrikan
+|-valign=top
+!scope="col"|Emri
+!scope="col"|Fillimi i mandatit
+!scope="col"|Fundi i mandatit
+!scope="col"|Vendi
+|-
+|scope="row"|[[Thabo Mbeki]]
+|9 korrik 2002
+|10 korrik 2003
+| Afrika e Jugut
+|-
+|scope="row"|{{ill|Joaquim Chissano|en}}
+|10 korrik 2003
+|6 korrik 2004
+| Mozambiku
+|-
+|scope="row"|[[Olusegun Obasanjo]]
+|6 korrik 2004
+|24 janar 2006
+| Nigeria
+|-
+|scope="row"|Denis Sassou-Nguesso
+|24 janar 2006
+|24 janar 2007
+| Republika e Kongos
+|-
+|scope="row"|{{ill|John Kufuor|en}}
+|30 janar 2007
+|31 janar 2008
+| Gana
+|-
+|scope="row"|{{ill|Jakaya Kikwete|en}}
+|31 janar 2008
+|2 shkurt 2009
+| Tanzania
+|-
+|scope="row"|Muammar al-Gaddafi
+|2 shkurt 2009
+|31 janar 2010
+| Libia
+|-
+|scope="row"|{{ill|Bingu wa Mutharika|en}}<ref>[https://af.reuters.com/article/topNews/idAFJOE60U05O20100131l Gaddafi fails in bid to remain African Union chair], Reuters, 31 janar 2010.{{Lidhje e vdekur|date=May 2016|bot=medic}}{{Cbignore|bot=medic}}</ref><ref>[https://web.archive.org/web/20111230205627/http://www.google.com/hostednews/afp/article/ALeqM5g8cvj3048f4WEB6UQuim80MKqhVA Malawi president takes over as AU president], AFP, 31 janar 2010.</ref>
+|31 janar 2010
+|31 janar 2011
+| Malavi
+|-
+|scope="row"|{{ill|Teodoro Obiang Nguema Mbasogo|en}}<ref>[http://www.au.int/en/dp/cp/biography Sipas BA-së] {{Webarchive |url=https://web.archive.org/web/20111006153642/http://www.au.int/en/dp/cp/biography |date=6 October 2011 }}, stili i tij zyrtar është ''Son Excellence Obiang Nguema Mbasogo, Président de la République, Chef de l'État et Président Fondateur du Parti Démocratique de Guinée Equatoriale'' {{In lang|fr}}. Marrë më 4 tetor 2011.</ref>
+|31 janar 2011
+|29 janar 2012
+| Guinea Ekuatoriale
+|-
+|scope="row"|Yayi Boni
+|29 janar 2012
+|27 janar 2013
+| Benini
+|-
+|scope="row"|{{ill|Hailemariam Desalegn|en}}
+|27 janar 2013
+|30 janar 2014
+| Etiopia
+|-
+|scope="row"|{{ill|Mohamed Ould Abdel Aziz|en}}
+|30 janar 2014
+|30 janar 2015
+| Mauritania
+|-
+|scope="row"|[[Robert Mugabe]]
+|30 janar 2015
+|30 janar 2016
+| Zimbabve
+|-
+|scope="row"|[[Idriss Déby]]
+|30 janar 2016
+|30 janar 2017
+| Çadi
+|-
+|scope="row"|{{ill|Alpha Condé|en|Alpha Condé}}
+|30 janar 2017
+|28 janar 2018
+| Guinea
+|-
+|scope="row"|{{ill|Paul Kagame|en}}<ref>{{cite web |url=https://au.int/en/pressreleases/20180128/president-paul-kagame-elected-new-chairperson-african-union-year-2018 |title=President Paul Kagame, Elected as New Chairperson of the African Union for the year 2018 – African Union |website=au.int |access-date=2018-02-06 |archive-date=2019-02-05 |archive-url=https://web.archive.org/web/20190205134722/https://au.int/en/pressreleases/20180128/president-paul-kagame-elected-new-chairperson-african-union-year-2018 |url-status=live |language=en}}</ref>
+|28 janar 2018
+|10 shkurt 2019
+| Ruanda
+|-
+|scope="row"|[[Abdel Fetah el-Sisi]]
+|10 shkurt 2019
+|10 shkurt 2020
+| Egjipti
+|-
+|scope="row"|{{ill|Cyril Ramaphosa|en}}<ref>{{cite web |url=https://www.aljazeera.com/news/2020/02/south-africa-takes-au-chair-expect-200209131603484.html |title=South Africa takes over as AU chair: What to expect |website=aljazeera.com |access-date=2020-02-12 |archive-date=2020-02-12 |archive-url=https://web.archive.org/web/20200212104846/https://www.aljazeera.com/news/2020/02/south-africa-takes-au-chair-expect-200209131603484.html |url-status=live |language=en}}</ref>
+|10 shkurt 2020
+|10 shkurt 2021
+| Afrika e Jugut
+|-
+|scope="row"|{{ill|Félix Tshisekedi|en}}
+|10 shkurt 2021
+|5 shkurt 2022
+| Republika Demokratike e Kongos
+|-
+|scope="row"|{{ill|Macky Sall|en}}
+|5 shkurt 2022
+|18 shkurt 2023
+| Senegali
+|-
+|scope="row"|{{ill|Azali Assoumani|en}}
+|18 shkurt 2023
+|17 shkurt 2024
+| Komoros
+|-
+|scope="row"|{{ill|Mohamed Ould Ghazouani|en}}
+|17 shkurt 2024
+|15 shkurt 2025
+| Mauritania
+|-
+|scope="row"|{{ill|João Lourenço|en}}
+|15 shkurt 2025
+|14 shkurt 2026
+| Angola
+|-
+|{{ill|Évariste Ndayishimiye|en}}
+|14 shkurt 2026
+|''Në detyrë''
+| Burundi
+|}
+=== Selia ===
+{{Hatnote|Artikulli kryesor: {{ill|Qendra e Konferencave dhe Zyrave e Bashkimit Afrikan|en|African Union Conference Center and Office Complex}}}}
+
+Kryeqyteti kryesor administrativ i Bashkimit Afrikan është në [[Addis Ababa]], [[Etiopia|Etiopi]], ku {{ill|Komisioni i Bashkimit Afrikan|en|African Union Commission}} ka selinë e tij. Një kompleks i ri selie, {{ill|Qendra e Konferencave dhe Zyrave e Bashkimit Afrikan|en|African Union Conference Center and Office Complex|lt=Qendra e Konferencave dhe Zyrave e Bashkimit Afrikan (AUCC)}}, u inaugurua më 28 janar 2012, gjatë samitit të 18-të të BA-së.<ref name="AU_NewHQ">Komunikatë për shtyp nr. 13 / Samiti i 18-të i BA-së: [http://www.au.int/en/sites/default/files/28%2001%202012_18SUMMIT_PR_INAUGURATION.pdf Inauguration of the new African Union Conference Center] {{Webarchive|url=https://web.archive.org/web/20120216164902/http://www.au.int/en/sites/default/files/28%2001%202012_18SUMMIT_PR_INAUGURATION.pdf|date=16 February 2012}}. Drejtoria e Informacionit dhe Komunikimit. {{ill|Komisioni i Bashkimit Afrikan|en|African Union Commission}} (28 janar 2012).</ref> Kompleksi u ndërtua nga China State Construction Engineering Corporation si dhuratë e qeverisë kineze dhe strehon, ndër të tjera, një sallë plenare me 2.500 vende dhe një kullë zyrash 20-katëshe. Kulla është 99,9 metra e lartë, për të simbolizuar datën 9 shtator 1999, kur {{ill|Organizata e Unitetit Afrikan|en|Organisation of African Unity}} vendosi të shndërrohej në Bashkimin Afrikan.<ref name="Chinadaily_NewHQ">{{cite web |url=http://www.chinadaily.com.cn/cndy/2012-01/30/content_14502354.htm |title=New headquarters shows partnership entering era of hope: Ethiopia PM |last=Linyan |first=Wang |website=China Daily |language=en |access-date=2012-02-02 |archive-date=2019-03-29 |archive-url=https://web.archive.org/web/20190329195054/http://www.chinadaily.com.cn/cndy/2012-01/30/content_14502354.htm |url-status=live }}</ref> Ndërtimi i ndërtesës kushtoi 200 milionë dollarë amerikanë.<ref name=":1">{{Cite news |url=https://thediplomat.com/2018/01/if-china-bugged-the-au-headquarters-what-african-countries-should-be-worried/ |title=If China Bugged the AU Headquarters, What African Countries Should Be Worried? |last=Tiezzi |first=Shannon |work=The Diplomat |language=en |access-date=2018-02-04 |archive-date=2018-02-05 |archive-url=https://web.archive.org/web/20180205001133/https://thediplomat.com/2018/01/if-china-bugged-the-au-headquarters-what-african-countries-should-be-worried/ |url-status=live }}</ref>
+
+==== Akuzat për spiunazh ====
+{{Hatnote|Artikulli kryesor: {{ill|Akuzat për spiunazh kundër Bashkimit Afrikan|en|2018 China–African Union espionage allegations}}}}
+
+Më 26 janar 2018, pesë vjet pas përfundimit të ndërtimit të selisë së BA-së, gazeta franceze ''[[Le Monde]]'' botoi një artikull ku thuhej se qeveria kineze kishte vendosur përgjime të shumta në ndërtesë, duke instaluar pajisje dëgjimi në mure e mobilje dhe duke e konfiguruar sistemin kompjuterik që të kopjonte të dhënat çdo ditë drejt serverëve në Shangai.<ref>{{Cite news |url=http://www.lemonde.fr/afrique/article/2018/01/26/a-addis-abeba-le-siege-de-l-union-africaine-espionne-par-les-chinois_5247521_3212.html |title=A Addis-Abeba, le siège de l'Union africaine espionné par Pékin |website=Le Monde.fr |date=2018-01-26 |language=fr |access-date=2018-02-04 |archive-date=2018-02-04 |archive-url=https://web.archive.org/web/20180204141153/http://www.lemonde.fr//afrique/article/2018/01/26/a-addis-abeba-le-siege-de-l-union-africaine-espionne-par-les-chinois_5247521_3212.html |url-status=live }}</ref> Qeveria kineze mohoi se kishte vendosur përgjime në ndërtesë, duke deklaruar se akuzat ishin "plotësisht të pabaza dhe qesharake".<ref name=":1" /> Kryeministri etiopian {{ill|Hailemariam Desalegn|en}} hodhi poshtë raportin e medias franceze.<ref>{{Cite web |url=https://www.enca.com/africa/au-spying-report-absurd-china |title=AU spying report absurd: China |website=enca.com |language=en |access-date=2018-03-21 |archive-date=2018-08-24 |archive-url=https://web.archive.org/web/20180824065955/https://www.enca.com/africa/au-spying-report-absurd-china |url-status=live }}</ref> {{ill|Moussa Faki Mahamat|en|Moussa Faki}}, kryetari i {{ill|Komisioni i Bashkimit Afrikan|en|African Union Commission|lt=Komisionit të Bashkimit Afrikan}}, tha se akuzat në raportin e ''Le Monde''-it ishin të rreme. "Këto janë akuza plotësisht të rreme dhe besoj se po i shpërfillim plotësisht ato."<ref>{{Cite news |url=https://www.reuters.com/article/us-china-africanunion/african-union-says-has-no-secret-dossiers-after-china-spying-report-idUSKBN1FS19W |title=African Union says has no secret dossiers after China spying report |website=reuter.com |date=2018-02-08 |language=en |access-date=2018-03-21 |archive-date=2018-09-10 |archive-url=https://web.archive.org/web/20180910185151/https://www.reuters.com/article/us-china-africanunion/african-union-says-has-no-secret-dossiers-after-china-spying-report-idUSKBN1FS19W |url-status=live |last1=Blanchard |first1=Ben }}</ref> Pas këtij rasti, Bashkimi Afrikan zëvendësoi serverët e furnizuar nga Kina dhe filloi të kriptonte komunikimet e tij.<ref>{{Cite web|url=https://www.theverge.com/2018/1/29/16946802/china-african-union-spying-hq-cybersecurity-computers-backdoors-espionage|title=China denies claims it built backdoors into African Union's headquarters for spying|last=Statt|first=Nick|date=2018-01-29|website=The Verge|language=en|access-date=2019-10-09|archive-date=2019-10-09|archive-url=https://web.archive.org/web/20191009144348/https://www.theverge.com/2018/1/29/16946802/china-african-union-spying-hq-cybersecurity-computers-backdoors-espionage|url-status=live}}</ref>
+--- BEGIN INVALID TRANSLATED WIKITEXT ---
+
+--- END INVALID TRANSLATED WIKITEXT ---
+=== Marrëdhëniet e jashtme ===
+{{Hatnote|Artikulli kryesor: {{ill|Marrëdhëniet e jashtme të Bashkimit Afrikan|en|Foreign relations of the African Union}}}}
+
+Shtetet anëtare individuale të Bashkimit Afrikan e koordinojnë politikën e jashtme përmes këtij agjencioni, përveçse zhvillojnë [[Marrëdhëniet ndërkombëtare|marrëdhëniet e tyre ndërkombëtare]] shtet për shtet. BA përfaqëson interesat e popujve afrikanë në përgjithësi në organizatat ndërqeveritare (IGO); për shembull, ajo është {{ill|Vëzhgues i përhershëm|en|United Nations General Assembly observers|lt=vëzhgues i përhershëm}} në [[Asambleja e Përgjithshme e Kombeve të Bashkuara|Asamblenë e Përgjithshme të Kombeve të Bashkuara]]. Si Bashkimi Afrikan ashtu edhe Kombet e Bashkuara punojnë krah për krah për të trajtuar çështje me interes të përbashkët në fusha të ndryshme. Misioni i Bashkimit Afrikan në Kombet e Bashkuara synon të shërbejë si urë lidhëse midis dy organizatave.
+
+Anëtarësimi në BA mbivendoset me organizata të tjera ndërqeveritare dhe, herë pas here, këto organizata të treta dhe BA koordinohen për çështje të politikave publike. Bashkimi Afrikan mban përfaqësi të posaçme diplomatike pranë Shteteve të Bashkuara dhe [[Përfaqësuesi Special i Bashkimit Evropian|Bashkimit Evropian]].
+
+==== Marrëdhëniet Afrikë–Karaibe ====
+{{Hatnote|Shih edhe: {{ill|Grupi i 77|en|Group of 77}}, {{ill|Organizata e Shteteve të Afrikës, Karaibeve dhe Paqësorit|en|Organisation of African, Caribbean and Pacific States}}}}
+
+Shumë shtete të [[Karaibet|Karaibeve]] kanë kërkuar të thellojnë lidhjet me kontinentin e [[Afrika|Afrikës]]. Bashkimi Afrikan e ka quajtur Karaibet si "Rajoni i Gjashtë" i mundshëm i bllokut.<ref>{{Cite web |url=https://www.thestateofafricandiaspora.com/headquarters/ |title=African Union 6th Region Diaspora Headquarters to be established in Accompong, Jamaica |date=2018-01-24 |language=en |archive-url=https://web.archive.org/web/20230311035309/https://www.thestateofafricandiaspora.com/headquarters/ |archive-date=2023-03-11}}</ref> Disa shtete të Karaibeve u angazhuan të bashkohen me institucionet afrikane, duke përfshirë [[Barbadosi|Barbadosin]],<ref>{{Cite web |url=https://www.cbc.bb/cbctest/news/local-news/barbados-inks-mou-with-african-export-import-bank/ |title=Barbados inks MOU with African Export-Import Bank |first=Lorna |last=Jones |date=2021-09-30 |access-date=2022-07-17 |language=en |archive-date=2022-07-17 |archive-url=https://web.archive.org/web/20220717182615/https://www.cbc.bb/cbctest/news/local-news/barbados-inks-mou-with-african-export-import-bank/ |url-status=live}}</ref> [[Bahamasi|Bahamasin]] dhe [[Guajana|Guajanën]], të cilat të gjitha u bënë anëtare të {{ill|Banka Afrikane e Eksportit dhe Importit|en|African Export–Import Bank|lt=Bankës Afrikane të Eksportit dhe Importit}}.<ref>{{Cite web |url=https://www.afreximbank.com/barbados-parliament-ratifies-partnership-agreement-with-afreximbank-as-guyanaand-bahamas-join-caricom-signatories/ |title=Barbados Parliament ratifies Partnership Agreement with Afreximbank, as Guyanaand Bahamas join CARICOM signatories |date=2022-12-05 |website=African Export-Import Bank |access-date=2023-09-10 |language=en |archive-date=2023-03-23 |archive-url=https://web.archive.org/web/20230323124813/https://www.afreximbank.com/barbados-parliament-ratifies-partnership-agreement-with-afreximbank-as-guyanaand-bahamas-join-caricom-signatories/ |url-status=dead}}</ref> Gjithashtu, {{ill|Banka e Zhvillimit të Karaibeve|en|Caribbean Development Bank}} nënshkroi një marrëveshje partneriteti strategjik bashkëpunimi me {{ill|Banka Afrikane e Zhvillimit|en|African Development Bank|lt=Bankën Afrikane të Zhvillimit}} (AfDB).<ref>{{Cite web |url=https://www.businessamlive.com/afdb-cdb-move-to-deepen-africa-caribbean-cooperation-sign-mou/ |title=AfDB, CDB move to deepen Africa, Caribbean cooperation, sign MoU |date=2022-06-18 |language=en |archive-url=https://web.archive.org/web/20220625194438/https://www.businessamlive.com/afdb-cdb-move-to-deepen-africa-caribbean-cooperation-sign-mou/ |archive-date=2022-06-25}}</ref> [[Antigua dhe Barbuda]] ka shfaqur gjithashtu interes për një lidhje të drejtpërdrejtë transporti midis Afrikës dhe Karaibeve.<ref>{{Cite web |url=https://antiguanewsroom.com/antigua-airways-is-airborne-and-ready-to-become-the-pride-of-the-caribbean/ |title=Antigua Airways is airborne and ready to become the "pride of the Caribbean" |date=2023-01-09 |website=Antigua News Room |language=en |access-date=2023-04-19 |archive-date=2023-04-23 |archive-url=https://web.archive.org/web/20230423231330/https://antiguanewsroom.com/antigua-airways-is-airborne-and-ready-to-become-the-pride-of-the-caribbean/ |url-status=live}}</ref><ref>{{Cite web |url=https://antiguaobserver.com/government-has-not-given-up-on-antigua-airways-as-company-seeks-to-make-comeback/ |title=Government has not given up on Antigua Airways as company seeks to make comeback |author=Jennelsa Johnson |date=2023-04-17 |website=Antigua Observer Newspaper |language=en |access-date=2023-04-19 |archive-date=2023-04-24 |archive-url=https://web.archive.org/web/20230424072842/https://antiguaobserver.com/government-has-not-given-up-on-antigua-airways-as-company-seeks-to-make-comeback/ |url-status=live}}</ref> Megjithatë, kjo ka sjellë disa sfida në lidhje me migracionin.<ref>{{Cite web |url=https://apnews.com/article/antigua-boat-capsized-missing-dead-3a4393548ee5ad91a44d9687ec96a4d7 |title=3 dead, 13 missing in Caribbean sinking; 14 Africans saved |date=2023-03-28 |website=AP News |language=en |access-date=2023-04-19 |archive-date=2023-05-31 |archive-url=https://web.archive.org/web/20230531093832/https://apnews.com/article/antigua-boat-capsized-missing-dead-3a4393548ee5ad91a44d9687ec96a4d7 |url-status=live}}</ref><ref>{{Cite web |url=https://antiguaobserver.com/tragedy-at-sea-boat-carrying-african-migrants-from-antigua-capsizes-near-st-kitts/ |title=Tragedy at sea: Boat carrying African migrants from Antigua capsizes near St Kitts |last=Michael |first=Vivian |date=2023-03-29 |website=Antigua Observer Newspaper |language=en |access-date=2023-04-19 |archive-date=2023-05-20 |archive-url=https://web.archive.org/web/20230520064903/https://antiguaobserver.com/tragedy-at-sea-boat-carrying-african-migrants-from-antigua-capsizes-near-st-kitts/ |url-status=live}}</ref><ref>{{Cite web |url=https://antiguaobserver.com/fury-as-govt-says-it-bears-no-responsibility-for-migrant-boat-tragedy/ |title=Fury as gov't says it bears no responsibility for migrant boat tragedy |last=Michael |first=Vivian |date=2023-03-31 |website=Antigua Observer Newspaper |language=en |access-date=2023-04-19 |archive-date=2023-04-19 |archive-url=https://web.archive.org/web/20230419124847/https://antiguaobserver.com/fury-as-govt-says-it-bears-no-responsibility-for-migrant-boat-tragedy/ |url-status=live}}</ref><ref>{{Cite web |url=https://caribbean.loopnews.com/content/less-600-west-african-migrants-remain-antigua |title=Less than 600 West African migrants remain in Antigua |website=Loop News |language=en |access-date=2023-04-19 |archive-date=2023-09-10 |archive-url=https://web.archive.org/web/20230910051756/https://caribbean.loopnews.com/content/less-600-west-african-migrants-remain-antigua |url-status=live}}</ref><ref>{{Cite web |url=https://www.bbc.com/news/world-latin-america-64785503 |title=The migrants stranded on an island they had not heard of |date=2023-03-07 |website=BBC News |language=en |access-date=2023-04-19 |archive-date=2023-08-22 |archive-url=https://web.archive.org/web/20230822235248/https://www.bbc.com/news/world-latin-america-64785503 |url-status=live}}</ref><ref>{{Cite web |url=https://www.caribbeannationalweekly.com/news/caribbean-news/antigua-government-says-no-automatic-citizenship-for-stranded-africans/ |title=Antigua Government says no automatic citizenship for stranded Africans |date=2023-02-11 |website=CNW Network |language=en |access-date=2023-04-19 |archive-date=2023-04-23 |archive-url=https://web.archive.org/web/20230423182748/https://www.caribbeannationalweekly.com/news/caribbean-news/antigua-government-says-no-automatic-citizenship-for-stranded-africans/ |url-status=live}}</ref> Afrika dhe Karaibet kanë formuar një aleancë bashkëpunuese të njohur si A3 Plus për të formuluar çështje me interes të përbashkët në forumet globale.<ref>{{Cite web |url=https://www.africanunion-un.org/blog/categories/a3 |title=A3 Statements |website=Misioni i Bashkimit Afrikan në Kombet e Bashkuara |language=en}}</ref><ref>{{Cite web |url=https://passblue.com/2025/06/02/guyana-empowers-an-afro-caribbean-alliance-through-a3/ |title=Guyana Empowers an Afro-Caribbean Alliance Through A3+ |date=2025-06-02 |website=PassBlue |language=en}}</ref><ref>{{Cite web |url=https://au.int/en/pressreleases/20250305/a3-plus-annual-retreat-2025-takes-place-georgetown-guyana |title=The A3 Plus Annual Retreat 2025 takes place in Georgetown, Guyana |date=2025-03-05 |website=Bashkimi Afrikan |language=en}}</ref><ref>{{Cite web |url=https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/A3_research_report_2025.pdf |title=From the Margins to the Center: The Rise of the A3 in the UN Security Council |language=en}}</ref>
+==== Marrëdhëniet Afrikë–Kinë ====
+{{Hatnote|Artikulli kryesor: {{ill|Marrëdhëniet Afrikë–Kinë|en|Africa–China relations}}}}
+
+Një nga partnerët kryesorë ekonomikë të kontinentit ka qenë Republika Popullore e Kinës (RPK). {{ill|Forumi i Bashkëpunimit Kinë–Afrikë|en|Forum on China–Africa Cooperation}} (FOCAC) është mekanizmi kryesor shumëpalësh i koordinimit midis vendeve afrikane dhe Kinës.<ref>{{Cite book |last=Murphy |first=Dawn C. |year=2022 |title=China's rise in the Global South: The Middle East, Africa, and Beijing's alternative world order |publisher=Stanford University Press |isbn=978-1-5036-3060-4 |location=Stanford, California |pages=56 |oclc=1249712936 |language=en}}</ref> Që nga anëtarësimi në FOCAC në vitin 2012, Bashkimi Afrikan ka luajtur gjithnjë e më shumë një rol koordinues, megjithëse çdo vend afrikan në FOCAC vazhdon të përfaqësohet individualisht.<ref>{{Cite book |last=Murphy |first=Dawn C. |title=China's rise in the Global South: The Middle East, Africa, and Beijing's alternative world order |publisher=Stanford University Press |year=2022 |isbn=978-1-5036-3060-4 |location=Stanford, California |page=57 |oclc=1249712936 |language=en}}</ref>
+
+==== Marrëdhëniet Afrikë–BE ====
+[[File:Vertice Italia Africa (68).jpg|thumb|Foto grupore në Samitin Itali–Afrikë 2024 në [[Roma|Romë]]]]
+Për [[Komisioni Evropian|Komisionin Evropian]], marrëdhënia e Bashkimit Evropian me Afrikën është një prioritet kryesor. Vizioni i ardhshëm i partneritetit Afrikë–BE i Komisionit Evropian dhe Shërbimit Evropian për Veprim të Jashtëm përshkruhet në komunikimin e përbashkët ''Towards a Comprehensive Strategy with Africa'' ("Drejt një strategjie gjithëpërfshirëse me Afrikën"). Ai propozon partneritet në fushat e mëposhtme:<ref name="auto">{{Cite web|date=2020-11-03|title=Africa-EU Partnership|url=https://ec.europa.eu/international-partnerships/topics/africa-eu-partnership_en|access-date=2021-05-28|website=International Partnerships – European Commission|language=en|archive-date=2021-05-10|archive-url=https://web.archive.org/web/20210510085246/https://ec.europa.eu/international-partnerships/topics/africa-eu-partnership_en|url-status=live}}</ref><ref>{{Cite web|title=EUR-Lex – 52020JC0004 – EN – EUR-Lex|url=https://eur-lex.europa.eu/legal-content/FR/TXT/?qid=1583753318333&uri=JOIN:2020:4:FIN|access-date=2021-05-28|website=eur-lex.europa.eu|language=en|archive-date=2021-05-16|archive-url=https://web.archive.org/web/20210516184133/https://eur-lex.europa.eu/legal-content/FR/TXT/?qid=1583753318333&uri=JOIN:2020:4:FIN|url-status=live}}</ref>
+* Tranzicioni i gjelbër dhe aksesi në energji
+* Transformimi dixhital
+* Rritja e qëndrueshme dhe punësimi<ref>{{Cite web|title=Mobilising Investments for African structural sustainable transformation |url=https://africa-eu-partnership.org/en/strategic-priority-areas/mobilising-investments-african-structural-sustainable-transformation|access-date=2021-05-28|website=The Africa-EU Partnership|language=en|archive-date=2021-05-13|archive-url=https://web.archive.org/web/20210513082259/https://africa-eu-partnership.org/en/strategic-priority-areas/mobilising-investments-african-structural-sustainable-transformation|url-status=dead}}</ref><ref name="africa-eu-partnership.org">{{Cite web|title=Strengthening Resilience, Peace, Security and Governance|url=https://africa-eu-partnership.org/en/strategic-priority-areas/strengthening-resilience-peace-security-and-governance|access-date=2021-05-28|website=The Africa-EU Partnership|language=en|archive-date=2021-05-10|archive-url=https://web.archive.org/web/20210510085847/https://africa-eu-partnership.org/en/strategic-priority-areas/strengthening-resilience-peace-security-and-governance|url-status=dead}}</ref>
+* Paqja, siguria dhe qeverisja<ref name="africa-eu-partnership.org"/>
+* Migrimi dhe lëvizshmëria<ref>{{Cite web|title=Migration and mobility |url=https://africa-eu-partnership.org/en/strategic-priority-areas/migration-and-mobility|access-date=2021-05-28|website=The Africa-EU Partnership|language=en|archive-date=2021-05-10|archive-url=https://web.archive.org/web/20210510085848/https://africa-eu-partnership.org/en/strategic-priority-areas/migration-and-mobility|url-status=dead}}</ref>
+
+Më 2 dhjetor 2020, u krijuan pesë Grupe Strategjike të Fondacionit Afrikë–Evropë në fushat e shëndetësisë, dixhitales, bujqësisë dhe sistemeve ushqimore të qëndrueshme, energjisë së qëndrueshme dhe transportit e lidhshmërisë. Kjo u bë së bashku me një konsorcium të përbërë nga Friends of Europe, Fondacioni Mo Ibrahim dhe IPEMED.<ref name="auto"/>
+
+Për sa i përket forcimit të reziliencës, paqes, sigurisë dhe qeverisjes, Bashkimi Afrikan dhe Bashkimi Evropian pranojnë se rezilienca, paqja, siguria dhe qeverisja janë të gjitha të lidhura ngushtë. Paqja dhe siguria janë elemente të rëndësishme për zhvillimin e qëndrueshëm, begatinë dhe reziliencën e shoqërive.<ref name="africa-eu-partnership.org"/> Për të garantuar paqen dhe sigurinë, ishte krijuar Mekanizmi Afrikan për Paqe.<ref>{{Cite web|title=The African Peace Facility |url=https://africa-eu-partnership.org/en/success-stories/african-peace-facility|access-date=2021-05-28|website=The Africa-EU Partnership|language=en|archive-date=2021-05-10|archive-url=https://web.archive.org/web/20210510143315/https://africa-eu-partnership.org/en/success-stories/african-peace-facility|url-status=dead}}</ref> Ky u zëvendësua vetë në vitin 2021 nga Mekanizmi Evropian për Paqe.<ref>{{Cite web|title=Questions & Answers: The European Peace Facility|url=https://eeas.europa.eu/headquarters/headquarters-homepage/46286/questions-answers-european-peace-facility_en|access-date=2021-05-28|website=EEAS |language=en|archive-date=2021-05-10|archive-url=https://web.archive.org/web/20210510092550/https://eeas.europa.eu/headquarters/headquarters-homepage/46286/questions-answers-european-peace-facility_en|url-status=live}}</ref><ref>{{Cite web|title=The European Peace Facility and what's in it for the African Union|url=https://ecdpm.org/publications/latest-european-peace-facility-african-union/|access-date=2021-05-28|website=ECDPM|language=en|archive-date=2021-05-10|archive-url=https://web.archive.org/web/20210510092549/https://ecdpm.org/publications/latest-european-peace-facility-african-union/|url-status=live}}</ref> Bashkimi Afrikan dhe Bashkimi Evropian po partnerizohen gjithashtu për promovimin e menaxhimit të qëndrueshëm të burimeve, [[Përshtatja ndaj ndryshimeve klimatike|reziliencën mjedisore]] dhe {{ill|Zbutja e ndryshimeve klimatike në Afrikë|en|Climate change in Africa|lt=zbutjen e ndryshimeve klimatike}}.<ref name="africa-eu-partnership.org"/> Nisma e Afrikës për Përshtatjen po mbështetet gjithashtu nga [[Bashkimi Evropian]].<ref>{{Cite web|title=European Union ramps up support to Africa Adaptation Initiative with EUR 1 million grant |url=https://www.africa.undp.org/content/rba/en/home/presscenter/pressreleases/2020/european-union-ramps-up-support-to-africa-adaptation-initiative-.html|access-date=2021-05-28|website=UNDP|language=en|archive-date=2021-05-10|archive-url=https://web.archive.org/web/20210510103326/https://www.africa.undp.org/content/rba/en/home/presscenter/pressreleases/2020/european-union-ramps-up-support-to-africa-adaptation-initiative-.html|url-status=live}}</ref>
+====Marrëdhëniet Afrikë–Indi====
+{{Hatnote|Artikulli kryesor: {{ill|Marrëdhëniet Afrikë-Indi|en|Africa-India relations}}}}
+
+[[Skeda:The Prime Minister, Dr. Manmohan Singh addressing the First India-Africa Forum Summit in New Delhi on April 08, 2008.jpg|thumb|Samiti i parë i {{ill|Samiti i Forumit Indi–Afrikë|en|India–Africa Forum Summit|lt=Forumit Indi–Afrikë}} i mbajtur në [[Nju Delhi]], 2008]]
+
+{{ill|Samiti i Forumit Indi–Afrikë|en|India–Africa Forum Summit}} (IAFS) është platforma zyrtare për marrëdhëniet Afrikë-Indi. IAFS mbahet një herë në tre vjet. Ai u mbajt për herë të parë nga 4 deri më 8 prill 2008 në [[Nju Delhi]], [[India|Indinë]].<ref>{{Cite news|first=Anjana|last=Pasricha|title=India-Africa Summit Pledges Close Partnership|date=2008-04-09|publisher=Voice of America|url=http://voanews.com/english/archive/2008-04/2008-04-09-voa28.cfm|work=VOA News|access-date=2009-01-03|url-status=dead|archive-url=https://web.archive.org/web/20081117062233/http://voanews.com/english/archive/2008-04/2008-04-09-voa28.cfm|archive-date=2008-11-17|language=en}}</ref> Në 2015, Samiti i Tretë i Forumit Indi–Afrikë u mbajt në Nju Delhi dhe në samit morën pjesë 51 krerë shtetesh të Bashkimit Afrikan.<ref>{{Cite news|url=http://timesofindia.indiatimes.com/india/Biggest-diplomatic-event-India-Africa-summit-from-October-26/articleshow/46691914.cms|title=Biggest diplomatic event: India-Africa summit from October 26|website=The Times of India|date=2015-03-25|language=en}}</ref> Në 2023, Bashkimi Afrikan u pranua në [[G20]] nën presidencën e [[India|Indisë]], e drejtuar nga kryeministri [[Narendra Modi]] në [[Nju Delhi]].
+
+====Marrëdhëniet Afrikë–Palestinë====
+Bashkimi Afrikan fton periodikisht Presidentin e Shtetit të Palestinës për të mbajtur një fjalim hapës gjatë Samitit të tij vjetor në [[Addis Ababa|Adis Abeba]]. Sipas nenit 10 të Rregullores së Procedurës së Bashkimit, gjatë hapjes së sesioneve të mbledhjes, Presidenti i Shtetit të Palestinës personalisht ka të drejtë të mbajë një fjalim hapës.
+Pas sulmit të Hamasit ndaj Izraelit në tetor 2023, kryetari i Komisionit të Bashkimit Afrikan, {{ill|Moussa Faki Mahamat|en|Moussa Faki}}, shprehu "shqetësimin më të madh" për situatën dhe bëri thirrje për një ndërprerje të menjëhershme të armiqësive; përveç kësaj, ai kujtoi se mohimi i të drejtave themelore të [[Palestinezët|popullit palestinez]], veçanërisht ai i një Shteti të Palestinës të pavarur dhe sovran, ishte "shkaku kryesor i [[Konflikti Izraelito-Palestinez|tensionit të përhershëm izraelito-palestinez]]".<ref>{{Cite web|last=Njaaga|first=David|title=African Union calls for end to Israel-Palestine hostilities|url=https://www.standardmedia.co.ke/national/article/2001483044/au-calls-for-end-to-israel-palestine-war|date=2023-10-07|website=The Standard|language=en|archive-date=2023-10-09|archive-url=https://web.archive.org/web/20231009020518/https://www.standardmedia.co.ke/national/article/2001483044/au-calls-for-end-to-israel-palestine-war|url-status=live}}</ref>
+
+====Marrëdhëniet Afrikë–Rusi====
+Rusia priti samitin e parë të krerëve të shteteve Afrikë–Rusi më 23–24 tetor 2019. Përfaqësues nga të 54 shtetet afrikane, përfshirë 43 krerë shtetesh ose qeverish, morën pjesë në samit.<ref>{{Cite web|title=Date and venue of Russia-Africa summit not yet determined—Russian senior diplomat|url=https://tass.com/politics/1395855|access-date=2022-02-05|website=TASS|archive-date=2022-02-05|archive-url=https://web.archive.org/web/20220205120805/https://tass.com/politics/1395855|url-status=live|language=en}}</ref>
+
+Samiti i dytë Rusi–Afrikë ishte planifikuar për tetor 2022 në [[Addis Ababa|Adis Abeba]], por më pas u riplanifikua për 26–29 korrik 2023 në [[Shën Petersburgu|Shën Petersburg]].<ref>{{Cite news|title=Most African nations will attend Russia's second Africa-Russia summit in St Petersburg|url=https://www.intellinews.com/most-african-nations-will-attend-russia-s-second-africa-russia-summit-in-st-petersburg-272876/|work=bne IntelliNews|date=2023-03-14|access-date=2023-09-10|archive-date=2023-05-23|archive-url=https://web.archive.org/web/20230523080625/http://www.intellinews.com/most-african-nations-will-attend-russia-s-second-africa-russia-summit-in-st-petersburg-272876/|url-status=live|language=en}}</ref><ref>{{Cite news|title=African Union chair: Putin's grain offer not enough, Ukraine ceasefire needed|url=https://www.reuters.com/world/africa/african-union-chair-putins-grain-offer-not-enough-ukraine-ceasefire-needed-2023-07-28/|work=Reuters|date=2023-07-28|access-date=2023-09-10|archive-date=2023-09-03|archive-url=https://web.archive.org/web/20230903111238/https://www.reuters.com/world/africa/african-union-chair-putins-grain-offer-not-enough-ukraine-ceasefire-needed-2023-07-28/|url-status=live|language=en}}</ref>
+
+====Marrëdhëniet Afrikë–Koreja e Jugut====
+{{Hatnote|Shih edhe: {{ill|Marrëdhëniet Afrikë–Koreja e Jugut|en|Africa–South Korea relations}}}}
+Samiti i parë ishte Samiti Koreja e Jugut–Afrikë, në Seul, në qershor 2024.<ref>{{Cite news|date=2024-06-05|title=S. Korea-Africa summit paves way for stronger cooperation on trade, energy, economy|url=https://en.yna.co.kr/view/AEN20240605007100320|work=Yonhap News Agency|language=en}}</ref>
+
+====Marrëdhëniet Afrikë–Turqi====
+Marrëdhëniet Turqi–Afrikë kanë marrë hov të konsiderueshëm që nga shpallja e Turqisë si partnere strategjike e kontinentit nga Bashkimi Afrikan në janar 2008. Që nga viti 2008, samite dhe takime të ndryshme të rëndësishme kanë vazhduar midis Turqisë dhe Bashkimit Afrikan. Samiti i parë ishte Samiti i Bashkëpunimit Turqi–Afrikë, në Stamboll, në gusht 2008.<ref>{{Cite web|url=https://www.mfa.gov.tr/turkey-and-the-african-union.en.mfa|title=From Rep. Of Turkey Ministry of Foreign Affairs|access-date=2021-05-27|archive-date=2021-10-20|archive-url=https://web.archive.org/web/20211020032410/https://www.mfa.gov.tr/turkey-and-the-african-union.en.mfa|url-status=live|language=en}}</ref>
+
+Që nga viti 2020, Turqia ka ambasada në 42 vende dhe këshilltarë tregtarë në 26 vende të kontinentit afrikan. Transportuesi flamur kombëtar i Turqisë, [[Turkish Airlines]], fluturon gjithashtu drejt 35 destinacioneve në kontinent.
+==== Marrëdhëniet Afrikë–Mbretëria e Bashkuar ====
+Sovraniteti i {{ill|Arkipelagu Çagos|en|Chagos Archipelago|lt=Arkipelagut Çagos}} në Oqeanin Indian është i diskutueshëm midis Mbretërisë së Bashkuar dhe [[Mauritiusi|Mauritiusit]].<ref>{{cite news |title=Chagos Islands dispute: UK 'threatened' Mauritius |url=https://www.bbc.com/news/world-africa-45300739 |work=BBC News |date=27 August 2018 |access-date=20 February 2021 |archive-date=23 March 2021 |archive-url=https://web.archive.org/web/20210323145031/https://www.bbc.com/news/world-africa-45300739 |url-status=live |language=en}}</ref> Në shkurt 2019, [[Gjykata Ndërkombëtare e Drejtësisë]] në [[Haga|Hagë]] dha një mendim këshillimor duke deklaruar se Mbretëria e Bashkuar duhet t'ia transferojë Arkipelagun Çagos Mauritiusit.<ref>{{cite news |title=Foreign Office quietly rejects International Court ruling to hand back Chagos Islands |url=https://inews.co.uk/news/politics/foreign-office-quietly-rejects-international-court-ruling-to-hand-back-chagos-islands-450078 |work=inews.co.uk |date=18 June 2020 |access-date=20 February 2021 |archive-date=30 January 2021 |archive-url=https://web.archive.org/web/20210130042318/https://inews.co.uk/news/politics/foreign-office-quietly-rejects-international-court-ruling-to-hand-back-chagos-islands-450078 |url-status=live |language=en}}</ref> Bashkimi Afrikan ka nxitur Mbretërinë e Bashkuar të përputhet me një rezolutë të [[Asambleja e Përgjithshme e Kombeve të Bashkuara|Asamblesë së Përgjithshme të Kombeve të Bashkuara]] që kërkon tërheqjen e saj nga Ishujt Çagos.<ref>{{cite news |title=African Union orders Britain to withdraw from Chagos Islands, end 'colonial administration' |url=https://www.businessinsider.com/african-union-orders-britain-to-withdraw-from-chagos-islands-end-colonial-administration-2019-11 |work=Business Insider |date=22 November 2019 |access-date=20 February 2021 |archive-date=14 April 2021 |archive-url=https://web.archive.org/web/20210414032714/https://www.businessinsider.com/african-union-orders-britain-to-withdraw-from-chagos-islands-end-colonial-administration-2019-11 |url-status=live |language=en}}</ref>
+
+==== Marrëdhëniet Afrikë–Shtetet e Bashkuara ====
+[[File:P20221215AS-1181 (52651359240).jpg|thumb|Kryetari i Komisionit të Bashkimit Afrikan {{ill|Moussa Faki Mahamat|en|Moussa Faki}}, presidenti amerikan [[Joe Biden]] dhe liderët afrikanë në {{ill|Samiti i Liderëve Afrikë–Shtetet e Bashkuara 2022|en|United States–Africa Leaders Summit 2022|lt=Samitin e Liderëve Afrikë–Shtetet e Bashkuara}} në Uashington, D.C., më 15 dhjetor 2022]]
+
+Në 2017, [[Donald Trump]], [[Presidenti i Shteteve të Bashkuara]], lëshoi një urdhër ekzekutiv për të ndaluar hyrjen në Shtetet e Bashkuara të qytetarëve nga shtatë vende me lidhje të dyshuara me terrorizmin. Tre prej tyre janë vende afrikane dhe anëtare të Bashkimit Afrikan. Gjatë Samitit të 28-të të Bashkimit Afrikan në Etiopi, liderët afrikanë kritikuan ndalimin duke shprehur shqetësimet në rritje për të ardhmen e ekonomisë afrikane nën udhëheqjen e presidentit Trump dhe politikave të tij të mëvonshme.<ref>{{Cite web |url=https://www.democracynow.org/2017/1/31/headlines/african_union_slams_trump_muslim_ban_invoking_legacy_of_transatlantic_slave_trade |title=African Union Slams Trump Muslim Ban, Invoking Legacy of Transatlantic Slave Trade |website=Democracy Now! |access-date=1 February 2017 |archive-date=31 January 2017 |archive-url=https://web.archive.org/web/20170131185724/https://www.democracynow.org/2017/1/31/headlines/african_union_slams_trump_muslim_ban_invoking_legacy_of_transatlantic_slave_trade |url-status=live |language=en}}</ref>
+
+=== Ushtria ===
+{{Hatnote|Shih edhe: {{ill|Lista e ndërhyrjeve ushtarake të Bashkimit Afrikan|en|List of African Union military interventions}}}}
+Bashkimi Afrikan ka pushtetin të ndërhyjë ushtarakisht në emër të shteteve anëtare, siç përcaktohet në nenin 4(h) të {{ill|Akti Konstitutiv i Bashkimit Afrikan|en|Constitutive Act of the African Union|lt=Aktit Konstitutiv të Bashkimit Afrikan}}, "për rrethana të rënda, konkretisht: krime lufte, gjenocid dhe krime kundër njerëzimit".<ref>"Constitutive Act of the African Union," opened for signature 11 July 2000. Organisation for African Unity. https://au.int/sites/default/files/pages/34873-file-constitutiveact_en.pdf {{Webarchive|url=https://web.archive.org/web/20200415235637/https://au.int/sites/default/files/pages/34873-file-constitutiveact_en.pdf |date=15 April 2020 }}.</ref>
+
+==== Togo ====
+Në përgjigje të vdekjes së {{ill|Gnassingbé Eyadéma|en|Gnassingbé Eyadéma}}, presidentit të [[Togo|Togos]], më 5 shkurt 2005, liderët e Bashkimit Afrikan e përshkruan emërimin e djalit të tij, {{ill|Faure Gnassingbé|en|Faure Gnassingbé}}, në presidencë si një [[Grusht shteti|grusht shteti ushtarak]].<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/world/africa/4240485.stm |title=AU denounces Togo 'military coup' |work=BBC News |date=6 February 2005 |access-date=10 July 2006 |archive-date=15 January 2009 |archive-url=https://web.archive.org/web/20090115094219/http://news.bbc.co.uk/1/hi/world/africa/4240485.stm |url-status=live |language=en}}</ref> Kushtetuta e Togos parashikon që kryetari i parlamentit të pasojë presidentin në rast të vdekjes së tij. Sipas ligjit, kryetari i parlamentit duhet të thërrasë zgjedhje kombëtare për të zgjedhur një president të ri brenda gjashtëdhjetë ditësh. Protesta e Bashkimit Afrikan e detyroi Gnassingbén të mbante zgjedhje. Nën akuza të rënda për mashtrim zgjedhor, ai u zgjodh zyrtarisht president më 4 maj 2005.
+
+==== Mauritania ====
+Më 3 gusht 2005, një grusht shteti në [[Mauritania|Mauritaninë]] çoi në pezullimin e vendit nga të gjitha aktivitetet organizative të Bashkimit Afrikan. Këshilli ushtarak që mori kontrollin e Mauritanisë premtoi të mbante zgjedhje brenda dy vjetësh.{{Citim i duhur|date=July 2011}}<ref>{{Cite journal|last=N'Diaye|first=Boubacar|date=2009|title=To 'Midwife' – and Abort – a Democracy: Mauritania's Transition from Military Rule, 2005–2008|url=https://www.jstor.org/stable/30224926|journal=The Journal of Modern African Studies|volume=47|issue=1|pages=129–152|doi=10.1017/S0022278X08003765|jstor=30224926|s2cid=154877577|issn=0022-278X|access-date=18 May 2021|archive-date=18 May 2021|archive-url=https://web.archive.org/web/20210518110815/https://www.jstor.org/stable/30224926|url-status=live|url-access=subscription|language=en}}</ref> Këto u mbajtën në fillim të vitit 2007, hera e parë që vendi mbajti zgjedhje që përgjithësisht u pranuan si të një standardi të pranueshëm. Pas zgjedhjeve, u rikthye anëtarësimi i Mauritanisë në Bashkimin Afrikan. Megjithatë, më 6 gusht 2008, një grusht shteti i ri rrëzoi qeverinë e zgjedhur në 2007. Bashkimi Afrikan përsëri e pezulloi Mauritaninë nga trupi kontinental.<ref>{{cite news |url=https://www.economist.com/middle-east-and-africa/2009/07/23/all-is-rather-easily-forgiven |title=All is rather easily forgiven |newspaper=[[The Economist]] |date=23 July 2009 |access-date=15 July 2011 |archive-date=21 February 2012 |archive-url=https://web.archive.org/web/20120221194243/http://www.economist.com/node/14105592 |url-status=live |language=en}}</ref> Pezullimi u hoq përsëri në 2009 pasi junta ushtarake u pajtua me opozitën për të organizuar zgjedhje.<ref>{{cite news |url=https://www.reuters.com/article/us-mauritania-sanctions/african-union-lifts-sanctions-on-mauritania-idUSTRE56021Z20090701 |title=African Union lifts sanctions on Mauritania |work=[[Reuters]] |date=1 July 2009 |access-date=3 December 2017 |archive-date=4 December 2017 |archive-url=https://web.archive.org/web/20171204171128/https://www.reuters.com/article/us-mauritania-sanctions/african-union-lifts-sanctions-on-mauritania-idUSTRE56021Z20090701 |url-status=live |language=en}}</ref>
+==== Mali ====
+[[File:GSPC map.png|thumb|Zona e operacioneve të {{ill|Al-Kaida në Magrebin Islamik|en|Al-Qaeda in the Islamic Maghreb|lt=Al-Kaidës në Magrebin Islamik}} (më parë {{ill|Grupi Salafist për Predikim dhe Luftë|en|Salafist Group for Preaching and Combat|lt=GSPC}})]]
+
+Në mars 2012, në Mali u organizua një grusht shteti ushtarak, kur një aleancë e forcave tuarege dhe islamiste pushtoi veriun, duke çuar në ardhjen në pushtet të islamistëve. Kjo rezultoi në vdekjen e qindra ushtarëve malianë dhe humbjen e kontrollit mbi kampet dhe pozicionet e tyre.<ref>{{cite web |last1=Dixon |first1=Robyn |last2=Labous |first2=Jane |title=Gains of Mali's Tuareg rebels appear permanent, analysts say |url=https://www.latimes.com/world/la-xpm-2012-apr-04-la-fg-mali-tuaregs-20120404-story.html |website=Los Angeles Times |date=2012-04-04 |access-date=2018-09-04 |archive-date=2018-09-10 |archive-url=https://web.archive.org/web/20180910090629/http://articles.latimes.com/2012/apr/04/world/la-fg-mali-tuaregs-20120404 |url-status=live |language=en }}</ref> Pas një ndërhyrjeje ushtarake me ndihmën e trupave franceze, rajoni kaloi nën kontrollin e ushtrisë maliane. Për të rivendosur autoritetet lokale, Bashkimi Afrikan (BA) ndihmoi në formimin e një qeverie të përkohshme, duke e mbështetur atë dhe duke mbajtur zgjedhjet presidenciale në Mali në korrik 2013.<ref name="dandc.eu">{{Cite web |date=2013-08-27 |title=The long haul |url=https://www.dandc.eu/en/article/african-peace-and-security-architecture-already-proving-useful-even-though-it-still-work |access-date=2025-07-29 |website=D+C |language=en}}</ref>
+
+Në 2013, u mbajt një samit i Bashkimit Afrikan dhe u vendos që Bashkimi Afrikan do të zgjeronte praninë e tij ushtarake në Mali. BA-ja vendosi ta bënte këtë për shkak të tensioneve në rritje midis forcave të Al-Kaidës dhe ushtrisë maliane. Ka pasur disa grupe rebele që konkurrojnë për kontrollin e pjesëve të Malit. Këto grupe rebele përfshijnë {{ill|Lëvizja Kombëtare për Çlirimin e Azavadit|en|National Movement for the Liberation of Azawad|lt=Lëvizjen Kombëtare për Çlirimin e Azavadit}} (MNLA), Frontin Kombëtar për Çlirimin e Azavadit (FLNA), Ganda Koy, Ganda Izo, {{ill|Fronti Ansar ad-Din|en|Ansar al-Din Front|lt=Ansar ad-Din}} dhe [[Al-Kaida|Al-Kaida]] në {{ill|Al-Kaida në Magrebin Islamik|en|Al-Qaeda in the Islamic Maghreb|lt=Magrebin Islamik}} (AQIM). Forcat e BA-së janë ngarkuar me misione kundër kryengritjes në Mali, si dhe me drejtimin e zgjedhjeve presidenciale për të siguruar një tranzicion sa më të qetë të pushtetit.<ref>{{Cite journal |last1=Besancon |first1=Marie |last2=Dalzell |first2=Stephen |date=June 2014 |title=The Soldier and the Street: East African CIMIC in Somalia and Beyond. |journal=PRISM Security Studies Journal |volume=5 |pages=117–135 |language=en }}</ref>
+
+==== Pikat e nxehta të vitit 2021 ====
+Një zgjedhje e kontestuar në dhjetor 2020 çoi në intensifikimin e {{ill|Lufta Civile e Republikës së Afrikës Qendrore|en|Central African Republic Civil War|lt=Luftës Civile të Republikës së Afrikës Qendrore}}, duke zhvendosur 200.000 njerëz. Paqeruajtësit e Kombeve të Bashkuara, përfshirë ushtarë nga Rusia dhe Ruanda, i kanë mbajtur rebelët jashtë [[Bangui|Banguit]], por rebelët kontrollojnë pjesën më të madhe të pjesës tjetër të vendit. BA-ja nuk ka dërguar paqeruajtës në ato zona për shkak të mungesës së marrëveshjes për mënyrën e trajtimit të situatës: [[Çadi|Çadi]] dhe [[Republika e Kongos]] mbështesin rebelët, ndërsa [[Ruanda]] dhe [[Angola]] mbështesin qeverinë.<ref name="2021_priorities"/>
+
+Lufta e Tigrait në Etiopi ka lënë miliona njerëz në nevojë për ndihmë humanitare. Trupat eritreane thuhet se mbështesin qeverinë etiopiane, dhe ka pasur konflikte kufitare me Sudanin. Marrëdhënia midis Sudanit dhe Etiopisë ndërlikohet më tej nga projekti i {{ill|Diga e Madhe e Rilindjes Etiopiane|en|Grand Ethiopian Renaissance Dam|lt=Digës së Madhe të Rilindjes Etiopiane}}, i cili gjithashtu prek drejtpërdrejt Egjiptin.<ref name="2021_priorities"/>
+
+===== Brezi i grusht shteteve =====
+[[File:Coup belt.svg|200px|thumb|Harta e grushteve të shtetit të suksesshme në Afrikë që nga viti 2020]]
+
+Termi [[Brezi i grusht shteteve]] e ka origjinën nga grushtet e shtetit që u organizuan duke filluar nga fillimi i viteve 2020, përfshirë në [[Mali]] në {{ill|Grushti i shtetit në Mali 2020|en|2020 Malian coup d'état|lt=2020}} dhe {{ill|Grushti i shtetit në Mali 2021|en|2021 Malian coup d'état|lt=2021}}, {{ill|Grusht shteti në Guinea 2021|en|2021 Guinean coup d'état|lt=Guinea}}, [[Çadi|Çadi]] dhe Sudani në 2021, dy në [[Burkina Faso]] në {{ill|Grushti i shtetit në Burkina Faso 2022|en|January 2022 Burkina Faso coup d'état|lt=janar}} dhe {{ill|Grushti i shtetit në Burkina Faso 2022|en|September 2022 Burkina Faso coup d'état|lt=shtator}} 2022, si dhe [[Nigeri]] dhe [[Gaboni]] në 2023. Rajoni pa gjithashtu përpjekje për grushte shteti në Niger dhe Sudan në 2021, Guinea-Bissau dhe Gambia në 2022, si dhe Sudan dhe {{ill|Komploti i grushtit të shtetit në Sierra Leone 2023|en|2023 Sierra Leone coup plot|lt=Sierra Leone}} në 2023. Pas grushtit të shtetit në Niger në 2023, këto vende formuan një zinxhir të vazhdueshëm që shtrihet midis brigjeve lindore dhe perëndimore të Afrikës.
+
+=== Konfliktet rajonale dhe paqeruajtja ===
+{{Hatnote|Artikulli kryesor: {{ill|Forca Afrikane e Gatishmërisë|en|African Standby Force}}}}
+
+Një nga objektivat e BA-së është të "promovojë paqen, sigurinë dhe stabilitetin në kontinent".<ref>Neni 3(f) i Aktit Konstitutiv.</ref> Ndër parimet e tij është "Zgjidhja paqësore e konflikteve midis Shteteve Anëtare të Bashkimit nëpërmjet mjeteve të përshtatshme që mund të vendosen nga Asambleja".<ref>Neni 4(e) i Aktit Konstitutiv.</ref> Organi kryesor i ngarkuar me zbatimin e këtyre objektivave dhe parimeve është Këshilli i Paqes dhe Sigurisë (KPS). KPS-ja ka fuqinë, ndër të tjera, të autorizojë misione të mbështetjes së paqes, të vendosë sanksione në rast të ndryshimit jokushtetues të qeverisë dhe të "ndërmarrë iniciativa dhe veprime që i konsideron të përshtatshme" në përgjigje të konflikteve të mundshme ose aktuale. KPS-ja është një organ vendimmarrës në vetvete, dhe vendimet e tij janë detyruese për shtetet anëtare.
+
+Neni 4(h) i Aktit Konstitutiv, i përsëritur në nenin 4 të Protokollit të Aktit Konstitutiv për KPS-në, njeh gjithashtu të drejtën e Bashkimit për të ndërhyrë në një shtet anëtar në raste krimesh lufte, gjenocidi dhe krimesh kundër njerëzimit. Çdo vendim për të ndërhyrë në një shtet anëtar sipas nenit 4 të Aktit Konstitutiv do të merret nga Asambleja me rekomandimin e KPS-së.
+
+Që nga mbledhja e parë në 2004, KPS-ja ka qenë aktive në lidhje me krizat në {{ill|Darfuri|en|Darfur|lt=Darfur}}, [[Komoret]], [[Somalia|Somali]], [[Republika Demokratike e Kongos|Republikën Demokratike të Kongos]], [[Burundi]], [[Bregu i Fildishtë|Bregun e Fildishtë]] dhe vende të tjera. Ai ka miratuar rezoluta që krijuan operacionet paqeruajtëse të BA-së në Somali dhe Darfur, si dhe që vendosin sanksione kundër personave që minojnë paqen dhe sigurinë (si ndalimet e udhëtimit dhe ngrirjen e aseteve kundër liderëve të rebelimit në Komore). Këshilli është në procesin e mbikëqyrjes së krijimit të një "force gatishmërie" që do të shërbejë si një forcë e përhershme paqeruajtëse afrikane.{{Citim i duhur|date=January 2014}}<ref name=":4">{{Cite book|last=Touray|first=Omar Alieu|title=The African Union the first ten years|publisher=Rowman and Littlefield|year=2016|isbn=978-1-4422-6897-5|pages=Maryland|language=en}}</ref>
+
+Traktati themelues i BA-së parashikonte gjithashtu krijimin e {{ill|Arkitektura Afrikane e Paqes dhe Sigurisë|en|African Peace and Security Architecture|lt=Arkitekturës Afrikane të Paqes dhe Sigurisë}} (APSA), duke përfshirë {{ill|Forca Afrikane e Gatishmërisë|en|African Standby Force|lt=Forcën Afrikane të Gatishmërisë}} (ASF), e cila duhet të vendoset në raste urgjence. Kjo do të thotë se, në raste gjenocidi ose shkeljeve të tjera të rënda të të drejtave të njeriut, një mision i ASF-së mund të nisë edhe kundër vullnetit të qeverisë së vendit në fjalë, për sa kohë që miratohet nga BA-ja. Në misionet e kaluara paqeruajtëse të BA-së, koncepti nuk ishte zbatuar ende dhe forcat duhej të mobilizoheshin nga shtetet anëtare. Megjithëse ASF-ja u shpall plotësisht funksionale në 2016 dhe u përdor nga 2017 e në vazhdim në ndërhyrjet e ECOWAS, ECCAS dhe SADC në [[Gambia]], [[Lesoto]], [[Mozambiku|Mozambik]] dhe [[Republika Demokratike e Kongos|Republikën Demokratike të Kongos]], ajo nuk është dislokuar në të njëjtën mënyrë siç ishte konceptuar fillimisht. Në vend që KPS-ja të veprojë si iniciatorja kryesore e veprimit të ASF-së, siç ishte planifikuar më parë, Komunitetet Ekonomike Rajonale kanë marrë përsipër mobilizimin e kapaciteteve të ASF-së. Në dritën e kritikave të vazhdueshme, reforma e ASF-së mbetet një temë e spikatur e diskutimit në BA.<ref name=dandc.eu/><ref>{{Cite web |title=Revitalising the African standby force: lessons from Africa's Peace operations experience |url=https://www.accord.org.za/analysis/revitalising-the-african-standby-force-lessons-from-africas-peace-operations-experience/ |access-date=2025-07-29 |website=ACCORD |language=en-GB}}</ref>
+==== Darfuri, Sudani ====
+{{Hatnote|Artikulli kryesor: {{ill|Misioni i Bashkimit Afrikan në Sudan|en|African Union Mission in Sudan}}}}
+
+[[Skeda:Eritrea - Flickr - Al Jazeera English.jpg|thumb|Referendumi i pavarësisë së Sudanit të Jugut, 2011]]
+Në përgjigje të konfliktit të vazhdueshëm në {{ill|Darfuri|en|Darfur|lt=Darfur}} në Sudan, Bashkimi Afrikan ka dislokuar 7.000 paqeruajtës, shumë prej tyre nga Ruanda dhe Nigeria, në Darfur. Ndërkohë që një konferencë donatorësh në Adis Abeba në 2005 ndihmoi në mbledhjen e fondeve për të mbajtur paqeruajtësit gjatë atij viti dhe deri në 2006, në korrik 2006 Bashkimi Afrikan deklaroi se do të tërhiqej në fund të shtatorit, kur skadon mandati i tij.<ref>{{Cite news |url=http://news.bbc.co.uk/2/hi/africa/5124608.stm |work=BBC News |title=AU Darfur mission 'to end soon' |date=2006-06-28 |access-date=2010-04-23 |archive-date=2011-08-26 |archive-url=https://web.archive.org/web/20110826204932/http://news.bbc.co.uk/2/hi/africa/5124608.stm |url-status=live |language=en}}</ref> Kritikët e paqeruajtësve të Bashkimit Afrikan, përfshirë {{ill|Eric Reeves|en|Eric Reeves}}, kanë thënë se këto forca janë kryesisht të paefektshme për shkak të mungesës së fondeve, personelit dhe ekspertizës. Mbikëqyrja e një zone të gjerë e ka bërë edhe më të vështirë mbajtjen e një misioni efektiv. Në qershor 2006, [[Kongresi i Shteteve të Bashkuara]] ndau 173 milionë dollarë amerikanë për forcat e Bashkimit Afrikan. Disa, si Rrjeti për Ndërhyrje kundër Gjenocidit, kanë bërë thirrje për ndërhyrje të Kombeve të Bashkuara ose të [[NATO]]-s për të shtuar dhe/ose zëvendësuar paqeruajtësit e Bashkimit Afrikan. Kombet e Bashkuara kanë shqyrtuar dislokimin e një force, megjithëse ajo me gjasë nuk do të hynte në vend deri të paktën në tetor 2007.<ref>{{Cite web |url=https://www.un.org/News/Press/docs//2007/sc9089.doc.htm |archive-url=https://web.archive.org/web/20070815184454/http://www.un.org/News/Press/docs/2007/sc9089.doc.htm |url-status=dead |archive-date=2007-08-15 |title=Security Council Authorises Deployment of United Nations-African Union 'Hybrid' Peace Operation in Bid To Resolve Darfur Conflict |publisher=United Nations |access-date=2012-11-26 |language=en}}</ref> Misioni i Bashkimit Afrikan, me financim të pamjaftueshëm dhe i pajisur keq, do të skadonte më 31 dhjetor 2006, por u zgjat deri më 30 qershor 2007 dhe u bashkua me Misionin e Kombeve të Bashkuara dhe Bashkimit Afrikan në Darfur në tetor 2007. Në korrik 2009, Bashkimi Afrikan ndërpreu bashkëpunimin me [[Gjykata Penale Ndërkombëtare|Gjykatën Penale Ndërkombëtare]], duke refuzuar të njohë urdhrin ndërkombëtar të arrestimit që ajo kishte lëshuar kundër liderit të Sudanit, {{ill|Omar al-Bashir|en|Omar al-Bashir}}, i cili u akuzua në 2008 për [[Krimet e luftës|krime lufte]].<ref>{{Cite news |url=http://news.bbc.co.uk/2/hi/africa/8134718.stm |work=BBC News |title=African move on Bashir dismissed |date=2009-07-05 |access-date=2010-04-23 |archive-date=2016-12-25 |archive-url=https://web.archive.org/web/20161225224733/http://news.bbc.co.uk/2/hi/africa/8134718.stm |url-status=live |language=en}}</ref>
+
+Bashkimi Afrikan u përpoq të luante një rol strategjik në bisedimet e pavarësisë dhe në procesin e pajtimit të [[Sudani i Jugut|Sudanit të Jugut]], por për shkak të interesave mbizotëruese të fuqive afrikane dhe joafrikane, ndikimi i tij mbetet i kufizuar dhe jo i qëndrueshëm.<ref>{{Cite journal |last=Sulaiman |first=Abubkar O. |author2=Agoha, Ifeanyi Chuckwu |title=South Sudan Negotiated Independence: A Critique of African Union's Role |journal=European Journal of Sustainable Development |date=2013-10-01 |volume=2 |issue=3 |pages=145–154 |doi=10.14207/ejsd.2013.v2n3p145 |doi-access=free |bibcode=2013EJSD....2..145S |language=en}}</ref>
+
+==== Somalia ====
+{{Hatnote|Artikulli kryesor: {{ill|Misioni i Bashkimit Afrikan në Somali|en|African Union Mission to Somalia}}}}
+
+[[Skeda:AMISOM Kismayo Advance 15 (8049962361).jpg|thumb|Ushtarë kenianë dhe luftëtarë të Brigadave Ras Kamboni, një milici aleate e qeverisë somaleze, pranë {{ill|Kismajo|en|Kismayo|lt=Kismajos}}, Somali, 2012]]
+Nga fillimi i viteve 1990 e deri në 2000, [[Somalia]] ishte pa një qeveri qendrore funksionale. Një marrëveshje paqeje që synonte t'i jepte fund {{ill|Lufta Civile Somaleze|en|Somali Civil War|lt=luftës civile}} që shpërtheu pas rënies së regjimit të {{ill|Siad Barre|en|Siad Barre}}, u nënshkrua në 2006 pas shumë vitesh bisedimesh paqeje. Megjithatë, qeveria e re u kërcënua pothuajse menjëherë nga dhuna e mëtejshme. Në shkurt 2007, Bashkimi Afrikan (BA) dhe [[Bashkimi Evropian]] (BE) bashkëpunuan për të krijuar Misionin e Bashkimit Afrikan në Somali (AMISOM). Qëllimi i AMISOM-it ishte të krijonte një bazë që, shpresohej, do t'u ofronte ndihmë disa prej më të cenueshmëve të Somalisë dhe do të ruante paqen në rajon. Atyre u besohen detyra që variojnë nga mbrojtja e institucioneve federale deri te lehtësimi i operacioneve të ndihmës humanitare. Pjesa më e madhe e kundërshtimit ndaj Bashkimit Afrikan vjen nga një grup ekstremist islamik i quajtur {{ill|Al-Shabaab|en|Al-Shabaab (militant group)}}.<ref name=":3">{{Cite journal |last=Anderson |first=Noel |date=2014 |title=Peacekeepers Fighting a Counterinsurgency Campaign: A Net Assessment of the African Union Mission in Somalia |journal=Studies in Conflict and Terrorism |volume=37 |issue=11 |pages=936–954 |doi=10.1080/1057610X.2014.952260 |s2cid=109822861 |language=en}}</ref> Për të forcuar përkohësisht bazën ushtarake të qeverisë, duke filluar nga marsi 2007, ushtarë të Bashkimit Afrikan filluan të mbërrinin në [[Mogadishu]] si pjesë e një force paqeruajtëse që Bashkimi Afrikan synonte të arrinte përfundimisht 8.000 vetë.<ref name="bbc2115736">{{Cite news |url=http://news.bbc.co.uk/2/hi/africa/2115736.stm |work=BBC News |title=African Union replaces dictators' club |date=2002-07-08 |access-date=2010-04-23 |first=Paul |last=Reynolds |archive-url=https://web.archive.org/web/20100601025542/http://news.bbc.co.uk/2/hi/africa/2115736.stm |archive-date=2010-06-01 |url-status=live |language=en}}</ref> Më 20 nëntor 2009, Eritrea tërhoqi ambasadorët e saj nga Bashkimi Afrikan,<ref>{{Cite web |url=http://www.afrol.com/articles/10577 |title=Eritrea breaks with African Union |date=2009-11-20 |publisher=Afrol News |language=en |archive-url=https://web.archive.org/web/20110824072414/http://www.afrol.com/articles/10577 |archive-date=2011-08-24 |url-status=live}}</ref> pasi Bashkimi Afrikan i bëri thirrje Këshillit të Sigurimit të Kombeve të Bashkuara që t'u vendosë atyre sanksione për shkak të mbështetjes së pretenduar të islamistëve somalezë që përpiqeshin të rrëzonin Qeverinë Federale Tranzitore të Somalisë, qeveria e njohur ndërkombëtarisht e Somalisë që mban vendin e Somalisë në Bashkimin Afrikan.<ref>{{Cite news |url=http://news.bbc.co.uk/2/hi/africa/8064939.stm |title=AU calls for sanctions on Eritrea |date=2009-05-23 |work=BBC News |language=en |access-date=2009-05-23 |archive-url=https://web.archive.org/web/20171107104635/http://news.bbc.co.uk/2/hi/africa/8064939.stm |archive-date=2017-11-07 |url-status=live}}</ref> Më 22 dhjetor 2009, Këshilli i Sigurimit i Kombeve të Bashkuara miratoi {{ill|Rezoluta 1907 e Këshillit të Sigurimit të Kombeve të Bashkuara|en|United Nations Security Council Resolution 1907|lt=Rezolutën 1907 të Këshillit të Sigurimit}}, e cila vendosi një embargo armësh ndaj Eritresë, ndalim udhëtimi për liderët eritreas dhe ngrirje asetesh për zyrtarët eritreas. Eritrea e kritikoi ashpër rezolutën. Në janar 2011, Eritrea rithemeloi misionin e saj pranë Bashkimit Afrikan në Adis Abeba.<ref>{{Cite web |url=http://allafrica.com/stories/201101210166.html |title=Eritrea: Nation Appoints AU Envoy in Ethiopia |date=2011-01-20 |language=en |access-date=2011-05-09 |archive-url=https://web.archive.org/web/20110629134439/http://allafrica.com/stories/201101210166.html |archive-date=2011-06-29 |url-status=live}}</ref>
+
+Në vjeshtën e 2011, forcat e AMISOM-it, së bashku me forcat keniane dhe etiopiane, nisën një sërë sulmesh ofensive kundër Al-Shabaab-it. Në këto sulme, forcat e AMISOM-it arritën të rimerrnin qytete kyçe, përfshirë kryeqytetin somalez të Mogadishu-s. Në shtator 2013, shkencëtari politik Ethan Bueno de Mesquita argumentoi se, me ndihmën e forcave të AMISOM-it, ato e kishin bërë "pothuajse të pamundur për Al-Shabaab-in të mbajë territor edhe në bastionet e tij të mëparshme në Somalinë jugore". Megjithëse është bërë shumë përparim drejt paqes në rajon, duhet theksuar se forcat e Bashkimit Afrikan ende sulmohen rregullisht. Megjithëse AMISOM-i është efektiv, ai ka financim shumë të pamjaftueshëm dhe shumë forcave u mungojnë burimet e nevojshme. Financimi për ndihmën humanitare dhe formimin e ushtrive priret të jetë jashtëzakonisht i pamjaftueshëm.<ref name=":3" />
+==== Anzhuan, Komoret ====
+{{Hatnote|Artikulli kryesor: {{ill|Pushtimi i Anzhuanit (2008)|en|2008 invasion of Anjouan}}}}
+
+Një pushtim i suksesshëm i {{ill|Anzhuani|en|Anjouan|lt=Anzhuanit}} në vitin 2008 nga forcat e Bashkimit Afrikan dhe të [[Komoret|Komoreve]] për të ndaluar presidentin e vetëshpallur Mohamed Bacar, rizgjedhja e të cilit në 2007 u shpall e paligjshme.<ref name="web.archive.org">{{Cite web |title=African Union forces seek rebel leader |url=http://www.france24.com/en/20080325-comoros-anjouan-battle-bacar-african-union-first-day%26navi%3DMONDE |archive-url=https://web.archive.org/web/20080415055355/http://www.france24.com/en/20080325-comoros-anjouan-battle-bacar-african-union-first-day%26navi%3DMONDE |url-status=dead |archive-date=2008-04-15 |website=France 24 |access-date=2018-09-04 |language=en}}</ref> Para pushtimit, Franca ndihmoi në transportimin e trupave tanzaniane, por pozicioni i saj në këtë mosmarrëveshje u vu në dyshim kur një helikopter i policisë franceze u dyshua se po përpiqej ta dërgonte fshehurazi Bacarin në mërgim në Francë.<ref>{{Cite news |title=Comoros anger over chopper crash |url=http://news.bbc.co.uk/2/hi/africa/7306986.stm |website=BBC News |date=2008-03-20 |access-date=2018-09-04 |archive-date=2008-03-23 |archive-url=https://web.archive.org/web/20080323180728/http://news.bbc.co.uk/2/hi/africa/7306986.stm |url-status=live |language=en}}</ref> Vala e parë e trupave zbarkoi në Gjirin e Anzhuanit më 25 mars dhe shpejt mori kontrollin e aerodromit në Ouani, me synimin përfundimtar për ta lokalizuar dhe larguar Bacarin nga detyra.<ref name="web.archive.org"/> Të njëjtën ditë, aeroporti, kryeqyteti dhe qyteti i dytë u pushtuan dhe pallati presidencial u braktis.<ref>{{Cite news |title=Battles on Comoros rebel island |url=http://news.bbc.co.uk/2/hi/africa/7312031.stm |website=BBC News |date=2008-03-25 |access-date=2018-09-04 |archive-date=2008-03-31 |archive-url=https://web.archive.org/web/20080331010358/http://news.bbc.co.uk/2/hi/africa/7312031.stm |url-status=live |language=en}}</ref> Bacari iku dhe kërkoi azil në Francë. Qeveria e Komoreve kërkoi kthimin e tij, me qëllim përcaktimin e fatit të tij.<ref>{{Cite news |title=Comoran rebel seeks French asylum |url=http://news.bbc.co.uk/2/hi/africa/7315744.stm |website=BBC News |date=2008-03-27 |access-date=2018-09-04 |archive-date=2008-03-28 |archive-url=https://web.archive.org/web/20080328232824/http://news.bbc.co.uk/2/hi/africa/7315744.stm |url-status=live |language=en}}</ref> Shumë nga mbështetësit kryesorë të Bacarit u arrestuan deri në fund të marsit, përfshirë Caabi El-Yachroutu Mohamed dhe Ibrahim Halidi. Kërkesa e Bacarit për azil u refuzua më 15 maj, pasi Franca ra dakord të bashkëpunonte me kërkesën e qeverisë së Komoreve.<ref>{{Cite news |title=Comoran rebel asylum plea refused |url=http://news.bbc.co.uk/2/hi/africa/7402921.stm |website=BBC News |date=2008-05-15 |access-date=2018-09-04 |archive-date=2018-08-28 |archive-url=https://web.archive.org/web/20180828170501/http://news.bbc.co.uk/2/hi/africa/7402921.stm |url-status=live |language=en}}</ref> Në zgjedhjet e 29 qershorit, Moussa Toybou fitoi presidencën.<ref>{{Cite web |title=Toybou confirmed Anjouan president |url=http://www.afrol.com/articles/29696 |website=Afrol News |access-date=2018-09-04 |archive-date=2018-09-04 |archive-url=https://web.archive.org/web/20180904120957/http://www.afrol.com/articles/29696 |url-status=live |language=en}}</ref>
+
+=== Çështjet aktuale ===
+Bashkimi Afrikan përballet me shumë sfida, përfshirë çështje shëndetësore si lufta kundër [[Malaria|malaries]] dhe epidemisë së SIDA-s/HIV-it; çështje politike si përballja me regjimet jodemokratike dhe ndërmjetësimi në shumë luftëra civile; çështje ekonomike si përmirësimi i [[Indeksi i zhvillimit njerëzor|standardit të jetesës]] së miliona afrikanëve të varfër e të paarsimuar; çështje ekologjike si përballja me uritë e përsëritura, {{ill|Shkretëtirëzimi|en|Desertification|lt=shkretëtirëzimin}} dhe mungesën e [[Qëndrueshmëria|qëndrueshmërisë]] ekologjike; si dhe çështjet [[Ligji ndërkombëtar|ligjore]] në lidhje me Saharanë Perëndimore.
+
+==== Korrupsioni ====
+Daniel Batidam, anëtar i bordit këshillimor kundër korrupsionit të Bashkimit Afrikan, dha dorëheqjen pasi deklaroi se organizata kishte "parregullsi të shumta" dhe se "çështjet kanë dalë vazhdimisht në dritë" në lidhje me korrupsionin. Bashkimi Afrikan e pranoi shpejt dorëheqjen e tij, me Batidamin që deklaroi se kjo ishte shenjë se keqmenaxhimi në drejtim të korrupsionit do të "vazhdojë si zakonisht".<ref>{{Cite web |url=http://en.rfi.fr/africa/20180616-official-quits-au-anti-corruption-body-over-multiple-irregularities-african-union |title=Official quits AU anti-corruption body over 'multiple irregularities' |date=2018-06-23 |website=Radio France Internationale |language=en-GB |access-date=2019-01-31 |archive-date=2019-02-01 |archive-url=https://web.archive.org/web/20190201013519/http://en.rfi.fr/africa/20180616-official-quits-au-anti-corruption-body-over-multiple-irregularities-african-union |url-status=live }}</ref>
+
+Në një artikull të botuar më 12 mars 2020, stafi i BA-së akuzoi kryetarin e Komisionit, Moussa Faki Mahamat, se ishte fajtor për korrupsion dhe nepotizëm, si dhe se drejtonte një "kartel të stilit mafia" që vepron me pandëshkueshmëri.<ref>{{Cite news |url=https://mg.co.za/article/2020-03-12-exclusive-a-mafia-style-cartel-is-running-the-african-union-claim-staff/ |title=Exclusive: A 'mafia-style' cartel is running the African Union, claim staff |date=2020-03-12 |access-date=2020-03-15 |archive-date=2020-09-20 |archive-url=https://web.archive.org/web/20200920100318/https://mg.co.za/article/2020-03-12-exclusive-a-mafia-style-cartel-is-running-the-african-union-claim-staff/ |url-status=live |language=en}}</ref> Akuzimet përmbheshin në një memorandum të rrjedhur te gazeta sudafrikane ''Mail & Guardian''. Kjo pasoi akuzat për [[Ngacmimi seksual|ngacmim seksual]] të ngritura në fund të vitit 2018.
+==== Kriza libiane ====
+Në vitin 2011, kur filloi konflikti në Libi, Bashkimi Afrikan u kritikua fillimisht për faktin se bëri pak për të parandaluar përshkallëzimin e konfliktit. Përveç kësaj, BA hezitoi të zgjidhte një anë. Nuk ishte e qartë nëse BA mbështeste regjimin libian apo rebelët. Kjo ndodhi ndërkohë që kryheshin disa shkelje të të drejtave të njeriut kundër anëtarëve të regjimit libian. Më vonë u kuptua se hezitimi i BA-së ishte për shkak të mungesës së kapaciteteve dhe pamundësisë së tij për t'u angazhuar në reforma demokratike.<ref name=":2">{{Cite journal |last=Hove |first=Mediel |date=May 2017 |title=Post-Gaddafi Libya and the African Union: Challenges and the Road to Sustainable Peace. |journal=Journal of Asian and African Studies |volume=52 |issue=3 |pages=271–286 |doi=10.1177/0021909615583366 |s2cid=147689749 |language=en }}</ref>
+
+BA u përpoq të ndërmjetësonte në fazat e hershme të {{ill|Lufta civile libiane e vitit 2011|en|2011 Libyan civil war|lt=luftës civile libiane të vitit 2011}}, duke formuar një komitet ''ad hoc'' me pesë presidentë (Presidenti i [[Republika e Kongos|Republikës së Kongos]], {{ill|Denis Sassou Nguesso|en}}; Presidenti i [[Mali|Malit]], {{ill|Amadou Toumani Touré|en}}; Presidenti i [[Mauritania|Mauritanisë]], {{ill|Mohamed Ould Abdel Aziz|en|Mohamed Ould Abdel Aziz}}; Presidenti i [[Afrika e Jugut|Afrikës së Jugut]], {{ill|Jacob Zuma|en}}; dhe Presidenti i [[Uganda|Ugandës]], {{ill|Yoweri Museveni|en}}) për të ndërmjetësuar një armëpushim.<ref>{{cite news |url=http://thestar.com.my/news/story.asp?sec=nation&file=/2011/3/21/nation/8313696 |archive-url=https://web.archive.org/web/20110321192206/http://www.thestar.com.my/news/story.asp?file=%2F2011%2F3%2F21%2Fnation%2F8313696&sec=nation |url-status=dead |archive-date=2011-03-21 |work=The Star |title=African Union urges restraint on both sides |date=2011-03-21 |access-date=2011-07-05 |language=en}}</ref> Megjithatë, fillimi i {{ill|Ndërhyrja ushtarake në Libi (2011)|en|2011 military intervention in Libya|lt=ndërhyrjes ushtarake në Libi të udhëhequr nga NATO}} në mars 2011 pengoi komitetin të udhëtonte në Libi për t'u takuar me liderin libian [[Muamer el Gadafi]].<ref>{{cite news |url=http://www.monitor.co.ug/News/National/-/688334/1129850/-/c3uoa3z/-/ |work=Daily Monitor |title=Kutesa, AU blocked from entering Libya |date=2011-03-21 |access-date=2011-03-21 |first=Emmanuel |last=Mulondo |archive-date=2011-03-24 |archive-url=https://web.archive.org/web/20110324202855/http://www.monitor.co.ug/News/National/-/688334/1129850/-/c3uoa3z/- |url-status=live |language=en}}</ref> Si organizëm, BA u kundërvu ashpër vendimit të [[Këshilli i Sigurimit i Organizatës së Kombeve të Bashkuara|Këshillit të Sigurimit të Organizatës së Kombeve të Bashkuara]] për të krijuar një [[Zona e ndalim-fluturimit|zonë ndalim-fluturimi]] mbi Libinë,<ref>{{cite web |url=http://www.sudantribune.com/NAfrican-Union-demands-end-to,38339 |title=African Union demands end to military strikes on Libya, skips Paris meeting |website=Sudan Tribune |date=2011-03-19 |access-date=2011-03-21 |archive-url=https://web.archive.org/web/20110321212338/http://www.sudantribune.com/NAfrican-Union-demands-end-to%2C38339 |archive-date=2011-03-21 |url-status=dead |language=en}}</ref> megjithëse disa shtete anëtare, si [[Botsvana]],<ref>{{cite news |url=http://www.mmegi.bw/index.php?sid=1&aid=1909&dir=2011/March/Wednesday23 |date=2011-03-23 |access-date=2011-04-05 |title=Khama supports no-fly zone on Libya |work=Mmegi |first=Baboki |last=Kayawe |archive-date=2011-11-25 |archive-url=https://web.archive.org/web/20111125203025/http://mmegi.bw/index.php?sid=1&aid=1909&dir=2011%2FMarch%2FWednesday23 |url-status=dead |language=en}}</ref> [[Gaboni]],<ref>{{cite news |url=http://english.aljazeera.net/news/africa/2011/03/201131720311168561.html |publisher=Al Jazeera |date=2011-03-18 |access-date=2011-03-18 |title=UN authorises no-fly zone over Libya |archive-url=https://web.archive.org/web/20110318102654/http://english.aljazeera.net/news/africa/2011/03/201131720311168561.html |archive-date=2011-03-18 |url-status=live |language=en}}</ref> [[Zambia]],<ref>{{cite news |url=http://www.postzambia.com/post-read_article.php?articleId=19332 |work=The Post |date=2011-03-27 |access-date=2011-04-05 |title=Rupiah backs action against Libya |url-status=dead |archive-url=https://web.archive.org/web/20120911072915/http://www.postzambia.com/post-read_article.php?articleId=19332 |archive-date=2012-09-11 |language=en}}</ref> dhe të tjera, shprehën mbështetje për {{ill|Rezoluta 1973 e Këshillit të Sigurimit të Kombeve të Bashkuara|en|United Nations Security Council Resolution 1973|lt=rezolutën}}.
+
+Si rezultat i disfatës së Gadafit në {{ill|Beteja e Tripolit (2011)|en|2011 Battle of Tripoli|lt=Betejën e Tripolit}} (beteja vendimtare e luftës), në gusht 2011, [[Lidhja Arabe]] votoi për të njohur {{ill|Këshilli Kombëtar i Tranzicionit|en|National Transitional Council|lt=Këshillin Kombëtar të Tranzicionit anti-Gadafi}} si qeverinë legjitime të vendit, në pritje të zgjedhjeve.<ref>{{cite news |url=http://www.rttnews.com/Content/GeneralNews.aspx?Id=1700187&SM=1 |archive-url=https://archive.today/20120604155833/http://www.rttnews.com/Content/GeneralNews.aspx?Id=1700187&SM=1 |url-status=dead |archive-date=2012-06-04 |agency=RTTNews |date=2011-08-25 |access-date=2011-08-25 |title=Arab League Recognizes Libyan Rebel Council |language=en}}</ref> Këshilli është njohur nga disa shtete anëtare të BA-së, përfshirë dy anëtarë të [[Lidhja Arabe|Lidhjes Arabe]].<ref>{{cite news |url=http://www.seattlepi.com/news/article/Tunis-recognizes-Libyan-rebels-as-country-s-rep-2134144.php |work=Seattle Post-Intelligencer |title=Tunis recognizes Libyan rebels as country's rep |date=2011-08-20 |access-date=2011-08-20 |archive-date=2011-12-08 |archive-url=http://web.archive.bibalex.org/web/20111208121407/http://www.seattlepi.com/news/article/Tunis-recognizes-Libyan-rebels-as-country-s-rep-2134144.php |url-status=dead |language=en}}</ref><ref>{{cite news |title=Egypt recognises Libya rebel government |url=http://www.thenewage.co.za/26532-1019-53-Egypt_recognises_Libya_rebel_government |access-date=2011-08-22 |newspaper=The New Age |location=South Africa |date=2011-08-22 |url-status=dead |archive-url=https://web.archive.org/web/20120308203558/http://www.thenewage.co.za/26532-1019-53-Egypt_recognises_Libya_rebel_government |archive-date=2012-03-08 |language=en}}</ref>
+Megjithatë, {{ill|Këshilli i Paqes dhe Sigurisë|en|Peace and Security Council}} i Bashkimit Afrikan votoi më 26 gusht 2011 për të mos e njohur atë, duke këmbëngulur për një armëpushim dhe për formimin e një qeverie kombëtare uniteti nga të dyja palët.<ref>{{cite news |first=Barry |last=Malone |url=http://www.dailystar.com.lb/News/Middle-East/2011/Aug-26/AU-wont-recognise-Libyan-rebel-council-diplomats.ashx#axzz1W9KDcooQ |work=The Daily Star |date=2011-08-26 |access-date=2011-08-26 |title=AU won't recognise Libyan rebel council: diplomats |archive-date=2011-08-28 |archive-url=https://web.archive.org/web/20110828030422/http://www.dailystar.com.lb/News/Middle-East/2011/Aug-26/AU-wont-recognise-Libyan-rebel-council-diplomats.ashx#axzz1W9KDcooQ |url-status=live |language=en }}</ref> Një numër shtetesh anëtare të Bashkimit Afrikan, të udhëhequra nga [[Etiopia]], [[Nigeria]] dhe [[Ruanda]], kërkuan që Bashkimi Afrikan të njohë {{ill|Këshilli Kombëtar i Tranzicionit|en|National Transitional Council|lt=Këshillin Kombëtar të Tranzicionit}} si autoritetin qeverisës të përkohshëm të [[Libia|Libisë]],<ref>{{cite news |url=http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=304812 |agency=NOW Lebanon |date=2011-08-24 |access-date=2011-08-24 |title=Ethiopia recognizes Libyan rebels|archive-url=https://archive.today/20120604155753/http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=304812|archive-date=2012-06-04|url-status=dead|language=en}}</ref><ref>{{cite news |agency=Afrique en ligne |url=http://www.afriquejet.com/libya-ntc-national-transitional-council-in-libya-2011082721212.html |date=2011-08-27 |access-date=2011-08-27 |title=Libya-NTC: National Transitional Council in Libya |url-status=dead |archive-url=https://web.archive.org/web/20120117145429/http://www.afriquejet.com/libya-ntc-national-transitional-council-in-libya-2011082721212.html |archive-date=2012-01-17|language=en}}</ref> dhe disa shtete të tjera anëtare të Bashkimit Afrikan e kanë njohur Këshillin Kombëtar të Tranzicionit pavarësisht vendimit të Këshillit të Paqes dhe Sigurisë.<ref>{{cite news |url=http://blogs.aljazeera.net/liveblog/libya-aug-24-2011-2025/ |title=Chad recognises rebel council as only legitimate authority in neighbouring Libya |date=2011-08-24 |publisher=Al Jazeera |access-date=2011-08-24 |archive-date=2011-08-24 |archive-url=https://web.archive.org/web/20110824202426/http://blogs.aljazeera.net/liveblog/libya-aug-24-2011-2025 |url-status=live |language=en }}</ref><ref>{{cite news |date=2011-08-27 |access-date=2011-08-27 |url=https://www.reuters.com/article/us-libya-rebels-recognition-idUSTRE77Q1ME20110827 |title=Benin recognize Libyan rebels |work=[[Reuters]] |archive-date=2012-07-26 |archive-url=https://web.archive.org/web/20120726144805/http://www.reuters.com/article/2011/08/27/us-libya-rebels-recognition-idUSTRE77Q1ME20110827 |url-status=live |language=en }}</ref> Megjithatë, shtetet anëtare të Bashkimit Afrikan, [[Algjeria]]<ref>{{cite news |url=http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=305666 |agency=NOW Lebanon |date=2011-08-26 |access-date=2011-08-26 |title=Algeria declines to recognize Libyan rebels|archive-url=https://archive.today/20120604155753/http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=305666|archive-date=2012-06-04|url-status=dead|language=en}}</ref> dhe [[Zimbabveja]]<ref>{{cite news |url=http://www.thezimbabwean.co.uk/news/africa/52122/libyan-envoy-to-zimbabwe-expelled.html|archive-url=https://web.archive.org/web/20110826131311/http://www.thezimbabwean.co.uk/news/africa/52122/libyan-envoy-to-zimbabwe-expelled.html|url-status=dead |archive-date=2011-08-26 |work=The Zimbabwean |title=Libyan envoy to Zimbabwe expelled for burning flag |date=2011-08-26 |access-date=2011-08-26|language=en}}</ref> kanë bërë të ditur se nuk do ta njohin Këshillin Kombëtar të Tranzicionit, ndërsa [[Afrika e Jugut]] ka shprehur gjithashtu rezerva.<ref>{{cite news |url=http://mg.co.za/article/2011-08-26-libya-how-sa-stood-firm-on-money-for-rebels/ |agency=Mail & Globe Online |date=2011-08-26 |access-date=2011-08-27 |title=Libya: How SA stood firm on money for rebels |archive-date=2011-09-08 |archive-url=https://web.archive.org/web/20110908051747/http://mg.co.za/article/2011-08-26-libya-how-sa-stood-firm-on-money-for-rebels |url-status=live |language=en }}</ref>
+
+Më 20 shtator 2011, Bashkimi Afrikan njohu zyrtarisht Këshillin Kombëtar të Tranzicionit si përfaqësuesin legjitim të [[Libia|Libisë]].<ref>{{cite news |title=African Union officially recognises Libya's new leadership |url=https://www.google.com/hostednews/afp/article/ALeqM5h2NflCTWlrw96Cs-Ts7A7Xcem2dA?docId=CNG.a8a1185f4a08d2928999ea8643dc5bd9.501|archive-url= https://web.archive.org/web/20111120184724/http://www.google.com/hostednews/afp/article/ALeqM5h2NflCTWlrw96Cs-Ts7A7Xcem2dA?docId=CNG.a8a1185f4a08d2928999ea8643dc5bd9.501|url-status= dead |archive-date=2011-11-20|language=en}}</ref>
+
+Në Libinë e periudhës pas Gadafit, Bashkimi Afrikan beson se ai ka ende një përgjegjësi të rëndësishme ndaj vendit, megjithë dështimin e tij për të kontribuar në konflikt kur ai filloi. Edhe pse Bashkimi Afrikan është aty për të ruajtur paqen, ai nuk është një zgjidhje afatgjatë. Qëllimi, siç deklarohet nga Bashkimi Afrikan, është të krijohet një qeveri libiane që është e qëndrueshme për të garantuar paqen në Libi. Për të arritur njëfarë niveli të paqes në Libi, Bashkimi Afrikan duhet të ndërmjetësojë bisedimet e paqes, të cilat synojnë arritjen e kompromiseve dhe të marrëveshjeve për ndarjen e pushtetit.<ref name=":2" />
+== Gjeografia ==
+{{Hatnote|Artikulli kryesor: {{ill|Gjeografia e Bashkimit Afrikan|en|Geography of the African Union}}}}
+
+[[Skeda:Regions of the African Union.svg|thumb|{{ill|Rajonet e Bashkimit Afrikan|en|Regions of the African Union}}:{{Infobox/Columns|
+{{Legend|#66c2a5|Veriore}}
+{{Legend|#fc8d62|Perëndimore}}
+{{Legend|#8da0cb|Jugore}}|
+{{Legend|#a6d854|Lindore}}
+{{Legend|#e78ac3|Qendrore}}}}]]
+
+[[Shteti i pavarur|Shtetet]] anëtare të Bashkimit Afrikan mbulojnë pothuajse të gjithë kontinentin afrikan, me përjashtim të disa territoreve të mbajtura nga Spanja ([[Seuta]], [[Melila]] dhe [[Peñón de Vélez de la Gomera]]). Përveç kësaj, vendet evropiane kanë territore të varura midis ishujve bregdetarë të Afrikës: Spanja ([[Ishujt Kanarie]] dhe ishujt e ''plazas de soberanía''); Franca ([[Majoti]], [[Reunioni]] dhe Ishujt e Shpërndarë në Oqeanin Indian); Portugalia ([[Ishujt Azore]], [[Ishujt Madeira]] dhe Ishujt e Egër); dhe Mbretëria e Bashkuar (Shën Helena, Ascension dhe Tristan da Cunha). Gjeografia e Bashkimit Afrikan është jashtëzakonisht e larmishme, duke përfshirë shkretëtirën më të madhe të nxehtë në botë ([[Shkretëtira e Saharasë|Saharën]]), xhungla dhe [[Savana|savana]] të mëdha, dhe lumin më të gjatë në botë ([[Nili|Nilin]]).
+
+Bashkimi Afrikan ka një sipërfaqe prej {{Convert|29922059|km2}}, me {{Convert|24165|km}} vijë bregdetare. Pjesa dërrmuese e kësaj sipërfaqeje ndodhet në kontinentin afrikan, ndërsa territoret e vetme të rëndësishme jashtë kontinentit janë ishulli i [[Madagaskari|Madagaskarit]] (mikrokontinenti më i madh në botë dhe [[Lista e ishujve sipas sipërfaqes|ishulli i katërt më i madh]]) dhe [[Gadishulli Sinai]] (gjeografikisht pjesë e Azisë), duke përbërë pak më pak se 2% të sipërfaqes totale.
+{{Clear}}
+
+== Ekonomia ==
+{{Hatnote|Artikulli kryesor: {{ill|Ekonomia e Bashkimit Afrikan|en|Economy of the African Union}}}}
+
+{{ill|Zona Afrikane e Tregtisë së Lirë Kontinentale|en|African Continental Free Trade Area}} (AfCFTA) u krijua midis 54 prej 55 vendeve të Bashkimit Afrikan, me tregtinë që nisi më 1 janar 2021.<ref>{{Cite web|last=Shendruk|first=Amanda|date=2020-12-31|title=The world's largest free trade area starts up on Jan. 1, 2021|url=https://qz.com/1951523/what-is-the-african-continental-free-trade-area-afcfta/|access-date=2021-01-04|website=Quartz|language=en|archive-date=2021-01-04|archive-url=https://web.archive.org/web/20210104075017/https://qz.com/1951523/what-is-the-african-continental-free-trade-area-afcfta/|url-status=live}}</ref> {{ill|Banka Afrikane e Eksportit dhe Importit|en|African Export–Import Bank}}, për të mbështetur këtë iniciativë, krijoi Sistemin Pan-Afrikan të Pagesave dhe Shlyerjeve.
+
+Qëllimet e ardhshme të Bashkimit Afrikan përfshijnë një [[Bashkimi doganor|bashkim doganor]], një {{ill|Tregu i vetëm|en|Single market|lt=treg të vetëm}}, një [[Banka qendrore|bankë qendrore]] dhe një monedhë të përbashkët (shih {{ill|Bashkimi Monetar Afrikan|en|African Monetary Union|lt=Bashkimin Monetar Afrikan}}), duke krijuar kështu një {{ill|Bashkimi ekonomik dhe monetar|en|Economic and monetary union|lt=bashkim ekonomik dhe monetar}}.<ref>{{Cite news|url=http://news.bbc.co.uk/2/hi/africa/country_profiles/3870303.stm|title=Profile: African Union|date=2006-07-01|access-date=2006-07-10|work=BBC News|language=en|archive-url=https://web.archive.org/web/20060712034155/http://news.bbc.co.uk/2/hi/africa/country_profiles/3870303.stm|archive-date=2006-07-12|url-status=live}}</ref>
+=== Treguesit ===
+Tabela e mëposhtme paraqet të dhëna të ndryshme për shtetet anëtare të Bashkimit Afrikan, duke përfshirë sipërfaqen, popullsinë, prodhimin ekonomik dhe pabarazinë e të ardhurave, si dhe indekse të ndryshme, përfshirë zhvillimin njerëzor, qëndrueshmërinë e shtetit, perceptimin e korrupsionit, lirinë ekonomike, gjendjen e paqes, lirinë e shtypit dhe nivelin demokratik.
+{{Clear}}
+{|class="wikitable sortable"
+!Shteti
+!Sipërfaqja e tokës
+(km<sup>2</sup>) 2015<ref name="wdi">{{Cite web|url=http://databank.worldbank.org/data/home.aspx|title=The World Bank DataBank: Explore. Create. Share|website=World Bank DataBank |access-date=2017-02-04|archive-date=2015-01-07|archive-url=https://web.archive.org/web/20150107162640/http://databank.worldbank.org/data/home.aspx|url-status=live|language=en}}</ref>
+!Popullsia (2015)
+!{{ill|Lista e vendeve sipas PBB (PPP)|en|List of countries by GDP (PPP)}}
+(dollarë ndërkombëtarë) 2015<ref name="wdi" />
+!{{ill|Lista e vendeve sipas PBB (PPP) për frymë|en|List of countries by GDP (PPP) per capita}}
+për frymë
+(dollarë ndërkombëtarë) 2015<ref name="wdi" />
+![[Indeksi i zhvillimit njerëzor|IZhNJ]]
+2014<ref name=":0">{{Cite web |url=http://report.hdr.undp.org/ |title=2015 Human Development Report |work=Human Development Report Office |access-date=2017-02-04 |archive-date=2019-12-11 |archive-url=https://web.archive.org/web/20191211223435/http://report.hdr.undp.org/ |url-status=live |language=en }}</ref>
+!{{ill|Indeksi i Shteteve të Brishta|en|Fragile States Index}} (FSI)
+2016<ref>{{Cite web |url=http://fsi.fundforpeace.org/rankings-2016 |title=The Fragile States Index 2016|website= The Fund for Peace|access-date=2017-02-12|url-status=dead|archive-url=https://web.archive.org/web/20170204213240/http://fsi.fundforpeace.org/rankings-2016|archive-date=2017-02-04|language=en}}</ref>
+![[Indeksi i Përceptimit të Korrupsionit|IPK]]
+2016<ref>{{Cite news |url=http://www.transparency.org/news/feature/corruption_perceptions_index_2016 |title=Corruption Perceptions Index 2016 |work=Transparency International |access-date=2017-02-12 |archive-date=2017-01-30 |archive-url=https://archive.today/20170130045244/http://www.transparency.org/news/feature/corruption_perceptions_index_2016 |url-status=live |language=en }}</ref>
+!{{ill|Indeksi i Lirisë Ekonomike|en|Index of Economic Freedom}} (ILE)
+2016<ref>{{Cite web |url=http://www.heritage.org/index/ |title=Index of Economic Freedom: Promoting Economic Opportunity and Prosperity by Country |website=www.heritage.org |access-date=2017-02-12 |archive-date=2013-06-29 |archive-url=https://web.archive.org/web/20130629215405/http://www.heritage.org/index/ |url-status=unfit |language=en }}</ref>
+!{{ill|Indeksi Global i Paqes|en|Global Peace Index}} (GPI)
+2016<ref>{{Cite web |url=http://static.visionofhumanity.org/#page/indexes/global-peace-index/2016 |title=Vision of Humanity |website=static.visionofhumanity.org |access-date=2017-02-12|archive-url=https://web.archive.org/web/20170213091208/http://static.visionofhumanity.org/#page/indexes/global-peace-index/2016|archive-date=2017-02-13|url-status=dead|language=en}}</ref>
+!Indeksi i Lirisë së Shtypit (WPFI)
+2016<ref>{{Cite news|url=https://rsf.org/en/ranking|title=2016 World Press Freedom Index |work=RSF|access-date=2017-02-12|archive-date=2017-02-01|archive-url=https://web.archive.org/web/20170201195036/https://rsf.org/en/ranking|url-status=live|language=en}}</ref>
+!Indeksi i Demokracisë (DI)
+2016<ref>{{Cite web |url=http://pages.eiu.com/rs/783-XMC-194/images/Democracy_Index_2016.pdf |title=Democracy Index 2016 |website=Economist Intelligence Unit |url-status=dead |access-date=2017-02-12 |archive-url=https://web.archive.org/web/20170224070253/http://pages.eiu.com/rs/783-XMC-194/images/Democracy_Index_2016.pdf |archive-date=2017-02-24 |language=en }}</ref>
+|-
+|Algjeria
+|2.381.741
+|{{UN_Population|Algeria}}
+|548.293.085.686
+|13.823
+|0,736
+|78,3
+|34
+|50,06
+|2,21
+|41,69
+|3,56
+|-
+|Angola
+|1.246.700
+|{{UN_Population|Angola}}
+|173.593.223.667
+|6.938
+|0,532
+|90,5
+|18
+|48,94
+|2,14
+|39,89
+|3,40
+|-
+|Benini
+|112.760
+|{{UN_Population|Benin}}
+|21.016.184.357
+|1.932
+|0,48
+|78,9
+|36
+|59,31
+|2,00
+|28,97
+|5,67
+|-
+|Botsvana
+|566.730
+|{{UN_Population|Botswana}}
+|33.657.545.969
+|14.876
+|0,698
+|63,5
+|60
+|71,07
+|1,64
+|22,91
+|7,87
+|-
+|Burkina Faso
+|273.600
+|{{UN_Population|Burkina Faso}}
+|28.840.666.622
+|1.593
+|0,402
+|89,4
+|42
+|59,09
+|2,06
+|22,66
+|4,70
+|-
+|Burundi
+|25.680
+|{{UN_Population|Burundi}}
+|7.634.578.343
+|300
+|0,4
+|100,7
+|20
+|53,91
+|2,50
+|54,10
+|2,40
+|-
+|Kepi i Gjelbër
+|4.030
+|{{UN_Population|Cape Verde}}
+|3.205.197.585
+|6.158
+|0,646
+|71,5
+|59
+|66,46
+|N/A
+|19,82
+|7,94
+|-
+|Kameruni
+|472.710
+|{{UN_Population|Cameroon}}
+|68.302.439.597
+|2.926
+|0,512
+|97,8
+|26
+|54,18
+|2,36
+|40,53
+|3,46
+|-
+|Republika e Afrikës Qendrore
+|622.980
+|{{UN_Population|Central African Republic}}
+|2.847.726.468
+|581
+|0,35
+|112,1
+|20
+|45,23
+|3,35
+|33,60
+|1,61
+|-
+|Çadi
+|1.259.200
+|{{UN_Population|Chad}}
+|28.686.194.920
+|2.044
+|0,392
+|110,1
+|20
+|46,33
+|2,46
+|40,59
+|1,50
+|-
+|Komoret
+|1.861
+|{{UN_Population|Comoros}}
+|1.098.546.195
+|1.393
+|0,503
+|83,8
+|24
+|52,35
+|N/A
+|24,33
+|3,71
+|-
+|Republika Demokratike e Kongos
+|2.267.050
+|{{UN_Population|Democratic Republic of the Congo}}
+|56.920.935.460
+|300
+|0,433
+|
+|21
+|46,38
+|3,11
+|50,97
+|1,93
+|-
+|Republika e Kongos
+|341.500
+|{{UN_Population|Congo}}
+|27.690.345.067
+|5.993
+|0,591
+|92,2
+|20
+|42,80
+|2,25
+|35,84
+|2,91
+|-
+|Xhibuti
+|23.180
+|{{UN_Population|Djibouti}}
+|2.911.406.226
+|3.279
+|0,47
+|89,7
+|30
+|55,96
+|2,29
+|70,90
+|2,83
+|-
+|Egjipti
+|1.010.407
+|{{UN_Population|Egypt}}
+|1.173.000.000.000
+|10.250
+|0,69
+|90,2
+|34
+|55,96
+|2,57
+|54,45
+|3,31
+|-
+|Guinea Ekuatoriale
+|28.050
+|{{UN_Population|Equatorial Guinea}}
+|32.317.928.931
+|38.243
+|0,587
+|85,2
+|N/A
+|43,67
+|1,94
+|66,47
+|1,70
+|-
+|Eritrea<ref>{{Cite web |url=https://www.cia.gov/the-world-factbook/countries/eritrea/ |title=Eritrea |website=The World Factbook |publisher=Central Intelligence Agency |access-date=2017-02-04 |archive-date=2021-01-21 |archive-url=https://web.archive.org/web/20210121011902/https://www.cia.gov/the-world-factbook/countries/eritrea/ |url-status=dead |language=en }}</ref>
+|101.000
+|{{UN_Population|Eritrea}}
+|8.845.000.000<sup>b</sup>
+|600<sup>b</sup>
+|0,391
+|98,6
+|18
+|42,7
+|2,46
+|83,92
+|2,37
+|-
+|Esvatini
+|17.204
+|{{UN_Population|Eswatini}}
+|10.452.834.007
+|8.122
+|0,531
+|87,6
+|N/A
+|59,65
+|2,07
+|52,37
+|3,03
+|-
+|Etiopia
+|1.104.300
+|{{UN_Population|Ethiopia}}
+|152.057.290.468
+|1.530
+|0,442
+|97,2
+|34
+|51,52
+|2,28
+|45,13
+|3,60
+|-
+|Gaboni
+|257.670
+|{{UN_Population|Gabon}}
+|32.539.376.597
+|18.860
+|0,684
+|72
+|35
+|58,96
+|2,03
+|32,20
+|3,74
+|-
+|Gambia
+|10.120
+|{{UN_Population|Gambia}}
+|3.140.820.062
+|1.578
+|0,441
+|86,8
+|26
+|57,14
+|2,09
+|46,53
+|2,91
+|-
+|Gana
+|227.540
+|{{UN_Population|Ghana}}
+|108.393.071.924
+|3.955
+|0,579
+|71,2
+|43
+|63,00
+|1,81
+|17,95
+|6,75
+|-
+|Guinea
+|245.720
+|{{UN_Population|Guinea}}
+|14.316.884.358
+|1.135
+|0,411
+|103,8
+|27
+|53,33
+|2,15
+|33,08
+|3,14
+|-
+|Guinea-Bisau
+|28.120
+|{{UN_Population|Guinea-Bissau}}
+|2.521.743.682
+|1.367
+|0,42
+|99,8
+|16
+|51,81
+|2,26
+|29,03
+|1,98
+|-
+|Bregu i Fildishtë
+|318.000
+|{{UN_Population|Ivory Coast}}
+|74.916.780.423
+|3.300
+|0,462
+|97,9
+|34
+|60,01
+|2,28
+|30,17
+|3,81
+|-
+|Kenia
+|569.140
+|{{UN_Population|Kenya}}
+|133.592.522.053
+|2.901
+|0,548
+|98,3
+|26
+|57,51
+|2,38
+|31,16
+|5,33
+|-
+|Lesoto
+|30.360
+|{{UN_Population|Lesotho}}
+|5.914.437.068
+|2.770
+|0,497
+|80,9
+|39
+|50,62
+|1,94
+|28,78
+|6,59
+|-
+|Liberia
+|96.320
+|{{UN_Population|Liberia}}
+|3.533.313.381
+|500
+|0,43
+|95,5
+|37
+|52,19
+|2,00
+|30,71
+|5,31
+|-
+|Libia<ref>{{Cite web |url=https://www.cia.gov/the-world-factbook/countries/libya/ |title=Libya |website=The World Factbook |publisher=Central Intelligence Agency |access-date=2017-02-04 |archive-date=2021-01-09 |archive-url=https://web.archive.org/web/20210109235257/https://www.cia.gov/the-world-factbook/countries/libya |url-status=dead |language=en }}</ref>
+|1.759.540
+|{{UN_Population|Libya}}
+|94.010.000.000<sup>b</sup>
+|14.900<sup>b</sup>
+|0,724
+|96,4
+|14
+|N/A
+|3,20
+|57,89
+|2,25
+|-
+|Madagaskari
+|581.800
+|{{UN_Population|Madagascar}}
+|33.354.200.458
+|1.376
+|0,51
+|84,2
+|26
+|61,06
+|1,76
+|27,04
+|5,07
+|-
+|Malavi
+|94.280
+|{{UN_Population|Malawi}}
+|19.137.290.349
+|1.112
+|0,445
+|87,6
+|31
+|51,8
+|1,82
+|28,12
+|5,55
+|-
+|Mali
+|1.220.190
+|{{UN_Population|Mali}}
+|33.524.899.739
+|1.905
+|0,419
+|95,2
+|32
+|56,54
+|2,49
+|39,83
+|5,70
+|-
+|Mauritania<ref>{{Cite web |url=https://www.cia.gov/the-world-factbook/countries/mauritania/ |title=Mauritania |website=The World Factbook |publisher=Central Intelligence Agency |access-date=2017-02-04 |archive-date=2021-01-07 |archive-url=https://web.archive.org/web/20210107034713/https://www.cia.gov/the-world-factbook/countries/mauritania/ |url-status=dead |language=en }}</ref>
+|1.030.700
+|{{UN_Population|Mauritania}}
+|16.190.000.000<sup>b</sup>
+|4.400<sup>b</sup>
+|0,506
+|95,4
+|27
+|54,8
+|2,30
+|24,03
+|3,96
+|-
+|Mauritius
+|2.030
+|{{UN_Population|Mauritius}}
+|23.817.914.134
+|18.864
+|0,777
+|43,2
+|54
+|74,73
+|1,56
+|27,69
+|8,28
+|-
+|Maroku
+|446.300
+|{{UN_Population|Morocco}}
+|257.398.957.178
+|7.365
+|0,628
+|74,2
+|37
+|61,27
+|2,09
+|42,64
+|4,77
+|-
+|Mozambiku
+|786.380
+|{{UN_Population|Mozambique}}
+|31.326.751.237
+|1.120
+|0,416
+|87,8
+|27
+|53,19
+|1,96
+|30,25
+|4,02
+|-
+|Namibia
+|823.290
+|{{UN_Population|Namibia}}
+|24.043.436.006
+|9.778
+|0,628
+|71,1
+|52
+|61,85
+|1,87
+|15,15
+|6,31
+|-
+|Nigeri
+|1.266.700
+|{{UN_Population|Niger}}
+|17.857.377.171
+|897
+|0,348
+|98,4
+|35
+|54,26
+|2,24
+|24,62
+|3,96
+|-
+|Nigeria
+|910.770
+|{{UN_Population|Nigeria}}
+|1.168.000.000.000
+|5.639
+|0,514
+|103,5
+|28
+|57,46
+|2,88
+|35,90
+|4,50
+|-
+|Ruanda
+|24.670
+|{{UN_Population|Rwanda}}
+|19.216.033.048
+|1.655
+|0,483
+|91,3
+|54
+|63,07
+|2,32
+|54,61
+|3,07
+|-
+|Sao Tome dhe Principe
+|960
+|{{UN_Population|Sao Tome and Principe}}
+|575.391.345
+|3.023
+|0,555
+|72,9
+|46
+|56,71
+|N/A
+|N/A
+|N/A
+|-
+|Senegali
+|192.530
+|{{UN_Population|Senegal}}
+|34.398.281.018
+|2.274
+|0,466
+|83,6
+|45
+|58,09
+|1,98
+|27,99
+|6,21
+|-
+|Sejshellet
+|460
+|{{UN_Population|Seychelles}}
+|2.384.515.771
+|25.525
+|0,772
+|60,2
+|N/A
+|62,2
+|N/A
+|30,60
+|N/A
+|-
+|Sierra Leone
+|72.180
+|{{UN_Population|Sierra Leone}}
+|9.511.431.824
+|1.474
+|0,413
+|91
+|30
+|52,31
+|1,81
+|29,94
+|4,55
+|-
+|Somalia<ref>{{Cite web |url=https://www.cia.gov/the-world-factbook/countries/somalia/ |title=Somalia |website=The World Factbook |publisher=Central Intelligence Agency |access-date=2017-02-04 |archive-date=2014-07-01 |archive-url=https://web.archive.org/web/20140701190026/https://www.cia.gov/library/publications/the-world-factbook/geos/so.html |url-status=dead |language=en }}</ref>
+|627.340
+|{{UN_Population|Somalia}}
+|5.900.000.000<sup>c</sup>
+|600<sup>c</sup>
+|N/A
+|114
+|10
+|N/A
+|3,41
+|65,35
+|N/A
+|-
+|Afrika e Jugut
+|1.213.090
+|{{UN_Population|South Africa}}
+|742.461.000.000
+|12.393
+|0,666
+|69,9
+|45
+|61,9
+|2,32
+|21,92
+|7,41
+|-
+|Sudani i Jugut
+|619.745
+|{{UN_Population|South Sudan}}
+|21.484.823.398
+|1.741
+|0,467
+|113,8
+|11
+|N/A
+|3,59
+|44,87
+|N/A
+|-
+|Sudani
+|1.886.086
+|{{UN_Population|Sudan}}
+|165.813.461.495
+|4.121
+|0,479
+|111,5
+|14
+|N/A
+|3,27
+|72,53
+|2,37
+|-
+|Tanzania
+|885.800
+|{{UN_Population|United Republic of Tanzania}}
+|130.297.806.032
+|2.510
+|0,521
+|81,8
+|32
+|58,46
+|1,90
+|28,65
+|5,76
+|-
+|Togo
+|54.390
+|{{UN_Population|Togo}}
+|10.018.697.437
+|1.372
+|0,484
+|85,8
+|32
+|53,64
+|1,95
+|30,31
+|3,32
+|-
+|Tunizia
+|155.360
+|{{UN_Population|Tunisia}}
+|121.200.025.401
+|10.770
+|0,721
+|74,6
+|41
+|57,55
+|1,95
+|31,60
+|6,40
+|-
+|Uganda
+|200.520
+|{{UN_Population|Uganda}}
+|67.856.334.117
+|1.738
+|0,483
+|97,7
+|25
+|59,26
+|2,15
+|32,58
+|5,26
+|-
+|Republika Arabe Sahrauiane Demokratike<ref>{{Cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/wi.html |archive-url=https://web.archive.org/web/20070612210735/https://www.cia.gov/library/publications/the-world-factbook/geos/wi.html |url-status=dead |archive-date=2007-06-12 |title=Western Sahara |website=The World Factbook |publisher=Central Intelligence Agency |access-date=2017-02-04 |language=en }}</ref>
+|266.000
+|{{UN_Population|Western Sahara}}
+|906.500.000<sup>d</sup>
+|2.500<sup>d</sup>
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|-
+|Zambia
+|743.390
+|{{UN_Population|Zambia}}
+|58.400.082.027
+|3.602
+|0,586
+|86,3
+|38
+|58,79
+|1,78
+|35,08
+|5,99
+|-
+|Zimbabve
+|386.850
+|{{UN_Population|Zimbabwe}}
+|26.180.942.292
+|500
+|0,509
+|100,5
+|22
+|38,23
+|2,32
+|40,41
+|3,05
+|-
+|'''Bashkimi Afrikan'''
+|30.370.000
+|{{UN_Population|Africa}}
+|5.457.724.064.668
+|4.602
+|0,524<sup>d</sup>
+|88,99<sup>d</sup>
+|31,51<sup>d</sup>
+|55,55<sup>d</sup>
+|2,27
+|37,89
+|4,30
+|-
+!Shteti
+!Sipërfaqja e tokës (km<sup>2</sup>) 2015
+!Popullsia (2015)
+!{{ill|Lista e vendeve sipas PBB (PPP)|en|List of countries by GDP (PPP)}}
+(dollarë ndërkombëtarë) 2015
+!{{ill|Lista e vendeve sipas PBB (PPP) për frymë|en|List of countries by GDP (PPP) per capita}}
+për frymë
+(dollarë ndërkombëtarë) 2015
+![[Indeksi i zhvillimit njerëzor|IZhNJ]]
+2014
+!{{ill|Indeksi i Shteteve të Brishta|en|Fragile States Index}} (FSI)
+2016
+![[Indeksi i Përceptimit të Korrupsionit|IPK]]
+2016
+!{{ill|Indeksi i Lirisë Ekonomike|en|Index of Economic Freedom}} (ILE)
+2016
+!{{ill|Indeksi Global i Paqes|en|Global Peace Index}} (GPI)
+2016
+!Indeksi i Lirisë së Shtypit (WPFI)
+2016
+!Indeksi i Demokracisë (DI)
+2016
+|}
+<sup>a</sup> Të dhëna të jashtme nga viti 2016.
+<sup>b</sup> Të dhëna të jashtme nga viti 2015.
+<sup>c</sup> Të dhëna të jashtme nga viti 2014.
+<sup>d</sup> Totali i Bashkimit Afrikan u përdor për treguesit 1 deri 3; mesatarja e ponderuar e Bashkimit Afrikan u përdor për treguesin 4; mesatarja e paponderuar e Bashkimit Afrikan u përdor për treguesit 5 deri 12.
+== Demografia ==
+{{Hatnote|Artikulli kryesor: {{ill|Demografia e Afrikës|en|Demographics of Africa}} dhe {{ill|Shtetet anëtare të Bashkimit Afrikan|en|Member states of the African Union}}}}
+
+=== Popullsia ===
+Popullsia e përgjithshme e Bashkimit Afrikan, {{As of|2017|lc=yes}}, vlerësohet në më shumë se 1,25 miliardë, me një normë rritjeje prej më shumë se 2,5% në vit.<ref>{{Cite journal|last=Eloundou|first=Ngah Eric|date=December 2019|title=Private Sector Strengthening as Pillar of South Korea's Development Assistance toward Cameroon|url=https://think-asia.org/bitstream/handle/11540/11504/WEB%2019-26.pdf?sequence=1|journal=World Economic Brief|volume=9|issue=26|page=|access-date=2021-05-02|issn=2233-9140|archive-date=2021-02-25|archive-url=https://web.archive.org/web/20210225222451/https://think-asia.org/bitstream/handle/11540/11504/WEB%2019-26.pdf?sequence=1|url-status=dead|language=en}}</ref>
+
+=== Migrimi ===
+Në vitin 2018,<ref>{{Cite web |url=https://www.ilo.org/africa/areas-of-work/labour-migration/policy-frameworks/WCMS_671953/lang--en/index.htm |title=The AU Free Movement of Persons Protocol |date=2019-02-17 |access-date=2020-03-09 |archive-date=2019-12-18 |archive-url=https://web.archive.org/web/20191218114854/https://www.ilo.org/africa/areas-of-work/labour-migration/policy-frameworks/WCMS_671953/lang--en/index.htm |url-status=live |language=en}}</ref> Bashkimi Afrikan miratoi Protokollin e Lëvizjes së Lirë.<ref>{{Cite web |last1=Phd |first1=Tshepo |last2=Sam |first2=Michael |editor-first1=Julie |editor-last1=Masiga |url=http://theconversation.com/how-the-free-movement-of-people-could-benefit-africa-92057 |title=How the free movement of people could benefit Africa |date=2018-03-14 |doi=10.64628/AAJ.ackqc3ygr |access-date=2020-03-09 |archive-date=2020-02-19 |archive-url=https://web.archive.org/web/20200219062812/http://theconversation.com/how-the-free-movement-of-people-could-benefit-africa-92057 |url-status=live |language=en}}</ref><ref>{{Cite web |url=https://au.int/en/pressreleases/20190611/consultative-meeting-parliamentarians-east-african-community-and-economic |title=AU protocol on free movement is a watershed moment for Africa; EALA and ECOWAS legislators' meeting kicks off |access-date=2020-03-09 |archive-date=2019-07-11 |archive-url=https://web.archive.org/web/20190711192058/https://au.int/en/pressreleases/20190611/consultative-meeting-parliamentarians-east-african-community-and-economic |url-status=live |language=en}}</ref> Ky protokoll lejon lëvizjen e lirë të njerëzve midis vendeve që janë pjesë e Bashkimit Afrikan.
+
+Neni 14 i Protokollit të traktatit që themelon Komunitetin Ekonomik Afrikan në lidhje me lëvizjen e lirë të personave, të drejtën e qëndrimit dhe të drejtën e vendosjes trajton lëvizjen e lirë të punëtorëve.<ref>{{Cite web |url=https://au.int/sites/default/files/treaties/36403-treaty-protocol_on_free_movement_of_persons_in_africa_e.pdf |title=Protocol to the treaty establishing the african economic community relating to the free movement of persons, right of residence and right of establishment |access-date=2020-03-09 |archive-date=2020-03-13 |archive-url=https://web.archive.org/web/20200313145030/https://au.int/sites/default/files/treaties/36403-treaty-protocol_on_free_movement_of_persons_in_africa_e.pdf |url-status=live |language=en}}</ref>
+
+Bashkimi Afrikan ka gjithashtu një Kuadër të Politikave të Migracionit për Afrikën (MPFA).<ref>{{Cite web |url=https://www.giz.de/en/worldwide/64184.html |title=Support to the African Union on migration and displacement |date=2017-12-21 |access-date=2020-03-09 |archive-date=2020-08-04 |archive-url=https://web.archive.org/web/20200804060224/https://www.giz.de/en/worldwide/64184.html |url-status=live |language=en}}</ref>
+
+Zhvendosja e detyruar e njerëzve dhe grupeve ka qenë gjithashtu një fushë e vëmendjes për BA-në—mbi tridhjetë shtete kanë ratifikuar {{ill|Konventa e Kampalës|en|Kampala Convention}}, i vetmi traktat kontinental në botë që fokusohet te personat e zhvendosur brenda vendit.<ref>{{Cite web|url=https://au.int/en/treaties/african-union-convention-protection-and-assistance-internally-displaced-persons-africa|title=African Union Convention for the Protection and Assistance of Internally Displaced Persons in Africa (Kampala Convention) &#124; African Union|website=au.int|access-date=2023-09-10|archive-date=2023-08-01|archive-url=https://web.archive.org/web/20230801180953/https://au.int/en/treaties/african-union-convention-protection-and-assistance-internally-displaced-persons-africa|url-status=live|language=en}}</ref>
+
+Duke filluar nga viti 2016, Bashkimi Afrikan prezantoi pasaporta në të gjithë kontinentin.<ref name="passport">{{cite news |url=https://www.washingtonpost.com/news/monkey-cage/wp/2016/07/01/the-opposite-of-brexit-african-union-launches-an-all-africa-passport/ |title=The Opposite of Brexit: African Union Launches an All-Africa Passport |last=Frugé |first=Anne |date=2016-07-01 |newspaper=[[The Washington Post]] |access-date=2016-07-07 |archive-date=2016-07-05 |archive-url=https://web.archive.org/web/20160705220044/https://www.washingtonpost.com/news/monkey-cage/wp/2016/07/01/the-opposite-of-brexit-african-union-launches-an-all-africa-passport/ |url-status=live |language=en}}</ref>
+
+Që nga viti 2025 ka pasur një shtytje në rritje për zbatimin e Protokollit të Lëvizjes së Lirë. OKB-ja ka nxitur më shumë shtete të ratifikojnë protokollin dhe ka vlerësuar Ganën për lejimin e udhëtimit pa viza për të gjithë individët me pasaportë të një vendi afrikan.<ref>{{Cite web |title=Experts urge faster ratification of the AU Free Movement Protocol |url=https://www.uneca.org/stories/experts-urge-faster-ratification-of-the-au-free-movement-protocol |access-date=2025-06-08 |website=UNECA |language=en}}</ref>
+=== Gjuhët ===
+{{Hatnote|Shih edhe: {{ill|Lista e gjuhëve zyrtare sipas shteteve dhe territoreve|en|List of official languages by country and territory}}}}
+[[File:Africa ethnic groups 1996.jpg|thumb|Hartë që tregon familjet gjuhësore tradicionale të përfaqësuara në Afrikë (1996)]]
+
+Gjuhët zyrtare të Bashkimit Afrikan janë arabishtja, anglishtja, frëngjishtja, portugalishtja, spanjishtja, suahilishtja dhe "çdo gjuhë tjetër afrikane".<ref name="au.int" /><ref name=":4" /> Gjuhët kryesore të punës të Bashkimit Afrikan janë anglishtja dhe frëngjishtja. Në një masë më të vogël përdoren portugalishtja dhe arabishtja. {{ill|Akti Konstitutiv i Bashkimit Afrikan|en|Constitutive Act of the African Union}}, për shembull, është shkruar në anglisht, frëngjisht dhe arabisht, ndërsa protokolli që ndryshon Aktin Konstitutiv është shkruar në anglisht, frëngjisht dhe portugalisht. Që nga viti 2020, faqja e internetit e Bashkimit Afrikan është e disponueshme në tërësi në anglisht, pjesërisht në frëngjisht dhe minimalisht në arabisht.<ref>{{Cite web |title=Home |url=https://au.int/en |access-date=2023-06-28 |website=African Union |archive-date=2017-11-18 |archive-url=https://web.archive.org/web/20171118030407/https://au.int/en/ |url-status=live |language=en }}</ref> Versionet në portugalisht dhe suahili u shtuan si "së shpejti" (''em breve'') në prill 2019.<ref>{{Cite web|date=2019-04-06|title=Kiswahili |work=African Union|url=https://au.int/kiswahili|archive-url=https://web.archive.org/web/20190406225637/https://au.int/kiswahili|url-status=dead|archive-date=2019-04-06|access-date=2021-05-27|language=en}}</ref><ref>{{Cite web|url=https://au.int/portuguese|archive-url = https://web.archive.org/web/20190407023106/https://au.int/portuguese|archive-date = 2019-04-07|title = Portuguese |work=African Union|language=en}}</ref>
+
+Sipas Aktit Konstitutiv të Bashkimit Afrikan:<ref>Neni 25, Akti Konstitutiv i Bashkimit Afrikan.</ref> 
+<blockquote>Gjuhët e punës të Bashkimit dhe të të gjitha institucioneve të tij do të jenë, nëse është e mundur, gjuhët afrikane, arabishtja, anglishtja, frëngjishtja dhe portugalishtja.</blockquote>
+
+Një protokoll që ndryshon Aktin Konstitutiv u miratua në vitin 2003 dhe, që nga prilli 2020, është ratifikuar nga 30 nga 37 shtetet anëtare të nevojshme për një shumicë dy të tretash. Ai do ta ndryshonte formulimin e mësipërm në:<ref>{{Cite web|url=http://www.au.int/en/treaties/protocol-amendments-constitutive-act-african-union|title=Protocol on the Amendments to the Constitutive Act of the African Union|website=African Union |access-date=2020-04-27|archive-date=2016-06-17|archive-url=https://web.archive.org/web/20160617184101/http://au.int/en/treaties/protocol-amendments-constitutive-act-african-union|url-status=live|language=en}}</ref>
+<blockquote>1. Gjuhët zyrtare të Bashkimit dhe të të gjitha institucioneve të tij do të jenë arabishtja, anglishtja, frëngjishtja, portugalishtja, spanjishtja, kiswahili dhe çdo gjuhë tjetër afrikane.<br />
+2. Këshilli Ekzekutiv do të përcaktojë procesin dhe modalitetet praktike për përdorimin e gjuhëve zyrtare si gjuhë pune.</blockquote>
+
+E themeluar në vitin 2001 nën kujdesin e Bashkimit Afrikan, {{ill|Akademia Afrikane e Gjuhëve|en|African Academy of Languages}} promovon përdorimin dhe përjetësimin e {{ill|Gjuhët e Afrikës|en|Languages of Africa|lt=gjuhëve afrikane}} midis popujve afrikanë. Në vitin 2004, {{ill|Joaquim Chissano|en|Joaquim Chissano}} i Mozambikut iu drejtua asamblesë në suahilisht, por u desh t'i përkthente vetë fjalët e tij.<ref>[http://news.bbc.co.uk/2/hi/africa/3871315.stm Swahili baffles African leaders] {{Webarchive|url=https://web.archive.org/web/20200111081032/http://news.bbc.co.uk/2/hi/africa/3871315.stm |date=2020-01-11 }}, ''BBC'' 6 korrik 2004.</ref> Bashkimi Afrikan e shpalli vitin 2006 Vitin e Gjuhëve Afrikane.<ref name="Year of African Languages">{{cite web |url=http://allafrica.com/stories/200606210733.html |title=Ethiopia: AU Launches 2006 As Year of African Languages |access-date=2016-10-30 |date=2006-06-21 |publisher=AllAfrica.com |archive-date=2012-02-24 |archive-url=https://web.archive.org/web/20120224234223/http://allafrica.com/stories/200606210733.html |url-status=live |language=en }}</ref><ref name="Year of African Languages 2">{{cite web |url=http://web.uct.ac.za/depts/praesa/YoAL.htm|archive-url= https://archive.today/20060923084909/http://web.uct.ac.za/depts/praesa/YoAL.htm|url-status= dead |archive-date=2006-09-23 |title=The Year of African Languages (2006) – Plan for the year of African Languages – Executive Summary |access-date=2006-09-30 |year=2006 |publisher=Project for the Study of Alternative Education in South Africa|language=en}}</ref> Viti 2006 shënoi gjithashtu 55-vjetorin e Ganës që nga themelimi i {{ill|Zyra e Gjuhëve të Ganës|en|Bureau of Ghana Languages|lt=Zyrës së Gjuhëve të Ganës}}, e njohur fillimisht si Zyra e Letërsisë Vernakulare e Bregut të Artë.
+
+===Shëndetësia===
+==== AIDS-i në Afrikë ====
+[[File:HIV in Africa 2011.svg|thumb|260px|Prevalenca e HIV/AIDS-it në Afrikë, gjithsej (% e popullsisë 15–49 vjeç), në 2011 ([[Banka Botërore]])
+{| style="width:100%;"
+|-
+| valign=top |
+{{Legend|#2b0000|mbi 15%}}
+{{Legend|#800000|5–15%}}
+{{Legend|#d40000|2–5%}}
+{{Legend|#ff2a2a|1–2%}}
+{{Legend|#ff9955|0,5–1%}}
+{{Legend|#ffb380|0,1–0,5%}}
+{{Legend|#b9b9b9|nuk ka të dhëna}}
+|}]]
+
+Bashkimi Afrikan ka qenë aktiv në trajtimin e pandemisë së AIDS-it në Afrikë. Në vitin 2001, Bashkimi Afrikan themeloi AIDS Watch Africa për të koordinuar dhe mobilizuar një përgjigje në të gjithë kontinentin.<ref>{{cite book |title=AIDS Watch Africa: An instrument for promoting AIDS responses in Africa |date=July 2004 |publisher=Discussion Paper presented by HE President Olusegun Obasanjo to Heads of State of the African Union |url=http://data.unaids.org/una-docs/awa_brochure_en.pdf |access-date=2017-08-06 |archive-date=2017-08-06 |archive-url=https://web.archive.org/web/20170806221850/http://data.unaids.org/una-docs/awa_brochure_en.pdf |url-status=live |language=en }}</ref> {{ill|Afrika Sub-Sahariane|en|Sub-Saharan Africa}}, veçanërisht Afrika jugore dhe lindore, është zona më e prekur në botë. Megjithëse ky rajon strehon vetëm 6,2% të popullsisë së botës, ai strehon gjithashtu gjysmën e popullsisë botërore të infektuar me HIV.<ref>{{Cite web|url=https://www.unaids.org/sites/default/files/media_asset/2016-prevention-gap-report_en.pdf|title=Prevention gap report|access-date=2021-05-02|date=2016-07-11|publisher=[[Programi i Përbashkët i Kombeve të Bashkuara në HIV / AIDS]]|archive-date=2021-04-29|archive-url=https://web.archive.org/web/20210429025538/https://www.unaids.org/sites/default/files/media_asset/2016-prevention-gap-report_en.pdf|url-status=live|language=en}}</ref> Ndërsa matja e shkallëve të përhapjes së HIV-it ka rezultuar metodologjikisht sfiduese, më shumë se 20% e popullsisë seksualisht aktive të shumë vendeve të Afrikës jugore mund të jenë të infektuar, ku pritet që Afrika e Jugut, Botsvana, [[Kenia]], Namibia dhe [[Zimbabveja]] të kenë një ulje të [[Jetëgjatësia mesatare|jetëgjatësisë mesatare]] me mesatarisht 6,5 vjet. Pandemia ka pasur implikime të mëdha për ekonominë e kontinentit, duke ulur normat e rritjes ekonomike me 2–4% në të gjithë Afrikën.<ref>{{Cite journal |last1=Dixon |first1=Simon |last2=McDonald |first2=Scott |last3=Roberts |first3=Jennifer |date=2002 |title=The Impact of HIV And AIDS on Africa's Economic Development |jstor=25227281 |journal=BMJ: British Medical Journal |volume=324 |issue=7331 |pages=232–234|doi=10.1136/bmj.324.7331.232 |pmid=11809650 |pmc=1122139 |language=en }}</ref>
+
+Në korrik 2007, Bashkimi Afrikan miratoi dy iniciativa të reja për të luftuar krizën e AIDS-it, përfshirë një nismë për të rekrutuar, trajnuar dhe integruar dy milionë punonjës shëndetësorë të komunitetit në sistemet shëndetësore të kontinentit.<ref>{{cite news |last1=Barton-Knott |first1=Sophie |title=African Union endorses major new initiatives to end AIDS |url=http://www.unaids.org/en/resources/presscentre/pressreleaseandstatementarchive/2017/july/20170704_africanunion |access-date=2017-08-06 |agency=UNAIDS |date=2017-07-03 |archive-date=2017-08-06 |archive-url=https://web.archive.org/web/20170806221323/http://www.unaids.org/en/resources/presscentre/pressreleaseandstatementarchive/2017/july/20170704_africanunion |url-status=live |language=en }}</ref>
+
+Në janar 2012, Asambleja e Bashkimit Afrikan kërkoi që Komisioni i Bashkimit Afrikan të përpunonte "një udhërrëfyes të përgjegjësisë së përbashkët për të shfrytëzuar përpjekjet afrikane për një financim të qëndrueshëm shëndetësor me mbështetjen e partnerëve tradicionalë dhe në zhvillim, për të adresuar përgjigjen ndaj varësisë nga AIDS-i". Pasi u krijua, udhërrëfyesi (siç njihet zyrtarisht) ofroi një grup zgjidhjesh që do të rrisnin përgjegjësinë e përbashkët dhe solidaritetin global për përgjigjet ndaj [[HIV/AIDS|AIDS-it]], [[Tuberkulozi|TB-së]] dhe [[Malaria|malaries]] në Afrikë deri në vitin 2015. Udhërrëfyesi u organizua në tre shtylla: financimi i diversifikuar, aksesi në medikamente dhe qeverisja e përmirësuar shëndetësore. Udhërrëfyesi mbante përgjegjës aktorët e interesuar për realizimin e këtyre zgjidhjeve midis viteve 2012 dhe 2015.
+
+Shtylla e parë, financimi i diversifikuar, siguron që vendet të fillojnë të zhvillojnë plane specifike kombëtare për qëndrueshmërinë financiare me objektiva të qartë, dhe të identifikojnë e maksimizojnë mundësitë për të diversifikuar burimet e financimit, me qëllim rritjen e alokimit të burimeve vendore për AIDS-in dhe sëmundje të tjera.
+
+Shtylla e dytë, aksesi në medikamente të përballueshme dhe me cilësi të garantuar, përpiqet të promovojë dhe lehtësojë investimin në prodhuesit kryesorë të qendrave të medikamenteve në Afrikë, të përshpejtojë dhe forcojë harmonizimin rregullator të medikamenteve dhe të krijojë legjislacion që do të ndihmonte në mbrojtjen e njohurive të studiuesve që zhvillojnë këto medikamente shpëtimtare.
+
+Shtylla e tretë, lidershipi dhe qeverisja e përmirësuar, përpiqet të investojë në programe që mbështesin njerëzit dhe komunitetet për të parandaluar HIV-in dhe siguron që lidershipi në të gjitha nivelet të mobilizohet për të zbatuar udhërrëfyesin. Ka disa organizata që do të sigurojnë zbatimin e qetë të udhërrëfyesit, përfshirë {{ill|Partneriteti i Ri për Zhvillimin e Afrikës|en|New Partnership for Africa's Development|lt=NEPAD}}, [[Programi i Përbashkët i Kombeve të Bashkuara në HIV / AIDS|UNAIDS]], [[Organizata Botërore e Shëndetësisë|OBSH-në]] dhe disa partnerë të tjerë të OKB-së.<ref>{{Cite journal |last=Buse |first=Kent |date=January 2012 |title=Zeroing in on AIDS and Global Health Post-2015 |journal=Globalization and Health |volume=8 |pages=42–44 |article-number=42 |doi=10.1186/1744-8603-8-42 |pmid=23199137 |pmc=3528638 |doi-access=free |language=en }}</ref>
+==== Pandemia e COVID-19 ====
+Deri në shkurt 2021, [[Pandemia e COVID-19 në Afrikë|pandemia e COVID-19 në Afrikë]] kishte shkaktuar 3,6 milionë raste të konfirmuara dhe 89.000 vdekje të lidhura me të, ndërsa vetëm 25% e vendeve afrikane kishin plane adekuate për vaksinimin, sipas {{ill|Qendrat Afrikane për Kontrollin dhe Parandalimin e Sëmundjeve|en|Africa Centres for Disease Control and Prevention}} (Africa CDC).<ref name="2021_priorities">{{cite news |last1=Mohamed |first1=Hamza |title=From COVID to conflict, five priorities for African Union summit |url=https://www.aljazeera.com/news/2021/2/5/au-summit-what-are-key-issues-the-leaders-should-focus-on |access-date=2021-02-05 |work=aljazeera.com |publisher=Al Jazeera English |date=2021-02-05 |language=en |archive-date=2021-02-05 |archive-url=https://web.archive.org/web/20210205193831/https://www.aljazeera.com/news/2021/2/5/au-summit-what-are-key-issues-the-leaders-should-focus-on |url-status=live }}</ref> Pandemia ka shkatërruar gjithashtu ekonomitë në mbarë botën, përfshirë në Afrikë.
+
+== Kultura ==
+=== Simbolet ===
+[[File:Emblem of the African Union.svg|thumb|upright=0.9|Emblema e Bashkimit Afrikan]]
+{{ill|Emblema e Bashkimit Afrikan|en|Emblem of the African Union}} përbëhet nga një fjongo e artë me unaza të vogla të kuqe të ndërlidhura, nga të cilat rriten gjethe palme rreth një rrethi të jashtëm të artë dhe një rrethi të brendshëm të gjelbër, brenda të cilit ndodhet një paraqitje e artë e Afrikës. Unazat e kuqe të ndërlidhura përfaqësojnë solidaritetin afrikan dhe gjakun e derdhur për çlirimin e Afrikës; gjethet e palmës përfaqësojnë paqen; e arta — pasurinë dhe të ardhmen e ndritur të Afrikës; e gjelbra — shpresat dhe aspiratat afrikane. Për të simbolizuar unitetin afrikan, silueta e Afrikës është vizatuar pa kufij të brendshëm.<ref>[https://au.int/en/about/symbols Simbolet e Bashkimit Afrikan] {{Webarchive|url=https://web.archive.org/web/20230511212951/https://au.int/en/about/symbols |date=2023-05-11 }}, faqja e AU.</ref>
+
+Bashkimi Afrikan miratoi flamurin e tij të ri në Sesionin e 14-të të Zakonshëm të Asamblesë së Krerëve të Shteteve dhe Qeverive, që u zhvillua në Adis Abeba në 2010. Gjatë Samitit të 8-të të Bashkimit Afrikan, që u mbajt në Adis Abeba më 29 dhe 30 janar 2007, Krerët e Shteteve dhe Qeverive vendosën të hapnin një konkurs për zgjedhjen e një flamuri të ri për Bashkimin. Ata përcaktuan një sfond të gjelbër për flamurin, që simbolizon shpresën e Afrikës, dhe yje për të përfaqësuar shtetet anëtare.
+
+Në zbatim të këtij vendimi, Komisioni i Bashkimit Afrikan (AUC) organizoi një konkurs për zgjedhjen e një flamuri të ri për Bashkimin Afrikan. AUC-ja mori gjithsej 106 propozime të paraqitura nga qytetarë të 19 vendeve afrikane dhe 2 nga diaspora. Më pas, propozimet u shqyrtuan nga një panel ekspertësh i ngritur nga Komisioni i Bashkimit Afrikan dhe i përzgjedhur nga pesë rajonet afrikane, për t'u përfshirë në listën e ngushtë sipas udhëzimeve kryesore të dhëna nga Krerët e Shteteve dhe Qeverive.<ref name="bojia">{{cite web |url=http://www.washington.edu/news/2010/02/18/hfs-staffer-yadesa-bojia-celebrated-for-designing-striking-new-african-union-flag/ |title=HFS staffer Yadesa Bojia celebrated for designing striking new African Union flag |first=Peter |last=Kelley |date=2010-02-18 |publisher=University of Washington |access-date=2022-05-15 |language=en |archive-date=2018-08-29 |archive-url=https://web.archive.org/web/20180829152031/http://www.washington.edu/news/2010/02/18/hfs-staffer-yadesa-bojia-celebrated-for-designing-striking-new-african-union-flag/ |url-status=live }}</ref>
+
+Në Sesionin e 13-të të Zakonshëm të Asamblesë, Krerët e Shteteve dhe Qeverive shqyrtuan raportin e Panelit dhe zgjodhën njërin prej të gjitha propozimeve. Flamuri tani është pjesë e pajisjeve të Bashkimit Afrikan dhe zëvendëson atë të vjetrin.
+
+{{ill|Flamuri i Bashkimit Afrikan|en|Flag of the African Union|lt=Flamuri i vjetër i Bashkimit Afrikan}} ka një shirit të gjerë horizontal të gjelbër, një brez të ngushtë prej ari, emblemën e Bashkimit Afrikan në qendër të një shiriti të gjerë të bardhë, një tjetër brez të ngushtë ari dhe një shirit të fundit të gjerë të gjelbër. Përsëri, e gjelbra dhe e arta simbolizojnë shpresat dhe aspiratat e Afrikës, si dhe pasurinë dhe të ardhmen e saj të ndritur, ndërsa e bardha përfaqëson pastërtinë e dëshirës së Afrikës për miq në mbarë botën. Flamuri ka çuar në krijimin e "ngjyrave kombëtare" të Afrikës, të arta dhe të gjelbra (nganjëherë së bashku me të bardhën). Këto ngjyra janë të dukshme në një mënyrë ose në një tjetër në flamujt e shumë kombeve afrikane. Së bashku, ngjyrat e gjelbër, e artë dhe e kuqe përbëjnë [[Ngjyrat panafrikane|ngjyrat panafrikane]].
+
+Bashkimi Afrikan ka miratuar himnin "{{ill|Let Us All Unite and Celebrate Together|en}}".
+
+=== Festimet ===
+{{ill|Dita e Afrikës|en|Africa Day}} (më parë Dita e Lirisë Afrikane dhe Dita e Çlirimit Afrikan) është një përkujtim vjetor i themelimit të Organizatës së Unitetit Afrikan (OAU), më 25 maj 1963, dhe zhvillohet në të njëjtën datë të muajit çdo vit. Festimet e tjera përfshijnë si më poshtë:
+* Festivali i Muzikës Sakrale Botërore të Fezit: një festë njëjavore për harmoninë midis kulturave, me valle, muzikë marokene, ekspozita arti dhe filma.<ref>{{cite web |title=Fès Festival of World Sacred Music |url=https://www.lonelyplanet.com/morocco/fez/events/fes-festival-of-world-sacred-music/a/poi-fes/1302608/355510 |website=Lonely Planet |access-date=2018-09-04 |language=en |archive-date=2018-09-04 |archive-url=https://web.archive.org/web/20180904084602/https://www.lonelyplanet.com/morocco/fez/events/fes-festival-of-world-sacred-music/a/poi-fes/1302608/355510 |url-status=live }}</ref>
+* Festivali i Ostrës së Knysna: mbahet në Knysna dhe përqendrohet rreth sportit, ushqimit dhe trashëgimisë së tyre të ostrës.<ref>{{cite web |title=Knysna Oyster Festival |url=http://www.oysterfestival.co.za |website=Oyster Festival |access-date=2018-09-04 |language=en |archive-date=2013-03-26 |archive-url=https://web.archive.org/web/20130326030112/http://www.oysterfestival.co.za/ |url-status=live }}</ref>
+* Festivali i Liqenit të Yjeve: një festë tre-ditore që zhvillohet në Liqenin e Malavit, duke shfaqur muzikën afrikane dhe duke mirëpritur njerëz nga e gjithë bota.<ref>{{cite web |last1=Lanyado |first1=Benji |title=Malawi's musical turn |url=https://www.theguardian.com/travel/2011/jun/12/malawi-africa-music-festival |website=The Guardian |date=2011-06-11 |access-date=2018-09-04 |language=en |archive-date=2018-09-04 |archive-url=https://web.archive.org/web/20180904084709/https://www.theguardian.com/travel/2011/jun/12/malawi-africa-music-festival |url-status=live }}</ref>
+* Fête du Vodoun: e njohur gjithashtu si Festivali Vudu i Ouidah. Përqendrohet rreth ritualeve të tyre në tempujt vudu, me argëtim që përfshin gara kuajsh dhe shfaqje tradicionale me daulle.<ref>{{cite news |last1=Okanla |first1=Karim |title=Benin marks Voodoo Day |url=http://news.bbc.co.uk/2/hi/africa/1756057.stm |website=BBC News |date=2002-01-11 |access-date=2018-09-04 |language=en |archive-date=2018-09-04 |archive-url=https://web.archive.org/web/20180904084817/http://news.bbc.co.uk/2/hi/africa/1756057.stm |url-status=live }}</ref>
+* Umhlanga: është kryesisht një ngjarje private për vajzat e reja, por në ditën e gjashtë dhe të shtatë traditat kryhen publikisht.<ref>{{cite web |title=Zulu Reed Dance |url=http://eshowe.com/zulu-reed-dance/ |archive-url=https://web.archive.org/web/20130818150118/http://eshowe.com/zulu-reed-dance/ |url-status=dead |archive-date=2013-08-18 |website=Eshowe |access-date=2018-09-04 |language=en}}</ref>
+* Dita Afrikane e Kufijve festohet çdo vit më 7 qershor për të promovuar paqen, bashkëpunimin ndërkufitar dhe integrimin rajonal e kontinental në Afrikë
+* Festivali Kulturor i Liqenit Turkana në Marsabit: mbahet në Kenia dhe feston harmoninë midis fiseve me kulturën, këngën, vallëzimin dhe kostumet e tyre tradicionale.<ref>{{cite news |last1=Chiba |first1=Yasuyoshi |title=Pictures of the Day: 21 June 2018 |url=https://www.telegraph.co.uk/news/2018/06/21/pictures-day-21-june-2018/dancer-rendille-tribe-performs-launching-ceremony-11th-marsabit/ |website=The Telegraph |date=2018-06-21 |access-date=2018-09-04 |language=en |archive-date=2018-09-04 |archive-url=https://web.archive.org/web/20180904120937/https://www.telegraph.co.uk/news/2018/06/21/pictures-day-21-june-2018/dancer-rendille-tribe-performs-launching-ceremony-11th-marsabit/ |url-status=live }}</ref>
+* Enkutatash është fjala për Vitin e Ri etiopian në amharisht, gjuha zyrtare e Etiopisë. Ndodh më 11 shtator në kalendarin gregorian; përveç vitit që i paraprin një viti të brishtë, kur ndodh më 12 shtator.
+== Shiko edhe ==
+{{Div col|colwidth=20em}}
+* {{ill|Iniciativa e Afrikës për Përshtatjen|en|Africa Adaptation Initiative}}
+* {{ill|Shekulli Afrikan|en|African Century}}
+* {{ill|Mekanizmi Afrikan i Rishikimit nga Kolegët|en|African Peer Review Mechanism}}
+* {{ill|Rilindja Afrikane|en|African Renaissance}}
+* {{ill|Forca Afrikane e Gatishmërisë|en|African Standby Force}}
+* {{ill|Fronti i Bashkimit Afrikan|en|African Unification Front}}
+* {{ill|Afrikanizimi|en|Africanisation}}
+* {{ill|Bashkimi i Azisë Qendrore|en|Central Asian Union}}
+* {{ill|Federata e Afrikës Lindore|en|East African Federation}}
+* {{ill|Marrëveshja e Ezulwinit|en|Ezulwini agreement}}
+* {{ill|Miqtë e Bashkimit Afrikan|en|Friends of the African Union}}
+* {{ill|Popujt autoktonë të Afrikës|en|Indigenous peoples of Africa}}
+* {{ill|Lista e grupimeve të vendeve|en|List of country groupings}}
+* {{ill|Lista e marrëveshjeve shumëpalëshe të tregtisë së lirë|en|List of multilateral free-trade agreements}}
+* {{ill|Parandalimi i migrimit mjedisor|en|Climate adaptation}}
+* [[Panafrikanizmi]]
+* {{ill|Organizata e Grave Panafrikane|en|Pan-African Women's Organization}}
+* {{ill|Organizata rajonale|en|Regional organization}}
+{{Div col end}}
+
+== Shënime ==
+{{Reflist|group=note}}
+
+== Referime ==
+=== Burimet ===
+{{Reflist}}
+
+=== Referime të përgjithshme dhe të cituara ===
+* [https://web.archive.org/web/20130927110741/http://www.afrimap.org/english/images/report/AfriMAP-AU-Guide-EN.pdf ''Strengthening Popular Participation in the African Union: A Guide to AU Structures and Processes''], AfriMAP and Oxfam GB, 2010.
+* [https://web.archive.org/web/20080216054523/http://www.afrimap.org/english/images/report/AU_People-DrivenNov07.pdf ''Towards a People Driven African Union: Current Challenges and New Opportunities'']. AfriMAP, AFRODAD and Oxfam GB, janar 2007.
+* J. B. Cartes Rodríguez (2024), "The African Court on Human and Peoples' Rights", Universidad Pública de Navarra, Pamplona. {{ISBN|978-84-9769-403-2}}.
+* {{Cite book |last=Melber |first=Henning |year=2001 |url=https://urn.kb.se/resolve?urn=urn:nbn:se:nai:diva-215 |title=The New African Initiative and the African Union: A Preliminary Assessment and Documentation |location=Uppsala, Suedi |publisher=Nordiska Afrikainstitutet |isbn=91-7106-486-9 |oclc=49230331 |language=en}}
+* {{Cite journal |last=Manby |first=Bronwen |date=November 2004 |title=The African Union, NEPAD, and Human Rights: The Missing Agenda |url=https://www.researchgate.net/publication/236776391 |journal=Human Rights Quarterly |volume=26 |issue=4 |pages=983–1027 |doi=10.1353/hrq.2004.0051 |jstor=20069770 |s2cid=144166728 |language=en}}
+* [https://web.archive.org/web/20070927195414/http://www.ppl.nl/catalogue.php?ppn=241754658&keyword=African%20Union&pagename=keyword-catalogue Bibliografia mbi Bashkimin Afrikan në Bibliotekën e Pallatit të Paqes].
+
+== Lidhje të jashtme ==
+{{Sisterlinks|d=Q7159|b=no|v=no|voy=no|n=Category:African Union|s=no|c=category:African Union|q=no|m=no|mw=no}}
+* {{Official website}}
+
+{{Authority control}}
+
+[[Kategoria:Bashkimi Afrikan| ]]
+[[Kategoria:Krijime të vitit 2001 në Afrikë]]
+[[Kategoria:Organizata të themeluara në vitin 2001]]
+[[Kategoria:Organizata ndërqeveritare të themeluara me traktat]]
+[[Kategoria:Organizata me bazë në Adis Abeba]]
+[[Kategoria:Organizata panafrikane]]
+[[Kategoria:Vëzhgues të Asamblesë së Përgjithshme të Kombeve të Bashkuara]]
+[[Kategoria:Anëtarë të G20]]
+[[Kategoria:Krijime të vitit 1963 në Afrikë]]
+[[Kategoria:Bashkime kontinentale]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|African Union|20 shtator 2026|1375870020}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:African Union, versioni i datës 20 shtator 2026 (revizioni 1375870020).
+-->

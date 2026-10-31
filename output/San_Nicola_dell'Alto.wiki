@@ -1,0 +1,209 @@
+{{Infobox settlement
+| name = San Nicola dell'Alto
+| image_skyline = San Nicola dell'Alto 2024.jpg
+| image_flag = San Nicola dell'Alto-Gonfalone.png
+| image_shield = San Nicola dell'Alto-Stemma.png
+| leader_title = Kryetari
+| leader_name = Luigi Rizzuti
+| leader_party = {{ill|Lista qytetare|it|Lista civica|lt=listë qytetare}} Insieme per San Nicola
+| elevation_m = 579
+| image_map = Map of comune of San Nicola dell'Alto (province of Crotone, region Calabria, Italy).svg
+| map_caption = Pozicioni i komunës San Nicola dell'Alto në provincën e Krotones
+| subdivision_type = Shteti
+| subdivision_name = [[Italia]]
+| subdivision_type1 = Rajoni
+| subdivision_name1 = [[Kalabria]]
+| subdivision_type2 = Provinca
+| subdivision_name2 = {{ill|Crotone|it|Crotone}}
+| population_total = 646
+| blank_name_sec1 = Emri i banorëve
+| blank_info_sec1 = sannicolesi
+| blank1_name_sec1 = Komunat kufitare
+| blank1_info_sec1 = [[Karfici|Carfizzi]], Casabona, Melissa, [[Puhëriu]]
+| blank2_name_sec1 = Zona sizmike
+| blank2_info_sec1 = 2
+| blank3_name_sec1 = Mbrojtësi
+| blank3_info_sec1 = Shën Mikaeli Kryeengjëll<ref name=demo>{{Cite web|url=https://www.comuni-italiani.it/101/021/|title=Comune di San Nicola dell'Alto|publisher=comuni-italiani.it|access-date=2015-12-28|language=it}}</ref>
+| blank4_name_sec1 = Festa
+| blank4_info_sec1 = e hëna pas të dielës së parë të majit
+}}
+'''San Nicola dell'Alto''' ([[Alfabeti Fonetik Ndërkombëtar|IPA]]: {{IPA|[sanˈniˈkɔla delˈlalto]}}, ''Shën Kolli'' në [[Gjuha arbëreshe (Itali)|arbëreshë]]<ref>{{Cite book|title=Dizionario di toponomastica. Storia e significato dei nomi geografici italiani|year=1996|publisher=Garzanti|location=Milano|isbn=88-11-30500-4|page=586|url=https://archive.org/details/dizionarioditopo00unse|language=it}}</ref>) është një [[Komuna (Itali)|komunë italiane]] me 646 banorë në [[Provinca e Krotones|provincën e Krotones]], në [[Kalabria|Kalabri]].
+
+Banorët e saj ruajnë kulturën dhe [[Gjuha arbëreshe (Itali)|gjuhën arbëreshe]], por kanë braktisur, për një sërë peripecish (të detyruar nga mjedisi përreth me ritin ''{{ill|latin|it|Rito latino}}''), [[Liturgjia bizantine|ritin greko-bizantin]].
+
+== Gjeografia fizike ==
+Qendra e vogël shtrihet në një lartësi mesatare prej 579 m mbi nivelin e detit, midis maleve Picutës dhe San Michele, dhe kufizohet me komunat [[Karfici|Carfizzi]], Casabona, Melissa dhe [[Puhëriu]]. Me një sipërfaqe prej {{Val|7,85|u=km²}}, është komuna më e vogël e provincës së Krotones.
+
+== Origjina e emrit ==
+Vendbanimi quhet pa mëdyshje ''Shin Koll'', që në mënyrë të saktë do të thotë ''San Cola'', që rrjedh nga ''Shën Koll'', forma fjalë për fjalë në [[Gjuha shqipe|gjuhën shqipe]].
+
+== Historia ==
+[[File:San Nicola dell'Alto (1930).jpg|thumb|left|San Nicola dell'Alto në vitin 1930]]
+Lajmet e para për ekzistencën e katundit San Nicola dell'Alto datojnë nga Mesjeta. Ato lidhen me një koncesion të dhënë nga mbreti [[Karli I i Anzhusë]] Alfanos, ipeshkv i Umbriaticos nga viti 1270 deri në 1275, me të cilin i lejohej të mbante treg në një vend të quajtur "''Sanctus Nicolaus de Alto''" dhe në Santa Marina.<ref>Riccardo Filangieri, I Registri della Cancelleria Angioini Vol. XIV (1275-1277), p. 254</ref> Gjithashtu, Alfano mori titullin [[Baroni|baronial]] mbi tre katunde (Santa Marina, San Nicola dhe Maratea).<ref name=":91">Carmine Pellizzi, Giuseppe Tallarico, Casabona: vicende storiche di un antico borgo feudale calabrese, p. 91</ref> Ipeshkvijtë e mbajtën titullin baron i San Nicola dell'Alto deri në shfuqizimin e selisë ipeshkvnore, që ndodhi në vitin [[1818]].<ref>Carmine Pellizzi, Giuseppe Tallarico, Casabona: vicende storiche di un antico borgo feudale calabrese, p. 86</ref>
+
+Më 1 qershor 1306, mbreti Karli II i Anzhusë e pranoi kërkesën e ipeshkvit të Umbriaticos dhe i përjashtoi banorët e katundeve Santa Marina, "''Sancti Nicolai de Alto''" dhe Maratea nga shumë detyrime, me qëllim që të ripopullonte vendet që kishin pësuar shkatërrime gjatë {{ill|Luftërave të Vespros|it|Guerre del Vespro|lt=luftërave të Vespros}} (1282–1302).<ref name=":91" /><ref>Ferdinando Ughelli, Italia sacra sive De episcopis Italiae et insularum adiacentium, rebusque ab iis praeclare gestis, deducta serie ad nostram usque aetatem, Tomus IX, p. 527</ref>
+
+Me kalimin e kohës, katundi San Nicola dell'Alto, nën sundimin kohor dhe shpirtëror të mensës së ipeshkvijve-baronë të Umbriaticos, u braktis dhe kufijtë e tij shpesh ishin objekt kontestimi me feudatarët fqinjë të Casabonas, të cilët pretendonin pronësinë e katundit mbi bazën e faktit se San Nicola binte brenda territorit të tyre feudal.<ref>Carmine Pellizzi, Giuseppe Tallarico, Casabona: vicende storiche di un antico borgo feudale calabrese, pp. 103</ref> Nga aktet e njërës prej këtyre përplasjeve gjyqësore rezulton se në vitin 1474 ekzistonte kisha e San Nicola dell'Alto.<ref>Carmine Pellizzi, Giuseppe Tallarico, Casabona: vicende storiche di un antico borgo feudale calabrese, p. 206</ref>
+
+Për t'i qetësuar kontestet mbi katundin e San Nicola dell'Alto, ipeshkvijtë, me pëlqimin apostolik, e dhanë me qira.<ref>Carmine Pellizzi, Giuseppe Tallarico, Casabona: vicende storiche di un antico borgo feudale calabrese, p. 242</ref> Nga një regjistër i vitit 1472 kuptohet se "''la terra di Casobono […] con lo Feudo di Santo Nicola dell'alto […]''" i përkiste pronës mbretërore (''regio demanio'') dhe San Nicola dell'Alto me vreshtat e saj iu dhanë ushtarit të armatosur të mbretit, "Bonum Calentum" (Buono Calento), për kontributin në konsolidimin e dinastisë aragoneze.<ref>Carmine Pellizzi, Giuseppe Tallarico, Casabona: vicende storiche di un antico borgo feudale calabrese, pp. 85-86, 102-103</ref> Në feudin e San Nicola dell'Alto pasuan kontët e Montellës, Cabaniglia ose Cavaniglia (1472), Aragona (1501), della Cananea nga [[Kozenca]] (1562), Cossa (1571), patricët napolitanë Pisciotta (1580), Campitelli (1643), Spiriti (1652), Pisciotta (1659), Moccia (1693), Crispano nga Napoli, Capecelatro (1783), të cilët e mbajtën markezatin e Casabonas deri në shfuqizimin e feudalizmit.<ref>Carmine Pellizzi, Giuseppe Tallarico, Casabona: vicende storiche di un antico borgo feudale calabrese, pp. 86</ref>
+
+Në vitin 1807 San Nicola dell'Alto u bë Universitas nën Rrethin e Strongolit dhe në vitin 1811 u shpall qendër e mandamentit, me caktimin e fshatit Karfici. Në vitin 1816 kaloi nga provinca e Kozencës në atë të [[Katanxaro|Katanxaros]]. Në vitin 1847 vendi kishte rreth 1.800 banorë. Në vitin 1904 dy qendrat shqiptare fituan autonominë komunale.<ref>Valente, Gustavo, Dizionario dei Luoghi della Calabria, Edizione Frama's, Chiaravalle Centrale, 1973, pp. 915-916</ref>
+
+=== Ardhja e arbëreshëve ===
+[[File:Arbëreshë costume (San Nicola dell'Alto)01.jpg|thumb|verticale=0.5|Veshje tradicionale arbëreshe të San Nicola dell'Alto]]
+Rreth vitit 1480, kur qiradhënës të San Nicola dell'Alto ishin Cavaniglia, kontët e Montellës, rreth njëqind [[Arbëreshët në Itali|arbëreshë]] morën lejen e peshkopit të Umbriaticos për t’u vendosur në territorin e Casabonës. Në të ashtuquajturën «Gabella dell’Arango», që varej gjithashtu nga mensa peshkopale e Umbriaticos, ata ndërtuan rreth dhjetë kasolle me kashtë.<ref>Carmine Pellizzi, Giuseppe Tallarico, ''Casabona: vicende storiche di un antico borgo feudale calabrese'', f. 103</ref><ref>Pericle Maone, ''Casabona feudale'', f. 207</ref> Më pas, në fillim të viteve 1500, arbëreshët u zhvendosën në kodrën midis malit San Michele dhe [[Mali i Pizzutës|Malit të Pizzutës]], duke i dhënë vendbanimit emrin e kishës së vjetër të Shën Nikollës.<ref>Carmine Pellizzi, Giuseppe Tallarico, ''Casabona: vicende storiche di un antico borgo feudale calabrese'', ff. 48–49</ref>
+
+Në relacionin ''ad limina'' të vitit 1684, Giovanni Battista Ponzi, peshkop i Umbriaticos nga viti 1682 deri më 1688, shkruante: «''Fshati i San Nicola dell'Alto, i banuar nga arbëreshë që kishin ardhur nga [[Epiri]] më 1480 dhe ishin shpërndarë në të gjithë Mbretërinë e Dy Sicilive, është nën sundimin e përkohshëm të mensës së peshkopit të Umbriaticos, i cili është edhe baron i këtij vendi […]''».<ref name=":0">Andrea Pesavento, ''La parrocchiale di S. Nicola dell'Alto''</ref>
+
+Nga regjistri i taksave të Mbretërisë së Napolit i vitit 1521, ku përmenden «''Schiavoni, greci e albanesi''», rezulton se fshati «''Sancto Nycola Delalto''» tatohej për nëntë vatra. Ndërsa në regjistrimin e vitit 1543, «''de li Albanisi greci et sclavoni habitanti in la provintia de Calabria Citra''», del se fshatrat e themeluara nga arbëreshët në pjesën e sipërme të zonës së Crotone-s ishin dy: «''Sancto Nicola de lauto''», me 53 vatra dhe 198 banorë, dhe Karfici, me 21 vatra e 82 banorë.<ref>Tommaso Pedio, ''Un foculario del Regno di Napoli del 1521 e la tassazione focatica dal 1447 al 1595'', f. 263</ref><ref>Pericle Maone, ''Casabona feudale'', ff. 107–108</ref> Mbiemrat ishin: Basta, Bisulca, Canossa, Camideca, Carida, Carvisei, Clamaro, Como, Duca, Gangale, Gliaresti, Gliarisi, Grana, Incondissi, Lalti, Malicchia, Musacchio, Masi, Pangrati, Pillora, Scarriopolo dhe Tarassio; më i përhapuri ishte Basta. Po atë vit, 53 vatrave iu shtuan familjet e Pietro Cariddi-t, Joanni Lalti-t, Giorgio Malicchia-s, Vera-s, vejushës së Joannelli Masi-t, dhe Pietro Duaneta-s, të gjitha të ardhura nga Karfici. Katër familje të tjera erdhën nga San Nicola da Crissa: familjet e Michele Albanisi-t, Cola Como-s, Giorgio Lopes-it dhe Pietro de Como-s.<ref>Domenico Zangari, ''Le colonie italo albanesi di Calabria - Storia e demografia'', f. 148</ref>
+
+=== Masakra e Monongahut ===
+{{Hatnote|Shih edhe: {{ill|Fatkeqësia e Monongahut|it|Disastro di Monongah}}}}
+[[Bashkësia]] e San Nicola dell'Alto u godit rëndë nga fatkeqësia më e rëndë minerare e ndodhur ndonjëherë në [[Shtetet e Bashkuara të Amerikës|Shtetet e Bashkuara]], më 6 dhjetor [[1907]], në Monongah (Virxhinia Perëndimore). Disa nga viktimat e katastrofës ishin emigrantë italianë me origjinë nga San Nicola dell'Alto.
+
+=== Simbolet ===
+Përshkrimi heraldik i stemës së bashkisë së San Nicola dell'Alto është si vijon:<ref name=AralCiv>{{Cite web |url=https://www.araldicacivica.it/comune/san-nicola-dellalto/ |title=San Nicola dell'Alto |website=Araldicacivica |language=it |access-date=8 qershor 2023}}</ref><br />
+{{Blockquote|Në fushë të kaltër, figura e shenjtorit peshkop që del nga një shtresë resh, i veshur me të kuqe me bordurë të bardhë, me aureolë të artë dhe mitër të argjendtë; në dorën e majtë mban një shkop baritor të argjendtë, të vendosur në brez, ndërsa në të djathtën një degëz të gjelbër. Ornamente të jashtme bashkiake.}}
+
+Përshkrimi i flamurit është si vijon:<ref name=AralCiv />
+{{Blockquote|Pëlhurë e ndarë vertikalisht, e bardhë dhe e kaltër, e zbukuruar me qëndisje të pasura argjendi dhe me stemën e përshkruar më sipër, shoqëruar nga mbishkrimi i argjendtë, i vendosur në qendër: {{Smallcaps|Comune di San Nicola dell'Alto}}. Pjesët metalike dhe kordonët do të jenë të argjendtë. Shtiza vertikale do të jetë e mbuluar me kadife me ngjyrat e pëlhurës, të alternuara, me gozhdëza të argjendta të vendosura në formë spiraleje. Në majën e shigjetës do të paraqitet stema e bashkisë, ndërsa në bisht do të gdhendet emri. Lidhësja dhe shiritat do të kenë ngjyrat kombëtare dhe thekë argjendi.}}
+
+Stema dhe flamuri u miratuan me dekret të Presidentit të Republikës më 9 tetor 1968.<ref>{{Cite web|url=http://dati.acs.beniculturali.it/comuni/comuni.detail.html?3505 |title=San Nicola dell'Alto |website=Archivio Centrale dello Stato, Ufficio araldico - Fascicoli comunali |language=it |access-date=8 qershor 2023}}</ref>
+
+== Monumentet dhe vendet me interes ==
+
+=== Arkitektura civile dhe fetare ===
+Karakteristik është qendra historike (''centro storico''), me gurë që përkujtojnë [[Arkitektura Mesjetare|arkitekturën mesjetare]]. Në rrugicat e brendshme mund të dallohen harqe mbështetëse dhe qemere cilindrike.
+
+==== Kisha Amë e Shën Nikollës Peshkop ====
+Kisha ndodhet në zemër të qendrës historike. E dëshmuar që në fillim të vitit [[1500]], kisha famullitare u rindërtua në vitin [[1675]]<ref name=":0" /> dhe u rindërtua pjesërisht në shekullin e kaluar. Ka tri nefe dhe zotëron enë uji të bekuar prej guri dhe një ciborium të shekullit XVII. Kisha është e rrethuar nga një kambanore madhështore që dominon vendbanimin.
+
+==== Kisha e Shën Mikaelit Kryeengjëll ====
+Në malin me të njëjtin emër<ref>{{Cite web|url=https://digilander.libero.it/sannicola.ginosulla/San%20Nicola/comune/comune.htm|title=Il comune di San Nicola dell'Alto|website=digilander.libero.it|access-date=2020-12-04|language=it}}</ref> ndodhet kisha e Shën Mikaelit, e zgjeruar dhe e ristrukturuar në fund të [[Shekulli XVII|shekullit XVII]]. Megjithatë, nga aktet e epokës bizantine, është e provuar historikisht prania në të njëjtin vend e kapelës kushtuar shenjtorit, me një cenobium të murgjve bazilianë dhe një vend vetmie.<ref name=":0" /><ref name=":04">{{Cite book|author=Mario Candido et al.|editor=Comunità montana "Alto Crotonese"|title=Prime luci sullo Jonio - Guida turistica|year=1988|publisher=Sinefine edizioni|location=Catanzaro|page=26|language=it}}</ref> Në brendësi të saj, shenjtërorja ruan një ikonë të Shën Mikaelit që daton në shekullin XVII.<ref name=":04" />
+
+==== Kisha e Shën Domenikut të Guzmánit ====
+Kishëza<ref>{{Cite web|url=https://digilander.libero.it/sannicola.ginosulla/San%20Nicola/comune/sdom.htm|title=CHIESA DI SAN DOMENICO|website=digilander.libero.it|access-date=2020-12-04|language=it}}</ref> u ndërtua midis viteve 1675 dhe 1678.<ref name=":0" /> Një pllakë përkujtimore brenda kishës dëshmon se u ndërtua nga familja borgjeze Simeone. Vendi ruan, ndër eshtrat e gjetura, ato të një peshkopi me origjinë nga San Nicola.
+
+=== Skulptura «Thirrje për paqen» ===
+Në majën e vendit La Picutës, në komunën e San Nicola dell'Alto, ndodhet një monument më i lartë se 7 metra, vepër e artistit kalabrez Antonio Cersosimo. Skulptura quhet «Thirrje për paqen» dhe është bërë prej mermeri të bardhë të Karrarës ({{lang|it|Marmo di Carrara}}), me bazë prej [[Graniti|graniti]] Silk.
+
+Statuja paraqet një tubë grash dhe burrash që, me duart e ngritura drejt qiellit, përgjërojnë paqen në botë.
+
+== Shoqëria ==
+
+=== Evolucioni demografik ===
+{| class="wikitable"
+! Vitet !! Banorë
+|-
+| 1861 || 1&nbsp;339
+|-
+| 1871 || 1&nbsp;472
+|-
+| 1881 || 1&nbsp;536
+|-
+| 1901 || 2&nbsp;279
+|-
+| 1911 || 2&nbsp;337
+|-
+| 1921 || 2&nbsp;148
+|-
+| 1931 || 2&nbsp;298
+|-
+| 1936 || 2&nbsp;392
+|-
+| 1951 || 2&nbsp;687
+|-
+| 1961 || 2&nbsp;571
+|-
+| 1971 || 2&nbsp;067
+|-
+| 1981 || 1&nbsp;721
+|-
+| 1991 || 1&nbsp;426
+|-
+| 2001 || 1&nbsp;105
+|-
+| 2011 || 898
+|-
+| 2021 || 721
+|}
+<ref>Të dhënat nga: {{Cite web|url=https://ebiblio.istat.it/digibib/Censimenti%20popolazione/Censimentipopolazioneresidentedal1861/RML0050288Pop_res_cens_1861_1991.pdf|title=Popolazione residente dei comuni. Censimenti dal 1861 al 1991|publisher=ISTAT|language=it}}; {{Cite web|url=https://esploradati.istat.it/databrowser/#/it/censpop/categories/IT1,Z1200CPA,1.0/CPA_POP/IT1,DF_DCSS_POPRES_SERIES_TV_1,1.0|title=Popolazione residente - Serie storica|publisher=ISTAT|language=it}}</ref>
+
+== Kultura ==
+=== Festat ===
+Festa e shenjtorit mbrojtës, Shën Mikaeli Kryeengjëll, zhvillohet të dielën e parë dhe të hënën pasuese të majit.
+Pas një periudhe lutjesh nëntëditore, të dielën në mëngjes shenjtori, i mbartur mbi supe, zbret në fshat.
+Pas një xhiroje të parë nëpër rrugët e fshatit, shenjtori vendoset në Kishën Amë, nga ku do të dalë në mëngjesin e ditës tjetër për të përshkuar rrugët e mbetura të fshatit.
+
+Veçanërisht prekëse është procesioni i shenjtorit, që niset nga kisha famullitare në muzg të së hënës dhe, duke përshkuar lagjen, mbërrin te kishëza e tij në malin me të njëjtin emër. Përkushtimi i banorëve të San Nicola-s ndaj Shenjtorit Mbrojtës është veçanërisht i fortë.
+
+== Ekonomia ==
+=== Artizanati ===
+Ekonomia bazohet në thelb në bujqësi. Ullishtat dhe vreshtat janë kulturat më të zhvilluara dhe, për rrjedhojë, burimet e vetme të të ardhurave. Në të kaluarën sektori i tekstilit ishte shumë i zhvilluar, ndërsa sot është pothuajse inekzistent.
+
+== Infrastruktura dhe transporti ==
+Fshati përshkohet nga ish-{{ill|Rruga shtetërore 492 e Savellit|it|Strada statale 492 di Savelli}}.
+
+== Administrimi ==
+
+'''Kryetarët e Bashkisë së San Nicola dell'Alto që nga krijimi i [[Republika Italiane|Republikës Italiane]].'''
+
+{| class="wikitable"
+! Nga !! Deri !! Emri !! Partia/lista !! Detyra
+|-
+| [[1946]] || [[1948]] || Pietro Basta || {{ill|Partia Komuniste Italiane|it|Partito Comunista Italiano}} || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| [[1948]] || [[1952]] || Michele De Simone || {{ill|Partia Komuniste Italiane|it|Partito Comunista Italiano}} || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| [[1952]] || [[1956]] || Francesco Santilli || {{ill|Partia Socialiste Italiane|it|Partito Socialista Italiano}} || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| [[1956]] || [[1961]] || Severino Palmieri || [[Democrazia Cristiana]] || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| [[1961]] || [[1965]] || Leonardo Vulcano || {{ill|Partia Komuniste Italiane|it|Partito Comunista Italiano}} || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| [[1965]] || [[1970]] || Severino Palmieri || [[Democrazia Cristiana]] || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| [[1970]] || [[1975]] || Leonardo Vulcano || {{ill|Partia Komuniste Italiane|it|Partito Comunista Italiano}} || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| [[1975]] || [[1985]] || Vincenzo Pace || {{ill|Partia Komuniste Italiane|it|Partito Comunista Italiano}} || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| [[1985]] || [[1990]] || Salvatore Vitale || [[Democrazia Cristiana]] || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| [[1990]] || [[1999]] || Carlo Rizzo || {{ill|Partia Demokratike e së Majtës|it|Partito Democratico della Sinistra}} || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| [[1999|13 qershor 1999]] || 13 qershor [[2004]] || Luigi Rizzuti || {{ill|Demokratët e së Majtës|it|Democratici di Sinistra}} || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| [[2004|13 qershor 2004]] || 7 qershor [[2009]] || Vincenzo Pace || listë qytetare || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| [[2009|7 qershor 2009]] || 10 qershor [[2024]] || Francesco Scarpelli || [[Partia Demokratike e Italisë]]; listë qytetare || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|-
+| [[2024|10 qershor 2024]] || në detyrë || Luigi Rizzuti || listë qytetare || [[Kryetari i Bashkisë|Kryetar bashkie]]
+|}
+
+=== Binjakëzimet ===
+* {{ill|Prato|it|Prato}} (Itali), që nga viti 1995
+
+== Shënime ==
+<references/>
+
+== Bibliografia ==
+* {{Cite book |author=Riccardo Filangieri |title=I Registri della Cancelleria Angioini Vol. XIV (1275-1277) |publisher=Accademia Pontaniana |location=Napoli |year=1959 |language=it}}
+* {{Cite book |author=Nilo Malena |url=https://books.google.it/books?id=ZfGbtxJUZn4C |title=Per l’eredi, creditori, de’ furono duchi di Karfici, e marchesi di Casabona |location=Napoli |year=1767 |language=it}}
+* {{Cite book |author=Pericle Maone |title=Casabona feudale nella rivista Historica n. 5/6 |year=1964 |language=it}}
+* {{Cite book |author=Tommaso Pedio |title=Un foculario del Regno di Napoli del 1521 e la tassazione focatica dal 1447 al 1595, in Studi Storici Meridionali, n. 3 |publisher=Capone |location=Cavallino |year=1991 |pages=211–265 |language=it}}
+* {{Cite book |author=Carmine Pellizzi, Giuseppe Tallarico |url=http://www.quadernisiberenensi.it/_private/Quaderno_2001_web.pdf |title=Casabona: vicende storiche di un antico borgo feudale calabrese |publisher=Città Calabria Edizioni |location=Soveria Mannelli |year=2003 |access-date=2021-03-21 |archive-url=https://web.archive.org/web/20230127102129/http://www.quadernisiberenensi.it/_private/Quaderno_2001_web.pdf |archive-date=2023-01-27 |url-status=dead |language=it}}
+* {{Cite book |author=Ferdinando Ughelli |title=[https://books.google.it/books?id=8SAsAQAAMAAJ Italia sacra sive De episcopis Italiae et insularum adiacentium, rebusque ab iis praeclare gestis, deducta serie ad nostram usque aetatem], Tomus IX |publisher=Apud Sebastianum Coleti |location=Venetiis |year=1721 |language=la}}
+* {{Cite book |author=Domenico Zangari |title=Le colonie italo albanesi di Calabria - Storia e demografia |publisher=Caselli |location=Napoli |year=1941 |language=it}}
+
+== Projekte të tjera ==
+{{Sisterlinks}}
+
+== Lidhje të jashtme ==
+* {{Cite web |url=http://www.comune.sannicoladellalto.kr.it/ |title=Sito del comune |language=it}}
+* {{Cite web |url=http://web.tiscali.it/pulsar.new/ |title=Sito omaggio a San Nicola dell'Alto |language=it}}
+* {{Cite web |author=Andrea Pesavento |url=https://www.archiviostoricocrotone.it/urbanistica-e-societa/la-parrocchiale-di-s-nicola-dellalto/ |title=La parrocchiale di S. Nicola dell’Alto |access-date=2021-03-22 |language=it}}
+
+{{Authority control}}
+
+[[Kategoria:Komuna shqipfolëse në Itali]]
+[[Kategoria:Vendbanime arbëreshe në Itali]]

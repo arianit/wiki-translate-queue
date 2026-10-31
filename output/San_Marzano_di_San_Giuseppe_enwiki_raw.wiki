@@ -1,0 +1,158 @@
+{{Multiple image
+| border = infobox
+| perrow = 1/2/1/1
+| total_width = 290
+| align = center
+| caption_align = center
+| image1 = San_Marzano_di_San_Giuseppe.jpg
+| caption1 = San Marzano
+| image2 = Chiesa San Carlo Borromeo(San Marzano di San Giuseppe).jpg
+| caption2 = Kisha e San Carlo Borromeos
+| image3 = San Marzano di San Giuseppe - Palazzo Capuzzimati.jpg
+| caption3 = Palazzo Capuzzimati
+| image4 = Chiesa San Carlo Borromeo(San Marzano di San Giuseppe).png
+| caption4 = [[Luminaria|Luminaria]] gjatë festës së shenjtit mbrojtës, Shën Jozefit
+| image5 = Wood procession (San Marzano di San Giuseppe) 2018 03.png
+| caption5 = Procesioni i [[fashina|fashinave]] gjatë festës së shenjtit mbrojtës, Shën Jozefit
+}}
+
+{| class="wikitable"
+|-
+! Komuna
+| San Marzano di San Giuseppe
+|-
+! Emri zyrtar
+| Comune di San Marzano di San Giuseppe
+|-
+! Emri në gjuhën vendëse
+| {{lang|aae|Shën Marcani}}
+|-
+! Rajoni
+| [[Pulia]]
+|-
+! Provinca
+| [[Provinca e Tarantos|Taranto]] (TA)
+|-
+! Kryetari
+| Francesco Leo
+|-
+! Sipërfaqja
+| 19 km²
+|-
+! Popullsia
+| 8.862 (31 janar 2024)
+|-
+! Demonomi
+| Sanmarzanesi
+|-
+! Dendësia
+| 
+|-
+! Lartësia
+| 134 m
+|-
+! Shenjti mbrojtës
+| [[Shën Jozefi|Shën Jozefi]]
+|-
+! Dita e festës
+| 19 mars
+|-
+! Kodi postar
+| 74020
+|-
+! Kodi telefonik
+| 099
+|-
+! Faqja zyrtare
+| [http://www.comunesanmarzano.ta.it/ comunesanmarzano.ta.it]
+|}
+
+'''San Marzano di San Giuseppe''' ({{lang|aae|Shën Marcani}}) është një qytet dhe [[Komuna (Itali)|komunë]] në [[Provinca e Tarantos|provincën e Tarantos]], në rajonin e [[Pulia|Pulisë]]. Së bashku me [[Kazallveqi|Casalvecchio di Puglia]] dhe [[Qefti|Chieuti]], është një nga bashkësitë e [[Arbëreshët në Itali|arbëreshëve]] që ekzistojnë ende në Pulia.
+
+Ekonomia mbështetet kryesisht në kultivimin e ullirit dhe të rrushit për verë.
+
+== Historia ==
+
+=== Nga neoliti deri në lashtësi ===
+
+Territori përreth San Marzanos ishte i banuar që në neolit (mijëvjeçari i pestë p.e.s.), siç dëshmojnë gjetjet e shumta. Pranë shenjtërores së Madonna delle Grazie gjenden shpella të gërmuara si varre, që datojnë nga periudha e vonë e bronzit (1300–800 p.e.s.) dhe që më vonë u përdorën sërish, në mesjetën e hershme (500–1050), si banesa nëntokësore.<ref>San Marzano di San Giuseppe - Un'isola culturale in Tera di Puglia. f. 47</ref>
+
+Në Contrada Neviera, zona pranë shenjtërores, u zbuluan mbetjet e një muri të madh, i cili mund të ketë qenë kufiri midis zonës greke (Chora Tarantina) dhe zonës vendëse (mesape) të Oria-s.<ref>San Marzano di San Giuseppe - Un'isola culturale in Tera di Puglia. f. 49</ref>
+
+Në periudhën romake (shekulli VIII p.e.s.–shekulli VII e.s.), territori i San Marzanos ndodhej në kufi me Oria Messapica dhe ishte nën juridiksionin e territorit të [[Tarenti|Tarentit]]. Në zonën e Masseria Casa Rossa gjendej një ''pagus'' (fshat). Gjithashtu, në Contrada Pezza Padula ishin gjetur shumë objekte arkeologjike, si monedha dhe mbetjet e një vile fshatare, që mund t’i përkiste një patrici.<ref>San Marzano di San Giuseppe - Un'isola culturale in Tera di Puglia. f. 51</ref>
+
+Gjetje të rastësishme varresh të periudhës së mesjetës së hershme, me pajisje funerare, si edhe disa monedha bizantine, ruhen në Muzeun Arkeologjik Kombëtar të Tarantos.<ref>{{cite web |access-date=2019-02-08 |archive-date=2019-02-09 |archive-url=https://web.archive.org/web/20190209123909/http://www.salento.com/i-comuni/san-marzano-di-san-giuseppe |title=Il comune di San Marzano di San Giuseppe |url=http://www.salento.com/i-comuni/san-marzano-di-san-giuseppe |language=it}}<!-- Nga en.wiki: auto-translated from Italian by Module:CS1 translator --></ref>
+
+=== San Marzano në mesjetë ===
+
+Dihet se zona e San Marzano di San Giuseppe ishte e banuar gjatë mesjetës. Për shkak të inkursioneve të vazhdueshme të saracenëve, që zgjatën nga shekulli VIII deri rreth vitit 1000, banorët u tërhoqën në shpellat dhe vendbanimet e shpërndara aty pranë në brendësi të vendit, ku mund të jetonin më të qetë.<ref name=":52">Casali Albanesi nel Tarentino, f. 52</ref>
+
+Për shekujt para mbërritjes së shqiptarëve, pothuajse nuk ka të dhëna për vargun e zotëruesve feudalë të San Marzanos.<ref>Cenni storici, f. 5</ref>
+
+Në vitin 1465, feudali, së bashku me Principatën e Tarantos, iu bashkua [[Mbretëria e Napolit|Mbretërisë së Napolit]] nga Joana e Aragonës, e veja e Ferdinandit I dhe trashëgimtare e principatës,<ref name=":52" /><ref name=":103">{{cite web |access-date=2019-03-12 |date=1912 |location=Roma |publisher=Italo-Orientale |title=Casali Albanesi nel Tarentino |url=https://books.google.com/books?id=M3w9AQAAMAAJ&pg=RA3-PA103 |language=it}}<!-- Nga en.wiki: auto-translated from Italian by Module:CS1 translator --></ref> dhe pjesërisht iu nda në feude të vogla familjeve që njiheshin për besnikërinë ndaj aragonezëve.<ref>Francesco Occhinegro, f. 4–19</ref>
+===Demetrio Capuzzimati dhe vendbanimi shqiptar===
+[[File:Albania Tarantina.png|thumb|left|upright=1.4|Vendndodhja e përafërt e Shqipërisë Tarentine]]
+Në fund të shekullit XV dhe në fillim të shekullit XVI, shumë fshatra të Shqipërisë Tarentine, të shkatërruara nga ushtarët e [[Skënderbeu|Gjergj Kastriot Skënderbeut]] gjatë kryengritjes së baronëve vendas (1459–1462), u rindërtuan dhe u ripopulluan nga po ata ushtarë.<ref name="arbitalia">{{cite web |access-date=7 February 2019 |title=San Marzano di San Giuseppe |url=http://www.arbitalia.it/katundet/sanmarzano/sanmarzano.storia.htm |language=it}}<!-- Nga en.wiki: auto-translated from Italian by Module:CS1 translator --></ref>
+Në fillim të shekullit XVI, feudi i San Marzanos i përkiste Stefano di Mayra di Nardò-s, zotit të fshatit [[Sava, Pulia|Sava]]. Në vitin 1504, Mayra ia shiti feudin e pabanuar Francesco Antoglietta-s, baronit të 8-të të Fragagnanos.<ref>Scipione Ammirato, p. 64</ref> Deri në vitin 1508, disa familje nga Korfuzi dhe Epiri, prej fshatit të afërt Fragagnano, ishin vendosur në pjesën e poshtme të San Marzanos.<ref>San Marzano di San Giuseppe, comunità Arbëresh, p. 5</ref>
+[[File:San Marzano di San Giuseppe-Skanderbegstatue.jpg|thumb|left|upright=0.8|Busti i udhëheqësit ushtarak shqiptar, [[Skënderbeu|Gjergj Kastriot Skënderbeut]], në San Marzano]]
+Në vitin 1530, San Marzano u ble nga [[Demetrio Capuzzimati]]. Në vitin 1536, Capuzzimati mori gjithashtu me emfiteuzë nga kleri i Tarantos feudin fqinj «de li Riezzi» (Rizzi),<ref name=":52" /><ref>Pietro Dalena, p. 60</ref> ku ndodhej Castrum Carrellum mesjetar.<ref name="storia">{{cite web |access-date=8 February 2019 |title=Cenni storici su San Marzano |url=http://www.prolocomarciana.it/index.php?option=com_k2&view=item&id=89:cenni-storici-su-san-marzano&Itemid=178 |language=it}}<!-- Nga en.wiki: auto-translated from Italian by Module:CS1 translator --></ref> Për këtë koncesion, Capuzzimati duhej t’i paguante çdo vit klerit të Tarantos 50 dukatë në pugë argjendi.<ref>San Marzano di San Giuseppe - Un'isola culturale in Tera di Puglia. p. 66</ref> Bashkimi i dy feudeve krijoi San Marzanon e sotëm. Në atë periudhë, territori ishte i banuar nga shumë familje epirote, të cilat, krahas gjuhës së tyre të origjinës, sollën në atdheun e ri zakonet, praktikat kulturore dhe besimin e tyre.<ref name="arbitalia"/> Capuzzimati nisi menjëherë ndërtimin e pallatit feudal.
+[[File: San_Marzano_di_San_Giuseppe_Arb%C3%ABresh_Schornsteine.jpg|thumb|left|upright=0.8|Shtëpi në një rrugë të San Marzanos me oxhak tradicional arbëresh]]
+
+==Gjeografia==
+[[File: Santuario Madonna Delle Grazie San Marzano 01.jpg|thumb|right|upright=1.2|Kisha në shenjtëroren e Zojës së Hireve]]
+
+San Marzano di San Giuseppe është një nga 50 komunat shqiptare të Italisë. Qyteti shtrihet në Salenton e Epërm, në një lartësi prej 134 metrash mbi nivelin e detit, në një kodër të vogël të Murgeve Tarentine. Ndodhet rreth 20 km larg detit Jon. Koordinatat e tij janë 40°27'N, 17°30'E. Rrethohet nga {{ill|Grottaglie|en|Grottaglie}}, [[Sava, Pulia|Sava]], {{ill|Fragagnano|en|Fragagnano}} dhe {{ill|Francavilla Fontana|en|Francavilla Fontana}}.
+Monumentet e San Marzanos përfshijnë kishën e ''San Carlo Borromeo'', kishën e Addolorata-s, kishën e San Gennaro-s, kishën e ''Madonna delle Grazie'' dhe kishën e ''San Giuseppe''. ''Gravina'' pranë Madonna delle Grazie është një vend i rëndësishëm arkeologjik në San Marzano. Vende të tjera me interes janë qendra historike e San Marzanos, Trullo del Brigante, Palazzo Capuzzimati dhe muralet që paraqesin punëtorët e San Marzanos dhe Masseria Casa Rossa. Në vitin 1575, San Marzano kishte 74 familje dhe 370 banorë.<ref>San Marzano di San Giuseppe - Un'isola culturale in Tera di Puglia. p. 80</ref> Në vitin 1630 kishte 250 banorë.<ref>Vincenza Musardo Talò, p. 30</ref> Në vitin 1633 kishte 75 familje.<ref>Cenni storici, p. 13</ref> Në vitin 1736 kishte 410 banorë, ndërsa në vitin 1921 kishte 3.000 banorë.<ref name=":54">Casali Albanesi nel Tarentino, p. 54</ref> Në janar 2024, popullsia e San Marzano di San Giuseppe ishte 8.862 banorë.<ref>Të dhënat e popullsisë nga [[:en:Istituto Nazionale di Statistica|Istituto Nazionale di Statistica]] [https://demo.istat.it/app/?a=2024&i=D7B ISTAT]</ref>
+
+==Arbëreshe==
+[[File: San_Marzano_di_San_Giuseppe_Platzschild.jpg|thumb|left|upright=0.9|Shenjë dygjuhëshe në italisht dhe arbërisht]]
+[[File: San_Marzano_di_San_Giuseppe_01.png |thumb|left| upright=0.9| Një tabelë e vjetër rrugore e San Marzanos në tri gjuhë (italisht, arbërisht dhe anglisht)]]
+Gjuha arbëreshe e San Marzanos rrjedh nga dialekti toskë. Fjala «arbëreshe» vjen nga Arbëri, emri i vjetër i Shqipërisë. Në të kaluarën, arbërishtja flitej në të gjitha bashkësitë shqiptare të [[Salento|Salentos]]. San Marzano është një nga tri bashkësitë arbëreshe të Pulias, të krijuara pas mërgimit të shqiptarëve nga Shqipëria në shekullin XVI. Është i vetmi vend në gadishullin e Salentos ku gjuha është ruajtur.
+Gjuha shqipe e Italisë, arbërishtja, dhe [[Gjuha shqipe|shqipja]] e Shqipërisë përdorin të njëjtin alfabet prej 36 shkronjash, me 7 zanore dhe 29 bashkëtingëllore. Megjithatë, ka dallime në shqiptimin e disa shkronjave. Alfabeti shqip u kodifikua në [[Kongresi i Manastirit|Kongresin e Manastirit]] (sot [[Manastiri (qytet)|Manastiri]], pjesë e [[Maqedonia e Veriut|Maqedonisë së Veriut]]) në vitin 1908. Në të morën pjesë 32 ekspertë nga 23 qytete, si edhe shoqata kulturore nga Shqipëria dhe pjesë të ndryshme të botës, përfshirë intelektualë italo-shqiptarë. Në shkollat fillore dhe të mesme të San Marzano di San Giuseppe zhvillohen gjithashtu kurse mësimore të arbërishtes, me synimin për ta mbajtur gjallë gjuhën dhe për t’i mësuar brezat e ardhshëm ta flasin atë.
+==Feja==
+[[File: San_Marzano_di_San_Giuseppe_Arb%C3%ABresh%C3%AB_costume01.jpg|thumb|upright=0.65|left|Një nuse me veshje tradicionale arbëreshe në San Marzano]]
+[[File:San Marzano di San Giuseppe Chiesa.jpg|thumb|right|upright=1.1|Kisha e San Carlo Borromeos]]
+Shqiptarët që u vendosën në San Marzano vinin fillimisht nga Shqipëria e Jugut dhe sollën me vete ritin fetar bizantin. Pranë kishës së sotme të San Carlo Borromeos u ndërtua, sipas zakonit grek, kisha e fermës kushtuar Shën Paraskevasë. Me bulën papnore të vitit 1536, [[Pali III|Papa Pali III]] u njohu shqiptarëve të Italisë të drejta të plota brenda Kishës Katolike.<ref>Giuseppe Maria Viscardi, f. 377</ref> Në një raport të vitit 1575 drejtuar Selisë së Shenjtë të Romës, kryepeshkopi i Tarantos, {{ill|Lelio Brancaccio|en|Lelio Brancaccio}}, i quajti shqiptarët e Shqipërisë Tarantina «njerëz pa fe dhe pa ligj». Megjithatë, më 4 maj 1578, San Marzano, një bashkësi e ritit bizantin, mori vizitën e parë baritore nga kryepeshkopi Brancaccio. Kryepeshkopin e priti Papas Demetrius Cabascia, të cilin e kishte shuguruar një mitropolit kalimtar më 1560.<ref name=":52"/>
+
+===Papasit===
+[[File:Papàs Kola Cuccia.jpg|upright=0.7|thumb|right|Papàs Kola Cuccia nga bashkësia arbëreshe e [[Contessa Entellina|Contessa Entellinës]] në Sicili]]
+Papasit (priftërinjtë e ritit grek) kryejnë martesat tradicionale arbëreshe. Papasi i pret çiftet e martuara jashtë kishës dhe i shoqëron brenda saj, ku u vendosen mbi kokat e tyre kurora të zbukuruara me shirita shumëngjyrësh.<ref>{{cite web |title= > Cenni storici sulla comunità Arbereshe|url= http://www.prolocomarciana.it/index.php?option=com_k2&view=item&id=72:cenni-storici-sulla-comunita-arbereshe-2&Itemid=114=Pro|website= Pro Loco Marciana |access-date=3 May 2024|language=it}}</ref>
+Përdorimi i kurorës dëshmohet që në shkrimet e shkrimtarit romak [[Tertuliani|Tertulianit]]. Ndonëse ky zakon u dobësua me kalimin e shekujve, rëndësia e tij në ceremonitë martesore shihet ende, dhe fjala «kurorë» vazhdoi të tregonte sakramentin e martesës.<ref name="bianca">Bianca D'Amore</ref> Gjatë [[Eukaristia|Eukaristisë]], papasit u japin të sapomartuarve nga një copë bukë, të cilën ata e hanë me radhë tri herë, si dhe një gotë verë, nga e cila pinë të dy nga tri herë. Ky zakon simbolizonte besnikërinë: askush tjetër nuk mund të pinte nga e njëjta gotë. Pas këtij riti, nusja dhe dhëndri bënin tri herë xhiron rreth altarit dhe papasi bekonte bashkimin e tyre. Në fund të ritit, papasi e hidhte në pagëzimore gotën nga e cila kishte pirë papasi. Si ogur i mirë, gota thyhej më pas.<ref>{{cite web |title= Cenni storici sulla comunità Arbereshe|url= http://www.prolocomarciana.it/index.php?option=com_k2&view=item&id=72:cenni-storici-sulla-comunita-arbereshe-2&Itemid=114=Pro|website= Pro Loco Marciana|access-date=3 May 2024|language=it}}</ref>
+
+==Festat==
+===Dita e Shën Jozefit===
+[[File:Corteo delle fascine27.jpg|thumb|left|Procesioni i tufave të druve]]
+[[File:Corteo delle fascine13.jpg|thumb|left|Procesioni i tufave të druve]]
+Në San Marzano di San Giuseppe, [[Shën Jozefi|dita e Shën Jozefit]] kremtohet që nga shekulli XVII, më 18 dhe 19 mars. Kjo datë përkon me [[Dita e babait|Ditën e Babait]] dhe me periudhën kur krasiten ullinjtë.<ref name="Festa di San Giuseppe">{{cite web |title=Festa di San Giuseppe |url=http://www.prolocomarciana.it/index.php?option=com_k2&view=item&id=82:festa-di-san-giuseppe&Itemid=153 |website=Pro Loco Marciana |access-date=3 May 2024|language=it}}</ref>
+Ditën e parë, njerëzit marrin pjesë në «Procesionin e tufave të druve». Tufat me degë ulliri transportohen në këmbë dhe me kuaj e karroca nëpër qytet. Procesioni përfundon me ndezjen e një zjarri të madh.
+
+Legjenda vendore që shpjegon festimin me zjarrin tregon për një rast të vitit 1866, kur, për shkak të temperaturave të ulëta dhe kushteve të vështira, bashkësia vendore vendosi të mos ndizte zjarr për nder të shenjtorit mbrojtës. Më pas, gjatë natës midis 17 dhe 18 marsit, një stuhi shkatërroi të mbjellat. Vendasit besuan se kjo ishte ndëshkim nga Shën Jozefi për mosndezjen e zjarrit; që atëherë, një zjarr i madh u bë pjesa qendrore e kremtimeve.<ref name="Festa di San Giuseppe"/>
+
+===Mattret dhe tryezat e Shën Jozefit===
+[[File:Pane_san_giuseppe.jpg|thumb|right|upright=1|Buka e Shën Jozefit]]
+Mëngjesin e ditës së dytë, para procesionit kushtuar shenjtorit mbrojtës, përgatiten ''mattre'' (tryeza për të varfrit), të cilat bekohen nga famullitari. Fillimisht, ''mattret'' u ofroheshin bashkësive më të varfra të qytetit, por sot zakonisht u ofrohen të gjithëve, përfshirë turistët. Përgatiten gjithashtu Tryezat e Shën Jozefit, që i referohen [[Darka e Fundit|Darkës së Fundit]]. Përgatiten trembëdhjetë bukë dhe vendosen mbi tryeza.<ref name="Festa di San Giuseppe"/>
+
+===Zoja e Hireve===
+[[File: Mattre (San Marzano di San Giuseppe)04.jpg|thumb|right|upright=1|''Mattret'']]
+Përveç festës së Shën Jozefit, më 1 dhe 2 korrik kremtohet edhe festa e Zojës së Hireve (Maria Santissima delle Grazie). Festa mbahet pranë Shenjtërores së Zojës së Hireve, e cila mban emrin e vetë shenjtores. Autoritetet civile dhe fetare të San Marzanos marrin pjesë në një pelegrinazh nga qendra e qytetit deri te shenjtërorja.<ref>{{cite web |title=Festa Madonna delle Grazie|url=https://prolocomarciana.it/index.php?option=com_k2&view=item&id=81:festa-madonna-delle-grazie&Itemid=153|website=Pro Loco Marciana |access-date=3 May 2024|language=it}}</ref>
+
+===Festivali MED===
+Në gusht mbahet Festivali MED, i cili kremton verën, ushqimin dhe kulturën e qytetit.<ref>{{cite web |title=MED Festival Puglia|url= https://medfestivalpuglia.it/lidea/|website=Pro Loco Marciana |access-date=3 May 2024|language=it}}</ref>
+==Ekonomia==
+[[File: San_Marzano_Borsci.png|thumb|left|upright=0.4|San Marzano Borsci]]
+Ekonomia mbështetet kryesisht te prodhimi i rrushit dhe ullinjve.
+
+Distileria e familjes Borsci ka prodhuar prej kohësh një liker të quajtur Elisir San Marzano Borsci. Familja Borsci ishte me origjinë nga [[Borshi]] (në [[Lukova]], Shqipëri), por u shpërngul në [[Pulia]] gjatë Mesjetës. Më 1840, distiluesi arbëresh Giuseppe Borsci, duke u bazuar në një recetë të trashëguar nga paraardhësit e tij, nisi prodhimin e likerit. Në shekullin XX, në lagjen Paolo VI të [[Tarenti]]t u ngrit një distileri. Kompania e familjes Borsci pësoi vështirësi gjatë [[Kriza financiare 2007-2008|krizës financiare të viteve 2007–2008]]; si pasojë, iu dha me qira kompanive nga Ostuni dhe Brescia dhe shpalli falimentimin më 2012. Më 2013, Distilerisë Caffo iu dha me qira biznesi i markës Borsci. Më 2017, likeri u bë pronë e Caffo-s. Edhe sot, pjesëtarë të familjes Borsci punojnë për kompaninë dhe vazhdojnë traditën familjare.<ref>{{cite web |title= Elisir San Marzano Borsci è diventato di proprietà Gruppo Caffo 1915|url= https://www.bargiornale.it/bar-trend/elisir-san-marzano-borsci-e-di-proprieta-del-gruppo-caffo/|website= bargiornale.it |access-date=2024-05-03 |language=it}}</ref>
+
+Cantine San Marzano prodhon verë nga vreshtat vendase. Kantina u krijua më 1962, kur 19 prodhuesit e verës të San Marzanos u bashkuan për të prodhuar verëra të reja. [[Terroiri|Terroiri mesdhetar]] luan rol të rëndësishëm në prodhimin e rrushit puliez Primitivo dhe Negroamaro.<ref>{{cite web |title=Company |url=https://sanmarzano.wine/en/company/|website=Cantine San Marzano |access-date=2024-05-03 |language=en}}</ref>
+
+San Marzano kultivon gjithashtu ullinj për prodhimin e vajit, veçanërisht të vajit ekstra të virgjër të ullirit.
+
+==Referime==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Kategoria:Vendbanime arbëreshe]]
+[[Kategoria:Qytete dhe qyteza në Pulia]]
+[[Kategoria:Vendbanime të Salentos]]

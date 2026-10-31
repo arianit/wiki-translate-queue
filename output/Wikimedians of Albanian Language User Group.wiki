@@ -1,0 +1,152 @@
+{{/info}}
+'''"[[metawiki:Wikimedians_of_Albanian_Language_User_Group|Wikimedians of Albanian Language User Group]]"''' ose '''"Grupi i përdoruesve - Wikimedianët e gjuhës shqipe"''' janë një grup përdoruesish i krijuar nga komuniteti shqiptar i projekteve të Wikimedia, të cilët janë të interesuar të rrisin cilësinë dhe sasinë e përmbajtjes dhe materialit multimedial në [[Wikipedia shqip]]. Ne synojmë ta bëjmë këtë përmes programeve arsimore, punëtorive dhe redaktimeve, garave online/offline, dhe bashkëpunimeve interesante me institucione GLAM në të gjithë Ballkanin.
+
+==Objektivat==
+Ne punojmë në programet e mëposhtme:
+=== Programi i Edukimit ===
+* formimi i bashkëpunimeve me institucione edukativo-arsimore;
+* rritja e mbështetjes në redaktimin e projekteve të Wikimedia;
+* përfshirja e nxënësve në projektet e Wikimedia;
+* rritja e sasisë së përmbajtjes në projektet e Wikimedia (veçanërisht Wikipedia dhe Wikimedia Commons);
+* përfshirja e mësimdhënësve në projektet e Wikimedia;
+=== GLAM ===
+* formimi i bashkëpunimeve me institucione GLAM (Galeri, Biblioteka, Arkiva, Muze);
+* vetdijësimi i institucioneve GLAM për projektet Wikimedia si mjet mbështetës për misionin e tyre;
+* pasurimi i Wikipedia me përmbajtje të re;
+=== Aktivitetet e hapura dhe Outreach ===
+* rritja e numrit të fotografive të lira të ndërlidhura me monumentet kulturore dhe natyrore të Shqipërisë dhe Kosovës në Wikimedia Commons;
+* rritja e numrit të artikujve në Wikipedia të ndërlidhura me këto monumente;
+* promovimi i misionit të Wikimedia-s dhe rritja e vetdijësimit për projektet e saja te shqipfolësit;
+* promovimi i konceptit të njohurisë së lirë;
+* rekrutimi i vullnetarëve dhe anëtarëve të rinj të komunitetit;
+* bashkëpunime me grupe përdoruesish në regjionin CEE (Evropa Qendrore-Lindore);
+=== Diversiteti ===
+Vazhdimi i projekteve si [[Wikipedia:WikiProjekti LGBT|WikiProjekti LGBT]] dhe WikiGrate, me nënprojektet e tij si [[Wikipedia:WikiProjekti Women in Red|WomenInRed]].
+
+=== Wikidata ===
+Ne kemi punuar për të mbuluar përmbajtjen e Wikidata-s për gjuhën shqipe, të cilën aktualisht e mbulojmë [https://www.wikidata.org/w/index.php?title=User%3APasleim%2FLanguage_statistics_for_items&type=revision&diff=693850863&oldid=499571055 42% në 12 muajt e fundit].
+
+==Aktivitetet==
+Ju lutemi referojuni kësaj [[:meta:Wikimedians of Albanian Language User Group/activities|faqe]] për një pasqyrë të plotë të aktiviteteve tona.
+
+Më shumë mund të gjenden gjithashtu në raportet tona vjetore, si dhe planin për vitin aktualː
+# [[:meta:Wikimedians of Albanian Language User Group/2015-2016 Report|2015-2016]]
+# [[:meta:Wikimedians of Albanian Language User Group/2016-2017 Report|2016-2017]]
+# [[:meta:Wikimedians of Albanian Language User Group/2017-2018 Report|2017-2018]]
+# [[:meta:Grants:Simple/Applications/Wikimedians of Albanian Language User Group/2019|2019]]
+# [[:meta:Grants:Simple/Applications/Wikimedians of Albanian Language User Group/2020|2020]]
+# [[:meta:Grants:Simple/Applications/Wikimedians of Albanian Language User Group/2021|2021]]
+# [[:meta:Grants:Simple/Applications/Wikimedians of Albanian Language User Group/2022|2022]]
+# [[:meta:Grants:Programs/Wikimedia Community Fund/WoALUG 2023 Annual Plan Activities|2023]] (plani)
+# [[:meta:Grants:Programs/Wikimedia Community Fund/General Support Fund/WoALUG 2024-2025 Biennial Plan of Activities|2024-2025]]
+# [[:meta:Grants:Programs/Wikimedia Community Fund/General Support Fund/WoALUG 2026–2028 Multi-Year Plan of Activities|2026-2028]]
+
+==Njerëzit e përfshirë==
+===Bordi===
+<gallery mode=packed heights=150px>
+Photo portrait arianit.jpg|[[User:Arianit|Arianit Dobroshi]], Anëtar i Bordit - Prishtinë
+Day 1 - WikiDivCon (14) (cropped).jpg|[[User:Margott|Margott]], Anëtare e Bordit - Tiranë
+Liridon S.jpg|[[User:Liridon|Liridon Selmani]], Anëtar i Bordit - Strugë
+</gallery>
+
+===Stafi===
+<gallery mode=packed heights=150px>
+Era PM Kosovo.png|[[User:Eraqena|Era Qena]], Menaxhere Projekti për Kosovën
+</gallery>
+
+====Plani i stafit====
+Që nga janari i vitit 2021 kemi dy Menaxherë Projektesh të punësuar, njëri për Kosovën dhe tjetri për Shqipërinë.
+
+Për të zbatuar programin, detyrat dhe përgjegjësitë e Menaxherit të Projektit janë:
+* identifikimi dhe koordinimi i aktiviteteve, afateve dhe buxhetit për t'u zbatuar brenda kërkesës për grant të programit;
+* krijimi i rrjeteve, kërkimi dhe kontaktimi i institucioneve, organizatave dhe individëve për të krijuar bashkëpunime dhe partneritete të mëtejshme;
+* menaxhimi i aktiviteteve, shpërndarja e burimeve, koordinimi dhe organizimi i detyrave brenda afateve kohore;
+* organizimi i eventeve dhe aktiviteteve të tjera promovuese;
+* zhvillimi dhe zbatimi i një plani komunikimi për Grupin e Përdoruesve;
+* dërgimi i njoftimeve për shtyp, kontaktimi me median dhe menaxhimi i marketingut në mediat sociale për të promovuar eventet, grupin e përdoruesve dhe konceptin e njohurisë së lirë të Wikipedia-s;
+* zhvillimi dhe monitorimi i raporteve, propozimeve, prezantimeve dhe dokumentacioneve të tjera të grupit të përdoruesve;
+* administrimi i buxhetit, duke ekzekutuar, monitoruar dhe regjistruar shpenzimet;
+
+==Si të bëheni anëtar==
+Anëtarësimi në Grupin tonë të Përdoruesve është një proces i thjeshtë dhe që vlen ta bësh.
+
+Hapat për t'u bërë anëtar:
+
+'''Shprehni interesin'''
+
+Kontaktoni me ne duke shprehur interesin tuaj për t'u bërë anëtar. Këtë mund ta bëni përmes email-it ose duke marrë pjesë në një nga eventet tona.
+
+'''Merrni pjesë në një event'''
+
+Merrni pjesë në një takim fizik ose event të organizuar nga grupi ynë. Kjo është një mundësi për të njohur anëtarët aktualë dhe për ta kuptuar komunitetin tonë.
+
+'''Angazhim aktiv'''
+
+Merrni pjesë aktivisht në aktivitetet tona dhe kontribuoni në projektet e Wikimedia-s që lidhen me Shqipërinë/Kosovën.
+
+'''Anëtarësimi'''
+
+Regjistrohuni si anëtar i Grupit tonë të Përdoruesve duke u nënshkruar te faqja e '''[[/Anëtarët|anëtarëve]]'''.
+
+==Rregullat==
+'''Pjesëmarrja'''
+
+Çdokush mund të bashkohet me grupin tonë të përdoruesve, madje edhe ata që nuk kanë një llogari në një projekt Wikimedia. Të sapoardhurit jo vetëm që janë të mirëpritur, por edhe inkurajohen të marrin pjesë në ngjarjet dhe aktivitetet tona si anëtarë me periudhë prove.
+Sidoqoftë, për të marrë pjesë si një anëtar i plotë në WOALUG dhe për të qenë në gjendje të përdorni fondet tona, ju duhet:
+
+* të keni marrë pjesë fizikisht në një nga takimet tona të përdoruesve, të zhvilluara në qytete/vende të ndryshme në Shqipëri/Kosovë, ose të keni takuar personalisht një nga anëtarët e grupit të përdoruesve;
+* të angazhoheni aktivisht në projekte në Shqipëri/Kosovë, duke marrë pjesë në evente, prezantime, punëtori dhe duke mbështetur nevojat funksionale të Grupit. Pjesëmarrja aktive është thelbësore — mosdhënia e kontributit mund të rezultojë në humbjen e së drejtës për të marrë pjesë në vendimmarrje dhe në qasjen te burimet e grupit;
+
+Pjesëmarrja nuk lejohet nëse qëndrimet ose veprimet tuaja bien ndesh me vlerat thelbësore të WMF-së, krijojnë pengesa për projektet e WMF-së, ose janë me keqbesim brenda Grupit të Përdoruesve.
+
+''Nëse drejtoni një projekt të sponsorizuar, duhet t'i dërgoni të gjitha faturat në kohë, në përputhje me shpenzimet që keni kërkuar paraprakisht.''
+
+'''Miratimi i Grupit të Përdoruesve'''
+* [[:meta:Affiliations Committee/Resolutions/Wikimedians of Albanian Language User Group - Liaison approval, July 2015|Njohja]]
+
+==Kodi Universal i Sjelljes==
+Kodi Universal i Sjelljes shërben si një kuadër udhëzues për sjelljen dhe bashkëpunimin në të gjitha projektet e Wikimedia-s në mbarë botën. Ai përfshin politika që respektojnë zakonet dhe kulturat lokale. Ky kod zbatohet për çdo Wikimedian, pa përjashtim, si në ambiente online ashtu edhe offline (fizikisht), përfshirë eventet e organizuara nga Grupi ynë i Përdoruesve.
+
+Respektimi i këtij kodi siguron një mjedis të respektueshëm dhe gjithëpërfshirës për të gjithë. Shkeljet mund të çojnë në sanksione, të administruara nga zyrtarë të caktuar ose nga Wikimedia Foundation, kujdestari ligjor i platformës.
+
+Për një kuptim të plotë të Kodit tonë të Sjelljes, ju lutemi referojuni dokumentit të plotë. E kemi përkthyer edhe në shqip për lehtësinë e anëtarëve të komunitetit tonë. Shikojeni [[foundation:Special:MyLanguage/Policy:Universal Code of Conduct/Enforcement guidelines/sq|këtu]].
+
+==Kontaktet dhe media sociale==
+'''Na kontaktoni'''
+
+Për pyetje dhe informacione rreth Wikimedians of Albanian Language User Group, mos hezitoni të na kontaktoni në [mailto:info@wikimediashqip.org info@wikimediashqip.org].
+
+'''Lidhuni me ne'''
+
+Qëndroni të përditësuar me aktivitetet dhe diskutimet tona më të fundit që lidhen me projektet e Wikimedia-s:
+
+* Bashkohuni me kanalin tonë publik në '''[https://t.me/wikipedianet Telegram]''' (kryesisht në shqip) për t'u angazhuar me komunitetin tonë.
+* Na ndiqni në [https://www.facebook.com/SQWikimediansUG/ '''Facebook'''] për përditësime dhe njohuri.
+* Na gjeni në [https://twitter.com/SQWikimediansUG '''Twitter'''] për lajme dhe njoftime eventesh në kohë reale.
+* Zbuloni më shumë në [https://www.instagram.com/sqwikimediansug/ '''Instagram'''] për pamje vizuale nga puna jonë.
+
+==Përdorimi i pajisjeve==
+'''Pajisjet në dispozicion'''
+
+Grupi i Përdoruesve (UG) ofron pajisjet e mëposhtme:
+* Laptopë
+* Projektor portativ
+* Kamerë
+* Dron
+
+'''Ruajtja dhe disponueshmëria'''
+
+Të gjitha pajisjet ruhen në dy vendndodhje të caktuara:
+# Prishtina Hackerspace, Kosovë
+# Elbasan, Tiranë
+
+'''Përdorimi i synuar'''
+
+Këto pajisje janë të destinuara kryesisht për aktivitetet e WoALUG-ut, përfshirë edit-a-thon-e dhe evente të tjera bashkëpunuese.
+
+'''Rregullat e prioritetit dhe përdorimit'''
+* Përparësi do t'u jepet aktiviteteve të planifikuara e të organizuara nga WoLAUG.
+* Për përdorimin e pajisjeve, do të zbatohet parimi "kush vjen i pari, shërbehet i pari".
+* Në rast mosmarrëveshjesh ose konfliktesh rreth ndarjes së pajisjeve, UG do të marrë vendimin përfundimtar.
+
+[[Kategoria:Wikimedians of Albanian Language User Group| ]]

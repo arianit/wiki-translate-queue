@@ -1,0 +1,965 @@
+{{Short description|Monedha e Bashkimit Evropian}}
+{{Ky artikull|monedhën}}
+{{Redirect|EUR}}
+{{Redirect|Euros|përdorime të tjera||}}
+
+{{Use British English|date=March 2013}}
+{{Use dmy dates|date=March 2021}}
+{{Infobox currency
+| name
+| Euro
+| local_name
+| {{Nobold|1=shih edhe {{ill|Gjuha dhe euro|en|Language and the euro|lt=''euro'' në gjuhë të ndryshme}}}}
+| image_1
+| Euro Series Banknotes (2019) - centered.png
+| image_width_1
+| 250px
+| image_title_1
+| [[Kartëmonedhat Euro|Kartëmonedhat euro]] (ana e përparme)
+| iso_code
+| EUR
+| subunit_name_1
+| [[Centi (monedhë)|cent]]
+| unit
+| euro
+| plural
+| Ndryshon, shih {{ill|Gjuha dhe euro|en|Language and the euro}} <!-- Nga en.wiki: Please do not change to "euro" or "euros", see the article that explains why there is no single answer, even in English. -->
+| symbol
+| [[Simboli i Euros|€]]
+| symbol_subunit_1
+| c
+| frequently_used_banknotes
+| [[Kartëmonedha 5 euro|€5]], [[Kartëmonedha 10 euro|€10]], [[Kartëmonedha 20 euro|€20]], [[Kartëmonedha 50 euro|€50]], [[Kartëmonedha 100 euro|€100]]<ref name="Circulation_report">{{cite web |url=http://sdw.ecb.europa.eu/reports.do?node=1000004111 |title=ECB Statistical Data Warehouse, Reports>ECB/Eurosystem policy>Banknotes and coins statistics>1.Euro banknotes>1.1 Quantities |publisher=Banka Qendrore Evropiane |access-date=2019-04-15 |archive-date=2021-01-12 |archive-url=https://web.archive.org/web/20210112140055/https://sdw.ecb.europa.eu/reports.do?node=1000004111 |language=en}}</ref>
+| rarely_used_banknotes
+| [[Kartëmonedha 200 euro|€200]], [[Kartëmonedha 500 euro|€500]]{{efn|Kartëmonedha 500 euro është ndërprerë, por mbetet mjet ligjor pagese.}}<ref name="Circulation_report"/>
+| frequently_used_coins
+| 1c, 2c, 5c, 10c, 20c, 50c, €1, €2
+| rarely_used_coins
+| 1c, 2c ([[Belgjika]], [[Estonia]], [[Finlanda]], [[Republika e Irlandës|Irlanda]], [[Italia]], [[Lituania]], [[Holanda]], [[Sllovakia]])<ref>{{cite web|last1=Walsh|first1=Alistair|access-date=2019-11-04|title=Italy to stop producing 1- and 2-cent coins |url=https://www.dw.com/en/italy-to-stop-producing-1-and-2-cent-coins/a-39020206|date=2017-05-29|publisher=[[Deutsche Welle]]|language=en}}</ref><ref>{{cite web|access-date=2023-12-17|title=Po 1. júli 2022 budú končiť na Slovensku jedno a dvojcentové mince (Monedhat një dhe dy centëshe do të ndalen në Slovaki pas 1 korrikut 2022) |url=https://www.bystricoviny.sk/spravy/po-1-juli-2022-budu-koncit-na-slovensku-jedno-a-dvojcentove-mince/|date=2017-05-29|website=bystricoviny.sk|language=sk}}</ref><ref>{{Cite web |title=Euro kasutusele võtmise ja eurodes tehtavate sularahamaksete arveldamise seadus–Riigi Teataja (Ligji për futjen e euros dhe për kryerjen e pagesave me para në dorë në euro–Riigi Teataja) |url=https://www.riigiteataja.ee/akt/130052024016 |access-date=2024-12-29 |website=www.riigiteataja.ee |language=et}}</ref><ref>{{Cite web |title=Paverskite smulkias monetas istorijos dalimi: proginė moneta, skirta gynybai, laukia Jūsų! (Shndërroni monedhat e vogla në pjesë të historisë: monedha përkujtimore kushtuar mbrojtjes ju pret!) |url=https://www.lb.lt/lt/paverskite-smulkias-monetas-istorijos-dalimi-progine-moneta-skirta-gynybai-laukia-jusu |date=2025-04-11 |access-date=2025-05-01 |website=Bank of Lithuania |language=lt}}</ref>
+| subunit_ratio_1
+| {{Frac|100}}
+| subunit_inline_note_1
+| ({{ill|Gjuha dhe euro|en|Language and the euro|lt=Emri ndryshon sipas gjuhës}})
+| plural_subunit_1
+| ({{ill|Gjuha dhe euro|en|Language and the euro|lt=Ndryshon sipas gjuhës}})
+| banknote_article
+| Kartëmonedhat euro
+| coin_article
+| Monedhat euro
+| using_countries
+| kryesore: [[#Eurozone_members|§&nbsp;anëtarët e Eurozonës]] (21),<br/>gjithashtu: [[#Other users|§&nbsp;përdorues të tjerë]]
+| date_of_introduction
+| {{Start date and age|1999|1|1|df=y}}
+| replaced_currency
+| {{ill|Njësia Monetare Evropiane|en|European Currency Unit}}
+| issuing_authority
+| [[Banka Qendrore Evropiane]]
+| issuing_authority_website
+| {{URL|https://www.ecb.europa.eu}}
+| printer
+| shih {{Section link|Euro|Shtypja e kartëmonedhave|nopage=y}}
+| mint
+| {{ill|Lista e vendeve të prerjes së euros|en|List of euro mints|lt=Lista e vendeve të prerjes}}
+| inflation_rate
+| 3,8% (shtator 2026)<ref>{{cite web | url=https://chart.euro-area-statistics.org/inflation/0-0/U2/2020-2100/?lg=en |website=Banka Qendrore Evropiane | title=Inflation rate (HICP) |language=en}}</ref><ref>{{Cite web |title=European Central Bank |url=https://www.ecb.europa.eu/home/html/index.en.html |access-date=2026-10-02 |website=ECB |language=en}}</ref>
+| pegged_by
+| shih [[#Currencies pegged to the euro|§&nbsp;Monedhat e lidhura me euron]]
+| inflation_source_date
+| [https://ec.europa.eu/eurostat/statistics-explained/index.php/Inflation_in_the_euro_area ec.europa.eu]
+| inflation_method
+| HICP
+}}
+
+'''Euro''' (simboli: [[Simboli i Euros|€]]; kodi i monedhës: '''EUR''') është [[Valuta|monedha]] zyrtare e 21 prej [[Shtetet anëtare të Bashkimit Evropian|shteteve anëtare]]
+[[Shtetet anëtare të Bashkimit Evropian|Shtetet anëtare]] të [[Bashkimi Evropian|Bashkimit Evropian]]. Ky grup shtetesh njihet zyrtarisht si zona e euros, e quajtur më shpesh [[Eurozona]]. Çdo euro ndahet në 100 [[Centi (monedhë)|centë]].<ref name="EC Euro Area">{{cite web |url=http://ec.europa.eu/economy_finance/euro/index_en.htm |title=The euro |access-date=2019-01-02 |work=European Commission website |language=en}}</ref><ref name="EC Euro1 euro cent coin Area 2">{{cite web |access-date=2019-01-02 |title=What is the euro area? |url=https://ec.europa.eu/info/business-economy-euro/euro-area/what-euro-area_en |website=European Commission website |language=en}}</ref>{{efn|Termi ''eurocent'' përdoret ndonjëherë, por nuk ka status zyrtar dhe nuk përdoret në [[Monedha 1 eurocent|monedhat 1 eurocent]].}}
+
+<!-- Nga en.wiki: Per [[WP:LEAD]], this is a summary, please do not change it. The territories concerned are listed in the body of the article. -->Monedha përdoret zyrtarisht edhe nga [[Institucionet e Bashkimit Evropian|institucionet e Bashkimit Evropian]], nga {{ill|Statusi ndërkombëtar dhe përdorimi i euros|en|International status and usage of the euro|lt=katër mikroshtete evropiane}} që nuk janë anëtare të BE-së,<ref name="EC Euro1 euro cent coin Area 2" /> nga një territor britanik përtej detit, si edhe në mënyrë të njëanshme nga dy shtete evropiane që nuk janë anëtare të BE-së. Jashtë Evropës, një numër territoresh të posaçme të shteteve anëtare të BE-së e përdorin gjithashtu euron si monedhë të tyre.<!-- Nga en.wiki: Per [[WP:LEAD]], this is a summary, please do not change it. The territories concerned are listed in the body of the article. -->
+
+Euroja përdoret nga 358 milionë njerëz në [[Eurozona|zonën e euros]],<ref>{{cite web|url=https://www.ecb.europa.eu/euro/html/index.en.html |title=Overview of the euro|date=January 2026 |publisher=Banka Qendrore Evropiane|language=en}}</ref><ref>{{cite web|url=https://ec.europa.eu/eurostat/databrowser/view/tps00001/default/table?lang=en |title=Population on 1 January|publisher=Eurostat|language=en}}</ref> si edhe nga banorët e shteteve dhe territoreve ku euroja është e vetmja monedhë zyrtare. Për më tepër, mbi 200&nbsp;milionë njerëz në mbarë botën përdorin monedha të lidhura me euron. Ajo është {{ill|Monedha rezervë|en|Reserve currency|lt=monedha e dytë më e madhe rezervë}} dhe monedha e dytë më e tregtuar në botë, pas [[Dollari i Shteteve të Bashkuara|dollarit amerikan]].<ref>{{cite web|title=IMF Data – Currency Composition of Official Foreign Exchange Reserve – At a Glance|publisher=International Monetary Fund|url=http://data.imf.org/?sk=E6A5F467-C14B-4AA8-9F6D-5A09EC4E62A4|date=2022-12-23|access-date=2023-01-11|language=en}}</ref><ref>{{cite web |title=Foreign exchange turnover in April 2013: preliminary global results |url=http://www.bis.org/publ/rpfx13fx.pdf |publisher=Bank for International Settlements |access-date=2015-02-07|language=en}}</ref><ref>{{cite web|url=http://www.bis.org/publ/rpfxf07t.pdf |title=Triennial Central Bank Survey 2007 |publisher=BIS |date=2007-12-19 |access-date=2009-07-25|language=en}}</ref> {{As of|2019|12|post=,}} me më shumë se 1,3&nbsp;trilionë € në qarkullim, euroja ka një nga vlerat e përgjithshme më të larta në botë të kartëmonedhave dhe monedhave në qarkullim.<ref>{{cite web |url=http://sdw.ecb.europa.eu/reports.do?node=1000004112 |title=1.2 Euro banknotes, values |access-date=2020-01-23 |publisher=European Central Bank Statistical Data Warehouse |date=2020-01-14 |archive-date=2021-11-22 |archive-url=https://web.archive.org/web/20211122065037/https://sdw.ecb.europa.eu/reports.do?node=1000004112 |language=en}}</ref><ref>{{cite web|url=http://sdw.ecb.europa.eu/reports.do?node=1000004114|title=2.2 Euro coins, values|access-date=2020-01-23|publisher=European Central Bank Statistical Data Warehouse|date=2020-01-14|archive-date=2021-11-22|archive-url=https://web.archive.org/web/20211122070136/https://sdw.ecb.europa.eu/reports.do?node=1000004114|language=en}}</ref>
+
+Emri ''euro'' u miratua zyrtarisht më 16 dhjetor 1995 në [[Madridi|Madrid]].<ref name="madrid1995">{{cite web|url=http://www.europarl.europa.eu/summits/mad1_en.htm |title=Madrid European Council (12/95): Conclusions |publisher=European Parliament |access-date=2009-02-14|language=en}}</ref> Euroja u prezantua në tregjet financiare botërore si {{ill|Njësia e llogarisë|en|Unit of account|lt=monedhë kontabël}} më 1 janar 1999, duke zëvendësuar {{ill|Njësia Monetare Evropiane|en|European Currency Unit|lt=Njësinë Monetare Evropiane}} (ECU) me kursin 1:1. [[Monedhat Euro|Monedhat]] dhe [[Kartëmonedhat Euro|kartëmonedhat e euros]] fizike hynë në qarkullim më 1 janar 2002, duke u bërë monedha e përditshme e përdorimit për anëtarët fillestarë; deri në mars 2002, euroja i kishte zëvendësuar plotësisht monedhat e mëparshme.<ref>{{cite web|url=http://www.ecb.int/euro/changeover/2002/html/index.en.html|title=Initial changeover (2002)|publisher=European Central Bank|access-date=2011-03-05|language=en}}</ref>
+
+Para dhjetorit 2002, euroja tregtohej nën barazi me dollarin amerikan; që atëherë, ajo është tregtuar afër ose mbi barazi. Më 13 korrik 2022, të dyja monedhat arritën shkurtimisht barazinë për herë të parë pas gati dy dekadash, pjesërisht për shkak të [[Pushtimi rus i Ukrainës|pushtimit rus të Ukrainës]].<ref name="NYTimes-2022">{{Cite news |date=2022-07-12 |title=Euro Falls Near Parity With Dollar, a Threshold Watched Closely by Investors |work=The New York Times |url=https://www.nytimes.com/2022/07/12/business/euro-dollar-parity.html |access-date=2022-07-13 |issn=0362-4331|language=en}}</ref> Në dhjetëvjeçarin që përfundoi më 30 shtator 2025, kursi mesatar ishte rreth 1,00 $ për 0,89 €.<ref>{{cite web |title=US Dollar to Euro Exchange Rate Chart |website=XE.com |url=https://www.xe.com/en-gb/currencycharts/?from=USD&to=EUR&view=10Y |access-date=2025-10-01|language=en}}</ref><ref>{{Cite journal |title=US dollar (USD) |url=https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html |website=European Central Bank|language=en}}</ref>
+
+== Karakteristikat ==
+=== Administrimi ===
+{{Hatnote|Shih edhe: {{ill|Euro#Përdorimi i drejtpërdrejtë dhe i tërthortë|en|Euro#Direct and indirect use}}}}
+[[File:Seat of the European Central Bank and Frankfurt Skyline at dawn 20150422 1.jpg|thumb|260px|Selia e [[Banka Qendrore Evropiane|Bankës Qendrore Evropiane]] në [[Frankfurti mbi Majn|Frankfurt]], [[Gjermania]]]]
+
+Euro menaxhohet dhe administrohet nga [[Banka Qendrore Evropiane]] dhe {{ill|Eurosistemi|en|Eurosystem}}, i përbërë nga [[Banka qendrore|bankat qendrore]] e vendeve të eurozonës.<ref>{{cite web |title=The Euro |url=https://www.ecb.europa.eu/euro/html/index.en.html |website=European Central Bank |access-date=2023-10-04 |language=en}}</ref> Si bankë qendrore e pavarur, BQE-ja ka autoritet të vetëm për caktimin e [[Politika monetare|politikës monetare]].<ref>{{cite web |title=Treaty on the Functioning of the European Union |url=https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A12012E%2FTXT |website=EUR-Lex |access-date=2023-10-04 |language=en}}</ref> Eurosistemi merr pjesë në printimin, prerjen dhe shpërndarjen e [[Kartëmonedhat Euro|kartëmonedhave euro]] dhe të [[Monedhat Euro|monedhave]] në të gjitha shtetet anëtare,<ref>{{cite web |title=Banknotes and Coins |url=https://www.ecb.europa.eu/euro/notes_coins/html/index.en.html |website=European Central Bank |access-date=2023-10-04 |language=en}}</ref> si dhe në funksionimin e sistemeve të pagesave të eurozonës.<ref>{{cite web |title=Payment Systems |url=https://www.ecb.europa.eu/paym/html/index.en.html |website=European Central Bank |access-date=2023-10-04 |language=en}}</ref>
+
+Me ratifikimin e [[Traktati i Mastrihtit|Traktatit të Mastrihtit]] të vitit 1992 (ose të {{ill|Traktat i Anëtarësimit|en|Treaty of Accession|lt=traktateve të anëtarësimit}} të mëvonshme), shumica e shteteve anëtare të BE-së u angazhuan të miratojnë euron pasi të përmbushin disa {{ill|Kriteret e konvergjencës së euros|en|Euro convergence criteria|lt=kritere të konvergjencës}} monetare dhe buxhetore, megjithëse jo të gjitha shtetet pjesëmarrëse e kanë bërë këtë. Danimarka ka negociuar përjashtime,<ref>{{cite web|title=The Euro |publisher=European Commission|url=http://ec.europa.eu/economy_finance/euro/index_en.htm |access-date=29 January 2009 |language=en}}</ref> ndërsa Suedia (që iu bashkua BE-së në vitin 1995, pas nënshkrimit të Traktatit të Mastrihtit) e refuzoi euron në një {{ill|Referendumi suedez për euron i vitit 2003|en|2003 Swedish euro referendum|lt=referendum jopërcaktues të vitit 2003}} dhe e ka anashkaluar angazhimin për miratimin e euros duke qëndruar jashtë {{ill|Mekanizmi Evropian i Kursit të Këmbimit|en|European Exchange Rate Mechanism|lt=Mekanizmit Evropian të Kursit të Këmbimit}} (ERM II). Të gjitha vendet që iu bashkuan BE-së që nga viti 1993 janë zotuar të miratojnë euron në kohën e duhur. Traktati i Mastrihtit u ndryshua me [[Traktati i Nicës (BE)|Traktatin e Nicës]] të vitit 2001, i cili mbylli boshllëqet dhe të çarat në traktatet e Mastrihtit dhe të Romës.<ref>{{cite web |last1=Nice |first1=Treaty of |title=Treaty of Nice |url=https://www.europarl.europa.eu/about-parliament/en/in-the-past/the-parliament-and-the-treaties/treaty-of-nice |website=About Parliament |publisher= European Parliament |access-date=7 May 2021 |language=en}}</ref>
+
+== Vendet që përdorin euron ==
+{{Hatnote|Shih: {{ill|Euro#Përdorimi i drejtpërdrejtë dhe i tërthortë|en|Euro#Direct and indirect use}}}}
+Euro është monedha zyrtare e 44 vendeve dhe territoreve: <!-- Nga en.wiki: This is a list of countries and territories where the euro is legal tender. It does not include countries and territories widely accept the euro unofficially or tourist destinations where shops and hotels accept it (or even prefer it) for payment. -->
+
+=== Anëtarët e eurozonës ===
+{{Kryesor|Eurozona}}
+21 anëtarët pjesëmarrës janë:<br />
+{{Colbegin|colwidth=10em}}
+* Austria
+* Belgjika
+* Bullgaria
+* Kroacia
+* Qiproja{{Efn|duke përjashtuar [[Qiproja Veriore]]}}
+* Estonia
+* Finlanda
+* Franca{{Efn|duke përjashtuar [[Polinezia franceze]], [[Kaledonia e Re]] dhe [[Wallis dhe Futuna]]}}
+* Gjermania
+* Greqia
+* Irlanda
+* Italia
+* Letonia
+* Lituania
+* Luksemburgu
+* Malta
+* Holanda{{Efn|duke përjashtuar {{ill|Karaibet Holandeze|en|Dutch Caribbean}}}}
+* Portugalia
+* Sllovakia
+* Sllovenia
+* Spanja
+{{Div col end}}
+
+=== Territoret speciale të anëtarëve të Zonës Ekonomike Evropiane ===
+{{Hatnote|Artikulli kryesor: {{ill|Territoret speciale të anëtarëve të Zonës Ekonomike Evropiane|en|Special territories of members of the European Economic Area}}}}
+{{Colbegin|colwidth=40em}}
+'''{{ill|Territoret speciale të anëtarëve të Zonës Ekonomike Evropiane|en|Special territories of members of the European Economic Area|lt=Rajonet e largëta të BE-së}}:'''
+{{Colbegin|colwidth=15em}}
+* France
+** French Guiana
+** Guadeloupe
+** [[Martinika]]
+** Mayotte
+** Réunion
+** Saint Martin
+* Portugal
+** Azores
+** Madeira
+* Spain
+** Canary Islands
+{{Div col end}}
+
+'''Territoret e huaja:'''
+* France
+** French Southern and Antarctic Lands
+** Saint Barthélemy
+** Saint Pierre and Miquelon<ref>{{cite web |url=http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:1999:030:0029:0030:EN:PDF |title=By agreement of the EU Council |access-date=30 May 2010 |language=en}}</ref>
+{{Div col end}}
+
+'''Territoret e veçanta autonome:'''
+* Finland
+** Åland
+* Greece
+** {{ill|Mali Athos|en|Monastic community of Mount Athos}}
+* Spain
+** Ceuta
+** Melilla
+
+=== Përdorues të tjerë ===
+'''Mikroshtete me marrëveshje monetare:'''
+{{Colbegin|colwidth=20em}}
+* Andorra<ref>{{cite journal |url=https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=oj:JOC_2011_369_R_0001_01 |title=Monetary Agreement between the European Union and the Principality of Andorra|date=2011-12-17|access-date=2026-07-20|journal=Official Journal of the European Union |language=en}}</ref>
+* Monaco<ref>{{cite journal|url=https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=oj:JOC_2012_310_R_0001_01 |title=Monetary Agreement between the European Union and the Principality of Monaco|date=2012-10-13|access-date=2026-07-20|journal=Official Journal of the European Union |language=en}}</ref>
+* San Marino<ref>{{cite journal|url=https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=oj:JOC_2012_121_R_0005_01 |title=Monetary Agreement between the European Union and the Republic of San Marino|date=2012-04-26|access-date=2026-07-20|journal=Official Journal of the European Union |language=en}}</ref>
+* Vatican City<ref>{{cite journal|url=https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=oj:JOC_2010_028_R_0013_01 |title=Monetary Agreement between the European Union and the Vatican City State|date=2010-02-04|access-date=2026-07-20|journal=Official Journal of the European Union |language=en}}</ref>
+{{Div col end}}
+
+'''Territor britanik përtej detit:'''
+{{Colbegin|colwidth=20em}}
+* Akrotiri and Dhekelia<ref>{{cite news |last=Theodoulou |first=Michael |date=2007-12-27 |url=http://www.timesonline.co.uk/tol/news/world/europe/article3097521.ece |archive-url=https://web.archive.org/web/20110510204604/http://www.timesonline.co.uk/tol/news/world/europe/article3097521.ece |title=Euro reaches field that is for ever England |work=The Times |access-date=2008-01-04 |archive-date=2011-05-10 |language=en}}</ref>
+{{Div col end}}
+
+'''Miratues të njëanshëm:'''
+{{Colbegin|colwidth=20em}}
+* Kosovo{{Efn|Shih [[Kosova dhe euro]].}}<ref>{{cite web |url=http://www.unmikonline.org/regulations/admdirect/1999/089%20Final%20%20ADE%201999-02.htm |title=By UNMIK administration direction 1999/2 |publisher=Unmikonline.org |access-date=2010-05-30 |archive-url=https://web.archive.org/web/20110607234444/http://www.unmikonline.org/regulations/admdirect/1999/089%20Final%20%20ADE%201999-02.htm |archive-date=2011-06-07 |language=en}}</ref>
+* Montenegro{{Efn|Shih [[Mali i Zi dhe euro]].}}
+{{Div col end}}
+
+== Shtetet anëtare të BE-së që nuk përdorin euron ==
+{{Hatnote|Artikulli kryesor: {{ill|{{ill|Zgjerimi i eurozonës|en|Enlargement of the eurozone}}|en|Enlargement of the eurozone}} dhe {{ill|{{ill|Valutat e Bashkimit Evropian|en|Currencies of the European Union}}|en|Currencies of the European Union}}}}
+
+{{Anchor|EUnoEZ}}
+
+=== Të angazhuara për të adoptuar euron <span class="anchor" id="Obliged to adopt the euro"></span> ===
+{{Hatnote|Shih edhe: {{ill|Republika Çeke dhe euroja|en|Czech Republic and the euro}}, {{ill|Hungaria dhe euroja|en|Hungary and the euro}}, {{ill|Polonia dhe euroja|en|Poland and the euro}}, {{ill|Rumania dhe euroja|en|Romania and the euro}}, {{ill|Suedia dhe euroja|en|Sweden and the euro}}}}
+Pesë shtetet e mëposhtme anëtare të [[Bashkimi Evropian|Bashkimit Evropian]], me gjithsej afro 90 milionë banorë, u zotuan në [[Traktat i Anëtarësimit|Traktatet e tyre të Anëtarësimit]] ta adoptonin euron. Megjithatë, ato nuk kanë afat për ta bërë këtë dhe mund ta vonojnë procesin duke mos i përmbushur qëllimisht kriteret e konvergjencës (për shembull, duke mos i përmbushur kriteret për t'u anëtarësuar në ERM II).
+* Çekia
+* Hungaria
+* Polonia
+* Rumania
+* Suedia
+
+=== Përjashtimet nga adoptimi i euros ===
+{{Hatnote|Shih edhe: {{ill|Danimarka dhe euroja|en|Denmark and the euro}}, {{ill|Mbretëria e Bashkuar dhe euroja|en|United Kingdom and the euro}}}}
+[[Traktati i Mastrihtit]] i vitit 1992 përfshinte protokolle për Danimarkën dhe Mbretërinë e Bashkuar, të cilat u jepnin këtyre vendeve përjashtime dhe të drejtën për të vendosur nëse dhe kur do ta adoptonin euron.<ref name="UK">{{cite web|url=https://publications.parliament.uk/pa/ld199798/ldhansrd/vo980312/text/80312-21.htm|title=Volume: 587, Part: 120 (12 Mar 1998: Column 391, Baroness Williams of Crosby)|author=Parliament of the United Kingdom|date=12 March 1998|work=House of Lords Hansard|access-date=13 October 2007|language=en}}</ref>
+
+* Danimarka: Qeveria daneze negocioi një [[Përjashtimet daneze nga Bashkimi Evropian|përjashtim]] për të ruajtur përdorimin e [[Krona daneze|kronës daneze]], por valuta është e lidhur me euron përmes [[Mekanizmi Evropian i Kursit të Këmbimit|ERM II]], mekanizmit të kursit të këmbimit të Bashkimit Evropian. I njëjti rregull zbatohet për [[Grenlanda|Grenlandën]] dhe [[Ishujt Faroe|Ishujt Faroe]], pasi ato janë pjesë e Mbretërisë së Danimarkës dhe përdorin kronën si monedhë zyrtare.
+
+Gjithashtu, para [[BREXIT|tërheqjes së saj nga Bashkimi Evropian]] në vitin 2020, Mbretëria e Bashkuar negocioi një [[Përjashtimet e Mbretërisë së Bashkuar nga legjislacioni i BE-së#Bashkimi ekonomik dhe monetar|përjashtim]] për të ruajtur përdorimin e [[Paund sterlina|paundit sterlinë]].
+
+== Monedhat dhe kartëmonedhat ==
+=== Monedhat ===
+{{Hatnote|Artikulli kryesor: {{ill|{{ill|Monedhat euro|en|Euro coins}}|en|Euro coins}}}}
+
+{{Hatnote|Shih edhe: {{ill|Seritë e monedhave euro|en|List of Euro coin series}}, {{ill|Shenjat identifikuese në monedhat euro|en|Identifying marks on euro coins}}}}
+
+[[File:Croatian euro coins (10).jpg|thumb|[[Monedhat euro|Monedha euro]] me [[Monedhat euro kroate|anët kombëtare kroate]]]]
+
+Euroja ndahet në 100 [[Centi (monedhë)|centë]] (të quajtur edhe ''eurocentë'', sidomos për t'i dalluar nga centët e valutave të tjera; kështu quhen edhe në anën e përbashkët të të gjitha monedhave eurocent). Në aktet legjislative të Komunitetit, format e shumësit të fjalëve ''euro'' dhe ''cent'' shkruhen pa ''-s'', pavarësisht përdorimit të zakonshëm në anglisht.<ref name="ec.europa.eu">{{cite web|url=http://ec.europa.eu/economy_finance/euro/cash/symbol/index_en.htm |title= How to use the euro name and symbol |publisher=European Commission |access-date=7 April 2010|language=en}}</ref><ref>{{cite web|url=http://ec.europa.eu/economy_finance/publications/publication6336_en.pdf |title=Spelling of the words "euro" and "cent" in official Community languages as used in Community Legislative acts |access-date=26 November 2008 |author=European Commission|language=en}}</ref> Përndryshe përdoren format e zakonshme të shumësit në anglisht,<ref>{{cite web |url=http://ec.europa.eu/translation/writing/style_guides/english/style_guide_en.pdf |title=English Style Guide: A handbook for authors and translators in the European Commission |access-date=16 November 2008 |author=European Commission Directorate-General for Translation |archive-url=https://web.archive.org/web/20101205092625/http://ec.europa.eu/translation/writing/style_guides/english/style_guide_en.pdf |archive-date=2010-12-05 |language=en}}; {{cite web |url=http://publications.europa.eu/code/en/en-370303.htm |title=Interinstitutional style guide, 7.3.3. Rules for expressing monetary units |access-date=16 November 2008 |author=European Union |language=en}}</ref> me shumë variante vendore, si ''centime'' në Francë.
+
+Të gjitha monedhat në qarkullim kanë një ''anë të përbashkët'', ku paraqitet prerja ose vlera dhe një hartë në sfond. Për shkak të shumëllojshmërisë gjuhësore të Bashkimit Evropian, përdoret forma me alfabet latin e fjalës ''euro'' (në vend të formave më pak të zakonshme greke ose cirilike) dhe përdoren [[Numrat arabë|numrat arabë]]. Teksti tjetër përdoret në anët kombëtare, në gjuhët kombëtare, ndërsa në anën e përbashkët shmanget. Për prerjet, përveç monedhave 1, 2 dhe 5 centë, harta tregonte vetëm 15 shtetet anëtare të Bashkimit Evropian që nga viti 2002. Duke filluar nga viti 2007 ose 2008, sipas vendit, harta e vjetër u zëvendësua me një hartë të Evropës ku paraqiten edhe vende jashtë [[Bashkimi Evropian|BE-së]].<ref name="europa-common_sides">{{cite web |title=Common sides of euro coins |url=https://economy-finance.ec.europa.eu/euro/euro-coins-and-notes/euro-coins/common-sides-euro-coins_en |website=Europa |publisher=European Commission |access-date=30 December 2023|language=en}}</ref> Megjithatë, monedhat 1, 2 dhe 5 centë ruajnë dizajnin e vjetër, ku paraqitet një hartë gjeografike e Evropës me shtetet anëtare të BE-së të vitit 2002, pak të ngritura mbi pjesën tjetër të hartës. Të gjitha anët e përbashkëta u projektuan nga Luc Luycx. Monedhat kanë gjithashtu një ''anë kombëtare'', ku paraqitet një imazh i zgjedhur posaçërisht nga vendi që i emeton. Monedhat euro nga cilido shtet anëtar mund të përdoren lirisht në çdo vend që ka adoptuar euron.
+
+Monedhat emetohen në prerjet prej [[Monedha 2 euro|2 €]], [[Monedha 1 euro|1 €]], [[Monedha 50 eurocent|50c]], [[Monedha 20 eurocent|20c]], [[Monedha 10 eurocent|10c]], [[Monedha 5 eurocent|5c]], [[Monedha 2 eurocent|2c]] dhe [[Monedha 1 eurocent|1c]]. Për të shmangur përdorimin e dy monedhave me prerjet më të vogla, disa pagesa në para rrumbullakohen në pesë centët më të afërt në Holandë dhe Irlandë<ref>{{cite web|url=http://neurope.eu/article/ireland-to-round-to-nearest-5-cents-starting-october-28/|title=Ireland to round to nearest 5 cents starting October 28|date=27 October 2015|access-date=17 December 2018|archive-url=https://web.archive.org/web/20160306012032/http://neurope.eu/article/ireland-to-round-to-nearest-5-cents-starting-october-28/|archive-date=2016-03-06|language=en}}</ref><ref>{{cite web|url=https://www.centralbank.ie/paycurr/Pages/rounding.aspx|title=Rounding |website= Central Bank of Ireland|language=en}}</ref> (me marrëveshje vullnetare) dhe në Finlandë e Itali (me ligj).<ref>{{cite web|author=European Commission|author-link=European Commission|title=Euro cash: five and familiar |url=http://ec.europa.eu/economy_finance/een/005/article_4324_en.htm |publisher=Europa (web portal) |date = January 2007|access-date=26 January 2009|language=en}}</ref> Komisioni e kundërshton këtë praktikë, si edhe praktikën e disa dyqaneve që refuzojnë të pranojnë kartëmonedha euro me vlerë të lartë.<ref>Pop, Valentina (22 March 2010) [http://euobserver.com/?aid=29737 "Komisioni kundërshton tabelat e dyqaneve ku thuhet: 'Nuk pranohen kartëmonedha prej 500 €'"], ''EU Observer''</ref>
+
+[[Monedha përkujtimore 2 euro|Monedha përkujtimore]] me vlerë nominale prej 2 € janë emetuar me ndryshime në dizajnin e anës kombëtare. Këtu përfshihen monedha të emetuara bashkërisht, si monedha përkujtimore prej 2 € për 50-vjetorin e nënshkrimit të Traktatit të Romës, si dhe monedha të emetuara nga një shtet, si monedha e emetuar nga Greqia për të përkujtuar [[Lojërat Olimpike Verore 2004]]. Këto monedha janë mjet ligjor pagese në të gjithë eurozonën. Janë emetuar edhe monedha koleksionimi me prerje të tjera, por ato nuk synohen për qarkullim të përgjithshëm dhe janë mjet ligjor pagese vetëm në shtetin anëtar që i ka emetuar.<ref>{{cite web|url=http://europa.eu/legislation_summaries/economic_and_monetary_affairs/introducing_euro_practical_aspects/l25058_en.htm |title=Commission communication: The introduction of euro banknotes and coins one year after COM(2002) 747 |access-date=26 January 2009 |author=European Commission |publisher=Europa (web portal) |date=15 February 2003|language=en}}</ref>
+{| class="wikitable" style="text-align: center;"
+|-
+| [[File: 1 Cent-Vatican-Franciscus-Series 1.jpg |115px]]
+| [[File:1€-Vatican Franciscus-Revers.jpg|1€-Vatican_Franciscus-Revers| 115px]]
+| [[File:1€-Vatican-Benedikt XVI-Revers.jpg |115px]]
+|}
+
+Monedha euro të Vatikanit me portretet e [[Françesku|Papa Françeskut]] dhe [[Benedikti XVI|Papa Benediktit XVI]]
+
+==== Prerja e monedhave ====
+Një numër institucionesh janë të autorizuara të presin monedha euro:
+{{Div col|colwidth=25em}}
+* Bayerisches Hauptmünzamt (shenja e prerjes: D)
+* Currency Centre
+* Fabrika Mbretërore e Monedhave e Spanjës (Real Casa de la Moneda)
+* Hamburgische Münze (J)
+* Hrvatska kovnica novca
+* Banknote and Securities Printing Foundation
+* Imprensa Nacional-Casa da Moeda
+* Istituto Poligrafico e Zecca dello Stato
+* Koninklijke Munt van België/Monnaie Royale de Belgique
+* Moneten dvor (Монетен двор)
+* Koninklijke Nederlandse Munt
+* Lietuvos monetų kalykla
+* Mincovňa Kremnica
+* Monnaie de Paris
+* Münze Österreich
+* Suomen Rahapaja/Myntverket i Finland
+* Staatliche Münze Berlin (A)
+* Staatliche Münzen Baden-Württemberg (F): Shtutgart, (G): Karlsruhe
+{{Div col end}}
+
+=== Kartëmonedhat ===
+{{Kryesor|Kartëmonedhat Euro}}
+
+[[File:Various Euro banknotes.jpg|thumb|Kartëmonedhat e serisë së parë euro, me prerje të ndryshme]]
+
+Dizajni i [[Kartëmonedhat Euro|kartëmonedhave euro]] është i njëjtë në të dyja anët. Ai u krijua nga dizajneri austriak Robert Kalina.<ref name="euro96">{{cite web|url=http://www.ecb.int/euro/changeover/2002/photos/html/image12.en.html |title=Robert Kalina, designer of the euro banknotes, at work at the Oesterreichische Nationalbank in Vienna |publisher=European Central Bank |access-date=2010-05-30|language=en}}</ref> Kartëmonedhat emetohen në prerjet [[Kartëmonedha 500 euro|€500]], [[Kartëmonedha 200 euro|€200]], [[Kartëmonedha 100 euro|€100]], [[Kartëmonedha 50 euro|€50]], [[Kartëmonedha 20 euro|€20]], [[Kartëmonedha 10 euro|€10]] dhe [[Kartëmonedha 5 euro|€5]]. Çdo kartëmonedhë ka ngjyrën e vet dhe i kushtohet një periudhe artistike të arkitekturës evropiane. Në pjesën e përparme paraqiten dritare ose porta, ndërsa në pjesën e pasme ura, që simbolizojnë lidhjet mes shteteve të unionit dhe të ardhmen. Megjithëse dizajnet synohej të mos kishin veçori të identifikueshme, dizajnet fillestare të Kalinës paraqisnin ura të caktuara, mes tyre Rialton dhe Pont de Neuilly-n, dhe më pas u bënë më të përgjithshme; megjithatë, dizajnet përfundimtare ngjajnë shumë me modelet e tyre konkrete, ndaj nuk janë vërtet të përgjithshme. Monumentet dukeshin mjaftueshëm të ngjashme me monumente të ndryshme kombëtare, saqë të kënaqnin të gjithë.<ref>{{cite news|last=Schmid |first=John |url=https://www.nytimes.com/2001/08/03/news/03iht-euro_ed3_.html |title=Etching the Notes of a New European Identity|work=International Herald Tribune |date=2001-08-03 |access-date=2009-05-29|language=en}}</ref>
+
+Seria Europa, ose seria e dytë, përbëhet nga gjashtë prerje dhe nuk përfshin më kartëmonedhën €500, emetimi i së cilës u ndërpre më 27 prill 2019.<ref name="Bank">{{Cite web|title=Banknotes|url=https://www.ecb.europa.eu/euro/banknotes/html/index.en.html|website=European Central Bank|access-date=2020-05-10|language=en}}</ref> Megjithatë, si kartëmonedhat e serisë së parë, ashtu edhe ato të serisë së dytë, përfshirë kartëmonedhën €500, mbeten mjete ligjore pagese në të gjithë Eurozonën.<ref name="Bank"/>
+
+Në dhjetor 2021, BQE-ja njoftoi planet për ridizajnimin e kartëmonedhave euro deri në vitin 2024. U përzgjodh një grup këshillimor për temat, me nga një anëtar nga çdo vend i Eurozonës, për t’i paraqitur BQE-së propozime për tema. Propozimet do të votohen nga publiku; do të organizohet gjithashtu një konkurs dizajni.<ref>{{cite journal|title=ECB to redesign euro banknotes by 2024 |url=https://www.ecb.europa.eu/press/pr/date/2021/html/ecb.pr211206~a9e0ba2198.en.html |access-date=2021-12-07 |date=2021-12-06|website=European Central Bank|language=en}}</ref>
+
+==== Mënyrat e emetimit të kartëmonedhave ====
+Që nga 1 janari 2002, bankat qendrore kombëtare (BQK-të) dhe [[Banka Qendrore Evropiane|BQE-ja]] i kanë emetuar kartëmonedhat euro në baza të përbashkëta.<ref name="Scheller">{{Cite book|url=https://www.ecb.europa.eu/pub/pdf/other/ecbhistoryrolefunctions2006en.pdf|quote=Since 1 January 2002, the NCBs and the ECB have issued euro banknotes on a joint basis.|title=The European Central Bank: History, Role and Functions|first=Hanspeter K.|last=Scheller|edition=2nd|date=2006|isbn=978-92-899-0027-0|page=103|publisher=European Central Bank|language=en}}</ref> Bankat qendrore kombëtare të Eurosistemit janë të detyruara të pranojnë kartëmonedhat euro të vëna në qarkullim nga anëtarët e tjerë të Eurosistemit dhe këto kartëmonedha nuk riatdhesohen. BQE-ja emeton 8% të vlerës totale të kartëmonedhave të emetuara nga Eurosistemi.<ref name="Scheller"/> Në praktikë, kartëmonedhat e BQE-së vihen në qarkullim nga bankat qendrore kombëtare, duke krijuar kështu detyrime përkatëse ndaj BQE-së. Këto detyrime bartin interes me normën kryesore të ri-financimit të BQE-së. Pjesa tjetër prej 92% e kartëmonedhave euro emetohet nga bankat qendrore kombëtare në përpjesëtim me peshat e tyre përkatëse në çelësin e kapitalit të BQE-së,<ref name="Scheller"/> i llogaritur duke përdorur pjesën kombëtare të popullsisë së Bashkimit Evropian (BE) dhe pjesën kombëtare të PBB-së së BE-së, me peshë të barabartë.<ref>{{cite web|url=http://www.ecb.int/ecb/orga/capital/html/index.en.html|title=Capital Subscription|publisher=European Central Bank|access-date=2011-12-18|language=en|quote=The NCBs' shares in this capital are calculated using a key which reflects the respective country's share in the total population and gross domestic product of the EU&nbsp;– in equal weightings. The ECB adjusts the shares every five years and whenever a new country joins the EU. The adjustment is done on the basis of data provided by the European Commission.}}</ref>
+
+{| class="wikitable" style="margin:auto; font-size:90%;"
+!colspan="2"| Imazhi !!rowspan="2"| Vlera !!rowspan="2"| Viti !!rowspan="2"| Përmasat<br />(milimetra) !!rowspan="2" colspan="3"| Ngjyra kryesore !!colspan="2"| Dizajni !!colspan="2" rowspan="2"| Pozicioni i kodit të shtypshkronjës
+|-
+! Faqja e përparme !! Faqja e pasme !! Arkitektura !! Shekulli
+|-
+| style="text-align:center;"| [[File:EUR 5 obverse (2013 issue).png|border|86px]]
+| style="text-align:center;"| [[File:EUR 5 reverse (2013 issue).png|border|86px]]
+! [[Kartëmonedha 5 euro|€5]]{{Anchor|5}}
+| 2013
+| style="text-align:center;"| 120 × 62&nbsp;mm
+| style="text-align:center; background:#ccc;" colspan="2"|
+| Gri<ref>{{Cite web|url=https://www.ecb.europa.eu/euro/banknotes/denominations/html/index.en.html#es2-005|title=Denominations Europa series €5|date=2018-09-13|access-date=2019-06-17|publisher=European Central Bank|language=en}}</ref>
+| [[Arkitektura klasike|Klasike]]
+| shek. 8 p.e.s.–4 e.s.
+| rowspan="6" | Lart djathtas
+|-
+| style="text-align:center;"| [[File:EUR 10 obverse (2014 issue).png|border|91px]]
+| style="text-align:center;"| [[File:EUR 10 reverse (2014 issue).png|border|91px]]
+! [[Kartëmonedha 10 euro|€10]]{{Anchor|10}}
+| 2014
+| style="text-align:center;"| 127 × 67&nbsp;mm
+| style="text-align:center; background:#f99;" colspan="2"|
+| E kuqe<ref>{{Cite web|url=https://www.ecb.europa.eu/euro/banknotes/denominations/html/index.en.html#es2-010|title=Denominations Europa series €10|date=2018-09-13|access-date=2019-06-17|publisher=European Central Bank|language=en}}</ref>
+| Romanike
+| shek. 11–12
+|-
+| style="text-align:center;"| [[File:The Europa series 20 € obverse side.jpg|border|95px]]
+| style="text-align:center;"| [[File:The Europa series 20 € reverse side.jpg|border|95px]]
+! [[Kartëmonedha 20 euro|€20]]{{Anchor|20}}
+| 2015
+| style="text-align:center;"| 133 × 72&nbsp;mm
+| style="text-align:center; background:#9cf;" colspan="2"|
+| Blu<ref>{{Cite web|url=https://www.ecb.europa.eu/euro/banknotes/denominations/html/index.en.html#es2-020|title=Denominations Europa series €20|date=2018-09-13|access-date=2019-06-17|publisher=European Central Bank|language=en}}</ref>
+| Gotike
+| shek. 13–14
+|- style="height:62px"
+| style="text-align:center;"| [[File:The Europa series 50 € obverse side.png|border|100px]]
+| style="text-align:center;"| [[File:The Europa series 50 € reverse side.png|border|100px]]
+! [[Kartëmonedha 50 euro|€50]]{{Anchor|50}}
+| 2017
+| style="text-align:center;"| 140 × 77&nbsp;mm
+| style="text-align:center; background:#f93;" colspan="2"|
+| Portokalli<ref>{{Cite web|url=https://www.ecb.europa.eu/euro/banknotes/denominations/html/index.en.html#es2-050|title=Denominations Europa series €50|date=2018-09-13|access-date=2019-06-17|publisher=European Central Bank|language=en}}</ref>
+| [[Arkitektura e rilindjes|Rilindjes]]
+| shek. 15–16
+|- style="height:62px"
+| style="text-align:center;"| [[File:The Europa series 100 € obverse side.jpg|border|105px]]
+| style="text-align:center;"| [[File:The Europa series 100 € reverse side.jpg|border|105px]]
+! [[Kartëmonedha 100 euro|€100]]{{Anchor|100}}
+| rowspan="2" | 2019
+| style="text-align:center;"| 147 × 77&nbsp;mm
+| style="text-align:center; background:#8cd653;" colspan="2"|
+| Jeshile<ref>{{Cite web|url=https://www.ecb.europa.eu/euro/banknotes/denominations/html/index.en.html#es2-100|title=Denominations Europa series €100|date=2018-09-13|access-date=2019-06-17|publisher=European Central Bank|language=en}}</ref>
+| [[Baroku]] dhe rokoko
+| shek. 17–18
+|- style="height:62px"
+| style="text-align:center;"| [[File:The Europa series 200 € obverse side.jpg|border|109px]]
+| style="text-align:center;"| [[File:The Europa series 200 € reverse side.jpg|border|109px]]
+! [[Kartëmonedha 200 euro|€200]]{{Anchor|200}}
+| style="text-align:center;"| 153 × 77&nbsp;mm
+| style="text-align:center; background:#B29705;" colspan="2"|
+| E verdhë në kafe<ref>{{Cite web|url=https://www.ecb.europa.eu/euro/banknotes/denominations/html/index.en.html#es2-200|title=Denominations Europa series €200|date=2018-09-13|access-date=2019-06-17|publisher=European Central Bank|language=en}}</ref>
+| Art nouveau
+| shek. 19
+|-
+|colspan="11"|Përmasat dhe ngjyrat janë të standardizuara për të gjitha emetimet e kartëmonedhave euro.
+|}
+
+==== Shtypja e kartëmonedhave ====
+Shtetet anëtare të autorizuara të shtypin kartëmonedha ose të porosisin shtypjen e tyre:
+{{Colbegin|colwidth=25em}}
+* {{ill|Banka e Italisë|en|Banca d'Italia}}
+* {{ill|Banka e Portugalisë|en|Banco de Portugal}}
+* {{ill|Banka e Greqisë|en|Bank of Greece}}
+* {{ill|Banka e Francës|en|Bank of France}}
+* {{ill|Banka Kombëtare e Bullgarisë|en|Bulgarian National Bank}}
+* {{ill|Bundesdruckerei|en|Bundesdruckerei}}
+* {{ill|Banka Qendrore e Irlandës|en|Central Bank of Ireland}}
+* {{ill|De La Rue|en|De La Rue}}
+* {{ill|Fabrika Mbretërore e Monedhave e Spanjës|en|Royal Mint (Spain)}}
+* Oberthur Fiduciaire
+* {{ill|Giesecke+Devrient|en|Giesecke+Devrient}}
+* {{ill|Royal Joh. Enschedé|en|Joh. Enschedé}}
+* {{ill|Banka Kombëtare e Belgjikës|en|National Bank of Belgium}}
+* Oesterreichische Nationalbank
+* Setec Oy
+{{Div col end}}
+
+=== Kliringu i pagesave dhe transferimi elektronik i fondeve ===
+{{Hatnote|Artikulli kryesor: {{ill|Zona e Vetme e Pagesave në Euro|en|Single Euro Payments Area}}}}
+
+Kapitali brenda BE-së mund të transferohet në çdo shumë nga një shtet në tjetrin. Të gjitha transfertat brenda Bashkimit në euro trajtohen si transaksione vendase dhe u nënshtrohen kostove përkatëse të transfertave vendase.<ref>{{Cite web|url=http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001R2560:EN:HTML|title=Regulation (EC) No 2560/2001 of the European Parliament and of the Council of 19 December 2001 on cross-border payments in euro|publisher=EUR-lex&nbsp;– European Communities, Publications office, Official Journal L 344, 28 December 2001 P. 0013&nbsp;– 0016|language=en|access-date=2008-12-26}}</ref> Kjo vlen për të gjitha shtetet anëtare të BE-së, edhe për ato jashtë eurozonës, për sa kohë që transaksionet kryhen në euro.<ref>{{Cite web|url=http://www.euro.gov.uk/crossborder.asp|title=Cross border payments in the EU, Euro Information, The Official Treasury Euro Resource|publisher=United Kingdom Treasury|language=en|access-date=2008-12-26|archive-url=https://web.archive.org/web/20081201114647/http://www.euro.gov.uk/crossborder.asp|archive-date=2008-12-01}}</ref> Pagesat me kartë krediti ose debiti dhe tërheqjet nga bankomatet brenda eurozonës trajtohen gjithashtu si transaksione vendase; megjithatë, urdhërpagesat në letër, si çekët, nuk janë standardizuar, prandaj këto mbeten të bazuara në sistemet vendase. Që nga marsi i vitit 2023, BQE-ja ka ngritur edhe një sistem kliringu, T2, për transaksionet e mëdha në euro.<ref>{{Cite web|url=http://www.ecb.int/paym/target/html/index.en.html|archive-url=https://web.archive.org/web/20080121081217/http://www.ecb.int/paym/target/html/index.en.html|archive-date=2008-01-21|title=TARGET|author=European Central Bank|language=en|access-date=2007-10-25}}</ref>
+
+== Historia ==
+{{Hatnote|Artikulli kryesor: {{ill|Historia e euros|en|History of the euro}}}}
+
+=== Hyrja në përdorim ===
+
+Euroja u krijua sipas dispozitave të Traktatit të Mastrihtit të vitit 1992.<ref>{{Cite web|title=Treaty on European Union (Maastricht Treaty)|url=https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A12012M%2FTXT|website=EUR-Lex|language=en|access-date=2023-10-04}}</ref><ref>Dyson, K., & Featherstone, K. (1999). ''The Road to Maastricht: Negotiating Economic and Monetary Union''. Oxford University Press.</ref> Për të marrë pjesë në këtë monedhë, shtetet anëtare duhet të plotësojnë kritere të rrepta, si një deficit buxhetor më pak se 3% e PBB-së, raport borxhi më pak se 60% e PBB-së (të dyja këto kritere u shkelën gjerësisht më pas), inflacion i ulët dhe norma interesi pranë mesatares së BE-së.<ref>{{Cite web|title=Convergence Criteria|url=https://www.ecb.europa.eu/euro/html/index.en.html|website=European Central Bank|language=en|access-date=2023-10-04}}</ref><ref>Buti, M., & Sapir, A. (2002). ''EMU and Economic Policy in Europe: The Challenge of the Early Years''. Edward Elgar Publishing.</ref> Në Traktatin e Mastrihtit, Mbretëria e Bashkuar dhe Danimarka përfituan, me kërkesën e tyre, përjashtime nga kalimi në fazën e bashkimit monetar që çoi në futjen e euros (shih edhe {{ill|Mbretëria e Bashkuar dhe euroja|en|United Kingdom and the euro}}).<ref>{{Cite web|title=Protocol on certain provisions relating to the United Kingdom of Great Britain and Northern Ireland|url=https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A12012M%2FTXT|website=EUR-Lex|language=en|access-date=2023-10-04}}</ref><ref>George, S. (1998). ''An Awkward Partner: Britain in the European Community'' (botimi i 3-të). Oxford University Press.</ref>
+
+Emri «euro» u miratua zyrtarisht në Madrid më 16 dhjetor 1995.<ref name="madrid1995"/> Esperantisti belg Germain Pirlot, ish-mësues i frëngjishtes dhe historisë, vlerësohet për emërtimin e monedhës së re: më 4 gusht 1995, ai i dërgoi një letër presidentit të atëhershëm të Komisionit Evropian, Jacques Santer, duke sugjeruar emrin «euro».<ref>{{Cite news|title=Germain Pirlot 'uitvinder' van de euro|url=http://www.ikso.net/vikipedio/artikeleuro.jpg|publisher=De Zeewacht|language=nl|date=2007-02-16|access-date=2012-05-21|archive-url=https://web.archive.org/web/20130630181850/http://www.ikso.net/vikipedio/artikeleuro.jpg|archive-date=2013-06-30}}</ref> Megjithatë, ish-ministri federal gjerman i Financave Theo Waigel pretendoi në televizionin gjerman më 2017 se ai e kishte shpikur dhe bërë të njohur fjalën «euro» në vitin 1995.<ref>interpressmedia, [https://www.youtube.com/watch?v=rgxLqW_kmK4 Euro - ''Wer hat den Namen erfunden?''] (YouTube, në gjermanisht), 28 korrik 2017.</ref>
+
+Për shkak të ndryshimeve në rregullat kombëtare të rrumbullakimit dhe shifrave domethënëse, të gjitha konvertimet ndërmjet monedhave kombëtare duhej të kryheshin përmes euros, duke përdorur procesin e triangulimit.<ref>{{Cite news|title=Unready for blast-off|url=https://www.economist.com/unknown/1998/11/05/unready-for-blast-off|access-date=2025-08-28|newspaper=The Economist|issn=0013-0613|language=en}}</ref> Vlerat përfundimtare të një euroje në raport me kurset e këmbimit me të cilat monedhat hynë në euro paraqiten në tabelë.
+
+Kurset u përcaktuan nga Këshilli i Bashkimit Evropian,{{Efn|me anë të Rregullores së Këshillit (KE) nr. 2866/98, datë 31 dhjetor 1998.}} bazuar në një rekomandim të Komisionit Evropian, i cili mbështetej në kurset e tregut të datës 31 dhjetor 1998. Ato u caktuan në mënyrë që një Njësi Monetare Evropiane (ECU) të ishte e barabartë me një euro. Nuk mund të caktoheshin më herët, sepse ECU-ja varej nga kursi përmbyllës i këmbimit të monedhave që nuk do të hynin në euro—kryesisht paundit sterlinë—në atë ditë. Njësia Monetare Evropiane ishte një njësi llogaritëse e përdorur nga BE-ja, e bazuar në monedhat e shteteve anëtare; ajo nuk ishte monedhë më vete.
+
+Procedura e përdorur për të përcaktuar kursin e këmbimit ndërmjet dhrahmisë moderne greke dhe euros ishte e ndryshme, pasi euroja ishte tashmë dy vjeç. Kurset e këmbimit për njëmbëdhjetë monedhat e para u përcaktuan vetëm disa orë para futjes së euros, ndërsa kursi i dhrahmisë greke u fiksua disa muaj më parë.{{Efn|me anë të Rregullores së Këshillit (KE) nr. 1478/2000, datë 19 qershor 2000.}}
+
+Monedha u fut në qarkullim në formë jofizike (çeqe udhëtari, transferta elektronike, shërbime bankare etj.) në mesnatën e 1 janarit 1999, kur monedhat kombëtare të vendeve pjesëmarrëse (eurozonës) pushuan së ekzistuari në mënyrë të pavarur. Kurset e tyre të këmbimit u fiksuan ndaj njëra-tjetrës. Kështu, euroja u bë pasardhësja e Njësisë Monetare Evropiane (ECU). Megjithatë, kartëmonedhat dhe monedhat metalike të monedhave të vjetra vazhduan të përdoren si mjete ligjore pagese deri në futjen e kartëmonedhave dhe monedhave të reja euro më 1 janar 2002.
+
+Periudha e kalimit, gjatë së cilës kartëmonedhat dhe monedhat metalike të monedhave të mëparshme u këmbyen me ato të euros, zgjati rreth dy muaj, deri më 28 shkurt 2002. Data zyrtare kur monedhat kombëtare pushuan së qeni mjete ligjore pagese ndryshonte nga një shtet anëtar te tjetri. Data më e hershme ishte në Gjermani, ku marka pushoi zyrtarisht së qeni mjet ligjor pagese më 31 dhjetor 2001, megjithëse periudha e këmbimit zgjati edhe dy muaj. Edhe pasi monedhat e vjetra pushuan së qeni mjete ligjore pagese, bankat qendrore kombëtare vazhduan t’i pranonin për periudha nga disa vjet deri në një kohë të pacaktuar: në rastin e Austrisë, Gjermanisë, Irlandës, Estonisë dhe Letonisë për kartëmonedhat dhe monedhat metalike, ndërsa në rastin e Belgjikës, Luksemburgut, Sllovenisë dhe Sllovakisë vetëm për kartëmonedhat. Monedhat e para që nuk mund të këmbeheshin më ishin eskudot portugeze, të cilat humbën vlerën monetare pas 31 dhjetorit 2002, megjithëse kartëmonedhat mbetën të këmbyeshme deri në vitin 2022.{{Clear}}
+
+=== Shenja valutore ===
+{{Kryesor|Simboli i Euros}}
+
+[[File:Euro Construction.svg|thumb|right|Paraqitja grafike e ndërtimit të logos së euros]]
+
+Një shenjë e veçantë valutore e euros (€) u projektua pasi një sondazh publik ngushtoi tridhjetë propozimet fillestare në dy. Presidenti i [[Presidenti i Komisionit Evropian|Komisionit Evropian]] në atë kohë (Jacques Santer) dhe komisioneri evropian përgjegjës për euron (Yves-Thibault de Silguy) zgjodhën më pas dizajnin fitues.<ref>{{Cite web |title=The euro, our currency {{!}} A symbol for the European currency |date=2009-03-18 |access-date=2023-04-08 |publisher=European Commission |url=https://ec.europa.eu/economy_finance/events/2009/theeuro/isola3_en2008-2009.pdf |language=en}}</ref>
+
+Për simbolin, [[Komisioni Evropian]], në emër të [[Banka Qendrore Evropiane|Bankës Qendrore Evropiane]], deklaroi:
+
+{{Blockquote|Simboli € bazohet te shkronja greke epsilon (ε),{{Efn|Në njoftimin e Komisionit përdoret shkronja e zakonshme epsilon {{Unichar|03B5}}, por {{Unichar|03F5}} duket se ka më shumë gjasa të ketë shërbyer si frymëzim.}} te shkronja e parë e fjalës «Evropë» dhe te dy vijat paralele që simbolizojnë qëndrueshmërinë.|source=Departamenti i Përgjithshëm për Komunikimin<ref name="design, rules">{{Cite web |title=Institutions, law, budget {{!}} The Euro {{!}} Design |author=Directorate-General for Communication |publisher=European Union |access-date=2022-04-08 |url=https://european-union.europa.eu/institutions-law-budget/euro/design_en |language=en}}</ref>}}
+
+Komisioni Evropian përcaktoi gjithashtu përmasat e sakta të logos së euros.<ref name="design, rules" /> Vendosja e shenjës valutore në raport me shumën numerike ndryshon nga një shtet në tjetrin, por në tekstet në anglisht të botuara nga institucionet e BE-së, simboli (ose «EUR», kodi standard i [[Organizata Ndërkombëtare për Standardizim|Organizatës Ndërkombëtare për Standardizim]]) duhet të vendoset përpara shumës.<ref>{{Cite web |url=http://publications.europa.eu/code/en/en-370303.htm#position |title=Position of the ISO code or euro sign in amounts |date=2009-02-05 |work=Interinstitutional style guide |publisher=Europa Publications Office |access-date=2010-01-10 |location=Bruxelles, Belgium |language=en}}</ref>
+
+=== Kriza e eurozonës ===
+{{Hatnote|Artikujt kryesorë: {{ill|Kriza e zonës së euros|en|Euro area crisis}} dhe {{ill|Kriza e borxhit qeveritar grek|en|Greek government-debt crisis}}}}
+
+{{Hatnote|Shih gjithashtu: {{ill|Kriza financiare islandeze e viteve 2008–2011|en|2008–2011 Icelandic financial crisis}}}}
+
+[[File:Europe bonds sovereign debt crisis.webp|thumb|300px|Obligacionet evropiane 10-vjeçare. Përpara [[Recesioni i Madh në Evropë|Recesionit të Madh në Evropë]], obligacionet kishin norma të ngjashme.
+{{Legend-line|#001489 solid 3px|Obligacioni 10-vjeçar i [[Greqia|Greqisë]]}}
+{{Legend-line|#046A38 solid 3px|Obligacioni 10-vjeçar i [[Portugalia|Portugalisë]]}}
+{{Legend-line|#FF8200 solid 3px|Obligacioni 10-vjeçar i [[Republika e Irlandës|Irlandës]]}}
+{{Legend-line|#F1BF00 solid 3px|Obligacioni 10-vjeçar i [[Spanja|Spanjës]]}}
+{{Legend-line|#CD212A solid 3px|Obligacioni 10-vjeçar i [[Italia|Italisë]]}}
+{{Legend-line|#970E53 solid 3px|Obligacioni 10-vjeçar i [[Franca|Francës]]}}
+{{Legend-line|#000000 solid 3px|Obligacioni 10-vjeçar i [[Gjermania|Gjermanisë]]}}
+]]
+
+Pas [[Kriza financiare 2007-2008|krizës financiare të viteve 2007–2008]], më 2009 investitorët nisën të shqetësoheshin për mundësinë e mospagimit të borxhit sovran nga disa shtete evropiane; situata u tensionua veçanërisht në fillim të vitit 2010.<ref>{{Cite news |url=https://www.reuters.com/article/idUSLDE61F0W720100216 |title=Peripheral euro zone government bond spreads widen |work=Reuters |author=George Matlock |date=2010-02-16 |access-date=2010-04-28 |language=en}}</ref><ref>{{Cite news |url=https://www.economist.com/leaders/2010/04/29/acropolis-now |title=Acropolis now |newspaper=The Economist |date=2010-04-29 |access-date=2011-06-22 |language=en}}</ref> [[Ekonomia e Greqisë|Greqia]] u prek më rëndë, por u prekën ndjeshëm edhe anëtarë të tjerë të eurozonës: [[Ekonomia e Qipros|Qiproja]], [[Ekonomia e Irlandës|Irlanda]], [[Ekonomia e Italisë|Italia]], [[Ekonomia e Portugalisë|Portugalia]] dhe [[Ekonomia e Spanjës|Spanja]].<ref>{{Cite web |url=http://www.cnn.com/2013/07/27/world/europe/european-debt-crisis-fast-facts/index.html |title=European Debt Crisis Fast Facts |publisher=CNN Library |date=2017-01-22 |language=en}}</ref><ref>[[Ricardo Reis (economist)|Ricardo Reis]], [https://www.brookings.edu/wp-content/uploads/2016/07/PDFReisTextFallBPEA.pdf Looking for a Success in the Euro Crisis Adjustment Programs: The Case of Portugal], ''Brookings Papers on Economic Activity'', Brookings Institution (vjeshtë 2015), f. 433.</ref> Të gjitha këto vende përdorën fondet e BE-së, përveç Italisë, e cila është një kontribuuese e madhe në Fondin Evropian të Stabilitetit Financiar (EFSF).<ref>{{Cite web |url=http://www.linkiesta.it/it/article/2011/11/04/efsf-come-funziona-il-fondo-salvastati-europeo/2302/ |title=Efsf, come funziona il fondo salvastati europeo |date=2011-11-04 |language=it}}</ref> Për t'u përfshirë në eurozonë, vendet duhej të përmbushnin disa {{ill|kritere të konvergjencës së euros|en|Euro convergence criteria}}, por rëndësia e këtyre kritereve u zbeh ngaqë zbatimi i tyre nuk ishte njësoj i rreptë në të gjitha vendet.<ref>{{Cite web |url=http://www.voxeu.org/index.php?q=node/3454 |title=The politics of the Maastricht convergence criteria |publisher=VoxEU |date=2009-04-15 |access-date=2011-10-01 |language=en}}</ref>
+
+Sipas Njësisë së Inteligjencës së ''The Economist'' në vitin 2011, «nëse [zona e euros] trajtohet si një njësi e vetme, gjendja e saj [ekonomike dhe fiskale] nuk duket më e keqe dhe, në disa aspekte, është disi më e mirë se ajo e SHBA-së ose e Mbretërisë së Bashkuar»; deficiti buxhetor i zonës së euros si tërësi është shumë më i ulët, ndërsa raporti i borxhit qeveritar ndaj PBB-së, 86% më 2010, ishte afërsisht në të njëjtin nivel me atë të Shteteve të Bashkuara. «Për më tepër», shkruajnë autorët, «borxhi i sektorit privat në zonën e euros si tërësi është dukshëm më i ulët se në ekonomitë anglosaksone me borxh të lartë». Ata arrijnë në përfundimin se kriza «është po aq politike sa edhe ekonomike» dhe se buron nga mungesa e mbështetjes së zonës së euros te «pajisjet institucionale (dhe lidhjet e ndërsjella të solidaritetit) të një shteti».<ref>{{Cite web |url=http://pages.eiu.com/rs/eiu2/images/EuroDebtPaperMarch2011.pdf |title=State of the Union: Can the euro zone survive its debt crisis? |page=4 |publisher=Economist Intelligence Unit |date=2011-03-01 |access-date=2011-12-01 |language=en}}</ref>
+
+Kriza vazhdoi kur S&P uli vlerësimin e aftësisë kreditore të nëntë vendeve të zonës së euros, përfshirë Francën, dhe më pas uli vlerësimin e të gjithë Fondit Evropian të Stabilitetit Financiar (EFSF).<ref>{{Cite news |url=https://www.reuters.com/article/us-eurozone-efsf-sp-idUSTRE80F1OV20120116 |title=S&P downgrades euro zone's EFSF bailout fund |date=2012-01-16 |work=Reuters |access-date=2012-01-21 |language=en}}</ref>
+
+Një paralele historike me vitin 1931, kur Gjermania ishte e rënduar nga borxhi, papunësia dhe masat shtrënguese, ndërsa Franca dhe Shtetet e Bashkuara ishin kreditore relativisht të fuqishme, tërhoqi vëmendje në verën e vitit 2012<ref>{{Cite web |url=http://www.marketwatch.com/story/euro-crisis-brings-world-to-brink-of-depression-2012-07-24 |title=Euro crisis brings world to brink of depression |first=Darrell |last=Delamaide |website=MarketWatch |date=2012-07-24 |access-date=2012-07-24 |language=en}}</ref>, edhe pse Gjermania mori edhe vetë një paralajmërim për vlerësimin e borxhit të saj.<ref>Lindner, Fabian, «[https://www.theguardian.com/commentisfree/2012/jul/24/germany-moodys-warning-shot-eurozone Germany would do well to heed the Moody's warning shot]», ''The Guardian'', 24 korrik 2012. Marrë më 25 korrik 2012.</ref><ref>Buergin, Rainer, «[http://washpost.bloomberg.com/Story?docId=1376-M7MTLK6K50YQ01-2MU1077HDEEK0FPVVG6AUS88JB Germany, Juncker Push Back After Moody's Rating Outlook Cuts] {{Webarchive|url=https://web.archive.org/web/20120728105157/http://washpost.bloomberg.com/Story?docId=1376-M7MTLK6K50YQ01-2MU1077HDEEK0FPVVG6AUS88JB |date=28 korrik 2012}}», ''washpost.bloomberg'', 24 korrik 2012. Marrë më 25 korrik 2012.</ref>
+
+== Përdorimi i drejtpërdrejtë dhe i tërthortë ==
+{{Hatnote|Shih më tepër: [[Eurozona]], {{ill|Statusi ndërkombëtar dhe përdorimi i euros|en|International status and usage of the euro}}, {{ill|Zgjerimi i Eurozonës|en|Enlargement of the eurozone}}}}
+
+=== Përdorimi i drejtpërdrejtë i dakordësuar me të drejtën e prerjes së monedhave ===
+Euro është valuta e vetme e 21 [[Shtet anëtar i Bashkimit Evropian|shteteve anëtare të Bashkimit Evropian]]: Austrisë, Bullgarisë, [[Belgjika|Belgjikës]], Kroacisë, [[Qipro|Qipros]], [[Estonia|Estonisë]], [[Finlanda|Finlandës]], [[Franca|Francës]], [[Gjermania|Gjermanisë]], [[Greqia|Greqisë]], Republikës së Irlandës, [[Italia|Italisë]], [[Letonia|Letonisë]], [[Lituania|Lituanisë]], [[Luksemburgu|Luksemburgut]], Maltës, Holandës, Portugalisë, [[Sllovakia|Sllovakisë]], [[Sllovenia|Sllovenisë]] dhe Spanjës. Këto vende përbëjnë «[[Eurozona|Eurozonën]]», me gjithsej rreth 347&nbsp;milionë banorë {{As of|2023|lc=y}}.<ref name="2013_data_sheet">{{Cite web|url=http://www.prb.org/pdf13/2013-population-data-sheet_eng.pdf|title=2013 World Population Data Sheet|author=Population Reference Bureau|author-link=Population Reference Bureau|access-date=2013-10-01|archive-date=2015-02-26|archive-url=https://web.archive.org/web/20150226072048/http://www.prb.org/pdf13/2013-population-data-sheet_eng.pdf|language=en}}</ref> Sipas [[Statusi ndërkombëtar dhe përdorimi i euros#Shtetet sovrane|marrëveshjeve dypalëshe me BE-në]], euroja është caktuar gjithashtu si valuta e vetme zyrtare në katër mikroshtete të tjera evropiane që kanë fituar të drejtën e prerjes së monedhave ([[Andorra]], [[Monako]], [[San Marino]] dhe [[Vatikani]]). Të gjitha shtetet e tjera anëtare të BE-së, përveç Danimarkës, e cila ka një {{ill|Përjashtim danez nga Bashkimi Evropian|en|Danish opt-outs from the European Union|lt=përjashtim nga Bashkimi Evropian}}, si dhe çdo anëtar i mundshëm në të ardhmen, janë {{ill|Zgjerimi i Eurozonës|en|Enlargement of the eurozone|lt=të detyruara ta përvetësojnë euron}} kur e lejojnë kushtet ekonomike.
+
+=== Përdorimi i drejtpërdrejtë i dakordësuar pa të drejtë të prerjes së monedhave ===
+Euro është valuta e vetme edhe në tri territore përtej detit të Francës që nuk janë vetë pjesë e BE-së, përkatësisht [[Shën Barthélemy]], [[Shën Pierre dhe Miquelon]] dhe {{ill|Tokat Jugore dhe Antarktike Franceze|en|French Southern and Antarctic Lands}}, si dhe në territorin britanik përtej detit të [[Akrotiri dhe Dhekelia|Akrotirit dhe Dhekelisë]].<ref>{{Cite web|title=Sovereign Base areas of Akrotiri and Dhekelia on Cyprus|url=https://commonwealthchamber.com/associated-territories/sovereign-base-areas-of-akrotiri-and-dhekelia-on-cyprus/|website=Commonwealth Chamber of Commerce|language=en}}</ref>
+
+=== Përdorimi i drejtpërdrejtë i njëanshëm ===
+Euroja është përvetësuar në mënyrë të njëanshme si valuta e vetme në [[Mali i Zi|Malin e Zi]] dhe [[Kosova|Kosovë]]. Ajo është përdorur gjithashtu si valutë e huaj për tregti në Kubë që nga viti 1998,<ref>{{Cite news|title=Cuba to adopt euro in foreign trade|url=http://news.bbc.co.uk/1/hi/world/americas/210441.stm|work=BBC News|date=1998-11-08|access-date=2008-01-02|language=en}}</ref> në Siri që nga viti 2006,<ref>{{Cite news|title=US row leads Syria to snub dollar|url=http://news.bbc.co.uk/1/hi/business/4713622.stm|work=BBC News|date=2006-02-14|access-date=2008-01-02|language=en}}</ref> dhe në Venezuelë që nga viti 2018.<ref>{{Cite news|url=https://www.bloomberg.com/news/articles/2018-10-16/dollars-are-out-euros-are-in-as-u-s-sanctions-sting-venezuela|title=Dollars Are Out, Euros Are in as U.S. Sanctions Sting Venezuela|last1=Rosati|first1=Andrew|date=2018-10-17|work=Bloomberg|access-date=2019-06-17|last2=Zerpa|first2=Fabiola|language=en}}</ref> Në vitin 2009, Zimbabveja braktisi [[Dollari zimbabvian (1980–2009)|valutën e vet vendase]] dhe përdori në vend të saj valuta kryesore të konvertueshme botërore, përfshirë euron dhe [[Dollari i Shteteve të Bashkuara|dollarin amerikan]]. Përdorimi i drejtpërdrejtë i euros jashtë kuadrit zyrtar të BE-së prek afërsisht 3&nbsp;milionë njerëz.<ref>{{Cite news|title=Zimbabwe: A Critical Review of Sterp|url=http://allafrica.com/stories/200904170690.html|date=2009-04-17|access-date=2009-04-30|language=en}}</ref>
+
+=== Monedhat e lidhura me euron ===
+{{Hatnote|Artikulli kryesor: {{ill|statusi ndërkombëtar dhe përdorimi i euros|en|History of the euro}}}}
+
+[[File:DOLLAR AND EURO IN THE WORLD.svg|thumb|upright=1.35|Përdorimi i euros dhe i dollarit amerikan në mbarë botën:
+{{Legend|#092D98|[[Eurozona]]}}
+{{Legend|#98b3ff|Përdoruesit e jashtëm të euros}}
+{{Legend|#510999|Monedhat e lidhura me euron}}
+{{Legend|#CC99FF|Monedhat e lidhura me euron brenda një brezi të ngushtë}}
+{{Legend|#099811|Shtetet e Bashkuara}}
+{{Legend|#99FF9E|Përdoruesit e jashtëm të dollarit amerikan}}
+{{Legend|#999909|Monedhat e lidhura me dollarin amerikan}}
+{{Legend|#FFFF99|Monedhat e lidhura me dollarin amerikan brenda një brezi të ngushtë}}
+]]
+
+Jashtë eurozonës, një shtet anëtar i BE-së ka monedhë të lidhur me euron, gjë që është kusht paraprak për t'u bashkuar me eurozonën. [[Krona daneze]] është e lidhur me euron përmes pjesëmarrjes së Danimarkës në {{ill|Mekanizmi Evropian i Kursit të Këmbimit|en|European Exchange Rate Mechanism}} (ERM II).
+
+Nga ana tjetër, monedhat e vendeve dhe territoreve që më parë ishin të lidhura me monedhat evropiane, të cilat u zhdukën me krijimin e euros, tani janë të lidhura me të. Aktualisht, ato janë:
+* [[Bosnja dhe Hercegovina]]: [[Marka e konvertueshme e Bosnjës dhe Hercegovinës|marka e konvertueshme boshnjake]] ishte e lidhur me markën gjermane. Aktualisht, kursi i saj fiks është 1,95583 marka të konvertueshme = 1 euro.
+* [[Kepi i Gjelbër]]: [[Eskudoja e Kepit të Gjelbër|eskudoja e Kepit të Gjelbër]] ishte e lidhur me eskudon portugez. Aktualisht, kursi i saj fiks është 110,625 eskudo të Kepit të Gjelbër = 1 euro.
+* [[Komoret]]: [[Frangu komorian|frangu i Komoreve]] ishte i lidhur me frangun francez. Aktualisht, kursi i tij fiks është 491,96775 franga komorianë = 1 euro.
+* {{ill|Komuniteti Ekonomik dhe Monetar i Afrikës Qendrore|en|Economic and Monetary Community of Central Africa}} ([[Kameruni]], [[Republika e Afrikës Qendrore]], [[Çadi]], [[Guinea Ekuatoriale]], [[Gaboni]] dhe [[Republika e Kongos]]): frangu CFA i Afrikës Qendrore ishte i lidhur me frangun francez. Aktualisht, kursi i tij fiks është 655,957 franga CFA të Afrikës Qendrore = 1 euro.
+* [[Maqedonia e Veriut]]: [[Denari maqedonas]] ishte i lidhur me markën gjermane. Tani është i lidhur me euron. Kursi i tij mbetet i qëndrueshëm, rreth 61 denarë maqedonas për 1 euro.
+* {{ill|Unioni Ekonomik dhe Monetar i Afrikës Perëndimore|en|West African Economic and Monetary Union}} ([[Benini]], [[Burkina Faso]], [[Guinea Bisau]], [[Bregu i Fildishtë]], [[Mali]], [[Nigeri]], [[Senegali]] dhe [[Togo]]): frangu CFA i Afrikës Perëndimore ishte i lidhur me frangun francez. Aktualisht, kursi i tij fiks është 655,957 franga CFA të Afrikës Perëndimore = 1 euro.
+* [[Kolektiviteti përtejdetit|Kolektivitetet franceze përtejdetit]] të [[Polinezia franceze|Polinezisë Franceze]] dhe [[Wallis dhe Futuna|Wallisit dhe Futunës]], si dhe kolektiviteti i posaçëm i [[Kaledonia e Re|Kaledonisë së Re]]: frangu CFP ishte i lidhur me frangun francez. Aktualisht, kursi i tij fiks është 1.000 franga CFP = 8,38 euro, që do të thotë rreth 119,331742 franga CFP për 1 euro.
+
+Për më tepër, monedha e [[Sao Tome dhe Principe|Sao Tomes dhe Principe]] (dobraja e Sao Tomes dhe Principes) është e lidhur me euron pas një marrëveshjeje të nënshkruar me Portugalinë në vitin 2009, e cila hyri në fuqi më 1 janar 2010.<ref>{{cite web|url=http://www.telanon.info/economia/2010/01/04/2437/1-euro-equivale-a-24500-dobras/|title=1 euro equivale a 24.500 dobras|date=2009-01-04|language=pt|access-date=2020-11-16|publisher=Téla Nón}}</ref> Kursi i saj fiks është 24,5 dobra të Sao Tomes dhe Principes = 1 euro.
+
+Nga monedhat e përmendura, [[Marka e konvertueshme e Bosnjës dhe Hercegovinës|marka e konvertueshme e Bosnjës dhe Hercegovinës]] ruan një kurs fiks përmes sistemit të bordit monetar; frangu CFA i Afrikës Qendrore, frangu CFA i Afrikës Perëndimore, frangu CFP, [[Eskudoja e Kepit të Gjelbër|eskudoja e Kepit të Gjelbër]], [[Frangu komorian|frangu komorian]] dhe dobraja e Sao Tomes dhe Principes ruajnë kurse fikse konvencionale; ndërsa [[Denari maqedonas]] përdor një regjim të stabilizuar. Gjithashtu, monedha e [[Maroku]]t, [[Dirhemi maroken|dirhemi maroken]], është i lidhur me euron përmes një shporte valutash. Vende të tjera që, në dhjetor 2024, kishin regjime të kursit të këmbimit të lidhura me euron janë [[Rumania]], [[Serbia]], [[Shqipëria]], [[Singapori]], [[Botsvana]], [[Tunizia]], [[Samoa]], [[Fixhi]], [[Libia]], [[Kuvajti]], [[Siria]], [[Kina]] dhe [[Vanuatu]].<ref>{{cite web |url=https://www.elibrary.imf.org/downloadpdf/display/book/9798400260391/9798400260391.pdf |title=Annual report on exchange arrangements and exchange restrictions, 2023|language=en}}</ref><ref>{{cite web|url=https://www.ecb.europa.eu/pub/pdf/ire/ecb.ire202506_annex.en.pdf|title=The euro in global foreign exchange reserves and exchange rate anchoring. Countries and territories with exchange rate regimes linked to the euro|language=en}}</ref><ref>{{cite web|url=https://www.imf.org/-/media/files/publications/cr/2025/english/1mkdea2025001-print-pdf.pdf|title=INTERNATIONAL MONETARY FUND. REPUBLIC OF NORTH MACEDONIA|website=www.imf.org|language=en}}</ref><ref>{{cite web |url=https://www.finances.gov.ma/en/Pages/detail-actualite.aspx?fiche=3534 |archive-url=https://web.archive.org/web/20250325120326/https://www.finances.gov.ma/en/Pages/detail-actualite.aspx?fiche=3534 |archive-date=2025-03-25 |title=Transition to a more flexible exchange rate system |access-date=2025-08-29 |language=en}}</ref>
+
+Lidhja e monedhës së një vendi me një monedhë kryesore konsiderohet masë sigurie, sidomos për monedhat e zonave me ekonomi të dobët, pasi euroja shihet si monedhë e qëndrueshme, parandalon inflacionin e pakontrolluar dhe nxit investimet e huaja falë qëndrueshmërisë së saj.
+
+Në total, {{As of|2013|lc=y}}, 182&nbsp;milionë njerëz në Afrikë përdorin një monedhë të lidhur me euron, 27&nbsp;milionë njerëz jashtë eurozonës në Evropë dhe 545.000 njerëz të tjerë në ishujt e Paqësorit.<ref name="2013_data_sheet"/>
+
+Që nga viti 2005, pullat e emetuara nga [[Urdhëri Sovran Ushtarak i Maltës]] janë emërtuar në euro, megjithëse monedha zyrtare e Urdhrit mbetet skudoja malteze.<ref name=smom>{{cite web|url=https://www.orderofmalta.int/associate-countries/|title=Retrieved 3 October 2017.|language=en}}</ref> Vetë skudoja malteze është e lidhur me euron dhe njihet si mjet ligjor pagese vetëm brenda Urdhrit.
+
+Vendet dhe territoret që i kanë monedhat të lidhura me euron, sipas kontinentit:
+
+'''Evropë'''
+* [[Bosnja dhe Hercegovina]] ([[Marka e konvertueshme e Bosnjës dhe Hercegovinës|marka e konvertueshme e Bosnjës dhe Hercegovinës]], BAM)
+* [[Danimarka]] ([[Krona daneze]], DKK)
+* [[Maqedonia e Veriut]] ([[Denari maqedonas]], MKD)
+* [[Urdhëri Sovran Ushtarak i Maltës]] ([[Skudoja malteze]])<ref>{{cite web|title=Numismatica|url=https://www.ordinedimaltaitalia.org/article/numismatica|access-date=2022-04-30|website=Ordine di Malta Italia|language=it}}</ref>
+
+'''Oqeani'''
+* [[Polinezia franceze]] (frangu CFP, XPF)
+* [[File:Flag_of_France.svg|23px]] [[Kaledonia e Re]] (frangu CFP, XPF)
+* [[Wallis dhe Futuna]] (frangu CFP, XPF)
+
+'''Afrikë'''
+* [[Benini]] ([[Frangu CFA i Afrikës Perëndimore|frangu CFA i Afrikës Perëndimore]], XOF)
+* [[Burkina Faso]] (frangu CFA i Afrikës Perëndimore, XOF)
+* [[Kameruni]] ([[Frangu CFA i Afrikës Qendrore|frangu CFA i Afrikës Qendrore]], XAF)
+* [[Kepi i Gjelbër]] ([[Eskudoja e Kepit të Gjelbër|eskudoja e Kepit të Gjelbër]], CVE)
+* [[Republika e Afrikës Qendrore]] (frangu CFA i Afrikës Qendrore, XAF)
+* [[Çadi]] (frangu CFA i Afrikës Qendrore, XAF)
+* [[Komoret]] ([[Frangu komorian|frangu komorian]], KMF)
+* [[Guinea Ekuatoriale]] (frangu CFA i Afrikës Qendrore, XAF)
+* [[Gaboni]] (frangu CFA i Afrikës Qendrore, XAF)
+* [[Guinea Bisau]] (frangu CFA i Afrikës Perëndimore, XOF)
+* [[Bregu i Fildishtë]] (frangu CFA i Afrikës Perëndimore, XOF)
+* [[Mali]] (frangu CFA i Afrikës Perëndimore, XOF)
+* [[Maroku]] ([[Dirhemi maroken|dirhemi maroken]], MAD) <small>(përmes një shporte valutash)</small>
+* [[Nigeri]] (frangu CFA i Afrikës Perëndimore, XOF)
+* [[File:Flag_of_Republic_of_the_Congo.svg|23px]] [[Republika e Kongos]] (frangu CFA i Afrikës Qendrore, XAF)
+* [[Sao Tome dhe Principe]] (dobraja e Sao Tomes dhe Principes, STN)
+* [[Senegali]] (frangu CFA i Afrikës Perëndimore, XOF)
+* [[Togo]] (frangu CFA i Afrikës Perëndimore, XOF)
+
+=== Përdorimi si monedhë rezervë ===
+Që nga futja e saj në vitin 1999, euroja ka qenë [[monedhë rezervë|monedha rezervë]] ndërkombëtare e dytë më e përdorur, pas dollarit amerikan. Pesha e euros si monedhë rezervë u rrit nga 18% në vitin 1999 në 27% në vitin 2008. Gjatë kësaj periudhe, pesha e dollarit amerikan ra nga 71% në 64%, ndërsa ajo e renminbit nga 6,4% në 3,3%. Euroja trashëgoi dhe ndërtoi mbi statusin e [[Marka gjermane|markës gjermane]] si monedha rezervë e dytë më e rëndësishme. Euroja vazhdon të ketë peshë më të vogël si monedhë rezervë në ekonomitë e përparuara, ndërsa peshë më të madhe në ekonomitë në zhvillim dhe ato në zhvillim e sipër: sipas [[Fondi Monetar Ndërkombëtar|Fondit Monetar Ndërkombëtar]]<ref name="external1">{{Cite web|url=http://www.imf.org/external/np/sta/cofer/eng/cofer.pdf |title=Currency Composition of Official Foreign Exchange Reserves (COFER)&nbsp;– Updated COFER tables include first quarter 2009 data. June&nbsp;30, 2009 |access-date=2009-07-08|language=en}}</ref>, në fund të vitit 2008, shuma e euros së mbajtur si rezervë në mbarë botën ishte 1,1 trilionë dollarë ose 850 miliardë euro; ajo përbënte 22% të të gjitha rezervave valutore në ekonomitë e përparuara, por 31% të rezervave në ekonomitë në zhvillim dhe ato në zhvillim e sipër.
+
+Mundësia që euroja të bëhej monedha e parë rezervë ndërkombëtare është debatuar mes ekonomistëve.<ref>{{Cite web |url=http://www.wage.wisc.edu/uploads/Working%20Papers/chinnfrankel_NBER_eurotopcurrency.pdf |title=Will the Euro Eventually Surpass the Dollar As Leading International Reserve Currency? |access-date=2011-07-17 |archive-url=https://web.archive.org/web/20130825070016/http://www.wage.wisc.edu/uploads/Working%20Papers/chinnfrankel_NBER_eurotopcurrency.pdf |archive-date=2013-08-25 |language=en}}</ref> Në shtator 2007, ish-kryetari i [[Rezerva Federale|Rezervës Federale]] {{ill|Alan Grinspen|en|Alan Greenspan}} dha mendimin se ishte «plotësisht e mundshme që euroja ta zëvendësojë dollarin amerikan si monedhë rezervë, ose të tregtohet si monedhë rezervë po aq e rëndësishme».<ref>{{Cite news|title=Euro could replace dollar as top currency&nbsp;– Greenspan |url=https://www.reuters.com/article/bondsNews/idUSL1771147920070917 |access-date=2007-09-17 |date=2007-09-17 |work=Reuters |language=en}}</ref> Ndryshe nga vlerësimi i Grinspenit i vitit 2007, rritja e peshës së euros në shportën botërore të rezervave valutore është ngadalësuar ndjeshëm që nga viti 2007 dhe që nga fillimi i [[Recesioni i madh|Recesionit të Madh]] dhe [[Kriza e borxhit në zonën e euros|Kriza e borxhit në zonën e euros]].<ref name="external1"/>
+
+== Ekonomia ==
+[[File:Euro Monetary Policy.webp|thumb|299px|right|Politika monetare e euros
+{{Legend|#0076BA|Inflacioni në zonën e euros, vit pas viti}}
+{{Legend-line|#FFD932 solid 3px|Rritja e ofertës monetare M3}}
+{{Legend-line|#EE220C solid 3px|Lehtësia e huadhënies margjinale}}
+{{Legend-line|#970E53 solid 3px|Operacionet kryesore të rifinancimit}}
+{{Legend-line|#F27200 solid 3px|Norma e lehtësisë së depozitave}}
+{{Legend-line|#FF95CA solid 3px|{{ill|Euribori|en|Euribor}}}}
+]]
+
+=== Zona optimale monetare ===
+{{Hatnote|Shih më tej: {{ill|Zona optimale monetare|en|Optimum currency area}}}}
+
+Në ekonomi, një zonë ose rajon optimal monetar (ZOM ose ROM) është një rajon gjeografik në të cilin do të maksimizohej efikasiteti ekonomik nëse i gjithë rajoni do të përdorte të njëjtën monedhë. Ekzistojnë dy modele, të propozuara të dyja nga {{ill|Robert Mundell|en|Robert Mundell}}: modeli i pritshmërive stacionare dhe modeli i ndarjes ndërkombëtare të rrezikut.<ref>{{Cite book|chapter=A Plan for a European Currency |date=1970 |orig-date=published 1973|last=Mundell |first=Robert|editor1=Johnson, H. G. |editor2=Swoboda, A. K. |title=The Economics of Common Currencies{{Snd}} Proceedings of Conference on Optimum Currency Areas. 1970. Madrid. |publisher=Allen and Unwin |location=London |pages=143–172 |isbn=978-0-04-332049-5|language=en}}</ref> Vetë Mundell e mbështet modelin e ndarjes ndërkombëtare të rrezikut dhe, si rrjedhojë, arrin në përfundimin se euroja është e favorshme.<ref>{{Cite book|chapter=A Plan for a European Currency |date=1970 |orig-date=published 1973|last=Mundell |first=Robert|editor1=Johnson, H. G. |editor2=Swoboda, A. K. |title=The Economics of Common Currencies{{Snd}} Proceedings of Conference on Optimum Currency Areas. 1970. Madrid. |publisher=Allen and Unwin |location=London |pages=143–172 |isbn=978-0-04-332049-5|language=en}}</ref> Megjithatë, edhe para krijimit të monedhës së përbashkët kishte shqetësime për dallimet mes ekonomive. Para [[Recesioni i madh|recesionit të fundit të viteve 2000]], mendohej se një shtet nuk kishte gjasa të largohej nga euroja ose që e gjithë zona të shpërbëhej.<ref>{{Cite journal |ssrn=1014341 |title=The Breakup of the Euro Area by Barry Eichengreen |date=2007-09-14 |journal=NBER Working Paper |number=w13393|last1=Eichengreen |first1=Barry |language=en}}</ref> Megjithatë, [[Kriza e borxhit të qeverisë greke|kriza e borxhit të qeverisë greke]] bëri që ish-ministri i Jashtëm britanik Jack Straw të pretendonte se eurozona nuk mund të vazhdonte në formën e saj aktuale.<ref>{{Cite news|url=https://www.bbc.co.uk/news/uk-politics-13839381 |title=Greek debt crisis: Straw says eurozone 'will collapse' |work=BBC News |date=2011-06-20 |access-date=2011-07-17|language=en}}</ref> Një pjesë e problemit duket se qëndron te rregullat e vendosura kur u krijua euroja. John Lanchester, duke shkruar për ''The New Yorker'', shpjegon: {{Blockquote|Parimi udhëheqës i monedhës, e cila nisi veprimtarinë në vitin 1999, duhej të ishte një grup rregullash për ta kufizuar deficitin vjetor të një vendi në tre për qind të prodhimit të brendshëm bruto, dhe borxhin e përgjithshëm të akumuluar në gjashtëdhjetë për qind të PBB-së. Ishte një ide e mirë, por deri në vitin 2004, dy ekonomitë më të mëdha të eurozonës, Gjermania dhe Franca, i kishin shkelur rregullat për tre vjet radhazi.<ref>John Lanchester, «Euro Science», ''The New Yorker'', 10 October 2011.</ref>}}
+
+Divergjenca në rritje e cikleve të biznesit në eurozonë gjatë dekadave të fundit nënkupton se ajo po i afrohet gjithnjë e më pak përkufizimit të një zone optimale monetare.<ref>{{Cite journal |doi=10.1007/s11079-024-09750-z |title=Optimum Currency Area in the Eurozone |date=2024 |last1=Beck |first1=Krzysztof |last2=Okhrimenko |first2=Iana |journal=Open Economies Review |volume=36 |pages=197–219 |doi-access=free |issn=0923-7992 |language=en}}</ref>
+
+=== Kostot dhe rreziqet e transaksioneve ===
+
+Përfitimi më i dukshëm i përdorimit të një monedhe të vetme është eliminimi i kostos së këmbimit valutor, çka teorikisht u mundëson bizneseve dhe individëve të kryejnë transaksione që më parë nuk ishin fitimprurëse. Për konsumatorët, bankat në eurozonë duhet të aplikojnë të njëjtat tarifa për transaksionet ndërkufitare mes vendeve anëtare si për transaksionet thjesht vendore, për pagesat elektronike (p.sh. [[Karta e kreditit|kartat e kreditit]], [[Pagesa elektronike|kartat e debitit]] dhe tërheqjet nga bankomatet).
+
+Tregjet financiare në kontinent pritet të jenë shumë më {{ill|Likuiditeti i tregut|en|market liquidity|lt=likuide}} dhe fleksibile se më parë. Ulja e kostove të transaksioneve ndërkufitare do t’u mundësojë firmave më të mëdha bankare të ofrojnë një gamë më të gjerë shërbimesh bankare, të cilat mund të konkurrojnë brenda dhe jashtë eurozonës. Megjithatë, ndonëse kostot e transaksioneve u ulën, disa studime kanë treguar se {{ill|Shmangia e rrezikut|en|risk aversion}} është rritur në eurozonë gjatë 40 viteve të fundit.<ref>Benchimol, J., 2014. [https://ideas.repec.org/a/eee/reecon/v68y2014i1p39-56.html Risk aversion in the Eurozone], ''Research in Economics'', vëll. 68, nr. 1, fq. 40–56.</ref>
+
+=== Barazia e çmimeve ===
+
+Një tjetër pasojë e monedhës së përbashkët evropiane është se dallimet e çmimeve, veçanërisht të niveleve të çmimeve, duhet të zvogëlohen për shkak të {{ill|Ligji i një çmimi|en|law of one price}}. Dallimet e çmimeve mund të nxisin {{ill|Arbitrazhi|en|arbitrage}}, domethënë tregti spekulative me mallra përtej kufijve, vetëm për të shfrytëzuar diferencat e çmimeve. Prandaj, çmimet e mallrave që tregtohen gjerësisht ka të ngjarë të konvergojnë, duke shkaktuar inflacion në disa rajone dhe deflacion në të tjera gjatë periudhës së tranzicionit. Disa dëshmi për këtë janë vërejtur në tregje të caktuara të eurozonës.<ref>{{Cite journal |first1=Pinelopi K. |last1=Goldberg |first2=Frank |last2=Verboven |title=Market Integration and Convergence to the Law of One Price: Evidence from the European Car Market |journal=Journal of International Economics |volume=65 |issue=1 |year=2005 |pages=49–73 |doi=10.1016/j.jinteco.2003.12.002 |s2cid=26850030 |language=en}}</ref>
+
+=== Stabiliteti makroekonomik ===
+
+Para futjes së euros, disa vende kishin arritur ta frenonin inflacionin, i cili në atë kohë shihej si problem i madh ekonomik, duke krijuar banka qendrore kryesisht të pavarura. Njëra prej tyre ishte [[Bundesbank]]-u në Gjermani; Banka Qendrore Evropiane u modelua sipas Bundesbank-ut.<ref name="bundesbank">{{Cite book |title=The History of the Bundesbank: Lessons for the European Central Bank |last=de Haan |first=Jakob |year=2000 |publisher=Routledge |location=London |isbn=978-0-415-21723-1 |url=https://books.google.com/books?id=EaIV0OWlaokC |language=en}}</ref>
+
+Euroja është kritikuar për shkak të rregullimit të saj, mungesës së fleksibilitetit dhe ngurtësisë sa i përket ndarjes së përgjegjësive mes shteteve anëtare për çështje si normat nominale të interesit.<ref>{{Cite journal |last=Silvia |first=Steven J |year=2004 |title=Is the Euro Working? The Euro and European Labour Markets |jstor=4007858 |volume=24 |issue=2 |pages=147–168 |doi=10.1017/s0143814x0400008x |journal=Journal of Public Policy |s2cid=152633940 |language=en}}</ref>
+
+Shumë [[obligacione]] kombëtare dhe të korporatave të denominuara në euro janë dukshëm më likuide dhe kanë norma më të ulëta interesi sesa kur denominoheshin në monedhat kombëtare. Ndonëse rritja e likuiditetit mund ta ulë {{ill|Norma nominale e interesit|en|nominal interest rate}} për obligacionet, argumenti se denomimi i tyre në një monedhë me inflacion të ulët luan rol shumë më të madh është i besueshëm. Një angazhim i besueshëm për inflacion të ulët dhe borxh të qëndrueshëm zvogëlon rrezikun që vlera e borxhit të gërryhet nga inflacioni më i lartë ose mospagimi në të ardhmen, duke mundësuar emetimin e borxhit me një normë nominale interesi më të ulët.
+
+Mbajtja strukturore e inflacionit më të ulët se në Shtetet e Bashkuara, Mbretërinë e Bashkuar dhe Kinë ka gjithashtu kosto. Si rezultat, nga këndvështrimi i këtyre vendeve, euroja është bërë e shtrenjtë, duke i bërë produktet evropiane gjithnjë e më të shtrenjta për importuesit e tyre më të mëdhenj; rrjedhimisht, eksportet nga eurozona bëhen më të vështira.
+
+Në përgjithësi, evropianët që zotërojnë sasi të mëdha eurosh përfitojnë nga stabiliteti i lartë dhe inflacioni i ulët.
+
+Një [[bashkim monetar]] do të thotë se shtetet pjesëmarrëse humbasin mekanizmin kryesor për rimëkëmbjen e {{ill|Konkurrenca|en|Competition (companies)|lt=konkurrueshmërisë}} së tyre ndërkombëtare përmes dobësimit, ose {{ill|Mbiçmimi dhe zhvlerësimi i monedhës|en|Currency appreciation and depreciation|lt=zhvlerësimit}}, të monedhës së tyre. Kur [[rroga|rrogat]] bëhen tepër të larta krahasuar me [[Produktiviteti|produktivitetin]] në sektorin e eksporteve, këto eksporte shtrenjtohen dhe humbasin pjesë të tregut brenda vendit dhe jashtë tij. Kjo shkakton rënie të punësimit dhe prodhimit në sektorin e eksporteve, si dhe rënie të [[Bilanci tregtar|bilancit tregtar]] dhe të [[llogarisë korrente]]. Rënia e prodhimit dhe punësimit në sektorin e mallrave të tregtueshme mund të kompensohet nga rritja e sektorëve që nuk eksportojnë, veçanërisht në [[Ndërtimtaria|ndërtimtari]] dhe në [[Shërbimi|shërbime]]. Rritja e blerjeve jashtë vendit dhe bilancet negative të llogarisë korrente mund të financohen pa problem, për sa kohë që [[Krediti|kredia]] është e lirë.<ref>{{cite web |author1=Ernest Pytlarczyk, Stefan Kawalec |title=Controlled Dismantlement of the Euro Area in Order to Preserve the European Union and Single European Market |url=http://www.case-research.eu/en/controlled-dismantlement-of-the-euro-area-in-order-to-preserve-the-european-union-and-single |publisher=CASE Center for Social and Economic Research |access-date=2018-12-19 |page=11 |date=June 2012 |language=en}}</ref> Nevoja për të financuar deficitin tregtar e dobëson monedhën, duke i bërë eksportet automatikisht më tërheqëse brenda vendit dhe jashtë tij. Një shtet në një bashkim monetar nuk mund ta përdorë dobësimin e monedhës për të rimëkëmbur konkurrueshmërinë e tij ndërkombëtare. Për ta arritur këtë, shteti duhet të ulë çmimet, përfshirë rrogat ([[Deflacioni|deflacion]]). Kjo mund të çojë në [[Papunësia|papunësi]] të lartë dhe të ardhura më të ulëta, siç ndodhi gjatë [[krizë e eurozonës|krizës së eurozonës]].<ref>{{cite journal |author1=[[Martin Feldstein]] |title=The Failure of the Euro |journal=Foreign Affairs |date=January–February 2012 |url=https://www.nber.org/feldstein/fa121311.html |at=Chapter: Trading Places |language=en}}</ref>
+
+==== Tregtia ====
+Euroja rriti transparencën e çmimeve dhe nxiti tregtinë ndërkufitare.<ref name="Eichengreen-2019">{{Cite book |last=Eichengreen |first=Barry |title=Globalizing Capital: A History of the International Monetary System |date=2019|publisher=Princeton University Press |isbn=978-0-691-19390-8 |edition=3rd |pages=212–213 |doi=10.2307/j.ctvd58rxg |jstor=j.ctvd58rxg |s2cid=240840930 |language=en}}</ref> Një konsensus i vitit 2009, i mbështetur në studimet për futjen e euros, arriti në përfundimin se ajo e kishte rritur tregtinë brenda eurozonës me 5% deri në 10%.<ref>{{cite web |url=http://www.ecb.de/pub/pdf/scpwps/ecbwp594.pdf |title=The euro's trade effects |access-date=2009-10-02 |language=en}}</ref> Megjithatë, një {{ill|Meta-analiza|en|meta-analysis}} e të gjitha studimeve të disponueshme mbi ndikimin e futjes së euros në rritjen e tregtisë sugjeron se mbizotërimi i vlerësimeve pozitive vjen nga {{ill|Paragjykimi i botimit|en|publication bias}} dhe se efekti themelor mund të jetë i papërfillshëm.<ref>{{cite journal|title=Rose effect and the euro: is the magic gone? |journal=Review of World Economics |doi=10.1007/s10290-010-0050-1 |volume=146 |issue=2 |pages=241–261|year=2010 |last1=Havránek |first1=Tomáš |s2cid=53585674 |url=https://hal.archives-ouvertes.fr/hal-00582634/file/PEER_stage2_10.1007%252Fs10290-010-0050-1.pdf |language=en}}</ref> Një meta-analizë më e fundit tregon se paragjykimi i botimit zvogëlohet me kalimin e kohës dhe se futja e euros ka efekte pozitive në tregti, për sa kohë merren parasysh rezultatet e studimeve të kryera para vitit 2010. Kjo mund të vijë nga përfshirja e [[Kriza financiare 2007-2008|krizës financiare të vitit 2008]] dhe integrimit të vazhdueshëm brenda BE-së.<ref>{{Cite journal|last=Polák|first=Petr|year=2019|title=The Euro's Trade Effect: A Meta-Analysis|url=https://www.econstor.eu/bitstream/10419/174189/1/wp_2016_22_polak.pdf |journal=Journal of Economic Surveys|volume=33|issue=1|pages=101–124|doi=10.1111/joes.12264|hdl=10419/174189|s2cid=157693449|issn=1467-6419|hdl-access=free|language=en}}</ref> Për më tepër, studimet më të vjetra që përdorën disa metoda për analizimin e prirjeve kryesore, duke pasqyruar politikat e përgjithshme të kohezionit në Evropë që nisën para zbatimit të monedhës së përbashkët dhe vijuan pas tij, nuk gjejnë asnjë efekt mbi tregtinë.<ref>{{cite web|last1=Gomes|first1=Tamara|last2=Graham|first2=Chris|last3=Helliwel|first3=John|last4=Takashi|first4=Kano|last5=Murray|first5=John|last6=Schembri|first6=Lawrence|title=The Euro and Trade: Is there a Positive Effect?|url=http://www2.dse.unibo.it/soegw/paper/GomGraHelKanoMurrayS.pdf|publisher=Bank of Canada|date=August 2006|archive-url=https://web.archive.org/web/20150903222409/http://www2.dse.unibo.it/soegw/paper/GomGraHelKanoMurrayS.pdf|archive-date=2015-09-03|language=en}}</ref><ref>{{cite journal|last1=H.|first1=Berger|last2=V.|first2=Nitsch|title=Zooming out: The trade effect of the euro in historical perspective|journal=Journal of International Money and Finance|volume=27|issue=8|pages=1244–1260 |doi=10.1016/j.jimonfin.2008.07.005|year=2008|hdl=10419/18799|s2cid=53493723|url=https://www.cesifo.org/DocDL/cesifo1_wp1435.pdf|hdl-access=free|language=en}}</ref> Këto rezultate sugjerojnë se politika të tjera që synonin integrimin evropian mund të jenë burimi i rritjes së vërejtur të tregtisë. Sipas Barry Eichengreen, studimet nuk pajtohen për madhësinë e ndikimit të euros mbi tregtinë, por pajtohen se ajo ka pasur ndikim.<ref name="Eichengreen-2019"/>
+
+==== Investimi ====
+Investimet fizike duket se u rritën me 5% në [[Eurozona|Eurozonë]] pas futjes së euros.<ref>{{cite web |url=http://www.eu-financial-system.org/fileadmin/content/Dokumente_Events/second_conference/Dvorak.pdf |title=The Impact of the Euro on Investment: Sectoral Evidence |access-date=2009-10-02 |archive-url=https://web.archive.org/web/20130831043539/http://www.eu-financial-system.org/fileadmin/content/Dokumente_Events/second_conference/Dvorak.pdf |archive-date=2013-08-31 |language=en}}</ref> Sa i përket investimeve të huaja të drejtpërdrejta, një studim zbuloi se stoku i investimeve të huaja të drejtpërdrejta brenda Eurozonës u rrit me rreth 20% gjatë katër viteve të para të Bashkimit Ekonomik dhe Monetar.<ref>{{cite web |url=http://www.afse.fr/docs/congres_2005/docs2005/Sousa.pdf |archive-url=https://web.archive.org/web/20061210053621/http://www.afse.fr/docs/congres_2005/docs2005/Sousa.pdf |archive-date=2006-12-10 |title=Does the single currency affect FDI? |publisher=AFSE.fr |access-date=2010-05-30 |language=en}}</ref> Lidhur me ndikimin te investimet e korporatave, ka dëshmi se futja e euros ka rritur normat e investimit dhe ua ka lehtësuar firmave qasjen në financim në Evropë. Euroja i ka nxitur më së shumti investimet në kompanitë nga vendet që më parë kishin valuta të dobëta. Një studim zbuloi se futja e euros shpjegon 22% të normës së investimit pas vitit 1998 në vendet që më parë kishin valutë të dobët.<ref>{{cite web |url=http://www2.wu-wien.ac.at/rof/papers/pdf/Bris-Koskinen-Nilsson_Euro%20Effects.pdf |title=The Real Effects of the Euro: Evidence from Corporate Investments |access-date=2010-05-30 |archive-url=https://web.archive.org/web/20110706085845/http://www2.wu-wien.ac.at/rof/papers/pdf/Bris-Koskinen-Nilsson_Euro%20Effects.pdf |archive-date=2011-07-06 |language=en}}</ref>
+
+==== Inflacioni ====
+[[File:Euro inflation.webp|thumb|Inflacioni në Eurozonë]]
+Futja e euros ka nxitur diskutime të shumta për ndikimin e saj të mundshëm në inflacion. Në afat të shkurtër, në popullsinë e Eurozonës ishte e përhapur përshtypja se futja e euros kishte çuar në rritje çmimesh, por kjo përshtypje nuk u konfirmua nga indekset e përgjithshme të inflacionit dhe studime të tjera.<ref>{{Cite journal|author = Paolo Angelini |author2=Francesco Lippi | title = Did Prices Really Soar after the Euro Cash Changeover? Evidence from ATM Withdrawals | journal = International Journal of Central Banking | date = December 2007 | url = http://www.ijcb.org/journal/ijcb07q4a1.pdf | access-date = 2011-08-23 |language=en}}</ref><ref>{{cite web| url = http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Content/Publikationen/Querschnittsveroeffentlichungen/WirtschaftStatistik/Preise/EuroBargeldeinfuehrung,property=file.pdf| title = Fünf Jahre nach der Euro-Bargeldeinführung&nbsp;–War der Euro wirklich ein Teuro?|trans-title=Pesë vjet pas futjes së euros në para të gatshme&nbsp;– A i bëri vërtet euroja gjërat më të shtrenjta?| author = Irmtraud Beuerlein| publisher = Statistisches Bundesamt, Wiesbaden| language = de| access-date = 2011-08-23}}</ref> Një studim i këtij paradoksi zbuloi se ai vinte nga ndikimi asimetrik i futjes së euros te çmimet: ndërsa nuk pati ndikim te shumica e mallrave, çmimet e mallrave të lira u rrumbullakosën lart pas futjes së euros. Studimi zbuloi se konsumatorët i bazonin bindjet për inflacionin te këto mallra të lira, të cilat blihen shpesh.<ref>{{cite journal|url=http://www3.interscience.wiley.com/journal/121658067/abstract |archive-url=https://wayback.archive-it.org/all/20171011040045/http://onlinelibrary.wiley.com/doi/10.1111/j.1538-4616.2008.00189.x/abstract |archive-date=2017-10-11 |title=The Euro Changeover and Its Effects on Price Transparency and Inflation |access-date=2010-11-12|doi=10.1111/j.1538-4616.2008.00189.x|volume=41|journal=Journal of Money, Credit and Banking|pages=101–129|year=2009 |last1=Dziuda |first1=Wioletta |last2=Mastrobuoni |first2=Giovanni |issue=1 |language=en}}</ref> Është sugjeruar gjithashtu se rritja e çmimeve të vogla mund të ketë ndodhur sepse, para futjes së euros, shitësit me pakicë bënin më pak rritje çmimesh dhe prisnin ta bënin këtë pas futjes së saj.<ref>{{Cite journal|doi=10.1162/qjec.121.3.1103 |title=Quarterly Journal of Economics&nbsp;– Abstract |journal=Quarterly Journal of Economics |volume=121 |issue=3 |pages=1103–1131 |year=2006 |last1=Hobijn |first1=Bart |last2=Ravenna |first2=Federico |last3=Tambalotti |first3=Andrea |url=https://www.econstor.eu/bitstream/10419/60548/1/477453724.pdf |language=en}}</ref> Duke u bazuar te futja e euros si monedhë zyrtare në Kroaci në vitin 2023, [[Banka Qendrore Evropiane]] argumenton se inflacioni i shkaktuar nga ndryshimi i valutës është një efekt i njëhershëm dhe me ndikim të kufizuar.<ref>{{Cite web |url=https://www.ecb.europa.eu/press/blog/date/2023/html/ecb.blog.230307~1669dec988.en.html |title=Has the euro changeover really caused extra inflation in Croatia |date=2023-03-07 |access-date=2024-05-05 |website=ECB |last1=Falagiarda |first1=Matteo |last2=Gartner |first2=Christine |last3=Mužić |first3=Ivan |last4=Pufnik |first4=Andreja |language=en}}</ref>
+
+==== Rreziku i kursit të këmbimit ====
+Një nga përparësitë e adoptimit të një valute të përbashkët është ulja e rrezikut që lidhet me ndryshimet në [[kursi i këmbimit|kurset e këmbimit të valutave]].<ref name="Eichengreen-2019"/> Është zbuluar se futja e euros solli «ulje të ndjeshme të ekspozimit ndaj rrezikut të tregut për firmat jofinanciare, si brenda Evropës, ashtu edhe jashtë saj».<ref>{{cite journal |title=The impact of the introduction of the Euro on foreign exchange rate risk exposures |journal=Journal of Empirical Finance |doi=10.1016/j.jempfin.2006.01.002 |volume=13 |issue=4–5 |pages=519–549|year=2006 |last1=Bartram |first1=Söhnke M. |last2=Karolyi |first2=G. Andrew |language=en}}</ref> Këto ulje të rrezikut të tregut «u përqendruan te firmat me seli në Eurozonë dhe te firmat jashtë Eurozonës që kishin pjesë të madhe të shitjeve ose aseteve të huaja në Evropë».
+
+==== Integrimi financiar ====
+Futja e euros rriti integrimin financiar në Evropë, gjë që ndihmoi në nxitjen e zhvillimit të një {{ill|Tregu i letrave me vlerë|en|Securities market}} evropian (tregjet e obligacioneve karakterizohen nga dinamika e {{ill|Ekonomitë e shkallës|en|Economies of scale}}).<ref name="Eichengreen-2019"/> Sipas një studimi mbi këtë çështje, ajo «e riformësoi ndjeshëm sistemin financiar evropian, veçanërisht sa u përket tregjeve të letrave me vlerë [...] Megjithatë, pengesat reale dhe ato të politikave ndaj integrimit në sektorët e bankave me pakicë dhe të bankave të korporatave mbeten të konsiderueshme, edhe pse pjesa e bankave që merret me transaksionet ndërbankare është integruar kryesisht».<ref>{{Cite web|url=http://www.tcd.ie/iiis/documents/discussion/pdfs/iiisdp139.pdf |title=The Euro and Financial Integration|date=May 2006 |access-date=2009-10-02|language=en}}</ref> Konkretisht, euroja e uli ndjeshëm koston e tregtimit të obligacioneve, aksioneve dhe aktiveve bankare brenda [[Eurozona|eurozonës]].<ref>{{Cite journal |title=The geography of asset trade and the euro: Insiders and outsiders |journal=Journal of the Japanese and International Economies |doi=10.1016/j.jjie.2008.11.001 |volume=23 |issue=2 |pages=90–113|year=2009 |last1=Coeurdacier |first1=Nicolas |last2=Martin |first2=Philippe |s2cid=55948853 |url=http://www.cepremap.fr/depot/docweb/docweb0701.pdf |language=en}}</ref> Në nivel global, ka dëshmi se futja e euros ka çuar në integrim sa i përket investimeve në portofole obligacionesh, ku vendet e eurozonës i japin hua njëra-tjetrës dhe marrin hua prej njëra-tjetrës më shumë sesa me vendet e tjera.<ref>{{Cite journal |last1=Lane |first1=Philip R. |title=Global Bond Portfolios and EMU |journal=International Journal of Central Banking |date=June 2006 |volume=2 |issue=2 |pages=1–23 |url=https://www.ijcb.org/journal/ijcb06q2a1.htm |language=en}}</ref> Integrimi financiar ua bëri më të lirë huamarrjen kompanive evropiane.<ref name="Eichengreen-2019"/> Bankat, firmat dhe familjet mund të investonin gjithashtu më lehtë jashtë vendit të tyre, duke krijuar kështu ndarje më të madhe ndërkombëtare të rrezikut.<ref name="Eichengreen-2019"/>
+
+==== Efekti mbi normat e interesit ====
+[[File:Long-term interest rates of eurozone countries since 1993.png|thumb|upright=1.35|Rendimentet në tregun dytësor të obligacioneve qeveritare me maturitet afërsisht 10-vjeçar]]
+
+Që nga futja e euros dhe deri në janar 2014, normat e interesit në shumicën e vendeve anëtare, veçanërisht në ato me monedhë të dobët, kishin rënë. Disa prej këtyre vendeve kishin problemet më të rënda me financimin e borxhit sovran.
+
+Efekti i rënies së normave të interesit, i kombinuar me likuiditetin e tepërt që ECB-ja ofronte vazhdimisht, ua lehtësoi bankave në vendet ku normat e interesit ranë më shumë, si dhe qeverive të lidhura me to, të merrnin hua shuma të konsiderueshme (mbi kufirin fillestar prej 3% të PBB-së për deficitin buxhetor të vendosur për eurozonën) dhe të rrisnin ndjeshëm nivelet e borxhit publik dhe privat.<ref>{{Cite web|url=http://www.investmentweek.co.uk/investment-week/opinion/2076100/redwood-origins-euro-crisis |title=Redwood: The origins of the euro crisis |publisher=Investmentweek.co.uk |date=2011-06-03 |access-date=2011-09-16|language=en}}</ref> Pas [[Kriza financiare 2007-2008|krizës financiare të vitit 2008]], qeveritë e këtyre vendeve e panë të nevojshme të shpëtonin bankat private ose t’i shtetëzonin ato, për të parandaluar kolapsin sistemik të sistemit bankar, pasi u zbulua se vlerat bazë të aktiveve reale ose financiare ishin fryrë tej mase dhe, në disa raste, ishin aq pranë zeros saqë nuk kishte treg likuid për to.<ref>{{Cite web|url=http://www.ip-global.org/2011/02/01/farewell-fair-weather-euro/ |title=Farewell, Fair-Weather Euro &#124; IP&nbsp;– Global-Edition |publisher=Ip-global.org |access-date=2011-09-16 |archive-url=https://web.archive.org/web/20110317161013/http://www.ip-global.org/2011/02/01/farewell-fair-weather-euro/ |archive-date=2011-03-17|language=en}}</ref> Kjo i rriti më tej nivelet tashmë të larta të borxhit publik, deri në një pikë që tregjet nisën t’i konsideronin të paqëndrueshme, përmes rritjes së normave të interesit për obligacionet qeveritare, duke çuar në [[krizë e eurozonës|krizën e eurozonës]].
+
+==== Konvergjenca e çmimeve ====
+Dëshmitë për konvergjencën e çmimeve në eurozonë pas futjes së euros janë të përziera. Disa studime nuk gjetën dëshmi të konvergjencës pas futjes së euros, pas një faze konvergjence në fillim të viteve 1990.<ref>{{Cite web |url=https://www.ecb.eu/events/pdf/conferences/emu/sessionV_Angeloni_Paper.pdf |title=Price setting and inflation dynamics: did EMU matter |access-date=2011-03-13 |archive-url=https://web.archive.org/web/20110725112443/http://www.ecb.eu/events/pdf/conferences/emu/sessionV_Angeloni_Paper.pdf |archive-date=2011-07-25|language=en}}</ref><ref>{{Cite web|url=http://opus.zbw-kiel.de/volltexte/2009/7575/pdf/200906dkp.pdf |title=Price convergence in the EMU? Evidence from micro data |access-date=2009-10-02|language=en}}</ref> Studime të tjera kanë gjetur dëshmi të konvergjencës së çmimeve,<ref>{{Cite web |url=http://faculty.london.edu/hrey/IMRRtele.pdf |title=One TV, One Price? |access-date=2011-07-17|language=en}}</ref><ref>{{Cite web |url=http://mpra.ub.uni-muenchen.de/835/1/MPRA_paper_835.pdf |title=One Market, One Money, One Price? |access-date=2011-07-17|language=en}}</ref> veçanërisht për makinat.<ref>Gil-Pareja, Salvador, dhe Simón Sosvilla-Rivero, [http://www.fedea.es/pub/Papers/2005/dt2005-22.pdf "Price Convergence in the European Car Market"], FEDEA, nëntor 2005.</ref> Një arsye e mundshme për dallimet mes studimeve është se proceset e konvergjencës mund të mos kenë qenë lineare: ato u ngadalësuan ndjeshëm nga viti 2000 deri në vitin 2003 dhe rifilluan pas vitit 2003, siç sugjeron një studim i kohëve të fundit (2009).<ref>{{Cite web |url=http://www.wiso.uni-hamburg.de/hepdoc/macppr_4_2009.pdf |first1=Ulrich |last1=Fritsche |first2=Sarah |last2=Lein |first3=Sebastian |last3=Weber |title=Do Prices in the EMU Converge (Non-linearly)? |publisher=University of Hamburg, Department Economics and Politics Discussion Papers, Macroeconomics and Finance Series |date=April 2009 |access-date=2010-12-28 |archive-url=https://web.archive.org/web/20110719105515/http://www.wiso.uni-hamburg.de/hepdoc/macppr_4_2009.pdf |archive-date=2011-07-19|language=en}}</ref>
+
+==== Turizmi ====
+Një studim sugjeron se futja e euros ka pasur ndikim pozitiv në numrin e udhëtimeve turistike brenda EMU-së, duke e rritur atë me 6,5%.<ref>{{cite journal|last1=Gil-Pareja|first1=Salvador|last2=Llorca-Vivero|first2=Rafael|last3=Martínez-Serrano|first3=José|title=The Effect of EMU on Tourism|ssrn=983231|journal=Review of International Economics |volume=15 |issue=2 |pages=302–312 |date=May 2007|doi=10.1111/j.1467-9396.2006.00620.x|s2cid=154503069|language=en}}</ref>
+
+== Kurset e këmbimit ==
+=== Kurset fleksibël të këmbimit ===
+
+BQE-ja synon [[Inflacioni|inflacionin]], jo [[Kursi i këmbimit|kurset e këmbimit]] dhe, në përgjithësi, nuk ndërhyn në tregjet valutore. Kjo lidhet me pasojat e {{ill|Modeli Mundell–Fleming|en|Mundell–Fleming model}}, sipas të cilit një bankë qendrore nuk mund të ruajë njëkohësisht objektiva për normat e interesit dhe kurset e këmbimit pa {{ill|Kontrolli i kapitalit|en|Capital control}}, sepse rritja e {{ill|Oferta monetare|en|Money supply}} sjell {{ill|Mbiçmimi dhe zhvlerësimi i monedhës|en|Currency appreciation and depreciation|lt=zhvlerësimin e monedhës}}. Në vitet pas {{ill|Akti i Vetëm Evropian|en|Single European Act}}, BE-ja liberalizoi tregjet e saj të kapitalit dhe, meqë BQE-ja zbaton {{ill|Synimi i inflacionit|en|Inflation targeting|lt=synim të inflacionit}} si [[Politika monetare|politikë monetare]], regjimi i kursit të këmbimit të euros është {{ill|Kursi i luhatshëm i këmbimit|en|Floating exchange rate|lt=i luhatshëm}}.
+
+=== Kundrejt monedhave të tjera kryesore ===
+
+Euroja është {{ill|Monedha rezervë|en|Reserve currency|lt=monedha rezervë}} e dytë më e përdorur pas dollarit amerikan. Pas futjes së saj më 4 janar 1999, kursi i këmbimit kundrejt monedhave të tjera kryesore ra, duke arritur nivelet më të ulëta në vitin 2000 (më 3 maj kundrejt [[Paund sterlina|paundit sterlinë]], më 25 tetor kundrejt dollarit amerikan dhe më 26 tetor kundrejt [[Jeni japonez|jenit japonez]]). Më pas u rimëkëmb dhe kursi i saj arriti nivelet më të larta historike në vitin 2008 (më 15 korrik kundrejt dollarit amerikan, më 23 korrik kundrejt jenit japonez dhe më 29 dhjetor kundrejt paundit sterlinë). Me fillimin e [[Kriza financiare 2007-2008|krizës financiare të vitit 2008]], euroja fillimisht ra, por më vonë u rimëkëmb. Pavarësisht trysnisë së shkaktuar nga kriza e eurozonës, euroja mbeti e qëndrueshme.<ref>{{cite news |last1=Kirschbaum |first1=Erik |title=Schaeuble says markets have confidence in euro |work=Reuters |url=https://www.reuters.com/article/us-eurozone-schaeuble/schaeuble-says-markets-have-confidence-in-euro-idUSTRE77L0LK20110822 |access-date=2018-03-28|language=en}}</ref> Në nëntor 2011, indeksi i kursit të këmbimit të euros, i matur kundrejt monedhave të partnerëve kryesorë tregtarë të bllokut, ishte pothuajse 2% më i lartë krahasuar me një vit më parë, afërsisht në të njëjtin nivel si para fillimit të krizës në vitin 2007.<ref>{{cite news |url=http://uk.reuters.com/article/uk-markets-euro-mystery-idUKLNE7AE02520111115 |archive-url=https://web.archive.org/web/20151230043335/http://uk.reuters.com/article/uk-markets-euro-mystery-idUKLNE7AE02520111115 |archive-date=2015-12-30 |title=Puzzle over euro's 'mysterious' stability |work=[[Reuters]] |date=2011-11-15|language=en}}</ref> Në mesin e korrikut 2022, euroja dhe dollari amerikan u këmbyen për një periudhë të shkurtër me vlerë të barabartë, gjatë një episodi të {{ill|Mbiçmimi dhe zhvlerësimi i monedhës|en|Currency appreciation and depreciation|lt=mbiçmimit të dollarit}}.<ref name="NYTimes-2022" /> Që nga viti 2024, euroja ka arritur nivele të reja rekord kundrejt jenit japonez. Më 17 prill 2026, ajo arriti nivelin më të lartë historik kundrejt jenit.<ref>{{Cite journal |title=Japanese yen (JPY) |url=https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-jpy.en.html |access-date=2026-04-22 |website=www.ecb.europa.eu|language=en}}</ref>
+
+{{multiple image
+| align     = center
+| direction = horizontal
+| width = 310
+| footer_align = center
+| footer = Kursi i këmbimit të euros kundrejt dollarit amerikan (USD), paundit sterlinë (GBP) dhe jenit japonez (JPY), duke filluar nga viti 1999.
+| image1 = Euro exchange rate to USD.svg
+| alt1 =
+| caption1 =
+| image2 = Euro exchange rate to GBP.svg
+| alt2 =
+| caption2 =
+| image3 = Euro exchange rate to JPY.svg
+| alt3 =
+| caption3 =
+}}
+
+*Kursi aktual dhe historik i këmbimit kundrejt 29 monedhave të tjera (Banka Qendrore Evropiane): ''[https://www.ecb.int/stats/exchange/eurofxref/html/index.en.html lidhja]''
+
+== Konsiderata politike ==
+Përveç arsyeve ekonomike për futjen e euros, krijimi i saj u justifikua pjesërisht edhe si mënyrë për të nxitur një ndjenjë më të fortë të {{ill|Identiteti i përbashkët evropian|en|Pan-European identity|lt=identitetit të përbashkët evropian}} ndërmjet qytetarëve evropianë. Deklarata për këtë synim u bënë, ndër të tjerë, nga {{ill|Wim Duisenberg|en|Wim Duisenberg}}, guvernator i Bankës Qendrore Evropiane, në vitin 1998,<ref>{{cite book |title=Global Finance After the Crisis|date=2013|quote=The euro is far more than a medium of exchange. It is part of the identity of a people. It reflects what they have in common now and in the future.|language=en}}</ref> {{ill|Laurent Fabius|en|Laurent Fabius}}, ministër francez i Financave, në vitin 2000,<ref>{{cite news |newspaper=Financial Times|date=2000-07-24|quote=Thanks to the euro, our pockets will soon hold solid evidence of a European identity|title=European identity|language=en}}</ref> dhe [[Romano Prodi]], president i Komisionit Evropian, në vitin 2002.<ref>{{cite book|title=Speech to the European Parliament|date=2002-01-16 |quote=The euro is becoming a key element in peoples sense of shared European identity and common destiny.|language=en}}</ref> Megjithatë, 15 vjet pas futjes së euros, një studim nuk gjeti prova se ajo kishte ndikuar në ndjenjën e përbashkët të identitetit evropian.<ref name=EER>{{cite journal |author1=Franz Buscha |title=Can a common currency foster a shared social identity across different nations? The case of the euro|journal=European Economic Review|date=November 2017 |volume=100 |pages=318–336 |url=http://westminsterresearch.wmin.ac.uk/19659/1/EU_identity_V17_EER_revisions_2ndRound.pdf |doi=10.1016/j.euroecorev.2017.08.011|s2cid=102510742 |language=en}}</ref>
+
+== Opinioni publik ==
+Mbështetja publike për euron sipas shteteve anëtare të BE-së, bazuar në Eurobarometrin standard «Pranverë 2026»:<ref name="i768">{{cite report |url=https://europa.eu/eurobarometer/surveys/detail/3613 |title=Standard Eurobarometer 105 – Spring 2026 Public opinion in the European Union, First Results |author1=European Commission. Directorate General for Communication. |date=2026 |publisher=Publications Office of the European Union |issue=105 |page=28|language=en}}</ref>
+[[File:Support for the euro in the EU Eurobarometer Q4 2025.png|thumb|Shkalla e miratimit në sondazhin e Eurobarometrit, nëntor 2025]]
+
+=== Eurozona ===
+{| class="wikitable sortable sticky-header"
+! Shteti !! Pro % !! Kundër %
+|-
+|{{Flag|Bashkimi Evropian}}
+|74
+|22
+|-
+| Austria || 71 || 26
+|-
+| Belgjika || 82 || 16
+|-
+| Bullgaria || 55 || 39
+|-
+| Kroacia || 62 || 36
+|-
+| Qipro || 82 || 13
+|-
+| Estonia || 87 || 10
+|-
+| Finlanda || 89 || 8
+|-
+| Franca || 79 || 17
+|-
+| Gjermania || 87 || 10
+|-
+| Greqia || 73 || 23
+|-
+| Irlanda || 92 || 5
+|-
+| Italia || 78 || 19
+|-
+| Letonia || 84 || 11
+|-
+| Lituania || 80 || 15
+|-
+| Luksemburgu || 91 || 7
+|-
+| Malta || 87 || 12
+|-
+| Holanda || 86 || 13
+|-
+| Portugalia || 89 || 8
+|-
+| Sllovakia || 90 || 8
+|-
+| Sllovenia || 92 || 8
+|-
+| Spanja || 87 || 11
+|}
+
+=== Shtetet jashtë eurozonës ===
+
+{| class="wikitable sortable sticky-header"
+! Shteti !! Pro % !! Kundër %
+|-
+| Republika Çeke || 28 || 67
+|-
+| Danimarka || 36 || 57
+|-
+| Hungaria || 67 || 29
+|-
+| Polonia || 38 || 57
+|-
+| Rumania || 57 || 37
+|-
+| Suedia || 37 || 57
+|}
+
+=== Evolucioni historik ===
+Që nga futja e euros, [[Eurobarometri|Eurobarometri]] ka bërë rregullisht sondazhe me [[Shtetësia e Bashkimit Evropian|qytetarët e Bashkimit Evropian]] mbi mbështetjen e tyre për euron. Të dhënat vjetore janë të agreguara mbi bazën e vlerave dyvjetore (dy herë në vit) të ''Eurobarometrit Standard''. Dy tabelat më poshtë tregojnë evolucionin e këtij qëndrimi për Bashkimin Evropian dhe për eurozonën, respektivisht.<ref name="i768" />
+{| class="wikitable sortable mw-collapsible sticky-header"
+|+Mbështetja publike për euron në Bashkimin Evropian
+! Viti !! Pro % !! Kundër %
+|-
+| 2026 || 74 || 22
+|-
+| 2025 || 74 || 22,5
+|-
+|2024
+|72
+|22,5
+|-
+|2023
+|71
+|23
+|-
+|2022/23
+|71,5
+|22,5
+|-
+|2021/22
+|69,5
+|24
+|-
+|2020/21
+|68,5
+|24
+|-
+|2019
+|62
+|29,5
+|-
+|2018
+|61,5
+|32
+|-
+|2017
+|60,5
+|33,5
+|-
+|2016
+|56,5
+|37
+|-
+|2015
+|56,5
+|36,5
+|-
+|2014
+|55,5
+|36
+|-
+|2013
+|51,5
+|41,5
+|-
+|2012
+|52,5
+|40
+|-
+|2011
+|54,5
+|38,5
+|-
+|2010
+|57
+|36
+|-
+|2009
+|60,5
+|33
+|-
+|2008
+|60,5
+|32,5
+|-
+|2007
+|62
+|31
+|-
+|2006
+|59,5
+|33,5
+|-
+|2005
+|59,5
+|34,5
+|}
+
+{| class="wikitable sortable mw-collapsible sticky-header"
+|+Mbështetja publike për euron në eurozonë
+! Viti !! Pro % !! Kundër %
+|-
+| 2026 || 82 || 15
+|-
+| 2025 || 82,5 || 14,5
+|-
+|2024
+|79,5
+|16
+|-
+|2023
+|78,5
+|16
+|-
+|2022/23
+|79,5
+|15,5
+|-
+|2021/22
+|78
+|15,5
+|-
+|2020/21
+|77
+|16
+|-
+|2019
+|76
+|18
+|-
+|2018
+|74,5
+|20
+|-
+|2017
+|73,5
+|21,5
+|-
+|2016
+|69
+|25,5
+|-
+|2015
+|68,5
+|25,5
+|-
+|2014
+|67
+|26
+|-
+|2013
+|62,5
+|31
+|-
+|2012
+|64,5
+|29
+|-
+|2011
+|65
+|28,5
+|-
+|2010
+|66,5
+|27,5
+|-
+|2009
+|68
+|26,5
+|-
+|2008
+|68,5
+|26
+|-
+|2007
+|69,5
+|24,5
+|-
+|2006
+|66,5
+|27,5
+|-
+|2005
+|67
+|28,5
+|}
+
+== ''Euro'' në gjuhë të ndryshme zyrtare të BE-së ==
+{{Hatnote|Artikulli kryesor: {{ill|Gjuha dhe euro|en|Euro sign}}}}
+
+Titujt formalë të monedhës janë ''euro'' për njësinë kryesore dhe ''cent'' për njësinë e vogël (një të qindtën) dhe për përdorim zyrtar në shumicën e gjuhëve të eurozonës; sipas BQE-së, të gjitha gjuhët duhet të përdorin të njëjtën shkrim për emërorën njëjës.<ref>{{cite web|url=http://www.ecb.int/pub/pdf/conrep/cr200705en.pdf|title=European Central Bank, Convergence Report|date=May 2007|quote=The euro is the single currency of the member states that have adopted it. To make this singleness apparent, Community law requires a single spelling of the word ''euro'' in the nominative singular case in all community and national legislative provisions, taking into account the existence of different alphabets.|access-date=2008-12-29|language=en}}</ref> Kjo mund të bjerë ndesh me rregullat normale të formimit të fjalëve në disa gjuhë.
+
+Praktika zyrtare për legjislacionin e BE-së në anglisht është që fjalët ''euro'' dhe ''cent'' të përdoren si në njëjës, ashtu edhe në shumës.<ref>{{cite report |publisher=European Commission |title=Spelling of the words "euro" and "cent" in official community languages as used in community legislative acts | quote=This spelling without an "s" may be seen as departing from usual English practice for currencies. |url=https://european-union.europa.eu/document/download/b9fdeae1-dc66-47a7-a902-fb941309e744_hr?filename=publication6336_en.pdf | access-date=2025-10-12 |language=en}}</ref> Kjo praktikë është konfirmuar nga Drejtoria e Përgjithshme e Përkthimit,{{efn|Para Brexit-it, udhëzuesi i stilit këshillonte shumësin konvencional në anglisht.<ref>{{Cite web |title=English Style Guide |url=http://ec.europa.eu/translation/writing/style_guides/english/style_guide_en.pdf |date=2010-12-05 |access-date=2017-09-24 |archive-date=2010-12-05 |archive-url=https://web.archive.org/web/20101205092625/http://ec.europa.eu/translation/writing/style_guides/english/style_guide_en.pdf |language=en}} (kopje e arkivuar, shih §28.8)</ref>}} e cila thotë se format e shumësit ''euro'' dhe ''cent'' duhet të përdoren edhe në anglisht.<ref>{{Cite web |publisher=European Commission Directorate-General for Translation |title=English Style Guide |page=53 |quote=The euro: Like any other currency name in English, the word 'euro' is written in lower case with no initial capital. The plural of 'euro' is 'euro' (without 's'). The invariable plural form 'cent' is also preferred and is compulsory in legal acts |url=https://commission.europa.eu/system/files/2023-11/styleguide_english_dgt_en.pdf |date=August 2025 | access-date=2025-10-12 |language=en}}</ref> Bullgaria ka negociuar një përjashtim; ''euro'' në alfabetin cirilik bullgar shkruhet {{lang|bg|eвро}} (''evro'') dhe jo *''eуро'' (*''euro'') në të gjitha dokumentet zyrtare.<ref>{{cite news|author=Elena Koinova |url=http://sofiaecho.com/2007/10/19/656777_evro-dispute-over-portuguese-foreign-minister |archive-url=https://web.archive.org/web/20110603212303/http://sofiaecho.com/2007/10/19/656777_evro-dispute-over-portuguese-foreign-minister |archive-date=2011-06-03 |title="Evro" Dispute Over&nbsp;– Portuguese Foreign Minister&nbsp;– Bulgaria |newspaper=The Sofia Echo |date=2007-10-19 |access-date=2011-07-17 |language=en}}</ref> Në shkrimin grek përdoret termi {{lang|el|ευρώ}} (''evró''); monedhat greke të «centit» emërtohen {{lang|el|λεπτό/ά}} ({{Transl|el|leptó/á}}). Në mënyrë të ngjashme, monedhat bullgare të «centit» emërtohen стотинка/и (stotìnka/i), që është një [[Huazimi kalk|kalk]] i fjalës «cent».<ref>{{Cite web |date=2025-11-12 |title=Bulgaria |url=https://www.ecb.europa.eu/euro/coins/html/bg.en.html |access-date=2026-01-01 |website=European Central Bank |language=en}}</ref>
+Fjala «euro» shqiptohet ndryshe sipas rregullave të shqiptimit të gjuhëve përkatëse; në gjermanisht {{IPA|de|ˈɔʏʁo|}}, në anglisht {{IPAc-en|ˈ|ɪ|u|r|oʊ}}, në frëngjisht {{IPA|fr|øʁo|}}, etj.<!-- Nga en.wiki: Advice to editors: this paragraph is intended to be just a summary. If you wish to add material, please consider using the "Linguistic issues" article to do so. -->
+
+Në përmbledhje:
+{| class="wikitable"
+! Gjuha(t)
+! Emri
+! [[Alfabeti Fonetik Ndërkombëtar|IPA]]
+|-
+| {{ill|Në shumicën e gjuhëve të BE-së|en|Language and the euro|lt=Në shumicën e gjuhëve të BE-së}}
+| euro
+| {{IPA|hr|ěuro|lang}}, {{IPA|cs|ˈɛuro|lang}}, {{IPA|da|ˈœwʁo|lang}}, {{IPA|nl|ˈøːroː|lang}}, {{IPA|et|ˈeu̯ro|lang}}, {{IPA|fi|ˈeu̯ro|lang}}, {{IPA|fr|øʁo|lang}}, {{IPA|it|ˈɛuro|lang}}, {{IPA|pl|ˈɛwrɔ|lang}}, {{IPA|pt|ˈewɾɔ|lang}} ose {{IPA|pt|ˈewɾu|}}, {{IPA|sk|ˈewrɔ|lang}}, {{IPA|es|ˈewɾo|lang}}
+|-
+| [[Gjuha bullgare|Bullgarisht]]
+| {{lang|bg|евро}} ''evro''
+| {{IPA|bg|ˈɛvro|lang}}
+|-
+| [[Gjuha gjermane|Gjermanisht]]
+| {{lang|de|Euro}}
+| {{IPA|de|ˈɔi̯ʁo|}}
+|-
+| [[Gjuha greke|Greqisht]]
+| {{lang|el|ευρώ}} ''evró''
+| {{IPA|el|eˈvro|}}
+|-
+| [[Gjuha hungareze|Hungarisht]]
+| {{lang|hu|euró}}
+| {{IPA|hu|ˈɛuroː|}} ose {{IPA|hu|ˈɛu̯roː|}}
+|-
+| [[Gjuha letoneze|Letonisht]]
+| ''euro'' ose {{lang|lv|eiro}}
+| {{IPA|lv|ɛìro|}}
+|-
+| [[Gjuha lituaneze|Lituanisht]]
+| {{lang|lt|euras}}
+| {{IPA|lt|ˈɛʊrɐs|}}
+|-
+| [[Gjuha malteze|Maltisht]]
+| {{lang|mt|ewro}}
+| {{IPA|mt|ˈɛʊ̯rɔ|}}
+|-
+| [[Gjuha sllovene|Sllovenisht]]
+| {{lang|sl|evro}}
+| {{IPA|sl|ˈéːʋrɔ|}}
+|}
+
+Për fonetikën lokale, centin, përdorimin e shumësit dhe formatimin e shumave (€6,00 ose 6.00&nbsp;€), shih {{ill|Gjuha dhe euro|en|Language and the euro}}.
+
+== Shiko edhe ==
+{{Portal|Bashkimi Evropian|Evropa}}
+
+* {{ill|Captain Euro|en|Captain Euro}}
+** {{ill|The Raspberry Ice Cream War|en|The Raspberry Ice Cream War}}
+* {{ill|Kriza e eurozonës|en|Euro area crisis}}
+** {{ill|Shkaqet e krizës së eurozonës|en|Causes of the euro area crisis}}
+** {{ill|Zgjidhjet e propozuara afatgjata për krizën e eurozonës|en|Proposed long-term solutions for the eurozone crisis}}
+** {{ill|Lista e akronimeve që lidhen me krizën e eurozonës|en|List of acronyms associated with the eurozone crisis}}
+* {{ill|Bashkimi monetar|en|Currency union}}
+* {{ill|Euroja dixhitale|en|Digital euro}}
+* {{ill|Bashkimi Ekonomik dhe Monetar i Bashkimit Evropian|en|Economic and Monetary Union of the European Union}}
+* {{ill|Integrimi evropian|en|European integration}}
+* [[Historia e Bashkimit Evropian]]
+* [[Lista e valutave në qarkullim]]
+* {{ill|Lista e valutave në Evropë|en|List of currencies in Europe}}
+* {{ill|Dalja nga eurozona|en|Withdrawal from the eurozone}}
+
+== Shënime ==
+{{Listë shënimesh}}
+
+== Referime ==
+{{Reflist}}
+
+== Literatura shtesë ==
+* {{Cite journal |last1=Bartram |first1=Söhnke M. |last2=Taylor |first2=Stephen J. |last3=Wang |first3=Yaw-Huei |date=May 2007 |title=The Euro and European Financial Market Dependence |journal=Journal of Banking and Finance |volume=51 |issue=5 |pages=1461–1481 |doi=10.1016/j.jbankfin.2006.07.014 |ssrn=924333 |url=http://ntur.lib.ntu.edu.tw/news/agent_contract.pdf |language=en}}
+* {{Cite journal |last1=Bartram |first1=Söhnke M. |last2=Karolyi |first2=G. Andrew |date=October 2006 |title=The Impact of the Introduction of the Euro on Foreign Exchange Rate Risk Exposures |journal=Journal of Empirical Finance |volume=13 |issue=4–5 |pages=519–549 |doi=10.1016/j.jempfin.2006.01.002 |ssrn=299641 |language=en}}
+* {{Cite book |last1=Baldwin |first1=Richard |first2=Charles |last2=Wyplosz |title=The Economics of European Integration |location=New York |publisher=McGraw Hill |year=2004 |isbn=978-0-07-710394-1 |language=en}}
+* {{Cite book |last1=Buti |first1=Marco |first2=Servaas |last2=Deroose |first3=Vitor |first3=Gaspar |first4=João |last4=Nogueira Martins |title=The Euro |location=Cambridge |publisher=Cambridge University Press |year=2010 |isbn=978-92-79-09842-0 |language=en}}
+* {{Cite web |last=Jordan |first=Helmuth |year=2010 |url=http://dorrance.stores.yahoo.net/feeurzufleuk.html |title=Fehlschlag Euro |publisher=Dorrance Publishing |access-date=2011-01-28 |archive-url=https://web.archive.org/web/20100916233209/http://dorrance.stores.yahoo.net/feeurzufleuk.html |archive-date=2010-09-16 |language=de}}
+* Schäfer, S./Schäfer, A./Wanek, C. (2025). ''The euro and its history - an economic introduction''. Stuttgart: Kohlhammer. {{ISBN|978-3-17-043544-5}}
+* {{Cite book |last1=Simonazzi |first1=A. |last2=Vianello |first2=F. |chapter=Financial Liberalization, the European Single Currency and the Problem of Unemployment |editor1-last=Franzini |editor1-first=R. |editor2-last=Pizzuti |editor2-first=R.F. |title=Globalization, Institutions and Social Cohesion |date=2001 |publisher=Springer |isbn=978-3-540-67741-3 |language=en}}
+
+== Lidhje të jashtme ==
+{{Sisterlinks}}
+* [https://europa.eu/european-union/about-eu/euro_en Bashkimi Evropian – Euro] {{Ikonë gjuha|en}}
+* [https://ec.europa.eu/info/business-economy-euro/euro-area_en Komisioni Evropian – Zona e euros] {{Ikonë gjuha|en}}
+* [https://www.ecb.europa.eu/euro/html/index.en.html Banka Qendrore Evropiane – Euro] {{Ikonë gjuha|en}}
+* [https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html Banka Qendrore Evropiane – Kurset e këmbimit të euros] {{Ikonë gjuha|en}}
+
+{{Navigacioni Valuta Evropiane}}
+{{Portal|Bashkimi Evropian|Paraja|Numizmatika}}
+{{Authority control}}
+
+[[Kategoria:Euro]]
+[[Kategoria:1999 në historinë ekonomike]]
+[[Kategoria:Valutat e prezantuara në vitin 1999]]
+[[Kategoria:Valutat e Evropës]]
+[[Kategoria:Valutat e Azisë]]
+[[Kategoria:Valutat e Afrikës]]
+[[Kategoria:Valutat e Amerikës së Jugut]]
+[[Kategoria:Valutat e Karaibeve]]
+[[Kategoria:Valutat e Amerikës së Veriut]]
+[[Kategoria:Valutat në qarkullim]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Euro|27 tetor 2026|1382252206}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Euro, versioni i datës 27 tetor 2026 (revizioni 1382252206)
+-->

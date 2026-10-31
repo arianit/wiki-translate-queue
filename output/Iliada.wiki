@@ -1,0 +1,579 @@
+{{Përshkrim i shkurtër|Poemë epike e atribuar Homerit}}
+
+{{Infobox book
+| name              = Iliada
+| image             = Detail. Wooden board inscribed in ink with lines 468-473, Book I of Homer's Iliad. Roman Egypt. On display at the British Museum.jpg
+| caption           = Mbishkrim me vargjet 468–473 të Librit I, i datuar 400–500 e.s, nga Egjipti, i ekspozuar në [[British Museum|Muzeun Britanik]]
+| by_label          = Atribuar
+| author            = [[Homeri]]
+| original_title    = Ἰλιάς
+| original_title_lang = grc
+| written           = fundi i shekullit VIII deri mesi i shekullit VII p.e.s<ref name="West2011">{{Cite journal |last=West |first=M. L. |date=December 2011 |title=The Homeric Question Today |journal=Proceedings of the American Philosophical Society |location=Philadelphia, Pennsylvania |publisher=American Philosophical Society |volume=155 |issue=4 |pages=383–393 |jstor=23208780|language=en}}</ref>
+| country           = [[Greqia e lashtë]]
+| language          = [[Greqishtja homerike]]
+| subject           = [[Lufta e Trojës]]
+| genre             = [[Poezia epike]]
+| metre             = [[Heksametri daktilik]]
+| lines             = 15.693
+| followed_by       = ''[[Odisea]]''
+}}
+
+'''''Iliada''''' (greqisht: {{lang|grc|Ἰλιάς}}, romanizuar: {{lang|grc-Latn|Iliás}}; fjalë për fjalë "[poemë] rreth Ilionit (Trojës)")<ref>{{cite web|title=Etymology of "Iliad"|url=https://www.etymonline.com/word/Iliad|language=en}}</ref> është një nga dy poemat e mëdha epike greke të lashta, të mbijetuara, të atribuara Homerit. Është një nga veprat më të vjetra ekzistuese të letërsisë, ende e lexuar gjerësisht nga lexuesit modernë. Ashtu si ''[[Odisea]]'', poema ndahet në 24 libra dhe u shkrua në heksametër daktilik. Përmban 15.693 vargje në botimin e saj standard. ''Iliada'' shpesh konsiderohet vepra e parë e konsiderueshme e letërsisë evropiane dhe është qendrore për studimin e filologjisë klasike.{{sfnp|Fantuzzi|Tsagalis|2015}}
+
+E vendosur nga fundi i Luftës së Trojës, një rrethim dhjetëvjeçar i qytetit të Trojës nga një koalicion shtetesh greke mikenase, poema përshkruan ngjarje të rëndësishme në javët e fundit të luftës. Në veçanti, ajo ndjek zemërimin ({{lang|grc|μῆνις}}) e Akilit, një luftëtar i famshëm, nga një grindje e ashpër mes tij dhe mbretit Agamemnon, deri te vdekja e princit trojan Hektor.{{sfnp|Murray|Wyatt|1924}}{{sfnp|Murray|Wyatt|1925}} Rrëfimi lëviz mes skenave të gjera fushëbeteje dhe ndërveprimeve më personale. Në kundërshtim me besimin popullor, ''Iliada'' nuk përshkruan rënien e Trojës dhe as nuk përmend [[Kali i Trojës|Kalin e Trojës]] të përdorur nga grekët për të pushtuar qytetin, të cilat i atribuohen burimeve më të vona.<ref name="Mackie">{{Cite web |last=Mackie |first=Chris |date=2017-08-02 |title=Guide to the classics: Homer's Iliad |url=https://theconversation.com/guide-to-the-classics-homers-iliad-80968 |access-date=2026-06-23 |website=The Conversation|language=en}}</ref>
+
+''Iliada'' dhe ''Odisea'' me shumë gjasa u kompozuan në greqishten homerike, një përzierje letrare e greqishtes jonike dhe dialekteve të tjera, rreth shekullit VIII p.e.s, edhe pse disa studiues modernë kanë argumentuar për një datë të mesit të shekullit VII p.e.s.<ref name="vanWees1994">{{cite journal |last=van Wees |first=Hans |date=1994 |title=The Homeric way of war: the Iliad and the hoplite phalanx |journal=Greece & Rome |volume=41 |issue=2 |publisher=Cambridge University Press |pages=131–155 |doi=10.1017/S0017383500023366 |jstor=643010|language=en}}</ref><ref name="West2011"/> Kompozimi, historiciteti, dhe autorësia e poemës debatohen gjerësisht ({{ill|Çështja homerike|en|Homeric Question}}), me studiuesit homerikë që gjithashtu debatojnë nëse ''Iliada'' dhe ''Odisea'' u kompozuan në mënyrë të pavarur, dhe nëse mbijetuan përmes një tradite gojore apo edhe të shkruar.<ref>{{cite book |last=Fowler |first=Robert |chapter=The Homeric question |pages=220–232 |editor-last=Fowler |editor-first=Robert |title=The Cambridge Companion to Homer |publisher=Cambridge University Press |year=2006 |isbn=978-0511998935|language=en}}</ref> Formulat e poemës, përdorimi i similitudeve, dhe epitetet shpesh eksplorohen nga studiuesit.<ref>{{cite book |last=Fowler |first=Robert |chapter=The poet's craft |pages=115–116 |editor-last=Fowler |editor-first=Robert |title=The Cambridge Companion to Homer |publisher=Cambridge University Press |year=2006 |isbn=978-0511998935|language=en}}</ref> ''Iliada'' u vlerësua gjerësisht nga grekët e lashtë dhe përbënte pjesë të arsimimit të tyre standard; përzierja e poemës e dialekteve të ndryshme rajonale, dhe përshkrimi i saj i fraksioneve të ndryshme greke që bashkohen për të luftuar Trojën, i dhanë asaj rezonancë të fortë në të gjithë botën helenistike.<ref name="Mackie"/> Ajo performohej nga recituesit profesionistë të njohur si [[Rapsodi|rapsodë]] në festivale greke si Panathenaia.<ref>Platoni, ''[[Ion (dialog)|Ion]]'', përkthyer nga Harold North Fowler, W. R. M. Lamb, Loeb Classical Library, 164, Cambridge, Massachusetts, Harvard University Press, 1925.</ref>{{sfnp|Tsagalis|2018|pp=46–52}}
+
+Tema kritike në ''Iliadë'' përfshijnë ''[[kleos]]''-in (lavdi), krenarinë, fatin, dhe zemërimin.{{sfnp|Hammond|1987|pp=i–xxxiv}} Pavarësisht se njihet kryesisht për temat e saj tragjike dhe serioze, poema përmban gjithashtu raste komedie dhe humori.<ref name="Bell">Bell, Robert H.; "Homer's humor – laughter in the ''Iliad''", hand 1 (2007), 596.</ref> Shpesh përshkruhet si epikë "heroike", e përqendruar rreth çështjeve si lufta, dhuna, dhe kodi heroik. Poema përmban përshkrime të detajuara të luftës së lashtë, duke përfshirë taktika dhe pajisje beteje. Sidoqoftë, ajo eksploron gjithashtu aspekte sociale dhe shtëpiake të kulturës antike, në skena pas mureve të Trojës dhe në kampin grek. Përveç kësaj, [[Dymbëdhjetë Olimpianët|perënditë olimpike]] luajnë një rol madhor, duke ndihmuar luftëtarët dhe qytetet e tyre të preferuar në fushëbetejë dhe duke ndërhyrë në mosmarrëveshje personale.<ref name="Kearns, E. 2004 pp. 59">{{cite book |last=Kearns |first=Emily |chapter=The Gods in the Homeric epics |pages=59–73 |editor-last=Fowler |editor-first=Robert |title=The Cambridge Companion to Homer |publisher=Cambridge University Press |year=2006 |isbn=978-0511998935|language=en}}</ref> Karakterizimi i tyre antropomorfik në poemë i njerëzoi ato për audiencën e lashtë greke, duke dhënë një kuptim konkret të traditës së tyre kulturore dhe fetare.
+
+== Përmbledhja ==
+
+=== Ekspozita (Librat 1–4) ===
+Burimi:{{sfnp|Murray|Wyatt|1924}}
+
+[[File:Beginning Iliad.svg|thumb|upright=1.40|Vargjet e para të ''Iliadës'']]
+
+Historia fillon me një thirrje drejtuar Muzës. Ngjarjet zhvillohen drejt fundit të Luftës së Trojës, e luftuar mes trojanëve dhe akejve rrethues (Homeri i quan grekët në mënyrë të ndërkëmbyeshme "akej", "argivë", ose "danaë"). Forcat akease përbëhen nga ushtri prej shumë mbretërive të ndryshme greke, të udhëhequra nga mbretërit ose princat e tyre përkatës. Agamemnoni, mbreti i Mikenës, vepron si komandant i këtyre ushtrive të bashkuara.
+
+Pas nëntë vjetësh luftimesh, akejtë kishin plaçkitur disa qytete aleate të Trojës, dhe kishin kapur dy vajza, Kriseiden dhe Briseiden. Agamemnoni, udhëheqësi, e mori Kriseiden si konkubinën e tij; Akili, luftëtari më i madh i akejve, e mori Briseiden.
+
+Krisesi, ati i Kriseidës dhe prift i Apollonit, i ofroi Agamemnonit një shpërblim të madh për kthimin e së bijës. Agamemnoni refuzoi, kundër dëshirës së akejve të tjerë, dhe e fyeu priftin.
+
+Prifti i kërkon hakmarrje Apollonit, dhe Apolloni u sjell akejve një murtajë si dënim për vrazhdësinë e Agamemnonit ndaj priftit të tij. Pas nëntë ditësh murtaje, Akili, udhëheqësi i forcave mirmidone dhe ''aristos achaion'' ("më i miri i grekëve"), thërret një kuvend.
+
+Nën presion, Agamemnoni pranon t'ia kthejë Kriseidën atit të saj, por vendos të marrë skllaven e Akilit, Briseidën, si kompensim. Duke e parë vendimin e Agamemnonit si një çnderim të madh përpara forcave akease të mbledhura, Akili deklaron me furi se ai dhe njerëzit e tij nuk do të luftojnë më për Agamemnonin. Odiseu ia kthen Kriseidën atit të saj, duke bërë që Apolloni t'i japë fund murtajës.
+
+Ndërkohë, lajmëtarët e Agamemnonit e marrin Briseidën. Akili trishtohet shumë dhe i lutet nënës së tij, Tetidës, një perëndeshë e vogël dhe nimfë e detit.<ref>{{cite book |author=Homer |translator-last=Wilson |translator-first=Emily |title=The Iliad |page=115 |publisher=W. W. Norton & Company|language=en}}</ref> Akili i kërkon nënës së tij t'i lutet Zeusit, duke dashur që akejtë të mundeshin nga trojanët derisa anijet e tyre të rrezikohen të digjen. Vetëm atëherë Agamemnoni do të kuptojë se sa shumë kanë nevojë akejtë për Akilin dhe do t'ia rikthejë nderin. Tetida e bën këtë, dhe Zeusi pranon. Zeusi më pas i dërgon një ëndërr Agamemnonit, duke e nxitur të sulmojë Trojën. Agamemnoni i bindet ëndrrës, por fillimisht vendos të testojë moralin e ushtrisë akease duke u thënë atyre të shkojnë në shtëpi. Sidoqoftë, nëntë vjet në luftë, morali i ushtarëve është dobësuar shumë. Plani dështon, dhe vetëm ndërhyrja e Odiseut, i frymëzuar nga Athina, ndalon një rrëmujë të përgjithshme. Odiseu e përballon dhe e rreh Tersitin, një ushtar i thjeshtë që shpreh pakënaqësi për të luftuar luftën e Agamemnonit.
+
+Akejtë vendosen në formacione në fushën e Trojës. Kur lajmi i vendosjes akease arrin te mbreti Priam, trojanët përgjigjen me një dalje në fushë. Ushtritë i afrohen njëra-tjetrës, por para se të takohen, Paridi, i nxitur nga Hektori, vëllai i tij dhe heroi i Trojës, ofrohet t'i japë fund luftës duke luftuar një duel me Menelaun. Këtu shpjegohet shkaku fillestar i gjithë luftës: [[Helena e Trojës|Helena]], gruaja e Menelaut dhe gruaja më e bukur në botë, u mor nga Paridi nga shtëpia e Menelaut në Spartë. Menelau dhe Paridi pranojnë të dyelluohen; Helena do të martohet me fituesin. Sidoqoftë, kur Paridi mposhtet, Afërdita e shpëton dhe e çon në shtrat me Helenën para se Menelau të mund ta vrasë.
+
+Perënditë diskutojnë nëse lufta duhet të mbarojë këtu, por Hera e bind Zeusin të presë shkatërrimin e plotë të Trojës. Athina e nxit harkëtarin trojan Pandar të gjuajë Menelaun. Menelau plagoset, dhe armëpushimi thyhet. Shpërthen luftimi, dhe shumë akej dhe trojanë vriten.
+
+=== Duelet e heronjve grekë dhe trojanë (Librat 5–7) ===
+Burimi:{{sfnp|Murray|Wyatt|1924}}
+
+Në luftim, Diomedi vret shumë trojanë, duke përfshirë Pandarin, dhe e mund [[Enea Ankiziadi|Eneun]]. Afërdita e shpëton para se të vritet, por Diomedi e sulmon dhe i plagos kyçin e dorës perëndeshës. Apolloni e përballon Diomedin dhe e paralajmëron kundër luftimit me perënditë, gjë që Diomedi e injoron. Apolloni e dërgon Aresin ta mundë Diomedin. Shumë heronj dhe komandantë bashkohen, duke përfshirë Hektorin, dhe perënditë që mbështesin secilën palë përpiqen të ndikojnë betejën. I inkurajuar nga Athina, Diomedi e plagos Aresin dhe e nxjerr jashtë loje.
+
+Hektori i mbledh trojanët dhe parandalon një rrëmujë. Diomedi dhe trojani Glauk gjejnë gjuhë të përbashkët pas një dueli dhe shkëmbejnë dhurata të pabarabarta, të shkaktuara nga historia e Glaukut për Belerofontin. Hektori hyn në qytet, duke e nxitur nënën e tij Hekabën të kryejë lutje dhe flijime, duke e nxitur Paridin drejt betejës, dhe duke i thënë lamtumirë gruas së tij Andromakë dhe djalit Astianaks në muret e qytetit. Më pas rikthehet në betejë. Hektori dyelohet me Ajaksin, por errësira e ndërpret luftën, dhe të dyja palët tërhiqen. Trojanët grinden rreth kthimit të Helenës te akejtë. Paridi ofrohet të kthejë thesarin që mori dhe të japë pasuri shtesë si kompensim, por jo Helenën, dhe oferta refuzohet. Të dyja palët pranojnë një armëpushim njëditor për të varrosur të vdekurit. Akejtë gjithashtu ndërtojnë një mur dhe një hendek për të mbrojtur kampin dhe anijet e tyre.
+
+=== Rrëmuja e grekëve (Librat 8–15) ===
+Burimi:{{sfnp|Murray|Wyatt|1924}}{{sfnp|Murray|Wyatt|1925}}
+
+[[File:Iliad VIII 245-253 in cod F205, Milan, Biblioteca Ambrosiana, late 5c or early 6c.jpg|thumb|upright=1.20|''Iliada'', Libri VIII, vargjet 245–253, [[Dorëshkrimi ambrozian i Iliadës|dorëshkrim grek]], fundi i shekullit V ose fillimi i shekullit VI e.s]]
+
+Të nesërmen në mëngjes, Zeusi u ndalon perëndive të ndërhyjnë, dhe luftimi rifillon. Trojanët mbizotërojnë dhe i shtyjnë akejtë prapa te muri i tyre. Herës dhe Athinës u ndalohet të ndihmojnë. Bie nata para se trojanët të mund të sulmojnë murin akean. Ata kampojnë në fushë për të sulmuar në agim, dhe zjarret e tyre roje e ndriçojnë fushën si yje.
+
+Ndërkohë, akejtë janë të dëshpëruar. Agamemnoni pranon gabimin e tij dhe dërgon një ambasadë të përbërë nga Odiseu, Ajaksi, dhe Feniksi, për t'i ofruar Akilit Briseidën dhe dhurata të shumta, nëse rikthehet në luftim. Akili dhe shoku i tij Patrokli e presin ambasadën, por Akili refuzon me zemërim ofertën, duke e konsideruar fyerjen ndaj nderit të tij shumë të madhe. Ai deklaron se do të rikthehet në betejë vetëm nëse trojanët arrijnë anijet e tij dhe i kërcënojnë me zjarr. Ambasada kthehet, e pasuksesshme.
+
+Më vonë atë natë, Odiseu dhe Diomedi dalin drejt linjave trojane, e vrasin trojanin Dolon, dhe bëjnë kërdi në kampin e disa aleatëve trakas të Trojës. Në mëngjes, luftimi është i ashpër, dhe Agamemnoni, Diomedi, dhe Odiseu të gjithë plagosen. Akili e dërgon Patroklin nga kampi i tij për të pyetur rreth humbjeve akease, dhe ndërsa është atje, Patrokli lëvizet nga një fjalim i Nestorit. Nestori i kërkon Patroklit t'i lutet Akilit të rikthehet në luftim, ose, nëse ai nuk do, të udhëheqë vetë ushtrinë duke veshur armaturën e Akilit.
+
+Trojanët sulmojnë murin akean në këmbë. Hektori e udhëheq luftimin e tmerrshëm, pavarësisht një shenje se sulmi i tyre do të dështojë. Akejtë mbingarkohen dhe rrëmuhen, porta e murit thyhet, dhe Hektori sulmon brenda. Akejtë tërhiqen drejt anijeve të tyre.
+
+Posejdoni ka mëshirë për akejtë dhe vendos t'i mos i bindet Zeusit dhe t'i ndihmojë. Ai rikthen shpirtin e akejve, dhe ata fillojnë t'i shtyjnë trojanët prapa. Nipi i Posejdonit, Amfimaku, vritet në betejë; Posejdoni e mbush Idomeneun me fuqi hyjnore. Shumë bien nga të dyja palët. Shikuesi trojan Polidamas e nxit Hektorin të tërhiqet për shkak të një shenje të keqe, por injorohet.
+
+Hera e josh Zeusin dhe e vë në gjumë, duke i lejuar Posejdonit t'i ndihmojë grekët. Trojanët shtyhen prapa në fushë. Ajaksi e plagos Hektorin, i cili më pas mbartet mbrapsht në Trojë. Zeusi zgjohet dhe zemërohet nga ndërhyrja e Posejdonit. Sidoqoftë, ai e siguron Herën se Troja ende është caktuar të bjerë pasi Hektori ta vrasë Patroklin. Posejdoni thirret prapa nga fushëbeteja, dhe Zeusi e dërgon Apollonin t'i ndihmojë trojanët. Trojanët sërish e thyejnë murin, dhe beteja arrin te anijet.
+
+=== Vdekja e Patroklit (Librat 16–18) ===
+Burimi:{{sfnp|Murray|Wyatt|1925}}
+
+[[File:Achilles weapons MNA Naples.jpg|thumb|upright=1.10|Tetida te farkëtaria e Hefestit, duke pritur të marrë armët e reja të Akilit, afresk nga Pompei, shekulli I]]
+
+Patrokli nuk mund të durojë më të shikojë dhe shkon te Akili, duke qarë. E qorton për kokëfortësinë e tij dhe pastaj i kërkon t'i lejojë të luftojë në vendin e tij, duke veshur armaturën e Akilit, që të ngatërrohet me të. Akili zbutet dhe ia jep armaturën Patroklit, por e dërgon me një paralajmërim të rreptë të kthehet pasi trojanët të jenë shtyrë prapa dhe të mos i ndjekë deri te muret. Akili thotë se pasi gjithçka të vihet në rregull, ai dhe Patrokli do ta pushtojnë Trojën së bashku.
+
+Patrokli i udhëheq mirmidonët në betejë dhe mbërrin ndërsa trojanët i vënë zjarr anijeve të para. Trojanët rrëmuhen nga sulmi i papritur, dhe Patrokli e fillon sulmin e tij duke vrarë djalin e Zeusit, Sarpedonin, një aleat kryesor i trojanëve. Patrokli, duke injoruar urdhrin e Akilit, ndjek dhe arrin portat e Trojës, ku vetë Apolloni e ndalon. Patrokli e vret karrocierin e Hektorit, Kebrionin, dobësohet nga Apolloni dhe Euforbi, dhe përfundimisht vritet nga Hektori.
+
+Hektori merr armaturën e Akilit nga trupi i rënë i Patroklit. Akejtë luftojnë për të rimarrë trupin e Patroklit nga trojanët, të cilët përpiqen ta mbartin mbrapsht në Trojë me urdhrin e Hektorit. Antiloku dërgohet t'i tregojë lajmin Akilit dhe t'i kërkojë ndihmë për të rimarrë trupin.
+
+Kur Akili dëgjon për vdekjen e Patroklit, dhimbja e tij është aq dërrmuese sa e dëgjon nëna e tij, Tetida, nga fundi i oqeanit. Tetida gjithashtu vajton, duke e ditur se Akili është caktuar të vdesë nëse e vret Hektorin. Edhe pse e di se kjo do të vulosë fatin e tij, Akili betohet ta vrasë Hektorin për të hakmarrë Patroklin.
+
+Akilit i kërkohet të ndihmojë në rimarrjen e trupit të Patroklit, por nuk ka armaturë për të veshur. I mbuluar nga një shkëlqim i ndritshëm nga Athina, Akili qëndron pranë murit akean dhe ulërin nga zemërimi. Trojanët tmerrohen nga pamja e tij, dhe akejt arrijnë ta largojnë trupin e Patroklit. Polidamas sërish e nxit Hektorin të tërhiqet në qytet; sërish, Hektori refuzon, dhe trojanët kampojnë në fushë kur bie nata.
+
+Akili e vajton Patroklin, me zemër të thyer. Ndërkohë, me kërkesën e Tetidës, Hefesti farkon një armaturë të re për Akilin, duke përfshirë një mburojë të mrekullueshme të stolisur.<ref>{{Cite book |last1=Auden |first1=W. H. |last2=Jacobs |first2=Alan |date=2024 |title=The Shield of Achilles|language=en}}</ref>
+
+=== Zemërimi i Akilit (Librat 19–24) ===
+Burimi:{{sfnp|Murray|Wyatt|1925}}
+
+[[File:Achilles' Sacrifice of Trojan Prisoners.jpg|thumb|upright=1.40|Detaj afreku nga Varri i Fransuas në Vulçi, që tregon flijimin e skllevërve trojanë. Nga e majta në të djathtë: Agamemnoni, fantazma e Patroklit, Vanthi, Akili duke i prerë kokën një skllavi, Karuni, Ajaksi i Madh, një skllav, Ajaksi i Vogël. 350–330 p.e.s]]
+
+Në mëngjes, Tetida i sjell Akilit armaturën e re, vetëm për ta gjetur duke qarë mbi trupin e Patroklit. Akili armatoset për betejë dhe i mbledh luftëtarët akej. Agamemnoni i jep Akilit të gjitha dhuratat e premtuara, duke përfshirë Briseidën, por Akili është indiferent ndaj tyre. Akejtë hanë, por Akili refuzon të hajë. Kali i tij, Ksanthi, profetizon vdekjen e Akilit; Akili është indiferent. Akili hyn në betejë, me Automedontin që drejton karrocën e tij.
+
+Zeusi e ngre ndalimin mbi ndërhyrjen e perëndive, dhe perënditë ndihmojnë lirisht të dyja palët. Akili, duke djegur nga zemërimi dhe dhimbja, vret shumë trojanë. Akili masakron gjysmën e numrit të trojanëve në lumë, duke e mbushur ujin me trupa. Perëndia e lumit, Skamandri, e përballon Akilin dhe e urdhëron të ndalojë së vrari trojanë, por Akili refuzon. Ata luftojnë derisa Skamandri mposhtet nga stuhia zjarri e Hefestit. Perënditë luftojnë mes tyre. Portat e mëdha të qytetit hapen për të pritur trojanët në ikje, dhe Apolloni e largon Akilin nga qyteti duke u shtirur si trojan. Kur Apolloni i zbulohet Akilit, trojanët janë tërhequr në sigurinë e qytetit, të gjithë përveç Hektorit.
+
+Pavarësisht lutjeve të prindërve të tij, Priamit dhe Hekabës, Hektori vendos ta përballojë Akilin. Kur Akili i afrohet, sidoqoftë, vullneti i Hektorit i dështon. Ai ikën dhe ndiqet nga Akili rreth qytetit. Më në fund, Athina e mashtron duke marrë formën e vëllait të tij Dejfobit, dhe ai kthehet ta përballojë kundërshtarin e tij. Pas një dueli të shkurtër, Akili e godet Hektorin në qafë. Para se të vdesë, Hektori i kujton Akilit se edhe ai është caktuar të vdesë. Akili ia heq armaturën e vet Hektorit, duke u gëzuar për vdekjen e tij. Akili më pas e çnderon trupin e Hektorit duke e lidhur pas karrocës së tij dhe duke e tërhequr rreth qytetit. Hekaba dhe Priami vajtojnë, ky i fundit duke u përpjekur ta përballojë vetë Akilin. Andromaka e dëgjon lajmin dhe vjen te muret, duke u fikur kur sheh skenën poshtë. Trojanët vajtojnë.
+
+Fantazma e Patroklit vjen te Akili në ëndërr, duke e nxitur të kryejë ritet e varrimit që shpirti i tij të kalojë në Ferr. Patrokli i kërkon Akilit të organizojë varrosjen e kockave të tyre së bashku në një urnë të vetme; Akili pranon, dhe trupi i Patroklit digjet. Akejtë mbajnë një ditë lojërash funerale, dhe Akili i shpërndan çmimet.
+
+Akili humbet në pikëllimin e tij dhe i kalon ditët duke e vajtuar Patroklin dhe duke tërhequr trupin e Hektorit pas karrocës së tij. I shqetësuar nga keqtrajtimi i vazhdueshëm i Akilit ndaj trupit të Hektorit, Zeusi vendos se duhet t'i kthehet Priamit. I udhëhequr nga Hermesi, Priami merr një qerre plot dhurata përgjatë fushave dhe në kampin akean pa u vënë re. Ai i kap gjunjët e Akilit dhe i lutet për trupin e djalit të tij. Akili prekët deri në lot dhe më në fund zbutet, duke e ulur zemërimin e tij. Të dy vajtojnë humbjet e tyre në luftë. Akili pranon t'ia kthejë trupin e Hektorit dhe t'u japë trojanëve dymbëdhjetë ditë për ta vajtuar dhe varrosur siç duhet. Akili i kërkon falje Patroklit, duke u frikësuar se e ka çnderuar duke e kthyer trupin e Hektorit. Pas një vakti, Priami e mban trupin e Hektorit mbrapsht në Trojë. Hektori varroset, dhe qyteti vajton.
+== Temat ==
+
+=== Feja ===
+{{Hatnote|Artikulli kryesor: {{ill|Mashtrimi i Zeusit|en|Deception of Zeus}}}}
+
+[[File:Hypnos Thanatos BM Vase D56 full.jpg|thumb|[[Hipnosi]] dhe [[Thanatosi]] duke bartur trupin e Sarpedonit nga fusha e betejës e Trojës; detaj nga një ''lekythos'' attik me sfond të bardhë, {{circa|440 p.e.s}}]]
+
+[[Feja e Greqisë së lashtë]] nuk kishte organizim strikt, por lindte nga besimet e ndryshme të popullit grek.<ref>{{Cite book |last=Lawson |first=John Cuthbert |title=Modern Greek folklore and ancient Greek religion – a study in survivals |publisher=Cambridge University Press|date=1910 |pages=2–3|language=en}}</ref> Adkins dhe Pollard thonë se "grekët e hershëm i personifikuan të gjitha aspektet e botës së tyre, natyrore dhe kulturore, dhe përvojat e tyre në të. Toka, deti, malet, lumenjtë, ligji zakonor (''themis''), dhe pjesa e dikujt në shoqëri dhe të mirat e saj, të gjitha shiheshin në terma personalë dhe njëkohësisht natyralistë".<ref>{{Cite encyclopedia |title=Greek religion |encyclopedia=Encyclopædia Britannica |url=https://www.britannica.com/topic/Greek-religion |date=2 March 2020 |last2=Pollard |first2=John Richard Thornhill |first1=A. W. H. |last1=Adkins|language=en}}</ref> Ata e perceptonin botën dhe ndryshimet e saj si rezultat i ndërhyrjes ose pranisë hyjnore. Shpesh, i gjenin këto ngjarje misterioze dhe të pashpjegueshme.<ref name=":2">{{Cite book |last=Mikalson |first=Jon |title=Honor Thy Gods – Popular Religion in Greek Tragedy |publisher=University of North Carolina Press |date=1991|language=en}}</ref>
+
+Në ''Iliadë'', perënditë, perëndeshat, dhe hyjnitë e vogla olimpike luftojnë mes tyre, si dhe marrin pjesë në luftën njerëzore, shpesh duke ndërhyrë tek të vdekshmit për t'u kundërvënë perëndive të tjerë.<ref name="Kearns, E. 2004 pp. 59" /> Portretizimi i Homerit për perënditë i përshtatet qëllimit të tij narrativ, edhe pse perënditë në mendimin athinas të shekullit IV nuk flitëshin në terma të njohur për veprat e Homerit.<ref name=":2" /> Historiani Herodot thotë se Homeri, të cilit ia atribuon ''Iliadën'' dhe ''Odisenë'', ndihmoi të vendosen emrat dhe karakteristikat e perëndive.<ref>Herodoti, 2.116.</ref>
+
+Disa studiues diskutojnë ndërhyrjen e perëndive në botën e vdekshme, të nxitur nga grindjet që kishin mes tyre. Homeri e interpreton botën iliadike duke përdorur pasionin dhe emocionin e perëndive si faktorë përcaktues të asaj që ndodh në nivelin njerëzor.<ref name=":0">{{Cite journal |last=Kullmann |first=Wolfgang |date=1985 |title=Gods and Men in the Iliad and the Odyssey |journal=Harvard Studies in Classical Philology |volume=89 |pages=1–23 |doi=10.2307/311265 |jstor=311265|language=en}}</ref> Libri 24 ofron një diskutim retrospektiv të shkakut të luftës, duke ia atribuuar zemërimit të Herës dhe Athinës:
+
+{{Quote|text=<poem>
+Dhe edhe pse kjo ishte e këndshme për të tjerët,
+nuk ishte për Herën apo Posejdonin apo vashën me sy flakërues,
+por ata ngulmuan ashtu si kur Ilioni i shenjtë fillimisht u bë i urryer në sytë e tyre
+dhe Priami e populli i tij, për shkak të marrëzisë së Aleksandrit,
+i cili i kishte fyer ato perëndeshë kur erdhën në çiflikun e tij
+dhe lavdëroi atë që i shërbeu epshit të tij të dhimbshëm.
+</poem>|source=Homeri, ''Iliada'' 24.25–30{{sfnp|Murray|Wyatt|1925}}}}
+
+Athina dhe Hera kundërshtojnë Paridin për shkak të një konkursi bukurie në Malin Olimp, në të cilin ai zgjodhi Afërditën si perëndeshën më të bukur mbi ato. Wolfgang Kullmann vazhdon më tej duke thënë: "Zhgënjimi i Herës dhe Athinës mbi fitoren e Afërditës në Gjykimin e Paridit përcakton tërë sjelljen e të dyja perëndeshave në ''Iliadë'' dhe është shkaku i urrejtjes së tyre për Paridin, gjykuesin, dhe qytetin e tij, Trojën".<ref name=":0" />
+
+Hera dhe Athina vazhdojnë të mbështesin forcat akease gjatë gjithë poemës si rezultat i kësaj, ndërsa Afërdita e ndihmon Paridin dhe trojanët. Emocionet mes perëndeshave shpesh përkthehen në veprime që ato marrin në botën e vdekshme. Për shembull, në Librin 3 të ''Iliadës'', Paridi është gati të mposhtet nga Menelau, i cili e kishte sfiduar në duel të vetëm, por Afërdita ndërhyn për ta shpëtuar Paridin nga zemërimi i Menelaut.<ref name=":1">{{Cite book |last=Homer |title=The Iliad |publisher=Penguin Books |date=1998 |page=589 |translator1-last=Fagles |translator1-first=Robert |translator2-last=Knox |translator2-first=Bernard|language=en}}</ref> Kjo lidhje e emocioneve me veprimet është vetëm një shembull nga shumë të tjerë që ndodhin gjatë gjithë poemës: ekziston ndërhyrje e vazhdueshme nga të gjitha perënditë, sidomos për t'u dhënë fjalime motivuese mbrojtësve të tyre përkatës, shpesh duke u shfaqur në formën e një qenieje njerëzore me të cilën ata janë të njohur.<ref name=":0" />
+
+Mary Lefkowitz diskuton relevancën e veprimit hyjnor në ''Iliadë'', duke u përpjekur t'i përgjigjet pyetjes nëse ndërhyrja hyjnore është një ndodhi e veçantë (për hir të vetes) ose nëse sjellje të tilla hyjnore janë thjesht metafora karakteri njerëzor.<ref name=":3">Lefkowitz, Mary (2003), ''Greek Gods, Human Lives: What We Can Learn From Myths'', New Haven, Connecticut, Yale University Press.</ref> Interesi intelektual i autorëve të shekullit V dhe IV p.e.s, si Tukididi dhe Platoni, ishte i kufizuar në dobinë e tyre si "një mënyrë të folurit për jetën njerëzore më shumë sesa një përshkrim ose e vërtetë", sepse, nëse perënditë mbeten figura fetare, në vend të metaforave njerëzore, "ekzistenca" e tyre – pa themelin e dogmës apo të një bible besimesh – i lejoi kulturës greke gjerësinë dhe lirinë intelektuale për të krijuar perëndi që përshtaten me çdo funksion fetar që ata kërkonin si popull.<ref name=":3" /><ref>{{cite news |last=Taplin |first=Oliver |date=14 December 2003 |title=Bring Back the Gods |work=The New York Times|language=en}}</ref>
+
+Psikologu Julian Jaynes<ref name=":4">{{cite book |last=Jaynes |first=Julian |date=1976 |title=The Origin of Consciousness in the Breakdown of the Bicameral Mind |page=221|language=en}}</ref> e përdor ''Iliadën'' si një copë të madhe dëshmie për teorinë e tij të {{ill|Mendja dykapshore|en|Bicameral mentality|lt=Mendjes dykapshore}}, e cila pohon se deri rreth kohës së përshkruar në ''Iliadë'', njerëzit kishin një mentalitet shumë të ndryshëm nga njerëzit e sotëm. Ai thotë se njerëzit gjatë asaj kohe u mungonte ajo që sot quhet vetëdije. Ai sugjeron se njerëzit dëgjonin dhe i bindeshin komandave nga ato që i identifikonin si perëndi, deri në ndryshimin e mentalitetit njerëzor që e përfshiu forcën motivuese në veten e vetëdijshme. Ai thekson se pothuajse çdo veprim në ''Iliadë'' drejtohet, shkaktohet, ose ndikohet nga një perëndi, dhe se përkthimet më të hershme tregojnë një mungesë habitëse fjalësh që sugjerojnë mendim, planifikim, ose introspeksion. Ato që shfaqen, argumenton ai, janë keqinterpretime të bëra nga përkthyes që u imponojnë personazheve një mentalitet modern,<ref name=":4" /> një formë e logjikës së kundërt me të cilën një përfundim përcakton vlefshmërinë e dëshmisë.
+
+=== Fati ===
+
+[[Fati]] ({{Langx|grc|κήρ|translit=kēr|lit=vdekje e caktuar|label=none}}) shtyn shumicën e ngjarjeve të ''Iliadës''. Perënditë dhe njerëzit i binden atij, të paaftë ta kundërshtojnë ose ta ndryshojnë.{{sfnp|Liu|2024|pp=561–563, 566}} Theksohet dhe përmendet gjatë gjithë rrëfimit në mënyra të shumta, për shembull, Zeusi që u dërgon shenja shikuesve si Kalkasi,{{sfnp|Erp Taalman Kip|2000|pp=388–389}} ose profecitë e Tetidës për vdekjen e afërt të Akilit. Njerëzit dhe perënditë e tyre vazhdimisht flasin për pranimin heroik dhe shmangien frikacake të fatit të dikujt. Fati nuk përcakton çdo veprim, incident, dhe ngjarje, por përcakton përfundimin e jetës. Për shembull, Patrokli profetizon vdekjen e Hektorit:<ref>Dunkle, Roger (1986), "Iliad", te ''The Classical Origins of Western Culture'', ''The Core Studies 1 Study Guide'', Brooklyn College.</ref>
+
+{{Quote|text=<poem>
+Jo, fati vdekjeprurës, me birin e Letos, më ka vrarë,
+dhe nga njerëzit ishte Euforbi; ti je vetëm vrasësi im i tretë.
+Dhe ruaje në zemër këtë tjetër gjë që po të them.
+Ti vetë nuk je ai që do të jetojë gjatë, por tashmë
+vdekja dhe fati i fuqishëm qëndrojnë pranë teje,
+për të rënë nën duart e birit të madh të Eakut, Akili.
+</poem>|source=Homeri, ''Iliada'' 16.849–854 {{harvp|Lattimore|1951|p=353}}.}}
+
+Këtu, Patrokli aludon te vdekja e tij e caktuar nga dora e Hektorit dhe te vdekja e caktuar e Hektorit nga dora e Akilit. Secili e pranon rezultatin e jetës së tij, por megjithatë ngulmojnë. Sidoqoftë, fati nuk pranohet gjithmonë hapur. Shembulli i parë i këtij dyshimi ndodh në Librin 16. Duke parë Patroklin gati ta vrasë Sarpedonin, birin e tij të vdekshëm, Zeusi thotë:{{sfnp|Morrison|1997|p=286}}
+
+{{Quote|text=<poem>
+Ah mua, është caktuar që më i dashuri i njerëzve, Sarpedoni,
+duhet të bjerë nën duart e birit të Menoitit, Patroklit.
+</poem>|source=Homeri, ''Iliada''. 16.433–434 {{harvp|Lattimore|1951|p=342}}.}}
+
+Rreth dilemës së tij, Hera e pyet Zeusin:{{sfnp|Morrison|1997|p=286}}
+
+{{Quote|text=<poem>
+Madhëri, bir i Kronit, çfarë gjëje the?
+A dëshiron ta kthesh mbrapsht një njeri që është i vdekshëm, të caktuar
+prej kohësh nga fati i tij, nga vdekja me tingull të keq, dhe ta çlirosh?
+Bëje, atëherë; por asnjë prej nesh perëndive të tjerë nuk do të të miratojë.
+</poem>|source=Homeri, ''Iliada'' 16.440–43 {{harvp|Lattimore|1951|p=342}}.}}
+
+Duke vendosur mes humbjes së një biri ose bindjes ndaj fatit, Zeusi, Mbreti i Perëndive, duhet t'i përmbahet këtij të fundit. Ky motiv rishfaqet kur ai mendon ta kursejë Hektorin, të cilin e do dhe e respekton. Këtë herë, është Athina ajo që e sfidon:
+
+{{Quote|text=<poem>
+Ati i rrufesë ndritëse, i errët në mjegull, çfarë the?
+A dëshiron ta kthesh mbrapsht një njeri që është i vdekshëm, të caktuar
+prej kohësh nga fati i tij, nga vdekja me tingull të keq, dhe ta çlirosh?
+Bëje, atëherë; por asnjë prej nesh perëndive të tjerë nuk do të të miratojë.
+</poem>|source=Homeri, ''Iliada'' 22.178–81 {{harvp|Lattimore|1951|p=440}}.}}
+
+Sërish, Zeusi duket i aftë ta ndryshojë fatin, por nuk e bën, duke vendosur në vend të kësaj t'i përmbahet përfundimeve të caktuara. Në mënyrë të ngjashme, Fati e kursen Eneun pasi Apolloni e bind trojanin e mundur ta luftojë Akilin. Posejdoni flet me kujdes:
+
+{{Quote|text=<poem>
+Por eja, ta largojmë vetë atë nga vdekja, se kam frikë
+se biri i Kronit mund të zemërohet nëse tani Akili
+e vret këtë njeri. Është caktuar që ai të jetë mbijetuesi,
+që brezi i Dardanit të mos vdesë…
+</poem>|source=Homeri, ''Iliada'' 20.300–04 {{harvp|Lattimore|1951|p=412}}.}}
+
+Hyjnisht i ndihmuar, Eneu shpëton nga zemërimi i Akilit dhe mbijeton Luftën e Trojës. Pavarësisht nëse perënditë mund ta ndryshojnë fatin apo jo, ato i binden atij, pavarësisht se kundërshton besnikëritë e tyre njerëzore. Origjina misterioze e Fatit mbetet një fuqi përtej të vdekshmëve dhe të pavdekshmëve.
+
+=== ''Kleos'' ===
+''[[Kleos]]'' ({{lang|grc|κλέος}}, "lavdi, famë") është koncepti i lavdisë së fituar në betejë heroike.<ref>{{cite web |url=http://athome.harvard.edu/programs/nagy/threads/concept_of_hero.html |title=The Concept of the Hero in Greek Civilization |publisher=Athome.harvard.edu |access-date=18 April 2010|language=en}}</ref> Është një cilësi ndryshueshme që mund të jepet ose merret, të rritet ose të zvogëlohet. Në veçanti, Akili shqetësohet thellë për ''kleos''-in e tij.<ref>{{cite book |last1=Dué|first1=C.|last2=Lupack|first2=Susan|last3=Lamberton|first3=R.|chapter=Kleos|pages=167–168|editor-last=Pache|editor-first=Corinne Ondine|title=The Cambridge Guide to Homer|publisher=Cambridge University Press|year=2020|isbn=9781139225649|doi=10.1017/9781139225649|language=en}}</ref> Në Librin 9 (9.410–16), Akili i thotë me dhimbje të dërguarve të Agamemnonit – Odiseut, Feniksit, dhe Ajaksit – duke iu lutur për rikthimin e tij në betejë, se duhet të zgjedhë mes dy fateve ({{lang|grc|διχθαδίας κήρας}}, 9.411).<ref name="autogenerated1">Volk, Katharina, "ΚΛΕΟΣ ΑΦΘΙΤΟΝ Revisited", ''Classical Philology'', vol. 97, no. 1 (janar 2002), f. 61–68.</ref>
+
+Kalimi lexohet:
+
+{{Quote|text=<poem>
+Sepse nëna ime, perëndesha Tetida me këmbë argjendi, më thotë
+se mbaj dy lloje fati drejt ditës së vdekjes sime. Ose,
+nëse rri këtu dhe luftoj pranë qytetit të trojanëve,
+kthimi im në shtëpi humbet, por lavdia ime do të jetë e përjetshme;
+ose, nëse kthehem në shtëpi, në tokën e dashur të etërve të mi,
+shkëlqimi i lavdisë sime humbet, por do të kem një jetë të gjatë
+para meje, dhe fundi im në vdekje nuk do të më vijë shpejt.
+</poem>|source=Homeri, ''Iliada'' {{harvp|Lattimore|1951|p=209}}, përkthyer nga Richmond Lattimore.}}
+
+Duke hequr dorë nga ''nostos''-i i tij, ai do të fitojë shpërblimin më të madh të ''kleos aphthiton''-it ({{lang|grc|κλέος ἄφθιτον}}, "famë e papërkulshme").<ref name="autogenerated1" /> Në poemë, ''aphthiton'' ({{lang|grc|ἄφθιτον}}, "e papërkulshme") shfaqet pesë herë të tjera,<ref>II.46, V.724, XIII.22, XIV.238, XVIII.370</ref> secili rast duke shënuar një objekt: skeptri i Agamemnonit, rrota e karrocës së Hebes, shtëpia e Posejdonit, froni i Zeusit, dhe shtëpia e Hefestit. Përkthyesi Lattimore e jep ''kleos aphthiton'' si "përgjithmonë të pavdekshme" dhe si "përgjithmonë e papërkulshme" – duke konotuar vdekshmërinë e Akilit duke theksuar shpërblimin e tij më të madh në kthimin për të luftuar Trojën.
+
+''Kleos''-i shpesh jepet me përfaqësim të dukshëm përmes çmimeve të fituara në betejë. Kur Agamemnoni ia merr Briseidën Akilit, i merr atij një pjesë të ''kleos''-it që kishte fituar.
+
+Mburoja e Akilit, e farkuar nga Hefesti dhe e dhënë atij nga nëna e tij, Tetida, mban një imazh yjesh në qendër. Yjet krijojnë imazhe të thella të vendit të një njeriu të vetëm, sado heroik, në perspektivën e gjithë kozmosit.
+
+=== ''Nostos'' ===
+''[[Nostos]]'' ({{lang|grc|νόστος}}, "kthim në shtëpi") shfaqet shtatë herë në poemë,<ref>Homeri, ''Iliada'' 2.155, 2.251, 9.413, 9.434, 9.622, 10.509, 16.82</ref> duke e bërë atë një temë të vogël në vetë ''Iliadën''. Megjithatë koncepti i kthimit në shtëpi eksplorohet gjerësisht në letërsi të tjera të Greqisë së lashtë, veçanërisht në fatet e kthimit pasluftor të përjetuara nga Atreidët (Agamemnoni dhe Menelau) dhe Odiseu (shih ''Odisenë'').{{sfnp|Alexopoulou|2003|pp=1–3, 4–7}}{{sfnp|Hornblower|2018|pp=29–34}}
+
+=== Krenaria ===
+Krenaria e udhëheq intrigën e ''Iliadës''. Akejtë mblidhen në fushën e Trojës për t'ua marrë Helenën trojanëve. Edhe pse shumica e trojanëve me kënaqësi do t'ia kthenin Helenën akejve, ata i binden krenarisë së princit të tyre, Aleksandros, i njohur gjithashtu si Paridi. Brenda këtij kuadri, fillon vepra e Homerit. Në fillim të ''Iliadës'', krenaria e Agamemnonit vë në lëvizje një zinxhir ngjarjesh që e çon të marrë nga Akili, Briseidën, vajzën që ia kishte dhënë fillimisht Akilit në këmbim të aftësive të tij luftarake. Për shkak të kësaj fyerjeje, Akili refuzon të luftojë dhe i kërkon nënës së tij, Tetidës, të sigurojë se Zeusi i bën akejtë të vuajnë në fushëbetejë derisa Agamemnoni të kuptojë dëmin që i ka shkaktuar.{{sfnp|Frobish|2003|p=}}
+
+Krenaria e Akilit i lejon t'i lutet Tetidës për vdekjet e miqve të tij akej. Kur në Librin 9 miqtë e tij e nxisin të rikthehet, duke i ofruar plaçkë dhe skllaven e tij, Briseidën, ai refuzon, i mbërthyer në krenarinë e tij hakmarrëse. Akili mbetet i mbërthyer deri në fund të vet, kur zemërimi i tij ndaj vetes për vdekjen e Patroklit ia kalon krenarisë ndaj fyerjes së Agamemnonit dhe rikthehet ta vrasë Hektorin. Ai e kapërcen krenarinë e tij sërish kur e mban zemërimin nën kontroll dhe ia kthen Hektorin Priamit në fund të epikës. Nga fillimi deri në fund të epikës, krenaria e udhëheq intrigën.{{efn|1={{harvp|Frobish|2003|p=24}} shkruan se lufta "fillon me krenarinë dhe papjekurinë e tij, por përfundon me shkathtësinë dhe trimërinë e tij në fushëbetejë."}}
+
+=== Heroizmi ===
+''Iliada'' e portretizon temën e heroizmit në mënyra të ndryshme përmes personazheve të ndryshëm, kryesisht Akilit, Hektorit, Patroklit, etj. Edhe pse koncepti tradicional i heroizmit shpesh lidhet drejtpërdrejt me protagonistin, i cili duhet të shkruhet në një dritë heroike, ''Iliada'' luan me këtë ide të heroizmit dhe nuk e bën eksplicit se kush është heroi i vërtetë i historisë. Historia e ''Iliadës'' ndjek luftëtarin e madh grek Akili, si dhe zemërimin e tij dhe shkatërrimin që ai shkakton. Paralelisht me këtë, historia ndjek gjithashtu luftëtarin trojan Hektor dhe përpjekjet e tij për të luftuar për të mbrojtur familjen dhe popullin e tij. Zakonisht supozohet se, meqë është protagonisti, Akili është heroi i kësaj historie. Duke shqyrtuar veprimet e tij gjatë gjithë ''Iliadës'' dhe duke i krahasuar ato me ato të personazheve të tjerë, disa megjithatë mund të arrijnë në përfundimin se Akili nuk është vërtet heroi, madje ndoshta një antihero. Mund të argumentohet gjithashtu se Hektori është heroi i vërtetë i ''Iliadës'' për shkak të cilësive të tij heroike të natyrshme, si besnikëria ndaj familjes së tij dhe forca e vendosmëria për të mbrojtur popullin e tij, dhe fokusi në fund të historisë te varrimi i Hektorit me nder. Heroi i vërtetë i ''Iliadës'' nuk shfaqet kurrë eksplicit dhe lihet qëllimisht për interpretim nga autori, Homeri, i cili synonte të tregonte kompleksitetin dhe dobësitë e të dy personazheve, pavarësisht se kush konsiderohet heroi "i vërtetë".
+
+=== ''Timē'' ===
+I afërt me ''kleos''-in është ''timē'' ({{lang|grc|τιμή}}, "respekt, nder"), koncepti që shënon respektin që një njeri i nderuar grumbullon me arritjet (kulturore, politike, luftarake), sipas stacionit të tij në jetë. Në Librin I, telashet akease fillojnë me sjelljen jonderuese, jombretërore të mbretit Agamemnon – së pari, duke e kërcënuar priftin Kris (1.11), pastaj, duke i acaruar duke e çnderuar Akilin, duke ia konfiskuar Briseidën (1.171). Zemërimi pasues i luftëtarit ndaj mbretit jonderues e shkatërron kauzën ushtarake akease.
+
+=== ''Hubris'' ===
+''Hybris''-i ({{lang|grc|Ὕβρις}}) luan një rol të ngjashëm me ''timē''-në. Epika e merr si tezën e saj zemërimin e Akilit dhe shkatërrimin që ai sjell. Zemërimi e prish distancën mes qenieve njerëzore dhe perëndive. Zemërimi i pakontrolluar shkatërron marrëdhëniet e rregullta sociale dhe prish ekuilibrin e veprimeve të drejta të nevojshme për t'i mbajtur perënditë larg qenieve njerëzore. Pavarësisht fokusit të epikës në zemërimin e Akilit, ''hybris''-i luan gjithashtu një rol të spikatur, duke shërbyer si ndezës edhe si karburant për shumë ngjarje shkatërruese.<ref name="Thompson">{{cite web |last=Thompson |first=Diane P. |date=1998 |title=Achilles' Wrath and the Plan of Zeus |url=https://novaonline.nvcc.edu/eli/troy/bbversion/level4/achillesanger.html |website=Northern Virginia Community College|language=en}}</ref>
+
+Agamemnoni refuzon ta shpengojë Kriseiden nga ''hybris''-i dhe e lëndon krenarinë e Akilit kur e kërkon Briseidën. Hybrisi e detyron Paridin të luftojë kundër Menelaut. Agamemnoni i nxit akejtë të luftojnë duke vënë në pikëpyetje krenarinë e Odiseut, Diomedit, dhe Nestorit, duke pyetur pse fshihen dhe presin ndihmë kur duhet të jenë ata që udhëheqin sulmin. Ndërsa ngjarjet e ''Iliadës'' fokusohen te zemërimi i Akilit dhe shkatërrimi që ai sjell, ''hybris''-i i ushqen dhe i nxit të dyja.<ref name="Thompson" />
+
+=== ''Mēnis'' ===
+[[File:Wrath of Achilles2.jpg|thumb|upright=1.20|''Zemërimi i Akilit'' (1819), nga Michel Martin Drolling]]
+
+Fjala e parë e poemës, {{lang|grc|μῆνιν}} (''mēnin''; kallëzore {{lang|grc|μῆνις}}, ''mēnis'', "zemërim", "tërbim", "furi"), vendos temën kryesore të ''Iliadës'': "Zemërimin e Akilit".<ref>{{cite book |translator-last=Rouse |translator-first=W. H. D. |date=1938 |title=The Iliad |publisher=T. Nelsons & Sons |page=11|language=en}}</ref> Zemërimi i tij personal dhe krenaria e plagosur e ushtarit e nxisin historinë: lëkundja e akejve në betejë, vrasjet e Patroklit dhe Hektorit, dhe rënia e Trojës. Në Librin I, Zemërimi i Akilit shfaqet për herë të parë në takimin e thirrur nga Akili mes mbretërve grekë dhe shikuesit Kalkas. Mbreti Agamemnon e çnderon Krisin, priftin trojan të Apollonit, duke refuzuar me kërcënim shpengimin e vajzës së tij, Kriseidën – pavarësisht shpengimit të ofruar prej "dhuratash të panumërta".<ref>Homeri, ''Iliada'' 1.13 {{harvp|Lattimore|1951|p=59}}.</ref> Prifti i fyer i lutet Apollonit për ndihmë, dhe një shi shigjetash murtaje hyjnore prej nëntë ditësh bie mbi akejtë. Për më tepër, në atë takim, Akili e akuzon Agamemnonin se është "më i lakmuari për fitim nga të gjithë njerëzit".<ref>Homeri, ''Iliada'' 1.122 {{harvp|Lattimore|1951|p=62}}.</ref> Ndaj kësaj, Agamemnoni përgjigjet:
+
+{{Quote|text=<poem>
+Por ja kërcënimi im për ty.
+Ashtu si Foibos Apolloni po ma merr Kriseidën time.
+Do ta çoj mbrapsht me anijen time, me ndjekësit
+e mi; por do ta marr Briseidën me faqe të bukura,
+çmimin tënd, unë vetë duke shkuar te streha jote, që të mësosh mirë
+sa më i madh jam se ti, dhe një tjetër njeri të tërhiqet
+nga krahasimi i vetes me mua dhe garimi kundër meje.
+</poem>|source=Homeri, ''Iliada'' 1.181–187 {{harvp|Lattimore|1951|p=64}}.}}
+
+Pas kësaj, vetëm Athina e ndal zemërimin e Akilit. Ai betohet të mos i bindet kurrë më urdhrave nga Agamemnoni. I tërbuar, Akili i qan nënës së tij, Tetidës, e cila e bind ndërhyrjen hyjnore të Zeusit – duke favorizuar trojanët – derisa të dhurat e Akilit të rikthehen. Ndërkohë, Hektori i udhëheq trojanët drejt shtytjes së akejve pothuajse deri në det (Libri XII). Më vonë, Agamemnoni mendon humbjen dhe tërheqjen drejt Greqisë (Libri XIV). Sërish, Zemërimi i Akilit e kthen rrjedhën e luftës kur kërkon hakmarrje pasi Hektori e vret Patroklin. I pikëlluar, Akili i shqyen flokët dhe e ndyt fytyrën. Tetida e ngushëllon birin e saj në zi, i cili i thotë:
+
+{{Quote|text=<poem>
+Kështu ishte këtu që zoti i njerëzve, Agamemnoni, më zemëroi.
+Megjithatë, do ta lëmë gjithë këtë të bëhet e kaluar, dhe për gjithë
+pikëllimin tonë do ta shtypim me forcë zemërimin thellë brenda nesh.
+Tani do të shkoj, ta arrij atë vrasës të një jete të dashur,
+Hektorin; pastaj do ta pranoj vdekjen time, në çfarëdo
+kohe që Zeusi dëshiron ta sjellë atë, dhe të tjerët të pavdekshëm.
+</poem>|source=Homeri, ''Iliada'' 18.111–116 {{harvp|Lattimore|1951|p=378}}.}}
+
+[[File:Peter Paul Rubens - Achilles slays Hector.jpg|thumb|upright=1.0|''Akili e Vret Hektorin'', nga Peter Paul Rubens (1630–1635)]]
+Duke e pranuar perspektivën e vdekjes si çmim të drejtë për të hakmarrë Patroklin, ai rikthehet në betejë, duke e dënuar Hektorin dhe Trojën, duke e ndjekur tri herë rreth mureve trojane para se ta vrasë dhe pastaj ta tërheqë kufomën pas karrocës së tij, mbrapsht në kamp.
+
+=== Lufta ===
+Pjesa më e madhe e ''Iliadës'' fokusohet te vrasja. Për të fituar status, heronjtë duhet të jenë të mirë në vrasje. Edhe pse jo aq të shpeshta, ka raste ku autori shfaq aspektet paqësore të luftës. Rasti i parë i kësaj është në librin 3, kur Menelau dhe Paridi pranojnë të luftojnë një duel të vetëm për t'i dhënë fund luftës. Ky bisedim mes Menelaut dhe Paridit thekson dëshirën dërrmuese për paqe në të dyja palët. Gjithashtu në librin 3, shohim paqe kur pleqtë flasin me Priamin, duke thënë se edhe pse Helena është grua e bukur, lufta është ende çmim shumë i lartë për një person. Këto ngjarje shfaqin njerëzillëkun e luftës. Në librin 6, kur Hektori kthehet në qytet për të vizituar familjen e tij, kjo ngjarje është një tregim tjetër i fuqishëm paqeje, sepse shohim se Hektori është më shumë se një luftëtar i madh. Ai është një baba i dashur dhe bashkëshort i përkushtuar. Dashuria e ndarë mes tij dhe familjes së tij kontraston me skenat gjakatare të betejës, duke theksuar rëndësinë e paqes. Momentet e fundit të paqes janë në librat 23 dhe 24. E para prej tyre janë lojërat funerale që mbahen për Patroklin. Lojërat tregojnë lumturinë, pikëllimin, dhe gëzimin që mund të ndodhë gjatë luftës. Në librin 24, paqja theksohet sërish kur Akili dhe Priami ndajnë ushqim dhe pikëllim për humbjet e tyre të fundit. Në këtë takim, të dy ndiejnë empati për njëri-tjetrin dhe pajtohen për një armëpushim dymbëdhjetëditor për varrimin e Hektorit.{{sfnp|Moore|1921|p=175}}
+
+== Data dhe historia tekstuale ==
+{{Hatnote|Artikujt kryesorë: {{ill|Çështja homerike|en|Homeric Question}} dhe {{ill|Historiciteti i ''Iliadës''|en|Historicity of the Iliad}}}}
+
+[[File:Homeric Greece-en.svg|thumb|300px|left|Hartë e Greqisë homerike]]
+
+Poema daton në periudhën arkaike të lashtësisë klasike. Konsensusi shkencor kryesisht e vendos në fund të shekullit VIII p.e.s, edhe pse disa preferojnë një datë të shekullit VII.<ref>{{Cite journal |last=Crielaard |first=Jan Paul |date=1995 |editor-last=Crielaard |editor-first=Jan Paul |title=Homer, History and Archaeology: Some Remarks on the Date of the Homeric World |journal=Homeric Questions: Essays in Philology, Ancient History and Archaeology |publisher=J.C. Grieben |publication-place=Amsterdam |publication-date=1995 |pages=201–288|language=en}}</ref><ref>{{Cite journal |last=van Wees |first=Hans |date=2002 |title=Homer and Early Greece |journal=Colby Quarterly |volume=38 |issue=1 |pages=94–117|language=en}}</ref> Sido që të jetë, {{lang|la|terminus ante quem}} për datimin e ''Iliadës'' është 630 p.e.s, siç dëshmohet nga reflektimi në art dhe letërsi.<ref>{{Cite journal |last=West |first=M. L. |date=1999 |title=The Invention of Homer |journal=The Classical Quarterly |volume=49 |issue=2 |pages=364–382 |doi=10.1093/cq/49.2.364 |jstor=639863|language=en}}</ref>
+
+Herodoti, pasi konsultoi Orakullin në Dodonë, i vendosi Homerin dhe Hesiodin rreth 400 vjet para kohës së tij, çka do t'i vendoste rreth 850 p.e.s.{{sfnp|Herodotus (de Sélincourt)|1975|p=41}}
+
+Sfondi historik i poemës është koha e Kolapsit të Vonë të Epokës së Bronzit, në fillim të shekullit XII p.e.s. Homeri kështu ndahet nga tema e tij me rreth 400 vjet, periudha e njohur si Epoka e Errët Greke. Debat i intensiv shkencor ka rrethuar pyetjen se cilat pjesë të poemës ruajnë tradita autentike nga periudha mikenase. ''Katalogu i Anijeve'' në veçanti ka tiparin e habitshëm se gjeografia e tij nuk e portretizon Greqinë e Epokës së Hekurit, kohën e Homerit, por ashtu siç ishte para pushtimit dorik.
+
+Titulli {{lang|grc|Ἰλιάς}} (''Ilias''; gjinore {{lang|grc|Ἰλιάδος}}, ''Iliados'') është një elipsë e "{{lang|grc|ἡ ποίησις Ἰλιάς}}, ''he poíesis Iliás''", që do të thotë "poema iliane (trojane)". {{lang|grc|Ἰλιάς}} (e Ilionit/Trojës) është forma specifikisht femërore e mbiemrit nga {{lang|grc|Ἴλιον}} (Ilion/Troja). Forma mashkullore e mbiemrit do të ishte {{lang|grc|Ἰλιακός}} ose {{lang|grc|Ἴλιος}}. E përdor Herodoti.<ref>''Historitë'' 2.116</ref>
+
+Në maj 2026, një mumje egjiptiane nga rreth 400 e.s u gjet me një fragment të Iliadës të vendosur brenda saj. Tekste të tilla nuk ishin të pazakonta në periudhën greko-romake, por nuk ishin gjetur më parë në kontekste varrimi.<ref>{{Cite magazine |last=Wexler |first=Ellen |title=Archaeologists Unearth a Papyrus Fragment From the 'Iliad' Tucked Inside the Wrappings of a 1,600-Year-Old Egyptian Mummy |url=https://www.smithsonianmag.com/smart-news/archaeologists-unearth-a-papyrus-fragment-from-the-iliad-tucked-inside-the-wrappings-of-a-1600-year-old-egyptian-mummy-180988603/ |access-date=2026-05-19 |magazine=Smithsonian Magazine|language=en}}</ref>
+
+Dëshmia tekstuale e plotë më e hershme e ''Iliadës'' është [[Venetus A]] (Venetus Graec. 822; më parë Marc. graec. 454), një dorëshkrim bizantin i kopjuar në shekullin X e.s.{{sfnp|Davison|1962|p=226}} Përmban tekstin e ''Iliadës'' të shënuar me shpjegime, si dhe "skolat A", shënime kritike dhe shpjeguese kryesisht të nxjerra nga vepra tashmë të humbura të gramatikanëve Aristonik, Didim, Herodian, dhe Nikanor.{{sfnp|Erbse|1969|pp=XIII–XVI}} Një dëshmi e rëndësishme për studimet homerike helenistike, dorëshkrimi ofron shumë lexime antike që nuk mbijetojnë gjetkë, dhe redaktorët e konsiderojnë me rëndësi kritike për restaurimin e tekstit të ''Iliadës''.{{sfnp|West|2001|pp=139–140; 147}}
+
+Botimi i parë i ''Iliadës'', {{lang|la|editio princeps}}, u redaktua nga Demetrios Chalkokondyles dhe u botua nga Bernardus Nerlius dhe Demetrius Damilas në Firence në 1489.<ref>{{cite web |title=Homerus, ''[Τὰ σωζόμενα]'' |publisher=The Hellenic Library of the Onassis Foundation |website=onassislibrary.gr |url=http://onassislibrary.gr/en/collection/items/39018_en/ |access-date=3 September 2017|language=en}}</ref>
+
+=== Si traditë gojore ===
+[[File:Thomas Lawrence (1769-1830) - Homer Reciting his Poems - T01974 - Tate.jpg|thumb|''Homeri duke Recituar Poemat e Tij'' nga Thomas Lawrence, 1790]]
+
+Në antikitet, grekët e përdorën ''Iliadën'' dhe ''Odisenë'' si bazat e pedagogjisë. Letërsia ishte qendrore për funksionin edukativo-kulturor të rapsodit endacak, i cili kompozonte poema të qëndrueshme epike nga kujtesa dhe improvizimi dhe i shpërndante ato, përmes këngës dhe kantit, në udhëtimet e tij dhe në Festivalin Panathenaik të atletikës, muzikës, poetikës, dhe flijimit, duke festuar ditëlindjen e Athinës.<ref>''The Columbia Encyclopedia'' (5 ed.), 1994, f. 173.</ref>
+
+Fillimisht, studiuesit klasikë e trajtuan ''Iliadën'' dhe ''Odisenë'' si poezi të shkruar, dhe Homerin si shkrimtar, por deri në vitet 1920, Milman Parry (1902–1935) kishte nisur një lëvizje që pohonte të kundërtën. Hulumtimi i tij mbi stilin gojor homerik – "epitete fikse" dhe "përsëritje" (fjalë, fraza, strofa) – vërtetoi se këto ''formula'' ishin artefakte të traditës gojore, të zbatuara lehtësisht në një varg heksametrik. Një epitet fiks me dy fjalë (p.sh., "Odiseu i shkathët") mund të plotësojë një emër personazhi duke mbushur gjysmën e vargut, duke e liruar kështu poetin të kompozojë një gjysmë vargu të tekstit "origjinal" formulaik për të plotësuar kuptimin e tij.<ref>{{cite web |last=Porter |first=John |title=The Iliad as Oral Formulaic Poetry |date=6 December 2002 |publisher=University of Saskatchewan |language=en}}</ref> Në Jugosllavi, Parry dhe asistenti i tij, Albert Lord (1912–1991), studiuan kompozimin gojor-formulaik të poezisë gojore serbe, duke prodhuar {{ill|Teza Parry/Lord|en|Parry/Lord thesis|lt=Tezën Parry/Lord}} që themeloi studimet e traditës gojore, më vonë të zhvilluara nga Eric Havelock, Marshall McLuhan, Walter Ong, dhe Gregory Nagy.
+
+Në ''The Singer of Tales'' (1960), Lord paraqet ngjashmëri mes tragjedive të akeasit Patrokli në ''Iliadë'' dhe sumerianit Enkidu në ''Epin e Gilgameshit'', dhe pohon se hedh poshtë, me "analizë të kujdesshme të përsëritjes së modeleve tematike", se rrjedha e historisë së Patroklit e prish formulën e vendosur kompozicionale të Homerit të "zemërimit, rrëmbimit të nuses, dhe shpëtimit"; kështu, ''përsëritja'' e frazave fikse nuk e kufizon origjinalitetin e tij në përshtatjen e historisë me rimën.<ref>{{cite book |last=Lord |first=Albert |date=1960 |title=The Singer of Tales |location=Cambridge |publisher=Harvard University Press |pages=190, 195|language=en}}</ref> Në mënyrë të ngjashme, James Armstrong (1958)<ref name=":5" /> raporton se ''formulat'' e poemës japin kuptim më të pasur, sepse dikcioni i "motivit të armatosjes" – që përshkruan Akilin, Agamemnonin, Paridin, dhe Patroklin – shërben për të "ngritur rëndësinë e […] një momenti mbresëlënës"; kështu, "[përsëritja] krijon një atmosferë butësie" ku Homeri e dallon Patroklin nga Akili dhe paralajmëron vdekjen e të parit me kthesa pozitive e negative frazash.<ref>''Iliada'', Libri XVI, 130–154</ref><ref name=":5">{{cite journal |last=Armstrong |first=James I |date=1958 |title=The Arming Motif in the Iliad |journal=American Journal of Philology |volume=79 |number=4 |pages=337–354 |doi=10.2307/292347 |jstor=292347|language=en }}</ref>
+
+Në ''Iliadë'', mospërputhja sintaktike e rastit mund të jetë efekt i traditës gojore – për shembull, Afërdita është "dashuridashëse" pavarësisht se plagoset me dhimbje nga Diomedi (Libri V, 375); dhe përfaqësimet hyjnore mund të përzien mitologjitë mikenase dhe të Epokës së Errët Greke ({{circa|1150–800 p.e.s}}), duke paralelizuar fisnikët trashëgues ''basileis'' (sundues të rangut social më të ulët) me hyjni të vogla, si Skamandri, e të tjerë.<ref>{{cite book |last=Toohey |first=Peter |date=1992 |title=Reading Epic – An Introduction to the Ancient Narrative |location=New Fetter Lane, London |publisher=Routledge|language=en}}</ref>
+
+== Përshkrimi i luftës ==
+{{Hatnote|Artikulli kryesor: {{ill|Rendi i Betejës Trojane|en|Trojan Battle Order}}}}
+
+=== Përshkrimi i luftimit të këmbësorisë ===
+Pavarësisht se Mikena dhe Troja ishin fuqi detare, ''Iliada'' nuk përfshin beteja detare.<ref>Homeri, ''Iliada'' 3.45–50</ref> Farkëtari i anijeve trojan (i anijes që e transportoi Helenën në Trojë), Ferekli, në vend të kësaj lufton në këmbë, si këmbësor.<ref>Homeri, ''Iliada'' 5.59–65</ref> Veshja e betejës dhe armatura e heroit e ushtarit përshkruhen mirë. Ata hyjnë në betejë me karroca, duke hedhur shtiza në formacionet e armikut, dhe pastaj zbresin – për luftim dorë-më-dorë me më shumë hedhje shtizash, hedhje gurësh, dhe nëse është e nevojshme, luftim dorë-më-dorë me shpatë dhe ''aspis'' (mburojë) të mbajtur në sup.<ref>John Keegan (1993), ''A History of Warfare'', f. 248.</ref> Ajaksi i Madh, bir i Telamonit, mban një mburojë të madhe, drejtkëndore (greqisht: {{lang|grc|σάκος}}, romanizuar: {{lang|grc-Latn|sakos}}) me të cilën mbron veten dhe vëllain e tij, Teukrin:
+
+{{Quote|text=<poem>
+I nënti erdhi Teukri, duke shtrirë harkun e tij të lakuar.
+Qëndroi nën mburojën e Ajaksit, birit të Telamonit.
+Ndërsa Ajaksi me kujdes e zhvendoste mburojën mënjanë,
+Teukri shikonte shpejt jashtë, gjuante një shigjetë,
+godiste dikë në turmë, duke e rrëzuar atë ushtar
+pikërisht aty ku qëndronte, duke i dhënë fund jetës – pastaj tërhiqej,
+duke u fshehur pranë Ajaksit, si një fëmijë pranë nënës së tij.
+Ajaksi pastaj do ta fshihte me mburojën e tij të shndritshme.
+</poem>|source=Homeri, ''Iliada'' 8.267–272, përkthyer nga Ian Johnston.}}
+
+Mburoja e rëndë e Ajaksit është më e përshtatshme për mbrojtje sesa për sulm, ndërsa kushëriri i tij Akili mban një mburojë të madhe, të rrumbullakët, oktogonale, të cilën e përdor me sukses së bashku me shtizën e tij kundër trojanëve:
+
+{{Quote|text=<poem>
+Ashtu si një njeri ndërton një mur për ndonjë shtëpi të lartë,
+duke përdorur gurë të mirëpërshtatur për të mbajtur jashtë erërat e forta,
+kështu ishin të afërta helmetat dhe mburojat e tyre me kërthiza,
+mburojë kundër mburoje, helmetë kundër helmete,
+njeri kundër njeriu. Në kreshtat e ndritshme të helmetave,
+kaçurrelat e flokut të kalit prekeshin kur luftëtarët i lëviznin kokat.
+Kaq afër ishin njëri me tjetrin.
+</poem>|source=Homeri, ''Iliada'' 16.213–217 (përkthyer nga Ian Johnston).}}
+
+Duke përshkruar luftimin e këmbësorisë, Homeri e emërton formacionin e falangës,<ref>Homeri, ''Iliada'' 6.6</ref> por shumica e studiuesve nuk besojnë se Lufta historike e Trojës u luftua kështu.<ref>Cahill, Tomas (2003), ''Sailing the Wine Dark Sea – Why the Greeks Matter''.</ref> Në Epokën e Bronzit, karroca ishte arma-transport kryesore e betejës (p.sh. Beteja e Kadeshit). Dëshmitë e disponueshme, nga armatura e Dendrës dhe pikturat e Pallatit të Pilosit, tregojnë se mikenasit përdornin karroca me dy njerëz, me një kalorës kryesor të armatosur me shtizë të gjatë, ndryshe nga karrocat hitite me tre njerëz me kalorës të armatosur me shtizë të shkurtër dhe karrocat egjiptiane e asiriane me dy njerëz të armatosur me shigjeta. Nestori i udhëheq trupat e tij me karroca; ai i këshillon:
+
+{{Quote|text=<poem>
+Në etjen tuaj për t'i angazhuar trojanët,
+asnjëri prej jush mos sulmoni para të tjerëve,
+duke u mbështetur në forcën dhe aftësinë tuaj kalorsiake.
+Dhe mos mbeteni prapa. Kjo do të dëmtojë sulmin tonë.
+Çdo njeri karroca e të cilit përballet me një armik
+duhet të godasë me shtizën e tij nga aty.
+Kjo është taktika më efektive, mënyra
+si njerëzit shkatërruan qytete-kështjella dikur –
+gjokset e tyre plot me atë stil dhe frymë.
+</poem>|source=Homeri, ''Iliada'' 4.301–309 (përkthyer nga Ian Johnston).}}
+
+Edhe pse përshkrimet e Homerit janë grafike, mund të shihet në fund të fundit se fitorja e Akilit është një rast shumë më i zymtë, ku gjithçka që humbet bëhet e dukshme. Nga ana tjetër, lojërat funerale janë të gjalla, sepse jeta dhe lavdia e të vdekurit kremtohen. Përshkrimi i zymtë i luftës kundërshton besimin e zakonshëm grek të lashtë,<ref>{{cite book |last1=Head |first1=John W. |date=14 December 2020 |chapter=Achilles: mênis, kleos, and aristeia |title=Deep Agroecology and the Homeric Epics |publisher=Routledge |isbn=9781003108412 |pages=35–47 |doi=10.4324/9781003108412-3|language=en}}</ref> ku lufta është një aspiratë për ''Kleos''.
+
+=== Rindërtime moderne të armaturës, armëve, dhe stileve ===
+Ka pak rindërtime moderne (arkeologjikisht, historikisht, dhe homerikisht të sakta) të armëve, armaturës, dhe motiveve siç i përshkruan Homeri. Disa rindërtime historike janë bërë nga Salimbeti et al.<ref>{{Cite web |url=http://www.salimbeti.com/micenei/armour5.htm |title=The Greek Age of Bronze – Armour|language=en}}</ref>
+
+=== Ndikimi mbi luftën e Greqisë klasike ===
+Edhe pse poemat homerike (veçanërisht ''Iliada'') nuk ishin domosdoshmërisht shkrim i shenjtë i nderuar nga grekët e lashtë, ato me siguri shiheshin si udhëzues të rëndësishëm për të kuptuarit intelektual të çdo qytetari grek të arsimuar. Kjo dëshmohet nga fakti se, në fund të shekullit V p.e.s, "ishte shenjë e një njeriu me pozitë të mund të recitosh ''Iliadën'' dhe ''Odisenë'' përmendsh."{{sfnp|Lendon|2005|p=36}} Për më tepër, mund të argumentohet se lufta e shfaqur në ''Iliadë'', dhe mënyra si përshkruhet, pati një efekt të thellë dhe shumë të gjurmueshëm mbi luftën greke në përgjithësi. Në veçanti, efekti i letërsisë epike mund të ndahet në tri kategori: taktika, ideologji, dhe mentaliteti i komandantëve. Për të dalluar këto efekte, është e nevojshme të shqyrtohen disa shembuj nga secila prej këtyre kategorive.
+
+Shumica e luftimit të detajuar në ''Iliadë'' kryhet nga heronjtë në mënyrë të rregullt, njëri-me-tjetrin. Ashtu si në ''Odise'', ekziston edhe një ritual i caktuar që duhet respektuar në secilin prej këtyre konflikteve. Për shembull, një hero madhor mund të takojë një hero më të vogël nga pala kundërshtare, rast në të cilin heroi i vogël prezantohet, mund të shkëmbehen kërcënime, dhe pastaj heroi i vogël vritet. Fituesi shpesh e zhvesh trupin nga armatura dhe pajisjet ushtarake.{{sfnp|Lendon|2005|pp=22–23}} Ja një shembull i këtij rituali dhe këtij lloji lufte njëri-me-tjetrin në ''Iliadë'':
+
+{{Quote|text=<poem>
+Aty Ajaksi Telamonian rrëzoi birin e Anthemionit,
+Simoeisios në bukurinë e tij të djaloshit, të cilin dikur nëna e tij
+duke zbritur nga Ida e lindi pranë brigjeve të Simoeis
+kur kishte ndjekur atin dhe nënën e saj për të kujdesur
+tufat e deleve.
+
+Prandaj e quajtën Simoeisios; por ai nuk mundi
+t'ua kthente kujdesin prindërve të tij të dashur; ishte jetëshkurtër,
+i rrëzuar poshtë nën shtizën e Ajaksit zemërmadh,
+i cili e goditi ndërsa ai u shfaq i pari përpara pranë sisës
+së gjirit të djathtë, dhe maja e shtizës prej bronzi kaloi
+drejt e nëpër shpatull.
+</poem>|source=Homeri, ''Iliada'' 4.473–483 {{harvp|Lattimore|1951|pp=125–126}}.}}
+
+Pyetja më e rëndësishme në pajtimin e lidhjes mes luftimit epik të ''Iliadës'' dhe luftës më të vonë greke ka të bëjë me falangën, ose luftimin hoplit, të parë në historinë greke mirë pas ''Iliadës'' së Homerit. Ndërsa ka diskutime rreth ushtarëve të rreshtuar në ngjashmëri me falangën gjatë gjithë ''Iliadës'', fokusi i poemës te luftimi heroik, siç u përmend më sipër, do të dukej se kundërshton taktikat e falangës. Sidoqoftë, falanga kishte aspektet e saj heroike. Luftimi mashkullor njëri-me-tjetrin i epikës manifestohet në luftimin e falangës me theksin te mbajtja e pozicionit të dikujt në formacion. Kjo e zëvendëson konkurrencën heroike të vetme që gjendet në ''Iliadë''.{{sfnp|Lendon|2005|p=51}}
+
+Një shembull i kësaj është historia spartane e 300 burrave të zgjedhur duke luftuar kundër 300 argivëve të zgjedhur. Në këtë betejë kampionësh, vetëm dy burra mbeten në këmbë për argivët dhe një për spartanët. Othriadi, spartani i mbetur, kthehet të qëndrojë në formacionin e tij me plagë vdekjeprurëse, ndërsa dy argivët e mbetur kthehen në Argos për të raportuar fitoren e tyre. Kështu, spartanët e pretenduan këtë si fitore, pasi burri i tyre i fundit shfaqi bëmën më të lartë të trimërisë duke e mbajtur pozicionin e tij në falangë.<ref>Herodoti, 1.82.</ref>
+
+Për sa i përket ideologjisë së komandantëve në historinë e mëvonshme greke, ''Iliada'' ka një efekt interesant. ''Iliada'' shpreh një përbuzje të qartë për dredhitë taktike kur Hektori thotë, para se ta sfidojë Ajaksin e madh:
+
+{{Quote|text=<poem>
+Di si të futem duke sulmuar në përleshjen e kuajve fluturues; di si t'i shkel masat në dyshemenë e ashpër të zotit të luftës. Sidoqoftë, sado i madh je unë nuk do të të godisja me dredhi, duke pritur për shansin tim, por hapur, kështu, nëse ndoshta mund të të godas.
+</poem>|source=Homeri, ''Iliada'' 7.237–243 {{harvp|Lattimore|1951|p=174}}.}}
+
+Sidoqoftë, pavarësisht shembujve të përbuzjes për këtë dredhi taktike, ka arsye të besohet se ''Iliada'', si dhe lufta e mëvonshme greke, e miraton gjeninë taktike nga ana e komandantëve të saj. Për shembull, ka pasazhe të shumta në ''Iliadë'' me komandantë si Agamemnoni ose Nestori që diskutojnë rreshtimin e trupave në mënyrë që të fitojnë avantazh. Në të vërtetë, Lufta e Trojës fitohet nga një shembull i njohur i dinakërisë akease në Kalin e Trojës. Kjo përmendet edhe më vonë nga Homeri në ''Odise''. Lidhja, në këtë rast, mes taktikave dinake të akejve dhe trojanëve në ''Iliadë'' dhe atyre të grekëve të mëvonshëm nuk është e vështirë të gjendet. Komandantët spartanë, shpesh të parë si kulmi i shkathtësisë ushtarake greke, njiheshin për dredhitë e tyre taktike, dhe për ta, kjo ishte një bëmë e dëshirueshme te një komandant. Në të vërtetë, ky lloj udhëheqjeje ishte këshilla standarde e shkrimtarëve taktikë grekë.{{sfnp|Lendon|2005|p=240}}
+
+Përfundimisht, ndërsa luftimi homerik (ose epik) sigurisht nuk përsëritet plotësisht në luftën e mëvonshme greke, shumë nga idealet, taktikat, dhe udhëzimet e tij janë.{{sfnp|Lendon|2005|p=}}
+
+Hans van Wees argumenton se përshkrimet e luftës të treguara në epikë mund të përcaktohen mjaft specifikisht – në gjysmën e parë të shekullit VII p.e.s.<ref>{{cite book |last=van Wees |first=Hans |date=2004 |title=Greek Warfare – Myth and Realities |publisher=Bristol Classical Press |page=249|language=en}}</ref>
+== Ndikimi mbi artet dhe kulturën ==
+{{Hatnote|Artikulli kryesor: {{ill|Lufta e Trojës në letërsi dhe arte|en|Trojan War in literature and the arts}}}}
+
+''Iliada'', përveç ''Odisesë'', u bë tekst themelor shkollor në Athinën klasike.{{Sfnp|Lamberton|2020|p=411}} Të dy tekstet ishin, deri në fund të shekullit V p.e.s, të njohura gjerësisht në botën e lashtë greke.{{Sfnp|Kim|2020|p=424}} Sipas klasicistit Gregory Nagy, "''Iliada'' e Homerit, së bashku me shoqëruesen e saj, ''Odisenë'', u nderua nga vetë grekët e lashtë si guri themeltar i qytetërimit të tyre".<ref>{{Cite web |title=Heroes and the Homeric Iliad |url=https://www.uh.edu/~cldue/texts/introductiontohomer.html |access-date=2025-12-04 |website=www.uh.edu|language=en}}</ref> Sipas studiuesit letrar James Boyd White, "''Iliada'' njëkohësisht përcakton një kulturë dhe e nënshtron atë ndaj një grupi kritikash themelore".<ref>{{Cite journal |last=White |first=James B. |date=1981 |title=Homer's Argument with Culture|journal=Critical Inquiry|volume=7 |issue=4 |pages=707–725 |doi=10.1086/448127 |jstor=1343146|language=en}}</ref>
+
+''Iliada'' ishte një vepër popullore në Greqinë klasike dhe mbeti kështu gjatë periudhave helenistike, romake, dhe bizantine. Besohet përgjithësisht nga shumica e studiuesve se ka "ekzistuar në një farë forme deri në mesin e shekullit VII p.e.s.", edhe pse asnjë referencë eksplicite ndaj ''Iliadës'' nga 650 deri 550 p.e.s nuk mbijeton dhe shumica e referencave ishin në formën e aludimeve letrare.{{Sfnp|Kim|2020|p=418–420}} ''Iliada'' u bë më e njohur në shekullin V p.e.s, edhe pse ka pak dëshmi që të sugjerojnë se ajo dhe ''Odisea'' kishin arritur në atë kohë një status si tekste "homerike" kanonike.{{Sfnp|Kim|2020|p=422}} Deri në 14–235 e.s, "ndikimi i Homerit përshkonte çdo cep të perandorisë romake", dhe ''Iliada'' "personifikohej në formë skulpturore".{{Sfnp|Kim|2020|p=431}}
+
+Temat nga Lufta e Trojës ishin një preferencë mes dramaturgëve të lashtë grekë. Trilogjia e Eskilit, ''[[Oresteia]]'', e përbërë nga ''Agamemnoni'', ''Bartëset e Libacionit'', dhe ''Eumenidet'', ndjek historinë e Agamemnonit pas kthimit të tij nga lufta.
+
+Publius Baebius Italicus, një senator romak, konsiderohet autor i një versioni të shkurtuar latin të ''Iliadës'' rreth 54–65 e.s. Vepra njihet si ''Ilias Latina'' ose ''Homerus Latinus'' dhe më parë i atribuohej Pindarus Thebaeus-it. Ndërsa teksti origjinal grek i vetë Iliadës nuk lexohej zakonisht në Perëndim gjatë Mesjetës, ''Ilias Latina'' studiohej dhe lexohej gjerësisht si tekst bazë shkollor. Përveç kësaj, Perëndimi priste ta shihte Homerin si të pabesueshëm, pasi besonin se zotëronin dëshmi shumë më tokësore dhe realiste okulare të Luftës së Trojës, të shkruara nga Dares dhe Dictys Cretensis, të cilët supozohej të ishin të pranishëm në ngjarjet. Këto tregime të falsifikuara të antikitetit të vonë formuan bazën për disa romanca kalorësiake mesjetare shumë të njohura, veçanërisht ato të Benoît de Sainte-Maure dhe Guido delle Colonne. Këto nga ana e tyre lindën shumë të tjera në gjuhë të ndryshme evropiane, si libri i parë anglisht i shtypur, ''Recuyell of the Historyes of Troye'' i vitit 1473. Tregime të tjera të lexuara në Mesjetë ishin ritregime antike latine si {{lang|la|Excidium Troiae}} dhe vepra në gjuhët vendase si Saga Islandeze e Trojës. Edhe pa Homerin, historia e Luftës së Trojës kishte mbetur qendrore për kulturën letrare mesjetare të Evropës Perëndimore dhe ndjenjën e saj të identitetit. Shumica e kombeve dhe disa shtëpi mbretërore e gjurmojnë origjinën te heronjtë e Luftës së Trojës; p.sh., Britania supozohej të ishte kolonizuar nga trojani Brutus.<ref>{{cite book |author=Nennius |title=Historia Brittonum |chapter=III. The History |via=sourcebooks.fordham.edu |publisher=Fordham University Press |language=en}}</ref>
+
+Një përkthim latin më i hershëm i ''Iliadës'' në heksametra u prodhua nga Matius, prej të cilit mbeten disa fragmente.<ref>{{Cite book |last=Conte |first=Gian Biagio |title=Latin literature: a history |last2=Most |first2=Glenn W. |date=1999 |publisher=Johns Hopkins University Press |isbn=978-0-8018-6253-3 |location=Baltimore, Md.|language=en}}</ref>
+
+Homeri erdhi sërish të kishte ndikim të madh në kulturën evropiane me rilindjen e interesit për antikitetin grek gjatë Rilindjes, dhe mbetet vepra e parë dhe më me ndikim e kanonit perëndimor. Në formën e saj të plotë, teksti u kthye në Itali dhe Evropën Perëndimore duke filluar në shekullin XV, kryesisht përmes përkthimeve në latinisht dhe në gjuhët vendase.
+
+Sipas Suleyman al-Boustani-t, një poet i shekullit XIX që bëri përkthimin e parë të ''Iliadës'' në arabisht, epika mund të jetë përhapur gjerësisht në përkthime siriake dhe pahlavi gjatë Mesjetës së hershme. Al-Boustani ia atribuon Teofilit të Edesës përkthimin siriak, i cili supozohej të ishte (së bashku me origjinalin grek) lexuar ose dëgjuar gjerësisht nga dijetarët e Bagdadit në kulmin e Kalifatit Abasid, edhe pse ata dijetarë kurrë nuk bënë përpjekjen ta përkthenin në gjuhën zyrtare të perandorisë: arabishten. ''Iliada'' ishte gjithashtu poema e parë e plotë epike që u përkthye në arabisht nga një gjuhë e huaj, me botimin e veprës së plotë të Al-Boustani-t në 1904.<ref>{{Cite book |last=Al-Boustani |first=Suleyman |script-title=ar:الإلياذة |trans-title=Iliad |date=2012 |publisher=Hindawi |isbn=978-977-719-184-5 |pages=26–27|language=ar}}</ref>
+
+=== Anglisht ===
+* William Shakespeare e përdori intrigën e ''Iliadës'' si material burimor për shfaqjen e tij ''Troilus and Cressida'', por u përqendrua te një legjendë mesjetare, historia e dashurisë së Troilit, birit të mbretit Priam të Trojës, dhe Kresidës, vajzës së shikuesit trojan Kalkas. Shfaqja, shpesh konsideruar komedi, i kthen mbrapsht pikëpamjet tradicionale mbi ngjarjet e Luftës së Trojës dhe e portretizon Akilin si frikacak, Ajaksin si mercenar të mërzitshëm e jo-mendimtar, etj.
+* William Theed plaku bëri një statujë bronzi të Tetidës ndërsa ia sjell Akilit armaturën e tij të re, të farkuar nga Hefesti. Ka qenë e ekspozuar në Metropolitan Museum of Art në Nju Jork që nga 2013.<ref>{{cite web |title=Thetis Transporting Arms for Achilles |url=https://www.metmuseum.org/art/collection/search/239234 |publisher=Metropolitan Museum of Art |access-date=4 July 2022|language=en}}</ref>
+* Poema e Robert Browning-ut ''Development'' diskuton njohjen e tij fëmijërore me temën e ''Iliadës'' dhe kënaqësinë e tij në epikë, si dhe debatet bashkëkohore rreth autorësisë së saj.<ref>{{Cite book |last=Browning |first=Robert |title=Asolando: Fancies and Facts |publisher=Smith, Elder & Co. |year=1890 |location=London, England |pages=123–130|language=en}}</ref>
+
+=== Artet e shekullit XX ===
+* Lesya Ukrainka shkroi poemën dramatike "Kasandra" në 1901–1907, bazuar në ''Iliadë''. Përshkruan historinë e Kasandrës, një profeteshë.
+* ''The Fall of Troy'' (1911), film italian memec i Giovanni Pastrone-s, filmi i parë i njohur i bazuar në poemën epike të Homerit.
+* "Achilles in the Trench" është një nga poezitë më të njohura të luftës të Luftës së Parë Botërore dhe u shkrua nga Patrick Shaw-Stewart ndërsa priste të dërgohej të luftonte në Galipoli.
+* ''The Private Life of Helen of Troy'' (1925), libër i shkruar nga John Erskine, i përqendruar te jeta e mëvonshme e Helenës në Spartë, në kohën kur Hermiona i afrohet martesës.<ref name="Maguire">{{cite book |last1=Maguire |first1=Laurie |year=2009 |chapter=Parodying Helen |title=Helen of Troy: From Homer to Hollywood |publication-place=Chichester, West Sussex, England |publisher=Wiley-Blackwell |page=183 |isbn=9781444308631 |language=en}}</ref>
+* ''The Private Life of Helen of Troy'' (1927), film memec komedi i drejtuar nga Alexander Korda.<ref name="Review">{{cite web |last1=Anna Tóth |first1=Zsófia |year=2024 |location=Hungary |title=''Helen of Troy in Hollywood'' Review by Zsófia Anna Tóth |url=https://americanaejournal.hu/index.php/americanaejournal/article/download/46136/44664 |publisher=AMERICANA – E-Journal of American Studies in Hungary |access-date=23 July 2026|language=en}}</ref>
+* ''The Queen of Sparta'' (1931), film epik hollivudian me buxhet të ulët, prej 80 minutash, i prodhuar nga një kompani italiane, që shërben si përshtatje e lirshme e Iliadës.<ref>{{cite book |last1=Winkler |first1=Martin M. |year=2007 |chapter=13: The Trojan War on Screen: An Annotated Filmography |title=Troy: From Homer's Iliad to Hollywood Epic |page=205 |isbn=9781405178549 |language=en}}</ref>
+* Simone Weil shkroi esenë "Iliada, ose Poema e Forcës" në 1939, pak pas fillimit të Luftës së Dytë Botërore. Eseja përshkruan mënyrën si ''Iliada'' demonstron se si forca, e ushtruar deri në ekstrem në luftë, i redukton edhe viktimën edhe agresorin në nivelin e skllavit dhe automatit të pamenduar.<ref>{{cite book |first1=Bruce B. |last1=Lawrence |first2=Aisha |last2=Karim |date=2008 |title=On Violence – A Reader |page=377 |isbn=978-0-8223-3769-0 |publisher=Duke University Press|language=en}}</ref>
+* Muzikali i vitit 1954 në Broadway, ''The Golden Apple'', me libretist John Treville Latouche dhe kompozitor Jerome Moross, u përshtat lirisht nga ''Iliada'' dhe ''Odisea'', duke e rivendosur veprimin në shtetin e Washington-it në Amerikë, në vitet pas Luftës Spanjo-Amerikane, me ngjarje të frymëzuara nga ''Iliada'' në Aktin e Parë dhe ngjarje të frymëzuara nga ''Odisea'' në Aktin e Dytë.
+* ''Helen of Troy'' (1956), film i drejtuar nga Robert Wise, që thekson pafajësinë e Helenës në çështjen e rrëmbimit të saj.<ref name="Review" />
+* Poema e Christopher Logue-t ''War Music'', një "rrëfim", jo përkthim, i ''Iliadës'', filloi në 1959 si komision për radion. Vazhdoi ta punonte deri në vdekjen e tij në 2011. Përshkruar nga Tom Holland si "një nga veprat më të jashtëzakonshme të letërsisë pasluftore", ka pasur ndikim te Kae Tempest dhe Alice Oswald, e cila thotë se "çliron një lloj energjie teatrale të harruar në botë".<ref>{{Cite book |last=Logue |first=Christopher |title=War Music, an account of Homer's Iliad|publisher=Faber & Faber |date=2015 |isbn=978-0-571-31449-2 |chapter=Introduction by Christopher Reid|language=en}}</ref>
+* Opera ''King Priam'' e Sir Michael Tippett-it (që pati premierën në 1962) bazohet lirisht në ''Iliadë''.
+* ''The Fury of Achilles'' (1962), film italian i drejtuar nga Marino Girolami, i përqendruar te Akili. Publikimi i dublluar në anglisht është rreth njëzet minuta më i shkurtër se versioni origjinal dhe heq skenat e Kalit të Trojës, duke përfunduar pasi Akili e vret Hektorin.<ref>{{cite web |last1=Sipiläinen |first1=Mirke |date=31 May 2023 |title=Friend, Lover, Cousin: The Portrayal of Achilles and Patroclus' relationship in the adaptations of the 'Iliad' in 1920-2020 |url=https://urn.fi/URN:NBN:fi:jyu-202306133738 |website=University of Jyväskylä |page=34 |access-date=23 July 2026|language=en}}</ref>
+* Romani i Christa Wolf-it, ''Cassandra'' (1983), është një angazhim kritik me ''Iliadën''. Rrëfyesja e Wolf-it është Kasandra, mendimet e së cilës dëgjohen pikërisht para vrasjes së saj nga Klitemnestra në Spartë. Rrëfyesja e Wolf-it paraqet një pikëpamje feministe të luftës, dhe të luftës në përgjithësi. Historinë e Kasandrës e shoqërojnë katër ese që Wolf i mbajti në Frankfurter Poetik-Vorlesungen të vitit 1982. Esetë paraqesin shqetësimet e Wolf-it si shkrimtare dhe ritregimtare e kësaj historie kanonike dhe tregojnë gjenezën e romanit përmes leximeve të vetë Wolf-it dhe një udhëtimi që bëri në Greqi.
+* ''Men in Aida'' e David Melnick-ut ({{langx|1=grc|text=μῆνιν ἄειδε|translit=mínin áeide|translation=Zemërimin këndo}}) (1983) është një përkthim postmodern homofonik i Librit të Parë në një skenar farsik banjoje publike, duke ruajtur tingujt por jo kuptimin e origjinalit.
+* Romani i Marion Zimmer Bradley-t, ''The Firebrand'' (1987), e ritregon historinë nga këndvështrimi i Kasandrës, princeshë e Trojës dhe profeteshë e mallkuar nga Apolloni.
+
+=== Kultura popullore bashkëkohore ===
+* Seria e Eric Shanower-it në Image Comics, ''Age of Bronze'', e cila filloi në 1998, ritregon legjendën e Luftës së Trojës.<ref>Eric Shanower, ''A Thousand Ships'' (2001, {{ISBN|1-58240-200-0}}); —. ''Sacrifice'' (2004, {{ISBN|1-58240-360-0}}); —. ''Betrayal, Part One'' (2008, {{ISBN|978-1-58240-845-3}})</ref>
+* Përshtatja/homazhi epik i fantashkencës nga Dan Simmons, ''Ilium'', u botua në 2003, duke fituar Çmimin Locus për romanin më të mirë të fantashkencës të vitit 2003.<ref>[https://www.worldswithoutend.com/novel.asp?ID=56 Ilium|WWEnd], ''worldswithoutend.com'', qasur më 2 shkurt 2025</ref>
+* ''Helen of Troy'' (2003), miniseri televizive e treguar nga këndvështrimi i Menelaut, e përqendruar te si Helena ndikoi njerëzit rreth saj, duke e lënë Luftën e Trojës si ngjarje sfondi.<ref>{{cite web |last1=Santos Muñoz |first1=Yalitza Y. |year=2012 |title=The Ripple Effect: Mirror Images of Helen of Troy |website=University of Jyväskylä |page=50 |language=en}}</ref>
+* ''Troy'' (2004), përshtatje e lirshme filmike e ''Iliadës'', mori vlerësime të përziera, duke arkëtuar vetëm 133 milionë dollarë në Shtetet e Bashkuara me një buxhet prej 185 milionë dollarësh.<ref>{{cite web |title="Troy" a mediocre epic - Oct 10, 2005 |url=http://edition.cnn.com/2005/US/10/10/past.profile.troy/ |website=CNN.com |date=October 10, 2005 |access-date=March 15, 2018|language=en}}</ref> Ndërkombëtarisht, ishte sukses komercial, duke arkëtuar 497 milionë dollarë në mbarë botën.<ref>{{cite web |url=http://www.boxofficemojo.com/alltime/world/ |title=All Time Worldwide Box Office Grosses |website=boxofficemojo.com|language=en}}</ref>
+* ''The Rage of Achilles'' (2009), e autorit amerikan dhe themeluesit të Yale Writers' Conference, Terence Hawkins, e rirrëfen ''Iliadën'' si roman në gjuhë moderne, ndonjëherë grafike. E informuar nga teoria e Julian Jaynes-it për mendjen dykapshore dhe historiciteti i Luftës së Trojës, i portretizon personazhet e saj si njerëz të vërtetë, të cilëve perënditë u shfaqen vetëm si halucinacione ose zëra komandues gjatë kalimit të papritur dhe të dhimbshëm drejt vetëdijes vërtet moderne.
+* Lisa Peterson dhe Denis O'Hare zhvilluan një shfaqje njëpersonëshe 100-minutëshe, ''An Iliad'', bazuar në përkthimin e Robert Fagles-it, për New York Theatre Workshop. Pati premierën në 2010 në Seattle Repertory Theatre dhe u interpretua atë vit nga McCarter Theatre, Princeton, New Jersey, para se të hapej në Nju Jork në 2012.<ref>{{cite magazine |url=https://playbill.com/article/denis-ohare-and-stephen-spinella-alternate-in-nyc-premiere-of-an-iliad-spinella-begins-feb-17-com-187609 |access-date=20 April 2026 |title=Denis O'Hare and Stephen Spinella Alternate in NYC Premiere of ''An Iliad''; Spinella Begins Feb. 17 |first=Kenneth |last=Jones |date=17 February 2012 |magazine=Playbill|language=en}}</ref> David Wenham luajti në shfaqjen në 2026 për Sydney Theatre Company.<ref>[https://sydneytheatre.shorthandstories.com/an-iliad/index.html "''An Iliad''"], shënime programi, Sydney Theatre Company</ref>
+* Koleksioni i gjashtë i Alice Oswald-it, ''Memorial'' (2011),<ref>{{cite book |first=Alice |last=Oswald |title=Memorial – An Excavation of the Iliad |publisher=Faber & Faber |date=2011 |isbn=978-0-571-27416-1|language=en}}</ref> bazohet mbi por largohet nga forma narrative e ''Iliadës'' për t'u përqendruar te, dhe kështu për të përkujtuar, personazhet e emërtuar individualisht, vdekjet e të cilëve përmenden në atë poemë.<ref>{{cite magazine |first=Tom |last=Holland |title=''The Song of Achilles'' by Madeline Miller / ''Memorial'' by Alice Oswald. Surfing the rip tide of all things Homeric |magazine=New Statesman |location=London |date=17 October 2011 |language=en}}</ref> Në tetor 2011, ''Memorial'' u vendos në listën e ngushtë të Çmimit T. S. Eliot, por në dhjetor 2011, Oswald e tërhoqi librin nga lista e ngushtë, duke cituar shqetësime rreth etikës së sponsorëve të çmimit.
+* Romani debutues i vitit 2011 i Madeline Miller-it, ''The Song of Achilles'',<ref>{{Cite book |title=The Song of Achilles |last=Miller |first=Madeline |date=2011 |publisher=Bloomsbury |isbn=978-1-4088-1603-5|language=en}}</ref> tregon historinë e jetës së Akilit dhe Patroklit së bashku si fëmijë, dashnorë, dhe ushtarë. Romani, i cili fitoi Çmimin e Grave për Fiksion të vitit 2012, mbështetet te ''Iliada'' si dhe te veprat e autorëve të tjerë klasikë si Statius, Ovidi, dhe Virgjili.
+* ''For the Most Beautiful'',<ref>{{Cite book |title=For the Most Beautiful |last=Hauser |first=Emily |date=2016 |publisher=Penguin Books |isbn=978-1-784-16065-4|language=en}}</ref> shkruar nga klasicistja dhe historiania Emily Hauser në 2016, tregon jetët e Kriseidës dhe Briseidës me fjalët e tyre.
+* Romani i Natalie Haynes-it i vitit 2019, ''A Thousand Ships'',<ref>{{Cite book |title=A Thousand Ships |last=Haynes |first=Natalie |date=2019 |publisher=Pan Macmillan |isbn=978-1-509-83621-5|language=en}}</ref> tregon pasojat e Rënies së Trojës përmes syve dhe fjalëve të grave të përfshira. U vendos në listën e ngushtë të Çmimit të Grave për Fiksion 2020.
+* Si pjesë e interesit të tij të vazhdueshëm letrar në mitet klasike, Stephen Fry botoi ''Troy'' në 2020.<ref>{{Cite book |title=Troy |last=Fry |first=Stephen |date=2020 |publisher=Penguin Books |isbn=978-0-241-42458-2|language=en}}</ref> Libri është bërë popullor si mënyrë më e arritshme për t'i lexuar mitet greke.
+* Pat Barker botoi ''The Silence of the Girls''<ref>{{Cite book |title=The Silence of the Girls |last=Barker |first=Pat |date=2019 |publisher=Penguin Books |isbn=978-0-241-98320-1|language=en}}</ref> dhe ''The Women of Troy''<ref>{{Cite book |title=The Women of Troy |last=Barker |first=Pat |date=2022 |publisher=Penguin Books |isbn=978-0-241-98833-6|language=en}}</ref> në 2018 dhe 2021, përkatësisht. Duke ritreguar zërat e heshtur të grave në ''Iliadë'', të dy librat u vlerësuan kritikisht, me ''The Silence of the Girls'' të emërtuar si një nga "100 librat më të mirë të shekullit XXI" nga The Guardian.
+
+=== Shkencat ===
+* Psikiatri Jonathan Shay shkroi dy libra, ''Achilles in Vietnam: Combat Trauma and the Undoing of Character'' (1994)<ref>{{cite book |last=Shay |first=Jonathan |title=Achilles in Vietnam: Combat trauma and the undoing of character |publisher=Scribner |date=1994 |isbn=978-0-684-81321-9|language=en}}</ref> dhe ''Odysseus in America: Combat Trauma and the Trials of Homecoming'' (2002), të cilat e lidhin ''Iliadën'' dhe ''Odisenë'' me çrregullimin e stresit pas-traumatik dhe dëmtimin moral, siç shihet në historitë e rehabilitimit të pacientëve veteranë lufte.
+
+== Gjinia ==
+Portretizimi i grave nga kultura greke e lashtë, Homeri, dhe përkthyesit është bërë subjekt i zakonshëm studimi.<ref name=":8">{{Cite web |date=2024-04-26 |title=Emily Wilson's ''Iliad'': Myth, Translation, and Gender in the Homeric Epics|author=Sophie Davidson|url=https://blue-stocking.org.uk/2024/04/26/emily-wilsons-iliad-myth-translation-and-gender-in-the-homeric-epics/ |access-date=2026-05-09 |website=Bluestocking Oxford|language=en}}</ref><ref name=":6">{{Cite journal |last=King |first=Briana |date=2024-12-09 |title=Un-silencing the Girls: Critical Classical Reception in Feminist Retellings of Greek Myths |journal=Thersites |volume=19 |pages=8–46 |doi=10.34679/thersites.vol19.279|language=en}}</ref> Historia i përshkruan gratë kryesisht si pronë të vlefshme, dhe konkurrenca për to është shkaku i grindjes: Helena është shkaku i luftës, dhe skllavet Briseida e Kriseida shkaktojnë konfliktin mes Akilit dhe Agamemnonit.<ref name=":9" />
+
+''Iliada'' është një subjekt i shpeshtë ritregimesh nga këndvështrimi i një personazhi femëror të shtypur. Lufta e Trojës është bërë sfondi më popullor për rishqyrtimin e gjinisë në botën e lashtë. Autorja gjermano-lindore Christa Wolf e ritregon historinë nga këndvështrimi i Kasandrës në romanin e saj të 1983-shit, dhe Pat Barker e ritregon nga këndvështrimi i Briseidës. Ritregimet shpesh vënë në pikëpyetje idealet mashkullore dhe shqyrtojnë dhunën ndaj grave në luftë.<ref>{{Cite journal |last=Lesser |first=Rachel |date=2025-06-21 |title=Ancient and Modern Voices of Briseis: A Feminist Critique |journal=Classical Receptions Journal |volume=17 |issue=3 |pages=236–251 |doi=10.1093/crj/claf002|language=en}}</ref><ref name=":9">{{Cite web |title=Summoning the Voices of the Silenced: Pat Barker's The Silence of the Girls, a Feminist Retelling of Homer's The Iliad |url=https://pjes.edu.pl/wp-content/uploads/2021/04/PJES_6-1_3_Tuhin_Shuvra_Sen.pdf|language=en}}</ref><ref name=":6" /> Duke filluar në mesin e viteve 2000, ritregimi i miteve antike nga këndvështrimi i një personazhi femëror u bë nëngjini popullore.
+
+Përkthime të ndryshme i përshkruajnë gjithashtu gratë ndryshe. Në librin tre, rreshti 180, Helena e qorton veten para vjehrrit të saj, Priamit. Greqishtja është {{lang|grc|δαὴρ αὖτ᾽ ἐμὸς ἔσκε κυνώπιδος, εἴ ποτ᾽ ἔην γε.}} Përmban një term që fjalë për fjalë do të thotë "me fytyrë qeni", të cilin tre përkthyes meshkuj të ''Iliadës'' e përkthyen me zhargon mizogjin:<ref name="Mukherjee">{{Cite web |title=The Violence of Translation: Rewritings of Empire, Caste and Patriarchy|first=Amritesh |last=Mukherjee|website=Writing Women |url=https://writingwomen.co/the-violence-of-translation-rewritings-of-empire-caste-and-patriarchy/ |access-date=2026-05-10|language=en}}</ref><ref name=":8" />
+* Lattimore: "Dikur kunati im, kurvë që jam. A ndodhi kjo ndonjëherë?"
+* Fagles: "…dhe dikur ishte kunati im, kurvë që jam! Ishte një botë … apo ishte gjithçka një ëndërr?"
+* Rieu: "…kunati im dikur, kurvë që jam – përveçse gjithë ajo ishte ëndërr."
+
+Në kontrast, dy përkthime më të fundit, të dyja nga gra, janë më literale dhe konsistente mes gjinive:<ref name="Mukherjee" /><ref>{{Cite web |date=2023-10-02 |title=Penn professor, the first woman to translate 'The Odyssey' into English, now breathes new life into 'The Iliad' |url=https://www.phillyvoice.com/the-iliad-new-tanslation-emily-wilson-penn-professor-homer/ |access-date=2026-05-10 |website=PhillyVoice|language=en}}</ref>
+
+* Alexander (2015): "Ishte kunati im, me fytyrë qeni siç jam unë – nëse kjo ndodhi ndonjëherë."
+* Wilson (2023): "…vëllai i tij, ish-burri i vetes sime me fytyrë qeni – nëse ndonjë prej këtyre gjërave ndodhi fare."
+Duke diskutuar përkthimet më të hershme, Wilson vuri në dukje se i njëjti term grek zbatohet për një personazh mashkull: "Ndryshe nga unë, asnjë prej këtyre përkthyesve nuk e përdor të njëjtin term kur Akili e fyen Agamemnonin; Lattimore, për shembull, e bën Akilin të thotë, 'Ti me sytë e qenit', jo 'Agamemnon, ti kurvë!'"<ref>{{Cite news |last=Wilson |first=Emily |date=2023-09-20 |title=Perspective | Emily Wilson on 5 crucial decisions she made in her 'Iliad' translation |url=https://www.washingtonpost.com/books/2023/09/20/emily-wilson-iliad-translation-terms/ |access-date=2026-05-10 |newspaper=The Washington Post|language=en}}</ref>
+
+== Përkthimet angleze ==
+{{Hatnote|Artikulli kryesor: {{ill|Përkthimet angleze të Homerit|en|English translations of Homer}}}}
+
+[[File:Iliad1660Frontis.jpg|thumb|upright=1.20|Faqja e titullit e gdhendur nga Wenceslas Hollar për botimin e 1660 të ''Iliadës'', përkthyer nga John Ogilby]]
+[[File:Iliad editions.jpg|thumb|Mostër përkthimesh dhe botimesh të ''Iliadës'' në anglisht]]
+
+'''Përkthimet shqip.''' Në gjuhën shqipe, ''Iliada'' është botuar në dy përkthime të plota, nga [[Gjon Shllaku]] dhe nga Ilia Ballauri; botimi i Shllakut u ribotua në Prishtinë nga shtëpia botuese Buzuku në vitin 2000.<ref>{{Cite book|last=Homeri|title=Iliada|translator-last=Shllaku|translator-first=Gjon|publisher=Buzuku|year=2000|location=Prishtinë|pages=5,6|language=sq}}</ref>
+
+George Chapman e botoi përkthimin e tij të ''Iliadës'', me pjesë duke filluar në 1598, botuar në "fourteeners", një metër vargu të gjatë balade që "ka vend për të gjitha figurat e Homerit të të folurit dhe shumë të reja, si dhe shpjegime në kllapa. Në më të mirën e vet, si në refuzimin e Akilit të ambasadës në ''Iliadën'' Nëntë, ka fuqi të madhe retorike."<ref name=":7">''The Oxford Guide to English Literature in Translation''.</ref>{{Rp|351}} Shpejt u vendos si klasik në poezinë angleze. Në parathënien e përkthimit të tij, Pope lavdëron "shpirtin e guximshëm dhe të zjarrtë" të përkthimit të Chapman-it, i cili është "diçka si ajo që dikush mund ta imagjinojë Homerin, vetë, ta kishte shkruar para se të arrinte moshën e maturisë".<ref>{{cite journal |last1=Gutting |first1=Edward |title=Chapman's Homer – The Iliad |url=https://bmcr.brynmawr.edu/1999/1999.10.14/ |journal=Bryn Mawr Classical Review |access-date=1 February 2025 |date=14 October 1999|language=en}}</ref>
+
+John Keats e lavdëroi Chapman-in në sonetin ''On First Looking into Chapman's Homer'' (1816).<ref>{{cite web |last1=Keats |first1=John |title=On First Looking into Chapman's Homer |url=https://www.poetryfoundation.org/poems/44481/on-first-looking-into-chapmans-homer |publisher=Poetry Foundation |access-date=1 February 2025|language=en}}</ref> Përkthimi i mesit të shekullit XVII i John Ogilby-t është ndër botimet e para të komentuara; përkthimi i 1715-s i Alexander Pope-it, në çift heroik, është "përkthimi klasik që u ndërtua mbi të gjitha versionet paraardhëse"<ref name=":7" />{{Rp|352}} dhe, si ai i Chapman-it, është një vepër poetike madhore më vete. Botimi miltonik, në vargje të lira, i vitit 1791 i William Cowper-it, vlerësohet shumë për besnikërinë e tij më të madhe ndaj greqishtes sesa versionet e Chapman-it apo të Pope-it: "Nuk kam lënë jashtë asgjë; nuk kam shpikur asgjë", thotë Cowper në parathënien e përkthimit të tij.
+
+Në leksionet ''On Translating Homer'' (1861), Matthew Arnold i trajton çështjet e përkthimit dhe interpretimit në sjelljen e ''Iliadës'' në anglisht; duke komentuar versionet e disponueshme bashkëkohësisht në 1861, ai identifikon katër cilësitë thelbësore poetike të Homerit ndaj të cilave përkthyesi duhet t'i bëjë drejtësi:
+
+<blockquote>
+[i] që është jashtëzakonisht i shpejtë; [ii] që është jashtëzakonisht i thjeshtë dhe i drejtpërdrejtë, si në zhvillimin e mendimit të tij ashtu edhe në shprehjen e tij, domethënë, si në sintaksën ashtu edhe në fjalët e tij; [iii] që është jashtëzakonisht i thjeshtë dhe i drejtpërdrejtë në substancën e mendimit të tij, domethënë, në lëndën dhe idetë e tij; dhe, së fundi, [iv] që është jashtëzakonisht fisnik.
+</blockquote>
+
+Pas një diskutimi mbi metrat e përdorur nga përkthyesit e mëparshëm, Arnold argumenton për një përkthim heksametrik në dialekt poetik të ''Iliadës'', ashtu si origjinali. "Sado i mundimshëm ishte ky metër, kishte të paktën gjysmë duzine përpjekje për të përkthyer gjithë ''Iliadën'' ose ''Odisenë'' në heksametra; e fundit në 1945. Ndoshta më i rrjedhshmi prej tyre ishte nga J. Henry Dart [1862] në përgjigje të Arnold-it."<ref name=":7" />{{Rp|354}} Në 1870, poeti amerikan William Cullen Bryant botoi një version në vargje të lira, që Van Wyck Brooks e përshkruan si "të thjeshtë, besnik".
+
+Një përkthim i 1898-s nga Samuel Butler u botua nga Longmans. Butler kishte studiuar Klasikë në Universitetin e Kembrixhit, duke u diplomuar në 1859.<ref>{{cite web |website=St John's College |url=http://www.joh.cam.ac.uk/iliad-1898 |title=The Iliad (1898) |publisher=Cambridge University |access-date=16 June 2016|language=en}}</ref>
+
+Që nga 1950, ka pasur disa përkthime angleze:
+* Versioni i Richmond Lattimore-it (1951) është një përkthim "i lirë me gjashtë theksime", varg-për-varg, në anglishte shpesh joidiomatike, shpesh arkaike. Versioni i Robert Fitzgerald-it (Oxford World's Classics, 1974) përdor vargje më të shkurtra, kryesisht jambike, dhe aludime të shumta ndaj poezisë më të hershme angleze.
+* Robert Fagles (Penguin Classics, 1990) dhe Stanley Lombardo (1997) janë më të guximshëm se Lattimore në shtimin e idiomave më bashkëkohore amerikano-angleze për të përcjellë gjuhën konvencionale dhe formulaike të Homerit. Përkthimi i Rodney Merrill-it (University of Michigan Press, 2007) e jep veprën në vargje angleze si heksametri daktilik i origjinalit.
+* Përkthimi i 2011-s i Stephen Mitchell-it i Iliadës mbështetet te teksti origjinal grek për të paraqitur një version anglisht të modernizuar, që përfshin një hyrje të detajuar.
+* Peter Green e përktheu Iliadën në 2015, version i botuar nga University of California Press.<ref>{{Cite book |last=Homerus |title=The Iliad |date=2016 |publisher=University of California Press |isbn=978-0-520-28141-7 |location=Oakland, California |translator-last=Green |translator-first=Peter|language=en}}</ref>
+* Caroline Alexander botoi përkthimin e parë anglisht të plotë nga një grua në 2015.<ref>{{cite magazine |last=Wolff |first=Karl |url=http://www.nyjournalofbooks.com/book-review/iliad-new |title=The Iliad: A New Translation by Caroline Alexander |magazine=New York Journal of Books|language=en}}</ref>
+* Përkthimi i 2023-s i Emily Wilson-it përdor pentametra jambikë të parimuar.<ref>{{cite magazine |last=Williams |first=Rowan |date=6 September 2023 |title=Homer's history of violence |magazine=New Statesman|language=en}}</ref><ref>{{cite book |author=Homer |title=The Iliad |date=2023 |publisher=W. W. Norton & Company |isbn=978-1-324-00180-5 |translator-first=Emily |translator-last=Wilson|language=en}}</ref>
+
+== Dorëshkrimet ==
+Ka më shumë se 2000 dorëshkrime të Homerit.<ref>{{Cite book |last1=Bird |first1=Graeme D. |title=Multitextuality in the Homeric Iliad – The Witness of the Ptolemaic Papyr |date=2010 |publisher=Center for Hellenic Studies |isbn=978-0-674-05323-6|language=en}}</ref> Disa dorëshkrime të shënuara përfshijnë:
+* Rom. Bibl. Nat. gr. 6 + Matriti. Bibl. Nat. 4626, nga 870 deri 890
+* {{ill|Venetus A|en|Venetus A}} = Venetus Marc, 822, nga shekulli X
+* {{ill|Venetus B|en|Venetus B}} = Venetus Marc, 821, nga shekulli XI
+* {{ill|Dorëshkrimi ambrozian i Iliadës|en|Ambrosian Iliad}}
+* {{ill|Papirusi Oxyrhynchus 20|en|Papyrus Oxyrhynchus 20}}
+* {{ill|Papirusi Oxyrhynchus 21|en|Papyrus Oxyrhynchus 21}}
+* {{ill|Codex Nitriensis|en|Codex Nitriensis}} (palimpsest)
+* Zona El Bahnasa e Minjas – Zbulimi i një papirusi me tekst që përmban vargje nga Libri i Dytë i Iliadës së Homerit.<ref>{{Cite web |last=Radley |first=Dario |date=2026-04-19 |title=Roman cemetery in Egypt reveals golden tongues, mummies, and rare Iliad papyrus |url=https://archaeologymag.com/2026/04/roman-cemetery-in-minya-reveals-golden-tongues/ |access-date=2026-04-20 |website=Archaeology News Online Magazine|language=en}}</ref><ref>{{Cite web |last=Papadopoulos |first=Kosta |date=2026-04-20 |title=Papyrus Of Greek Epic Iliad Discovered Inside Egyptian Mummy Greek City Times |url=https://greekcitytimes.com/2026/04/20/papyrus-of-greek-epic-iliad-discovered-inside-egyptian-mummy/ |access-date=2026-04-20 |website=Greek City Times|language=en}}</ref>
+
+== Shiko gjithashtu ==
+* {{ill|Maska e Agamemnonit|en|Mask of Agamemnon}}
+* {{ill|Paralele mes ''Eneidës'' së Virgjilit dhe ''Iliadës''/''Odisesë'' së Homerit|en|Parallels between Virgil's Aeneid and Homer's Iliad and Odyssey}}
+* [[Heinrich Schliemann]]
+* {{ill|Përkthimet angleze të Homerit|en|English translations of Homer}}
+* {{ill|Ritregimet e mitologjisë greke|en|Greek mythology retellings}}
+
+== Shënime ==
+{{Notelist}}
+
+== Referimet ==
+{{Reflist}}
+
+=== Burimet ===
+{{Div col|colwidth=45em}}
+* {{cite thesis |last=Alexopoulou |first=Marigo |date=2003 |title=The homecoming pattern in Greek tragedy |type=PhD |publisher=University of Glasgow|language=en}}
+* {{cite book |title=Herodotus – The Histories |editor1-last=Burn |editor1-first=A. R. |editor2-last=de Sélincourt |editor2-first=Aubrey |publisher=Penguin Books |date=1975 |orig-date=1954 |isbn=0-14-051260-8 |ref={{harvid|Herodotus (de Sélincourt)|1975}}|language=en}}
+* {{cite book |last=Davison |first=John A. |title=A Companion to Homer |chapter=The Transmission of the Text |editor-last1=Wace |editor-first1=Alan J. |editor-last2=Stubbings |editor-first2=Frank H. |pages=215–233 |publisher=Macmillan |place=London / New York |date=1962|language=en}}
+* {{cite book |last=Erbse |first=Hartmut |title=Scholia Graeca in Homeri Iliadem (Scholia vetera) |language=la |volume=1 |publisher=Walter de Gruyter |place=Berlin |date=1969 |isbn=978-3-11-002558-3 |doi=10.1515/9783110844788}}
+* {{cite journal |last=Erp Taalman Kip |first=A. Maria van |date=August 2000 |title=The Gods of the "Iliad" and the Fate of Troy |journal=Mnemosyne |volume=53 |number=4 |pages=385–402 |doi=10.1163/156852500510679 |jstor=4433117|language=en}}
+* {{cite book |editor1-last=Fantuzzi |editor1-first=Marco |editor2-last=Tsagalis |editor2-first=Christos |date=2015 |title=The Greek Epic Cycle and its Ancient Reception: A Companion |publisher=Cambridge University Press |isbn=978-110701259-2|language=en}}
+* {{cite book |editor-last=Fowler |editor-first=Robert |year=2006 |title=The Cambridge Companion to Homer |publisher=Cambridge University Press |isbn=978-0511998935 |ref={{SfnRef|R. Fowler|2006}} }}
+* {{cite journal |last=Frobish |first=T. S. |date=2003 |title=An Origin of a Theory – A Comparison of Ethos in the Homeric Iliad with That Found in Aristotle's Rhetoric |journal=Rhetoric |volume=22 |number=1 |pages=16–30 |doi=10.1207/S15327981RR2201_2|language=en}}
+* {{cite book |editor1-last=Hammond |editor1-first=M. |date=1987 |title=Homer, ''The Iliad'' |publisher=Penguin Books|language=en}}
+* {{cite book |last=Hornblower |first=Simon |date=2018 |chapter=Introduction |title=The Returning Hero: nostoi and Traditions of Mediterranean Settlement |editor2-last=Biffis |editor2-first=Giulia |publisher=Oxford University Press |isbn=978-0198811428 |pages=22–76|language=en}}
+* {{cite book |translator-last=Lattimore |translator-first=Richmond |title=The Iliad by Homer |date=1951 |place=Chicago |publisher=University of Chicago Press |ref={{harvid|Lattimore|1951}} |language=en}}
+* {{Cite book |last=Lendon |first=J. E. |date=2005 |title=Soldiers and Ghosts – A History of Battle in Classical Antiquity |location=New Haven, CT |publisher=Yale University Press|language=en}}
+* {{cite journal |last=Liu |first=Delin |date=2024 |title=Research on Fate, Gods, and Mortals in the Iliad |journal=Journal of Humanities, Arts and Social Science |volume=8 |number=3 |pages=560–567 |doi=10.26855/jhass.2024.03.002|language=en}}
+* {{cite journal |last1=Moore |first1=C. H. |date=1921 |title=Prophecy in the Ancient Epic |journal=Harvard Studies in Classical Philology |volume=32 |pages=99–175 |doi=10.2307/310716 |jstor=310716|language=en}}
+* {{cite journal |last=Morrison |first=J. V. |date=Spring 1997 |title="Kerostasia", the Dictates of Fate, and the Will of Zeus in the "Iliad" |journal=Arethusa |volume=30 |number=2 |pages=273–296 |doi=10.1353/are.1997.0008 |jstor=44578099|language=en}}
+* {{cite book |author=Homer |orig-date=1924 |date=1999 |title=Iliad |volume=I, Books 1–12 |translator-first=Augustus Taber |translator-last=Murray |editor-last=Wyatt |editor-first=William F. |series=Loeb Classical Library 170 |location=Cambridge, Massachusetts |publisher=Harvard University Press |isbn=978-0-674-99579-6 |ref={{harvid|Murray|Wyatt|1924}} |language=en}}
+* {{cite book |author=Homer |orig-date=1925 |date=1999 |title=Iliad |volume=II, Books 13–24 |translator-first=Augustus Taber |translator-last=Murray |editor-last=Wyatt |editor-first=William F. |series=Loeb Classical Library 170 |location=Cambridge, Massachusetts |publisher=Harvard University Press |isbn=978-0-674-99580-2 |ref={{harvid|Murray|Wyatt|1925}} |language=en}}
+* {{cite book |last=Kim |first=Lawrence |chapter=Homer in Antiquity |pages=415–434 |editor-last=Pache |editor-first=Corinne Ondine |title=The Cambridge Guide to Homer |publisher=Cambridge University Press |date=February 2020 |isbn=9781139225649 |doi=10.1017/9781139225649 |ref={{sfnref|Kim|2020}}|language=en}}
+* {{cite book |last=Lamberton |first=Robert |chapter=Part III – Homer in the World: Introduction |pages=411–414 |editor-last=Pache |editor-first=Corinne Ondine |title=The Cambridge Guide to Homer |publisher=Cambridge University Press |date=February 2020 |isbn=9781139225649 |doi=10.1017/9781139225649 |ref={{sfnref|Lamberton|2020}}|language=en}}
+* {{cite book |last=Tsagalis |first=Christos C. |editor1-last=Ready |editor1-first=Jonathan L. |editor2-last=Tsagalis |editor2-first=Christos C. |date=2018 |title=Homer in Performance: Rhapsodes, Narrators, and Characters |chapter=Performance Contexts for Rhapsodic Recitals in the Archaic and Classical Periods |pages=27–75 |publisher=University of Texas Press |place=Austin |isbn=978-1-4773-1603-0 |doi=10.1515/9783110981384-018|language=en}}
+* {{cite book |last=West |first=Martin L. |title=Studies in the Text and Transmission of the Iliad |publisher=K. G. Saur |place=Munich / Leipzig |date=2001 |isbn=978-3-598-73005-4 |doi=10.1515/9783110963120|language=en}}
+{{Div col end}}
+
+== Lexime shtesë ==
+{{Div col|colwidth=45em}}
+* De Jong, Irene (2012), ''Iliad – Book XXII'', Cambridge University Press, {{ISBN|978-0-521-70977-4}}
+* {{cite web |url=https://www.britishmuseum.org/blog/who-was-homer |access-date=2 February 2025 |title=Who was Homer? |last=Dunn |first=Daisy |date=2020 |publisher=British Museum|language=en}}
+* Edwards, Mark W.; Geoffrey Kirk, ''The Iliad – A Commentary: Volume V, Books 17–20'', Cambridge University Press, 1991, {{ISBN|0-521-30959-X}}
+* Edwards, Mark W.; Richard Janko; Geoffrey Kirk, ''The Iliad – A Commentary: Volume IV, Books 13–16'', Cambridge University Press, 1992, {{ISBN|0-521-28171-7}}
+* Fox, Robin Lane, ''Travelling Heroes – Greeks and their myths in the epic age of Homer'', Allen Lane, 2008, {{ISBN|978-0-7139-9980-8}}
+* Barbara Graziosi, Haubold, Johannes; ''Iliad – Book VI'', Cambridge University Press, 2010, {{ISBN|978-0-521-87884-5}}
+* Kouroupis, Georgios; Tsiplakos, Ioannis, ''The Iliad – honour and glory in Wilios'', Akritas, 2022, {{ISBN|978-618-84202-9-8}}
+* Geoffrey Kirk, ''The Iliad – A Commentary: Volume I, Books 1–4'', Cambridge University Press, 1985, {{ISBN|0-521-23709-2}}
+* Geoffrey Kirk, ''The Iliad – A Commentary: Volume II, Books 5–8'', Cambridge University Press, 1990, {{ISBN|0-521-23710-6}}
+* Hainsworth, Bryan; Geoffrey Kirk, ''The Iliad – A Commentary: Volume III, Books 9–12'', Cambridge University Press, 1993, {{ISBN|0-521-23711-4}}
+* Mueller, Martin, ''The Iliad'', Allen & Unwin, 1984, {{ISBN|0-04-800027-2}}
+* Nagy, Gregory, ''The Best of the Achaeans'', Johns Hopkins University Press, 1979, {{ISBN|0-8018-2388-9}}
+* Page, Denys Lionel, ''History and the Homeric Iliad'', University of California Press, 1959
+* Powell, Barry B., ''Homer'', Blackwell's, 2004, {{ISBN|978-1-4051-5325-6}}
+* Nicholas Richardson, Geoffrey Kirk, ''The Iliad – A Commentary: Volume VI, Books 21–24'', Cambridge University Press, 1993, {{ISBN|0-521-30960-3}}
+* Seaford, Richard, ''Reciprocity and Ritual'', Oxford University Press, 1994, {{ISBN|0-19-815036-9}}
+* Judith Thurman, "Mother Tongue: How Emily Wilson makes Homer modern", ''The New Yorker'', 18 shtator 2023, f. 46–53. Artikull i gjatë mbi përkthimet e Emily Wilson-it të Homerit.
+* West, Martin, ''The East Face of Helicon'', Oxford University Press, 1997, {{ISBN|0-19-815221-3}}
+{{Div col end}}
+
+== Lidhje të jashtme ==
+* {{Commons category|Iliad}}
+* {{wikisource|The Iliad|''The Iliad''}}
+* {{wikisource|el|Ιλιάς|Ἰλιάς}}
+* [https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant ''The Iliad''], përkthyer nga William Cullen Bryant
+* Përkthime të shumta të Iliadës në [[Project Gutenberg]]:
+** [http://www.gutenberg.org/ebooks/51355 ''The Iliad of Homer''], nga George Chapman
+** [http://www.gutenberg.org/ebooks/6130 ''The Iliad of Homer''], nga Alexander Pope
+** [http://www.gutenberg.org/ebooks/16452 ''The Iliad of Homer''], nga William Cowper
+** [http://www.gutenberg.org/ebooks/22382 ''The Iliad of Homer''], nga Theodore Alois Buckley
+** [http://www.gutenberg.org/ebooks/6150 ''The Iliad of Homer''], nga Edward, Earl of Derby
+** [http://www.gutenberg.org/ebooks/3059 ''The Iliad of Homer''], nga Andrew Lang, Walter Leaf, dhe Ernest Meyers
+** [http://www.gutenberg.org/ebooks/2199 ''The Iliad of Homer''], nga Samuel Butler
+* [http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-eng2:1.1-1.39 ''Iliada''], Perseus Digital Library, me përkthimet Murray dhe Butler dhe hiperlidhje ndaj komenteve mitologjike dhe gramatikore
+* [https://bitbucket.org/ben-crowell/ransom/src/master/README.md ''Iliada'']: teksti grek i paraqitur me përkthimin e Buckley-t dhe fjalor, shënime, dhe analiza të formave gramatikore të vështira
+* [http://moebio.com/iliad/ ''Gods, Achaeans and Troyans'']. Vizualizim ndërveprues i rrjedhës dhe marrëdhënieve të personazheve të ''Iliadës''
+* [https://web.archive.org/web/20210520042345/http://www.iliadtranslation.com/The-Iliad-About.html Komente mbi sfondin, intrigën, temat, autorësinë, dhe çështjet e përkthimit] nga përkthyesi i 2008-s Herbert Jordan
+* [http://www.mccunecollection.org/Iliad%20of%20Homer.html Ilustrimet e Flaxman-it për ''Iliadën'']
+* {{Webarchive|url=https://web.archive.org/web/20140815083712/http://www.shmoop.com/iliad/ |date=15 August 2014 |title=Udhëzues studimi, tema, citate, burime mësuesish për ''Iliadën''}}
+* [http://daten.digitale-sammlungen.de/0005/bsb00050607/images/index.html?fip=193.174.98.30&id=00050607&seite=1 Faksimile dixhitale e botimit të parë të shtypur ({{lang|la|editio princeps}}) të ''Iliadës'' në greqishten homerike nga Demetrios Chalkokondyles, Bayerische Staatsbibliothek]
+
+[[Kategoria:Iliada| ]]
+[[Kategoria:Vepra të Greqisë së lashtë]]
+[[Kategoria:Feja e Greqisë së lashtë]]
+[[Kategoria:Letërsia e Luftës së Trojës]]
+[[Kategoria:Poezi lufte]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Iliad|22 gusht 2026|1370624469}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Iliad, versioni i datës 22 gusht 2026 (revizioni 1370624469)
+-->

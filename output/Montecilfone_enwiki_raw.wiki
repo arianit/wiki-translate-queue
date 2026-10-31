@@ -1,0 +1,51 @@
+{| class="infobox" style="width:22em;"
+|+ Montecilfone
+|-
+! Emri zyrtar
+| Comune di Montecilfone
+|-
+! Emri arbërisht
+| Munxhufuni
+|-
+! Koordinatat
+| {{Coord|41|54|N|14|50|E|type:city(1,552)_region:IT|display=inline,title}}
+|-
+! Rajoni
+| [[Molize]]
+|-
+! Provinca
+| [[Provinca e Kampobasos|Kampobaso]] (CB)
+|-
+! Kryetari i komunës
+| Franco Pallotta
+|-
+! Sipërfaqja
+| 22,92 km²
+|-
+! Popullsia (30 nëntor 2017)
+| 1.366<ref name="istat">Të gjitha të dhënat demografike dhe statistikat e tjera: instituti italian i statistikave, Istat (italisht).</ref>
+|-
+! Emërtimi i banorëve
+| Montecilfonesi
+|-
+! Lartësia mbidetare
+| 405 m
+|-
+! Kodi postar
+| 86032
+|-
+! Prefiksi telefonik
+| 0875
+|-
+! Faqja zyrtare
+| {{Official website|http://www.comune.montecilfone.cb.it/}}
+|}
+'''Montecilfone''' ([[Gjuha arbëreshe (Itali)|arbërisht]]: '''''Munxhufuni''''') është një [[Komuna (Itali)|komunë]] [[Arbëreshët në Itali|arbëreshe]] e [[Provinca e Kampobasos|provincës së Kampobasos]], në rajonin e [[Molize|Molizes]], në [[Italia|Itali]], rreth {{Convert|40|km|mi}} në verilindje të [[Kampobaso|Kampobasos]]. Kufizohet me Guglionesi, Montenero di Bisaccia dhe Palata.
+
+== Referime ==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Kategoria:Vendbanime arbëreshe]]
+[[Kategoria:Qytete në Molize]]

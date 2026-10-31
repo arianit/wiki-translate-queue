@@ -1,0 +1,473 @@
+'''Taksa''' është një detyrim financiar i detyrueshëm, ose një ngarkesë, e vendosur ndaj një individi ose personit juridik nga një organizatë qeveritare, për të mbështetur [[Shpenzimi qeveritar|shpenzimin qeveritar]] dhe shpenzimet publike në mënyrë kolektive, ose rregullimin e aktivitetit ekonomik nëpërmjet masave të krijuara për të zbutur [[Eksternaliteti|eksternalitetet negative]].<ref>{{Cite encyclopedia |url=http://www.britannica.com/EBchecked/topic/584578/taxation |title=Taxation |encyclopedia=[[Encyclopædia Britannica]] |author=Charles E. McLure Jr. |access-date=2015-03-03 |language=en}}</ref> '''Përmbushja tatimore''' i referohet veprimeve të politikave dhe të sjelljes individuale, që kanë për qëllim të sigurojnë se taksapaguesit paguajnë shumën e duhur të taksës në kohën e duhur, si dhe të përfitojnë lehtësirat dhe zbritjet tatimore të duhura.<ref>HMRC, [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/923916/CC-FS1a-10-20.pdf Rreth kontrolleve të përputhshmërisë], CC/FS1a, hyrë më 31 janar 2022</ref>
+
+Në terma ekonomikë (qarkullimi rrethor i të ardhurave), taksimi transferon pasurinë nga familjet ose bizneset drejt qeverisë. Kjo prek [[Rritja ekonomike|rritjen ekonomike]] dhe mirëqenien, të cilat mund të rriten (e njohur si [[Shumëzuesi Keynesian]]) ose të ulen (e njohur si barra e tepërt e taksimit).
+
+Disa vende (zakonisht të vogla për sa i përket madhësisë ose popullsisë, që rezulton në infrastrukture dhe shpenzime sociale më të vogla) funksionojnë si [[Parajsa tatimore|parajsa tatimore]], duke vendosur taksa minimale mbi të ardhurat personale të individëve dhe të ardhurat e korporatave. Këto [[Parajsa tatimore|parajsa tatimore]] tërheqin kapital nga jashtë (veçanërisht nga ekonomitë më të mëdha), duke shkaktuar njëkohësisht humbje të ardhurave tatimore në vendet e tjera që nuk janë parajsa tatimore (nëpërmjet erozionit të bazës tatimore dhe zhvendosjes së fitimeve).
+
+== Historia ==
+[[File:Wells egyptian peasants taxes.jpg|thumb|Fshatarë egjiptianë të kapur për mospagim tatimesh. (Epoka e Piramidave)]]
+Sistemi i parë i njohur i taksimit ishte në [[Egjipti i Lashtë|Egjiptin e Lashtë]], rreth vitit 3000–2800 p.e.s., në {{ill|Dinastia e Parë e Egjiptit|en|First Dynasty of Egypt|lt=Dinastinë e Parë}} të {{ill|Mbretëria e Vjetër e Egjiptit|en|Old Kingdom of Egypt|lt=Mbretërisë së Vjetër të Egjiptit}}.<ref name=":1">[http://www.upenn.edu/almanac/v48/n28/AncientTaxes.html Taxes in the Ancient World], University of Pennsylvania Almanac, ''Vol. 48, No. 28, 2 April 2002''</ref> Format më të hershme dhe më të përhapura të taksimit ishin {{ill|Korveja|en|Corvée}} dhe {{ill|E dhjeta|en|Tithe|lt=e dhjeta}}: {{ill|Korveja|en|Corvée}} ishte punë e detyruar që i ofrohej shtetit nga fshatarët tepër të varfër për të paguar forma të tjera taksimi (fjala ''punë'' në egjiptishten e lashtë ishte sinonim për taksat).<ref name="burg">{{Cite book |title=A World History of Tax Rebellions |author=David F. Burg |year=2004 |pages=vi–viii |url=https://books.google.com/books?id=T91k6HAODzAC&pg=PP1 |publisher=Taylor & Francis |isbn=9780415924986 |language=en}}</ref> Regjistrimet e kohës dëshmojnë se Faraoni bënte një turne dyvjetor nëpër mbretëri, duke mbledhur dhjetat nga populli.<ref>Olmert, Michael (1996). ''Milton's Teeth and Ovid's Umbrella: Curiouser & Curiouser Adventures in History'', p. 41. Simon & Schuster, New York. {{ISBN|0-684-80164-7}}.</ref> {{ill|Guri i Rozetës|en|Rosetta Stone}}, deshifrimi i të cilit çoi në kuptimin bashkëkohor të hieroglifeve, ishte vetë një dekret i lëshuar nga Ptolemeu V, që përmbante lehtësira tatimore.<ref>{{Cite web |url=https://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode33// |title=History of the World in 100 Objects:Rosetta Stone |author=British Museum |publisher=BBC |language=en}}</ref><ref>{{Cite web |last=Archive |first=Internet Sacred Text |title=The Rosetta Stone: Translation of the Rosetta Stone |url=https://sacred-texts.com/egy/trs/trs07.htm |access-date=2026-07-01 |website=Internet Sacred Text Archive |language=en}}</ref>
+
+Shembuj të hershëm të taksimit shihen gjithashtu në [[Bibla|Biblën]],<ref>Kapitulli 47, vargu 24 – ''New International Version''</ref><ref>{{Cite journal |last=Jose |first=Manuel L. |last2=Moore |first2=Charles K. |date=1998 |title=The Development of Taxation in the Bible: Improvements in Counting, Measurement, and Computation in the Ancient Middle East |url=https://www.jstor.org/stable/40697526 |journal=The Accounting Historians Journal |publisher=The Academy of Accounting Historians |volume=25 |issue=2 |pages=63–80 |issn=0148-4184 |language=en}}</ref> në tekstet vedike të lashta,<ref>{{Cite book |last=Prasad |first=R. U. S. |url=https://books.google.com/books?id=EpTaDwAAQBAJ&q=atharvaveda+palagala&pg=PA108 |title=The Rig-Vedic and Post-Rig-Vedic Polity (1500 BCE-500 BCE) |date=2020-10-06 |publisher=Vernon Press |isbn=978-1-64889-001-7 |language=en}}</ref><ref>{{Citation |last=Shome |first=Parthasarathi |title=Taxation in Ancient India |date=2021 |work=Taxation History, Theory, Law and Administration |pages=15–27 |editor-last=Shome |editor-first=Parthasarathi |url=https://doi.org/10.1007/978-3-030-68214-9_2 |access-date=2026-09-13 |place=Cham |publisher=Springer International Publishing |doi=10.1007/978-3-030-68214-9_2 |isbn=978-3-030-68214-9 |language=en}}</ref> në {{ill|Perandoria Hitite|en|Hittite Empire|lt=Perandorinë Hitite}} të [[Koha e Bronzit|Kohës së Bronzit]], si dhe në [[Perandoria Akamenide|Perandorinë Persiane]].<ref>{{Cite journal |title=Ancient tax collectors amassed a fortune – until it went up in smoke |journal=Nature |date=2020-09-14 |volume=585 |issue=7826 |page=485 |doi=10.1038/d41586-020-02630-9 |bibcode=2020Natur.585Q.485. |s2cid=221720764 |doi-access=free |language=en}}</ref><ref>{{Cite web |url=http://www.1902encyclopedia.com/D/DAR/darius-i-the-great.html |title=Darius I (Darius the Great), King of Persia (from 521 BC) |publisher=1902encyclopedia.com |access-date=2013-01-22 |language=en}}</ref><ref>''The Theocratic Ideology of the Chronicler'' – nga Jonathan E. Dyck – f. 96 – Brill, 1998</ref>
+=== E drejta romake dhe civile ===
+Në [[Republika Romake|Republikën Romake]], taksat mblidheshin nga individët me një normë prej 1% deri në 3% të vlerës së vlerësuar të pronës së tyre totale. Megjithatë, meqenëse ishte jashtëzakonisht e vështirë të lehtësohej mbledhja e taksës, qeveria e shpallte në ankand çdo vit. Mbledhësit fitues të taksave (të quajtur ''publicani'') e paguanin paraprakisht qeverisë të ardhurën nga taksat dhe më pas mbanin taksat e mbledhura nga individët. ''Publicani'' e paguanin të ardhurën nga taksat në monedha, por i mblidhnin taksat duke përdorur mjete të tjera këmbimi, duke e liruar kështu qeverinë nga puna e kryerjes vetë konvertimit valutor. Pagesa e të ardhurës në thelb ishte si një huazim për qeverinë, për të cilin ajo paguante interes. Megjithëse kjo skemë ishte një ndërmarrje fitimprurëse si për qeverinë, ashtu edhe për ''publicanin'', më vonë ajo u zëvendësua nga një sistem tatimor i drejtpërdrejtë nga perandori [[Augusti]]; pas kësaj, çdo provincë ishte e detyruar të paguante 1% taksë mbi pasurinë dhe një normë fikse për çdo person të rritur. Kjo solli regjistrime të rregullta të popullsisë dhe e zhvendosi sistemin tatimor më shumë drejt taksimit të ardhurave të individit sesa të pasurisë.<ref>{{Cite web |title=Roman Taxes – Taxation in the Roman Empire {{!}} UNRV |url=https://www.unrv.com/economy/roman-taxes.php |access-date=2022-04-03 |website=unrv.com |language=en}}</ref>
+
+=== E drejta islame ===
+Sundimtarët islamikë vendosën [[Zekati|Zekatin]] (një taksë mbi myslimanët) dhe [[Xhizja|Xhizjen]] (një taksë koke mbi jomyslimanët e pushtuar).<ref>{{Cite web |title=THE JIZYA POLICY OF AURANGZEB |url=https://oldhistoricity.lbp.world/Administrator/UploadedArticle/703.pdf |access-date=2026-09-13 |website=oldhistoricity.lbp.world |language=en}}</ref><ref>{{Cite web |title=Zakat: Islam’s missed opportunity to limit predatory taxation |url=https://link.springer.com/article/10.1007/s11127-019-00663-x |access-date=2026-09-13 |website=link.springer.com |language=en}}</ref>
+
+=== Historia moderne ===
+Shumë regjistrime të mbledhjes së taksave nga qeveritë në Evropë, që nga të paktë shekulli i shtatëmbëdhjetë, janë ende të disponueshme sot. Por nivelet e taksimit janë të vështira për t'u krahasuar me madhësinë dhe rrjedhën e ekonomisë, pasi numrat e [[Prodhimi i Brendshëm Bruto|prodhimit]] nuk janë po aq lehtësisht të disponueshëm.<ref>Hoffman, Phillipe dhe Kathryn Norberg (1994), ''Fiscal Crises, Liberty, and Representative Government, 1450–1789'', f. 238.</ref> Taksimi si përqindje e prodhimit të mallrave finale mund të ketë arritur 15–20% gjatë shekullit XVII në vende si Franca, Holanda dhe Skandinavia.
+
+Gjatë viteve të mbushura me luftëra të shekullit të tetëmbëdhjetë dhe fillimit të shekullit të nëntëmbëdhjetë, normat e taksave në Evropë u rritën dramatikisht, ndërsa lufta u bë më e shtrenjtë dhe qeveritë u bënë më të centralizuara dhe më të afta në mbledhjen e taksave. Kjo rritje ishte më e madhe në Angli.<ref>Peter Mathias dhe Patrick O'Brien zbuluan se barra tatimore u rrit me 85% gjatë kësaj periudhe. Një studim tjetër e konfirmoi këtë shifër, duke gjetur se të ardhurat tatimore për frymë ishin rritur pothuajse gjashtëfish gjatë shekullit të tetëmbëdhjetë, por se rritja e qëndrueshme ekonomike e kishte bërë që barra reale mbi çdo individ të dyfishohej vetëm gjatë kësaj periudhe, përpara revolucionit industrial.</ref> Norma efektive tatimore ishte më e lartë në Britani sesa në Francë në vitet para [[Revolucioni Francez|Revolucionit Francez]], por ato ishin vendosur kryesisht mbi tregtinë ndërkombëtare. Në Francë, taksat ishin më të ulëta, por barra binte kryesisht mbi pronarët e tokave, individët dhe tregtinë e brendshme, duke krijuar kështu shumë më tepër pakënaqësi.<ref>Hoffman, Phillipe dhe Kathryn Norberg (1994), ''Fiscal Crises, Liberty, and Representative Government, 1450–1789'', f. 300.</ref>
+
+=== Format e vjetra ===
+Format e vjetra të taksimit përfshijnë:
+* Në ekonomitë monetare para bankingut fiat, një formë kyçe e taksimit ishte senjorazhi, taksa mbi krijimin e parasë.
+* ''Scutage'', i cili paguhej në vend të shërbimit ushtarak; rreptësisht duke folur, është më tepër një kompensim i një detyrimi jo-tatimor sesa një taksë si e tillë, por që funksionon si taksë në praktikë.
+* ''Tallage'', një taksë mbi vartësit feudalë.
+* E dhjeta (''tithe''), një pagesë e ngjashme me taksën (një e dhjetë e të ardhurave ose e prodhimit bujqësor të dikujt), e paguar Kishës (dhe për këtë arsye tepër specifike për t'u konsideruar taksë në kuptimin teknik të rreptë). Kjo nuk duhet ngatërruar me praktikën moderne me të njëjtin emër, e cila zakonisht është vullnetare.
+* Ndihmat (feudale), një lloj takse ose detyrimi që paguhej nga një vasal ndaj zotërisë së tij gjatë kohërave feudale.
+* Danegeld, një taksë mesjetare mbi tokën, e ngritur fillimisht për të shpaguar sulmet e daneve dhe më vonë e përdorur për të financuar shpenzimet ushtarake.
+* ''Carucage'', një taksë që zëvendësoi Danegeld-in në Angli.
+* Qiraja e mbledhjes së taksave (''tax farming''), parimi i caktimit të përgjegjësisë së qytetarëve ose grupeve private për mbledhjen e të ardhurave nga taksat.
+* ''Socage'', një sistem tatimor feudal i bazuar në qiranë e tokës.
+* ''Burgage'', një sistem tatimor feudal i bazuar në qiranë e tokës.
+== Taksonomia dhe klasifikimi ==
+Organizata për Bashkëpunim dhe Zhvillim Ekonomik (OECD) publikon një analizë të sistemeve tatimore të vendeve anëtare. Si pjesë e kësaj analize, OECD ka zhvilluar një përkufizim dhe një sistem klasifikimi për taksat e brendshme.<ref>{{Cite web |date=2025-12-09 |title=The OECD classification of taxes and interpretative guide: Revenue Statistics 2025 |url=https://www.oecd.org/en/publications/revenue-statistics-2025_3a264267-en/full-report/the-oecd-classification-of-taxes-and-interpretative-guide_c852c459.html |access-date=2026-07-01 |website=OECD |language=en}}</ref>
+
+{| class="wikitable"
+|+ Kodet tatimore dhe klasifikimet e Udhëzuesit Interpretues të OECD
+|-
+| '''1000''' || colspan="7" | '''Taksat mbi të ardhurat, fitimet dhe fitimet kapitale të individëve dhe korporatave'''
+|-
+| || 1100 || colspan="6" | Taksat mbi të ardhurat, fitimet dhe fitimet kapitale të individëve
+|-
+| || || 1110 || colspan="5" | Taksat mbi të ardhurat dhe fitimet e individëve
+|-
+| || || 1120 || colspan="5" | Taksat mbi fitimet kapitale të individëve
+|-
+| || 1200 || colspan="6" | Taksat e korporatave mbi të ardhurat, fitimet dhe fitimet kapitale të korporatave
+|-
+| || || 1210 || colspan="5" | Taksat mbi të ardhurat dhe fitimet e korporatave
+|-
+| || || 1220 || colspan="5" | Taksat mbi fitimet kapitale të korporatave
+|-
+| || 1300 || colspan="6" | Të paalokueshme ndërmjet taksave mbi të ardhurat, fitimet dhe fitimet kapitale të individëve dhe korporatave
+|-
+| '''2000''' || colspan="7" | '''Kontributet e sigurimeve shoqërore (SSC)'''
+|-
+| || 2100 || colspan="6" | Kontributet e sigurimeve shoqërore (SSC) nga punonjësit
+|-
+| || || 2110 || colspan="5" | Kontributet e sigurimeve shoqërore (SSC) nga punonjësit, mbi bazën e pagës
+|-
+| || || 2120 || colspan="5" | Kontributet e sigurimeve shoqërore (SSC) nga punonjësit, mbi bazën e tatimit mbi të ardhurat
+|-
+| || 2200 || colspan="6" | Kontributet e sigurimeve shoqërore (SSC) nga punëdhënësit
+|-
+| || || 2210 || colspan="5" | Kontributet e sigurimeve shoqërore (SSC) nga punëdhënësit, mbi bazën e pagës
+|-
+| || || 2220 || colspan="5" | Kontributet e sigurimeve shoqërore (SSC) nga punëdhënësit, mbi bazën e tatimit mbi të ardhurat
+|-
+| || 2300 || colspan="6" | Kontributet e sigurimeve shoqërore (SSC) nga të vetëpunësuarit ose të papunësuarit
+|-
+| || || 2310 || colspan="5" | Kontributet e sigurimeve shoqërore (SSC) nga të vetëpunësuarit ose të papunësuarit, mbi bazën e pagës
+|-
+| || || 2320 || colspan="5" | Kontributet e sigurimeve shoqërore (SSC) nga të vetëpunësuarit ose të papunësuarit, mbi bazën e tatimit mbi të ardhurat
+|-
+| || 2400 || colspan="6" | Kontributet e sigurimeve shoqërore (SSC) të paalokueshme ndërmjet punonjësve, punëdhënësve dhe të vetëpunësuarve ose të papunësuarve
+|-
+| || || 2410 || colspan="5" | Kontributet e sigurimeve shoqërore (SSC) të paalokueshme ndërmjet punonjësve, punëdhënësve dhe të vetëpunësuarve ose të papunësuarve, mbi bazën e pagës
+|-
+| || || 2420 || colspan="5" | Kontributet e sigurimeve shoqërore (SSC) të paalokueshme ndërmjet punonjësve, punëdhënësve dhe të vetëpunësuarve ose të papunësuarve, mbi bazën e tatimit mbi të ardhurat
+|-
+| '''3000''' || colspan="7" | '''Taksat mbi pagat dhe fuqinë punëtore'''
+|-
+| '''4000''' || colspan="7" | '''Taksat mbi pronën'''
+|-
+| || 4100 || colspan="6" | Taksat periodike mbi pronën e paluajtshme
+|-
+| || || 4110 || colspan="5" | Taksat periodike mbi pronën e paluajtshme të familjeve
+|-
+| || || 4120 || colspan="5" | Taksat periodike mbi pronën e paluajtshme të paguara nga subjekte të tjera përveç familjeve
+|-
+| || 4200 || colspan="6" | Taksat periodike mbi pasurinë neto
+|-
+| || || 4210 || colspan="5" | Taksat periodike mbi pasurinë neto të individëve
+|-
+| || || 4220 || colspan="5" | Taksat periodike mbi pasurinë neto të korporatave
+|-
+| || 4300 || colspan="6" | Taksat mbi pasurinë, trashëgiminë dhe dhuratat
+|-
+| || || 4310 || colspan="5" | Taksat mbi pasurinë dhe trashëgiminë
+|-
+| || || 4320 || colspan="5" | Taksat mbi dhuratat
+|-
+| || 4400 || colspan="6" | Taksat mbi transaksionet financiare dhe kapitale
+|-
+| || 4500 || colspan="6" | Taksa të tjera jo-periodike mbi pronën
+|-
+| || || 4510 || colspan="5" | Taksa të tjera jo-periodike mbi pronën, mbi pasurinë neto
+|-
+| || || 4520 || colspan="5" | Taksa të tjera jo-periodike mbi pronën, përveç mbi pasurinë neto
+|-
+| || 4600 || colspan="6" | Taksa të tjera periodike mbi pronën
+|-
+| '''5000''' || colspan="7" | '''Taksat mbi mallrat dhe shërbimet'''
+|-
+| || 5100 || colspan="6" | Taksat mbi prodhimin, shitjen, transferimin, dhënien me qira dhe dorëzimin e mallrave dhe kryerjen e shërbimeve
+|-
+| || || 5110 || colspan="5" | Taksat e përgjithshme mbi mallrat dhe shërbimet
+|-
+| || || || 5111 || colspan="4" | Taksat mbi vlerën e shtuar (TVSH)
+|-
+| || || || 5112 || colspan="4" | Taksat mbi shitjet
+|-
+| || || || 5113 || colspan="4" | Taksat mbi qarkullimin dhe taksa të tjera të përgjithshme mbi mallrat dhe shërbimet
+|-
+| || || 5120 || colspan="5" | Taksat mbi mallra dhe shërbime të specifika
+|-
+| || || || 5121 || colspan="4" | Akcizat
+|-
+| || || || 5122 || colspan="4" | Fitimet e monopoleve fiskale
+|-
+| || || || 5123 || colspan="4" | Doganat dhe detyrime të tjera importi
+|-
+| || || || 5124 || colspan="4" | Taksat mbi eksportet
+|-
+| || || || 5125 || colspan="4" | Taksat mbi mallrat e investimit
+|-
+| || || || 5126 || colspan="4" | Taksat mbi shërbime specifike
+|-
+| || || || 5127 || colspan="4" | Taksa të tjera mbi tregtinë dhe transaksionet ndërkombëtare
+|-
+| || || || 5128 || colspan="4" | Taksa të tjera mbi mallra dhe shërbime të specifika
+|-
+| || || 5130 || colspan="5" | Të paalokueshme ndërmjet taksave të përgjithshme dhe taksave mbi mallra dhe shërbime të specifika
+|-
+| || 5200 || colspan="6" | Taksat mbi përdorimin e mallrave, ose mbi lejen për të përdorur mallra apo kryer aktivitete
+|-
+| || || 5210 || colspan="5" | Taksat periodike mbi përdorimin e mallrave, ose mbi lejen për të përdorur mallra apo kryer aktivitete
+|-
+| || || || 5211 || colspan="4" | Taksat periodike mbi automjetet motorike, të paguara nga familjet
+|-
+| || || || 5212 || colspan="4" | Taksat periodike mbi automjetet motorike, të paguara nga të tjerë
+|-
+| || || || 5213 || colspan="4" | Taksat periodike mbi përdorimin e mallrave, ose mbi lejen për të përdorur mallra apo kryer aktivitete, përveç automjeteve motorike
+|-
+| || || 5220 || colspan="5" | Taksat jo-periodike mbi përdorimin e mallrave, ose mbi lejen për të përdorur mallra, apo kryer aktivitete
+|-
+| || 5300 || colspan="6" | Të paalokueshme ndërmjet taksave mbi prodhimin, shitjen, transferimin, dhënien me qira dhe dorëzimin e mallrave dhe kryerjen e shërbimeve, dhe taksave mbi përdorimin e mallrave, ose mbi lejen për të përdorur mallra, apo kryer aktivitete
+|-
+| '''6000''' || colspan="7" | '''Taksa të tjera'''
+|-
+| || 6100 || colspan="6" | Taksa të tjera të paguara vetëm nga bizneset
+|-
+| || 6200 || colspan="6" | Taksa të tjera të paguara nga subjekte të tjera përveç bizneseve, ose të paidentifikueshme
+|}
+===Tatimi mbi të ardhurat===
+
+====Tatimi negativ mbi të ardhurat====
+
+====Fitimet kapitale====
+
+====Korporatat====
+
+===Kontributet e sigurimeve shoqërore===
+Shumë vende ofrojnë sisteme pensionesh ose shëndetësie të financuara nga shteti.<ref>{{Cite web |url= http://www.ssa.gov/policy/docs/progdesc/index.html |title= Social Security Programs Throughout the World on the U.S. Social Security website for links to individual country program descriptions |publisher= Ssa.gov |access-date= 2013-01-22 |language=en}}</ref>
+
+===Paga ose fuqia punëtore===
+
+===Prona===
+====Taksat mbi pronën====
+
+{{Hatnote|Shiko gjithashtu: {{ill|Tatimi mbi vlerën e tokës|en|Land value tax}}}}
+
+Ndryshe nga taksa mbi pasurinë e paluajtshme (tokë dhe ndërtesa), {{ill|Tatimi mbi vlerën e tokës|en|Land value tax|lt=tatimi mbi vlerën e tokës}} (LVT) vendoset vetëm mbi vlerën e paprekur (të papërmirësuar) të tokës (fjala "tokë" në këtë rast mund të nënkuptojë ose terminin ekonomik, pra të gjitha burimet natyrore, ose burimet natyrore që lidhen me zona të caktuara të sipërfaqes së Tokës: "parcela" ose "copa toke"). Përkrahësit e {{ill|Tatimi mbi vlerën e tokës|en|Land value tax|lt=tatimit mbi vlerën e tokës}} argumentojnë se ai është i justifikuar ekonomikisht, pasi nuk do të dekurajojë prodhimin, nuk do të shtrembërojë mekanizmat e tregut apo të krijojë ndryshe {{ill|Humbja e peshës së vdekur|en|Deadweight loss|lt=humbje e peshës së vdekur}}, siç bëjnë taksat e tjera.<ref>{{Cite book |last1= McCluskey |first1= William J. |last2= Franzsen |first2= Riël C. D. |title= Land Value Taxation: An Applied Analysis |page= 4 |publisher= Ashgate Publishing, Ltd. |year= 2005 |url= https://books.google.com/books?id=jkogP2U4k0AC&pg=PA73|isbn= 978-0-7546-1490-6 |language=en}}</ref>
+
+Në një numër juridiksionesh (përfshirë disa shtete amerikane), ekziston një taksë e përgjithshme që vendoset periodikisht mbi banorët që zotërojnë pasuri personale (''personalty'') brenda juridiksionit. Tarifat e regjistrimit të automjeteve dhe varkave janë nëngrupe të këtij lloji takse. Taksa shpesh hartohet me mbulim të gjerë dhe përjashtime të mëdha për gjëra si ushqimin dhe veshjen. Sendet shtëpiake shpesh përjashtohen kur mbahen ose përdoren brenda shtëpisë.<ref name="taxpolicycenter1">{{Cite web |url=http://www.taxpolicycenter.org/taxtopics/budget.cfm |title=TPC Tax Topics &#124; Federal Budget |publisher=Taxpolicycenter.org |access-date=2009-03-27 |archive-date=2009-03-26 |archive-url=https://web.archive.org/web/20090326213830/http://www.taxpolicycenter.org/taxtopics/budget.cfm |url-status=dead |language=en}}</ref> Çdo objekt tjetër, i cili nuk do të ishte i përjashtuar, mund ta humbasë përjashtimin nëse mbahet rregullisht jashtë shtëpisë.<ref name="taxpolicycenter1" /> Kështu, mbledhësit e taksave shpesh monitorojnë artikujt e gazetave për histori rreth njerëzve të pasur që kanë huazuar vepra arti te muzetë për ekspozim publik, sepse veprat e artit atëherë iu nënshtrojen taksës mbi pasurinë personale.<ref name="taxpolicycenter1" /> Nëse një vepër arti duhej dërguar në një shtet tjetër për ndonjë rregullim të vogël, ajo mund t'i ishte nënshtruar taksës mbi pasurinë personale edhe në ''atë'' shtet.<ref name="taxpolicycenter1" />
+
+====Trashëgimia====
+
+
+Tatimi mbi trashëgiminë, i quajtur edhe tatim mbi pasurinë (''estate tax''), është një taksë që zbatohet mbi {{ill|Trashëgimia|en|Inheritance|lt=trashëgiminë}} ose të ardhurat e trashëguara.<ref name="n650">{{Cite journal | last=Batchelder | first=Lily L. | title=Leveling the Playing Field between Inherited Income and Income from Work through an Inheritance Tax | journal=NYU Law and Economics Research Paper No. 20-11 | date=2020-01-28 | ssrn=3526520 | url=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526520 |language=en}}</ref>
+
+====Ekspatrimi====
+
+
+Tatimi i daljes është një taksë mbi individët që heqin dorë nga [[Shtetësia|shtetësia]] e tyre ose nga vendbanimi. Taksa shpesh vendoset në bazë të një disponimi të supozuar të gjithë pasurisë së individit. Një shembull është [[Shtetet e Bashkuara të Amerikës]], sipas ligjit amerikan ''American Jobs Creation Act'' (Akti për Krijimin e Vendeve të Punës në Amerikë), ku çdo individ me një vlerë neto prej 2 milionë dollarësh, ose me një detyrim mesatar vjetor i tatimit mbi të ardhurat prej 127.000 dollarësh, i cili heq dorë nga shtetësia e tij ose e saj dhe largohet nga vendi, supozohet automatikisht se e ka bërë këtë për arsye shmangieje tatimore dhe i nënshtrohet një norme më të lartë tatimore.<ref>{{Cite web |url=https://www.law.cornell.edu/uscode/text/26/877- |title=26 USC 877 |publisher=Law.cornell.edu |access-date=2013-01-22 |language=en}}</ref>
+
+====Remitenca====
+Taksa mbi [[Remitenca|remitencën]] është një akcizë e vendosur mbi transferimet ndërkombëtare të parave, e paguar zakonisht nga dërguesi te marrësi në një vend të huaj. Qeveritë mund ta bëjnë këtë për të rritur të ardhurat buxhetore, për të dekurajuar emigrimin dhe financimin e paligjshëm, ose në disa raste për të ngadalësuar arratisjen e kapitalit duke dekurajuar daljet e tepërta të parave. Një shembull është në SHBA, ku sipas {{ill|Akti "One Big Beautiful Bill"|en|One Big Beautiful Bill Act}}, ekziston një taksë prej 1% mbi remitencën për transferimin e parave jashtë vendit.<ref>{{Cite web |date=2025-07-30 |title=What is the US remittance tax? Complete guide |url=https://wise.com/us/blog/remittance-tax |access-date=2025-10-08 |website=Wise |language=en}}</ref> Përkrahësit e kësaj takse thonë se ajo do të zvogëlojë emigrimin ilegal, do të rrisë të ardhurat buxhetore dhe do të merret me fondet e paligjshme, ndërsa kritikët thonë se ajo do të prekë në mënyrë disproporcionale njerëzit e varfër dhe vendet që mbështeten te [[Remitenca|remitencat]], dhe se mund ose të dekurajojë dërgimin e parave te familjet e tyre, ose t'i detyrojë ata të ulin shpenzimet e brendshme, gjë që do të ndikojë në ekonominë.<ref>{{Cite web |title=Analysis: A 1% remittance tax that hits the poor hardest |url=https://www.aiddata.org/blog/a-remittance-tax-that-hits-the-poor-hardest#:~:text=Remittances,%20the%20money%20migrants%20send,It%20makes%20it%20more%20deceptive. |access-date=2025-10-08 |website=www.aiddata.org |language=en}}</ref>
+
+====Transferimi====
+
+====Pasuria====
+
+
+Një '''tatim mbi pasurinë''' vendoset mbi vlerën totale të aseteve personale, duke përfshirë: depozitat bankare, pasurinë e paluajtshme, asetet në planet e sigurimit dhe të pensioneve, pronësinë e bizneseve të paregjistruara si korporata, [[Letrat me vlerë|letrat me vlerë financiare]], dhe trustet personale.<ref name="EWBR">{{Cite web|first=Edward N. |last=Wolff |title=Time for a Wealth Tax? |url=http://bostonreview.net/BR21.1/wolff.html |magazine=Boston Review (Feb–Mar 1996) |year=1996 |archive-url=https://web.archive.org/web/20080512230734/http://bostonreview.net/BR21.1/wolff.html |archive-date=2008-05-12 |url-status=dead |language=en}} (duke rekomanduar një tatim neto mbi pasurinë për SHBA-në prej 0,05% për 100.000 dollarët e parë të aseteve, deri në 0,3% për asetet mbi 1.000.000 dollarë)</ref>
+=== Mallra dhe shërbime ===
+==== Vlera e shtuar ====
+
+
+Shumë autoritete tatimore kanë futur TVSH-në e automatizuar, e cila ka rritur [[Llogaridhënia|llogarshmërinë]] dhe auditueshmërinë, duke përdorur sisteme kompjuterike, duke mundësuar në këtë mënyrë edhe zyra kundër krimit kibernetik.<ref>{{Cite web |date=2017-03-30 |title=Technology Tools to Tackle Tax Evasion and Tax Fraud |url=https://www.oecd.org/en/publications/technology-tools-to-tackle-tax-evasion-and-tax-fraud_g2g77afa-en.html |access-date=2025-02-21 |website=OECD |language=en}}</ref>
+
+==== Shitjet ====
+
+{{Hatnote|Artikulli kryesor: {{ill|Taksa e internetit|en|Internet tax}}}}
+
+Një numër i vogël shtetesh amerikane mbështeten tërësisht te taksat mbi shitjet ose te {{ill|Taksa e internetit|en|Internet tax|lt=taksa e internetit}} për të ardhurat shtetërore, pasi këto shtete nuk vendosin tatim mbi të ardhurat personale. Këto shtete priren të kenë një nivel i moderuar deri i lartë i turizmit ose i udhëtimeve ndërshtetërore brenda kufijve të tyre, gjë që i lejon shtetit të përfitojë nga taksat e të cilëve shteti përndryshe nuk do t'i taksonte. Në këtë mënyrë, shteti arrin të ulë barrën tatimore mbi qytetarët e vet. Shtetet amerikane që nuk vendosin tatim mbi të ardhurat personale janë Alaska, Tenesi, Florida, Nevada, Dakota e Jugut, Teksasi,<ref>Edhe pse Teksasi nuk ka tatim mbi të ardhurat personale, shteti vendos një taksë franshize — që së shpejti do të zëvendësohet me një taksë mbi marzhin — mbi aktivitetin e biznesit, e cila, ndonëse nuk quhet tatim mbi të ardhurat, në thelb është një lloj i tillë.</ref> dhe shteti i Uashingtonit dhe Uajomingu. Përveç kësaj, Nju Hempshiri dhe Tenesi vendosin tatim mbi të ardhurat shtetërore vetëm për dividentët dhe të ardhurat nga interesi. Nga shtetet e mësipërme, vetëm Alaska dhe Nju Hempshiri nuk vendosin taksë shtetërore mbi shitjet.
+
+==== Akcizat ====
+
+
+Akciza është një {{ill|Tatimi indirekt|en|Indirect tax|lt=tatim indirekt}} i vendosur mbi mallrat gjatë procesit të prodhimit, të fabrikimit ose të shpërndarjes së tyre, dhe zakonisht është proporcionale me sasinë ose vlerën e tyre. Akcizat u prezantuan për herë të parë në Angli në vitin 1643, si pjesë e një skeme të ardhurash dhe taksimi të hartuar nga parlamentari John Pym dhe e miratuar nga Parlamenti i Gjatë. Këto akciza përfshinin ngarkesa mbi birrën, alenë, sidrin, verën e qershisë dhe duhanin, listës së të cilave iu shtuan më vonë letra, sapuni, qirinjtë, malti, hopi dhe ëmbëlsirat. Parimi themelor i akcizave ishte se ato ishin taksa mbi prodhimin, fabrikimin ose shpërndarjen e artikujve që nuk mund të taksoheshin nëpërmjet doganës, dhe të ardhurat e nxjerra nga ky burim quhen të ardhura akcize në kuptimin e vërtetë. Koncepti themelor i termit është ai i një takse mbi artikujt e prodhuar ose të fabrikuar në një vend. Në taksimin e artikujve luksozë si [[Taksa e alkoolit|pijet e distiluara]], birra, duhani dhe puro, është praktikuar vendosja e një takse të caktuar mbi importimin e këtyre artikujve (një [[Tatimi i importit|detyrim doganor]]).<ref name="Quick">{{Cite book |last1=Quick |first1=John |last2=Garran |first2=Robert |title=The Annotated Constitution of the Australian Commonwealth |date=1901-01-01 |publisher=Angus & Robertson |location=Australia |page=837 |url=https://books.google.com/books?id=VR-CAAAAIAAJ |language=en}}</ref>
+=== Të tjera ===
+* Një {{ill|Taksa e kokës|en|Poll tax|lt=taksë koke}}, e quajtur edhe ''taksë për frymë'' (''per capita tax''), ose ''taksë kapitacioni'' (''capitation tax''), është një taksë që vendos një shumë fikse për çdo individ. Ky është një shembull i konceptit të taksës fikse. Një nga taksat më të hershme të përmendura në [[Bibla|Bibël]] — gjysmë shekeli në vit nga çdo hebre i rritur (Eksodi 30:11–16) — ishte një formë e taksës së kokës. Taksat e kokës janë administrativisht të lira, sepse janë të lehta për t'u llogaritur dhe për t'u mbledhur dhe të vështira për t'u mashtruar. Ekonomistët i kanë konsideruar taksat e kokës si ekonomikisht efikase, sepse supozohet se sasia e njerëzve në treg është fikse, dhe taksat e kokës, si rrjedhojë, nuk shkaktojnë shtrembërime ekonomike. Megjithatë, taksat e kokës janë të papopullarizuara, sepse njerëzit më të varfër paguajnë një përqindje më e lartë e të ardhurave të tyre krahasuar me ata më të pasur. Për më tepër, oferta e njerëzve në fakt nuk është fikse me kalimin e kohës: mesatarisht, çiftet zgjedhin të kenë më pak fëmijë nëse vendoset një taksë koke.<ref>{{Cite web |url=http://www.taxpolicycenter.org/TaxFacts/listdocs.cfm?topic2id=60 |title=Tax Facts {{!}} Tax Facts Listing |publisher=Taxpolicycenter.org |access-date=2009-03-27 |archive-date=2009-03-26 |archive-url=https://web.archive.org/web/20090326212430/http://www.taxpolicycenter.org/TaxFacts/listdocs.cfm?topic2id=60 |url-status=dead |language=en}}</ref>
+* Taksa bankare
+* Taksat mbi transaksionet financiare, përfshirë taksat mbi transaksionet valutore
+* Taksa mbi monopolistët<ref>{{Cite journal |last=Wirl |first=Franz |date=2011 |title=Taxing incumbent monopoly to foster entry |url=https://www.sciencedirect.com/science/article/pii/S0140988310002082 |journal=Energy Economics |volume=33 |issue=3 |pages=388–398 |doi=10.1016/j.eneco.2010.12.003 |bibcode=2011EneEc..33..388W |issn=0140-9883 |url-access=subscription |language=en}}</ref>
+
+==== Tarifat ====
+
+
+==== Taksat efektive dhe ekonomike ====
+Qeveritë mund të vendosin [[Tarifa (financë)|tarifa]] për përdoruesit, {{ill|Taksa e kalimit|en|Toll (fee)|lt=taksa të kalimit}}, ose lloje të tjera vlerësimesh në këmbim të mallrave, shërbimeve ose përdorimit të pronës specifike. Këto zakonisht nuk konsiderohen ''taksa'', për sa kohë që vendosen si pagesë për një përfitim të drejtpërdrejtë për individin që e paguan.<ref>{{Cite web |url=http://www.ncsu.edu/project/calscommblogs/economic/archives/2007/05/the_difference.html |title=Taxes versus fees |publisher=Ncsu.edu |date=2007-05-02 |access-date=2013-01-22 |url-status=dead |archive-url=https://web.archive.org/web/20121008032841/http://www.ncsu.edu/project/calscommblogs/economic/archives/2007/05/the_difference.html |archive-date=2012-10-08 |language=en}}</ref>
+
+Disa studiues i quajnë disa efekte ekonomike si taksa, edhe pse ato nuk janë detyrime të vendosura nga qeveritë. Këto përfshijnë:
+* {{ill|Taksa e inflacionit|en|Inflation tax}}: disavantazhi ekonomik i pësuar nga mbajtësit e [[Paraja|parasë]] dhe ekuivalentëve të saj në një nominatë të caktuar [[Valuta|valute]], si pasojë e efekteve të politikës monetare ekspansioniste.<ref>Disa ekonomistë mbajnë qëndrimin se taksa e inflacionit prek klasat e ulëta dhe të mesme më shumë sesa të pasurit, pasi ata mbajnë një pjesë më të madhe të ardhurave të tyre në para të gatshme, kanë shumë më pak gjasa të marrin paratë e sapokrijuara përpara se tregu të jetë përshtatur me çmimet e fryra, dhe më shpesh kanë të ardhura fikse, paga ose pensione. Disa argumentojnë se inflacioni është një taksë regresive mbi konsumin. Shih gjithashtu Andrés Erosa dhe Gustavo Ventura, "[http://www.ssc.uwo.ca/economics/econref/workingpapers/researchreports/wp2000/wp2000_1.pdf On inflation as a regressive consumption tax] {{Webarchive|url=https://web.archive.org/web/20080910064531/http://www.ssc.uwo.ca/economics/econref/workingpapers/researchreports/wp2000/wp2000_1.pdf |date=2008-09-10}}". Disa pretendojnë se ka efekte sistemike të një politike monetare ekspansioniste, të cilat gjithashtu janë padyshim taksuese, duke vendosur një ngarkesë financiare mbi disa si rezultat i kësaj politike. Meqenëse efektet e zgjerimit monetar ose falsifikimit nuk janë kurrë uniforme në të gjithë ekonominë, politika ndikon në transferimet e kapitalit në treg, duke krijuar flluska ekonomike aty ku paratë e reja futen për herë të parë. Flluskat ekonomike rrisin paqëndrueshmërinë e tregut dhe, si rrjedhojë, rrisin rrezikun e investimeve, duke krijuar kushtet e zakonshme për një [[Recesioni|recesion]]. Kjo taksë e veçantë mund të kuptohet si e vendosur mbi brezat e ardhshëm që do të kishin përfituar nga rritja ekonomike, dhe ka një kosto transferimi prej 100% (për sa kohë që njerëzit nuk veprojnë kundër interesave të tyre, nga pasiguria e shtuar nuk përfiton askush). Një shembull i një mbështetësi të fuqishëm të kësaj takse ishte ish-kryetari i {{ill|Rezerva Federale|en|Federal Reserve}}, Beardsley Ruml.</ref>
+* {{ill|Shtypja financiare|en|Financial repression}}: politika qeveritare të tilla si kufizimet mbi normën e interesit të borxhit qeveritar, rregulla financiare si kërkesat e rezervave dhe kontrollet e kapitalit, si dhe pengesat për hyrjen në tregje ku qeveria zotëron ose kontrollon biznese.<ref>
+Shih për shembull Reinhart, Carmen M. dhe Rogoff, Kenneth S., ''This Time is Different''. Princeton dhe Oxford: Princeton University Press, 2008 (f. 143), [https://www.imf.org/external/np/seminars/eng/2011/res2/pdf/crbs.pdf The Liquidation of Government Debt, Reinhart, Carmen M. & Sbrancia, M. Belen, f. 19], {{Cite journal |last1=Giovannini |first1=Alberto |last2=de Melo |first2=Martha |year=1993 |title=Government Revenue from Financial Repression |journal=The American Economic Review |volume=83 |issue=4 |pages=953–963 |language=en}}
+</ref>
+== Ligji ==
+
+=== Ad valorem dhe për njësi ===
+{{Hatnote|Artikulli kryesor: {{ill|Taksa ad valorem|en|Ad valorem tax}}, {{ill|Taksa për njësi|en|Per unit tax}}}}
+
+=== Konsumi ===
+{{Hatnote|Artikulli kryesor: {{ill|Taksa e konsumit|en|Consumption tax}}}}
+
+=== Mjedisi ===
+{{Hatnote|Shiko gjithashtu: {{ill|Ekotaksa|en|Ecotax}}, {{ill|Taksa mbi konsumin e lartë të karburantit|en|Gas Guzzler Tax}}, {{ill|Parimi "ndotësi paguan"|en|Polluter pays principle}}, {{ill|Taksa Pigoviane|en|Pigovian tax}}}}
+
+=== Proporcionale, progresive, regresive dhe me shumë fikse ===
+Një tipar i rëndësishëm i sistemeve tatimore është përqindja e barrës tatimore në raport me të ardhurat ose konsumin. Termat progresive, regresive dhe proporcionale përdoren për të përshkruar mënyrën se si norma rritet nga e ulët në të lartë, nga e lartë në të ulët, ose në mënyrë proporcionale. Këto terma përshkruajnë një efekt shpërndarës, i cili mund të zbatohet për çdo lloj sistemi tatimor (mbi të ardhurat ose konsumin) që i përgjigjet këtij përkufizimi.
+* Një [[Taksa Progresive|taksë progresive]] është një taksë e vendosur në mënyrë që shkalla efektive e tatimit rritet ndërsa rritet shuma mbi të cilën zbatohet norma.
+* E kundërta e taksës progresive është {{ill|Taksa regresive|en|Regressive tax|lt=taksa regresive}}, ku shkalla efektive e tatimit ulet ndërsa rritet shuma mbi të cilën zbatohet norma. Ky efekt prodhohet zakonisht kur testimi i të ardhurave përdoret për të hequr lehtësirat tatimore ose përfitimet shtetërore.
+* Në mes qëndron {{ill|Taksa proporcionale|en|Proportional tax|lt=taksa proporcionale}}, ku shkalla efektive e tatimit mbetet fikse, ndërsa shuma mbi të cilën zbatohet norma rritet.
+* Një taksë me shumë fikse (''lump-sum tax'') është një taksë me vlerë të caktuar, pavarësisht ndryshimeve në rrethanat e subjektit të taksuar. Në realitet, kjo është një taksë regresive, pasi ata me të ardhura më të ulëta duhet të përdorin një përqindje më e lartë e të ardhurave të tyre sesa ata me të ardhura më të larta, dhe për rrjedhojë efekti i taksës zvogëlohet në funksion të ardhurave.
+
+Këto terma mund të përdoren gjithashtu për t'i dhënë kuptim tatimit të konsumit të përzgjedhur, si p.sh. {{ill|Taksa mbi mallrat luksoze|en|Luxury tax|lt=taksa mbi mallrat luksoze}}, ndërsa përjashtimi i nevojave bazë mund të përshkruhet si diçka me efekte progresive, pasi rrit barrën tatimore mbi konsumin e lartë dhe e zvogëlon atë mbi konsumin e ulët.<ref>{{Cite web |url=https://www.irs.gov/app/understandingTaxes/jsp/whys/lp/IWT5L1lp.jsp |title=Internal Revenue Service |publisher=irs.gov |language=en |access-date=2009-03-27 |url-status=dead |archive-url=https://web.archive.org/web/20070816190910/https://www.irs.gov/app/understandingTaxes/jsp/whys/lp/IWT5L1lp.jsp |archive-date=2007-08-16}}</ref><ref>{{Cite web |url=http://concise.britannica.com/ebc/article-9370763/luxury-tax |url-status=dead |title=Luxury tax&nbsp;— Britannica Online Encyclopedia |publisher=Concise.britannica.com |language=en |access-date=2009-03-27 }}</ref><ref>{{Cite journal |jstor=1813222 |title=Clothing Exemptions and Sales Tax Regressivity |first=Jeffrey M. |last=Schaefer |date=1969-01-01 |journal=The American Economic Review |volume=59 |issue=4 |pages=596–99 |language=en}}</ref>
+
+=== Direkte dhe indirekte ===
+{{Hatnote|Artikulli kryesor: {{ill|Taksa direkte|en|Direct tax}}, {{ill|Taksa indirekte|en|Indirect tax}}}}
+
+Taksat ndonjëherë quhen "taksa direkte" ose "taksa indirekte". Kuptimi i këtyre termave mund të ndryshojë në kontekste të ndryshme, gjë që herë-herë mund të shkaktojë konfuzion. Një përkufizim ekonomik, nga Atkinson, thotë se "...taksat direkte mund të përshtaten sipas karakteristikave individuale të tatimpaguesit, ndërsa taksat indirekte vendosen mbi transaksione pavarësisht nga rrethanat e blerësit ose shitësit."<ref>{{Cite journal |last1=Atkinson |first1=A. B. |year=1977 |title=Optimal Taxation and the Direct Versus Indirect Tax Controversy |journal=Can. J. Econ. |volume=590 |page=592 |language=en}}</ref>
+
+== Ekonomia ==
+[[Skeda:GDP per capita PPP vs taxes 2016.svg|thumb|Të ardhurat nga taksat në % të PBB-së, në kuadër të financave publike. Për këto të dhëna, 32% e [[Varianca|variancës]] së PBB-së për frymë – e rregulluar sipas paritetit të fuqisë blerëse (PPP) – shpjegohet nga të ardhurat prej sigurimeve shoqërore dhe të ngjashme.]]
+{{Hatnote|Shiko gjithashtu: {{ill|Elasticiteti i çmimit të ofertës|en|Price elasticity of supply}}, {{ill|Elasticiteti i çmimit të kërkesës|en|Price elasticity of demand}}}}
+
+Në terma ekonomikë, tatimi transferon [[Pasuria|pasurinë]] nga familjet ose bizneset te qeveria e një kombi. Efektet anësore të tatimit (si shtrembërimet ekonomike) dhe teoritë mbi mënyrën më të mirë të tatimit janë një temë e rëndësishme në [[Mikroekonomia|mikroekonomi]]. Teoritë ekonomike të tatimit trajtojnë çështjen se si mund të maksimizohet {{ill|Mirëqenia ekonomike|en|Welfare economics|lt=mirëqenia ekonomike}} përmes tatimit.
+
+=== Incidenca ===
+{{Hatnote|Artikulli kryesor: {{ill|Incidenca tatimore|en|Tax incidence}}}}
+{{Hatnote|Shiko gjithashtu: {{ill|Efekti i taksave dhe subvencioneve mbi çmimin|en|Effect of taxes and subsidies on price}}}}
+
+Ligji përcakton nga kush mblidhet një taksë. Në një numër vendesh, taksat vendosen mbi bizneset (si p.sh. {{ill|Taksa e korporatave|en|Corporate tax|lt=taksat e korporatave}} ose pjesë të {{ill|Taksa mbi pagat|en|Payroll tax|lt=taksave mbi pagat}}). Megjithatë, se kush në fund të fundit e paguan taksën (\"barra\" tatimore) përcaktohet nga tregu, ndërsa taksat {{ill|Efekti i taksave dhe subvencioneve mbi çmimin|en|Effect of taxes and subsidies on price|lt=përfshihen}} në kostot e prodhimit. Teoria ekonomike sugjeron se efekti ekonomik i një takse nuk bie domosdoshmërisht në pikën ku ajo vendoset ligjërisht. Për shembull, një taksë mbi punësimin e paguar nga punëdhënësit do të ndikojë te punonjësi, të paktën në afat të gjatë. Pjesa më e madhe e barrës tatimore priret të bjerë mbi faktorin më joelastik të përfshirë – pjesën e transaksionit që preket më pak nga një ndryshim çmimi. Kështu, për shembull, një taksë mbi pagat në një qytet do të prekë (të paktën në afat të gjatë) pronarët e pasurive në atë zonë.
+
+Në varësi të mënyrës se si sasitë e ofruara dhe të kërkuara ndryshojnë me çmimin ("elasticitetet" e ofertës dhe kërkesës), një taksë mund të përthithet nga shitësi (në formën e çmimeve më të ulëta para tatimit), ose nga blerësi (në formën e çmimeve më të larta pas tatimit). Nëse elasticiteti i ofertës është i ulët, më shumë nga taksa do të paguhet nga furnizuesi. Nëse elasticiteti i kërkesës është i ulët, më shumë do të paguhet nga blerësi; dhe e kundërta ndodh kur këto elasticitete janë të larta. Nëse shitësi është një firmë konkurruese, barra tatimore shpërndahet mbi [[Faktorët e prodhimit|faktorët e prodhimit]], në varësi të elasticiteteve të tyre; kjo përfshin punëtorët (në formën e pagave më të ulëta), investitorët e kapitalit (në formën e humbjeve për aksionarët), pronarët e tokave (në formën e qirave më të ulëta), sipërmarrësit (në formën e pagave më të ulëta të mbikëqyrjes) dhe blerësit (në formën e çmimeve më të larta).<ref>Parkin, Michael (2006), ''Principles of Microeconomics'', f. 134.</ref>
+
+=== Rritja e mirëqenies ekonomike ===
+
+==== Shpenzimet qeveritare ====
+==== Taksat Pigoviane ====
+Ekzistenca e një takse mund ta ''rritë'' efikasitetin ekonomik në disa raste. Nëse me një mall shoqërohet një eksternalitet negativ (që do të thotë se ai ka efekte negative që nuk ndihen nga konsumatori), atëherë një [[Tregu i lirë|treg i lirë]] do të tregtojë sasi të tepërta të atij malli. Duke taksuar mallin, qeveria mund të rrisë të ardhurat për të adresuar probleme specifike, duke rritur njëkohësisht mirëqenien e përgjithshme.
+
+Qëllimi është të taksuohen njerëzit kur ata krijojnë kosto shoqërore përveç kostove të tyre personale. Duke taksuar mallrat me eksternalitete negative, qeveria përpiqet të rrisë efikasitetin ekonomik ndërkohë që rrit të ardhurat.
+
+Ky lloj takse quhet {{ill|Taksa Pigoviane|en|Pigovian tax|lt=taksë Pigoviane}}, e emërtuar sipas ekonomistit {{ill|Arthur Pigou|en|Arthur Cecil Pigou}}, i cili shkroi në librin e tij të vitit 1920 ''The Economics of Welfare'' (''Ekonomia e Mirëqenies'').<ref>{{Cite news|last=Frank|first=Robert H.|date=2013-01-05|title=Heads, You Win. Tails, You Win, Too.|work=The New York Times|url=https://www.nytimes.com/2013/01/06/business/pigovian-taxes-may-offer-economic-hope.html |url-access=registration |language=en |access-date=2021-09-10|issn=0362-4331}}</ref>
+
+Taksat Pigoviane mund të synojnë prodhimin e padëshiruar të [[Gazi serrë|gazrave serrë]] që shkaktojnë [[Ndryshimet klimatike|ndryshimet klimatike]] (përkatësisht një {{ill|Taksa e karbonit|en|Carbon tax|lt=taksë karboni}}), karburantet ndotëse (si benzina), ndotjen e ujit ose ajrit (përkatësisht një {{ill|Ekotaksa|en|Ecotax|lt=ekotaksë}}), mallrat që shkaktojnë kosto në kujdesin shëndetësor publik (si alkooli apo [[Duhani|duhani]]), dhe kërkesën e tepërt për disa mallra publike (si tarifimi i mbingarkesës në trafik). Ideja është që taksat t'u drejtohen njerëzve që shkaktojnë një sasi mbi mesataren të dëmit shoqëror, në mënyrë që [[Tregu i lirë|tregu i lirë]] të përfshijë të gjitha [[Kosto|kostot]], e jo vetëm ato personale, me përfitimin e uljes së barrës së përgjithshme tatimore për njerëzit që shkaktojnë më pak dëm shoqëror.
+====Ulja e pabarazisë====
+Taksimi progresiv në përgjithësi zvogëlon [[Pabarazia ekonomike|pabarazinë ekonomike]] përmes rishpërndarjes së të ardhurave dhe pasurisë.<ref>{{Cite web|title=How do taxes affect income inequality?|url=https://www.taxpolicycenter.org/briefing-book/how-do-taxes-affect-income-inequality|date=May 2020|access-date=2021-09-22|website=Tax Policy Center|language=en}}</ref><ref>{{Cite book|url=https://www.oecd-ilibrary.org/economics/economic-policy-reforms-2012_growth-2012-en|title=Economic Policy Reforms 2012: Going for Growth|date=2012-02-24|publisher=OECD|isbn=978-92-64-16825-1|doi=10.1787/growth-2012-en|url-status=live|archive-url=https://web.archive.org/web/20231018164559/https://www.oecd-ilibrary.org/economics/economic-policy-reforms-2012_growth-2012-en|archive-date=2023-10-18|language=en}}</ref>
+
+===Ulja e mirëqenies ekonomike===
+Shumica e taksave (shih [[#Kostot e humbjes së mirëqenies|më poshtë]]) kanë efekte anësore që zvogëlojnë mirëqenien ekonomike, qoftë duke detyruar punë joproduktive (kostot e pajtueshmërisë), qoftë duke krijuar shtrembërime në stimujt ekonomikë (humbje e mirëqenies dhe stimuj të kundërt).
+
+====Kostoja e pajtueshmërisë====
+====Kostot e humbjes së mirëqenies====
+[[File:Deadweight-loss-tax.svg|thumb|upright=1.35|Diagrami që ilustron kostot e humbjes së mirëqenies nga taksat]]
+
+Në mungesë të [[Eksternaliteti|eksternaliteteve]] negative, futja e taksave në një treg zvogëlon [[Efiçienca ekonomike|efiçiencën ekonomike]] duke shkaktuar {{ill|Humbja e mirëqenies|en|Deadweight loss|lt=humbje të mirëqenies}}. Në një treg konkurrues, [[Çmimi|çmimi]] i një malli të caktuar ekonomik përshtatet në mënyrë që të sigurohet se ndodhin të gjitha shkëmbimet që përfitojnë si blerësin ashtu edhe shitësin e mallit. Futja e një takse bën që çmimi i marrë nga shitësi të jetë më i ulët se kostoja për blerësin, në masën e vlerës së taksës. Kjo shkakton më pak transaksione, gjë që zvogëlon mirëqenien ekonomike; individët ose bizneset e përfshira janë më keq se para taksës. Barra tatimore dhe shuma e kostos së humbjes së mirëqenies varen nga elasticiteti i ofertës dhe kërkesës për mallin e taksuar.
+
+Shumica e taksave — duke përfshirë tatimin mbi të ardhurat dhe [[Taksa e shitjes|taksën e shitjes]] — mund të kenë kosto të konsiderueshme humbjeje të mirëqenies. E vetmja mënyrë për të shmangur kostot e humbjes së mirëqenies në një ekonomi përgjithësisht konkurruese është shmangia e taksave që ndryshojnë stimujt ekonomikë. Taksa të tilla përfshijnë taksën mbi vlerën e tokës,<ref>{{Cite book|author1=William J. McCluskey|author2=Riël C. D. Franzsen|title=Land Value Taxation: An Applied Analysis|url=https://books.google.com/books?id=jkogP2U4k0AC&pg=PA73|year=2005|publisher=Ashgate|isbn=978-0-7546-1490-6|page=73|language=en}}</ref> ku taksa vendoset mbi një mall me ofertë plotësisht joelastike. Duke taksuar vlerën e tokës së papërmirësuar, në vend të asaj që është ndërtuar mbi të, taksa mbi vlerën e tokës nuk rrit taksat për pronarët e tokave kur ata e përmirësojnë atë. Kjo është në kontrast me taksat tradicionale mbi pronën, të cilat shpërblejnë braktisjen e tokës dhe dekurajojnë ndërtimin, mirëmbajtjen dhe riparimin. Një shembull tjetër i një takse me pak kosto humbjeje të mirëqenies është taksa me shumë fikse, siç është taksa për kokë (taksa e kokës), e cila paguhet nga të gjithë të rriturit pavarësisht zgjedhjeve të tyre. Mund të argumentohet se edhe taksa mbi fitimet e beftitë, e cila është plotësisht e paparashikuar, mund të hyjë në këtë kategori.
+
+Humbja e mirëqenies nuk merr parasysh efektin që taksat kanë në barazimin e fushës së veprimtarisë ndërmjet bizneseve. Bizneset që kanë më shumë para janë më të përgatitura për t'i bërë ballë konkurrencës. Është e zakonshme që një industri me pak korporata të mëdha të ketë një pengesë të lartë hyrjeje për ata që duan të futen në treg. Kjo për shkak se sa më e madhe të jetë korporata, aq më e mirë është pozita e saj për të negociuar me furnitorët. Gjithashtu, kompanitë më të mëdha mund të jenë në gjendje të veprojnë me fitime të ulëta apo edhe negative për periudha të gjata kohore, duke nxjerrë kështu jashtë loje konkurrencën. Një taksim më progresiv i fitimeve, megjithatë, do t'i zvogëllonte këto pengesa për të sapoardhurit, duke rritur kështu konkurrencën dhe, në fund të fundit, duke përfituar konsumatorët.<ref>{{Cite journal|first1=Reuven S.|last1=Avi-Yonah|date=April 2002|title=Why Tax the Rich? Efficiency, Equity, and Progressive Taxation|journal=The Yale Law Journal|volume=111|issue=6|pages=1391–416|jstor=797614|doi=10.2307/797614|author2-link=Joel Slemrod|last2=Slemrod|first2=Joel B.|s2cid=47005504|url=https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=4587&context=ylj|language=en}}</ref>
+
+====Stimuj të kundërt====
+==Politika==
+{{Hatnote|Artikujt kryesorë: {{ill|Politika e taksave|en|Tax policy}}, {{ill|Shpenzimet qeveritare|en|Government spending}}}}
+
+Adam Smith shkruan në ''The Wealth of Nations'' (''Pasuria e Kombeve'') se
+:"…të ardhurat ekonomike të personave privatë janë kryesisht të tri llojeve: qiraja, fitimi dhe pagat. Taksapaguesit e zakonshëm në fund të fundit do t'i paguajnë taksat e tyre nga të paktën një prej këtyre burimeve të ardhurave. Qeveria mund të synojë që një taksë e caktuar të bjerë ekskluzivisht mbi qiranë, fitimin ose pagat – dhe që një taksë tjetër të bjerë njëkohësisht mbi të tre burimet private të ardhurave. Megjithatë, shumë taksa në mënyrë të pashmangshme do të bien mbi burime dhe persona shumë të ndryshëm nga ata që synoheshin … Taksat e mira përmbushin katër kritere kryesore. Ato janë (1) proporcionale me të ardhurat ose aftësinë për të paguar, (2) të sigurta dhe jo të arbitrake, (3) të pagueshme në kohët dhe mënyrat e përshtatshme për taksapaguesit, dhe (4) të lira për t'u administruar dhe mbledhur."<ref>{{Cite book|last=Smith|first=Adam|title=The Wealth of Nations: A Translation into Modern English|url=https://books.google.com/books?id=hj2gCQAAQBAJ|year=2015|publisher=Industrial Systems Research|isbn=978-0-906321-70-6|page=429|language=en}}</ref>
+Sipas përkrahësve të teorisë kartaliste të [[Krijimi i parasë|krijimit të parasë]], taksat nuk janë të nevojshme për të ardhurat qeveritare, për sa kohë që qeveria në fjalë është në gjendje të emetojë para fiat. Sipas këtij këndvështrimi, qëllimi i taksimit është ruajtja e stabilitetit të monedhës, shprehja e politikës publike lidhur me shpërndarjen e pasurisë, subvencionimi i disa industrive apo grupeve të popullsisë, ose izolimi i kostove të disa përfitimeve të caktuara, siç janë autostradat apo sigurimet shoqërore.<ref>{{Cite journal|last1=Beardsley|first1=Ruml|title=Taxes for Revenue are Obsolete|journal=American Affairs|volume=VIII|issue=1|url=http://www.constitution.org/tax/us-ic/cmt/ruml_obsolete.pdf|archive-url=https://web.archive.org/web/20170314025345/http://www.constitution.org/tax/us-ic/cmt/ruml_obsolete.pdf|url-status=dead|archive-date=2017-03-14|language=en}}</ref>
+
+Një studim i vitit 2019 mbi ndikimin e uljeve tatimore për grupe të ndryshme të ardhurash zbuloi se uljet tatimore për grupet me të ardhura të ulëta patën ndikimin më të madh pozitiv në rritjen e punësimit.<ref name=":0">{{Cite journal|last=Zidar|first=Owen|date=2018-10-30|title=Tax Cuts for Whom? Heterogeneous Effects of Income Tax Changes on Growth and Employment|journal=Journal of Political Economy|volume=127|issue=3|pages=1437–1472|doi=10.1086/701424|s2cid=158844554|issn=0022-3808|url=http://www.nber.org/papers/w21035.pdf|language=en}}</ref> Uljet tatimore për 10% më të pasurit patën ndikim të vogël.<ref name=":0" />
+=== Ndërkombëtare ===
+[[File:Tax revenues as a share of GDP, 2022.png|thumb|upright=1.4|left|Të ardhurat totale nga taksat direkte dhe indirekte, si pjesë e PBB-së, në vitin 2022<ref>{{Cite web |title=Tax revenues as a share of GDP, 2022 |url=https://ourworldindata.org/grapher/tax-revenues-as-a-share-of-gdp-unu-wider |website=Our World in Data |language=en |access-date=2024-09-07}}</ref>]]
+
+Taksimi si përqindje e [[Prodhimi i Brendshëm Bruto|PBB-së]] në vitin 2016 ishte 45,9% në [[Denmark|Danimarkë]], 45,3% në Francë, 33,2% në [[United Kingdom|Mbretërinë e Bashkuar]], 26% në [[United States|Shtetet e Bashkuara të Amerikës]], ndërsa mesatarja e të gjithë anëtarëve të [[OECD|OECD-së]] ishte 34,3%.<ref>{{Cite book |url=https://www.oecd.org/tax/revenue-statistics-2522770x.htm |title=Revenue Statistics 2020 &#124; en &#124; OECD |date=2023-12-06 |publisher=[[OECD]] |isbn=978-92-64-49556-2 |doi=10.1787/9d0453d5-en |language=en}}</ref>
+
+Për sa i përket njohjes moderne të drejtave të njeriut, si nga [[Council of Europe|Këshilli i Evropës]], taksimi njihet gjerësisht si pjesë e "bërthamës së fortë të prerogativave të autoritetit publik", që nënkupton se pushteti për të vendosur taksa është një funksion themelor dhe sovran i shtetit (e drejta publike), e jo një transaksion privat.<ref name="Sutich">Sutich, Maria Teresa (2014). "Ferrazzini and the inclusion of tax proceedings under Article 6 § 1 ECHR". European Tax Studies (2): 50–57.</ref><ref name="Lazar">George‑Alexandru Lazăr – "The applicability of Article 6 of the European Convention on Human Rights in disputes concerning taxes" AUBD – Forum Juridic, Issue 1/2024, Faculty of Law, University of Bucharest.</ref><ref name="Brill">Right to a Fair Trial – No Violation: FERRAZZINI v ITALY — Brill Human Rights Case Digest (2001)</ref><ref name="Baker">Philip Baker — "The Decision in Ferrazzini: Time to Reconsider the Application of the European Convention on Human Rights to Tax Matters" (2001) Field Court Tax Chambers</ref>
+
+Në jurisprudencën e [[European Court of Human Rights|Gjykatës Evropiane të Drejtave të Njeriut]], pas vendimit në çështjen ''Ferrazzini'', çështjet tatimore — përfshirë vlerësimet, gjobat shtesë dhe zbatimin e detyruar — konsiderohen pjesë e "bërthamës së fortë", pasi ato dalin jashtë fushëveprimit të "të drejtave dhe detyrimeve civile" të garantuara nga neni 6(1) i [[European Convention on Human Rights|Konventës Evropiane për të Drejtat e Njeriut]].<ref name="Lazar" /><ref name="Baker" /><ref name="Sutich" /><ref name="Brill" />
+
+Në Shtetet e Bashkuara, Shërbimi i të Ardhurave të Brendshme (IRS-ja) ka rreth 1.177 formularë dhe udhëzime,<ref>{{Cite web |title=IRS pick list |url=https://apps.irs.gov/app/picklist/list/formsInstructions.html |publisher=IRS |access-date=2013-01-21 |language=en}}</ref> 28,4111 megabajt të Kodit të Ardhurave të Brendshme,<ref>{{Cite web |title=title 26 US Code |url=http://uscode.house.gov/download/title_26.shtml |publisher=United States House of Representatives |access-date=2013-01-21 |language=en}}</ref> i cili përmbante 3,8 milionë fjalë më 1 shkurtor 2010,<ref>{{Cite web |last=Caron |first=Paul L. |title=How Many Words Are in the Internal Revenue Code? |url=http://taxprof.typepad.com/taxprof_blog/2011/10/slate-how-many.html |access-date=2013-01-21 |date=2011-10-28 |language=en}}</ref> shumë rregullore tatimore në Kodin e Rregulloreve Federale,<ref>{{Cite web |url=http://www.gpo.gov/fdsys/search/pagedetails.action?collectionCode=CFR&searchPath=Title+26%2FChapter+I&granuleId=CFR-2012-title26-vol1-toc-id2&packageId=CFR-2012-title26-vol1&oldPath=Title+26%2FTOC&fromPageDetails=true&collapse=true&ycord=0 |title=26 CFR – Table of Contents |publisher=Gpo.gov |date=2012-04-01 |access-date=2013-01-22 |language=en}}</ref> si dhe material shtesë në Buletinin e të Ardhurave të Brendshme.<ref>{{Cite web |title=Internal Revenue Bulletin: 2012–23 |url=https://www.irs.gov/irb/2012-23_IRB/ar08.html |publisher=Internal Revenue Service |access-date=2012-06-07 |date=2012-06-04 |language=en}}</ref>
+
+=== Zhvillimi ===
+[[File:GDP per capita PPP vs social contributions 2016.svg|thumb|Të ardhurat e qeverisë së përgjithshme, në % të [[Prodhimi i Brendshëm Bruto|PBB-së]], nga kontributet shoqërore. Për këto të dhëna, 20% e [[Varianca|variancës]] së PBB-së për frymë – të përshtatur për paritetin e fuqisë blerëse (PPP) – shpjegohet nga të ardhurat prej sigurimeve shoqërore dhe të ngjashme.]]
+
+Sipas kërkimeve të Nicolas Kaldor-it, financat publike në vendet në zhvillim janë të lidhura ngushtë me kapacitetin shtetëror dhe zhvillimin financiar. Ndërsa kapaciteti shtetëror zhvillohet, shtetet jo vetëm rrisin nivelin e taksimit, por edhe ndryshojnë modelin e taksimit. Me baza tatimore më të mëdha dhe rëndësinë në rënie të taksës mbi tregtinë, taksa mbi të ardhurat fiton më shumë rëndësi.<ref name=":2">{{Cite journal |last1=Stern |first1=Nicolas |last2=Burgess |first2=Robin |title=Taxation and Development |journal=Journal of Economic Literature |language=en}}</ref>
+Sipas argumentit të Tilly-t, kapaciteti shtetëror evoluon si përgjigje ndaj shfaqjes së luftës. Lufta është një nxitje për shtetet që të rrisin taksat dhe të forcojnë kapacitetin e tyre. Historikisht, një sërë përparimesh në taksim ndodhën gjatë periudhave të luftës. Futja e taksës mbi të ardhurat në Britani u shkaktua nga Lufta Napoleonike, në 1798. SHBA-ja e prezantoi për herë të parë taksën mbi të ardhurat gjatë Luftës Civile.<ref name="Besley & Persson">{{Cite journal |last1=Besley |first1=Timothy |last2=Persson |first2=Torsten |title=The Origins of State Capacity: Property Rights, Taxation, and Politics |journal=American Economic Review |date=September 2009 |volume=99 |issue=4 |pages=1218–1244 |issn=0002-8282 |doi=10.1257/aer.99.4.1218 |url=https://researchonline.lse.ac.uk/id/eprint/33768/ |language=en}}</ref> Taksimi kufizohet nga kapacitetet fiskale dhe ligjore të një vendi.<ref name="Besley & Persson" /> Kapacitetet fiskale dhe ligjore plotësojnë edhe njëra-tjetrën. Një sistem tatimor i hartuar mirë mund të minimizojë humbjen e efikasitetit dhe të nxisë rritjen ekonomike. Me përputhshmëri më të mirë dhe mbështetje më të mirë për institucionet financiare dhe pronën individuale, qeveria do të jetë në gjendje të mbledhë më shumë taksa. Megjithëse vendet më të pasura kanë të ardhura tatimore më të larta, rritja ekonomike nuk përkthehet gjithmonë në të ardhura tatimore më të larta. Për shembull, në Indi, rritja e përjashtimeve ka çuar në stanjacionin e të ardhurave nga taksa mbi të ardhurat rreth 0,5% të PBB-së që nga viti 1986.<ref>{{Cite journal |last1=Piketty |first1=Thomas |last2=Qian |first2=Nancy |title=Income Inequality and Progressive Income Taxation in China and India, 1986–2015 |journal=American Economic Journal: Applied Economics |date=April 2009 |volume=1 |issue=2 |pages=53–63 |doi=10.1257/app.1.2.53 |s2cid=27331525 |language=en}}</ref>
+
+Megjithatë, në një të katërtën e vendeve afrikane, Ndihma Zyrtare për Zhvillim tejkalon mbledhjen e taksave,<ref>Africa Economic Outlook 2010, Part 2: Public Resource Mobilisation and Aid in Africa, AfDB/OECD (2010)</ref> ku këto vende priren të jenë vende jo të pasura me burime natyrore. Kjo sugjeron se vendet që bëjnë përparimin më të madh në zëvendësimin e ndihmës me të ardhura tatimore priren të jenë ato që përfitojnë në mënyrë disproporcionale nga rritja e çmimeve të energjisë dhe mallrave.
+
+Në vendet me të ardhura të larta, raporti më i lartë taksa/PBB është në Danimarkë, me 47%, ndërsa më i ulëti është në Kuvajt, me 0,8%, duke pasqyruar taksa të ulëta për shkak të ardhurave të larta nga nafta. Performanca mesatare afatgjatë e të ardhurave tatimore si pjesë e PBB-së në vendet me të ardhura të ulëta ka qenë kryesisht e stanjacionuar, megjithëse shumica kanë treguar disa përmirësime në vitet e fundit. Mesatarisht, vendet e pasura me burime natyrore kanë bërë përparimin më të madh, duke u rritur nga 10% në mesin e viteve 1990 në rreth 17% në 2008. Vendet jo të pasura me burime natyrore bënë njëfarë përparimi, me të ardhurat mesatare tatimore që u rritën nga 10% në 15% gjatë së njëjtës periudhë.<ref>IMF FAD (2011), Revenue Mobilization in Developing Countries</ref>
+
+Shumë vende me të ardhura të ulëta kanë një raport taksa/PBB nën 15%, gjë që mund të vijë nga potenciali i ulët tatimor, si p.sh. një aktivitet ekonomik i taksueshëm i kufizuar, ose nga përpjekje të ulëta tatimore për shkak të zgjedhjeve të politikave, mosrespektimit, ose kufizimeve administrative.
+
+Disa vende me të ardhura të ulëta kanë raporte relativisht të larta taksa/PBB për shkak të ardhurave tatimore nga burimet natyrore (p.sh. [[Angola]]) ose administrimit tatimor relativisht efikas (p.sh. [[Kenya|Kenia]], [[Brazil|Brazili]]), ndërsa disa vende me të ardhura mesatare kanë raporte më të ulëta taksa/PBB (p.sh. [[Malaysia|Malajzia]]) duke pasqyruar një zgjedhje politike më miqësore ndaj taksave.
+
+Ndërkohë që të ardhurat totale tatimore kanë mbetur përgjithësisht të qëndrueshme, tendenca globale tregon se taksat mbi tregtinë kanë qenë në rënie si përqindje e të ardhurave totale (FMN, 2011), ndërsa pjesa e të ardhurave po kalon nga taksat kufitare të tregtisë drejt taksave të vendosura brenda vendit mbi shitjet e mallrave dhe shërbimeve. Vendet me të ardhura të ulëta priren të kenë një varësi më të lartë ndaj taksave mbi tregtinë dhe një përqindje më të vogël e taksave mbi të ardhurat dhe konsumin, krahasuar me vendet me të ardhura të larta.<ref>IMF WP/05/112, Tax Revenue and (or?) Trade Liberalization, Thomas Baunsgaard and Michael Keen</ref>
+
+Një tregues i përvojës së pagimit të taksave u kap në sondazhin "Doing Business",<ref>"Doing Business 2013", World Bank/IFC (2013)</ref> i cili krahason normën totale tatimore, kohën e shpenzuar për të përmbushur procedurat tatimore, dhe numrin e pagesave të kërkuara gjatë vitit, në 176 vende. Vendet "më të lehta" për të paguar taksat ndodhen në Lindjen e Mesme, me Emiratet e Bashkuara Arabe në vendin e parë, të ndjekura nga [[Qatar|Katari]] dhe [[Saudi Arabia|Arabia Saudite]], e cila me shumë gjasa pasqyron regjime tatimore të ulëta në ato vende. Vendet në Afrikën Sub-Sahariane janë ndër "më të vështirat" për të paguar taksat, me [[Central African Republic|Republikën e Afrikës Qendrore]], Republikën e Kongos, [[Guinea|Guinenë]] dhe [[Chad|Çadin]] në pesë vendet e fundit, duke pasqyruar norma totale tatimore më të larta dhe një barrë administrative më të madhe për t'u përmbushur.
+=== Mbështetja publike ===
+Një shqyrtim sistematik i vitit 2017 zbuloi se mbështetja publike për taksat është e kushtëzuar nga qëllimi i taksave.<ref name="t400">{{Cite journal | last1=Wright | first1=Alexandra | last2=Smith | first2=Katherine E. | last3=Hellowell | first3=Mark | title=Policy lessons from health taxes: a systematic review of empirical studies | journal=BMC Public Health | volume=17 | issue=1 | date=2017 | issn=1471-2458 | pmid=28629470 | pmc=5477308 | doi=10.1186/s12889-017-4497-z | doi-access=free | page= | language=en}}</ref> Taksimi është një temë shumë e diskutueshme për disa, pasi, megjithëse taksimi konsiderohet i nevojshëm nga një shumicë e domosdoshme për funksionimin dhe zhvillimin e shoqërisë në mënyrë të rregullt dhe të drejtë përmes ofrimit qeveritar të mirave publike dhe shërbimeve publike, të tjerë, si libertarët, janë kundër taksimit dhe i dënojnë taksimin gjerësisht ose në tërësi, duke e klasifikuar taksimin si [[Vjedhja|vjedhje]] ose [[Zhvatja|zhvatje]] përmes [[Shtrëngimi|shtrëngimit]], si dhe përdorimin e [[Forca|forcës]].<ref name="auto">{{Cite web |date=2019-11-15 |title=Yes, Taxation Is Theft {{!}} Mises Institute |url=https://mises.org/mises-wire/yes-taxation-theft |access-date=2025-01-05 |website=mises.org |language=en}}</ref> Shumica e votuesve amerikanë i konsiderojnë taksat të padrejta dhe pak prej tyre thonë se marrin vlerë të mirë për taksat që paguajnë.<ref name="q277">{{Cite web | last=Torres | first=Tafari | title=Majorities view local, state, and federal taxes as too high and delivering too little value for people like them | website=AP-NORC - | date=2024 | url=https://apnorc.org/projects/majorities-view-local-state-and-federal-taxes-as-too-high-and-delivering-too-little-value-for-people-like-them/ | access-date=2026-02-07 | language=en}}</ref>
+
+===Gjeoizmi===
+{{Hatnote|Artikujt kryesorë: {{ill|Gjeorgjizmi|en|Georgism}}, {{ill|Gjeolibertarianizmi|en|Geolibertarianism}}, {{ill|Taksa mbi vlerën e tokës|en|Land value tax}}}}
+
+Gjeistët (gjeorgjistët dhe gjeolibertarianët) pohojnë se taksimi duhet të mbledhë kryesisht rentën ekonomike, në veçanti vlerën e tokës, si për arsye efikasiteti ekonomik ashtu edhe për arsye morale. Efikasiteti i përdorimit të rentës ekonomike për taksim është (siç bien dakord ekonomistët<ref>[[Adam Smith]], [[Pasuria e kombeve]] [[s:The Wealth of Nations/Book V/Chapter 2|Libri V, Kapitulli 2]], Pjesa 2, Neni I: Taksat mbi Qiranë e Shtëpive</ref><ref>{{Cite book |last1=McCluskey |first1=William J. |last2=Franzsen |first2=Riël C. D. |title=Land Value Taxation: An Applied Analysis |page=4 |publisher=Ashgate Publishing, Ltd. |year=2005 |url=https://books.google.com/books?id=jkogP2U4k0AC&pg=PA73|isbn=978-0-7546-1490-6|language=en}}</ref><ref>{{Cite web |url=http://www.cooperativeindividualism.org/friedman-milton_interview-1978.html |title=Milton Friedman Interviewed -- 1978 |access-date=2015-03-29 |url-status=dead |archive-url=https://web.archive.org/web/20150329223758/http://www.cooperativeindividualism.org/friedman-milton_interview-1978.html |archive-date=2015-03-29 |language=en}}</ref>) për shkak se një taksim i tillë nuk mund t'u kalohet të tjerëve dhe nuk krijon asnjë humbje efikasiteti, dhe se heq stimulin për të spekuluar me tokën.<ref name="McCluskey and Franzsen">{{Cite book |url=https://books.google.com/books?id=jkogP2U4k0AC&pg=PA73|title=Land Value Taxation: An Applied Analysis |author1=William J. McCluskey |author2=Riël C. D. Franzsen |publisher=Ashgate|isbn=978-0-7546-1490-6|page=73|year=2005|language=en }}</ref> Morali i saj bazohet në premisën gjeiste se [[Prona private|prona private]] justifikohet për produktet e punës, por jo për tokën dhe burimet natyrore.<ref name="pnp">{{Cite book |last=George |first=Henry |title=Progress and Poverty: An Inquiry into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth |year=1879|language=en}}</ref>
+
+Ekonomisti dhe reformatori shoqëror Henry George kundërshtoi taksat mbi shitjet dhe tarifat mbrojtëse për ndikimin e tyre negativ në tregti.<ref>{{Cite book |last=George |first=Henry |title=Protection or Free Trade |url=https://archive.org/details/in.ernet.dli.2015.514177 |year=1886|language=en}}</ref> Ai gjithashtu besonte në të drejtën e çdo personi mbi frytet e punës dhe investimit të tij produktiv. Prandaj, të ardhurat nga puna me pagesë dhe [[Kapitali|kapitali]] i duhur duhet të mbeten të pataksuara. Për këtë arsye, shumë gjeistë — veçanërisht ata që e quajnë veten gjeolibertarianë — ndajnë me libertarët mendimin se këto lloje taksash (por jo të gjitha) janë imorale dhe madje vjedhje. George pohoi se duhet të ketë vetëm një taksë të vetme: Taksën mbi Vlerën e Tokës, e cila konsiderohet njëkohësisht efikase dhe morale.<ref name="pnp" /> Kërkesa për tokë specifike varet nga natyra, por edhe më shumë nga prania e komuniteteve, tregtisë dhe infrastrukturës qeveritare, veçanërisht në [[Zona urbane|zonat urbane]]. Prandaj, renta ekonomike e tokës nuk është produkt i një individi të veçantë dhe mund të kërkohet për shpenzime publike. Sipas George-it, kjo do t'i jepte fund flluskave të pasurive të paluajtshme, cikleve të biznesit, [[Papunësia|papunësisë]] dhe do të shpërndante pasurinë në mënyrë shumë më të barabartë.<ref name="pnp" /> Teorema e Henry George-it dhe e Joseph Stiglitz-it parashikon mjaftueshmërinë e saj për financimin e të mirave publike, pasi ato rrisin vlerën e tokës.<ref>{{Cite journal |last=Arnott |first=Richard J. |author2=Joseph E. Stiglitz |title=Aggregate Land Rents, Expenditure on Public Goods, and Optimal City Size |journal=Quarterly Journal of Economics |date=Nov 1979 |volume=93 |issue=4 |pages=471–500 |jstor=1884466 |doi=10.2307/1884466 |bibcode=1979QJEco..93..471A |s2cid=53374401 |url=http://academiccommons.columbia.edu/download/fedora_content/download/ac:160390/CONTENT/4624867.pdf |archive-date=2017-08-17 |access-date=2018-04-20 |archive-url=https://web.archive.org/web/20170817083741/https://academiccommons.columbia.edu/download/fedora_content/download/ac:160390/CONTENT/4624867.pdf |url-status=dead |language=en }}</ref>
+
+Kjo do të thotë se, ndërsa gjeistët gjithashtu e konsiderojnë taksimin si një instrument të [[Drejtësia shoqërore|drejtësisë shoqërore]], në ndryshim nga social-demokratët dhe liberalët socialë, ata nuk e konsiderojnë atë si një instrument rishpërndarjeje, por më tepër si një 'paradistribuim' ose thjesht si një shpërndarje e drejtë e pasurive të përbashkëta.<ref>{{Cite journal |last=Kerr |first=Gavin |title='Predistribution', property-owning democracy and land value taxation' |date=2015-03-10 |journal=Politics, Philosophy and Economics|language=en}}</ref>
+
+Gjeistët modernë vërejnë se toka, në kuptimin e ekonomisë klasike, i referohej të gjitha burimeve natyrore, dhe kështu përfshin gjithashtu burime si depozitat minerale, trupat ujorë dhe [[Spektri elektromagnetik|spektrin elektromagnetik]], ndaj të cilave qasje e privilegjuar gjithashtu gjeneron rentë ekonomike që duhet kompensuar. Sipas të njëjtit arsyetim, shumica prej tyre e konsiderojnë të pranueshme e madje të nevojshme edhe taksat pigouviane, si kompensim për dëmin mjedisor ose privilegjin.<ref>{{Cite web |last1=Davies |first1=Lindy |title=The Science of Political Economy: What George "Left Out" |url=http://www.politicaleconomy.org/leftout.htm |website=politicaleconomy.org |access-date=2014-06-16|language=en}}</ref><ref>{{Cite web |last1=Batt |first1=H. William |title=The Compatibility of Georgist Economics and Ecological Economics |url=http://www.wealthandwant.com/docs/Batt_GEE.html |access-date=2014-06-09 |archive-date=2016-06-04 |archive-url=https://web.archive.org/web/20160604115221/http://www.wealthandwant.com/docs/Batt_GEE.html |url-status=dead|language=en }}</ref>
+==Filozofia==
+<blockquote>
+Çdo taksë, megjithatë, është, për personin që e paguan, shenjë, jo e skllavërisë, por e [[Liria|lirisë]].
+</blockquote>
+– [[Adam Smith]] (1776), ''Wealth of Nations'' (''Pasuria e Kombeve'')<ref name="Smith">{{Cite web|last=Smith |first=Adam |year=1776 |url=http://www2.hn.psu.edu/faculty/jmanis/adam-smith/Wealth-Nations.pdf |title=An Inquiry into the Nature and Causes of The Wealth of Nations |archive-url=https://web.archive.org/web/20131020042323/http://www2.hn.psu.edu/faculty/jmanis/adam-smith/Wealth-Nations.pdf |archive-date=2013-10-20 |url-status=dead |website=Penn State Electronic Classics Series |publication-date=2005 |page=704 |language=en}}</ref>
+
+Taksat në shtetet-kombe moderne u sjellin dobi shumicës së popullsisë dhe zhvillimit shoqëror.<ref>[https://web.archive.org/web/20040701064132/http://www.unescap.org/esid/psis/publications/theme2002/chap5.asp Population and Social Integration Section (PSIS)] , Komisioni Ekonomik dhe Shoqëror i Kombeve të Bashkuara për Azinë dhe Paqësorin</ref><ref name=":2" /> Ndërsa teoritë ekonomike të taksimit synojnë të maksimizojnë mirëqenien shoqërore, filozofët dhe studiuesit e politikës së taksimit marrin në konsideratë një sërë faktorësh, përfshirë drejtësinë, moralin dhe të drejtat e njeriut.<ref>{{Citation |last=Barry |first=Christian |title=Redistribution |date=2018 |work=The Stanford Encyclopedia of Philosophy |editor-last=Zalta |editor-first=Edward N. |url=https://plato.stanford.edu/archives/spr2018/entries/redistribution/ |access-date=2026-07-01 |edition=Spring 2018 |publisher=Metaphysics Research Lab, Stanford University |language=en}}</ref>
+
+=== Demokracia dhe qeveria ===
+{{Hatnote|Artikulli kryesor: {{ill|Kontrata shoqërore|en|Social contract}}}}
+Në një [[Demokracia|demokraci]], meqenëse [[Qeveria|qeveria]] është pala që kryen aktin e vendosjes së taksave, shoqëria në tërësi vendos se si duhet të organizohet sistemi tatimor.<ref>{{cite journal |last1=Logue |first1=Danielle |year=2009 |title=Moving policy forward: 'brain drain' as a wicked problem |journal=Globalisation, Societies & Education |volume=7 |issue=1 |pages=41–50 |doi=10.1080/14767720802677366|s2cid=145794119 |language=en}}</ref> Social-demokratët në përgjithësi favorizojnë nivele më të larta të taksimit për të financuar ofrimin publik të një gamë të gjerë shërbimesh, si [[Kujdesi shëndetësor|kujdesi shëndetësor]] universal dhe arsimi, si dhe ofrimin e një gamë përfitimesh nga shteti social.<ref>Ruiz del Portal, X. 2009. "A general principal–agent setting with non-differentiable mechanisms: Some examples." Mathematical Social Sciences 57, no. 2: 262–78. Academic Search Premier, EBSCOhost. (anglisht)</ref> [[Demokracia e drejtpërdrejtë|Demokracia e drejtpërdrejtë]] u konstatua se çon në norma tatimore më të ulëta në disa raste.<ref>{{Cite journal |last1=Geschwind |first1=Stephan |last2=Roesel |first2=Felix |date=2022 |title=Taxation under direct democracy |url=https://www.sciencedirect.com/science/article/pii/S0167268122001949 |journal=Journal of Economic Behavior & Organization |volume=200 |pages=536–554 |doi=10.1016/j.jebo.2022.06.005 |issn=0167-2681|url-access=subscription |language=en}}</ref>
+
+Oliver Wendell Holmes Jr. ka deklaruar se «Taksat janë çmimi i qytetërimit».<ref>{{cite book|author=Eugene C. Gerhart|title=Quote it Completely!: World Reference Guide to More Than 5,500 Memorable Quotations from Law and Literature|url=https://books.google.com/books?id=kjwVASsTUm0C&pg=PA1045|year=1998|publisher=W.S. Hein|isbn=978-1-57588-400-4|page=1045|language=en}}</ref>
+
+[[John Locke]] deklaroi se sa herë që puna përzihet me burimet natyrore, siç është rasti me tokën e përmirësuar, prona private justifikohet nën kushtin se duhet të ketë mjaftueshëm burime të tjera natyrore të së njëjtës cilësi në dispozicion të tjerëve.<ref>{{cite book |last=Locke |first=John |title=Second Treatise of Government |chapter-url=https://archive.org/details/secondtreatiseof07370gut |chapter=5 |language=en}}</ref>
+
+==== Zgjedhja tatimore ====
+{{Hatnote|Artikulli kryesor: {{ill|Zgjedhja tatimore|en|Tax choice}}}}
+Zgjedhja tatimore është teoria sipas së cilës taksapaguesit duhet të kenë kontroll më të madh mbi mënyrën se si shpërndahen taksat e tyre individuale. Nëse taksapaguesit do të mund të zgjidhnin se cilat organizata qeveritare do t'i merrnin taksat e tyre, vendimet mbi kostonë e mundësisë do të integronin njohuritë e tyre të pjesshme.<ref>{{cite journal |title=Tax morale and conditional cooperation |url=http://www.bsfrey.ch/articles/453_07.pdf |doi=10.1016/j.jce.2006.10.006 |access-date=2013-01-03 |volume=35 |journal=Journal of Comparative Economics |pages=136–59 |year=2007 |last1=Frey |first1=Bruno S. |last2=Torgler |first2=Benno |url-status=dead |archive-url=https://web.archive.org/web/20130120090643/http://www.bsfrey.ch/articles/453_07.pdf |archive-date=2013-01-20 |language=en}}</ref> Për shembull, një taksapagues që ndan më shumë nga taksat e tij për arsimin publik do të ketë më pak për ta ndarë për kujdesin shëndetësor publik. Mbështetësit argumentojnë se t'u lejohet taksapaguesve të shprehin preferencat e tyre do të ndihmonte të sigurohej që qeveria të ketë sukses në prodhimin efikas të mirave publike që taksapaguesit vërtet i vlerësojnë.<ref>{{cite web |title=Do Earmarks Increase Giving to Government? |url=http://cbees.utdallas.edu/papers/gtg2.pdf |publisher=Cbees.utdallas.edu |access-date=2013-01-03 |url-status=dead |archive-url=https://web.archive.org/web/20130303125214/http://cbees.utdallas.edu/papers/gtg2.pdf |archive-date=2013-03-03 |language=en}}</ref> Kjo do t'i jepte fund spekulimit me pasuri të paluajtshme, cikleve ekonomike, [[Papunësia|papunësisë]], dhe do ta shpërndante pasurinë shumë më në mënyrë të barabartë. Teorema e Henry George-it dhe e Joseph Stiglitz-it parashikon mjaftueshmërinë e saj sepse — siç vuri re edhe George — shpenzimet publike rrisin vlerën e tokës.
+
+=== Liria ===
+
+==== Libertarianizmi amerikan ====
+{{Hatnote|Artikujt kryesorë: {{ill|Mospërputhja tatimore|en|Tax noncompliance}}, {{ill|Taksimi si skllavëri|en|Taxation as slavery}}, {{ill|Taksimi si vjedhje|en|Taxation as theft}}}}
+Slogani popullor amerikan "No taxation without representation" ("Nuk ka taksim pa përfaqësim") u bë popullor gjatë [[Revolucioni Amerikan|Revolucionit Amerikan]].<ref>{{cite web|url=https://www.bostonteapartyship.com/research-library/taxation-without-representation|title=Taxation Without Representation|publisher=Boston Tea Party Ships and Museum|access-date=2026-07-25|language=en}}</ref>
+
+Libertarianët amerikanë rekomandojnë një nivel minimal taksimi për të maksimizuar mbrojtjen e [[Liria|lirisë]].<ref name="auto" />
+
+Meqenëse pagesa e taksës është [[Detyrimi|e detyrueshme]] dhe zbatohet nga sistemi [[Ligji|ligjor]], në vend të qenë vullnetare, si financimi kolektiv, disa filozofi politike e shohin taksimin si [[Vjedhja|vjedhje]], zhvatje, skllavëri, shkelje të drejtave pronësore, ose tirani, duke akuzuar qeverinë se i vendos taksat përmes [[Forca|forcës]] dhe mjeteve shtrënguese.<ref>Për një përmbledhje të perspektivës klasike liberale mbi taksimin shih {{cite web |url-status=dead |url=http://www.irefeurope.org/en/content/tax-and-justice |archive-url=https://web.archive.org/web/20091205185557/http://www.irefeurope.org/en/content/tax-and-justice |archive-date=2009-12-05 |title=Tax and Justice |website=IREF |language=en}}</ref> Objektivistët, anarko-kapitalistët dhe libertarianët amerikanë e shohin taksimin si agresion qeveritar nën optikën e parimit të mos-agresionit. Pikëpamja sipas së cilës [[Demokracia|demokracia]] e legjitimon taksimin refuzohet nga ata që argumentojnë se e drejta mbi pronën është e patjetërsueshme dhe, si rrjedhojë, nuk mund të kufizohet nga [[Qeveria|qeveria]].<ref>{{Cite web |date=2022-05-12 |title=Taxation Is Robbery {{!}} Mises Institute |url=https://mises.org/mises-daily/taxation-robbery |access-date=2025-01-06 |website=mises.org |language=en}}</ref> Sipas [[Ludwig von Mises|Ludwig von Mises-it]], "shoqëria si e tërë" nuk duhet të marrë vendime të tilla, për shkak të individualizmit metodologjik.<ref>''[[Human Action]]'' [https://www.mises.org/humanaction/chap2sec4.asp Chapter II. Sec. 4. The Principle of Methodological Individualism] nga Ludwig von Mises</ref> Disa kundërshtarë libertarianë të taksimit pretendojnë se mbrojtja qeveritare, si policia dhe forcat mbrojtëse, mund të zëvendësohet me alternativa nga [[Tregu|tregu]], si agjenci private mbrojtjeje, agjenci arbitrazhi ose kontribute vullnetare.<ref>{{cite web |url=https://www.mises.org/story/2701 |title=The Rule of Law Without the State |author=Spencer Heath MacCallum |publisher=Ludwig Von Mises Institute |date=2007-09-12 |access-date=2008-08-16 |language=en}}</ref>
+
+[[Murray Rothbard|Murray Rothbard]] argumentoi në ''The Ethics of Liberty'' (''Etika e Lirisë'') në vitin 1982 se taksimi është [[Vjedhja|vjedhje]] dhe se rezistenca tatimore është, për rrjedhojë, e ligjshme: "Ashtu siç askush nuk është moralisht i detyruar t'i përgjigjet me të vërtetën një kusari kur ai pyet nëse ka sende me vlerë në shtëpi, po ashtu askush nuk mund të jetë moralisht i detyruar t'u përgjigjet me të vërtetën pyetjeve të ngjashme të bëra nga shteti, p.sh., kur plotëson deklaratat e tatimit mbi të ardhurat."<ref>{{cite book |url=http://mises.org/rothbard/ethics/twentyfour.asp |title="The Moral Status of Relations to the State", chapter 24 of ''The Ethics of Liberty'' |isbn= 978-0-8147-7506-6 |publisher=Humanities Press 1982, New York University Press 1998 |author=Murray N. Rothbard |access-date=2012-09-02 |date=May 1998 |language=en}}</ref><ref>{{cite web |url=http://mises.org/rothbard/ethics/twentyfour.asp |title="The State versus Liberty", excerpt from chapters 22–25 of ''The Ethics of Liberty'' (LewRockwell.com, 2007) |author=Murray N. Rothbard |access-date=2012-09-02 |language=en}}</ref>
+===Socializmi===
+[[Karl Marksi]] supozoi se tatimi do të ishte i panevojshëm pas ardhjes së komunizmit dhe e priste me dëshirë "shuarjen e shtetit". Në ekonomitë socialiste si ajo e Kinës, tatimi luajti një rol të vogël, pasi shumica e të ardhurave qeveritare rridhte nga pronësia e ndërmarrjeve, dhe disa argumentuan se tatimi monetar nuk ishte i nevojshëm.<ref name="isbn0-275-93688-0">{{Cite book |author=Li, Jinyan |title=Taxation in the People's Republic of China |publisher=Praeger |location=New York |year=1991 |isbn=978-0-275-93688-4 |url-access=registration |url=https://archive.org/details/taxatio_lij_1991_00_5240 |language=en}}</ref>
+
+===Jurisprudenca===
+Lidhur me të drejtën ndërkombëtare, studiuesit e së drejtës e konsiderojnë "çështjen themelore se çfarë shkalle tatimi, nëse ka, arrin nivelin e konfiskimit ose shpronësimit" si të pazgjidhur, por marrin parasysh faktorë të tillë si "aftësinë paguese të tatimpaguesit, parimin e proporcionalitetit dhe nëse taksa, në thelb, përpin të ardhurat nga aktiviteti ekonomik i ngarkuar."<ref>{{Cite book |last1=Kokott |first1=Juliane |last2=Pistone |first2=Pasquale |title=Taxpayers in International Law: International Minimum Standards for the Protection of Taxpayers' Rights |date=2022-03-24 |publisher=Bloomsbury Publishing |isbn=978-1-5099-5402-5 |url=https://www.google.ca/books/edition/Taxpayers_in_International_Law/6bFmEAAAQBAJ?hl=en&gbpv=1&pg=PA466&printsec=frontcover |access-date=2026-05-01 |language=en}}</ref>
+
+==Teoria==
+{{Hatnote|Artikulli kryesor: {{ill|Teoria e tatimit|en|Theory of taxation}}}}
+
+===Kurba Laffer===
+{{Hatnote|Artikulli kryesor: {{ill|Kurba Laffer|en|Laffer curve}}}}
+
+Një pasojë e mundshme e kurbës Laffer është se rritja e normave tatimore përtej një pike të caktuar bëhet kundërproduktive për rritjen e mëtejshme të ardhurave tatimore. Një kurbë hipotetike Laffer për çdo ekonomi të caktuar mund të vlerësohet vetëm përafërsisht, dhe vlerësime të tilla ndonjëherë janë të diskutueshme. ''The New Palgrave Dictionary of Economics'' (Fjalori i Ri Palgrave i Ekonomisë) raporton se vlerësimet e normave tatimore që maksimizojnë të ardhurat kanë ndryshuar shumë, me një vlerë mesatare rreth 70%.<ref>{{Cite book |title=Laffer curve |first=Don |last=Fullerton |series=The New Palgrave Dictionary of Economics, Second Edition |publisher=Palgrave Macmillan |year=2008 |quote=The mid-range for this elasticity is around 0.4, with a revenue peak around 70 percent. |url=http://www.dictionaryofeconomics.com/article?id=pde2008_L000015 |access-date=2011-07-05 |language=en}}</ref>
+
+===Optimale===
+{{Hatnote|Artikulli kryesor: {{ill|Taksa optimale|en|Optimal tax}}}}
+
+Shumica e qeverive marrin të ardhura që tejkalojnë ato që mund të sigurohen nga taksat jo-shtrembëruese ose nëpërmjet taksave që japin një dividend të dyfishtë. Teoria e tatimit optimal është dega e ekonomisë që merret me mënyrën se si mund të strukturohen taksat për të dhënë koston më të vogël të humbjes së mirëqenies, ose për të dhënë rezultatet më të mira në aspektin e mirëqenies shoqërore. Problemi i Ramsey-t merret me minimizimin e kostove të humbjes së mirëqenies. Meqenëse kostot e humbjes së mirëqenies lidhen me elasticitetin e ofertës dhe kërkesës për një mall, rrjedh se vendosja e normave më të larta tatimore mbi mallrat për të cilat oferta dhe kërkesa janë më joelastike do të rezultojë në kostot më të vogla të përgjithshme të humbjes së mirëqenies. Disa ekonomistë kërkuan të integronin teorinë e tatimit optimal me funksionin e mirëqenies shoqërore, i cili është shprehja ekonomike e idesë se barazia ka vlerë në një shkallë më të madhe ose më të vogël. Nëse individët përjetojnë rendiment në rënie nga të ardhurat, atëherë shpërndarja optimale e të ardhurave për shoqërinë përfshin një taksë progresive mbi të ardhurat. Taksa optimale mbi të ardhurat sipas Mirrlees-it është një model teorik i detajuar i taksës progresive optimale mbi të ardhurat në këtë drejtim. Vitet e fundit, vlefshmëria e teorisë së tatimit optimal është diskutuar nga shumë ekonomistë politikë.<ref>{{Cite web |url=http://wordsofliberty.net |title=Libertarian & Conservative News |publisher=Words of Liberty |access-date=2013-01-22 |url-status=dead |archive-url=https://web.archive.org/web/20130122183637/http://wordsofliberty.net/ |archive-date=2013-01-22 |language=en}}</ref>
+
+Në një sondazh të Gallup-it të vitit 2025 në Shtetet e Bashkuara, më shumë qytetarë e konsiderojnë tatimin e tyre si shumë të lartë sesa shumë të ulët.<ref>{{Cite web |date=2025-04-08 |title=U.S. Perceptions of 'Fair' Income Taxes Hold Near Record Low |url=https://news.gallup.com/poll/659003/perceptions-fair-income-taxes-hold-near-record-low.aspx |access-date=2025-08-28 |website=Gallup.com |language=en}}</ref>
+
+===Normat===
+
+{{Hatnote|Artikulli kryesor: {{ill|Norma tatimore|en|Tax rate}}}}
+
+==Shiko edhe==
+{{Div col|colwidth=22em}}
+* {{ill|Vendimi tatimor paraprak|en|Advance tax ruling}}
+* [[Tregu i zi]]
+* {{ill|DIRTI 5|en}}
+* {{ill|Barra e tepërt e taksave|en|Excess burden of taxation}}
+* {{ill|Kapaciteti fiskal|en|Fiscal capacity}}
+* {{ill|Incidenca fiskale|en|Fiscal incidence}}
+* {{ill|Sociologjia fiskale|en|Fiscal sociology}}
+* {{ill|Bilanci buxhetor i qeverisë|en|Government budget balance}}
+* {{ill|Tatimi ndërkombëtar|en|International taxation}}
+* {{ill|Lista e taksave|en|List of taxes}}
+* {{ill|Tavani i çmimeve|en|Price ceiling}}
+* {{ill|Dyshemeja e çmimeve|en|Price floor}}
+* {{ill|Taksa revolucionare|en|Revolutionary tax}}
+* {{ill|Konkurrenca tatimore|en|Tax competition}}
+* {{ill|Eksportimi i taksave|en|Tax exporting}}
+* [[Parajsa tatimore]]
+* {{ill|Rezistenca tatimore|en|Tax resistance}}
+* {{ill|Të ardhurat tatimore|en|Tax revenue}}
+* {{ill|Streha tatimore|en|Tax shelter}}
+* {{ill|Fatura e tatimpaguesit|en|Taxpayer receipt}}
+{{Div col end}}
+
+===Sipas vendit ose rajonit===
+* {{ill|Lista e vendeve sipas normave tatimore|en|List of countries by tax rates}}
+* {{ill|Lista e vendeve sipas të ardhurave tatimore|en|List of countries by tax revenue}}
+* {{ill|Shërbimi i të ardhurave|en|Revenue service}}
+* [[:en:Category:Taxation by country|Taksat sipas vendeve (kategori në Wikipedian në anglisht)]]
+
+==Referime==
+{{Reflist}}
+<small>Ky artikull përfshin tekst nga [https://www.oecd.org/en/publications/2025/12/revenue-statistics-2025_07ca0a8e/full-report/the-oecd-classification-of-taxes-and-interpretative-guide_c852c459.html një botim] i [[Organizata për Bashkëpunim dhe Zhvillim Ekonomik|OECD-së]], i disponueshëm sipas licencës Creative Commons Attribution 4.0 International (CC BY 4.0).</small>
+
+==Lexime shtesë==
+* [http://www.bbc.com/capital/story/20150216-my-taxes-go-where?ocid=global_bbccom_email_19022015_capital Ku shkojnë taksat e mia? Si i shpenzojnë vendet paratë tuaja] (17 shkurti 2015), [[BBC]]
+* {{Cite encyclopedia |last1=Minarik |first1=Joseph J. |editor=David R. Henderson |encyclopedia=Concise Encyclopedia of Economics |title=Taxation |url=http://www.econlib.org/library/Enc/Taxation.html |year=2008 |edition=2nd |publisher=Library of Economics and Liberty |isbn=978-0865976658 |oclc=237794267 |language=en}}
+* Genschel, Philipp; Seelkopf, Laura (red.). (2022). ''[https://oxford.universitypressscholarship.com/view/10.1093/oso/9780192897572.001.0001/oso-9780192897572? Global Taxation: How Modern Taxes Conquered the World]'' (Taksimi Global: Si Taksat Moderne e Pushtuan Botën). Oxford University Press.
+* Seelkopf, L., Bubek, M., Eihmanis, E. ''et al.'' [[doi:10.1007/s11558-019-09359-9|The rise of modern taxation: A new comprehensive dataset of tax introductions worldwide]]. ''Rev Int Organ'' (2019).
+== Lidhje të jashtme ==
+
+* [http://tid.seelkopf.eu/ Baza e të dhënave për vendosjen e taksave – Një grup të dhënash mbi vendosjen e taksave në 220 vende, 1750–2018.]
+* [http://stats.oecd.org/Index.aspx?DataSetCode=REV Statistikat tatimore të OECD-së]
+* [https://www.wider.unu.edu/project/government-revenue-dataset ICTD/UNU-WIDER, Grupi i të dhënave mbi të ardhurat qeveritare] përpilimi i të dhënave tatimore, kryesisht nga [[Organizata për Bashkëpunim dhe Zhvillim Ekonomik|OECD]] dhe [[Fondi Monetar Ndërkombëtar|FMN]]
+
+
+
+[[Kategoria:Taksë]]
+[[Kategoria:Themelime në Egjiptin e Lashtë të mijëvjeçarit të 3-të p.e.s.]]
+[[Kategoria:Shpikje egjiptiane]]
+[[Kategoria:Themelime të shekullit 30 p.e.s.]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Tax|13 shtator 2026|1374721388}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Tax, versioni i datës 13 shtator 2026 (revizioni 1374721388).
+-->

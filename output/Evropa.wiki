@@ -1,0 +1,1289 @@
+{{Infobox continent
+| title               = Evropa
+| image               = {{Switcher|[[Skeda:Europe orthographic Caucasus Urals boundary (with borders).svg|frameless]]|Shfaq kufijtë kombëtarë|[[Skeda:Europe orthographic Caucasus Urals boundary.svg|frameless]]|Fshih kufijtë kombëtarë|default=1}}
+| area                = {{circa}} {{Convert|10.186.000|km2}} ([[Kontinenti#Sipërfaqja dhe popullsia|i 6-ti]]){{ref label|footnote_a|a}}
+| population          ={{IncreaseNeutral}} 745.173.774 (2021; [[Lista e kontinenteve dhe nënrajoneve kontinentale sipas popullsisë#Shpërndarja e popullsive sipas gjeoshemës së Kombeve të Bashkuara|i 3-ti]])<ref>{{Cite web|title=World Population Prospects 2022|url=https://population.un.org/wpp/|publisher=United Nations, Department of Economic and Social Affairs, Population Division|access-date=30 July 2022|language=en}}</ref>
+| density             = 72,9/km<sup>2</sup> (188/sq mi) (i 2-ti)
+| GDP_PPP             = {{nowrap|[[US$|$]]43,53 bilionë (vlerësim 2025; [[Lista e kontinenteve sipas PBB-së#Kontinentet sipas PBB-së (PPP)|i 2-ti]])<ref>{{Cite web|url=https://www.imf.org/external/datamapper/PPPGDP@WEO/OEMDC/ADVEC/WEOWORLD|title=GDP PPP, current prices|publisher=International Monetary Fund|date=2022|access-date=16 January 2022|archive-date=22 January 2021|archive-url=https://web.archive.org/web/20210122001107/https://www.imf.org/external/datamapper/PPPGDP@WEO/OEMDC/ADVEC/WEOWORLD|url-status=live|language=en}}</ref>}}
+| GDP_nominal         = $28,22 bilionë (vlerësim 2025; [[Lista e kontinenteve sipas PBB-së#Kontinentet sipas PBB-së (nominale)|i 3-ti]])<ref>{{cite web|title=GDP Nominal, current prices|url=https://www.imf.org/external/datamapper/NGDPD@WEO/OEMDC/ADVEC/WEOWORLD|publisher=International Monetary Fund|date=2022|access-date=16 January 2022|archive-date=25 February 2017|archive-url=https://web.archive.org/web/20170225211431/https://www.imf.org/external/datamapper/NGDPD@WEO/OEMDC/ADVEC/WEOWORLD|url-status=live|language=en}}</ref>
+| GDP_per_capita      = $38.270 (vlerësim 2025; [[Lista e kontinenteve sipas PBB-së#Kontinentet sipas PBB-së për fryme (nominale)|i 3-ti]]){{ref label|footnote_c|c}}<ref>{{Cite web|url=https://www.imf.org/external/datamapper/NGDPDPC@WEO/OEMDC/ADVEC/WEOWORLD|title=Nominal GDP per capita|publisher=International Monetary Fund|date=2022|access-date=16 January 2022|archive-date=11 January 2020|archive-url=https://web.archive.org/web/20200111084550/https://www.imf.org/external/datamapper/NGDPDPC@WEO/OEMDC/ADVEC/WEOWORLD|url-status=live|language=en}}</ref>
+| HDI                 = {{increase}} 0,845<ref>{{cite web|url=http://hdr.undp.org/en/reports/global/hdr2011/|title=Reports |website=Human Development Reports |date=January 2011 |access-date=21 July 2017|archive-url=https://web.archive.org/web/20120709095716/http://hdr.undp.org/en/reports/global/hdr2011/|archive-date=9 July 2012|language=en}}</ref>
+| religions          = {{unbulleted list
+ | Krishterimi (76,2%)<ref name="Survey"/>
+ | Pa fe (18,3%)<ref name="Survey"/>
+ | Islami (4,9%)<ref name="Survey"/>
+ | Tjetër (0,6%)<ref name="Survey"/>
+}}
+| demonym             = Evropian
+| countries           = Sovrane ([[Lista e shteteve sovrane dhe territoreve të varura në Evropë|44–50]])<br />''De facto'' (2–5)
+| dependencies        = Të jashtme (5–6)<br />Të brendshme (3)
+| languages           = Më të përhapurat: {{hlist
+ |Rusishtja
+ |Gjermanishtja
+ |Frëngjishtja
+ |Anglishtja
+ |Italishtja
+ |Spanjishtja
+ |Polonishtja
+ |Ukrainishtja
+ |Rumanishtja
+ |Holandishtja
+ |Serbo-kroatishtja
+ }}
+| time                = UTC−1<!--Azoret--> deri UTC+5<!--Rusia-->
+| cities              = Zonat urbane më të mëdha:<ref name="Urban">{{cite web|url=http://www.demographia.com/db-worldua.pdf|title=Demographia World Urban Areas|publisher=Demographia|access-date=28 October 2020|archive-date=3 May 2018|archive-url=https://web.archive.org/web/20180503021711/http://www.demographia.com/db-worldua.pdf|url-status=live|language=en}}</ref>{{hlist
+  |[[Moska]]
+  |[[Stambolli]]{{ref label|footnote_b|b}}
+  |[[Londra]]
+  |[[Parisi]]
+  |[[Madridi]]
+  |[[Esen]]-[[Diseldorf]]
+  |[[Shën Petersburgu]]
+  |[[Milano]]
+  |[[Barcelona]]
+  |[[Berlini]]
+ }}
+| m49                 = <code>150</code> – Evropa<br /><code>001</code> – [[Bota]]
+| footnotes           = {{unbulleted list|style=font-size:90%;
+|a. {{note|footnote_a}} Shifrat përfshijnë vetëm pjesët evropiane të vendeve transkontinentale.
+|b. {{note|footnote_b}} Përfshin popullsinë aziatike. Stambolli gjendet pjesërisht në Azi dhe pjesërisht në Evropë.
+|c. {{note|footnote_c}} "Evropa" siç përkufizohet nga Fondi Monetar Ndërkombëtar}}
+}}
+
+'''Evropa''' është një [[kontinent]]{{cref2|t}} i vendosur tërësisht në [[Hemisfera Veriore]] dhe kryesisht në [[Hemisfera Lindore]]. Kufizohet nga [[Oqeani Arktik]] në veri, [[Oqeani Atlantik]] në perëndim, [[Deti Mesdhe]] në jug, dhe [[Azia]] në lindje. Evropa e ndan trajtën tokësore të [[Euroazia|Euroazisë]] me Azinë, dhe atë të [[Afro-Euroazia|Afro-Euroazisë]] si me Afrikën ashtu edhe me Azinë.<ref>{{cite encyclopedia|url=https://www.britannica.com/place/Europe|title=Europe|encyclopedia=Encyclopædia Britannica|access-date=30 July 2022|archive-date=30 March 2019|archive-url=https://web.archive.org/web/20190330175836/https://www.britannica.com/place/Europe|url-status=live|language=en}}</ref><ref name=":1">{{Cite web |title=Europe: Human Geography {{!}} National Geographic Society |url=https://education.nationalgeographic.org/resource/europe-human-geography/ |access-date=2023-02-04 |website=education.nationalgeographic.org|language=en}}</ref> Evropa zakonisht konsiderohet e ndarë nga Azia nga ndarja ujore e [[Malet Ural|Maleve Ural]], [[Urali (lumë)|lumit Ural]], [[Deti Kaspik|Detit Kaspik]], [[Kaukazi i Madh|Kaukazit të Madh]], [[Deti i Zi|Detit të Zi]], dhe [[Ngushticat turke|Ngushticave Turke]].<ref name="NatlGeoAtlas">{{Cite book|title=National Geographic Atlas of the World|edition=7th|year=1999|location=Washington, DC|publisher=National Geographic|isbn=978-0-7922-7528-2|language=en}}</ref>
+
+Evropa mbulon afërsisht {{Convert|10.186.000|km2}}, ose 2% të [[Toka|sipërfaqes së Tokës]] (6,8% të sipërfaqes tokësore të Tokës), duke e bërë kontinentin e dytë më të vogël (sipas modelit me shtatë kontinente). Politikisht, Evropa ndahet në rreth [[Lista e shteteve sovrane dhe territoreve të varura në Evropë|pesëdhjetë shtete sovrane]], nga të cilat [[Rusia]] është më e madhja dhe më e populluara, duke përfshirë 39% të kontinentit dhe 15% të popullsisë së tij. Evropa kishte një popullsi të përgjithshme prej rreth 745 milionë (rreth 10% të [[Popullsia botërore|popullsisë botërore]]) në 2021; e treta më e madhe pas Azisë dhe Afrikës.<ref>{{Cite web|title=World Population Prospects 2022|url=https://population.un.org/wpp/|publisher=United Nations, Department of Economic and Social Affairs, Population Division|access-date=30 July 2022|language=en}}</ref> [[Klima e Evropës|Klima evropiane]] ndikohet nga rrymat e ngrohta atlantike, si [[Rryma e Gjirit]], të cilat prodhojnë një [[klimë e butë|klimë të butë]], duke i zbutur dimrat dhe verat, në pjesën më të madhe të kontinentit. Më larg nga deti, dallimet stinore janë më të dukshme, duke prodhuar [[klimë kontinentale|klima më kontinentale]].
+
+Kultura e Evropës përbëhet nga një gamë kulturash kombëtare dhe rajonale, të cilat formojnë rrënjët qendrore të [[Qytetërimi perëndimor|qytetërimit perëndimor]] më të gjerë, dhe së bashku zakonisht i referohen [[Greqia e lashtë|Greqisë së lashtë]] dhe [[Roma e lashtë|Romës së lashtë]], veçanërisht përmes pasardhësve të tyre të krishterë, si rrënjë thelbësore dhe të përbashkëta.<ref>{{harvnb|Lewis|Wigen|1997|page=226}}</ref><ref>{{cite book|first=Kim|last=Covert|title=Ancient Greece: Birthplace of Democracy|year=2011|publisher=Capstone|isbn=978-1-4296-6831-6|page=5|url=https://books.google.com/books?id=KVMYJNvUiYkC&pg=PP5|access-date=30 July 2022|archive-date=27 July 2022|archive-url=https://web.archive.org/web/20220727133725/https://books.google.com/books?id=KVMYJNvUiYkC&pg=PP5|url-status=live|language=en}}</ref> Duke filluar me [[Rënia e Perandorisë Romake të Perëndimit|rënien e Perandorisë Romake të Perëndimit]] në vitin 476 e.s, konsolidimi i krishterë i Evropës, në gjurmët e Periudhës së Migrimit, shënoi Mesjetën evropiane post-klasike. [[Rilindja italiane]] u përhap nëpër shumë vende të [[Evropa Perëndimore|Evropës Perëndimore]], duke u përshtatur me kontekstet lokale dhe duke krijuar shprehje kombëtare të veçanta. Theksimi i ripërtërirë humanist mbi [[Arti i Rilindjes|artin]] dhe [[Shkenca në Rilindje|shkencën]] ishte mes disa faktorëve që kontribuan në kalimin më të gjerë drejt epokës moderne. Që nga [[Epoka e Zbulimeve]], e udhëhequr nga [[Perandoria Spanjolle|Spanja]] dhe [[Perandoria Portugeze|Portugalia]], Evropa luajti një rol dominues në çështjet globale, me eksplorime dhe pushtime të shumta rreth botës. Mes shekujve XVI dhe XX, fuqitë evropiane kolonizuan në kohë të ndryshme Amerikat, pothuajse të gjithë Afrikën dhe Oqeaninë, dhe shumicën e Azisë.
+
+Epoka e Iluminizmit, Revolucioni Francez, dhe Luftërat Napoleonike e formësuan kontinentin kulturalisht, politikisht dhe ekonomikisht, nga fundi i shekullit XVII deri në gjysmën e parë të shekullit XIX. Revolucioni Industrial, i cili filloi në [[Mbretëria e Bashkuar e Britanisë së Madhe|Britaninë e Madhe]] në fund të shekullit XVIII, solli ndryshime radikale ekonomike, kulturore dhe sociale në Evropën Perëndimore dhe përfundimisht në botën më të gjerë. Të dyja luftërat botërore filluan dhe u zhvilluan në masë të madhe në Evropë, duke kontribuar në rënien e dominimit të Evropës Perëndimore në çështjet botërore deri në mesin e shekullit XX, ndërsa Bashkimi Sovjetik dhe Shtetet e Bashkuara morën përparësi dhe konkurruan për dominim gjeopolitik në Evropë dhe globalisht.<ref name="natgeo 534">National Geographic, 534.</ref> Lufta e Ftohtë që pasoi e ndau Evropën përgjatë Perdes së Hekurt, me NATO-n në Perëndim dhe Traktatin e Varshavës në Lindje. Kjo ndarje përfundoi me Revolucionet e vitit 1989, rënien e Murit të Berlinit, dhe shpërbërjen e Bashkimit Sovjetik, gjë që i mundësoi integrimit evropian të përparonte ndjeshëm.
+
+Integrimi evropian është përparuar institucionalisht që nga viti 1948, me themelimin e Këshillit të Evropës, dhe në mënyrë të konsiderueshme përmes realizimit të Bashkimit Evropian (BE), i cili sot përfaqëson shumicën e Evropës.<ref name="europaeu 1945-59">{{Cite web |title=History of the European Union 1945–59 |url=https://european-union.europa.eu/principles-countries-history/history-eu/1945-59_en |access-date=16 April 2022 |website=european-union.europa.eu |language=en |archive-date=23 April 2022 |archive-url=https://web.archive.org/web/20220423212328/https://european-union.europa.eu/principles-countries-history/history-eu/1945-59_en |url-status=live }}</ref> Bashkimi Evropian është një entitet politik supranacional që qëndron mes një konfederate dhe një federate, dhe bazohet në një sistem traktatesh evropiane.<ref>{{Cite web|url=http://www.ies.ee/iesp/No11/articles/03_Gabriel_Hazak.pdf|title=The European union—a federation or a confederation?|access-date=30 July 2022|archive-date=19 March 2022|archive-url=https://web.archive.org/web/20220319194121/https://www.ies.ee/iesp/No11/articles/03_Gabriel_Hazak.pdf|url-status=live|language=en}}</ref> BE-ja e ka origjinën në Evropën Perëndimore, por është zgjeruar drejt lindjes që nga shpërbërja e Bashkimit Sovjetik në 1991. Shumica e anëtarëve të saj kanë miratuar një monedhë të përbashkët, euron, dhe marrin pjesë në tregun e vetëm evropian dhe në një bashkim doganor. Një bllok i madh vendesh, Zona Shengen, ka abroguar gjithashtu kontrollet e brendshme kufitare dhe imigruese. Zgjedhjet e rregullta popullore zhvillohen çdo pesë vjet brenda BE-së; konsiderohen zgjedhjet e dyta më të mëdha demokratike në botë, pas atyre të Indisë. Ekonomia e BE-së është e dyta më e madhe në botë sipas PBB-së nominale, dhe e treta sipas PBB-së të përshtatur me PPP.
+
+{{TOC limit|3}}
+
+== Etimologjia ==
+[[Skeda:Anaximander world map (mul).svg|thumb|left|Rikonstruksion i një harte të hershme të botës, bërë nga Anaksimandri i shekullit VI p.e.s, që e ndan botën e njohur në tri trajta të mëdha tokësore, njëra prej të cilave u quajt Evropa]]
+
+Në mitologjinë klasike greke, Evropa (greqisht: {{lang|grc|Εὐρώπη}}, {{lang|grc-Latn|Eurṓpē}}) ishte një princeshë fenikase. Një pikëpamje është se emri i saj rrjedh nga elementet e greqishtes së vjetër {{lang|grc|εὐρύς}} ({{lang|grc-Latn|eurús}}) 'e gjerë', dhe {{lang|grc|ὤψ}} ({{lang|grc-Latn|ōps}}, gjin. {{lang|grc|ὠπός}}, {{lang|grc-Latn|ōpós}}) 'sy, fytyrë, pamje', prandaj forma e tyre e përbërë {{lang|grc-Latn|Eurṓpē}} do të thoshte 'me vështrim të gjerë' ose 'me pamje të gjerë'.<ref name="WestWest2007">{{cite book|author1=M. L. West|first2=Morris|last2=West|title=Indo-European Poetry and Myth|date= 2007|publisher=OUP Oxford|isbn=978-0-19-928075-9|page=185|url=https://books.google.com/books?id=ZXrJA_5LKlYC|access-date=30 July 2022|archive-date=22 January 2021|archive-url=https://web.archive.org/web/20210122123919/https://books.google.com/books?id=ZXrJA_5LKlYC|url-status=live|language=en}}</ref><ref name="FitzRoy2015">{{cite book|first=Charles|last=FitzRoy|title=The Rape of Europa: The Intriguing History of Titian's Masterpiece|date=2015|publisher=Bloomsbury Publishing|isbn=978-1-4081-9211-5|pages=52–|url=https://books.google.com/books?id=zhF0BgAAQBAJ&pg=PT52|access-date=30 July 2022|archive-date=20 March 2022|archive-url=https://web.archive.org/web/20220320035838/https://books.google.com/books?id=zhF0BgAAQBAJ&pg=PT52|url-status=live|language=en}}</ref><ref name="Astour1967">{{cite book|first=Michael C.|last=Astour|title=Hellenosemitica: An Ethnic and Cultural Study in West Semitic Impact on Mycenaean Greece|year=1967|publisher=Brill Archive|page=128|id=GGKEY:G19ZZ3TSL38|url=https://books.google.com/books?id=NMkUAAAAIAAJ&pg=PA128|access-date=30 July 2022|archive-date=20 March 2022|archive-url=https://web.archive.org/web/20220320014449/https://books.google.com/books?id=NMkUAAAAIAAJ&pg=PA128|url-status=live|language=en}}</ref><ref name=etymonline>{{cite web|url=http://www.etymonline.com/index.php?term=Europe|title=Europe – Origin and meaning of the name Europe by Online Etymology Dictionary|website=etymonline.com|access-date=30 July 2022|archive-date=17 September 2017|archive-url=https://web.archive.org/web/20170917144349/http://www.etymonline.com/index.php?term=Europe|url-status=live|language=en}}</ref> ''E gjera'' ka qenë një epitet i vetë Tokës në fenë e rindërtuar Proto-Indo-Evropiane dhe në poezinë e kushtuar asaj.<ref name="WestWest2007"/> Një pikëpamje alternative është ajo e Robert Beekes, i cili ka argumentuar në favor të një origjine para-indo-evropiane të emrit, duke shpjeguar se një derivim nga {{lang|grc-Latn|eurus}} do të jepte një toponim tjetër nga Europa. Beekes ka lokalizuar toponime të lidhura me atë të Europës në territorin e Greqisë së lashtë, dhe lokalitete si ai i Europos-it në Maqedoninë e lashtë.<ref name="Beekes">{{cite journal |last1=Beekes |first1=Robert |title=Kadmos and Europa, and the Phoenicians |journal=Kadmos |date=2004 |volume=43 |issue=1 |pages=168–69 |doi=10.1515/kadm.43.1.167 |s2cid=162196643 |url=https://www.robertbeekes.nl/wp-content/uploads/2019/08/b118.pdf |access-date=30 July 2022 |archive-date=1 November 2021 |archive-url=https://web.archive.org/web/20211101121039/https://www.robertbeekes.nl/wp-content/uploads/2019/08/b118.pdf |url-status=live |issn=0022-7498|language=en }}</ref>
+
+Ka pasur përpjekje për ta lidhur {{lang|grc-Latn|Eurṓpē}}-n me një term semitik për ''perëndim'', qoftë akadishten {{lang|akk-Latn|erebu}}, që do të thotë 'të zbresësh, të perëndosh' (thënë për diellin), ose fenikasen {{lang|phn-Latn|'ereb}} 'mbrëmje, perëndim',<ref name=etymonline/> e cila është në origjinë të arabishtes {{lang|ar-Latn|maghreb}} dhe hebraishtes {{lang|he-Latn|ma'arav}}. Martin Litchfield West deklaroi se "fonologjikisht, përputhja mes emrit të Europës dhe çdo forme të fjalës semitike është shumë e dobët",<ref>{{Cite book |author=M. L. West |title=The east face of Helicon: west Asiatic elements in Greek poetry and myth |publisher=Clarendon Press |year=1997 |isbn=978-0-19-815221-7 |location=Oxford |page=451|language=en}}.</ref> ndërsa Beekes e konsideron një lidhje me gjuhët semitike të pamundshme.<ref name="Beekes"/>
+
+Shumica e gjuhëve kryesore botërore përdorin fjalë të derivuara nga {{lang|grc-Latn|Eurṓpē}} ose ''Europa'' për t'iu referuar kontinentit. Kinezishtja, për shembull, përdor fjalën {{lang|zh-Latn|Ōuzhōu}} ({{lang|zh-Hant|歐洲}}/{{lang|zh-Hans|欧洲}}), që është shkurtim i emrit të transliteruar {{lang|zh-Latn|Ōuluóbā zhōu}} ({{lang|zh|歐羅巴洲}}) ({{lang|zh-Latn|zhōu}} do të thotë "kontinent"); një term i ngjashëm me origjinë kineze, {{nihongo||欧州|Ōshū}}, përdoret ndonjëherë edhe në japonishte, si në emrin japonez të Bashkimit Evropian, {{nihongo||欧州連合|Ōshū Rengō}}, edhe pse katakana {{nihongo||ヨーロッパ|Yōroppa}} përdoret më shpesh. Në disa gjuhë turke, emri me origjinë persiane {{lang|fa-Latn|Frangistan}} ("toka e frankëve") përdoret rastësisht për t'iu referuar pjesës më të madhe të Evropës, përveç emrave zyrtarë si {{lang|fa-Latn|Avrupa}} ose {{lang|fa-Latn|Evropa}}.<ref name="davison">{{Cite journal|author=Davidson, Roderic H. |s2cid=157454140|title=Where is the Middle East?|jstor=20029452 |journal=Foreign Affairs |volume=38|issue=4 |pages=665–675 |year=1960|doi=10.2307/20029452|language=en }}</ref>
+
+== Përkufizimi ==
+
+=== Përkufizimi bashkëkohor ===
+
+Përkufizimi mbizotërues i Evropës si term gjeografik është në përdorim që nga mesi i shekullit XIX.
+Evropa konsiderohet e kufizuar nga trupa të mëdhenj uji në veri, perëndim dhe jug; kufijtë e Evropës në lindje dhe verilindje zakonisht konsiderohen Malet Ural, lumi Ural, dhe Deti Kaspik; në juglindje, Malet e Kaukazit, Deti i Zi, dhe ujërrugët që e lidhin Detin e Zi me Detin Mesdhe.<ref name="Encarta">{{cite encyclopedia |encyclopedia=Microsoft Encarta Online Encyclopaedia 2007 |title=Europe |url=http://encarta.msn.com/encyclopedia_761570768/Europe.html |access-date=27 December 2007 |archive-url=https://web.archive.org/web/20091028013857/http://encarta.msn.com/encyclopedia_761570768/Europe.html |archive-date=28 October 2009|language=en }}</ref>
+[[Skeda:Possible definitions of the boundary between Europe and Asia.png|thumb|Përkufizime të përdorura për kufirin mes Azisë dhe Evropës në periudha të ndryshme historike. ''B'' (Urali) dhe ''F'' (Kaukazi) formojnë konceptin modern.]]
+[[Skeda:T and O map Guntherus Ziner 1472.jpg|thumb|Një hartë mesjetare T dhe O, shtypur nga Günther Zainer në 1472, që i tregon tri kontinentet si territore të bijve të Noes – Azia për Semin, Evropa për Jafetin, dhe Afrika për Kamin]]
+
+Ishujt zakonisht grupohen me trajtën tokësore kontinentale më të afërt, prandaj Islanda konsiderohet pjesë e Evropës, ndërsa ishulli i afërt i Grenlandës zakonisht i caktohet Amerikës Veriore, edhe pse politikisht i përket Danimarkës. Sidoqoftë, ka disa përjashtime bazuar në dallime sociopolitike dhe kulturore. Qipro është më afër Anadollit (ose Azisë së Vogël), por konsiderohet pjesë e Evropës politikisht<ref>{{cite web |title=Cyprus |url=https://www.cia.gov/the-world-factbook/countries/cyprus/ |work=The World Factbook |publisher=Central Intelligence Agency |access-date=2024-08-13 |language=en}}</ref> dhe është shtet anëtar i BE-së. Malta u konsiderua për shekuj ishull i Afrikës Verilindore, por tani konsiderohet gjithashtu pjesë e Evropës.<ref>Falconer, William; Falconer, Thomas. ''Dissertation on St. Paul's Voyage'', BiblioLife (BiblioBazaar), 1872. (1817.), p. 50, {{ISBN|1-113-68809-2}}</ref> "Evropa", siç përdoret veçanërisht në anglishten britanike, mund t'i referohet gjithashtu vetëm Evropës Kontinentale.<ref>{{cite web|url=http://wordnetweb.princeton.edu/perl/webwn?s=europe|title=Europe&nbsp;– Noun|publisher=Princeton University|access-date=9 June 2008|archive-date=15 July 2014|archive-url=https://web.archive.org/web/20140715121246/http://wordnetweb.princeton.edu/perl/webwn?s=europe|url-status=live|language=en}}</ref>
+
+Termi "kontinent" zakonisht nënkupton gjeografinë fizike të një trajte të madhe tokësore, plotësisht ose pothuajse plotësisht të rrethuar nga uji në kufijtë e saj. Para miratimit të konventës aktuale që përfshin ndarjet malore, kufiri mes Evropës dhe Azisë ishte rikonceptuar disa herë që nga konceptimi i tij i parë në antikitetin klasik, por gjithmonë si një seri lumenjsh, detesh dhe ngushticash, që besohej se shtriheshin një distancë të panjohur në lindje dhe veri nga Deti Mesdhe, pa përfshirjen e ndonjë vargu malor. Kartografi Herman Moll sugjeroi në 1715 se Evropa kufizohej nga një seri ujërrugësh pjesërisht të bashkuara, të drejtuara drejt Ngushticave Turke, dhe lumit Irtish që derdhej në pjesën e sipërme të lumit Ob dhe në Oqeanin Arktik. Në kontrast, kufiri lindor aktual i Evropës i përmbahet pjesërisht Maleve Ural dhe Kaukaz, gjë që është deri diku arbitrare dhe jokonsistente krahasuar me çdo përkufizim të qartë të termit "kontinent".
+
+Ndarja aktuale e Euroazisë në dy kontinente tani pasqyron dallimet kulturore, gjuhësore dhe etnike Lindje-Perëndim, të cilat ndryshojnë përgjatë një spektri, jo me një vijë të mprehtë ndarëse. Kufiri gjeografik mes Evropës dhe Azisë nuk ndjek asnjë kufi shtetëror dhe tani ndjek vetëm disa trupa uji. Turqia konsiderohet përgjithësisht një vend transkontinental, i ndarë tërësisht nga uji, ndërsa Rusia dhe Kazakistani ndahen vetëm pjesërisht nga ujërrugët. Franca, Holanda, Portugalia dhe Spanja janë gjithashtu transkontinentale (ose më saktë, ndërkontinentale, kur përfshihen oqeane apo dete të mëdha), pasi zonat e tyre kryesore tokësore ndodhen në Evropë, ndërsa xhepa të territoreve të tyre gjenden në kontinente të tjera, të ndara nga Evropa nga trupa të mëdhenj uji. Spanja, për shembull, ka territore (Ceuta dhe Melila) në jug të Detit Mesdhe, që janë pjesë të Afrikës dhe kufizohen me Marokun. Sipas konventës aktuale, Gjeorgjia dhe Azerbajxhani janë vende transkontinentale ku ujërrugët janë zëvendësuar plotësisht nga malet si ndarës mes kontinenteve.
+
+=== Historia e konceptit ===
+
+==== Historia e hershme ====
+[[Skeda:Europa Prima Pars Terrae in Forma Virginis.jpg|thumb|270x270px|Përshkrim i ''Europa regina''-s ('Evropa Mbretëreshë') në 1582]]
+
+Përdorimi i parë i regjistruar i ''Eurṓpē''-s si term gjeografik gjendet në Himnin Homerik për Apolonin e Delosit, në referencë ndaj bregut perëndimor të Detit Egje. Si emër për një pjesë të botës së njohur, përdoret për herë të parë në shekullin VI p.e.s nga Anaksimandri dhe Hekateu. Anaksimandri e vendosi kufirin mes Azisë dhe Evropës përgjatë lumit Fasis (lumi modern Rioni, në territorin e Gjeorgjisë) në Kaukaz, konventë e ndjekur ende nga Herodoti në shekullin V p.e.s.<ref>''Histori'' 4.38.</ref> Herodoti përmendi se bota ishte ndarë nga persona të panjohur në tri pjesë—Evropë, Azi dhe Libi (Afrikë)—me Nilin dhe Fasisin si kufij të tyre—edhe pse thotë gjithashtu se disa konsideronin lumin Don, dhe jo Fasisin, si kufi mes Evropës dhe Azisë.<ref>Herodoti, 4:45</ref> Kufiri lindor i Evropës u përcaktua në shekullin I nga gjeografi Straboni te lumi Don.<ref>Straboni, ''Gjeografia'' 11.1</ref> Libri i Jubilenjve i përshkroi kontinentet si tokat e dhëna nga Noeu bijve të tij; Evropa u përkufizua si shtrirje nga Shtyllat e Herkulit te Ngushtica e Gjibraltarit, që e ndante nga Afrika Verilindore, deri te Doni, që e ndante nga Azia.<ref>{{Cite book|title=Genesis and the Jewish antiquities of Flavius Josephus|first= Thomas W.|last= Franxman|publisher=Pontificium Institutum Biblicum|year= 1979|isbn=978-88-7653-335-8|pages=101–102|language=en}}</ref>
+
+Konventa e trashëguar nga Mesjeta dhe që ka mbijetuar në përdorimin modern është ajo e epokës romake, e përdorur nga autorë të kësaj epoke si Posidoni,<ref>W. Theiler, ''Posidonios. Die Fragmente'', vëll. 1. Berlin: De Gruyter, 1982, fragm. 47a.</ref> Straboni,<ref>I. G. Kidd (ed.), ''Posidonius: The commentary'', Cambridge University Press, 2004, {{ISBN|978-0-521-60443-7}}, p. 738.</ref> dhe Ptolemeu,<ref>''Geographia'' 7.5.6 (ed. Nobbe 1845, vëll. 2, f. 178)</ref> të cilët e morën Tanaisin (lumi modern Don) si kufi.
+
+Perandoria Romake nuk i shtoi identitet të fortë konceptit të ndarjeve kontinentale. Sidoqoftë, pas rënies së Perandorisë Romake të Perëndimit, kultura që u zhvillua në vend të saj, e lidhur me latinishten dhe kishën katolike, filloi ta shoqëronte veten me konceptin e "Evropës".<ref name="Pocock2002">{{cite book |author1=J. G. A. Pocock |editor1-last=Pagden |editor1-first=Anthony |title=The Idea of Europe From Antiquity to the European Union |date=2002 |publisher=Cambridge University Press |isbn=978-0-511-49681-3 |chapter=Some Europes in Their History |doi=10.1017/CBO9780511496813.003 |pages=57–61 |url=https://www.cambridge.org/core/books/abs/idea-of-europe/some-europes-in-their-history/261CF37C1E49E93280878F816D4483F1 |access-date=30 July 2022 |archive-date=23 March 2022 |archive-url=https://web.archive.org/web/20220323132907/https://www.cambridge.org/core/books/abs/idea-of-europe/some-europes-in-their-history/261CF37C1E49E93280878F816D4483F1 |url-status=live|language=en }}</ref> Termi "Evropë" përdoret për herë të parë për një sferë kulturore në Rilindjen Karolinge të shekullit IX. Që nga ajo kohë, termi shënonte sferën e ndikimit të Kishës Perëndimore, në kundërvënie si me kishat lindore ortodokse ashtu edhe me botën islame.
+
+Një përkufizim kulturor i Evropës si tokat e Krishterimit Latin u formua në shekullin VIII, duke shënjuar kondominiumin e ri kulturor të krijuar nga bashkimi i traditave gjermanike dhe kulturës kristiano-latine, i përkufizuar pjesërisht në kontrast me Bizantin dhe Islamin, dhe i kufizuar në Iberinë veriore, Ishujt Britanikë, Francën, Gjermaninë perëndimore të krishterizuar, rajonet alpine, dhe Italinë veriore e qendrore.<ref>Norman F. Cantor, ''The Civilization of the Middle Ages'', 1993, "Culture and Society in the First Europe", f. 185 e në vazhdim.</ref><ref>{{Cite book|last1=Dawson|first1=Christopher|title=Crisis in Western Education |year=2010 |orig-date=1961 |isbn=978-0-8132-1683-6|edition=reprint|first2=Glenn|last2=Olsen|page=108|publisher=CUA Press|language=en }}</ref> Ky koncept është një nga trashëgimitë e qëndrueshme të Rilindjes Karolinge: ''Europa'' shpesh shfaqet në letrat e studiuesit të oborrit të Karlit të Madh, Alkuinit.<ref>Vërejtur nga Cantor, 1993:181.</ref> Kalimi i Evropës drejt të qenit term kulturor, përveçse gjeografik, çoi në atë që kufijtë e Evropës u ndikuan nga konsiderata kulturore në Lindje, veçanërisht në lidhje me zonat nën ndikim bizantin, osman dhe rus. Pyetje të tilla u ndikuan nga konotacionet pozitive që i shoqëronin përdoruesit e saj me termin Evropë. Konsiderata të tilla kulturore nuk u zbatuan për Amerikat, pavarësisht pushtimit dhe kolonizimit të tyre nga shtetet evropiane. Në vend të kësaj, koncepti i "qytetërimit perëndimor" u shfaq si mënyrë për t'i grupuar së bashku Evropën dhe këto koloni.<ref>{{cite web |url=https://www.unaoc.org/repository/9334Western%20Historiography%20and%20Problem%20of%20Western%20History%20-%20JGA%20Pocock.doc.pdf |title=Western historiography and the problem of "Western" history |author=J. G. A. Pocock |publisher=United Nations |pages=5–6 |access-date=30 July 2022 |archive-date=13 June 2022 |archive-url=https://web.archive.org/web/20220613222622/https://www.unaoc.org/repository/9334Western%20Historiography%20and%20Problem%20of%20Western%20History%20-%20JGA%20Pocock.doc.pdf |url-status=live|language=en }}</ref>
+
+==== Përkufizimet moderne ====
+[[Skeda:Herman Moll A New Map of Europe According to the Newest Observations 1721.JPG|thumb|270px|''A New Map of Europe According to the Newest Observations'' (1721), nga Hermann Moll, e vizaton kufirin lindor të Evropës përgjatë lumit Don që rrjedh drejt juglindjes, dhe lumenjve Tobol, Irtish dhe Ob që rrjedhin drejt veriut.]]
+[[Skeda:1916 political map of Europe.jpg|thumb|270px|right|Hartë politike e Evropës e vitit 1916, që tregon shumicën e ujërrugëve të Moll-it të zëvendësuara nga Malet Ural të von Strahlenberg-ut dhe kreshta e Kaukazit e Freshfield-it, tipare tokësore që zakonisht përkufizojnë një nënkontinent]]
+
+Çështja e përcaktimit të një kufiri të saktë lindor të Evropës shtrohet në periudhën e hershme moderne, ndërsa shtrirja lindore e Moskovisë filloi të përfshinte Azinë Veriore. Gjatë Mesjetës e deri në shekullin XVIII, ndarja tradicionale e trajtës tokësore të Euroazisë në dy kontinente, Evropë dhe Azi, ndiqte Ptolemeun, me kufirin që ndiqte Ngushticat Turke, Detin e Zi, Ngushticën e Kerçit, Detin e Azovit dhe lumin Don (Tanaisi i lashtë). Por hartat e prodhuara gjatë shekujve XVI–XVIII priren të ndryshojnë se si ta vazhdojnë kufirin përtej lakores së Donit te Kalaç-na-Donu (ku është më afër Vollgës, tani e bashkuar me të nga Kanali Vollga–Don), në territor të papërshkruar në detaje nga gjeografët e lashtë.
+
+Rreth vitit 1715, Herman Moll prodhoi një hartë që tregonte pjesën veriore të lumit Ob dhe lumit Irtish, degë kryesore e Obit, si përbërës të një serie ujërrugësh pjesërisht të bashkuara, që e çonin kufirin mes Evropës dhe Azisë nga Ngushticat Turke dhe lumi Don deri në Oqeanin Arktik. Në 1721, ai prodhoi një hartë më të përditësuar dhe më të lehtë për t'u lexuar. Sidoqoftë, propozimi i tij për t'iu përmbajtur lumenjve kryesorë si vijë ndarëse nuk u mor kurrë nga gjeografë të tjerë, të cilët po largoheshin nga ideja e kufijve ujorë si ndarësit e vetëm legjitimë mes Evropës dhe Azisë.
+
+Katër vjet më vonë, në 1725, Philip Johan von Strahlenberg ishte i pari që u largua nga kufiri klasik i Donit. Ai vizatoi një vijë të re përgjatë Vollgës, duke e ndjekur atë drejt veriut deri te Përkulja e Samarës, përgjatë Obshçi Sirt-it (ndarja ujore mes Vollgës dhe lumit Ural), pastaj drejt veriut dhe lindjes përgjatë kësaj ujërruge të fundit deri te burimi i saj në Malet Ural. Në këtë pikë, ai propozoi që vargmalet të mund të përfshiheshin si kufij mes kontinenteve, si alternativë ndaj ujërrugëve të afërta. Rrjedhimisht, ai e vizatoi kufirin e ri drejt veriut përgjatë Maleve Ural, dhe jo përgjatë lumenjve paralelë Ob dhe Irtish.<ref>{{Cite book|title=Das Nord-und Ostliche Theil von Europa und Asia|author=Philipp Johann von Strahlenberg|year=1730|language=de|page=106}}</ref> Kjo u mbështet nga Perandoria Ruse dhe futi konventën që përfundimisht do të pranohej gjerësisht. Sidoqoftë, kjo nuk erdhi pa kritika. Volteri, duke shkruar në 1760 rreth përpjekjeve të Pjetrit të Madh për ta bërë Rusinë më evropiane, e injoroi tërësisht çështjen e kufirit, me pretendimin se as Rusia, as Skandinavia, as Gjermania veriore, as Polonia nuk ishin plotësisht pjesë e Evropës.<ref name="Pocock2002"/> Që atëherë, shumë gjeografë analitikë modernë, si Halford Mackinder, kanë deklaruar se shohin pak vlefshmëri në Malet Ural si kufi mes kontinenteve.<ref>{{Cite book|title=Europe: A History|page=8|url=https://books.google.com/books?id=jrVW9W9eiYMC&pg=PA8|access-date=23 August 2010|isbn=978-0-19-820171-7|date=1996|last1=Davies|first1=Norman|publisher=Oxford University Press |archive-date=1 August 2020|archive-url=https://web.archive.org/web/20200801123242/https://books.google.com/books?id=jrVW9W9eiYMC&pg=PA8|url-status=live|language=en}}</ref>
+
+Kartografët vazhduan të ndryshonin mbi kufirin mes Donit të poshtëm dhe Samarës deri thellë në shekullin XIX. Atlasi i vitit 1745, i botuar nga Akademia Ruse e Shkencave, e ka kufirin që ndjek Donin përtej Kalaçit deri në Serafimoviç, para se të kthehet drejt veriut nga Arhangelski, ndërsa kartografë të tjerë të shekujve XVIII–XIX, si John Cary, e ndoqën recetën e Strahlenberg-ut. Në jug, Depresioni Kuma–Manyç u identifikua rreth vitit 1773 nga natyralisti gjerman Peter Simon Pallas, si luginë që dikur lidhte Detin e Zi me Detin Kaspik,<ref name="oren-icn.ru">{{cite web|url=http://oren-icn.ru/index.php/discussmenu/retrospectiva/685-eagraniza |title=Boundary of Europe and Asia along Urals |language=ru |archive-url=https://web.archive.org/web/20120108153922/http://oren-icn.ru/index.php/discussmenu/retrospectiva/685-eagraniza |archive-date=8 January 2012 }}</ref><ref>Peter Simon Pallas, ''Journey through various provinces of the Russian Empire'', vëll. 3 (1773)</ref> dhe më pas u propozua si kufi natyror mes kontinenteve.
+
+Deri në mesin e shekullit XIX, kishte tri konventa kryesore: njëra ndiqte Donin, Kanalin Vollga–Don dhe Vollgën; tjetra ndiqte Depresionin Kuma–Manyç deri te Kaspiku, pastaj lumin Ural; dhe e treta e braktiste Donin krejtësisht, duke ndjekur ndarjen ujore të Kaukazit të Madh deri te Kaspiku. Çështja ende trajtohej si "polemikë" në literaturën gjeografike të viteve 1860, me Douglas Freshfield-in që mbronte kufirin e kreshtës së Kaukazit si "më të mirin e mundshëm", duke cituar përkrahje nga "gjeografë modernë" të ndryshëm.<ref>Douglas W. Freshfield: "Journey in the Caucasus". ''Proceedings of the Royal Geographical Society'', vëll. 13–14, 1869.</ref>
+
+Në Rusi dhe Bashkimin Sovjetik, kufiri përgjatë Depresionit Kuma–Manyç ishte më i përdoruri, që në 1906.<ref>"Europe", ''Brockhaus and Efron Encyclopedic Dictionary'', 1906</ref> Në 1958, Shoqëria Gjeografike Sovjetike rekomandoi zyrtarisht që kufiri mes Evropës dhe Azisë të vizatohej në tekstet shkollore nga Gjiri Bajdaratski, në Detin Kara, përgjatë këmbës lindore të Maleve Ural, pastaj duke ndjekur lumin Ural deri te Kodrat Mugoxharske, dhe pastaj lumin Emba; dhe Depresionin Kuma–Manyç,<ref>{{cite web|url=http://velikijporog.narod.ru/st_evraz_gran.htm|title=Do we live in Europe or in Asia?|language=ru|access-date=30 July 2022|archive-date=18 February 2018|archive-url=https://web.archive.org/web/20180218073322/http://velikijporog.narod.ru/st_evraz_gran.htm|url-status=live}}</ref> duke e vendosur kështu Kaukazin tërësisht në Azi dhe Uralin tërësisht në Evropë.<ref>{{cite web|url=http://www.i-u.ru/biblio/archive/orlenok_fisicheskaja/06.aspx |title=Physical Geography |year=1998 |author=Orlenok V. |language=ru |archive-url=https://web.archive.org/web/20111016212930/http://www.i-u.ru/biblio/archive/orlenok_fisicheskaja/06.aspx |archive-date=16 October 2011 }}</ref> ''Flora Europaea'' miratoi një kufi përgjatë lumenjve Terek dhe Kuban, pra në jug të Kumës dhe Manyçit, por gjithsesi me Kaukazin tërësisht në Azi.<ref>{{Cite book |last1=Tutin |first1=T.G. |last2=Heywood |first2=V.H. |last3=Burges |first3=N.A. |last4=Valentine |first4=D.H. |last5=Walters |first5=S.M. |last6=Webb |first6=D.A. |year=1990 |orig-date=1964 |title=Flora Europaea, Volume 1: Lycopodiaceae to Platanaceae |location=Cambridge |publisher=Cambridge University Press |isbn=978-0-521-06661-7|language=en}}</ref><ref>{{Cite book |last=Tutin |first=Thomas Gaskell |date=1993 |title=Flora Europaea, Volume 1: Psilotaceae to Platanaceae |edition=2nd |location=Cambridge, New York, Melbourne [etj.] |publisher=Cambridge University Press |isbn=978-0-521-41007-6|language=en}}</ref> Sidoqoftë, shumica e gjeografëve në Bashkimin Sovjetik favorizuan kufirin përgjatë kreshtës së Kaukazit,<ref>E. M. Moores, R. W. Fairbridge, 1997 ''Encyclopedia of European and Asian Regional Geology'', Springer, {{ISBN|978-0-412-74040-4}}, f. 34.</ref> dhe kjo u bë konventa e zakonshme në pjesën e dytë të shekullit XX, edhe pse kufiri i Kuma–Manyçit mbeti në përdorim në disa harta të shekullit XX.
+
+Martin W. Lewis dhe Kären Wigen argumentojnë se ndarja e Euroazisë në Azi dhe Evropë me përmasa jashtëzakonisht të pabarabarta krijon një përshtypje të rreme paraleliteti mes vendeve evropiane dhe aziatike, si mbetje e eurocentrizmit: "Në larmi fizike, kulturore dhe historike, Kina dhe India janë të krahasueshme me të gjithë trajtën tokësore evropiane, jo me një vend të vetëm evropian."{{sfnp|Lewis|Wigen|1997|p=9,10}}
+== Historia ==
+{{Kryesor|Historia e Evropës}}
+
+=== Parahistoria ===
+{{Hatnote|Artikulli kryesor: {{ill|Evropa parahistorike|en|Prehistoric Europe}}}}
+[[Skeda:Europe20000ya.png|thumb|Vendstrehimet e Maksimumit të Fundit Akullnajor, rreth 20.000 vjet më parë<br />
+{{legend|#c54b00|kultura solutrease}}
+{{legend|#ca00b0|kultura epigravetiane<ref name="Nature-2023"/>}}
+]]
+[[Skeda:Lascaux painting.jpg|thumb|Piktura shpellash paleolitike nga Lasko, në Francë (rreth 15.000 p.e.s)]]
+[[Skeda:Stonehenge, Condado de Wiltshire, Inglaterra, 2014-08-12, DD 09.JPG|thumb|Stounhenxhi, në Mbretërinë e Bashkuar (Neolit i vonë, 3000–2000 p.e.s)]]
+
+Gjatë 2,5 milionë viteve të Pleistocenit, faza të shumta të ftohta, të quajtura akullnajore (epoka akullnajore kuaternare), ose përparime të konsiderueshme të shtresave akullnajore kontinentale, në Evropë dhe Amerikën Veriore, ndodhën në intervale prej afërsisht 40.000 deri 100.000 vjet. Periudhat e gjata akullnajore ndaheshin nga ndëraakullnajore më të buta dhe më të shkurtra, që zgjatnin rreth 10.000–15.000 vjet. Episodi i fundit i ftohtë i periudhës së fundit akullnajore përfundoi rreth 10.000 vjet më parë.<ref>{{cite magazine|url=https://www.nationalgeographic.com/science/prehistoric-world/quaternary|title=Quaternary Period|magazine=National Geographic|date=6 January 2017|access-date=30 July 2022|archive-date=29 November 2020|archive-url=https://web.archive.org/web/20201129042714/https://www.nationalgeographic.com/science/prehistoric-world/quaternary/|language=en}}</ref> Toka aktualisht ndodhet në një periudhë ndëraakullnajore të Kuaternarit, të quajtur Holocen.<ref>{{cite news |title=How long can we expect the present Interglacial period to last? |url=https://www.usgs.gov/faqs/how-long-can-we-expect-present-interglacial-period-last |work=U.S. Department of the Interior |access-date=30 July 2022 |archive-date=26 July 2022 |archive-url=https://web.archive.org/web/20220726044340/http://www.usgs.gov/faqs/how-long-can-we-expect-present-interglacial-period-last |url-status=live|language=en }}</ref>
+
+''Homo erectus georgicus'', që jetoi rreth 1,8 milionë vjet më parë në Gjeorgji, është homini i parë i zbuluar në Evropë.<ref>{{Cite journal|author1=A. Vekua |author2=D. Lordkipanidze |author3=G.P. Rightmire |author4=J. Agusti |author5=R. Ferring |author6=G. Maisuradze |s2cid=32726786 | year = 2002 | title = A new skull of early ''Homo'' from Dmanisi, Georgia | journal = Science | volume = 297 | pages = 85–89 | doi = 10.1126/science.1072953 | pmid = 12098694 | issue = 5578 |display-authors=etal|bibcode=2002Sci...297...85V|language=en }}</ref> Mbetje të tjera hominine, që datojnë rreth 1 milion vjet më parë, janë zbuluar në Atapuerka, Spanjë.<ref>The million year old tooth from Atapuerca, Spain, found in June 2007.</ref> Njeriu i Neandertalit (i emërtuar sipas luginës Neandertal në Gjermani) u shfaq në Evropë 150.000 vjet më parë (100.115 vjet më parë gjendet tashmë në territorin e Polonisë së sotme<ref>{{Cite web|url=https://www.cnn.com/2018/10/10/health/neanderthal-child-eaten-by-giant-bird/index.html|title=Bones reveal Neanderthal child was eaten by a giant bird|first=Ashley|last=Strickland|website=CNN|date=10 October 2018|access-date=30 July 2022|archive-date=7 July 2022|archive-url=https://web.archive.org/web/20220707235740/https://www.cnn.com/2018/10/10/health/neanderthal-child-eaten-by-giant-bird/index.html|url-status=live|language=en}}</ref>) dhe u zhduk nga regjistrimi fosil rreth 40.000 vjet më parë,<ref>{{cite news |title=Neanderthals Died Out 10,000 Years Earlier Than Thought, With Help From Modern Humans |url=https://www.nationalgeographic.com/culture/article/140820-neanderthal-dating-bones-archaeology-science |archive-url=https://web.archive.org/web/20210218071546/https://www.nationalgeographic.com/culture/article/140820-neanderthal-dating-bones-archaeology-science |archive-date=18 February 2021 |work=National Geographic |date=21 August 2014|language=en}}</ref> me strehimin e tij të fundit në Gadishullin Iberik. Neandertalët u zëvendësuan nga njerëzit modernë (kro-manjonët), të cilët duket se u shfaqën në Evropë rreth 43.000–40.000 vjet më parë.<ref name="natgeo 21">National Geographic, 21.</ref> Sidoqoftë, ka gjithashtu prova se ''Homo sapiens'' arriti në Evropë rreth 54.000 vjet më parë, rreth 10.000 vjet më herët sesa mendohej më parë.<ref>{{cite journal | doi=10.1038/d41586-022-01593-3 | title=My work digging up the shelters of our ancestors | year=2022 | last1=Fleming | first1=Nic | journal=Nature | volume=606 | issue=7916 | page=1035 | pmid=35676354 | bibcode=2022Natur.606.1035F | s2cid=249520231 | doi-access=free|language=en }}</ref> Vendbanimet më të hershme në Evropë, të datuara 48.000 vjet më parë, janë Riparo Mochi (Itali), Geissenklösterle (Gjermani) dhe Isturitz (Francë).<ref name=range>{{cite journal |last1=Fu |first1=Qiaomei |display-authors=etal|title=The genome sequence of a 45,000-year-old modern human from western Siberia |journal=Nature |volume=514 |issue=7523 |pages=445–449 |date=23 October 2014 |doi=10.1038/nature13810|pmid=25341783 |pmc=4753769 |bibcode=2014Natur.514..445F |hdl=10550/42071|language=en }}</ref>
+
+Periudha Neolitike evropiane—e shënuar nga kultivimi i të lashtave dhe rritja e bagëtive, rritja e numrit të vendbanimeve dhe përdorimi i gjerë i qeramikës—filloi rreth vitit 7000 p.e.s në Greqi dhe Ballkan, ndoshta e ndikuar nga praktikat më të hershme bujqësore në Anadoll dhe Lindjen e Afërt.<ref name="Borza">{{Citation | last = Borza | first = E.N. | title = In the Shadow of Olympus: The Emergence of Macedon | page = 58 | publisher = Princeton University Press | year = 1992 | isbn = 978-0-691-00880-6 | url = https://books.google.com/books?id=614pd07OtfQC&pg=PA58 | access-date = 30 July 2022 | archive-date = 1 August 2020 | archive-url = https://web.archive.org/web/20200801114047/https://books.google.com/books?id=614pd07OtfQC&pg=PA58 | url-status = live|language=en }}</ref> U përhap nga Ballkani përgjatë luginave të Danubit dhe Rinit (kultura e qeramikës vijore), dhe përgjatë bregdetit të Mesdheut (kultura kardiale). Mes viteve 4500 dhe 3000 p.e.s, këto kultura neolitike të Evropës Qendrore u zhvilluan më tej drejt perëndimit dhe veriut, duke transmetuar aftësi të sapofituara në prodhimin e artefakteve prej bakri. Në Evropën Perëndimore, periudha Neolitike u karakterizua jo nga vendbanime të mëdha bujqësore, por nga monumente fushore, si rrethime hendekore, tuma varrimi, dhe varre megalitike.<ref>{{Cite book|first=Chris|last=Scarre|author-link=Chris Scarre|title=The Oxford Companion to Archaeology|editor-first=Brian M.|editor-last= Fagan|publisher= Oxford University Press|year=1996|pages=215–216|isbn=978-0-19-507618-9|language=en}}</ref> Horizonti kulturor i Qeramikës së Kordonuar lulëzoi në kalimin nga Neoliti në Kalkolit. Gjatë kësaj periudhe u ndërtuan monumente të mëdha megalitike, si Tempujt Megalitikë të Maltës dhe Stounhenxhi, nëpër Evropën Perëndimore dhe Jugore.<ref>Atkinson, R.J.C., ''Stonehenge'' (Penguin Books, 1956)</ref><ref>{{cite encyclopedia|encyclopedia=Encyclopedia of Prehistory|title=European Megalithic|volume=4|editor1-first=Peter Neal|editor1-last=Peregrine|editor2-first=Melvin|editor2-last=Ember|publisher=Springer|year=2001|isbn=978-0-306-46258-0|pages=157–184|language=en}}</ref>
+
+Popullsitë e sotme vendase të Evropës rrjedhin kryesisht nga tri vija të dallueshme:<ref name="Indo-European"/> gjuetarë-mbledhës mezolitikë, pasardhës të popullsive të lidhura me kulturën paleolitike epigravetiane;<ref name="Nature-2023">{{cite journal |last1=Posth|last2= Yu|last3=Ghalichi|title=Palaeogenomics of Upper Palaeolithic to Neolithic European hunter-gatherers |journal=Nature |date=2023 |volume=615 |issue=2 March 2023 |pages=117–126 |doi=10.1038/s41586-023-05726-0 |pmid=36859578 |pmc=9977688 |bibcode=2023Natur.615..117P|language=en }}</ref> fermerë të hershëm neolitikë evropianë, që migruan nga Anadolli gjatë Revolucionit Neolitik, 9.000 vjet më parë;<ref>{{cite news |title=When the First Farmers Arrived in Europe, Inequality Evolved |url=https://www.scientificamerican.com/article/when-the-first-farmers-arrived-in-europe-inequality-evolved/ |work=Scientific American |date=1 July 2020 |archive-date=25 May 2022 |access-date=16 September 2022 |archive-url=https://web.archive.org/web/20220525055649/https://www.scientificamerican.com/article/when-the-first-farmers-arrived-in-europe-inequality-evolved/ |url-status=live|language=en }}</ref> dhe blegtorë stepe jamnaja, që u zgjeruan në Evropë nga stepa Ponto-Kaspike e Ukrainës dhe Rusisë jugore, në kontekstin e migrimeve indo-evropiane, 5.000 vjet më parë.<ref name="Indo-European">{{Cite journal|last1=Haak |first1=Wolfgang |last2=Lazaridis |first2=Iosif |last3=Patterson |first3=Nick |last4=Rohland |first4=Nadin |last5=Mallick |first5=Swapan |last6=Llamas |first6=Bastien |last7=Brandt |first7=Guido |last8=Nordenfelt |first8=Susanne |last9=Harney |first9=Eadaoin |last10=Stewardson |first10=Kristin |last11=Fu |first11=Qiaomei |date=11 June 2015 |title=Massive migration from the steppe was a source for Indo-European languages in Europe |journal=Nature |volume=522 |issue=7555 |pages=207–211 |doi=10.1038/nature14317 |issn=0028-0836 |pmc=5048219 |pmid=25731166 |bibcode=2015Natur.522..207H |arxiv=1502.02783|language=en}}</ref><ref>{{cite journal |last1=Gibbons |first1=Ann |title=Thousands of horsemen may have swept into Bronze Age Europe, transforming the local population |journal=Science |date=21 February 2017 |url=https://www.science.org/content/article/thousands-horsemen-may-have-swept-bronze-age-europe-transforming-local-population |access-date=6 October 2022 |archive-date=25 September 2022 |archive-url=https://web.archive.org/web/20220925154535/https://www.science.org/content/article/thousands-horsemen-may-have-swept-bronze-age-europe-transforming-local-population |url-status=live|language=en }}</ref> Epoka e Bronzit evropiane filloi rreth vitit 3200 p.e.s në Greqi, me qytetërimin minoas në Kretë, qytetërimi i parë i avancuar në Evropë.<ref>{{cite web|url=https://www.britishmuseum.org/explore/cultures/europe/ancient_greece.aspx |publisher=British Museum |title=Ancient Greece |archive-url=https://web.archive.org/web/20120615141437/http://www.britishmuseum.org/explore/cultures/europe/ancient_greece.aspx |archive-date=15 June 2012|language=en }}</ref> Minoasit u pasuan nga mikenasit, që u shembën papritur rreth vitit 1200 p.e.s, duke nisur Epokën e Hekurit evropiane.<ref>{{cite web|url=http://www.arch.ox.ac.uk/classical-archaeology-periods.html|title=Periods – School of Archaeology|publisher=University of Oxford|access-date=25 December 2018|archive-url=https://web.archive.org/web/20181119063421/http://www.arch.ox.ac.uk/classical-archaeology-periods.html|archive-date=19 November 2018|language=en}}</ref> Kolonizimi i Epokës së Hekurit nga grekët dhe fenikasit dha lindje qyteteve të hershme mesdhetare. Epoka e hershme e Hekurit në Itali dhe Greqi, që nga rreth shekulli VIII p.e.s, dha gradualisht lindje antikitetit klasik historik, fillimi i të cilit ndonjëherë datohet në 776 p.e.s, viti i Lojërave të para Olimpike.<ref>{{Citation | first = John R. | last = Short | title = An Introduction to Urban Geography | page = 10 | publisher = Routledge | year = 1987 | isbn = 978-0-7102-0372-4 | url = https://books.google.com/books?id=uGE9AAAAIAAJ&pg=PA10 | access-date = 30 July 2022 | archive-date = 20 March 2022 | archive-url = https://web.archive.org/web/20220320034104/https://books.google.com/books?id=uGE9AAAAIAAJ&pg=PA10 | url-status = live|language=en }}</ref>
+
+=== Antikiteti klasik ===
+{{Kryesor|Antikiteti klasik}}
+[[Skeda:The Parthenon in Athens.jpg|thumb|Partenoni në Athinë (432 p.e.s)]]
+
+Greqia e lashtë ishte kultura themeluese e qytetërimit perëndimor. Demokracia dhe kultura racionaliste perëndimore i atribuohen shpesh Greqisë së Lashtë.<ref name="Daly2013">{{cite book|first=Jonathan|last=Daly|title=The Rise of Western Power: A Comparative History of Western Civilization|year=2013|publisher=A&C Black|isbn=978-1-4411-1851-6|pages=7–9|url=https://books.google.com/books?id=9aZPAQAAQBAJ|access-date=30 July 2022|archive-date=28 April 2022|archive-url=https://web.archive.org/web/20220428191428/https://books.google.com/books?id=9aZPAQAAQBAJ|url-status=live|language=en}}</ref> Qytet-shteti grek, ''polis''-i, ishte njësia themelore politike e Greqisë klasike.<ref name="Daly2013"/> Në 508 p.e.s, Klisteni krijoi sistemin e parë demokratik të qeverisjes në botë, në Athinë.<ref name="BKDunn1992">{{Citation | first = John | last = Dunn | title = Democracy: the unfinished journey 508 BCE – 1993 CE | publisher = Oxford University Press | year = 1994 | isbn = 978-0-19-827934-1|language=en}}</ref> Idealet politike greke u rizbuluan në fund të shekullit XVIII nga filozofë dhe idealistë evropianë. Greqia gjithashtu gjeneroi shumë kontribute kulturore: në filozofi, humanizëm dhe racionalizëm me Aristotelin, Sokratin dhe Platonin; në historiografi me Herodotin dhe Tukididin; në vargje dramatike dhe narrative, duke filluar me poemat epike të Homerit;<ref name="natgeo 76">National Geographic, 76.</ref> në dramë me Sofokliun dhe Euripidin; në mjekësi me Hipokratin dhe Galenin; dhe në shkencë me Pitagorën, Euklidin dhe Arkimedin.<ref name="Heath">{{Cite book| first=Thomas Little | last=Heath| title=A History of Greek Mathematics, Volume I| publisher=Dover Publications| year=1981| isbn=978-0-486-24073-2|language=en}}</ref><ref name="Heath_Vol_2">{{Cite book| first=Thomas Little| last=Heath| title=A History of Greek Mathematics, Volume II| publisher=Dover publications| year=1981| isbn=978-0-486-24074-9|language=en}}</ref><ref>Pedersen, Olaf. ''Early Physics and Astronomy: A Historical Introduction''. 2nd edition. Cambridge: Cambridge University Press, 1993.</ref> Gjatë shekullit V p.e.s, disa nga qytet-shtetet greke përfundimisht ndalën përparimin persian akemenid në Evropë, përmes Luftërave Greko-Persiane, të konsideruara moment vendimtar në historinë botërore,<ref name="Strauss2005">{{cite book|first=Barry|last=Strauss|title=The Battle of Salamis: The Naval Encounter That Saved Greece – and Western Civilization|year=2005|publisher=Simon and Schuster|isbn=978-0-7432-7453-1|pages=1–11|url=https://books.google.com/books?id=nQFtMcD5dOsC|access-date=30 July 2022|archive-date=23 June 2022|archive-url=https://web.archive.org/web/20220623162126/https://books.google.com/books?id=nQFtMcD5dOsC|url-status=live|language=en}}</ref> pasi 50 vitet e paqes që pasuan njihen si Epoka e Artë e Athinës, periudha themelore e Greqisë së lashtë që hodhi shumë prej themeleve të qytetërimit perëndimor.
+
+[[Skeda:Roman Republic Empire map.gif|thumb|Animacion që tregon rritjen dhe ndarjen e Romës së lashtë]]
+
+Greqisë i pasoi Roma, e cila la gjurmën e saj në ligj, politikë, gjuhë, inxhinieri, arkitekturë, qeverisje, dhe shumë aspekte të tjera kyçe të qytetërimit perëndimor.<ref name="Daly2013"/> Deri në 200 p.e.s, Roma kishte pushtuar Italinë, dhe gjatë dy shekujve pasues pushtoi Greqinë, Hispaninë (Spanjën dhe Portugalinë), bregdetin e Afrikës Veriore, pjesën më të madhe të Lindjes së Mesme, Galinë (Francën dhe Belgjikën), dhe Britaninë (Anglinë dhe Uellsin).
+
+Duke u zgjeruar nga baza e tyre në Italinë qendrore, duke filluar në shekullin III p.e.s, romakët gradualisht u zgjeruan për të sunduar përfundimisht të gjithë pellgun mesdhetar dhe Evropën Perëndimore, deri në fillim të mijëvjeçarit. Republika Romake mori fund në 27 p.e.s, kur Augusti shpalli Perandorinë Romake. Dy shekujt pasues njihen si ''pax romana'', periudhë paqeje, prosperiteti dhe stabiliteti politik pa precedent në pjesën më të madhe të Evropës.<ref name="mieawl">{{Cite book|last=McEvedy|first=Colin|title=The Penguin Atlas of Medieval History|publisher=Penguin Books|year=1961|language=en}}</ref> Perandoria vazhdoi të zgjerohej nën perandorë si Antoninus Pius dhe Marku Aurel, të cilët kaluan kohë në kufirin verior të Perandorisë duke luftuar fise gjermanike, pikte dhe skoceze.<ref name="natgeo 123">National Geographic, 123.</ref><ref>Foster, Sally M., ''Picts, Gaels, and Scots: Early Historic Scotland''. Batsford, London, 2004. {{ISBN|0-7134-8874-3}}</ref> Krishtërimi u legalizua nga Konstandini I në 313 e.s, pas tre shekujsh persekutimi perandorak. Konstandini gjithashtu e zhvendosi përgjithmonë kryeqytetin e perandorisë nga Roma në qytetin e Bizantit (Stambolli i sotëm), i cili u riemërua Kostandinopojë në nder të tij në 330 e.s. Krishtërimi u bë feja e vetme zyrtare e perandorisë në 380 e.s, dhe në 391–392 e.s perandori Teodosi i ndaloi fetë pagane.<ref name="FriellWilliams2005">{{cite book|first1=Stephen|last1=Williams|first2=Gerard|last2=Friell|title=Theodosius: The Empire at Bay|year=2005|publisher=Routledge|isbn=978-1-135-78262-7|page=105|url=https://books.google.com/books?id=I8KRAgAAQBAJ|access-date=30 July 2022|archive-date=30 May 2022|archive-url=https://web.archive.org/web/20220530232720/https://books.google.com/books?id=I8KRAgAAQBAJ|url-status=live|language=en}}</ref> Kjo ndonjëherë konsiderohet si shënues i fundit të antikitetit; alternativisht, antikiteti konsiderohet të përfundojë me rënien e Perandorisë Romake të Perëndimit në 476 e.s; me mbylljen e Akademisë Platonike pagane të Athinës në 529 e.s;<ref>{{cite book |title=A History of Greek Literature |last=Hadas |first=Moses |year=1950 |publisher=Columbia University Press |isbn=0-231-01767-7 |pages=273, 327 |url=https://books.google.com/books?id=dOht3609JOMC&pg=PA273 |access-date=30 July 2022 |archive-date=21 May 2022 |archive-url=https://web.archive.org/web/20220521051042/https://books.google.com/books?id=dOht3609JOMC&pg=PA273 |url-status=live|language=en }}</ref> ose me ngritjen e Islamit në fillim të shekullit VII e.s. Gjatë pjesës më të madhe të ekzistencës së saj, Perandoria Bizantine ishte një nga fuqitë më të mëdha ekonomike, kulturore dhe ushtarake në Evropë.<ref>{{Harvnb|Laiou|Morisson|2007|pp=130–131}}; {{Harvnb|Pounds|1979|p=124}}.</ref>
+
+=== Mesjeta e hershme ===
+{{Kryesor|Antikiteti i vonë|Mesjeta e hershme}}
+
+Gjatë rënies së Perandorisë Romake, Evropa hyri në një periudhë të gjatë ndryshimesh, që historianët e quajnë "Epoka e Migrimeve". Kishte pushtime dhe migrime të shumta mes ostrogotëve, vizigotëve, gotëve, vandalëve, hunëve, frankëve, anglëve, saksonëve, sllavëve, avarëve, bullgarëve, vikingëve, peçenegëve, kumanëve dhe magjarëve.<ref name="mieawl"/> Mendimtarë të Rilindjes, si Petrarka, do t'i referoheshin më vonë kësaj periudhe si "Epokat e Errëta".<ref>''Journal of the History of Ideas'', Vol. 4, No. 1. (janar 1943), f. 69–74.</ref>
+
+Komunitetet monastike të izoluara ishin vendet e vetme ku ruhej dhe përpilohej njohuria e shkruar e grumbulluar më parë; përveç kësaj, mbijetojnë shumë pak dokumente të shkruara. Shumë letërsi, filozofi, matematikë dhe mendim tjetër i periudhës klasike u zhduk nga Evropa Perëndimore, edhe pse u ruajt në lindje, në Perandorinë Bizantine.<ref>Norman F. Cantor, ''The Medieval World 300 to 1300''.</ref>
+
+Ndërsa Perandoria Romake në perëndim vazhdoi të rrëzohej, traditat romake dhe shteti romak mbetën të forta në territoret kryesisht greqishtfolëse në lindje, të njohura si Perandoria Bizantine. Gjatë pjesës më të madhe të ekzistencës së saj, Perandoria Bizantine ishte forca më e fuqishme ekonomike, kulturore dhe ushtarake në Evropë. Perandori Justiniani I kryesoi epokën e artë të parë të Kostandinopojës: ai vendosi një kod ligjor që formon bazën e shumë sistemeve moderne ligjore, financoi ndërtimin e Hagia Sofisë, dhe e vendosi kishën e krishterë nën kontroll shtetëror.<ref name="natgeo 135">National Geographic, 135.</ref>
+
+Që nga shekulli VII e në vazhdim, ndërsa bizantinët dhe persët sasanidë fqinjë u dobësuan ndjeshëm për shkak të luftërave të zgjatura, shekullore dhe të shpeshta bizantino-sasanide, arabët myslimanë filluan të depërtonin në territore historikisht romake, duke marrë Levantin dhe Afrikën Veriore dhe duke depërtuar në Azinë e Vogël. Në mesin e shekullit VII, pas pushtimit mysliman të Persisë, Islami depërtoi në rajonin e Kaukazit.<ref>{{cite book |title=Islam in Russia: The Politics of Identity and Security|first=Shireen |last= Hunter | publisher= M.E. Sharpe | date = 2004 |page=3 |display-authors=etal|language=en}}</ref> Gjatë shekujve pasues, forcat myslimane morën Qipron, Maltën, Kretën, Siçilinë, dhe pjesë të Italisë jugore.<ref>Kennedy, Hugh (1995). "The Muslims in Europe". Në McKitterick, Rosamund, ''The New Cambridge Medieval History: c. 500 – c. 700'', f. 249–272. Cambridge University Press. 052136292X.</ref> Mes viteve 711 dhe 720, pjesa më e madhe e tokave të Mbretërisë Vizigote të Iberisë erdhën nën sundimin mysliman—përveç zonave të vogla në verilindje (Asturias) dhe rajoneve kryesisht baske të Pirenejeve. Ky territor, nën emrin arab Al-Andalus, u bë pjesë e Kalifatit Umajad në zgjerim. Rrethimi i dytë i pasuksesshëm i Kostandinopojës (717) e dobësoi dinastinë umajade dhe ia zvogëloi prestigjin. Umajadët u mundën më pas nga udhëheqësi frank Karl Marteli, në Betejën e Puatjesë në 732, gjë që e përfundoi përparimin e tyre drejt veriut. Në rajonet e largëta të Iberisë verilindore dhe Pirenejeve të mesme, pushteti i myslimanëve në jug pothuajse nuk ndihej. Ishte këtu ku u hodhën themelet e mbretërive të krishtera të Asturiasit, Leonit dhe Galicias, dhe nga ku do të fillonte ripushtimi i Gadishullit Iberik. Sidoqoftë, nuk do të bëhej asnjë përpjekje e koordinuar për t'i dëbuar maurët. Mbretëritë e krishtera fokusoheshin kryesisht te grindjet e tyre të brendshme për pushtet. Si rezultat, Ripushtimi (Reconquista) zgjati pjesën më të madhe të tetëqind vjetëve, gjatë të cilave një listë e gjatë Alfonsosh, Sançosh, Ordonjosh, Ramirosh, Fernandosh dhe Bermudosh do të luftonin rivalët e tyre të krishterë po aq sa pushtuesit myslimanë.
+
+[[Skeda:Europe 843ad viking incursions map.png|thumb|left|250px|Sulmet vikinge dhe ndarja e Perandorisë Franke në Traktatin e Verdunit, në 843]]
+[[Skeda:Dürer karl der grosse.jpg|thumb|right|Karli i Madh quhet "Ati i Evropës" nga shumë historianë, për ndikimin e tij në Mesjetë dhe territorin që sundoi në Evropë. Ai shihet si figurë themeluese nga shumë shtete evropiane, dhe disa shtëpi mbretërore historike të Evropës e gjurmojnë prejardhjen e tyre te ai. Karli i Madh ka qenë subjekt veprash arti, monumentesh dhe letërsie gjatë dhe pas periudhës mesjetare.]]
+
+Gjatë Epokave të Errëta, Perandoria Romake e Perëndimit ra nën kontrollin e fiseve të ndryshme. Fiset gjermanike dhe sllave i vendosën sundimet e tyre përkatësisht mbi Evropën Perëndimore dhe Lindore.<ref name="natgeo 143">National Geographic, 143–145.</ref> Përfundimisht, fiset franke u bashkuan nën Klovisin I.<ref name="natgeo 162">National Geographic, 162.</ref> Karli i Madh, mbret frank i dinastisë karolinge, i cili kishte pushtuar pjesën më të madhe të Evropës Perëndimore, u kurorëzua "Perandor i Shenjtë Romak" nga Papa në 800. Kjo çoi në themelimin e Perandorisë së Shenjtë Romake në 962, e cila përfundimisht u qendërzua në principatat gjermane të Evropës qendrore.<ref name="natgeo 166">National Geographic, 166.</ref>
+
+Evropa Qendrore Lindore pa krijimin e shteteve të para sllave dhe adoptimin e krishterimit (rreth vitit 1000 e.s). Shteti i fuqishëm sllav perëndimor i Moravisë së Madhe e përhapi territorin e tij gjithë deri në Ballkan, duke arritur shtrirjen e tij më të madhe territoriale nën Svatopluk I, dhe duke shkaktuar një seri konfliktesh të armatosura me Frankinë Lindore. Më në jug, shtetet e para sllave jugore u shfaqën në fund të shekujve VII dhe VIII dhe adoptuan krishterimin: Perandoria e Parë Bullgare, Principata Serbe (më vonë Mbretëria dhe Perandoria), dhe Dukati i Kroacisë (më vonë Mbretëria e Kroacisë). Në lindje, Rusia Kievane u zgjerua nga kryeqyteti i saj në Kiev, duke u bërë shteti më i madh në Evropë deri në shekullin X. Në 988, Vladimiri i Madh e adoptoi krishterimin ortodoks si fenë shtetërore.{{sfn|Bulliet|Crossley|Headrick|Hirsch|2011|page=250}}{{sfn|Brown|Anatolios|Palmer|2009|page=66}} Më në lindje, Bullgaria e Vollgës u bë shtet islamik në shekullin X, por përfundimisht u përfshi në Rusi disa shekuj më vonë.<ref>Gerald Mako, "The Islamization of the Volga Bulghars: A Question Reconsidered", Archivum Eurasiae Medii Aevi 18, 2011, 199–223.</ref>
+
+=== Mesjeta e Lartë dhe e Vonë ===
+{{Hatnote|Artikujt kryesorë: {{ill|Mesjeta e Lartë|en|High Middle Ages}}, {{ill|Mesjeta e Vonë|en|Late Middle Ages}} dhe [[Mesjeta]]}}
+[[Skeda:Maritime republics map - EN.png|thumb|203x203px|Republikat detare të Italisë mesjetare rivendosën kontaktet mes Evropës, Azisë dhe Afrikës, me rrjete tregtare dhe koloni të gjera nëpër Mesdhe, dhe luajtën një rol thelbësor në Kryqëzata.<ref>Marc'Antonio Bragadin, ''Storia delle Repubbliche marinare'', Odoya, Bologna 2010, 240 f., {{ISBN|978-88-6288-082-4}}</ref><ref>G. Benvenuti, ''Le Repubbliche Marinare. Amalfi, Pisa, Genova, Venezia'', Newton & Compton editori, Roma 1989</ref>]]
+
+Periudha mes viteve 1000 dhe 1250 njihet si Mesjeta e Lartë, e ndjekur nga Mesjeta e Vonë deri rreth vitit 1500.
+
+Gjatë Mesjetës së Lartë, popullsia e Evropës përjetoi rritje të konsiderueshme, duke kulmuar në Rilindjen e Shekullit XII. Rritja ekonomike, së bashku me mungesën e sigurisë në rrugët tregtare kontinentale, mundësoi zhvillimin e rrugëve të mëdha tregtare përgjatë bregdetit të Detit Mesdhe dhe Detit Balltik. Pasuria dhe pavarësia në rritje e fituar nga disa qytete bregdetare u dhanë Republikave Detare një rol udhëheqës në skenën evropiane.
+
+Mesjeta në kontinent dominohej nga dy shtresat e larta të strukturës sociale: fisnikëria dhe kleri. Feudalizmi u zhvillua në Francë gjatë Mesjetës së hershme, dhe shpejt u përhap nëpër gjithë Evropën.<ref name="natgeo 158">National Geographic, 158.</ref> Një luftë ndikimi mes fisnikërisë dhe monarkisë në Angli çoi në shkrimin e Magna Cartas dhe themelimin e një parlamenti.<ref name="natgeo 186">National Geographic, 186.</ref> Burimi kryesor i kulturës në këtë periudhë vinte nga Kisha Katolike Romake. Përmes manastireve dhe shkollave katedrale, Kisha ishte përgjegjëse për edukimin në pjesën më të madhe të Evropës.<ref name="natgeo 158"/>
+
+[[Skeda:Philip II and Tancred meeting in Messina - British Library Royal MS 16 G vi f350r (detail).jpg|thumb|left|upright=0.9|Tankredi i Siçilisë dhe Filipi II i Francës, gjatë Kryqëzatës së Tretë (1189–1192)]]
+
+Papati arriti kulmin e pushtetit të tij gjatë Mesjetës së Lartë. Skizma Lindje-Perëndim e 1054-s e ndau ish-Perandorinë Romake fetarisht, me Kishën Lindore Ortodokse në Perandorinë Bizantine dhe Kishën Katolike Romake në ish-Perandorinë Romake të Perëndimit. Në 1095, Papa Urbani II thirri për një kryqëzatë kundër myslimanëve që okupuan Jerusalemin dhe Tokën e Shenjtë.<ref name="natgeo 192">National Geographic, 192.</ref> Në vetë Evropën, Kisha organizoi Inkuizicionin kundër heretikëve. Në Gadishullin Iberik, Ripushtimi (Reconquista) u përmbyll me rënien e Granadës në 1492, duke përfunduar mbi shtatë shekuj sundimi islamik në gadishullin juglindor.<ref name="natgeo 199">National Geographic, 199.</ref>
+
+Në lindje, një Perandori Bizantine e ripërtërirë e rimori Kretën dhe Qipron nga myslimanët, dhe ripushtoi Ballkanin. Kostandinopoja ishte qyteti më i madh dhe më i pasur në Evropë nga shekulli IX deri në shekullin XII, me një popullsi prej afërsisht 400.000 banorësh.<ref>{{harvnb|Laiou|Morisson|2007|pp=130–131}}; {{harvnb|Pounds|1979|p=124}}.</ref> Perandoria u dobësua pas mundjes në Manzikert, dhe u dobësua ndjeshëm nga plaçkitja e Kostandinopojës në 1204, gjatë Kryqëzatës së Katërt.<ref name="DuikerSpielvogel2010">{{cite book|first1=William J.|last1=Duiker|first2=Jackson J.|last2=Spielvogel|title=The Essential World History|year=2010|publisher=Cengage Learning|isbn=978-0-495-90227-0|page=330|language=en}}</ref><ref>Kjo pasazh dokumentohet nga një numër i madh citimesh shtesë në artikullin origjinal anglisht.</ref> Edhe pse do ta rimerrte Kostandinopojën në 1261, Bizanti ra në 1453, kur Kostandinopoja u mor nga Perandoria Osmane.<ref name="natgeo 211">National Geographic, 211.</ref>
+
+[[Skeda:Mongols suzdal.jpg|thumb|upright|Plaçkitja e Suzdalit nga Batu Kani, në 1238, gjatë pushtimit mongol të Evropës (viti 1220–1240)]]
+
+Në shekujt XI dhe XII, sulmet e vazhdueshme nga fise nomade turke, si peçenegët dhe kuman-kipçakët, shkaktuan një migrim masiv të popullsive sllave drejt rajoneve më të sigurta, dendur të pyllëzuara, të veriut, dhe përkohësisht ndaluan zgjerimin e Rusisë Kievane drejt jugut dhe lindjes.<ref name="Klyuch1">{{Cite book|last=Klyuchevsky|first=Vasily|title=The course of the Russian history|isbn=978-5-244-00072-6|year=1987|publisher=Myslʹ|url=http://www.kulichki.com/inkwell/text/special/history/kluch/kluch16.htm|access-date=2022-07-30|archive-date=2007-10-24|archive-url=https://web.archive.org/web/20071024124216/http://www.kulichki.com/inkwell/text/special/history/kluch/kluch16.htm|url-status=live|language=ru}}</ref> Mongolët pushtuan Evropën në mesin e shekullit XIII, dhe së bashku me nënshtetasit e tyre, kryesisht turq, u njohën si tatarë.<ref>{{cite book |last1=Lane |first1=George |title=A Short History of the Mongols |date=25 January 2018 |publisher=Bloomsbury Publishing |isbn=978-1-78672-339-0 |page=11 |language=en}}</ref> Këta tatarë i sunduan principatat ruse përmes vasalitetit për 200 vitet pasuese.<ref>{{cite book |last1=Fennell |first1=John |title=The Crisis of Medieval Russia 1200–1304 |date=13 October 2014 |orig-date=1983 |publisher=Routledge |isbn=978-1-317-87314-3 |page=84|language=en }}</ref><ref>{{cite book |last1=Favereau |first1=Marie |title=The Horde: How the Mongols Changed the World |date=20 April 2021 |publisher=Harvard University Press |isbn=978-0-674-24421-4 |page=300|language=en}}</ref> Pas rënies së zotërimeve mongole, shtetet e para rumune (principatat) u shfaqën në shekullin XIV: Moldavia dhe Vllahia. Më parë, këto territore ishin nën kontrollin e njëpasnjëshëm të peçenegëve dhe kumanëve.<ref>Spinei, Victor. The Romanians and the Turkic Nomads North of the Danube Delta from the Tenth to the Mid-Thirteenth Century, Brill, 2009, {{ISBN|978-90-04-17536-5}}</ref> Principata e Madhe e Moskës u bë principata ruse dominuese, duke formuar në këtë proces një shtet rus të centralizuar dhe autokratik, deri në fund të shekullit XV.<ref>{{cite book |last1=Wright |first1=Thomas Edmund Farnsworth |title=A Dictionary of World History |date=2015 |publisher=Oxford University Press |isbn=978-0-19-968569-1 |page=574|language=en }}</ref><ref name="Dukes"/> Qëndrimi i Madh në lumin Ugra, në 1480, tradicionalisht shënon fundin e "zgjedhës tatare" mbi Rusinë.<ref name="Dukes">{{cite book |last1=Dukes |first1=Paul |title=A History of Russia: Medieval, Modern, Contemporary, C. 882–1996 |date=1998 |publisher=Duke University Press |isbn=978-0-8223-2096-8 |pages=42–45|language=en }}</ref>
+
+Zia e Madhe e viteve 1315–1317 ishte kriza e parë që do të godiste Evropën në Mesjetën e vonë.<ref>The Late Middle Ages. Oglethorpe University.</ref> Periudha mes 1348 dhe 1420 dëshmoi humbjen më të rëndë. Popullsia e Francës u përgjysmua.<ref>Baumgartner, Frederic J. ''France in the Sixteenth Century.'' London: Macmillan Publishers, 1995. {{ISBN|0-333-62088-7}}.</ref> Britania mesjetare u godit nga 95 zi buke, ndërsa Franca vuajti pasojat e 75 apo më shumë të tillave në të njëjtën periudhë.<ref>Famine. Encyclopædia Britannica.</ref> Evropa u shkatërrua në mesin e shekullit XIV nga Vdekja e Zezë, një nga pandemitë më vdekjeprurëse në historinë njerëzore, e cila vrau një vlerësim prej 25 milionë njerëz vetëm në Evropë—një të tretën e popullsisë evropiane të kohës.<ref>{{cite magazine|url=http://science.nationalgeographic.com/science/health-and-human-body/human-diseases/plague-article.html|title=Plague: The Black Death|magazine=National Geographic|access-date=1 April 2012|archive-date=16 February 2012|archive-url=https://web.archive.org/web/20120216182517/http://science.nationalgeographic.com/science/health-and-human-body/human-diseases/plague-article.html|language=en}}</ref>
+
+Murtaja pati një efekt shkatërrues mbi strukturën shoqërore të Evropës; i shtyu njerëzit të jetonin për momentin, siç ilustrohet nga Giovanni Boccaccio në ''Dekameronin'' (1353). Ishte një goditje serioze për Kishën Katolike Romake dhe çoi në rritje të persekutimit të hebrenjve, lypësve dhe lebrozëve.<ref name="natgeo 223">National Geographic, 223.</ref> Mendohet se murtaja u rikthye çdo brez, me virulencë dhe vdekshmëri të ndryshme, deri në shekullin XVIII.<ref>{{cite web |url=http://www.infoplease.com/cig/dangerous-diseases-epidemics/bubonic-plague.html |title=Epidemics of the Past: Bubonic Plague|publisher=Infoplease.com |access-date=3 November 2008 |archive-date=21 October 2008 |archive-url=https://web.archive.org/web/20081021133412/http://www.infoplease.com/cig/dangerous-diseases-epidemics/bubonic-plague.html |url-status=live|language=en }}</ref> Gjatë kësaj periudhe, mbi 100 epidemi murtaje përshkuan Evropën.<ref name="Revill">{{cite news |url=https://www.theguardian.com/uk/2004/may/16/health.books |title=Black Death blamed on man, not rats |newspaper=The Observer |first=Jo |last=Revill |date=16 May 2004 |access-date=3 November 2008 |location=London |archive-date=12 February 2014 |archive-url=https://web.archive.org/web/20140212100811/http://www.theguardian.com/uk/2004/may/16/health.books |url-status=live|language=en }}</ref>
+
+=== Periudha e hershme moderne ===
+{{Kryesor|Periudha e hershme moderne}}
+[[Skeda:La scuola di Atene.jpg|thumb|upright=1.2|''Shkolla e Athinës'' (1511), nga Rafaeli: bashkëkohës të artistit, përfshirë Leonardo da Vinçin dhe Mikelanxhelon, janë përfaqësuar në stil klasik në këtë vepër emblematike të humanizmit të Rilindjes.]]
+
+Rilindja ishte një periudhë ndryshimi kulturor, që e pati origjinën në Firence, dhe më vonë u përhap në pjesën tjetër të Evropës. Ngritja e një humanizmi të ri u shoqërua me rikuperimin e njohurive të harruara klasike greke dhe arabe nga bibliotekat manastire, shpesh të përkthyera nga arabishtja në latinisht.<ref name="Barrett"/><ref>Weiss, Roberto (1969) ''The Renaissance Discovery of Classical Antiquity'', {{ISBN|1-59740-150-1}}</ref><ref>{{Cite book|first=Jacob|last=Burckhardt|orig-date=1878|title=The Civilisation of the Renaissance in Italy|translator-first=S. G. C. |translator-last=Middlemore|year=1990|isbn=978-0-14-044534-3|publisher=Penguin|location=London|language=en}}</ref> Rilindja u përhap nëpër Evropë mes shekujve XIV dhe XVI: pa lulëzimin e artit, filozofisë, muzikës dhe shkencave, nën patronazhin e përbashkët të familjeve mbretërore, fisnikërisë, Kishës Katolike, dhe një klase tregtare në zhvillim.<ref name="natgeo 254">National Geographic, 254.</ref> Patronë në Itali, përfshirë familjen Medici të bankierëve firentinas dhe papët në Romë, financuan artistë prodhimtarë të kuatroçentos dhe çinkuçentos, si Rafaeli, Mikelanxhelo dhe Leonardo da Vinçi.<ref name="natgeo 292">National Geographic, 292.</ref>
+
+Intriga politike brenda Kishës në mesin e shekullit XIV shkaktoi Skizmën Perëndimore. Gjatë kësaj periudhe 40-vjeçare, dy papë—njëri në Avinjon dhe tjetri në Romë—pretenduan sundim mbi Kishën. Edhe pse skizma përfundimisht u shërua në 1417, autoriteti shpirtëror i papatit kishte vuajtur shumë.<ref name="natgeo 193">National Geographic, 193.</ref> Në shekullin XV, Evropa filloi të shtrihej përtej kufijve të saj gjeografikë. Spanja dhe Portugalia, fuqitë më të mëdha detare të kohës, morën udhëheqjen në eksplorimin e botës.<ref>{{Cite book|first=John Morris |last=Roberts|title=Penguin History of Europe|year=1997|publisher=Penguin|isbn=978-0-14-026561-3|language=en}}</ref><ref name="natgeo 296">National Geographic, 296.</ref> Eksplorimi arriti Hemisferën Jugore, në Atlantik dhe majën jugore të Afrikës. Kristofor Kolombi arriti në Botën e Re në 1492, dhe Vasko da Gama e hapi rrugën detare drejt Lindjes, duke lidhur Atlantikun me Oqeanin Indian në 1498. Eksploruesi me origjinë portugeze, Ferdinand Magelani, arriti në Azi duke lundruar drejt perëndimit përgjatë Atlantikut dhe Oqeanit Paqësor, në një ekspeditë spanjolle, duke rezultuar në qarkullimin e parë botëror, të përfunduar nga spanjolli Juan Sebastián Elcano (1519–1522). Shpejt pas kësaj, spanjollët dhe portugezët filluan të ndërtonin perandori të mëdha globale në Amerikat, Azi, Afrikë dhe Oqeani.<ref name="natgeo 338">National Geographic, 338.</ref> Franca, Holanda dhe Anglia i ndoqën shpejt, duke ndërtuar perandori të mëdha koloniale, me zotërime të gjera në Afrikë, Amerikat dhe Azi. Në 1588, Armada Spanjolle dështoi të pushtonte Anglinë. Një vit më vonë, Anglia u përpoq pa sukses ta pushtonte Spanjën, duke i lejuar Filipit II të Spanjës të ruante kapacitetin e tij dominues lufte në Evropë. Ky katastrofë angleze gjithashtu i lejoi flotës spanjolle të ruante aftësinë e saj për të bërë luftë gjatë dekadave pasuese. Sidoqoftë, edhe dy armada të tjera spanjolle dështuan të pushtonin Anglinë.<ref>Elliott, f. 333</ref>
+
+[[Skeda:Habsburg dominions 1700.png|thumb|upright=1.2|Zotërimet e Habsburgëve në shekujt pas ndarjes së tyre nga Karli V, Perandor i Shenjtë Romak. Baza kryesore ushtarake e Filipit II në Evropë ishte "rruga spanjolle", që shtrihej nga Holanda deri te Dukati i Milanos.<ref>{{cite book |last1=Kamen |first1=Henry |title=Spain's Road to Empire: The Making of a World Power, 1492–1763 |page=221|language=en}}</ref>]]
+Pushteti i Kishës u dobësua më tej nga Reforma, e cila filloi në 1517, kur teologu gjerman Martin Luteri i nguli 95 Tezat e tij, që kritikonin shitjen e indulgjencave, në derën e kishës. Ai më pas u shkishërua në bulën papnore ''Exsurge Domine'' në 1520, dhe ndjekësit e tij u dënuan në Dietën e Vormsit të 1521-s, e cila i ndau princat gjermanë mes fesë protestante dhe asaj katolike.<ref name="natgeo 256">National Geographic, 256–257.</ref> Luftimet dhe lufta fetare u përhapën me protestantizmin.<ref>European History/Religious Wars in Europe. en.wikibooks.org.</ref> Plaçkitja e perandorive të Amerikave i lejoi Spanjës të financonte persekutimin fetar në Evropë për mbi një shekull. Lufta Tridhjetëvjeçare (1618–1648) e paralizoi Perandorinë e Shenjtë Romake dhe shkatërroi pjesën më të madhe të Gjermanisë, duke vrarë mes 25 dhe 40 përqind të popullsisë së saj.<ref>History of Europe – Demographics. Encyclopædia Britannica.</ref> Në pasojat e Paqes së Vestfalisë, Franca u ngrit në dominancë brenda Evropës.<ref name="natgeo 269">National Geographic, 269.</ref> Mundja e turqve osmanë në Betejën e Vjenës në 1683 shënoi fundin historik të zgjerimit osman në Evropë.<ref>Virginia Aksan, Ottoman Wars, 1700–1860: An Empire Besieged, (Pearson Education Limited, 2007), 28.</ref>
+
+Në pjesën më të madhe të Evropës Qendrore dhe Lindore, shekulli XVII ishte periudhë rënieje të përgjithshme;<ref>The Seventeenth-Century Decline. The Library of Iberian resources online.</ref> rajoni përjetoi mbi 150 zi buke në një periudhë 200-vjeçare, mes 1501 dhe 1700.<ref>Food, Famine And Fertilisers. Seshadri Kannan (2009). APH Publishing. f. 51. {{ISBN|81-313-0356-X}}</ref> Që nga Bashkimi i Krevës (1385), Evropa Qendrore-Lindore u dominua nga Mbretëria e Polonisë dhe Dukati i Madh i Lituanisë. Hegjemonia e Bashkësisë së gjerë Polake-Lituaneze përfundoi me shkatërrimin e sjellë nga Lufta Veriore e 1655–1660 (Përmbytja) dhe konfliktet pasuese;<ref>{{cite book |last=Frost |first=Robert I. |year=2004 |title=After the Deluge; Poland-Lithuania and the Second Northern War, 1655–1660 |publisher=Cambridge University Press |isbn=978-0-521-54402-3 |language=en }}</ref> vetë shteti u nda dhe pushoi së ekzistuari në fund të shekullit XVIII.<ref>{{cite book |last=Lukowski |first=Jerzy |year=2014 |title=The Partitions of Poland 1772, 1793, 1795 |location=New York |publisher=Routledge |isbn=978-1-317-88694-5 |language=en }}</ref>
+
+Nga shekulli XV deri XVIII, ndërsa kanatet e shpërbëra të Hordhisë së Artë u pushtuan nga Rusia, tatarët e Kanatit të Krimesë sulmonin shpesh Evropën Lindore për të kapur skllevër.<ref>W. G. Clarence-Smith (2006). ''Islam And The Abolition Of Slavery''. Oxford University Press. f. 13.</ref> Më në lindje, Hordhia Nogai dhe Kanati Kazak sulmonin shpesh zonat sllavishtfolëse të Rusisë dhe Ukrainës bashkëkohore, për qindra vjet, deri në zgjerimin dhe pushtimin rus të pjesës më të madhe të Euroazisë veriore (d.m.th. Evropës Lindore, Azisë Qendrore dhe Siberisë).
+
+Rilindja dhe Monarkët e Rinj shënuan fillimin e një Epoke Zbulimesh, periudhë eksplorimi, shpikjeje dhe zhvillimi shkencor.<ref>{{cite book|last=Hunt|first=Shelby D.|title=Controversy in marketing theory: for reason, realism, truth, and objectivity|publisher=M. E. Sharpe|year=2003|page=18|isbn=978-0-7656-0932-8|language=en}}</ref> Figura të rëndësishme të Revolucionit Shkencor gjatë shekujve XVI dhe XVII përfshinin Kopernikun, Keplerin, Galileun dhe Isak Njutonin.<ref>{{cite web |url=http://users.clas.ufl.edu//ufhatch/pages/03-Sci-Rev/SCI-REV-Home/05-sr-lng-timeline.htm |title=Scientific Revolution: Chronological Timeline: Copernicus to Newton |last=Hatch |first=Robert A. |access-date=24 March 2023 |archive-url=https://web.archive.org/web/20130723195302/http://web.clas.ufl.edu/users/ufhatch/pages/03-Sci-Rev/SCI-REV-Home/05-sr-lng-timeline.htm |archive-date=23 July 2013|language=en }}</ref> Sipas Peter Barrett, "pranohet gjerësisht se 'shkenca moderne' u shfaq në Evropën e shekullit XVII (drejt fundit të Rilindjes), duke sjellë një kuptim të ri të botës natyrore."<ref name="Barrett">Peter Barrett (2004), ''Science and Theology Since Copernicus: The Search for Understanding'', f. 14–18, Continuum, {{ISBN|0-567-08969-X}}</ref>
+
+=== Shekujt XVIII dhe XIX ===
+{{Hatnote|Artikulli kryesor: {{ill|Historia moderne|en|Modern history}}}}
+[[Skeda:Europe 1815 map en.png|thumb|Kufijtë kombëtarë brenda Evropës, të vendosur nga Kongresi i Vjenës]]
+
+Lufta Shtatëvjeçare i dha fund "Sistemit të Vjetër" të aleancave në Evropë. Rrjedhimisht, kur Lufta Revolucionare Amerikane u kthye në luftë globale mes 1778 dhe 1783, Britania u gjend e kundërshtuar nga një koalicion i fortë fuqish evropiane, pa asnjë aleat të konsiderueshëm.<ref>{{cite journal |jstor=2144276 |title=The American Revolution as an Aftermath of the Great War for the Empire, 1754–1763 |journal=Political Science Quarterly |volume=65 |issue=1 |pages=86–104 |last1=Gipson |first1=Lawrence Henry |year=1950 |doi=10.2307/2144276|language=en}}</ref>
+
+Epoka e Iluminizmit ishte një lëvizje e fuqishme intelektuale gjatë shekullit XVIII, që promovonte mendim shkencor dhe të bazuar në arsye.<ref>{{Cite book |last1=Goldie |first1=Mark |title=The Cambridge History of Eighteenth-Century Political Thought |last2=Wokler |first2=Robert |publisher=Cambridge University Press |year=2006 |isbn=978-0-521-37422-4|language=en}}</ref><ref name="natgeo 255">National Geographic, 255.</ref> Pakënaqësia me monopolin e aristokracisë dhe klerit mbi pushtetin politik në Francë rezultoi në Revolucionin Francez, dhe themelimin e Republikës së Parë, si rezultat i të cilit monarkia dhe shumë prej fisnikërisë humbën jetën gjatë sundimit fillestar të tmerrit.<ref>{{Cite book|last=Schama|first=Simon|publisher=Knopf|title=Citizens: A Chronicle of the French Revolution|year=1989|isbn=978-0-394-55948-3|language=en}}</ref> Napoleon Bonaparti erdhi në pushtet pas Revolucionit Francez, dhe themeloi Perandorinë e Parë Franceze, e cila, gjatë Luftërave Napoleonike, u zgjerua duke përfshirë pjesë të mëdha të Evropës, para se të shembej në 1815 me Betejën e Uaterlosë.<ref name="natgeo 360">National Geographic, 360.</ref> Sundimi napoleonik rezultoi në përhapjen e mëtejshme të idealeve të Revolucionit Francez, përfshirë atë të shtetit-komb, si dhe adoptimin e gjerë të modeleve franceze të administratës, ligjit dhe edukimit.<ref name="natgeo 350">National Geographic, 350.</ref> Kongresi i Vjenës, i mbledhur pas rënies së Napoleonit, vendosi një ekuilibër të ri fuqie në Evropë, të përqendruar te pesë "fuqitë e mëdha": Mbretëria e Bashkuar, Franca, Prusia, Austria, dhe Rusia.<ref name="natgeo 367">National Geographic, 367.</ref> Ky ekuilibër do të mbetej në fuqi deri te Revolucionet e 1848-s, gjatë të cilave kryengritje liberale prekën gjithë Evropën, përveç Rusisë dhe Mbretërisë së Bashkuar. Këto revolucione përfundimisht u shtypën nga elementë konservatorë, dhe rezultuan pak reforma.<ref name="natgeo 371">National Geographic, 371–373.</ref> Viti 1859 pa bashkimin e Rumanisë, si shtet-komb, nga principata më të vogla. Në 1867, u formua Perandoria Austro-Hungareze; 1871 pa bashkimet e Italisë dhe Gjermanisë, si shtete-kombe, nga principata më të vogla.<ref>{{Cite book|last=Davies|first=Norman|title=Europe: A History|publisher=Oxford University Press|year=1996|isbn=978-0-19-820171-7|language=en}}</ref>
+
+Njëkohësisht, Çështja Lindore u bë më komplekse që nga mundja osmane në Luftën Ruso-Turke (1768–1774). Ndërsa shpërbërja e Perandorisë Osmane dukej e afërt, Fuqitë e Mëdha luftuan për t'i mbrojtur interesat e tyre strategjike dhe tregtare në zotërimet osmane. Perandoria Ruse do të përfitonte nga rënia, ndërsa Perandoria Habsburge dhe Britania e perceptonin ruajtjen e Perandorisë Osmane si në interesin e tyre më të mirë. Ndërkohë, Revolucioni Serb (1804) dhe Lufta e Pavarësisë Greke (1821) shënuan fillimin e fundit të sundimit osman në Ballkan, i cili përfundoi me Luftërat Ballkanike të 1912–1913.<ref>Ottoman Empire – 19th century. Historyworld.</ref> Njohja formale e principatave ''de facto'' të pavarura të Malit të Zi, Serbisë dhe Rumanisë ndodhi në Kongresin e Berlinit të 1878-s, kur edhe Bullgaria fitoi pavarësi ''de facto''.
+
+[[Skeda:Marshall's flax-mill, Holbeck, Leeds - interior - c.1800.jpg|thumb|Fabrika e Marshall-it (1840); Revolucioni Industrial filloi në Britaninë e Madhe.]]
+
+Revolucioni Industrial filloi në Britaninë e Madhe në pjesën e fundit të shekullit XVIII dhe u përhap nëpër Evropë. Shpikja dhe zbatimi i teknologjive të reja rezultoi në rritje të shpejtë urbane, punësim masiv, dhe ngritjen e një klase të re punëtore.<ref>{{Cite book|first=George Macaulay|last=Trevelyan|title=A shortened history of England|publisher=Penguin Books|year=1988|isbn=978-0-14-010241-3|language=en}}</ref> Pasuan reforma në sferat sociale dhe ekonomike, përfshirë ligjet e para mbi punën e fëmijëve, legalizimin e sindikatave,<ref>{{Cite book|last=Webb|first=Sidney | title=History of Trade Unionism | publisher= AMS Press | year=1976 | isbn=978-0-404-06885-1|language=en}}</ref> dhe abolicionin e skllavërisë.<ref>Slavery. Historical survey – Ways of ending slavery, Encyclopædia Britannica</ref> Në Britani, u miratua Ligji i Shëndetit Publik i 1875-s, i cili përmirësoi ndjeshëm kushtet e jetesës në shumë qytete britanike.<ref>{{Cite book|first=George Macaulay|last=Trevelyan|title=English Social History|publisher=Longmans, Green|year=1942|language=en}}</ref> Popullsia e Evropës u rrit nga rreth 100 milionë në 1700 në 400 milionë deri në 1900.<ref>Modernisation – Population Change. Encyclopædia Britannica.</ref> Zia e fundit e madhe e regjistruar në Evropën Perëndimore, Zia e Madhe e Irlandës, shkaktoi vdekje dhe emigrim masiv të miliona irlandezëve.<ref>The Irish Famine. BBC – History.</ref> Në shekullin XIX, 70 milionë njerëz e lanë Evropën në migrime drejt kolonive të ndryshme evropiane jashtë vendit, dhe drejt Shteteve të Bashkuara.<ref>The Atlantic: Can the US afford immigration? Migration News. Dhjetor 1996.</ref> Revolucioni industrial gjithashtu çoi në rritje të madhe të popullsisë, dhe pjesa e popullsisë botërore që jetonte në Evropë arriti kulmin, pak mbi 25%, rreth vitit 1913.<ref name="ggdc.net">{{cite web|url=http://www.ggdc.net/maddison/other_books/appendix_B.pdf|title=Growth of World Population, GDP and GDP Per Capita before 1820|author=Maddison|website=University of Groningen|date=27 July 2016|access-date=12 June 2024|archive-date=12 February 2021|archive-url=https://web.archive.org/web/20210212183845/http://www.ggdc.net/maddison/other_books/appendix_B.pdf|language=en}}</ref>
+
+=== Shekulli XX deri sot ===
+{{Kryesor|Epoka moderne|Historia e Evropës}}
+[[Skeda:Colonisation 1914.png|thumb|left|upright=1.2|Hartë e perandorive koloniale evropiane nëpër botë në 1914]]
+
+Dy luftëra botërore dhe një depresion ekonomik dominuan gjysmën e parë të shekullit XX. Lufta e Parë Botërore u zhvillua mes 1914 dhe 1918. Filloi kur Kryqarkidukili Franc Ferdinand i Austrisë u vra nga nacionalisti jugosllav<ref>{{cite web|url=http://praguepost.com/world-news/39837-assassin-gavrilo-princip-gets-a-statue-in-sarajevo|title=Assassin Gavrilo Princip gets a statue in Sarajevo|access-date=11 July 2014|work=The Prague Post|date=28 June 2014|archive-date=10 July 2014|archive-url=https://web.archive.org/web/20140710215557/http://praguepost.com/world-news/39837-assassin-gavrilo-princip-gets-a-statue-in-sarajevo|url-status=live|language=en}}</ref> Gavrilo Princip.<ref name="natgeo 407">National Geographic, 407.</ref> Shumica e kombeve evropiane u përfshinë në luftë, e cila u zhvillua mes Fuqive të Antantës (Franca, Mbretëria e Bashkuar, Rusia, Belgjika, Serbia, dhe më vonë Italia, Greqia, Rumania, Portugalia, dhe Shtetet e Bashkuara) dhe Fuqive Qendrore (Austro-Hungaria, Gjermania, Bullgaria, dhe Perandoria Osmane). Lufta la mbi 16 milionë civilë dhe ushtarakë të vdekur.<ref name="natgeo 440">National Geographic, 440.</ref> Mbi 60 milionë ushtarë evropianë u mobilizuan mes 1914 dhe 1918.<ref>The Treaty of Versailles and its Consequences. James Atkinson.</ref>
+
+[[Skeda:Alliances militaires en Europe 1914-1918-fr.svg|thumb|Hartë që përshkruan aleancat ushtarake të Luftës së Parë Botërore, 1914–1918]]
+[[Skeda:Serbiancolumnretreat1915.jpg|thumb|left|Përpjekjet luftarake serbe (1914–1918) i kushtuan vendit një të katërtën e popullsisë së tij.]]
+
+Rusia u zhyt në Revolucionin Rus, i cili e rrëzoi monarkinë cariste dhe e zëvendësoi me Bashkimin Sovjetik komunist,<ref name="natgeo 480">National Geographic, 480.</ref> duke çuar gjithashtu në pavarësinë e shumë ish-guvernatoreve ruse, si Finlanda, Estonia, Letonia dhe Lituania, si shtete të reja evropiane.<ref>Heinrich August Winkler, ''The Age of Catastrophe'', kap. "The Struggle for Independence: Estonia, Latvia, Lithuania and Finland", f. 110, 2015, Yale University Press.</ref> Austro-Hungaria dhe Perandoria Osmane u shembën dhe u ndanë në kombe të veçanta, dhe shumë kombe të tjerë e patën kufirin e ridizajnuar. Traktati i Versajës, i cili zyrtarisht i dha fund Luftës së Parë Botërore në 1919, ishte i ashpër ndaj Gjermanisë, mbi të cilën vendosi përgjegjësinë e plotë për luftën dhe imponoi sanksione të rënda.<ref name="natgeo 443">National Geographic, 443.</ref> Vdekjet e tepërta në Rusi gjatë Luftës së Parë Botërore dhe Luftës Civile Ruse (përfshirë zinë e pasluftës të 1921-s) arritën gjithsej 18 milionë.<ref>{{cite book| first = Mark| last = Harrison| title = Accounting for War: Soviet Production, Employment, and the Defence Burden, 1940–1945| date = 2002| publisher = Cambridge University Press| isbn = 978-0-521-89424-1| page = 167| url = https://books.google.com/books?id=yJcD7_Q_rQ8C&pg=PA167| access-date = 30 July 2022| archive-date = 17 June 2020| archive-url = https://web.archive.org/web/20200617211223/https://books.google.com/books?id=yJcD7_Q_rQ8C&pg=PA167| url-status = live|language=en}}</ref> Në 1932–1933, nën udhëheqjen e Stalinit, konfiskimet e grurit nga autoritetet sovjetike kontribuan në zinë e dytë sovjetike, e cila shkaktoi miliona vdekje;<ref>Legacy of famine divides Ukraine. BBC News. 24 nëntor 2006.</ref> kulakët e mbijetuar u persekutuan dhe shumë u dërguan në Gulage për punë të detyruar. Stalini ishte gjithashtu përgjegjës për Pastrimin e Madh të 1937–38, gjatë të cilit NKVD-ja ekzekutoi 681.692 njerëz;<ref>{{cite book| first = Abbott| last = Gleason| title = A companion to Russian history| year = 2009| publisher = Wiley-Blackwell| isbn = 978-1-4051-3560-3| page = 373| url = https://books.google.com/books?id=JyN0hlKcfTcC&pg=PA373| access-date = 30 July 2022| archive-date = 5 September 2015| archive-url = https://web.archive.org/web/20150905175409/https://books.google.com/books?id=JyN0hlKcfTcC&pg=PA373| url-status = live|language=en}}</ref> miliona njerëz u deportuan dhe u internuan në zona të largëta të Bashkimit Sovjetik.<ref>{{cite book | first = Geoffrey A.| last = Hosking| title = Russia and the Russians: a history| year = 2001| publisher = Harvard University Press| isbn = 978-0-674-00473-3| page = 469|language=en }}</ref>
+
+[[Skeda:Mussolini and Hitler 1940 (retouched).jpg|upright=0.75|thumb|left|Gjermania Naziste e nisi Luftën e Dytë Botërore shkatërruese në Evropë, nën udhëheqësin e saj, Adolf Hitler. Këtu Hitleri, në të djathtë, me aleatin e tij më të ngushtë, diktatorin italian Benito Musolini, në 1940.]]
+
+Revolucionet sociale që përshkuan Rusinë ndikuan gjithashtu në kombe të tjerë evropianë pas Luftës së Madhe: në 1919, me Republikën e Vajmarit në Gjermani dhe Republikën e Parë Austriake; në 1922, me qeverinë fashiste me një parti të Musolinit në Mbretërinë e Italisë, dhe me Republikën Turke të Ataturkut, që adoptoi alfabetin perëndimor dhe sekularizmin shtetëror.
+Paqëndrueshmëria ekonomike, e shkaktuar pjesërisht nga borxhet e marra gjatë Luftës së Parë Botërore dhe 'huatë' drejt Gjermanisë, shkaktoi kaos në Evropë në fund të viteve 1920 dhe në vitet 1930. Kjo, së bashku me shembjen e Bursës së Nju Jorkut të 1929-s, solli Depresionin e Madh botëror. E ndihmuar nga kriza ekonomike, paqëndrueshmëria sociale dhe kërcënimi i komunizmit, lëvizjet fashiste u zhvilluan nëpër Evropë, duke e vendosur Adolf Hitlerin në pushtet të asaj që u bë Gjermania Naziste.<ref name="hobsbawn">{{Cite book|last=Hobsbawm|first=Eric|publisher=Vintage|year=1995|isbn=978-0-679-73005-7|title=The Age of Extremes: A history of the world, 1914–1991|language=en}}</ref><ref name="natgeo 438">National Geographic, 438.</ref>
+
+Në 1933, Hitleri u bë udhëheqës i Gjermanisë dhe filloi të punonte drejt qëllimit të tij për të ndërtuar Gjermaninë e Madhe. Gjermania u rizgjerua dhe rimori Zarlandin dhe Rinlandin në 1935 dhe 1936. Në 1938, Austria u bë pjesë e Gjermanisë pas Anšlusit. Pas Marrëveshjes së Mynihut, të nënshkruar nga Gjermania, Franca, Mbretëria e Bashkuar dhe Italia, më vonë në 1938 Gjermania e aneksoi Sudetenlandin, pjesë e Çekosllovakisë e banuar nga gjermanë etnikë. Në fillim të 1939, pjesa e mbetur e Çekosllovakisë u nda në Protektoratin e Bohemisë dhe Moravisë, të kontrolluar nga Gjermania, dhe Republikën Sllovake. Në atë kohë, Mbretëria e Bashkuar dhe Franca preferuan një politikë pajtimi.
+
+Me tensione në rritje mes Gjermanisë dhe Polonisë rreth fatit të Dancigut (Gdanjskut), gjermanët iu drejtuan sovjetikëve dhe nënshkruan Paktin Molotov–Ribentrop, i cili i lejoi sovjetikët ta pushtonin shtetet baltike dhe pjesë të Polonisë dhe Rumanisë. Gjermania e pushtoi Poloninë më 1 shtator 1939, duke i shtyrë Francën dhe Mbretërinë e Bashkuar t'i shpallnin luftë Gjermanisë më 3 shtator, duke hapur teatrin evropian të Luftës së Dytë Botërore.<ref name="reich">{{cite web|url=https://www.history.com/topics/world-war-ii/adolf-hitler-1|title=Adolf Hitler: Rise of Power, Impact & Death|website=History.com|date=29 October 2009 |access-date=26 July 2020|archive-date=3 October 2018|archive-url=https://web.archive.org/web/20181003111423/https://www.history.com/topics/world-war-ii/adolf-hitler-1|url-status=live|language=en}}</ref> Pushtimi sovjetik i Polonisë filloi më 17 shtator, dhe Polonia ra shpejt pas kësaj. Më 24 shtator, Bashkimi Sovjetik sulmoi vendet baltike, dhe më 30 nëntor, Finlandën, e cila u pasua nga Lufta e Dimrit, shkatërruese për Ushtrinë e Kuqe.<ref>{{Cite web|url=https://www.warhistoryonline.com/war-articles/winter-war-finland.html|title=The Winter War – When the Finns Humiliated the Russians|first=Ivano|last=Massari|publisher=War History Online|date=18 August 2015|access-date=19 December 2021|archive-date=19 December 2021|archive-url=https://web.archive.org/web/20211219185618/https://www.warhistoryonline.com/war-articles/winter-war-finland.html|url-status=live|language=en}}</ref> Britanikët shpresonin të zbarkonin në Narvik dhe të dërgonin trupa për ta ndihmuar Finlandën, por objektivi i tyre kryesor në zbarkim ishte ta rrethonin Gjermaninë dhe ta ndanin nga burimet skandinave. Rreth të njëjtës kohë, Gjermania i lëvizi trupat në Danimarkë. Lufta e Rreme vazhdoi.
+
+Në maj 1940, Gjermania sulmoi Francën përmes Vendeve të Ulëta. Franca kapitulloi në qershor 1940. Deri në gusht, Gjermania kishte filluar një ofensivë bombardimesh kundër Mbretërisë së Bashkuar, por nuk arriti t'i bindte britanikët të dorëzoheshin.<ref name="natgeo 510">National Geographic, 510.</ref> Në 1941, Gjermania e pushtoi Bashkimin Sovjetik në Operacionin Barbarosa.<ref name="natgeo 532">National Geographic, 532.</ref> Më 7 dhjetor 1941, sulmi i Japonisë ndaj Pearl Harborit e tërhoqi Shtetet e Bashkuara në konflikt si aleate të Perandorisë Britanike dhe forcave të tjera aleate.<ref name="natgeo 511">National Geographic, 511.</ref>
+
+[[Skeda:Yalta Conference (Churchill, Roosevelt, Stalin) (B&W).jpg|thumb|"Tre të Mëdhenjtë" në Konferencën e Jaltës, në 1945; ulur (nga e majta): Winston Churchill, Franklin D. Roosevelt, dhe Josif Stalini]]
+Pas Betejës shtypëse së Stalingradit në 1943, ofensiva gjermane në Bashkimin Sovjetik u kthye në tërheqje të vazhdueshme. Beteja e Kurskut, që përfshiu betejën më të madhe të tankeve në histori, ishte ofensiva e fundit e madhe gjermane në Frontin Lindor. Në qershor 1944, forcat britanike dhe amerikane e pushtuan Francën në zbarkimet e Normandisë (Dita D), duke hapur një front të ri kundër Gjermanisë. Berlini përfundimisht ra në 1945, duke përfunduar Luftën e Dytë Botërore në Evropë. Lufta ishte më e madhja dhe më shkatërrimtarja në historinë njerëzore, me 60 milionë të vdekur në të gjithë botën.<ref name="natgeo 439">National Geographic, 439.</ref> Mbi 40 milionë njerëz në Evropë kishin vdekur si rezultat i Luftës së Dytë Botërore,<ref>Europe honours war dead on VE Day. BBC News. 9 maj 2005.</ref> përfshirë mes 11 dhe 17 milionë njerëz që humbën jetën gjatë Holokaustit.<ref>Niewyk, Donald L. dhe Nicosia, Francis R. ''The Columbia Guide to the Holocaust'', Columbia University Press, 2000, f. 45–52.</ref> Bashkimi Sovjetik humbi rreth 27 milionë njerëz (kryesisht civilë) gjatë luftës, rreth gjysmën e të gjitha viktimave të Luftës së Dytë Botërore.<ref>Leaders mourn Soviet wartime dead. BBC News. 9 maj 2005.</ref> Deri në fund të Luftës së Dytë Botërore, Evropa kishte mbi 40 milionë refugjatë.<ref>{{Cite book |title=The State of The World's Refugees 2000: Fifty Years of Humanitarian Action |publisher=Oxford University Press |year=2000 |page=13 |language=en }}</ref> Disa dëbime pasluftë në Evropën Qendrore dhe Lindore zhvendosën gjithsej rreth 20 milionë njerëz.<ref>{{Cite journal|last=Schechtman|first=Joseph B.|date=1953|title=Postwar Population Transfers in Europe: A Survey|journal=The Review of Politics|volume=15|issue=2|pages=151–178|jstor=1405220|doi=10.1017/s0034670500008081|s2cid=144307581|language=en }}</ref>
+
+Lufta e Parë Botërore, dhe veçanërisht e Dyta, e zvogëluan spikatjen e Evropës Perëndimore në çështjet botërore. Pas Luftës së Dytë Botërore, harta e Evropës u ridizajnua në Konferencën e Jaltës dhe u nda në dy blloqe, vendet perëndimore dhe blloku lindor komunist, të ndarë nga ajo që më vonë u quajt nga Winston Churchill një "Perde Hekuri". Shtetet e Bashkuara dhe Evropa Perëndimore themeluan aleancën NATO, dhe më vonë, Bashkimi Sovjetik dhe Evropa Qendrore themeluan Paktin e Varshavës.<ref name="natgeo 530">National Geographic, 530.</ref> Pika të nxehta të veçanta pas Luftës së Dytë Botërore ishin Berlini dhe Triesti, ku Territori i Lirë i Triestit, themeluar në 1947 me OKB-në, u shpërbë përkatësisht në 1954 dhe 1975. Bllokada e Berlinit në 1948–1949 dhe ndërtimi i Murit të Berlinit në 1961 ishin mes krizave të mëdha ndërkombëtare të Luftës së Ftohtë.
+
+Dy superfuqitë e reja, Shtetet e Bashkuara dhe Bashkimi Sovjetik, u kyçën në një Luftë të Ftohtë pesëdhjetëvjeçare, të përqendruar te përhapja bërthamore. Njëkohësisht, dekolonizimi, i cili kishte filluar tashmë pas Luftës së Parë Botërore, rezultoi gradualisht në pavarësinë e shumicës së kolonive evropiane në Azi dhe Afrikë.<ref name="natgeo 534"/>
+
+[[Skeda:Flag of Europe.svg|thumb|Flamuri i Evropës, miratuar nga Këshilli i Evropës në 1955, si flamuri për gjithë Evropën<ref>The European flag, Council of Europe.</ref>]]
+
+Në vitet 1980, reformat e Mikhail Gorbaçovit dhe lëvizja Solidariteti në Poloni e dobësuan sistemin komunist më parë të ngurtë. Hapja e Perdes së Hekurt në Piknikun Pan-Evropian nisi më pas një reaksion zinxhir paqësor, në fund të të cilit u shembën Blloku Lindor, Pakti i Varshavës dhe shtete të tjera komuniste, dhe Lufta e Ftohtë mori fund. Gjermania u ribashkua, pas rënies simbolike të Murit të Berlinit në 1989, dhe hartat e Evropës Qendrore dhe Lindore u ridizajnuan edhe një herë. Kjo bëri të mundshme marrëdhënie kulturore dhe ekonomike të vjetra, të ndërprera më parë, dhe qytete më parë të izoluara, si Berlini, Praga, Vjena, Budapesti dhe Triesti, ishin tani përsëri në qendër të Evropës.
+
+Integrimi evropian gjithashtu u rrit pas Luftës së Dytë Botërore. Në 1949 u themelua Këshilli i Evropës, pas një fjalimi të Sir Winston Churchillit, me idenë e bashkimit të Evropës<ref name="europaeu 1945-59"/> për të arritur qëllime të përbashkëta. Përfshin të gjitha shtetet evropiane, përveç Bjellorusisë, Rusisë,<ref>{{cite web|url=https://www.themoscowtimes.com/2022/03/10/russia-quits-europes-rule-of-law-body-sparking-questions-over-death-penalty-a76854|title=Russia Quits Europe's Rule of Law Body, Sparking Questions Over Death Penalty|work=The Moscow Times|date=10 March 2022|access-date=12 March 2022|archive-date=12 March 2022|archive-url=https://web.archive.org/web/20220312015058/https://www.themoscowtimes.com/2022/03/10/russia-quits-europes-rule-of-law-body-sparking-questions-over-death-penalty-a76854|url-status=live|language=en}}</ref> dhe Vatikanit. Traktati i Romës i 1957-s themeloi Komunitetin Ekonomik Evropian mes gjashtë shteteve të Evropës Perëndimore, me qëllimin e një politike ekonomike të unifikuar dhe tregu të përbashkët.<ref name="natgeo 536">National Geographic, 536.</ref> Traktati i Bashkimit i 1967-s krijoi një Komision dhe Këshill të vetëm për Komunitetin Ekonomik Evropian, Komunitetin Evropian të Qymyrit dhe Çelikut, dhe Euratom-in, ndërsa tri komunitetet mbetën ligjërisht të dallueshme.<ref>{{cite web |title=History of the European Union – 1960–69 |url=https://european-union.europa.eu/principles-countries-history/history-eu/1960-69_en |website=European Union |access-date=20 August 2026|language=en}}</ref> Traktati i Mastrihtit, i cili hyri në fuqi në 1993, themeloi Bashkimin Evropian dhe e riemëroi Komunitetin Ekonomik Evropian si Komunitetin Evropian.<ref>{{cite web |title=Maastricht Treaty |url=https://www.europarl.europa.eu/about-parliament/en/in-the-past/the-parliament-and-the-treaties/maastricht-treaty |website=European Parliament |access-date=20 August 2026|language=en}}</ref> BE-ja themeloi një parlament, një gjykatë dhe një bankë qendrore, dhe futi euron si monedhë të unifikuar.<ref name="natgeo 537">National Geographic, 537.</ref> Mes 2004 dhe 2013, më shumë vende të Evropës Qendrore filluan të anëtarësoheshin, duke e zgjeruar BE-në në 28 vende evropiane, dhe duke e bërë edhe një herë Evropën qendër të madhe ekonomike dhe politike pushteti.<ref name="natgeo 535">National Geographic, 535.</ref> Sidoqoftë, Mbretëria e Bashkuar u tërhoq nga BE-ja më 31 janar 2020, si rezultat i një referendumi të qershorit 2016 mbi anëtarësimin në BE.<ref>{{cite news |title=UK leaves the European Union |url=https://www.bbc.co.uk/news/uk-politics-51333314 |access-date=16 July 2020 |publisher=BBC News |date=1 February 2020 |archive-date=14 March 2020 |archive-url=https://web.archive.org/web/20200314050137/https://www.bbc.co.uk/news/uk-politics-51333314 |url-status=live|language=en }}</ref> Lufta Ruso-Ukrainase u përshkallëzua ndjeshëm pas pushtimit rus të Ukrainës të 2022-s, më 24 shkurt 2022, duke shënuar krizën më të madhe humanitare dhe të refugjatëve në Evropë që nga Lufta e Dytë Botërore,<ref>{{cite news |title=Ukrainian exodus could be Europe's biggest refugee crisis since World War II |newspaper=El País |date=3 March 2022 |url=https://english.elpais.com/international/2022-03-03/ukrainian-exodus-could-be-europes-biggest-refugee-crisis-since-world-war-ii.html |access-date=30 July 2022 |archive-date=5 April 2022 |archive-url=https://web.archive.org/web/20220405100721/https://english.elpais.com/international/2022-03-03/ukrainian-exodus-could-be-europes-biggest-refugee-crisis-since-world-war-ii.html |url-status=live|language=en }}</ref> dhe Luftërat Jugosllave.<ref>{{cite web |title=Protecting Ukrainian refugees: What can we learn from the response to Kosovo in the 90s? |date=7 March 2022 |url=https://www.britishfuture.org/protecting-ukrainian-refugees-what-can-we-learn-from-kosovo/ |access-date=29 March 2022 |website=British Future |archive-date=7 March 2022 |archive-url=https://web.archive.org/web/20220307205755/https://www.britishfuture.org/protecting-ukrainian-refugees-what-can-we-learn-from-kosovo/ |url-status=live|language=en }}</ref>
+== Gjeografia ==
+{{Kryesor|Gjeografia e Evropës}}
+[[Skeda:Europe topographic map 2024.jpg|thumb|Hartë topografike e përgjithshme e Evropës, që tregon karakteristika fizike, politike dhe të popullsisë, sipas 2024]]
+
+Evropa përbën të pestën perëndimore të trajtës tokësore Euroaziatike.<ref name="Encarta"/> Ka raportin më të lartë bregdet-tokë krahasuar me çdo kontinent apo nënkontinent tjetër.<ref>{{cite news |last = Cuper |first = Simon |date = 23 May 2014 |title = Why Europe works |url = https://www.ft.com/content/51dd9432-db03-11e3-8273-00144feabdc0 |newspaper = Financial Times |access-date = 28 May 2014 |archive-date = 22 August 2016 |archive-url = https://web.archive.org/web/20160822231728/http://www.ft.com/cms/s/2/51dd9432-db03-11e3-8273-00144feabdc0.html |url-status = live|language=en }}</ref> Kufijtë e saj detarë përbëhen nga Oqeani Arktik në veri, Oqeani Atlantik në perëndim, dhe Detet Mesdhe, i Zi dhe Kaspik në jug.<ref>Europe. Encyclopædia Britannica.</ref>
+Relievi tokësor në Evropë tregon variacion të madh brenda zonave relativisht të vogla. Rajonet jugore janë më malore, ndërsa duke shkuar drejt veriut, terreni zbret nga Alpet e larta, Pirenejet dhe Karpatet, përmes rrafshinave kodrinore, deri në fusha të gjera dhe të ulëta veriore, të gjera në lindje. Kjo ultësirë e zgjatur njihet si Fusha e Madhe Evropiane, dhe në zemër të saj shtrihet Fusha e Gjermanisë Veriore. Një hark rrafshinash ekziston gjithashtu përgjatë bregut verilindor, që fillon në pjesët perëndimore të ishujve të Britanisë dhe Irlandës, dhe pastaj vazhdon përgjatë shtyllës malore, të prerë nga fjorde, të Norvegjisë.
+
+Ky përshkrim është i thjeshtëzuar. Nënrajone si Gadishulli Iberik dhe Gadishulli Italian përmbajnë tiparet e tyre komplekse, ashtu si edhe vetë Evropa Qendrore kontinentale, ku relievi përmban shumë platoja, lugina lumenjsh dhe pellgje që e komplikojnë prirjen e përgjithshme. Nënrajone si Islanda, Britania dhe Irlanda janë raste të veçanta. E para është një tokë më vete në oqeanin verior, që konsiderohet pjesë e Evropës, ndërsa të dytat janë zona të larta që dikur ishin të bashkuara me kontinentin, deri sa rritja e nivelit të detit i shkëputi.
+
+Liqenet më të mëdha evropiane ndodhen në veri të kontinentit. Vollga dhe Danubi janë dy lumenjtë më të gjatë të Evropës. Ujëvara më e madhe e Evropës (sipas shkallës së rrjedhjes) është Ujëvara e Rinit, mbi lumin Rin.
+
+=== Klima ===
+{{Kryesor|Klima e Evropës}}
+[[Skeda:Vegetation Europe.png|thumb|Biomet e Evropës dhe rajoneve përreth:
+<br />
+{{legend0|#9fd6c9|tundra}}
+{{legend0|#a7bddb|tundra alpine}}
+{{legend0|#006d64|tajga}}
+{{legend0|#3c9798|pylli malor}} <br />
+{{legend0|#a4e05d|pylli i butë gjetheveror}}
+{{legend0|#907699|pylli mesdhetar}}
+{{legend0|#f7ec6f|stepa e butë}}
+{{legend0|#9b8447|stepa e thatë}}
+]]
+
+Evropa shtrihet kryesisht në zonën klimatike të butë të hemisferës veriore, ku drejtimi mbizotërues i erës është nga perëndimi. Klima është më e butë krahasuar me zona të tjera të së njëjtës gjerësi gjeografike rreth globit, për shkak të ndikimit të Rrymës së Gjirit, rrymë oqeanike që bart ujë të ngrohtë nga Gjiri i Meksikës, përgjatë Oqeanit Atlantik, drejt Evropës.<ref name="climate">{{cite web|url=http://www.worldbook.com/wb/Students?content_spotlight/climates/european_climate |title=European Climate |website=World Book |access-date=16 June 2008 |publisher=World Book, Inc |archive-url=https://web.archive.org/web/20061109230709/http://www.worldbook.com/wb/Students?content_spotlight%2Fclimates%2Feuropean_climate |archive-date=9 November 2006|language=en }}</ref> Rryma e Gjirit njihet me nofkën "ngrohja qendrore e Evropës", pasi e bën klimën e Evropës më të ngrohtë dhe më të lagësht sesa do të ishte ndryshe. Rryma e Gjirit jo vetëm bart ujë të ngrohtë drejt bregdetit të Evropës, por edhe ngroh erërat perëndimore mbizotëruese që fryjnë nëpër kontinent nga Oqeani Atlantik.
+
+Prandaj, temperatura mesatare vjetore në Aveiro, Portugali, është 16°C, ndërsa është vetëm 13°C në Nju Jork, që gjendet pothuajse në të njëjtën gjerësi gjeografike, duke kufizuar me të njëjtin oqean. Berlini, Gjermani; Kalgari, Kanada; dhe Irkutski, në juglindje të largët të Rusisë, gjenden përafërsisht në të njëjtën gjerësi gjeografike; temperaturat e janarit në Berlin janë mesatarisht rreth 8°C më të larta se ato në Kalgari, dhe pothuajse 22°C më të larta se temperaturat mesatare në Irkutsk.<ref name="climate"/>
+
+Masat e mëdha ujore të Detit Mesdhe, që e barazojnë temperaturën mesatare vjetore dhe ditore, janë gjithashtu me rëndësi të veçantë. Uji i Mesdheut shtrihet nga Sahara deri te harku alpin, në pjesën e tij më veriore të Detit Adriatik, pranë Triestes.<ref>Josef Wasmayer "Wetter- und Meereskunde der Adria" (1976), f. 5.</ref>
+
+Në përgjithësi, Evropa nuk është thjesht më e ftohtë drejt veriut krahasuar me jugun, por bëhet gjithashtu më e ftohtë nga perëndimi drejt lindjes. Klima është më oqeanike në perëndim dhe më pak e tillë në lindje. Kjo mund të ilustrohet me tabelën e mëposhtme të temperaturave mesatare, në vendndodhje që ndjekin përafërsisht gjerësitë gjeografike 64, 60, 55, 50, 45 dhe 40. Asnjëra prej tyre nuk gjendet në lartësi të madhe; shumica janë afër detit.
+
+[[Skeda:Koppen-Geiger Map Europe present.svg|thumb|650px|Harta e klasifikimit klimatik Köppen-Geiger për Evropën<ref>{{cite journal |last1=Beck |first1=Hylke E. |last2=Zimmermann |first2=Niklaus E. |last3=McVicar |first3=Tim R. |last4=Vergopolan |first4=Noemi |last5=Berg |first5=Alexis |last6=Wood |first6=Eric F. |title=Present and future Köppen-Geiger climate classification maps at 1-km resolution |journal=Scientific Data |date=30 October 2018 |volume=5 |article-number=180214 |doi=10.1038/sdata.2018.214 |doi-access=free|pmid=30375988 |pmc=6207062 |bibcode=2018NatSD...580214B|language=en }}</ref>]]
+
+{| class="wikitable"
+|+Temperaturat në °C
+|-
+! Vendndodhja !! Gjerësia !! Gjatësia !!Muaji<br />më i ftohtë!!Muaji<br />më i ngrohtë!!Mesatarja<br />vjetore
+|-
+| Rejkjaviku || 64 V || 22 P || 0,1 || 11,2 || 4,7
+|-
+| Umeå || 64 V || 20 L || −6,2 || 16,0 || 3,9
+|-
+| Oulu || 65 V || 25,5 L || −9,6 || 16,5 || 2,7
+|-
+| Arhangelsk || 64,5 V || 40,5 L || −12,7 || 16,3 || 1,3
+|-bgcolor="000000"
+|colspan=6|
+|-
+| Lerwick || 60 V || 1 P || 3,5 || 12,4 || 7,4
+|-
+| Stokholmi || 59,5 V || 19 L || −1,7 || 18,4 || 7,4
+|-
+| Helsinki || 60 V || 25 L || −4,7 || 17,8 || 5,9
+|-
+| Shën Petersburgu || 60 V || 30 L || −5,8 || 18,8 || 5,8
+|-bgcolor="000000"
+|colspan=6|
+|-
+| Edinburgu || 55,5 V || 3 P || 4,2 || 15,3 || 9,3
+|-
+| Kopenhaga || 55,5 V || 12 L || 1,4 || 18,1 || 9,1
+|-
+| Klaipeda || 55,5 V || 21 L || −1,3 || 17,9 || 8,0
+|-
+| Moska || 55,5 V || 30 L || −6,5 || 19,2 || 5,8
+|-bgcolor="000000"
+|colspan=6|
+|-
+| Ishujt Scilly || 50 V || 6 P || 7,9 || 16,9 || 11,8
+|-
+| Brukseli || 50,5 V || 4 L || 3,3 || 18,4 || 10,5
+|-
+| Krakovi || 50 V || 20 L || −2,0 || 19,2 || 8,7
+|-
+| Kievi || 50,5 V || 30 L || −3,5 || 20,5 || 8,4
+|-bgcolor="000000"
+|colspan=6|
+|-
+| Bordo || 45 V || 0 || 6,6 || 21,4 || 13,8
+|-
+| Venecia || 45,5 V || 12 L || 3,3 || 23,0 || 13,0
+|-
+| Beogradi || 45 V || 20 L || 1,4 || 23,0 || 12,5
+|-
+| Astrakani || 46 V || 48 L || −3,7 || 25,6 || 10,5
+|-bgcolor="000000"
+|colspan=6|
+|-
+| Koimbra || 40 V || 8 P || 10,1 || 22,4 || 16,2
+|-
+| Valencia || 39,5 V || 0 || 12,1 || 26,5 || 18,6
+|-
+| Napoli || 40,5 V || 14 L || 9,1 || 26,2 || 17,0
+|-
+| Stambolli || 41 V || 29 L || 5,9 || 24,2 || 14,4
+|-
+|}
+<ref>Tabelat klimatike të artikujve përkatës, ku mund të gjenden burimet e sakta</ref>
+Temperaturat mesatare të muajit më të ftohtë, si dhe temperaturat mesatare vjetore, bien nga perëndimi drejt lindjes. Për shembull, Edinburgu është më i ngrohtë se Beogradi gjatë muajit më të ftohtë të vitit, edhe pse Beogradi gjendet rreth 10° gjerësie gjeografike më në jug.
+
+=== Ndryshimet klimatike ===
+Efektet mbi vendet evropiane përfshijnë mot më të ngrohtë dhe rritje të shpeshtësisë e intensitetit të motit ekstrem, si valët e nxehtësisë, duke sjellë rreziqe shëndetësore dhe efekte mbi ekosistemet, për shembull thatësira evropiane e vitit 2026.<ref>{{Cite news |last=Carrington |first=Damian |date=2026-07-23 |title=Climate crisis-driven heat 'sucking soils dry' as extreme drought hits Europe |url=https://www.theguardian.com/environment/2026/jul/23/climate-crisis-heat-sucking-soils-dry-extreme-drought-europe-analysis |access-date=2026-08-07 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> Vendet evropiane janë kontribuese kryesore ndaj emetimeve globale të gazrave serrë, edhe pse Bashkimi Evropian dhe qeveritë e disa vendeve kanë skicuar plane për zbatimin e zbutjes së ndryshimeve klimatike dhe një tranzicioni energjetik në shekullin XXI, me Marrëveshjen e Gjelbër Evropiane si një prej tyre.
+
+=== Gjeologjia ===
+{{Hatnote|Artikulli kryesor: {{ill|Gjeologjia e Evropës|en|Geology of Europe}}}}
+[[Skeda:Europe geological map-en.jpg|thumb|right|upright=1.2|Gjeologjia sipërfaqësore e Evropës]]
+
+Historia gjeologjike e Evropës gjurmohet deri te formimi i Mburojës Balltike (Fenoskandia) dhe kratonit Sarmatik, të dy rreth 2,25 miliardë vjet më parë, të ndjekur nga mburoja Vollgo-Uraliane, të treja së bashku duke çuar te kratoni Ist-Evropian (≈ Baltika), i cili u bë pjesë e superkontinentit Kolumbia. Rreth 1,1 miliardë vjet më parë, Baltika dhe Arktika (si pjesë e bllokut të Laurentias) u bashkuan me Rodinian, duke u ndarë përsëri më vonë, rreth 550 milionë vjet më parë, për t'u riformuar si Baltika. Rreth 440 milionë vjet më parë, Euamerika u formua nga Baltika dhe Laurentia; një bashkim i mëtejshëm me Gondvanën çoi më pas në formimin e Pangeas. Rreth 190 milionë vjet më parë, Gondvana dhe Lauraziaja u ndanë për shkak të zgjerimit të Oqeanit Atlantik. Përfundimisht, dhe shumë shpejt pas kësaj, vetë Lauraziaja u nda përsëri, në Laurentia (Amerika Veriore) dhe kontinentin Euroaziatik. Lidhja tokësore mes të dyjave vazhdoi për një kohë të konsiderueshme, përmes Grenlandës, duke çuar në shkëmbim specish shtazore. Që nga rreth 50 milionë vjet më parë, rritja dhe rënia e niveleve të detit kanë përcaktuar formën aktuale të Evropës dhe lidhjet e saj me kontinente si Azia. Forma e sotme e Evropës daton në periudhën e vonë terciare, rreth pesë milionë vjet më parë.<ref name="Encyclopædia Britannica">{{cite encyclopedia|url=https://www.britannica.com/eb/article-9106055 |title=Europe |encyclopedia=Encyclopædia Britannica |year=2007 |access-date=10 June 2008 |archive-url=https://web.archive.org/web/20071204015044/https://www.britannica.com/eb/article-9106055 |archive-date=4 December 2007|language=en }}</ref>
+
+Gjeologjia e Evropës është jashtëzakonisht e larmishme dhe komplekse, dhe krijon larminë e gjerë të peizazheve që gjenden nëpër kontinent, nga Highlands-et Skoceze deri te fushat kodrinore të Hungarisë.<ref>{{cite web|url=http://www.soton.ac.uk/~imw/jpg/eurogy.jpg|title=Geology map of Europe|year=1967|publisher=University of Southampton|access-date=9 June 2008|archive-date=11 August 2019|archive-url=https://web.archive.org/web/20190811131707/http://www.soton.ac.uk/~imw/jpg/eurogy.jpg|url-status=live|language=en}}</ref> Tipari më domethënës i Evropës është dikotomia mes Evropës Jugore, malore dhe me lartësi, dhe një fushe të gjerë, pjesërisht nënujore, veriore, që shtrihet nga Irlanda në perëndim deri te Malet Ural në lindje. Këto dy gjysma ndahen nga vargmalet e Pirenejeve dhe Alpeve/Karpateve. Fushat veriore kufizohen në perëndim nga Malet Skandinave dhe pjesët malore të Ishujve Britanikë. Trupa të mëdhenj uji të cekët, që përmbytin pjesë të fushave veriore, janë Deti Keltik, Deti i Veriut, kompleksi i Detit Balltik, dhe Deti Barents.
+
+Fusha veriore përmban kontinentin e vjetër gjeologjik të Baltikës, dhe kështu mund të konsiderohet gjeologjikisht si "kontinenti kryesor", ndërsa rajonet periferike malore dhe me lartësi në jug dhe perëndim përbëjnë fragmente nga kontinente të tjera gjeologjike. Pjesa më e madhe e gjeologjisë më të vjetër të Evropës Perëndimore ekzistoi si pjesë e mikrokontinentit të lashtë Avalonia.
+
+=== Flora ===
+[[Skeda:Europe land use map.png|thumb|left|upright=1.2|Hartë e përdorimit të tokës në Evropë, me tokë bujqësore të punueshme (verdhë), pyll (jeshile e errët), kullotë (jeshile e çelët), dhe tundër ose kënetë, në veri (verdhë e errët)]]
+
+Duke jetuar krah për krah me popujt bujqësorë për mijëvjeçarë, kafshët dhe bimët e Evropës janë ndikuar thellësisht nga prania dhe aktivitetet e njeriut. Me përjashtim të Fenoskandisë dhe Rusisë veriore, pak zona natyre të paprekur gjenden aktualisht në Evropë, përveç parqeve të ndryshme kombëtare.
+
+Mbulesa kryesore natyrore bimore në Evropë është pylli i përzier. Kushtet për rritje janë shumë të favorshme. Në veri, Rryma e Gjirit dhe Rryma e Atlantikut Verior e ngrohin kontinentin. Evropa Jugore ka klimë të ngrohtë por të butë. Ka thatësira të shpeshta verore në këtë rajon. Vargmalet ndikojnë gjithashtu në kushtet. Disa prej tyre, si Alpet dhe Pirenejet, janë të orientuara lindje-perëndim dhe i lejojnë erës të bartë masa të mëdha uji nga oqeani drejt brendësisë. Të tjerë janë të orientuar jug-veri (Malet Skandinave, Alpet Dinarike, Karpatet, Apeninet), dhe meqenëse shiu bie kryesisht në anën e maleve të orientuar drejt detit, pyjet rriten mirë në atë anë, ndërsa në anën tjetër, kushtet janë shumë më pak të favorshme. Pak cepa të Evropës kontinentale nuk janë kullotur ndonjëherë nga bagëtia, dhe prerja e habitatit pyjor para-bujqësor shkaktoi ndërprerje të ekosistemeve origjinale bimore dhe shtazore. Sipërfaqja e pyllit parësor në Evropë u rrit me një normë mesatare vjetore prej 191.000 hektarësh mes 1990–2000, 217.000 ha mes 2000–2015, dhe 153.000 ha mes 2015–2025.<ref>{{Cite book |last=FAO |url=https://openknowledge.fao.org/handle/20.500.14283/cd6709en |title=Global Forest Resources Assessment 2025 |date=2025 |publisher=FAO |isbn=978-92-5-140082-1 |language=en |doi=10.4060/cd6709en}}</ref>
+[[Skeda:Floristic regions in Europe (english).png|upright=1.2|thumb|Rajonet floristike të Evropës dhe zonave fqinje, sipas Wolfgang Frey dhe Rainer Lösch]]
+Ndoshta 80 deri 90 përqind e Evropës ishte dikur e mbuluar me pyll.<ref>{{cite web|url=http://www.saveamericasforests.org/europages/history&geography.htm|title=History and geography|publisher=Save America's Forest Funds|access-date=9 June 2008|archive-date=6 October 2008|archive-url=https://web.archive.org/web/20081006131242/http://www.saveamericasforests.org/europages/history%26geography.htm|url-status=live|language=en}}</ref> Shtrihej nga Deti Mesdhe deri te Oqeani Arktik. Edhe pse mbi gjysma e pyjeve origjinale të Evropës u zhdukën gjatë shekujve të çpyllëzimit, Evropa ende ka mbi një të katërtën e sipërfaqes së saj tokësore si pyll, si pyjet gjetheverore dhe të përziera, tajga e Skandinavisë dhe Rusisë, pyjet e shiut të përziera të Kaukazit, dhe pyjet e lisit tape në Mesdheun perëndimor. Kohëve të fundit, çpyllëzimi është ngadalësuar dhe shumë pemë janë mbjellë. Sidoqoftë, në shumë raste, plantacione monokulture halorësh kanë zëvendësuar pyllin e përzier origjinal natyror, sepse këta rriten më shpejt. Plantacionet tani mbulojnë zona të gjera toke, por ofrojnë habitate më të varfra për shumë specie pyjore evropiane, që kërkojnë një përzierje llojesh pemësh dhe strukturë të larmishme pyjore. Sasia e pyllit natyror në Evropën Perëndimore është vetëm 2–3% ose më pak, ndërsa në Rusinë Perëndimore është 5–10%. Vendi evropian me përqindjen më të vogël të sipërfaqes së pyllëzuar është Islanda (1%), ndërsa vendi më i pyllëzuar është Finlanda (77%).<ref>{{cite web|url=http://www.mcpfe.net/system/files/u1/publications/pdf/state_of_europes_forests_2007.pdf |title=State of Europe's Forests 2007: The MCPFE report on sustainable forest management in Europe |publisher=EFI Euroforest Portal |page=182 |access-date=9 June 2008 |archive-url=https://web.archive.org/web/20080624190612/http://www.mcpfe.net/system/files/u1/publications/pdf/state_of_europes_forests_2007.pdf |archive-date=24 June 2008|language=en }}</ref>
+
+Në Evropën e butë, pylli i përzier me pemë gjetheverore dhe halore dominon. Speciet më të rëndësishme në Evropën Qendrore dhe Perëndimore janë ahu dhe lisi. Në veri, tajga është pyll i përzier bredhi–pishe–meshte; më në veri, brenda Rusisë dhe Skandinavisë ekstreme veriore, tajga i lë vendin tundrës, ndërsa i afrohesh Arktikut. Në Mesdhe, janë mbjellë shumë ullinj, të cilët janë shumë mirë të përshtatur me klimën e tij të thatë; selvia mesdhetare gjithashtu mbillet gjerësisht në Evropën Jugore. Rajoni gjysmë i thatë mesdhetar strehon shumë pyll shkurresh. Një gjuhë e ngushtë lindje-perëndim livadhesh euroaziatike (stepa) shtrihet drejt perëndimit nga Ukraina dhe Rusia jugore dhe përfundon në Hungari, duke kaluar në tajgë drejt veriut.
+
+=== Fauna ===
+{{Hatnote|Artikulli kryesor: {{ill|Fauna e Evropës|en|Fauna of Europe}}}}
+[[Skeda:Europe biogeography countries.svg|thumb|left|upright=1.2|Rajonet biogjeografike të Evropës dhe rajoneve kufitare]]
+
+Akullnajimi gjatë epokës më të fundit të akullnajave dhe prania e njerëzve ndikuan në shpërndarjen e faunës evropiane. Sa i përket kafshëve, në shumë pjesë të Evropës, shumica e kafshëve të mëdha dhe specieve grabitqare kulmore janë gjuajtur deri në zhdukje. Mamuti leshtor u zhduk para përfundimit të periudhës Neolitike. Sot, ujqit (mishngrënës) dhe arinjtë (gjithngrënës) janë të rrezikuar. Dikur gjendeshin në pjesën më të madhe të Evropës. Sidoqoftë, çpyllëzimi dhe gjuetia i detyruan këto kafshë të tërhiqeshin gjithnjë e më shumë. Deri në Mesjetë, habitatet e arinjve u kufizuan në male më pak a më shumë të paarritshme, me mbulesë të mjaftueshme pyjore. Sot, ariu i murrmë jeton kryesisht në gadishullin e Ballkanit, Skandinavi dhe Rusi; një numër i vogël mbijeton edhe në vende të tjera nëpër Evropë (Austri, Pirenej, etj.), por në këto zona popullsitë e arinjve të murrmë janë të fragmentuara dhe të margjinalizuara për shkak të shkatërrimit të habitatit të tyre. Për më tepër, arinj polarë mund të gjenden në Svalbard, arkipelag norvegjez, larg në veri të Skandinavisë. Ujku, grabitqari i dytë më i madh në Evropë pas ariut të murrmë, mund të gjendet kryesisht në Evropën Qendrore e Lindore dhe në Ballkan, me disa tufa të pakta në xhepa të Evropës Perëndimore (Skandinavi, Spanjë, etj.).
+
+[[Skeda:Neandertal - Wisent.jpg|thumb|right|Dikur duke enderuar pyjet e mëdha të butë të Euroazisë, bizoni evropian tani jeton në rezervate natyrore në Pyllin e Białowieżas, në kufirin mes Polonisë dhe Bjellorusisë.<ref>{{cite web|url=http://www.ultimateungulate.com/artiodactyla/bison_bonasus.html|title=European bison, Wisent|access-date=19 January 2017|archive-url=https://web.archive.org/web/20161226095419/http://www.ultimateungulate.com/artiodactyla/bison_bonasus.html|archive-date=26 December 2016|language=en}}</ref>]]
+
+Mishngrënës të tjerë përfshijnë maçokun e egër evropian, dhelprën e kuqe dhe dhelprën arktike, çakallin e artë, specie të ndryshme kutrash, iriqin evropian, specie të ndryshme zvarranikësh (si gjarpërinj, viperat dhe gjarpërinjtë e barit) dhe amfibësh, si dhe zogj të ndryshëm (buf, skifterë dhe zogj të tjerë grabitqarë).
+
+Barngrënës të rëndësishëm evropianë janë kërmijtë, larvat, peshqit, zogj dhe gjitarë të ndryshëm, si brejtësit, drerët dhe capërkeqtë, derrat e egër, dhe, duke jetuar në male, marmotat, cjeptë e egër alpinë, dhe dhitë e egra malore, mes të tjerash. Një numër insektesh, si flutura e vogël breshkë-guaskë, shtojnë biodiversitetin.<ref>{{cite journal | last1 = Bryant | first1 = S. | last2 = Thomas | first2 = C. | last3 = Bale | first3 = J. | year = 1997 | title = Nettle-feeding nymphalid butterflies: temperature, development and distribution | journal = Ecological Entomology | volume = 22 | issue = 4| pages = 390–398 | doi = 10.1046/j.1365-2311.1997.00082.x | bibcode = 1997EcoEn..22..390B | s2cid = 84143178|language=en }}</ref>
+
+Krijesat e detit janë gjithashtu një pjesë e rëndësishme e florës dhe faunës evropiane. Flora e detit është kryesisht fitoplankton. Kafshë të rëndësishme që jetojnë në detet evropiane janë zooplanktoni, molusqet, ekinodermet, kërmij të ndryshëm detarë, kallamarët dhe oktapodët, peshqit, delfinët dhe balenat.
+
+Biodiversiteti mbrohet në Evropë përmes Konventës së Bernit të Këshillit të Evropës, e cila është nënshkruar gjithashtu nga Komuniteti Evropian, si dhe nga shtete jashtë-evropiane.
+
+== Politika ==
+{{Hatnote|Artikulli kryesor: {{ill|Politika e Evropës|en|Politics of Europe}}}}
+[[Skeda:V-Dem Electoral Democracy Index 2026 Europe.svg|thumb|upright=1.1|Demokracia në Evropë, sipas Indeksit të Demokracisë Elektorale V-Dem të vitit 2026, me blu të errët më demokratike dhe kuqe të errët më pak demokratike<ref name="j496"/>]]
+
+Harta politike e Evropës rrjedh në masë të madhe nga riorganizimi i Evropës pas Luftërave Napoleonike, në 1815. Forma mbizotëruese e qeverisjes në Evropë është demokracia parlamentare, në shumicën e rasteve në formën e republikës; në 1815, forma mbizotëruese e qeverisjes ishte ende monarkia. Njëmbëdhjetë monarkitë e mbetura të Evropës<ref>duke mos llogaritur mikroshtetin e Vatikanit</ref> janë kushtetuese.
+
+Integrimi evropian është procesi i integrimit politik, ligjor, ekonomik (dhe në disa raste social e kulturor) i shteteve evropiane, ashtu siç është ndjekur nga fuqitë sponsorizuese të Këshillit të Evropës që nga fundi i Luftës së Dytë Botërore. Bashkimi Evropian ka qenë fokusi i integrimit ekonomik në kontinent që nga themelimi i tij në 1993. Më kohët e fundit, Bashkimi Ekonomik Euroaziatik është themeluar si homolog, i përbërë nga ish-shtete sovjetike.
+
+27 shtete evropiane janë anëtare të Bashkimit Evropian politiko-ekonomik, 29 të Zonës Shengen pa kufij, dhe 21 të Eurozonës, bashkimit monetar. Mes organizatave më të vogla evropiane janë Këshilli Nordik, Beneluksi, Asambleja Balltike, dhe Grupi i Vishegradit.
+
+Vendet më pak demokratike të Evropës ishin Bjellorusia, Rusia dhe Turqia në 2025, sipas indekseve të demokracisë V-Dem.<ref name="j496">{{cite web | title=Democracy Report 2026, Unraveling The Democratic Era? | url=https://v-dem.net/documents/75/V-Dem_Institute_Democracy_Report_2026_lowres.pdf | access-date=2026-03-17 | archive-date=17 March 2026 | archive-url=https://web.archive.org/web/20260317204701/https://v-dem.net/documents/75/V-Dem_Institute_Democracy_Report_2026_lowres.pdf | url-status=live|language=en }}</ref>
+== Lista e shteteve dhe territoreve ==
+{{Hatnote|Artikulli kryesor: {{ill|Lista e shteteve sovrane dhe territoreve të varura në Evropë|en|List of sovereign states and dependent territories in Europe}}}}
+
+Kjo listë përfshin të gjitha vendet sovrane të njohura ndërkombëtarisht që bien, qoftë edhe pjesërisht, nën ndonjë përkufizim të zakonshëm gjeografik ose politik të Evropës.
+
+{|class="wikitable"
+|-
+| style="background:lightcyan; border:1px solid #aaa; width:2em;" | *
+| = Shtet anëtar i BE-së<ref>{{cite web|url=http://european-union.europa.eu/principles-countries-history/eu-countries_en |title=Member States of the European Union |publisher=Europa |access-date=29 June 2024|language=en}}</ref>
+|}
+
+{| class="sortable wikitable"
+! style="line-height:95%; width:2em" class="unsortable" | Flamuri
+! Emri
+! Sipërfaqja<br />(km<sup>2</sup>)
+! Popullsia<br />
+!Cila bashkësi politike qeverit (qershor 2026)
+! Dendësia<br />e popullsisë<br />(për km<sup>2</sup>)
+! Kryeqyteti
+! Emri/at në gjuhën/gjuhët zyrtare
+|-
+| style="text-align:center;"| {{flagicon|ALB}}
+| [[Shqipëria]]
+| style="text-align:right;"| 28.748
+| style="text-align:right;"| 2.876.591
+|socialistë (Partia Socialiste e Shqipërisë)
+| style="text-align:right;" | 98,5
+| [[Tirana]]
+| {{lang|sq|Shqipëria|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|AND}}
+| [[Andorra]]
+| style="text-align:right;"| 468
+| style="text-align:right;"| 77.281
+|konservatorë (Demokratët për Andorrën)
+| style="text-align:right;" | 179,8
+| [[Andorra la Vella]]
+| {{lang|ca|Andorra|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|ARM}}
+| [[Armenia]]{{cref2|j}}
+| style="text-align:right;"| 29.743
+| style="text-align:right;"| 2.924.816
+|liberalë (Kontrata Civile)
+| style="text-align:right;" | 101,5
+| [[Jerevan]]
+| {{lang|hy|Հայաստան}} ({{lang|hy-Latn|Hayastan}})
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|AUT}}
+| [[Austria]]*
+| style="text-align:right;"| 83.858
+| style="text-align:right;"| 8.823.054
+|liberalë dhe socialistë (Partia Popullore Austriake dhe Partia Social Demokratike Austriake)
+| style="text-align:right;" | 104
+| [[Vjena]]
+| {{lang|de|Österreich|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|AZE}}
+| [[Azerbajxhani]]{{cref2|k}}
+| style="text-align:right;"| 86.600
+| style="text-align:right;"| 9.911.646
+|konservatorë (Partia e Re e Azerbajxhanit)
+| style="text-align:right;" | 113
+| [[Baku]]
+| {{lang|az-Latn|Azərbaycan|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|BLR}}
+| [[Bjellorusia]]
+| style="text-align:right;"| 207.560
+| style="text-align:right;"| 9.504.700
+|konservatorë (Belaja Rus)
+| style="text-align:right;" | 45,8
+| [[Minsk]]
+| {{lang|be|Беларусь}} ({{lang|be-Latn|Belaruś}})
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|BEL}}
+| [[Belgjika]]*
+| style="text-align:right;"| 30.528
+| style="text-align:right;"| 11.358.357
+|
+| style="text-align:right;" | 372,06
+| [[Brukseli]]
+| {{lang|nl|België|italic=no}}/{{lang|fr|Belgique|italic=no}}/{{lang|de|Belgien|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|BIH}}
+| [[Bosnja dhe Hercegovina]]
+| style="text-align:right;"| 51.129
+| style="text-align:right;"| 3.531.159
+|socialistë (Aleanca e Social Demokratëve të Pavarur)
+| style="text-align:right;" | 68,97
+| [[Sarajeva]]
+| {{lang|bs|Bosna i Hercegovina|italic=no}}/{{lang|bs-Cyrl|Боснa и Херцеговина}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|BUL}}
+| [[Bullgaria]]*
+| style="text-align:right;"| 110.910
+| style="text-align:right;"| 7.101.859
+|
+| style="text-align:right;" | 64,9
+| [[Sofja]]
+| {{lang|bg|България}} ({{lang|bg-Latn|Bǎlgariya}})
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|CRO}}
+| [[Kroacia]]*
+| style="text-align:right;"| 56.594
+| style="text-align:right;"| 3.871.833
+|konservatorë (Bashkimi Demokratik Kroat)
+| style="text-align:right;" | 68,4
+| [[Zagrebi]]
+| {{lang|hr|Hrvatska|italic=no}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|CYP}}
+| [[Qipro]]*{{cref2|d|1}}
+| style="text-align:right;"| 9.251
+| style="text-align:right;"| 1.170.125
+|
+| style="text-align:right;" | 123,4
+| [[Nikozia]]
+| {{lang|el|Κύπρος}} ({{lang|el-Latn|Kýpros}})/{{lang|tr|Kıbrıs|italic=no}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|CZE}}
+| [[Republika Çeke]]*
+| style="text-align:right;"| 78.866
+| style="text-align:right;"| 10.610.947
+|konservatorë (Aksioni i Qytetarëve të Pakënaqur)
+| style="text-align:right;" | 134
+| [[Praga]]
+| {{lang|cs|Česko|italic=no}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|DEN}}
+| [[Danimarka]]*
+| style="text-align:right;"| 43.094
+| style="text-align:right;"| 6.001.008
+|socialistë (Social Demokratët)
+| style="text-align:right;" | 139,25
+| [[Kopenhaga]]
+| {{lang|da|Danmark|italic=no}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|EST}}
+| [[Estonia]]*
+| style="text-align:right;"| 45.226
+| style="text-align:right;"| 1.328.439
+|liberalë (Partia Reformatore Estoneze)
+| style="text-align:right;" | 30,5
+| [[Talini]]
+| {{lang|et|Eesti|italic=no}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|FIN}}
+| [[Finlanda]]*
+| style="text-align:right;"| 338.455
+| style="text-align:right;"| 5.509.717
+|konservatorë (Partia e Koalicionit Kombëtar)
+| style="text-align:right;" | 16
+| [[Helsinki]]
+| {{lang|fi|Suomi|italic=no}}/{{lang|sv|Finland|italic=no}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|FRA}}
+| [[Franca]]*{{cref2|g}}
+| style="text-align:right;"| 547.030
+| style="text-align:right;"| 67.348.000
+|liberalë (Grupi Bashkë për Republikën)
+| style="text-align:right;" | 116
+| [[Parisi]]
+| {{lang|fr|France|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|GEO (country)}}
+| [[Gjeorgjia]]{{cref2|l}}
+| style="text-align:right;"| 69.700
+| style="text-align:right;"| 3.718.200
+|konservatorë (Ëndrra Gjeorgjiane)
+| style="text-align:right;" | 53,5
+| [[Tbilisi]]
+| {{lang|ka|საქართველო}} ({{lang|ka-Latn|Sakartvelo}})
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|GER}}
+| [[Gjermania]]*
+| style="text-align:right;"| 357.168
+| style="text-align:right;"| 82.800.000
+|konservatorë (Bashkimi Demokristian i Gjermanisë)
+| style="text-align:right;" | 232
+| [[Berlini]]
+| {{lang|de|Deutschland|italic=no}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|GRE}}
+| [[Greqia]]*
+| style="text-align:right;"| 131.957
+| style="text-align:right;"| 10.297.760
+|konservatorë (Demokracia e Re)
+| style="text-align:right;" | 82
+| [[Athina]]
+| {{lang|el|Ελλάδα}} ({{lang|el-Latn|Elláda}})
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|HUN}}
+| [[Hungaria]]*
+| style="text-align:right;"| 93.030
+| style="text-align:right;"| 9.797.561
+|liberalë (Partia e Respektit dhe Lirisë)
+| style="text-align:right;" | 105,3
+| [[Budapesti]]
+| {{lang|hu|Magyarország|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|ISL}}
+| [[Islanda]]
+| style="text-align:right;"| 103.000
+| style="text-align:right;"| 350.710
+|socialistë (Aleanca Social Demokratike)
+| style="text-align:right;" | 3,2
+| [[Rejkjaviku]]
+| {{lang|is|Ísland|italic=no}}
+|- style="background:lightcyan;"
+| style="text-align:center;"| {{flagicon|IRL}}
+| [[Irlanda]]*
+| style="text-align:right;"| 70.280
+| style="text-align:right;"| 4.761.865
+|konservatorë (Fianna Fáil)
+| style="text-align:right;" | 67,7
+| [[Dublini]]
+| {{lang|ga|Éire|italic=no}}/{{lang|en|Ireland}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|ITA}}
+| [[Italia]]*
+| style="text-align:right;"| 301.338
+| style="text-align:right;"| 58.968.501
+|konservatorë (Vëllezërit e Italisë)
+| style="text-align:right;" | 195,7
+| [[Roma]]
+| {{lang|it|Italia|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|KAZ}}
+| [[Kazakistani]]{{cref2|i}}
+| style="text-align:right;"| 148.000
+| style="text-align:right;"| 20.075.271
+|konservatorë (Amanat)
+| style="text-align:right;" | 7
+| [[Astana]]
+| {{lang|kk|Қазақстан}} ({{lang|kk-Latn|Qazaqstan}})
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|LVA}}
+| [[Letonia]]*
+| style="text-align:right;"| 64.589
+| style="text-align:right;"| 1.862.700
+|konservatorë (Bashkimi i Ri)
+| style="text-align:right;" | 29
+| [[Riga]]
+| {{lang|lv|Latvija|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|LIE}}
+| [[Lihtenshtajni]]
+| style="text-align:right;"| 160
+| style="text-align:right;"| 38.111
+|
+| style="text-align:right;" | 227
+| [[Vaduzi]]
+| {{lang|de|Liechtenstein|italic=no}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|LTU}}
+| [[Lituania]]*
+| style="text-align:right;"| 65.300
+| style="text-align:right;"| 2.800.667
+|socialistë (Partia Social Demokratike e Lituanisë)
+| style="text-align:right;" | 45,8
+| [[Vilnius]]
+| {{lang|lt|Lietuva|italic=no}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|LUX}}
+| [[Luksemburgu]]*
+| style="text-align:right;"| 2.586
+| style="text-align:right;"| 602.005
+|
+| style="text-align:right;" | 233,7
+| [[Luksemburg (qytet)|Qyteti i Luksemburgut]]
+| {{lang|lb|Lëtzebuerg|italic=no}}/{{lang|de|Luxemburg|italic=no}}/{{lang|fr|Luxembourg|italic=no}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|MLT}}
+| [[Malta]]*
+| style="text-align:right;"| 316
+| style="text-align:right;"| 445.426
+|socialistë (Partia Laburiste e Maltës)
+| style="text-align:right;" | 1.410
+| [[Valleta]]
+| {{lang|mt|Malta|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|MDA}}
+| [[Moldova]]{{cref2|a}}
+| style="text-align:right;"| 33.846
+| style="text-align:right;"| 3.434.547
+|konservatorë (Partia Aksion dhe Solidaritet)
+| style="text-align:right;" | 101,5
+| [[Kishinau]]
+| {{lang|ro|Moldova|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|MON}}
+| [[Monako]]
+| style="text-align:right;"| 2,020
+| style="text-align:right;"| 38.400
+|
+| style="text-align:right;" | 18.713
+| [[Monako]]
+| {{lang|fr|Monaco|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|MNE}}
+| [[Mali i Zi]]
+| style="text-align:right;"| 13.812
+| style="text-align:right;"| 642.550
+|konservatorë (Për të Ardhmen e Malit të Zi, Mali i Zi Demokratik)
+| style="text-align:right;" | 45,0
+| [[Podgorica]]
+| {{lang|cnr-Latn|Crna Gora|italic=no}}/{{lang|cnr-Cyrl|Црна Гора}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|NED}}
+| [[Holanda]]*{{cref2|h}}
+| style="text-align:right;"| 41.543
+| style="text-align:right;"| 17.271.990
+|
+| style="text-align:right;" | 414,9
+| [[Amsterdami]]
+| {{lang|nl|Nederland|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|NMK}}
+| [[Maqedonia e Veriut]]
+| style="text-align:right;"| 25.713
+| style="text-align:right;"| 2.103.721
+|
+| style="text-align:right;" | 80,1
+| [[Shkupi]]
+| {{lang|mk|Северна Македонија}} ({{lang|mk-Latn|Severna Makedonija}})
+|-
+| style="text-align:center;"| {{flagicon|NOR}}
+| [[Norvegjia]]
+| style="text-align:right;"| 385.203
+| style="text-align:right;"| 5.295.619
+|socialistë (Partia Laburiste)
+| style="text-align:right;" | 15,8
+| [[Oslo]]
+| {{lang|nb|Norge|italic=no}}/{{lang|nn|Noreg|italic=no}}/{{lang|se|Norga|italic=no}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|POL}}
+| [[Polonia]]*
+| style="text-align:right;"| 312.685
+| style="text-align:right;"| 38.422.346
+|liberalë (Koalicioni Qytetar)
+| style="text-align:right;" | 123,5
+| [[Varshava]]
+| {{lang|pl|Polska|italic=no}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|POR}}
+| [[Portugalia]]*{{cref2|e}}
+| style="text-align:right;"| 92.212
+| style="text-align:right;"| 10.379.537
+|
+| style="text-align:right;" | 115
+| [[Lisbona]]
+| {{lang|pt|Portugal|italic=no}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|ROU}}
+| [[Rumania]]*
+| style="text-align:right;"| 238.397
+| style="text-align:right;"| 18.999.642
+|liberalë (Partia Kombëtare Liberale)
+| style="text-align:right;" | 84,4
+| [[Bukureshti]]
+| {{lang|ro|România|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|RUS}}
+| [[Rusia]]{{cref2|b}}
+| style="text-align:right;"| 3.969.100
+| style="text-align:right;"| 144.526.636
+|konservatorë (Rusia e Bashkuar)
+| style="text-align:right;" | 8,4
+| [[Moska]]
+| {{lang|ru|Россия}} ({{lang|ru-Latn|Rossiya}})
+|-
+| style="text-align:center;"| {{flagicon|SMR}}
+| [[San Marino]]
+| style="text-align:right;"| 61,2
+| style="text-align:right;"| 33.285
+|
+| style="text-align:right;" | 520
+| [[Qyteti i San Marinos|San Marino]]
+| {{lang|it|San Marino|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|SRB}}
+| [[Serbia]]{{cref2|f}}
+| style="text-align:right;"| 88.361
+| style="text-align:right;"| 7.040.272
+|konservatorë (Serbia Nuk Duhet të Ndalet)
+| style="text-align:right;" | 91,1
+| [[Beogradi]]
+| {{lang|sr-Latn|Srbija|italic=no}}/{{lang|sr-Cyrl|Србија}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|SVK}}
+| [[Sllovakia]]*
+| style="text-align:right;"| 49.035
+| style="text-align:right;"| 5.435.343
+|socialistë (Drejtimi – Social Demokracia)
+| style="text-align:right;" | 111,0
+| [[Bratislava]]
+| {{lang|sk|Slovensko|italic=no}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|SVN}}
+| [[Sllovenia]]*
+| style="text-align:right;"| 20.273
+| style="text-align:right;"| 2.066.880
+|konservatorë (Partia Demokratike Sllovene)
+| style="text-align:right;" | 101,8
+| [[Lublana]]
+| {{lang|sl|Slovenija|italic=no}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|ESP}}
+| [[Spanja]]*
+| style="text-align:right;"| 505.990
+| style="text-align:right;"| 49.442.844
+|socialistë (Partia Socialiste e Punëtorëve Spanjollë)
+| style="text-align:right;" | 97
+| [[Madridi]]
+| {{lang|es|España|italic=no}}
+|- style="background:lightcyan;"
+| style="text-align:center;"|{{flagicon|SWE}}
+| [[Suedia]]*
+| style="text-align:right;"| 450.295
+| style="text-align:right;"| 10.151.588
+|konservatorë (Partia e Moderatëve)
+| style="text-align:right;" | 22,5
+| [[Stokholmi]]
+| {{lang|sv|Sverige|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|SUI}}
+| [[Zvicra]]
+| style="text-align:right;"| 41.285
+| style="text-align:right;"| 8.401.120
+|
+| style="text-align:right;" | 202
+| [[Berna]]
+| {{lang|de|Schweiz|italic=no}}/{{lang|fr|Suisse|italic=no}}/{{lang|it|Svizzera|italic=no}}/{{lang|rm|Svizra|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|TUR}}
+| [[Turqia]]{{cref2|m}}
+| style="text-align:right;"| 23.764
+| style="text-align:right;"| 84.680.273
+|konservatorë (Partia e Drejtësisë dhe Zhvillimit)
+| style="text-align:right;" | 106,7
+| [[Ankaraja|Ankara]]
+| {{lang|tr|Türkiye|italic=no}}
+|-
+| style="text-align:center;"| {{flagicon|UKR}}
+| [[Ukraina]]{{cref2|s}}
+| style="text-align:right;"| 603.628
+| style="text-align:right;"| 42.418.235
+|liberalë (Shërbëtori i Popullit)
+| style="text-align:right;" | 73,8
+| [[Kievi]]
+| {{lang|uk|Україна}} ({{lang|uk-Latn|Ukraina}})
+|-
+| style="text-align:center;"| {{flagicon|UK}}
+| [[Mbretëria e Bashkuar]]<ref>{{cite web|url=https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/latest|title=ONS Population Estimates|access-date=2 May 2025|archive-date=12 April 2020|archive-url=https://web.archive.org/web/20200412102237/https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/latest|url-status=live|language=en}}</ref>
+| style="text-align:right;"| 244.376
+| style="text-align:right;"| 68.265.209
+|socialistë (Partia Laburiste)
+| style="text-align:right;" | 281
+| [[Londra]]
+| United Kingdom
+|-
+| style="text-align:center;"| {{flagicon|Vatican City}}
+| [[Vatikani]]
+| style="text-align:right;"| 0,44
+| style="text-align:right;"| 1.000
+|
+| style="text-align:right;" | 2.272
+| [[Vatikani]]
+| {{lang|it|Città del Vaticano|italic=no}}/{{lang|la|Civitas Vaticana|italic=no}}
+|- class="sortbottom" style="font-weight:bold;"
+| colspan="1" | Gjithsej
+| style="text-align:right;"| 50
+| style="text-align:right;"| 10.180.000{{cref2|n|3}}
+| style="text-align:right;"| 743.000.000{{cref2|n|4}}
+|
+| style="text-align:right;" | 73
+|
+|
+|}
+
+Brenda shteteve të përmendura më sipër gjenden disa vende ''de facto'' të pavarura, me njohje ndërkombëtare të kufizuar ose pa të. Asnjë prej tyre nuk është anëtare e OKB-së:
+
+{| class="sortable wikitable"
+
+! style="line-height:95%; width:2em" class="unsortable" | Flamuri
+! Emri
+! Sipërfaqja<br />(km<sup>2</sup>)
+! Popullsia<br />
+! Dendësia e popullsisë<br />(për km<sup>2</sup>)
+! Kryeqyteti
+
+|-
+| style="text-align:center"| {{flagicon|Abkhazia}}
+| [[Abkazia]]{{cref2|p|1}}
+| style="text-align:right;"| 8.660
+| style="text-align:right;"| 243.206
+| style="text-align:right;"| 28
+| [[Sohumi]]
+|-
+| style="text-align:center"| {{flagicon|Kosovo}}
+| [[Kosova]]{{cref2|o}}
+| style="text-align:right;"| 10.908
+| style="text-align:right;" |1.920.079
+| style="text-align:right;"| 159
+| [[Prishtina]]
+|-
+| style="text-align:center"| {{flagicon|Northern Cyprus}}
+| [[Qipro Veriore]]{{cref2|d|2}}
+| style="text-align:right;"| 3.355
+| style="text-align:right;"| 313.626
+| style="text-align:right;"| 93
+| [[Nikozia]] (pjesa veriore)
+|-
+| style="text-align:center"| {{flagicon|South Ossetia}}
+| [[Osetia e Jugut]]{{cref2|p|2}}
+| style="text-align:right;"| 3.900
+| style="text-align:right;"| 53.532
+| style="text-align:right;"| 13,7
+| [[Cinvali]]
+|-
+| style="text-align:center"| {{flagicon|Transnistria}}
+| [[Transnistria]]{{cref2|a|2}}
+| style="text-align:right;"| 4.163
+| style="text-align:right;"| 475.665
+| style="text-align:right;"| 114
+| [[Tiraspoli]]
+|}
+
+Disa varësi dhe territore të ngjashme, me autonomi të gjerë, gjenden gjithashtu brenda ose pranë Evropës. Kjo përfshin Ålandin (kontee autonome e Finlandës), dy territore autonome të Mbretërisë së Danimarkës (përveç vetë Danimarkës), tri Varësi të Kurorës, dhe dy Territore Britanike Përtej Detit. Svalbard-i përfshihet gjithashtu për shkak të statusit të tij unik brenda Norvegjisë, edhe pse nuk është autonom. Nuk përfshihen tri "vendet" e Mbretërisë së Bashkuar me pushtete të devoluara, si dhe dy Rajonet Autonome të Portugalisë, të cilat, pavarësisht një shkalle unike autonomie, nuk vetëqeverisen kryesisht në çështje përveç atyre ndërkombëtare. Zona me pak më shumë se status unik tatimor, si Ishujt Kanarie dhe Helgolandi, nuk përfshihen gjithashtu për këtë arsye.
+
+{|class="sortable wikitable"
+|-
+| style="background:lightcyan; border:1px solid #aaa; width:2em;" | *
+| = Pjesë e BE-së
+|}
+
+{| class="sortable wikitable"
+|-
+! style="line-height:95%; width:2em" class="unsortable" | Flamuri
+! Emri
+!Shteti<br />sovran
+! Sipërfaqja<br />(km<sup>2</sup>)
+! Popullsia
+! Dendësia<br />e popullsisë<br />(për km<sup>2</sup>)
+! Kryeqyteti
+|-
+| style="text-align:center"| {{flagicon|Akrotiri and Dhekelia}}
+|[[Akrotiri dhe Dhekelia]]
+|Mbretëria e Bashkuar
+| style="text-align:right;"| 255
+| style="text-align:right;"| 7.700
+| style="text-align:right;"| 30,2
+|[[Episkopi]]
+|- style="background:lightcyan;"
+| style="text-align:center"| {{flagicon|Åland}}
+| [[Ålandi]]*||Finlanda
+| style="text-align:right;"| 1.580
+| style="text-align:right;"| 29.489
+| style="text-align:right;"| 18,36
+| [[Marienhamn]]
+|-
+| style="text-align:center"| {{flagg|cxx|Guernsey|clink=Bailiwick of Guernsey}}
+| [[Guernsey (Bailiwick)|Bailiwick-u i Guernsey-t]]{{cref2|c|1}}||Mbretëria e Bashkuar
+| style="text-align:right;"| 78
+| style="text-align:right;"| 65.849
+| style="text-align:right;"| 844,0
+| [[Sen Piter Port]]
+|-
+| style="text-align:center"| {{flagicon|Jersey}}
+| [[Jersey|Bailiwick-u i Jersey-t]]{{cref2|c|3}}||Mbretëria e Bashkuar
+| style="text-align:right;"| 118,2
+| style="text-align:right;"| 100.080
+| style="text-align:right;"| 819
+| [[Sen Helier]]
+|-
+| style="text-align:center"| {{flagicon|Faroe Islands}}
+| [[Ishujt Faroe]]||Danimarka
+| style="text-align:right;"| 1.399
+| style="text-align:right;"| 50.778
+| style="text-align:right;"| 35,2
+| [[Torshavn]]
+|-
+| style="text-align:center"| {{flagicon|Gibraltar}}
+| [[Gjibraltari]]||Mbretëria e Bashkuar
+| style="text-align:right;"| 6,7
+| style="text-align:right;"| 32.194
+| style="text-align:right;"| 4.328
+| [[Gjibraltari]]
+|-
+| style="text-align:center"| {{flagicon|Greenland}}
+| [[Grenlanda]] ||Danimarka{{cref2|r|2}}
+| style="text-align:right;"| 2.166.086
+| style="text-align:right;"| 55.877
+| style="text-align:right;"| 0,028
+| [[Nuuk]]
+|-
+| style="text-align:center"| {{flagicon|Isle of Man}}
+| [[Ishulli i Manit|Ishulli i Manit]]{{cref2|c|2}}||Mbretëria e Bashkuar
+| style="text-align:right;"| 572
+| style="text-align:right;"| 83.314
+| style="text-align:right;"| 148
+| [[Duglasi]]
+|-
+| style="text-align:center"| {{flagicon|Svalbard}}
+| [[Svalbard]] ||Norvegjia
+| style="text-align:right;"| 61.022
+| style="text-align:right;"| 2.667
+| style="text-align:right;"| 0,044
+|[[Longjearbieni]]
+|}
+==Ekonomia==
+{{Kryesor|Ekonomia e Evropës}}
+{{Shiko gjithashtu|Lista e shteteve sovrane në Evropë sipas PBB-së (nominale)|Lista e shteteve sovrane në Evropë sipas PBB-së (PBB)}}
+[[File:Map of European countries by GDP (PPP) per capita.svg|thumb|300x300px|PBB (PPP) për kokë banori e vendeve evropiane]]
+
+Si kontinent, ekonomia e Evropës ishte për shumë kohë ndër më të mëdhatë në botë dhe rajoni më i pasur i matur sipas aktiveve nën menaxhim, me mbi 32,7 trilionë dollarë krahasuar me 27,1 trilionë dollarë të Amerikës së Veriut në 2008.<ref>{{cite news|last=Fineman |first=Josh |url=https://www.bloomberg.com/news/world |title=Bloomberg.com |publisher=Bloomberg News |date=15 September 2009 |access-date=23 August 2010 |archive-url=https://web.archive.org/web/20150128110049/http://www.bloomberg.com/news/world |archive-date=28 January 2015 |language=en}}</ref> Në vitin 2009 Evropa mbeti rajoni më i pasur. Aktivet e saj prej 37,1 trilionë dollarësh përfaqësonin një të tretën e pasurisë botërore. Ishte një nga disa rajonet ku pasuria kaloi kulmin e saj para krizës.<ref>{{cite web|url=http://www.pr-inside.com/global-wealth-stages-a-strong-comeback-r1942019.htm |title=Global Wealth Stages a Strong Comeback |publisher=Pr-inside.com |date=10 June 2010 |access-date=23 August 2010 |archive-url=https://web.archive.org/web/20110520174617/http://www.pr-inside.com/global-wealth-stages-a-strong-comeback-r1942019.htm |archive-date=20 May 2011 |language=en}}</ref> Ashtu si kontinentet e tjera, Evropa ka një hendek të madh pasurie mes shteteve të saj. Shtetet më të pasura priren të gjenden në Veriperëndim dhe Perëndim në përgjithësi, të pasuara nga [[Evropa Qendrore]], ndërsa shumica e ekonomive të Evropës Lindore dhe Evropës Juglindore ende po rimëkëmben nga rënia e Bashkimit Sovjetik dhe shpërbërja e Jugosllavisë.
+
+Modeli i "Bananes Blu" u konceptua si një përfaqësim ekonomiko-gjeografik i fuqisë ekonomike përkatëse të rajoneve, i cili u zhvillua më tej në "Bananen e Artë" ose Yllin Blu. Tregtia mes Lindjes dhe Perëndimit, si dhe drejt Azisë, e cila ishte penguar për një kohë të gjatë nga dy luftërat botërore, kufijtë e rinj dhe Lufta e Ftohtë, u rrit ndjeshëm pas vitit 1989. Përveç kësaj, ekziston një impuls i ri nga Iniciativa Kineze "Brezi dhe Rruga" përmes [[Kanali i Suezit|Kanalit të Suezit]] drejt Afrikës dhe Azisë.<ref>Global shipping and logistic chain reshaped as China's Belt and Road dreams take off in Hellenic Shipping News, 4 dhjetor 2018; Wolf D. Hartmann, Wolfgang Maennig, Run Wang: Chinas neue Seidenstraße (2017), f. 59; Jacob Franks "The Blue Banana – the True Heart of Europe" në: Big Think Edge, 31 dhjetor 2014; Zacharias Zacharakis: Chinas Anker in Europa në: Die Zeit, 8 maj 2018; Harry de Wilt: Is One Belt, One Road a China crisis for North Sea main ports? në World Cargo News, 17 dhjetor 2019; Hospers, Gert-Jan "Beyond the blue banana? Structural change in Europe's geo-economy" 2002</ref>
+
+Bashkimi Evropian, një entitet politik i përbërë nga 27 shtete evropiane, përbën zonën më të madhe të vetme ekonomike në botë. 21 vende të BE-së ndajnë [[euro-n]] si monedhë të përbashkët (përveç kësaj, 6 vende jashtë BE-së përdorin gjithashtu euron si monedhë).
+Katër vende evropiane renditen ndër dhjetë ekonomitë më të mëdha kombëtare në botë sipas PBB-së (PPP). Kjo përfshin (renditur sipas Fondit Monetar Ndërkombëtar): Rusia (4), Gjermania (6), Franca (9) dhe Mbretëria e Bashkuar (10).
+
+Disa vende evropiane janë shumë më të pasura se të tjerat. Më i pasuri për nga PBB-ja nominale është [[Monako]] me 185.829 dollarë për kokë banori (2018), ndërsa më i varfëri është [[Ukraina]] me 3.659 dollarë për kokë banori (2019).<ref>{{cite web|url=https://data.worldbank.org/indicator/ny.gdp.pcap.cd?most_recent_value_desc=true|title=The World Bank DataBank|publisher=World Bank|access-date=30 July 2022|archive-date=2 October 2019|archive-url=https://web.archive.org/web/20191002053624/https://data.worldbank.org/indicator/ny.gdp.pcap.cd?most_recent_value_desc=true|url-status=live|language=en}}</ref>
+
+Në tërësi, PBB-ja për kokë banori e Evropës është 21.767 dollarë, sipas një vlerësimi të Fondit Monetar Ndërkombëtar për vitin 2016.<ref>Disa të dhëna i referohen vlerësimeve të stafit të FMN-së, disa janë shifra aktuale për vitin 2017, të bëra më 12 prill 2017. [http://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx World Economic Outlook Database–April 2017] {{Webarchive|url=https://web.archive.org/web/20210624143304/https://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx|date=24 June 2021}}, [[Fondi Monetar Ndërkombëtar]]. Qasur më 18 prill 2017.</ref>
+
+{| class="wikitable" style="text-align: right; float:left; border:1px solid #aaa; margin:10px"
+|-
+! Vendi
+! Shteti
+! PBB <small>(nominale, viti kulmor)</small><br /><small>milionë [[Dollari amerikan|USD]]</small>
+|-
+| ||align="left" |''{{nowrap|Bashkimi Evropian}}''<ref name="IMF World & EU">{{Cite web |url=https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.RES:WEO(9.0.0) |title=IMF GDP for the World and the European Union |access-date=18 April 2026 |archive-date=18 January 2026 |archive-url=https://web.archive.org/web/20260118052702/https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.RES:WEO(9.0.0) |url-status=live |language=en}}</ref>||23.034.637
+|-
+| 1 ||align=left|Gjermania||5.452.858
+|-
+| 2 ||align=left|{{nowrap|Mbretëria e Bashkuar}}||4.264.794
+|-
+| 3 ||align=left|Franca||3.596.094
+|-
+| 4 ||align=left|Italia||2.738.164
+|-
+| 5 ||align=left|Rusia||2.656.452
+|-
+| 6 ||align=left|Spanja||2.091.222
+|-
+| 7 ||align=left|Turqia||1.640.223
+|-
+| 8 ||align=left|Holanda||1.449.704
+|-
+| 9 ||align=left|Zvicra||1.146.911
+|-
+| 10 ||align=left|Polonia||1.134.248
+|}
+{| class="wikitable" style="text-align: right; float:left; border:1px solid #aaa; margin:10px"
+|-
+! Vendi
+! Shteti
+! PBB <small>(PPP, viti kulmor)</small><br /><small>milionë [[Dollari amerikan|USD]]</small>
+|-
+| ||align="left" |''{{nowrap|Bashkimi Evropian}}<ref name="IMF World & EU" />''||30.677.594
+|-
+| 1 ||align=left|Rusia||7.525.159
+|-
+| 2 ||align=left|Gjermania||6.408.420
+|-
+| 3 ||align=left|Franca||4.734.241
+|-
+| 4 ||align=left|{{nowrap|Mbretëria e Bashkuar}}||4.720.863
+|-
+| 5 ||align=left|Turqia||4.025.249
+|-
+| 6 ||align=left|Italia||3.871.906
+|-
+| 7 ||align=left|Spanja||2.977.960
+|-
+| 8 ||align=left|Polonia||2.164.271
+|-
+| 9 ||align=left|Holanda||1.592.206
+|-
+| 10 ||align=left|Rumania (2025)||968.038
+|}
+{{clear}}
+
+===Historia ekonomike===
+;Rritja industriale (1760–1945)
+Kapitalizmi ka qenë dominues në botën perëndimore që nga fundi i feudalizmit.<ref>[https://www.britannica.com Kapitalizmi]. ''Encyclopædia Britannica''.</ref> Nga Britania, ai u përhap gradualisht në të gjithë Evropën.<ref>{{Cite book|title=Industrialism: A Dictionary of Sociology|author=Scott, John|publisher=Oxford University Press|year=2005|language=en}}</ref> Revolucioni Industrial filloi në Evropë, konkretisht në Mbretërinë e Bashkuar në fund të shekullit XVIII,<ref>{{cite web|url=http://www.historyguide.org/intellect/lecture17a.html|title=The Origins of the Industrial Revolution in England|publisher=The History Guide|first=Steven|last=Kreis|date=11 October 2006|access-date=1 January 2007|archive-date=2 November 2015|archive-url=https://web.archive.org/web/20151102090701/http://www.historyguide.org/intellect/lecture17a.html|url-status=live|language=en}}</ref> ndërsa shekulli XIX pa industrializimin e Evropës Perëndimore. Ekonomitë u shqetësuan nga Lufta e Parë Botërore, por deri në fillim të Luftës së Dytë Botërore ato ishin rimëkëmbur dhe po përballeshin me fuqinë e rritur ekonomike të Shteteve të Bashkuara. Lufta e Dytë Botërore, sërish, dëmtoi shumicën e industrive të Evropës.
+
+;Lufta e Ftohtë (1945–1991)
+[[File:Thefalloftheberlinwall1989.JPG|thumb|right|Rënia e Murit të Berlinit në 1989]]
+[[File:Carte zone euro.svg|thumb|Eurozona (me ngjyrë blu)]]
+Pas Luftës së Dytë Botërore ekonomia e Mbretërisë së Bashkuar ishte në gjendje shkatërrimi,<ref>Dornbusch, Rudiger; Nölling, Wilhelm P.; Layard, Richard G. ''Postwar Economic Reconstruction and Lessons for the East Today'', f. 117</ref> dhe vazhdoi të vuante rënie relative ekonomike në dekadat pasuese.<ref>{{Cite book|title=Rethinking International Organisation: Deregulation and Global Governance|last=Emadi-Coffin|first=Barbara|year=2002|publisher=Routledge|isbn=978-0-415-19540-9|page=64|language=en}}</ref> Italia gjithashtu ishte në gjendje të vështirë ekonomike, por rifitoi një nivel të lartë rritjeje deri në vitet 1950. Gjermania Perëndimore u rimëkëmb shpejt dhe kishte dyfishuar prodhimin krahasuar me nivelet e paraluftës deri në vitet 1950.<ref>Dornbusch, Rudiger; Nölling, Wilhelm P.; Layard, Richard G. ''Postwar Economic Reconstruction and Lessons for the East Today'', f. 29</ref> Franca gjithashtu bëri një rikthim të jashtëzakonshëm, duke gëzuar rritje të shpejtë dhe modernizim; më vonë Spanja, nën udhëheqjen e [[Francisco Franco|Frankos]], gjithashtu u rimëkëmb dhe regjistroi rritje ekonomike të paprecedentë duke filluar në vitet 1960, e njohur si "mrekullia spanjolle".<ref>Harrop, Martin. ''Power and Policy in Liberal Democracies'', f. 23</ref> Shumica e shteteve të Evropës Qendrore dhe Lindore erdhën nën kontrollin e Bashkimit Sovjetik dhe kështu ishin anëtare të Këshillit për Ndihmë Ekonomike të Përbashkët (COMECON).<ref name="loc-cs">"Germany (East)", Library of Congress Country Study, [http://memory.loc.gov/frd/cs/germany_east/gx_appnb.html Appendix B: The Council for Mutual Economic Assistance] {{Webarchive|url=https://web.archive.org/web/20090501075842/http://memory.loc.gov/frd/cs/germany_east/gx_appnb.html |date=1 May 2009 }}</ref>
+
+Shtetet që ruajtën një sistem të tregut të lirë morën një sasi të madhe ndihme nga Shtetet e Bashkuara nën Planin Marshall.<ref>{{cite web|url=https://history.state.gov/milestones/1945-1952/marshall-plan|title=Marshall Plan|publisher=US Department of State Office of the historian|access-date=30 July 2022|archive-date=14 April 2015|archive-url=https://web.archive.org/web/20150414153651/https://history.state.gov/milestones/1945-1952/marshall-plan|url-status=live|language=en}}</ref> Shtetet perëndimore u lëvizën drejt lidhjes së ekonomive të tyre, duke krijuar bazën për BE-në dhe duke rritur tregtinë ndërkufitare. Kjo i ndihmoi ato të gëzonin ekonomi që përmirësoheshin shpejt, ndërsa shtetet e COMECON-it po luftonin, në pjesën më të madhe për shkak të kostos së Luftës së Ftohtë. Deri në vitin 1990, Komuniteti Evropian u zgjerua nga 6 anëtarë themelues në 12. Theksi i vendosur në ringjalljen e ekonomisë gjermano-perëndimore e çoi atë ta kalonte Mbretërinë e Bashkuar si ekonomia më e madhe e Evropës.
+
+;Ribashkimi (1991–sot)
+[[File:Trepca Miners (24876825).jpeg|thumb|left|Një nga burimet kryesore ekonomike të Kosovës është minierat, pasi ka rezerva të mëdha plumbi, [[zink|zinku]], argjendi, [[nikel|nikeli]], [[kobalt|kobalti]], bakri, hekurit dhe [[bauksit|bauksitit]].<ref>{{cite web|title=Kosovo: Natural resources key to the future, say experts|url=http://www.adnkronos.com/AKI/English/Business/?id=1.0.1683003038|website=adnkronos.com|access-date=17 March 2011|url-status=live|archive-url=https://web.archive.org/web/20110707084602/http://www.adnkronos.com/AKI/English/Business/?id=1.0.1683003038|archive-date=7 July 2011|language=en}}</ref> Minatorë në [[Minierat e Trepçës]] në Mitrovicë, Kosovë, në 2011.]]
+Me rënien e komunizmit në Evropën Qendrore dhe Lindore në 1991, shtetet post-socialiste iu nënshtruan masave të "terapisë së shokut" për të liberalizuar ekonomitë e tyre dhe për të zbatuar reforma të tregut të lirë. Pasi Gjermania Lindore dhe Perëndimore u ribashkuan në 1990, ekonomia e Gjermanisë Perëndimore u përball me vështirësi pasi duhej të mbështeste dhe të rindërtonte gjerësisht infrastrukturën e Gjermanisë Lindore, ndërsa kjo e fundit përjetoi papunësi të papritur masive dhe rënie të prodhimit industrial. Deri në ndryshimin e mijëvjeçarit, BE-ja dominonte ekonominë e Evropës, duke përfshirë pesë ekonomitë më të mëdha evropiane të kohës: Gjermaninë, Mbretërinë e Bashkuar, Francën, Italinë dhe Spanjën. Në 1999, 12 nga 15 anëtarët e BE-së iu bashkuan Eurozonës, duke zëvendësuar monedhat e tyre kombëtare me euron.
+
+Shifrat e publikuara nga Eurostat në 2009 konfirmuan se Eurozona kishte hyrë në recesion në 2008.<ref>{{cite web|url=http://www.eubusiness.com/news-eu/1231409822.27/ |title=EU data confirms eurozone's first recession|publisher= EUbusiness.com|date= 8 January 2009|archive-url=https://web.archive.org/web/20101230075057/http://www.eubusiness.com/news-eu/1231409822.27/|archive-date=30 December 2010|language=en}}</ref> Kjo prekur shumicën e rajonit.<ref>[https://www.telegraph.co.uk Thanks to the Bank it's a crisis; in the eurozone it's a total catastrophe] {{Webarchive|url=https://web.archive.org/web/20220531022342/https://www.telegraph.co.uk/finance/comment/ambroseevans_pritchard/4958395/Thanks-to-the-Bank-its-a-crisis-in-the-eurozone-its-a-total-catastrophe.html |date=31 May 2022 }}. Telegraph, 8 mars 2009.</ref> Kriza e zonës së euros preku veçanërisht Greqinë, Irlandën, Spanjën dhe Portugalinë.<ref>{{cite news |title=Five Threats to the Common Currency |url=https://www.spiegel.de/international/europe/europe-s-debt-crisis-five-threats-to-the-common-currency-a-677214.html |first=Stefan |last=Schultz |work=Spiegel Online |date= 11 February 2010 |archive-date= 14 April 2010 |archive-url=https://web.archive.org/web/20100414110833/http://www.spiegel.de/international/europe/0,1518,677214,00.html |url-status=live|language=de }}</ref><ref>{{cite news |first1=Brian |last1=Blackstone |first2=Tom |last2=Lauricella |first3=Neil |last3=Shah |title=Global Markets Shudder: Doubts About U.S. Economy and a Debt Crunch in Europe Jolt Hopes for a Recovery |work=The Wall Street Journal |date=5 February 2010 |url=https://www.wsj.com/articles/SB10001424052748704041504575045743430262982 |access-date=10 May 2010 |archive-date=24 September 2015 |archive-url=https://web.archive.org/web/20150924135011/http://www.wsj.com/articles/SB10001424052748704041504575045743430262982 |url-status=live|language=en }}</ref> Si rezultat, u morën masa, veçanërisht për Greqinë, nga vendet drejtuese të Eurozonës.<ref>{{cite web |author=Lauren Frayer |url=http://www.aolnews.com/world/article/european-leaders-try-to-calm-fears-over-greek-debt-crisis-and-protect-euro/19469674 |title=European Leaders Try to Calm Fears Over Greek Debt Crisis and Protect Euro |publisher=AOL News |access-date=2 June 2010 |archive-url=https://web.archive.org/web/20100509111531/http://www.aolnews.com/world/article/european-leaders-try-to-calm-fears-over-greek-debt-crisis-and-protect-euro/19469674 |archive-date=9 May 2010|language=en }}</ref> Norma e papunësisë në Bashkimin Evropian ishte 10,3% në 2012. Për moshat 15–24 vjeç ishte 22,4%.<ref name="unemployment">[http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Unemployment_statistics Unemployment statistics] {{webarchive|url=https://web.archive.org/web/20120614152511/http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Unemployment_statistics |date=14 June 2012 }}. Eurostat, prill 2012.</ref>
+
+==Demografia==
+{{Kryesor|Demografia e Evropës}}
+{{Shiko gjithashtu|Lista e vendeve evropiane sipas popullsisë|Lista e vendeve evropiane sipas jetëgjatësisë|Plakja e Evropës}}
+[[File:Demographics of Europe.svg|thumb|Rritja e popullsisë brenda dhe rreth Evropës në 2021<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2002rank.html|archive-url=https://web.archive.org/web/20160527070418/https://www.cia.gov/library/publications/the-world-factbook//rankorder/2002rank.html|archive-date=27 May 2016|title=Population growth rankings|work=CIA World Factbook|language=en}}</ref>]]
+
+Popullsia e Evropës ishte rreth 742 milionë në vitin 2023, sipas vlerësimeve të OKB-së.<ref>{{Cite web |publisher=United Nations, Department of Economic and Social Affairs, Population Division |title=World Population Prospects: The 2022 Revision |url=https://population.un.org/dataportal/data/indicators/53,50,51,52/locations/908/start/1990/end/2023/table/pivotbylocation |access-date=2023-04-28|language=en}}</ref> Kjo është pak më shumë se një e nënta e popullsisë botërore.{{cref2|v}} Dendësia e popullsisë së Evropës (numri i njerëzve për njësi sipërfaqeje) është e dyta më e larta e çdo kontinenti, pas Azisë. Popullsia e Evropës aktualisht po zvogëlohet ngadalë, me rreth 0,2% në vit, sepse ka më pak lindje se vdekje. Kjo rënie natyrore e popullsisë zbutet nga fakti se më shumë njerëz migrojnë drejt Evropës nga kontinente të tjera sesa anasjelltas.
+
+Evropa Jugore dhe Evropa Perëndimore janë rajonet me numrin mesatar më të lartë të njerëzve të moshuar në botë. Në 2021, përqindja e njerëzve mbi 65 vjeç ishte 21% në Evropën Perëndimore dhe Jugore, krahasuar me 19% në të gjithë Evropën dhe 10% në botë.<ref>{{Citation |website=PRB |title=2021 World Population Data Sheet |url=https://interactives.prb.org/2021-wpds/ |access-date=16 May 2023 |archive-date=15 June 2023 |archive-url=https://web.archive.org/web/20230615063839/https://interactives.prb.org/2021-wpds/ |url-status=live|language=en }}</ref> Projeksionet sugjerojnë se deri në 2050 Evropa do të arrijë 30%. Kjo shkaktohet nga fakti se popullsia ka lindur më pak fëmijë se niveli i zëvendësimit që nga vitet 1970. Kombet e Bashkuara parashikojnë se Evropa do të pësojë rënie popullsie mes 2022 dhe 2050 me −7 për qind, pa ndryshuar lëvizjet e migrimit.<ref name="Results">{{Citation|title=World Population Prospects 2022, Summary of Results|publisher=United Nations|url=https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/wpp2022_summary_of_results.pdf|pages=7, 9|access-date=16 May 2023|archive-date=19 July 2022|archive-url=https://web.archive.org/web/20220719031934/https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/wpp2022_summary_of_results.pdf|url-status=live|language=en}}</ref>
+
+Sipas një projeksioni popullsie të Divizionit të Popullsisë të OKB-së, popullsia e Evropës mund të bjerë mes 680 dhe 720 milionë njerëz deri në 2050, çka do të përbënte 7% të popullsisë botërore në atë kohë.<ref>{{Cite web |title=World Population Prospects – Population Division – United Nations |url=https://population.un.org/wpp/Graphs/DemographicProfiles/Line/908 |publisher=United Nations |access-date=2 April 2025 |archive-date=3 December 2024 |archive-url=https://web.archive.org/web/20241203020416/https://population.un.org/wpp/Graphs/DemographicProfiles/Line/908|language=en }}</ref> Në këtë kontekst, ekzistojnë dallime të konsiderueshme mes rajoneve në lidhje me normat e fertilitetit. Numri mesatar i fëmijëve për femër në moshë riprodhuese është 1,52, shumë poshtë normës së zëvendësimit.<ref>{{cite web |title=White Europeans: An endangered species? |url=http://www.yaledailynews.com/articles/view/23784 |archive-url=https://web.archive.org/web/20080519224458/http://www.yaledailynews.com/articles/view/23784 |archive-date=19 May 2008 |access-date=10 June 2008 |publisher=Yale Daily News|language=en}}</ref> OKB parashikon një rënie të qëndrueshme të popullsisë në Evropën Qendrore dhe Lindore, si rezultat i emigrimit dhe normave të ulëta të lindjeve.<ref>[https://www.telegraph.co.uk/news/worldnews/1545634/UN-predicts-huge-migration-to-rich-countries.html UN predicts huge migration to rich countries] {{Webarchive|url=https://web.archive.org/web/20220614103137/https://www.telegraph.co.uk/news/worldnews/1545634/UN-predicts-huge-migration-to-rich-countries.html|date=14 June 2022}}. Telegraph, 15 mars 2007.</ref>
+
+===Grupet etnike===
+{{Kryesor|Grupet etnike në Evropë}}
+
+Pan dhe Pfeil (2004) numërojnë 87 "popuj të Evropës" të dallueshëm, nga të cilët 33 përbëjnë shumicën e popullsisë në të paktën një shtet sovran, ndërsa 54 të tjerët përbëjnë pakica etnike.<ref>Christoph Pan, Beate Sibylle Pfeil, ''Minderheitenrechte in Europa. Handbuch der europäischen Volksgruppen'' (2002). [https://web.archive.org/web/20110720164413/http://www.living-diversity.eu/Introduction.html Living-Diversity.eu], përkthim anglisht 2004.</ref> [[Romët]] janë pakica më e madhe etnike në Evropë, sipas Komisionit Evropian.<ref>{{cite web|url=https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/combatting-discrimination/roma-eu/roma-equality-inclusion-and-participation-eu_en|title=Roma equality, inclusion and participation in the EU|date=7 October 2020|language=en }}</ref>
+
+===Migrimi===
+{{Hatnote|Artikulli kryesor: {{ill|Imigrimi në Evropë|en|Immigration to Europe}}}}
+
+Evropa është shtëpia e numrit më të lartë të migrantëve nga të gjitha rajonet globale, me pothuajse 87 milionë njerëz në 2020, sipas Organizatës Ndërkombëtare për Migracionin.<ref>{{Citation |title=World migration report 2022 |date=2021 |place=New York |publisher=International Organization for Migration (IOM) |isbn=978-92-9268-078-7 |oclc=1292425355 |page=87|language=en}}</ref> Në 2005, BE-ja pati një fitim neto të përgjithshëm nga imigracioni prej 1,8 milionë njerëzish. Kjo përbënte pothuajse 85% të rritjes së përgjithshme të popullsisë së Evropës.<ref>{{cite web|url=http://www.migrationinformation.org/Feature/display.cfm?ID=402 |title=Europe: Population and Migration in 2005 |publisher=Migration Information Source |access-date=10 June 2008 |archive-url=https://web.archive.org/web/20080609075438/http://www.migrationinformation.org/Feature/display.cfm?ID=402 |archive-date=9 June 2008 |date=June 2006|language=en }}</ref> Në 2021, 827.000 personave iu dha shtetësia e një shteti anëtar të BE-së, një rritje prej rreth 14% krahasuar me 2020.<ref name="eurostatMigration">{{Citation |title=Migration and migrant population statistics – Statistics Explained |url=https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Migration_and_migrant_population_statistics |access-date=2023-04-28 |language=en |archive-date=11 April 2018 |archive-url=https://web.archive.org/web/20180411084030/http://ec.europa.eu/eurostat/statistics-explained/index.php?title=Migration_and_migrant_population_statistics |url-status=live }}</ref> 2,3 milionë emigrantë nga vende jashtë BE-së hynë në BE në 2021.<ref name="eurostatMigration" />
+
+Emigrimi modern i hershëm nga Evropa filloi me kolonizatorë spanjollë dhe portugezë në shekullin XVI,<ref>{{Cite web|first1=Geraldo |last1=Pieroni |title=A pena do degredo nas Ordenações do Reino |url=https://jus.com.br/artigos/2125/a-pena-do-degredo-nas-ordenacoes-do-reino|access-date=11 February 2022|website=jus.com.br|language=pt}}</ref> dhe kolonizatorë francezë e anglezë në shekullin XVII.<ref>{{Cite journal|url=http://www.millersville.edu/~columbus/data/art/AXTELL01.ART |title=The Columbian Mosaic in Colonial America |first=James |last=Axtell |journal=Humanities |date=September–October 1991 |volume=12 |issue=5 |pages=12–18 |access-date=8 October 2008 |archive-url=https://web.archive.org/web/20080517052031/http://www.millersville.edu/~columbus/data/art/AXTELL01.ART |archive-date=17 May 2008|language=en }}</ref> Por numrat mbetën relativisht të vegjël deri në valët e emigrimit masiv në shekullin XIX, kur miliona familje të varfra lanë Evropën.<ref>{{Cite journal | last1 = Evans | first1 = N.J. | doi = 10.1080/21533369.2001.9668313 | title = Work in progress: Indirect passage from Europe Transmigration via the UK, 1836–1914 | journal = Journal for Maritime Research | volume = 3 | pages = 70–84 | year = 2001 | doi-access = free|language=en }}</ref>
+
+Sot, popullata të mëdha me origjinë evropiane gjenden në çdo kontinent. Prejardhja evropiane mbizotëron në Amerikën e Veriut dhe në një masë më të vogël në Amerikën e Jugut (veçanërisht në Uruguai, Argjentinë, Kili dhe Brazil, ndërsa shumica e vendeve të tjera të Amerikës Latine kanë gjithashtu një popullsi të konsiderueshme me origjinë evropiane). Australia dhe Zelanda e Re kanë popullata të mëdha me prejardhje evropiane. Afrika nuk ka shtete me shumicë me prejardhje evropiane (me përjashtim, ndoshta, të Kepit të Gjelbër dhe Sao Tome dhe Prinsipes, në varësi të kontekstit), por ka pakica të konsiderueshme, siç janë afrikano-jugorët e bardhë në Afrikën e Jugut. Në Azi, popullatat me prejardhje evropiane, konkretisht rusët, mbizotërojnë në Azinë e Veriut dhe në disa pjesë të Kazakistanit verior.<ref>Robert Greenall, [https://news.bbc.co.uk/2/hi/asia-pacific/4420922.stm Russians left behind in Central Asia] {{Webarchive|url=https://web.archive.org/web/20250930222247/http://news.bbc.co.uk/2/hi/asia-pacific/4420922.stm |date=30 September 2025 }}, BBC News, 23 nëntor 2005</ref> Gjithashtu në Azi, evropianët, veçanërisht spanjollët, janë një pakicë me ndikim në Filipine.<ref>{{cite web |url=https://genographic.nationalgeographic.com/reference-populations-next-gen/|archive-url=https://web.archive.org/web/20160407092418/https://genographic.nationalgeographic.com/reference-populations-next-gen/|archive-date=7 April 2016|title=Reference Populations – Geno 2.0 Next Generation|access-date=21 December 2017|language=en}}</ref>
+
+===Gjuhët===
+{{Kryesor|Gjuhët e Evropës}}
+{{Shiko gjithashtu|Lista e gjuhëve evropiane sipas numrit të folësve}}
+[[File:Simplified Languages of Europe map.svg|thumb|right|Shpërndarja e gjuhëve kryesore të Evropës]]
+
+Evropa ka rreth 225 gjuhë vendase,<ref>[http://edl.ecml.at/LanguageFun/LanguageFacts/tabid/1859/Default.aspx Language facts – European day of languages] {{Webarchive|url=https://web.archive.org/web/20151002010444/http://edl.ecml.at/LanguageFun/LanguageFacts/tabid/1859/Default.aspx |date=2 October 2015 }}, Këshilli i Evropës. Qasur më 30 korrik 2015</ref> shumica prej të cilave bien brenda tre grupeve gjuhësore indo-evropiane: gjuhët romane, të dala nga latinishtja e Perandorisë Romake; gjuhët gjermanike, gjuha e të cilave e origjinës erdhi nga Skandinavia jugore; dhe gjuhët sllave. Gjuhët sllave flitn kryesisht në Evropën Jugore, Qendrore dhe Lindore. Gjuhët romane flitn kryesisht në Evropën Perëndimore dhe Jugore, si dhe në Zvicër në Evropën Qendrore dhe Rumani e Moldavi në Evropën Lindore. Gjuhët gjermanike flitn në Evropën Perëndimore, Veriore dhe Qendrore, si dhe në Gjibraltar dhe Maltë në Evropën Jugore. Gjuhë të tjera indo-evropiane jashtë tri grupeve kryesore përfshijnë grupin baltik (letonishtja dhe lituanishtja), grupin qeltik (irlandishtja, galishtja skoceze, manishtja, uellsishtja, kornishtja dhe bretonishtja), greqishten, armenishten dhe shqipen.
+
+Një familje e dallueshme jo-indo-evropiane, ajo e gjuhëve uralike (estonishtja, finlandishtja, hungarishtja, erzja, komi, mari, moksha dhe udmurtishtja), flitet kryesisht në Estoni, Finlandë, Hungari dhe pjesë të Rusisë. Gjuhët turke përfshijnë azerbajxhanishten, kazakishten dhe turqishten, përveç gjuhëve më të vogla në Evropën Lindore dhe Juglindore (gagauzishtja ballkanike, bashkirishtja, çuvashishtja, tatarishtja e Krimesë, karaçaj-balkarishtja, kumikishtja, nogaishtja dhe tatarishtja). Gjuhët kartveliane (gjeorgjishtja, mingrelishtja dhe svanishtja) flitn kryesisht në Gjeorgji. Dy familje të tjera gjuhësore gjenden në Kaukazin Verior (të quajtura kaukazishtja verilindore, duke përfshirë veçanërisht çeçenishten, avarishten dhe lezginishten; dhe kaukazishtja veriperëndimore, duke përfshirë veçanërisht adygeishten). Maltishtja është e vetmja gjuhë semite zyrtare në BE, ndërsa baskishtja është e vetmja gjuhë e izoluar e Evropës.
+
+Shumëgjuhësia dhe mbrojtja e gjuhëve rajonale dhe të pakicave janë objektiva politike të njohura sot në Evropë. Konventa Kuadër e Këshillit të Evropës për Mbrojtjen e Pakicave Kombëtare dhe Karta Evropiane për Gjuhët Rajonale ose të Pakicave e Këshillit të Evropës krijojnë një kuadër ligjor për të drejtat gjuhësore në Evropë.
+
+Romani flitet në të gjithë Evropën nga pakica rome.<ref>{{cite web|url=https://www.coe.int/t/dg4/education/roma/source/romanieurope_en.pdf|title=IN EUROPE|access-date=27 May 2025|archive-date=9 August 2021|archive-url=https://web.archive.org/web/20210809135131/https://www.coe.int/t/dg4/education/roma/Source/RomaniEurope_EN.pdf|url-status=live|language=en}}</ref>
+
+===Feja===
+{{Kryesor|Feja në Evropë}}
+
+Feja në Evropë sipas studimit ''Global Religious Landscape'' të Qendrës Pew, 2016:<ref name="Survey">{{cite web|author=Analysis |url=https://assets.pewresearch.org/wp-content/uploads/sites/11/2014/01/global-religion-full.pdf |archive-url=https://web.archive.org/web/20180323215026/http://assets.pewresearch.org/wp-content/uploads/sites/11/2014/01/global-religion-full.pdf |archive-date=2018-03-23 |url-status=live |title=Global religious landscape|publisher=Pewforum.org |date=19 December 2011 |access-date=17 August 2012|language=en}}</ref>
+
+{| class="wikitable"
+! Feja !! Përqindja
+|-
+| Krishterimi || 76,2%
+|-
+| Pa fe || 18,3%
+|-
+| Islami || 4,9%
+|-
+| Budizmi || 0,2%
+|-
+| Hinduizmi || 0,2%
+|-
+| Fetë popullore || 0,1%
+|-
+| Fe të tjera || 0,1%
+|}
+
+Feja më e madhe në Evropë është krishterimi, me 76,2% të evropianëve që e konsiderojnë veten të krishterë,<ref name="Christianity">{{cite web|url=http://www.pewforum.org/2011/12/19/global-christianity-regions/#europe|title=Regional Distribution of Christians: Christianity in Europe|date=18 December 2011|website=Pew Research Center's Religion & Public Life Project|access-date=22 February 2015|archive-date=1 August 2013|archive-url=https://web.archive.org/web/20130801012932/http://www.pewforum.org/2011/12/19/global-christianity-regions/#europe|url-status=live|language=en}}</ref> duke përfshirë katolikë, ortodoksë lindorë dhe denominacione të ndryshme protestante. Ndër protestantët, më të njohurit janë luteranizmi, anglikanizmi dhe feja e reformuar. Denominacione më të vogla protestante përfshijnë anabaptistët, si dhe denominacione me qendër në Shtetet e Bashkuara si pentekostalizmi, metodizmi dhe evangjelizmi. Megjithëse krishterimi lindi në Lindjen e Mesme, qendra e tij u zhvendos në Evropë kur u bë feja zyrtare e Perandorisë Romake në fund të shekullit IV. Krishterimi luajti një rol të rëndësishëm në zhvillimin e kulturës dhe identitetit evropian.<ref>{{cite book|last1=Byrnes|first1=Timothy A.|last2=Katzenstein|first2=Peter J.|title=Religion in an Expanding Europe|year=2006|publisher=Cambridge University Press|location=Cambridge|isbn=978-0-521-67651-9|page=110|language=en}}</ref> Sot, pak më shumë se 25% e të krishterëve të botës jetojnë në Evropë.<ref>{{Cite web |last=Pew Research Center |date=2011-12-19 |title=Global Christianity – A Report on the Size and Distribution of the World's Christian Population |url=https://www.pewresearch.org/religion/2011/12/19/global-christianity-exec/ |access-date=2023-04-28 |website=Pew Research Center's Religion & Public Life Project |language=en }}</ref>
+
+Islami është feja e dytë më e njohur në Evropë. Mbi 25 milionë, ose rreth 5% e popullsisë, e praktikojnë atë.<ref name="pewresearch.org" /> Në Shqipëri dhe Bosnjë dhe Hercegovinë, dy vende në Gadishullin Ballkanik në Evropën Juglindore, Islami në vend të krishterimit është feja e shumicës. Kjo është gjithashtu rasti në Turqi dhe në disa pjesë të Rusisë, si dhe në Azerbajxhan dhe Kazakistan, të gjitha në kufi me Azinë.<ref name="pewresearch.org">{{citation |last=Hackett |first=Conrad |title=5 facts about the Muslim population in Europe |date=29 November 2017 |url=http://www.pewresearch.org/fact-tank/2017/11/29/5-facts-about-the-muslim-population-in-europe/ |work=Pew Research Center |access-date=30 July 2022 |archive-date=17 August 2018 |archive-url=https://web.archive.org/web/20180817033409/http://www.pewresearch.org/fact-tank/2017/11/29/5-facts-about-the-muslim-population-in-europe/ |url-status=live|language=en }}</ref> Shumë vende në Evropë janë shtëpi për një pakicë të konsiderueshme myslimane, dhe imigrimi drejt Evropës ka rritur numrin e myslimanëve në Evropë vitet e fundit.
+
+Popullsia hebraike në Evropë ishte rreth 1,4 milionë njerëz në 2020 (rreth 0,2% e popullsisë).<ref name="auto" /> Ekziston një histori e gjatë e jetës hebraike në Evropë, që fillon në antikitet. Gjatë fundit të shekullit XIX dhe fillimit të shekullit XX, Perandoria Ruse kishte shumicën e hebrenjve të botës brenda kufijve të saj.<ref>''The Pittsburgh Press'', 25 tetor 1915, f. 11</ref> Në 1897, sipas censusit rus të atij viti, popullsia totale hebraike e Rusisë ishte 5,1 milionë njerëz, që përbënte 4,13% të popullsisë totale. Nga kjo shumicë, pjesa dërrmuese jetonte brenda "Zonës së Vendbanimit". Në 1933, kishte rreth 9,5 milionë hebrenj në Evropë, që përfaqësonin 1,7% të popullsisë, por shumica u vranë dhe pjesa tjetër u zhvendos, gjatë Holokaustit.<ref name="auto">{{Cite web |last=Lipka |first=Michael |title=The continuing decline of Europe's Jewish population |url=https://www.pewresearch.org/short-reads/2015/02/09/europes-jewish-population/ |access-date=2023-04-28 |publisher=Pew Research Center |date=9 February 2015 |language=en}}</ref> Në shekullin XXI, Franca ka popullsinë më të madhe hebraike në Evropë, e ndjekur nga Mbretëria e Bashkuar, Gjermania dhe Rusia.<ref name="Survey" />
+
+Fe të tjera të praktikuara në Evropë përfshijnë hinduizmin dhe budizmin, të cilat janë fe pakice, përveçse në Republikën Kalmuke të Rusisë, ku budizmi tibetian është feja e shumicës.
+
+Një numër i madh dhe në rritje njerëzish në Evropë janë jofetarë, ateistë dhe agnostikë. Vlerësohet se ata përbëjnë rreth 18,3% të popullsisë aktuale të Evropës.<ref name="Survey" />
+
+===Qytetet dhe zonat urbane kryesore===
+
+Tri zonat urbane më të mëdha të Evropës janë Moska, Londra dhe Parisi. Të gjitha kanë mbi 10 milionë banorë,<ref name="UN WUP 2016">{{cite web|title=The World's Cities in 2016|url=http://www.un.org/en/development/desa/population/publications/pdf/urbanization/the_worlds_cities_in_2016_data_booklet.pdf|publisher=United Nations|page=11|date=2016|access-date=30 July 2022|archive-date=1 October 2017|archive-url=https://web.archive.org/web/20171001173328/http://www.un.org/en/development/desa/population/publications/pdf/urbanization/the_worlds_cities_in_2016_data_booklet.pdf|url-status=live|language=en}}</ref> dhe si të tilla janë përshkruar si megaqytete. Ndërsa Stambolli ka popullsinë më të madhe të qytetit, ai ndodhet pjesërisht në Azi. 64,9% e banorëve jetojnë në anën evropiane dhe 35,1% në anën aziatike.
+Qytetet e tjera më të mëdha sipas popullsisë janë Madridi, Shën Petersburgu, Milano, Barcelona, Berlini dhe Roma, secili me mbi tre milionë banorë.<ref name="UN WUP 2016" />
+
+Kur merren parasysh zonat metropolitane brenda Evropës (për të cilat ka të dhëna të krahasueshme), Moska mbulon popullsinë më të madhe, e ndjekur me radhë nga Stambolli, Londra, Parisi, Madridi, Milano, Zona e Ruhrit, Shën Petersburgu, Rhein-Süd, Barcelona dhe Berlini.<ref>{{Cite web|title=Major Agglomerations of the World – Population Statistics and Maps|url=https://www.citypopulation.de/en/world/agglomerations/|access-date=10 September 2020|website=citypopulation.de|archive-date=12 June 2018|archive-url=https://web.archive.org/web/20180612140057/https://www.citypopulation.de/world/Agglomerations.html|url-status=live|language=en}}</ref>
+
+==Kultura==
+{{Kryesor|Kultura e Evropës}}
+[[File:Grossgliederung Europas-en.svg|thumb|upright=1.3|Hartë që paraqet ndarjen e kontinentit evropian sipas kufijve kulturorë dhe shtetërorë, siç propozohet nga organizata gjermane Ständiger Ausschuss für geographische Namen (StAGN)]]
+
+"Evropa" si koncept kulturor rrjedh në thelb nga trashëgimia e përbashkët e Greqisë së Lashtë dhe e Perandorisë Romake dhe kulturave të saj. Kufijtë e Evropës historikisht janë kuptuar si ata të Krishterimit (ose më konkretisht Krishterimit Latin), ashtu siç u vendosën ose u mbrojtën gjatë historisë mesjetare dhe të hershme moderne të Evropës, veçanërisht kundër Islamit, siç ishte rasti me Rekonkuistën dhe luftërat osmane në Evropë.<ref>[[Hilaire Belloc]], [http://www.gutenberg.org/ebooks/8442 Europe and the Faith] {{Webarchive|url=https://web.archive.org/web/20180316121024/http://www.gutenberg.org/ebooks/8442 |date=16 March 2018|language=en }}, Kapitulli I</ref>
+
+Kjo trashëgimi kulturore e përbashkët kombinohet me kultura dhe folklore kombëtare vendase që mbivendosen, të ndara përafërsisht në sllave, latine (romane) dhe gjermanike, por me disa përbërës që nuk bëjnë pjesë në asnjë prej këtyre grupeve (veçanërisht kultura greke, baske dhe qeltike). Historikisht, shembuj të veçantë me kultura të mbivendosura janë Strasburgu, me rrënjë latine (romane) dhe gjermanike, ose Trieste, me rrënjë latine, sllave dhe gjermanike.
+Kontaktet dhe përzierjet kulturore formojnë një pjesë të madhe të kulturave rajonale të Evropës. Evropa shpesh përshkruhet si vend i "diversitetit maksimal kulturor me distanca minimale gjeografike".
+
+Në Evropë organizohen ngjarje të ndryshme kulturore, me qëllim afrimin e kulturave të ndryshme dhe rritjen e vetëdijes për rëndësinë e tyre, si "Kryeqyteti Evropian i Kulturës", "Rajoni Evropian i Gastronomisë", "Kryeqyteti Evropian i Rinisë" dhe "Kryeqyteti Evropian i Sportit".
+
+===Sporti===
+{{Kryesor|Sporti në Evropë}}
+
+Sporti në Evropë priret të jetë shumë i organizuar, me shumë sporte që kanë liga profesioniste. Origjina e shumë prej sporteve më të njohura sot në botë gjendet në kodifikimin e lojërave tradicionale, veçanërisht në Mbretërinë e Bashkuar. Megjithatë, një tipar paradoksal i sportit evropian është shkalla në të cilën variacionet lokale, rajonale dhe kombëtare vazhdojnë të ekzistojnë, madje edhe të mbizotërojnë në disa raste.<ref>{{Cite book |last1=Dine |first1=Philip |title=Sport, Representation and Evolving Identities in Europe |last2=Crosson |first2=Seán |publisher=Peter Lang |year=2010 |isbn=978-3-03911-977-6 |location=Bern|language=en}}</ref>
+
+===Dimensioni social===
+Në Evropë, shumë njerëz nuk kanë qasje në kushte bazë sociale, çka e bën më të vështirë për ta të lulëzojnë. Qasja në nevoja bazë mund të jetë e kufizuar, për shembull 10% e evropianëve shpenzojnë të paktën 40% të të ardhurave familjare për strehim. 75 milionë evropianë ndihen të izoluar shoqërisht. Që nga vitet 1980 pabarazia e të ardhurave ka qenë në rritje dhe pjesët e pagave kanë rënë. Në 2016, 20% më i pasur i familjeve fitonte mbi pesë herë më shumë se 20% më i varfëri. Shumë punëtorë përjetojnë paga reale të ngrira dhe puna e brishtë është e zakonshme edhe për punëtorët thelbësorë.<ref name=SustainableProsperity>{{Cite web|url=https://sustainable-prosperity.eu/story/|title=Sustainable Prosperity – Made in Europe|website=sustainable-prosperity.eu|language=en}}</ref>
+
+==Shiko gjithashtu==
+{{Div col}}
+* [[Evropa e hershme moderne]]
+* {{ill|Eurodistrikti|en|Eurodistrict}}
+* [[Lojërat Evropiane]]
+* {{ill|Bashkimi Evropian si superfuqi e mundshme|en|European Union as a potential superpower}}
+* {{ill|Euroregjion|en|Euroregion}}
+* {{ill|Renditjet financiare dhe sociale të shteteve sovrane në Evropë|en|Financial and social rankings of sovereign states in Europe}}
+* {{ill|Flamujt e Evropës|en|Flags of Europe}}
+* {{ill|Kujdesi shëndetësor në Evropë|en|Healthcare in Europe}}
+* {{ill|Lista e stacioneve televizive evropiane|en|List of European television stations}}
+* {{ill|Lista e emrave të qyteteve evropiane në gjuhë të ndryshme|en|List of names of European cities in different languages}}
+* {{ill|Lista e shteteve sovrane në Evropë sipas PBB-së (nominale)|en|List of sovereign states in Europe by GDP (nominal)}}
+* {{ill|Lista e fshatrave në Evropë|en|List of villages in Europe}}
+* {{ill|Listat e qyteteve në Evropë|en|Lists of cities in Europe}}
+* {{ill|Moderniteti|en|Modernity}}
+* {{ill|Statistikat e Organizatës për Siguri dhe Bashkëpunim në Evropë|en|Organization for Security and Co-operation in Europe statistics}}
+* [[Panevropianizmi|Identiteti pan-evropian]]
+* {{ill|Transporti hekurudhor në Evropë|en|Rail transport in Europe}}
+* {{ill|Transporti në Evropë|en|Transport in Europe}}
+{{Div col end}}
+
+==Shënime==
+{{Div col|colwidth=30em}}
+{{Cnote|a|[[Transnistria]], e njohur ndërkombëtarisht si pjesë ligjore e [[Moldova|Republikës së Moldavisë]], edhe pse kontrolli ''de facto'' ushtrohet nga qeveria e saj e panjohur ndërkombëtarisht, e cila shpalli pavarësinë nga Moldavia në 1990}}
+{{Cnote|b|Rusia është një shtet ndërkontinental që përfshin Evropën Lindore dhe Azinë e Veriut. Shumica dërrmuese e popullsisë së saj (80%) jeton brenda pjesës së saj evropiane.<ref name="Vishnevsky">{{cite web |url=https://www.un.org/esa/population/publications/popdecline/vishnevsky.pdf |title=Replacement Migration: Is it a solution for Russia? |access-date=14 January 2008 |last=Vishnevsky |first=Anatoly |date=15 August 2000 |publisher=United Nations Population Division, Department of Economic and Social Affairs |pages=6, 10 |archive-date=29 August 2017 |archive-url=https://web.archive.org/web/20170829152839/http://www.un.org/esa/population/publications/popdecline//vishnevsky.pdf |url-status=live|language=en }}</ref> Megjithatë, vetëm shifra e popullsisë përfshin gjithë shtetin.}}
+{{Cnote|c|Guernsey, Ishulli i Manit dhe Jersey janë Varësi të Kurorës të Mbretërisë së Bashkuar. Ishuj të tjerë të Kanalit të legjisluar nga Bailiwick-u i Guernsey-t përfshijnë Alderney-n dhe Sark-un.}}
+{{Cnote|d|Qipro mund të konsiderohet pjesë e Evropës ose e Azisë Perëndimore; ka lidhje të forta historike dhe sociopolitike me Evropën. Shifrat e popullsisë dhe sipërfaqes i referohen gjithë shtetit, duke përfshirë pjesën ''de facto'' të pavarur, Qipron Veriore, e cila nuk njihet si komb sovran nga shumica dërrmuese e kombeve sovrane, as nga OKB.}}
+{{Cnote|e|Shifrat për Portugalinë përfshijnë arkipelagët e Azoreve dhe Maderës, të dy në Atlantikun e Veriut.}}
+{{Cnote|f|Shifra e sipërfaqes për Serbinë përfshin Kosovën, një krahinë që shpalli njëanshëm pavarësinë nga Serbia më 17 shkurt 2008, dhe statusi sovran i së cilës është i paqartë. Shifrat e popullsisë dhe dendësisë janë nga rezultatet e para të censusit të 2011-s dhe jepen pa territorin e kontestuar të Kosovës.}}
+{{Cnote|g|Shifrat për Francën përfshijnë vetëm Francën metropolitane: disa pjesë politikisht integrale të Francës ndodhen gjeografikisht jashtë Evropës.}}
+{{Cnote|h|Popullsia e Holandës është për nëntor 2014. Detajet e popullsisë dhe sipërfaqes përfshijnë vetëm pjesën evropiane: Holanda dhe tri entitete jashtë Evropës (Aruba, Kurasao dhe Sint Maarten, në Karaibe) përbëjnë Mbretërinë e Holandës. Amsterdami është kryeqyteti zyrtar, ndërsa Haga është selia administrative.}}
+{{Cnote|i|Kazakistani konsiderohet fiziografikisht një shtet ndërkontinental, kryesisht në Azinë Qendrore, pjesërisht në Evropën Lindore, me territor evropian në perëndim të Maleve Ural dhe Lumit Ural. Megjithatë, vetëm shifra e popullsisë i referohet gjithë vendit.}}
+{{Cnote|j|Armenia mund të konsiderohet pjesë e Evropës Lindore ose e Azisë Perëndimore; ka lidhje të forta historike dhe sociopolitike me Evropën. Shifrat e popullsisë dhe sipërfaqes përfshijnë gjithë shtetin.}}
+{{Cnote|k|Azerbajxhani konsiderohet fiziografikisht një shtet ndërkontinental, kryesisht në Azinë Perëndimore. Një pjesë e vogël e territorit të tij ndodhet në veri të Kaukazit të Madh, e konsideruar pjesë e Evropës Lindore. Megjithatë, shifrat e popullsisë dhe sipërfaqes janë për gjithë shtetin, duke përfshirë eksklavën e Republikës Autonome të Nahçivanit dhe rajonin e Nagorno-Karabakut.}}
+{{Cnote|l|Gjeorgjia mund të konsiderohet pjesë e Evropës Lindore ose e Azisë Perëndimore; ka lidhje të forta historike dhe sociopolitike me Evropën. Shifrat e popullsisë dhe sipërfaqes përfshijnë vlerësimet gjeorgjiane për Abkazinë dhe Osetinë e Jugut, dy rajone që kanë shpallur dhe ''de facto'' arritur pavarësinë. Njohja ndërkombëtare, megjithatë, është e kufizuar.}}
+{{Cnote|m|Turqia konsiderohet fiziografikisht një shtet ndërkontinental, kryesisht në Azinë Perëndimore (Lindja e Mesme). Turqia ka një pjesë të vogël të territorit të saj (3%) në Evropën Juglindore, e quajtur Trakia Lindore. Megjithatë, vetëm shifra e popullsisë përfshin gjithë shtetin.}}
+{{Cnote|n|Shifrat totale për sipërfaqen dhe popullsinë përfshijnë vetëm pjesët evropiane të shteteve ndërkontinentale. Saktësia e këtyre shifrave cenohet nga shtrirja e paqartë gjeografike e Evropës dhe mungesa e referencave për pjesët evropiane të shteteve ndërkontinentale.}}
+{{Cnote|o|Kosova shpalli njëanshëm pavarësinë nga Serbia më 17 shkurt 2008. Statusi i saj sovran është i paqartë. Popullsia e saj është vlerësim i CIA-s për korrik 2009.}}
+{{Cnote|p|Abkazia dhe Osetia e Jugut, të dyja të konsiderueshme si pjesë e Evropës Lindore ose e Azisë Perëndimore, shpallën njëanshëm pavarësinë nga Gjeorgjia më 25 gusht 1990 dhe 28 nëntor 1991, respektivisht. Statusi i tyre si kombe sovrane nuk njihet nga shumica dërrmuese e kombeve sovrane, as nga OKB. Shifrat e popullsisë janë të dhëna sipas censusit të 2003-s dhe vlerësimeve të 2000-s, respektivisht.}}
+{{Cnote|q|Nagorno-Karabaku, i cili mund të konsiderohet pjesë e Evropës Lindore ose e Azisë Perëndimore, shpalli njëanshëm pavarësinë nga Azerbajxhani më 6 janar 1992. Statusi i tij si komb sovran nuk njihet nga asnjë komb sovran, as nga OKB. Shifrat e popullsisë janë të dhëna sipas censusit të 2003-s dhe vlerësimeve të 2000-s, respektivisht.}}
+{{Cnote|r|Grenlanda, vend përbërës autonom brenda Mbretërisë Daneze, gjeografikisht është pjesë e kontinentit të Amerikës së Veriut, por historikisht dhe kulturalisht është shoqëruar me Evropën.}}
+{{Cnote|s|Republika Popullore e Donjeckut dhe Republika Popullore e Luhanskut njihen ndërkombëtarisht si pjesë ligjore e Ukrainës, edhe pse kontrolli ''de facto'' ushtrohet nga qeveri që shpallën pavarësinë nga Ukraina në 2014.}}
+{{Cnote|t|Evropa zakonisht konsiderohet kontinent më vete në botën anglishtfolëse, e cila përdor modelin e shtatë kontinenteve. Modele të tjera e konsiderojnë Evropën si pjesë të një kontinenti euroaziatik ose afro-euroaziatik.}}
+{{Cnote|u|Harta tregon një nga përcaktimet më të pranuara gjerësisht të kufijve gjeografikë të Evropës, siç përdoret nga National Geographic dhe Encyclopædia Britannica. Nëse vendet konsiderohen në Evropë apo Azi mund të ndryshojë sipas burimeve, për shembull në klasifikimin e CIA World Factbook ose atë të BBC-së. Disa vende në Evropë, si Franca, kanë territore që ndodhen gjeografikisht jashtë Evropës, por që megjithatë konsiderohen pjesë përbërëse të atij vendi.}}
+{{Cnote|v|Kjo shifër përfshin Siberinë (rreth 38 milionë njerëz) por përjashton Turqinë evropiane (rreth 12 milionë).}}
+{{Div col end}}
+
+==Referimet==
+{{Reflist}}
+
+==Burimet==
+* {{cite book |last1=Brown |first1=Stephen F. |last2=Anatolios |first2=Khaled |last3=Palmer |first3=Martin |year=2009 |editor-last=O'Brien |editor-first=Joanne |title=Catholicism & Orthodox Christianity |publisher=Infobase Publishing |isbn=978-1-60413-106-2|language=en}}
+* {{cite book |last1=Bulliet |first1=Richard |last2=Crossley |first2=Pamela |last3=Headrick |first3=Daniel |last4=Hirsch |first4=Steven |last5=Johnson |first5=Lyman |year=2011 |title=The Earth and Its Peoples, Brief Edition |volume=1 |publisher=Cengage Learning |isbn=978-0-495-91311-5|language=en}}
+* {{cite book |last1=Laiou |first1=Angeliki E. |last2=Morisson |first2=Cécile |date=2007 |title=The Byzantine Economy |location=Cambridge, England |publisher=Cambridge University Press |isbn=978-0-521-84978-4|language=en}}
+* {{cite book |last1=Lewis |first1=Martin W. |last2=Wigen |first2=Kären |date=1997 |title=The Myth of Continents: A Critique of Metageography |url=https://books.google.com/books?id=C2as0sWxFBAC |publisher=University of California Press |isbn=978-0-520-20743-1 |language=en}}
+* National Geographic Society (2005). ''National Geographic Visual History of the World''. Washington, DC: National Geographic Society. {{ISBN|0-7922-3695-5}}.
+* {{cite book |last=Pounds |first=Norman John Greville |url=https://archive.org/details/historicalgeogra0000poun |title=An Historical Geography of Europe, 1500–1840 |publisher=Cambridge University Press |date=1979 |isbn=978-0-521-22379-9 |location=Cambridge, England|language=en}}
+
+==Lidhje të jashtme==
+* [https://education.nationalgeographic.org/resource/europe-human-geography/ Europe: Human Geography] nga National Geographic Society
+* [https://www.loc.gov/rr/european/ European Reading Room] nga Biblioteka e Kongresit të Shteteve të Bashkuara
+* ''[http://www.columbiagazetteer.org/ The Columbia Gazetteer of the World Online]'', Columbia University Press
+
+'''Harta historike'''
+* [http://geacron.com/home-en/?&sid=GeaCron747702 Kufijtë në Evropë nga 3000 p.e.s. deri sot] – atlasi historik Geacron
+* [http://www.euratlas.net/history/europe/index.html Historia e Evropës online në 21 harta]
+
+[[Kategoria:Evropa| ]]
+[[Kategoria:Kontinentet]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Europe|24 gusht 2026|1371021559}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Europe, versioni i datës 24 gusht 2026 (revizioni 1371021559)
+-->

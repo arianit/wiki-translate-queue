@@ -1,0 +1,186 @@
+{{Infobox scientist
+| name               = Muhamed ibn Musa el-Kuarizmi
+| native_name        = {{lang|ar|محمد بن موسى الخوارزميّ}}
+| image              = Madrid - Ciudad Universitaria, Monumento a Muhammad al-Juarismi (cropped).jpg
+| caption            = Statujë në [[Madrid]], ngritur në 2020
+| birth_date         = rreth vitit 780
+| birth_place        = {{ill|Horezm|en|Khwarazm}}, [[Kalifati Abasit]]
+| death_date         = rreth vitit 850
+| era                = [[Epoka e Artë Islame]]
+| field              = [[Matematika]], [[astronomi]]a, [[gjeografia]]
+| known_for          = Traktate mbi [[algjebër]]n dhe [[Sistemi numerik indo-arab|sistemin numerik indo-arab]]
+| influenced         = [[Abu Kamil]] i Egjiptit, [[Nicolo Tartaglia]]
+| workplaces         = [[Shtëpia e Urtësisë]] në [[Bagdad]] (afër vitit 820)
+}}
+'''Muhamed ibn Musa el-Kuarizmi''' ({{lang|ar|محمد بن موسى الخوارزميّ}}, ''Muḥammad ibn Mūsā al-Khwārizmī''), njohur shkurt edhe si '''al-Kuarizmi''' (rreth 780 – rreth 850), ishte [[matematikan]] aktiv gjatë [[Epoka e Artë Islame|Epokës së Artë Islame]], i cili prodhoi vepra në gjuhën arabe mbi [[matematikë]]n, [[astronomi]]në dhe [[gjeografi]]në. Rreth vitit 820, punoi në [[Shtëpia e Urtësisë|Shtëpinë e Urtësisë]] në [[Bagdad]], kryeqyteti i atëhershëm i [[Kalifati Abasit|Kalifatit Abasit]].<ref>{{cite book |last=Toomer |first=Gerald J. |chapter=al-Khuwārizmī, Abu Ja'far Muḥammad ibn Mūsā |title=Dictionary of Scientific Biography |editor-last=Gillispie |editor-first=Charles Coulston |volume=7 |pages=358–365 |publisher=Scribner |date=1970–1980 |isbn=978-0-684-16966-8 |language=en}}</ref> Si një prej dijetarëve më të shquar të periudhës, veprat e tij patën ndikim të gjerë tek autorët e mëvonshëm, si në botën islame ashtu edhe në Evropë.
+
+Për jetën e el-Kuarizmit dihen pak të dhëna biografike. Traktati i tij popullarizues mbi [[algjebër]]n, përpiluar midis viteve 813 dhe 833 si ''[[Al-Xhabri|Al-Xhabr]]'' (''Libri i Përmbledhur mbi Llogaritjen me Përfundim dhe Balancim''), paraqiti zgjidhjen e parë sistematike të ekuacioneve lineare dhe kuadratike. Një prej arritjeve të tij në algjebër ishte demonstrimi se si zgjidheshin ekuacionet kuadratike duke plotësuar katrorin, për të cilën dha arsyetime gjeometrike. Meqë el-Kuarizmi ishte i pari që e trajtoi algjebrën si disiplinë të pavarur dhe prezantoi metodat e "reduktimit" dhe "balancimit" (transpozimi i termave të zbritur në anën tjetër të një ekuacioni, domethënë anulimi i termave të ngjashëm në anët e kundërta), ai është përshkruar nga shumë historianë të shkencës si babai ose themeluesi i algjebrës. Vetë termi "algjebër" vjen nga titulli i shkurtuar i traktatit të tij ({{lang|ar|الجبر}}, ''al-jabr'', "përfundim" ose "ribashkim"). Emri i tij dha shkas për termat [[algorizëm]] dhe [[algoritëm]], si dhe për termat spanjollë, italian dhe portugez ''algoritmo'', dhe për termin spanjoll ''guarismo'' dhe portugez ''algarismo'', që të gjithë do të thonë "shifër".
+
+Në shekullin XII, përkthimet latine të tekstit shkollor të el-Kuarizmit mbi aritmetikën indiane, që kodifikuan numrat e ndryshëm indianë, prezantuan sistemin dhjetor pozicional të numrave në botën perëndimore. Po ashtu, ''Al-Xhabri'', i përkthyer në latinisht nga studiuesi anglez {{ill|Robert i Çesterit|en|Robert of Chester}} në 1145, u përdor deri në shekullin XVI si teksti kryesor matematikor i universiteteve evropiane.<ref>{{cite book |last=Hitti |first=Philip Khuri |title=History of the Arabs |publisher=Palgrave Macmillan |year=2002 |page=379 |isbn=978-1-137-03982-8 |language=en}}</ref> El-Kuarizmi rishikoi ''Gjeografinë'' e [[Ptolemeu]]t, traktat në gjuhën greke i shekullit II, duke renditur gjatësitë dhe gjerësitë gjeografike të qyteteve dhe vendndodhjeve të ndryshme. Ai dha gjithashtu një kontribut të rëndësishëm në [[trigonometri]], duke prodhuar tabela të sakta sinusi dhe kosinusi. Emri i el-Kuarizmit u latinizua si ''Algoritmi'', duke e bërë emrin e tij origjinën e fjalës "algoritëm".
+
+== Jeta ==
+Pak të dhëna për jetën e el-Kuarizmit dihen me siguri. {{ill|Ibn el-Nedim|en|Ibn al-Nadim}} jep si vendlindje të tij Horezmin, dhe përgjithësisht besohet se ai erdhi prej kësaj krahine. Sipas shumë burimeve, ai ishte me prejardhje [[Persët|persiane]];<ref>{{cite journal |last=Saliba |first=George |title=Science and medicine |journal=Iranian Studies |volume=31 |issue=3–4 |date=September 1998 |pages=681–690 |doi=10.1080/00210869808701940 |language=en}}</ref> emri i tij do të thotë "nga Horezmi", një krahinë që ishte pjesë e Iranit të Madh dhe që sot është pjesë e [[Turkmenistani]]t dhe [[Uzbekistani]]t. Megjithëse ishte me origjinë jo-arabe (ndoshta horezmiane), ai i shkroi veprat e tij shkencore tërësisht në gjuhën arabe. Në një diskutim redaktorial të vitit 2025 mbi artikullin përkatës në Wikipedian në anglisht, u arrit konsensus i fortë kundër përshkrimit të el-Kuarizmit si "persian" ose "iranian" në paragrafin hyrës, prandaj ky artikull e ndjek po atë konvencion, ndërkohë që diskuton origjinën e tij në këtë seksion.
+
+[[Taberiu|El-Taberi]] e jep emrin e tij si Muhamed ibn Musa el-Kuarizmi el-Maxhusi el-Kutrubuli. Epiteti ''el-Kutrubuli'' mund të tregojë se ai vinte nga Kutrubuli (Katrabuli), afër Bagdadit, ndonëse historiani {{ill|Roshdi Rashed|en|Roshdi Rashed}} e mohon këtë interpretim, duke argumentuar se citimi i el-Taberit duhet lexuar si përshkrim i dy personave të ndryshëm ("Muhamed ibn Musa el-Kuarizmi ''dhe'' el-Maxhusi el-Kutrubuli"), jo si një emër i vetëm. Historiani David A. King, nga ana tjetër, e mban të vlefshme lidhjen me Kutrubulin, duke vënë në dukje se el-Kuarizmi u quajt kështu sepse lindi pikërisht jashtë Bagdadit.
+
+Për sa i përket fesë së el-Kuarizmit, historiani Gerald Toomer ka shkruar se epiteti "el-Maxhusi" i dhënë nga el-Taberi mund të sugjerojë se ai ishte pasues i fesë së vjetër [[Zoroastrizmi|zoroastriane]] — gjë ende e mundshme në atë kohë për një njeri me origjinë iraniane — por parathënia fetare e ''Algjebrës'' së el-Kuarizmit tregon se ai ishte mysliman ortodoks, kështu që epiteti i el-Taberit mund të nënkuptonte vetëm se paraardhësit e tij, e ndoshta ai vetë në rininë e tij, kishin qenë zoroastrianë.
+
+''El-Fihristi'' i Ibn el-Nedimit përfshin një biografi të shkurtër të el-Kuarizmit, së bashku me listën e librave të tij. El-Kuarizmi realizoi pjesën më të madhe të veprës së tij midis viteve 813 dhe 833. Pas pushtimit mysliman të Persisë, Bagdadi ishte bërë qendra e studimeve shkencore dhe tregtisë. Rreth vitit 820, el-Kuarizmi u emërua astronom dhe drejtues i librarisë së [[Shtëpia e Urtësisë|Shtëpisë së Urtësisë]], themeluar nga kalifi abasit [[El-Ma'muni|el-Ma'mun]].<ref>{{cite journal |last=Maher |first=P. |title=From Al-Jabr to Algebra |journal=Mathematics in School |volume=27 |issue=4 |year=1998 |pages=14–15 |language=en}}</ref> El-Kuarizmi studioi shkencat dhe matematikën, duke përfshirë përkthimin e dorëshkrimeve shkencore greke dhe sanskrite. Ai ishte gjithashtu historian, i cituar nga figura si el-Taberi dhe Ibn Ebi Tahiri.
+
+Gjatë sundimit të [[El-Uathiku|el-Uathikut]], thuhet se ai mori pjesë në të parën prej dy ambasadave dërguar tek [[Hazarët]]. Historiani {{ill|Douglas Morton Dunlop|en|Douglas Morton Dunlop}} ka sugjeruar se Muhamed ibn Musa el-Kuarizmi mund të ketë qenë i njëjti person me Muhamed ibn Musa ibn Shakirin, më i madhi i tre [[Vëllezërit Benu Musa|vëllezërve Benu Musa]].
+
+== Kontribute ==
+[[Skeda:Image-Al-Kitāb al-muḫtaṣar fī ḥisāb al-ğabr wa-l-muqābala.jpg|thumb|Faqe nga ''Algjebra'' e el-Kuarizmit]]
+Kontributet e el-Kuarizmit në matematikë, gjeografi, astronomi dhe kartografi hodhën themelet e risive në algjebër dhe trigonometri. Qasja e tij sistematike ndaj zgjidhjes së ekuacioneve lineare dhe kuadratike çoi te "algjebra", fjalë e prejardhur nga titulli i librit të tij mbi këtë temë, ''Al-Xhabri''.
+
+''Mbi Llogaritjen me Numra Indianë'', shkruar rreth vitit 825, ishte kryesisht përgjegjëse për përhapjen e sistemit numerik indo-arab në Lindjen e Mesme dhe Evropë. Kur vepra u përkthye në latinisht në shekullin XII si ''Algoritmi de numero Indorum'' ("El-Kuarizmi mbi artin indian të llogaritjes"), termi "algoritëm" u fut në botën perëndimore.
+
+Pjesë e veprës së el-Kuarizmit u bazuan në astronominë persiane dhe babilonase, numrat indianë dhe matematikën greke.
+
+El-Kuarizmi sistemoi dhe korrigjoi të dhënat e Ptolemeut për Afrikën dhe Lindjen e Mesme. Një libër tjetër i rëndësishëm ishte ''Kitab surat el-ard'' ("Pamja e Tokës", i përkthyer si Gjeografi), që paraqiti koordinatat e vendeve bazuar në ato të ''Gjeografisë'' së Ptolemeut, por me vlera të përmirësuara për [[Deti Mesdhe|Detin Mesdhe]], Azinë dhe Afrikën.
+
+El-Kuarizmi shkroi për pajisje mekanike si [[Astrolabi|astrolabi]] dhe [[Ora diellore|ora diellore]]. Ai ndihmoi një projekt për të përcaktuar perimetrin e Tokës dhe për të hartuar një hartë të botës për el-Ma'munin, kalifin, duke mbikëqyrur 70 gjeografë. Kur, në shekullin XII, veprat e tij u përhapën në Evropë përmes përkthimeve latine, kjo pati ndikim të thellë në përparimin e matematikës evropiane.
+
+Kontributet e el-Kuarizmit në astronomi, që përzienin teorinë me praktikën, ndikuan drejtpërdrejt astronomët e epokës së tij dhe fushën në tërësi. Tabelat e tij astronomike, të njohura si ''zixh'', u bënë mjete thelbësore për brezat e mëvonshëm të astronomëve, duke mundësuar llogaritje të sakta për parashikimin e ngjarjeve astronomike, si eklipset dhe pozicionet e trupave qiellorë, të domosdoshme për lundrim dhe matjen e kohës.
+
+=== Algjebra ===
+{{Hatnote|Artikulli kryesor: {{ill|Al-Xhabri|en|The Compendious Book on Calculation by Completion and Balancing}}}}
+''Al-Xhabri'' (''Libri i Përmbledhur mbi Llogaritjen me Përfundim dhe Balancim'', {{lang|ar|الكتاب المختصر في حساب الجبر والمقابلة}}, ''el-Kitab el-mukhtasar fi hisab el-xhabr uel-mukabala'') është një libër matematikor i shkruar rreth vitit 820 të e.s. U shkrua me inkurajimin e kalifit el-Ma'mun si vepër popullore mbi llogaritjen dhe është plot shembuj e zbatime në një sërë problemesh tregtie, matjeje toke dhe trashëgimie ligjore. Termi "algjebër" rrjedh nga emri i njërës prej operacioneve themelore me ekuacione (''el-xhabr'', që do të thotë "rikthim", duke iu referuar shtimit të një numri në të dyja anët e ekuacionit për të konsoliduar ose anuluar terma) të përshkruar në këtë libër. Libri u përkthye në latinisht si ''Liber algebrae et almucabala'' nga Robert i Çesterit (Segovia, 1145), prej nga vjen fjala "algjebër", dhe gjithashtu nga Gerard i Kremonës. Një kopje unike arabe ruhet në Oksford dhe u përkthye në 1831 nga {{ill|Friedrich August Rosen|en|Friedrich August Rosen}}. Një përkthim latin ruhet në Kembrixh.
+
+Libri dha një përshkrim shterues të zgjidhjes së ekuacioneve polinomiale deri në gradën e dytë, dhe trajtoi metodën themelore të "reduktimit" dhe "balancimit", që i referohet transpozimit të termave në anën tjetër të një ekuacioni, domethënë anulimit të termave të ngjashëm në anët e kundërta të ekuacionit.
+
+Metoda e el-Kuarizmit për zgjidhjen e ekuacioneve lineare dhe kuadratike funksiononte duke e reduktuar fillimisht ekuacionin në një nga gjashtë format standarde (ku ''b'' dhe ''c'' janë numra të plotë pozitivë):
+* katrorët të barabartë me rrënjët (''ax''<sup>2</sup> = ''bx'')
+* katrorët të barabartë me numrin (''ax''<sup>2</sup> = ''c'')
+* rrënjët të barabarta me numrin (''bx'' = ''c'')
+* katrorët dhe rrënjët të barabarta me numrin (''ax''<sup>2</sup> + ''bx'' = ''c'')
+* katrorët dhe numri të barabartë me rrënjët (''ax''<sup>2</sup> + ''c'' = ''bx'')
+* rrënjët dhe numri të barabarta me katrorët (''bx'' + ''c'' = ''ax''<sup>2</sup>)
+
+duke pjesëtuar koeficientin e katrorit dhe duke përdorur dy operacionet ''el-xhabr'' (rikthim ose përfundim) dhe ''el-mukabala'' (balancim). ''El-Xhabri'' është procesi i heqjes së njësive negative, rrënjëve dhe katrorëve nga ekuacioni, duke shtuar të njëjtën sasi në secilën anë. Për shembull, ''x''<sup>2</sup> = 40''x'' − 4''x''<sup>2</sup> reduktohet në 5''x''<sup>2</sup> = 40''x''. ''El-Mukabala'' është procesi i sjelljes së sasive të të njëjtit lloj në të njëjtën anë të ekuacionit. Për shembull, ''x''<sup>2</sup> + 14 = ''x'' + 5 reduktohet në ''x''<sup>2</sup> + 9 = ''x''.
+
+Disa autorë kanë botuar tekste nën emrin ''Kitab el-xhabr uel-mukabala'', përfshirë Ebu Hanifa Dinauerin, Ebu Kamilin, Ebu Muhamed el-Adliun, Ebu Jusuf el-Misisiun, 'Abd el-Hamid ibn Turkun, Sind ibn Alin, Sahl ibn Bishrin dhe Sheref el-Din el-Tusiun.
+
+Historiani {{ill|Solomon Gandz|en|Solomon Gandz}} e ka përshkruar el-Kuarizmin si babain e algjebrës: "Algjebra e el-Kuarizmit konsiderohet themeli dhe guri qoshes i shkencave. Në një kuptim, el-Kuarizmi meriton më shumë të quhet 'babai i algjebrës' se sa [[Diofanti]], sepse el-Kuarizmi është i pari që mëson algjebrën në formë elementare dhe për hir të vetvetes, ndërsa Diofanti merret kryesisht me teorinë e numrave."<ref>{{cite journal |last=Gandz |first=Solomon |title=The sources of al-Khwarizmi's algebra |journal=Osiris |volume=1 |year=1936 |pages=263–277 |language=en}}</ref>
+
+Historiani Victor J. Katz shton: "Teksti i parë i vërtetë i algjebrës që mbijeton ende është vepra mbi el-xhabrin dhe el-mukabalanë e Muhamed ibn Musa el-Kuarizmit, shkruar në Bagdad rreth vitit 825."<ref>{{cite journal |last=Katz |first=Victor J. |title=Stages in the History of Algebra with Implications for Teaching |journal=University of the District of Columbia |page=190 |language=en}}</ref>
+
+Historianët John J. O'Connor dhe {{ill|Edmund F. Robertson|en|Edmund F. Robertson}} shkruajnë në ''{{ill|Arkivi MacTutor i Historisë së Matematikës|en|MacTutor History of Mathematics Archive}}'': "Ndoshta një nga përparimet më të rëndësishme të bëra nga matematika arabe filloi në këtë kohë me veprën e el-Kuarizmit, domethënë fillimet e algjebrës. Është e rëndësishme të kuptohet se sa domethënëse ishte kjo ide e re. Ishte një lëvizje revolucionare larg konceptit grek të matematikës, që ishte në thelb gjeometri. Algjebra ishte një teori unifikuese që lejonte që numrat racionalë, numrat irracionalë, madhësitë gjeometrike etj., të trajtoheshin të gjitha si 'objekte algjebrike'. Kjo i dha matematikës një rrugë tërësisht të re zhvillimi, shumë më të gjerë në koncept se ç'kishte ekzistuar më parë, dhe siguroi një mjet për zhvillimin e ardhshëm të fushës."<ref>{{cite web |last1=O'Connor |first1=John J. |last2=Robertson |first2=Edmund F. |title=Abu Ja'far Muhammad ibn Musa Al-Khwarizmi |url=https://mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/ |website=MacTutor History of Mathematics Archive |publisher=University of St Andrews |language=en}}</ref>
+
+Historianët Roshdi Rashed dhe Angela Armstrong shkruajnë se teksti i el-Kuarizmit dallohet jo vetëm nga [[Tabelat babilonase|tabelat babilonase]], por edhe nga ''[[Aritmetika]]'' e [[Diofanti]]t: nuk ka më të bëjë me një seri problemesh për t'u zgjidhur, por me një ekspozim që fillon me terma primitivë, ku kombinimet duhet të japin të gjitha prototipet e mundshme për ekuacione, të cilat tashmë përbëjnë objektin e vërtetë të studimit.<ref>{{cite book |last1=Rashed |first1=R. |last2=Armstrong |first2=Angela |title=The Development of Arabic Mathematics |publisher=Springer |year=1994 |isbn=978-0-7923-2565-9 |pages=11–12 |language=en}}</ref>
+
+Sipas historianit zviceran-amerikan të matematikës Florian Cajori, algjebra e el-Kuarizmit ishte e ndryshme nga puna e matematikanëve indianë, sepse indianët nuk kishin rregulla si "rikthimi" dhe "reduktimi".<ref>{{cite book |last=Cajori |first=Florian |title=A History of Mathematics |publisher=Macmillan |year=1919 |page=103 |language=en}}</ref> Lidhur me dallimin dhe rëndësinë e veprës algjebrike të el-Kuarizmit nga ajo e matematikanit indian [[Brahmagupta]], historiani Carl B. Boyer shkroi se, në dy aspekte, vepra e el-Kuarizmit përfaqësonte një prapambetje krahasuar me atë të Diofantit — së pari sepse ishte në një nivel shumë më elementar se problemet diofantine, dhe së dyti sepse algjebra e el-Kuarizmit ishte plotësisht retorike, pa asnjë nga shkurtimet simbolike të gjetura te ''Aritmetika'' greke apo te vepra e Brahmaguptas. Megjithatë, sipas Boyer-it, ''Al-Xhabri'' i afrohet më shumë algjebrës elementare të sotme se veprat e Diofantit apo Brahmaguptas, sepse libri nuk merret me probleme të vështira të analizës së papërcaktuar, por me një ekspozim të drejtpërdrejtë dhe elementar të zgjidhjes së ekuacioneve, sidomos të gradës së dytë.<ref>{{cite book |last=Boyer |first=Carl Benjamin |title=A History of Mathematics |year=1968 |page=252 |language=en}}</ref>
+
+=== Aritmetika ===
+[[Skeda:Houghton Typ 520.03.736 - Margarita philosophica.jpg|thumb|Algoristët kundër abakistëve, në një gravurë të vitit 1503]]
+[[Skeda:Dixit algorizmi.png|thumb|Faqe nga një përkthim latin, që fillon me "Dixit algorizmi"]]
+Vepra e dytë më me ndikim e el-Kuarizmit ishte mbi aritmetikën, e cila mbijetoi në përkthime latine, por humbi në origjinalin arab. Shkrimet e tij përfshijnë tekstin ''kitab el-hisab el-hindi'' ("Libri i llogaritjes indiane"), dhe ndoshta një tekst më elementar, ''kitab el-xhem' uel-tefrik el-hisab el-hindi'' ("Mbledhja dhe zbritja në aritmetikën indiane"). Këto tekste përshkruanin algoritme mbi numrat dhjetorë ([[Sistemi numerik indo-arab|numrat indo-arabë]]) që mund të kryheshin në një tabelë pluhuri. E quajtur ''takht'' në arabisht (latinisht: ''tabula''), një tabelë e mbuluar me një shtresë të hollë pluhuri apo rëre përdorej për llogaritje, mbi të cilën shifrat mund të shkruheshin me një stil dhe të fshiheshin lehtësisht kur ishte e nevojshme. Algoritmet e el-Kuarizmit u përdorën për pothuajse tre shekuj, deri sa u zëvendësuan nga algoritmet e {{ill|El-Ukliddisi|en|Al-Uqlidisi}}, që mund të kryheshin me stilolaps dhe letër.
+
+Si pjesë e valës së shkencës arabe që erdhi drejt Evropës përmes përkthimeve në shekullin XII, këto tekste rezultuan revolucionare në Evropë. Emri i latinizuar i el-Kuarizmit, ''Algorismus'', u shndërrua në emrin e metodës së përdorur për llogaritje dhe mbijeton në termin "algoritëm". Ai zëvendësoi gradualisht metodat e mëparshme të bazuara në abak, të përdorura në Evropë.
+
+Katër tekste latine që ofrojnë përshtatje të metodave të el-Kuarizmit kanë mbijetuar, edhe pse asnjëri prej tyre nuk besohet të jetë përkthim fjalë për fjalë: ''Dixit Algorizmi'' (botuar në 1857 nën titullin ''Algoritmi de Numero Indorum''), ''Liber Alchoarismi de Practica Arismetice'', ''Liber Ysagogarum Alchorismi'', dhe ''Liber Pulveris''. ''Dixit Algorizmi'' ("Kështu foli el-Kuarizmi") është fraza fillestare e një dorëshkrimi në bibliotekën e Universitetit të Kembrixhit, që zakonisht referohet me titullin e tij të vitit 1857. I atribuohet {{ill|Adelard i Bathit|en|Adelard of Bath}}it, i cili kishte përkthyer tabelat astronomike në 1126. Ky është ndoshta dorëshkrimi më afër shkrimeve origjinale të vetë el-Kuarizmit.
+
+Vepra e el-Kuarizmit mbi aritmetikën ishte përgjegjëse për futjen e [[Numrat arabë|shifrave arabe]], të bazuara në sistemin numerik indo-arab të zhvilluar në matematikën indiane, në botën perëndimore. Termi "algoritëm" rrjedh nga "algorizmi", teknika e kryerjes së aritmetikës me shifra indo-arabe, e zhvilluar nga el-Kuarizmi. Të dy termat, "algoritëm" dhe "algorizëm", rrjedhin nga format e latinizuara të emrit të el-Kuarizmit, ''Algoritmi'' dhe ''Algorismi'', përkatësisht.
+
+=== Astronomia ===
+[[Skeda:Corpus Christ College MS 283 (1).png|thumb|Faqe nga ''Corpus Christi College MS 283'', përkthim latin i ''Zixh''-it të el-Kuarizmit]]
+''Zixh es-Sindhindi'' i el-Kuarizmit ({{lang|ar|زيج السند هند}}, "tabela astronomike të Sidhantës") është vepër e përbërë prej rreth 37 kapitujsh mbi llogaritjet kalendarike dhe astronomike, si dhe 116 tabela me të dhëna kalendarike, astronomike dhe astrologjike, si dhe një tabelë vlerash sinusi. Ky është i pari prej shumë ''zixheve'' arabe të bazuara në metodat astronomike indiane të njohura si ''sindhind''. Fjala "sindhind" është një shformim i sanskritishtes ''Sidhanta'', përcaktimi i zakonshëm i një teksti shkollor astronomik. Në fakt, lëvizjet mesatare në tabelat e el-Kuarizmit rrjedhin nga ato të "Brahmasidhantës së korrigjuar" ([[Brahmasfutasidhanta]]) e Brahmaguptas.
+
+Vepra përmban tabela për lëvizjet e Diellit, Hënës dhe pesë planetëve të njohur në atë kohë. Kjo vepër shënoi pikën e kthesës në astronominë islame. Deri atëherë, astronomët myslimanë kishin ndjekur kryesisht një qasje kërkimore ndaj fushës, duke përkthyer veprat e të tjerëve dhe duke mësuar njohuri tashmë të zbuluara.
+
+Versioni origjinal arab (shkruar rreth vitit 820) është humbur, por një version i astronomit spanjoll {{ill|Maslama el-Maxhriti|en|Maslama al-Majriti}} (rreth vitit 1000) ka mbijetuar në një përkthim latin, ndoshta nga Adelardi i Bathit (26 janar 1126). Katër dorëshkrimet e mbijetuara të përkthimit latin ruhen në Bibliothèque publique (Chartres), Bibliothèque Mazarine (Paris), Biblioteca Nacional (Madrid) dhe Bibliotekën Bodleiane (Oksford).
+
+Kontributet e el-Kuarizmit në astronomi, që përzienin teorinë me praktikën, ndikuan si mënyrën si kuptoheshin dukuritë astronomike, ashtu edhe zbatimin e tyre gjatë epokës së tij.
+
+=== Trigonometria ===
+''Zixh es-Sindhindi'' i el-Kuarizmit përmbante tabela për funksionet trigonometrike të sinusit dhe kosinusit. Atij i atribuohet edhe një traktat i lidhur mbi trigonometrinë sferike. El-Kuarizmi prodhoi tabela të sakta sinusi dhe kosinusi.
+
+=== Gjeografia ===
+[[Skeda:World map by Al-Khwarizmi.svg|thumb|Rindërtimi i Gianluca Gornit i pjesës së hartës botërore të el-Kuarizmit që i përket Oqeanit Indian.]]
+[[Skeda:PtolemyWorldMap.jpg|thumb|Version i shekullit XV i ''Gjeografisë'' së Ptolemeut, për krahasim]]
+[[Skeda:Earliest extant map of the Nile, in al-Khwārazmī’s Kitāb ṣūrat al- arḍ.jpg|thumb|Harta më e hershme e mbijetuar e Nilit, në ''Kitab Surat el-Ard''-in e el-Kuarizmit]]
+Vepra e tretë kryesore e el-Kuarizmit është ''Kitab Surat el-Ard'' ({{lang|ar|كتاب صورة الأرض}}, "Libri i Përshkrimit të Tokës"), i njohur edhe si ''Gjeografia'' e tij, e përfunduar në 833. Është një rishikim i madh i ''Gjeografisë'' së shekullit II të Ptolemeut, e përbërë nga një listë me 2.402 koordinata qytetesh dhe veçorish të tjera gjeografike, e shoqëruar nga një hyrje e përgjithshme.
+
+Ekziston vetëm një kopje e mbijetuar e ''Kitab Surat el-Ardit'', e ruajtur në Bibliotekën Universitare të Strasburgut. Një përkthim latin ndodhet në Bibliotekën Kombëtare të Spanjës në Madrid. Libri hapet me listën e gjerësive dhe gjatësive gjeografike, sipas "zonave klimatike", domethënë në blloqe gjerësish dhe, brenda çdo zone klimatike, sipas gjatësisë. As kopja arabe, as përkthimi latin nuk përfshijnë hartën e botës; megjithatë, {{ill|Hubert Daunicht|en|Hubert Daunicht}} arriti të rindërtojë hartën e humbur nga lista e koordinatave.
+
+El-Kuarizmi korrigjoi mbivlerësimin e madh të Ptolemeut për gjatësinë e Detit Mesdhe, nga Ishujt Kanarie deri në brigjet lindore të Mesdheut; Ptolemeu e mbivlerësoi atë në 63 gradë gjatësie gjeografike, ndërsa el-Kuarizmi e vlerësoi pothuajse saktë në afërsisht 50 gradë gjatësie. Ai "e përshkroi Oqeanin Atlantik dhe atë Indian si trupa uji të hapur, jo si dete të mbyllura nga toka, siç kishte bërë Ptolemeu". Meridiani fillestar i el-Kuarizmit, në Ishujt e Bekuar, ishte rreth 10° në lindje të vijës së përdorur nga Marinusi dhe Ptolemeu. Shumica e gazetierëve mesjetarë myslimanë vazhduan të përdornin meridianin fillestar të el-Kuarizmit.
+
+=== Kalendari hebraik ===
+El-Kuarizmi shkroi disa vepra të tjera, përfshirë një traktat mbi [[Kalendari hebraik|kalendarin hebraik]], me titull ''Risala fi istihraxh tarih el-jahud'' ({{lang|ar|رسالة في إستخراج تأريخ اليهود}}, "Nxjerrja e Erës Judaike"). Ai përshkruan ciklin metonik, një cikël ndërkalimi 19-vjeçar; rregullat për përcaktimin e ditës së javës në të cilën bie dita e parë e muajit Tishrei; llogarit intervalin midis vitit "Anno Mundi" ose vitit hebraik dhe erës selevkide; dhe jep rregulla për përcaktimin e gjatësisë mesatare të Diellit dhe Hënës sipas kalendarit hebraik. Material i ngjashëm gjendet në veprat e [[El-Biruniu|El-Biruniut]] dhe [[Meimonidi|Maimonidit]].
+
+=== Vepra të tjera ===
+''El-Fihristi'' i Ibn el-Nedimit, një indeks librash arabë, përmend ''Kitab el-Tarih''-un e el-Kuarizmit ({{lang|ar|كتاب التأريخ}}), një libër analesh. Asnjë dorëshkrim i drejtpërdrejtë nuk ka mbijetuar; megjithatë, një kopje kishte arritur në Nusaybin deri në shekullin XI, ku peshkopi i saj metropolitan, Mar Elia bar Shinaja, e gjeti. Kronika e Elias e citon "nga vdekja e Profetit" e deri në vitin 169 të hixhretit.
+
+Disa dorëshkrime arabe në Berlin, Stamboll, Tashkent, Kajro dhe Paris përmbajnë material shtesë që me shumë gjasa vjen nga el-Kuarizmi. Dorëshkrimi i Stambollit përmban një punim mbi orët diellore; ''El-Fihristi'' i atribuon el-Kuarizmit ''Kitab er-Rukhama(t)''-in ({{lang|ar|كتاب الرخامة}}). Punime të tjera, si një mbi përcaktimin e drejtimit të Mekës, kanë të bëjnë me astronominë sferike.
+
+Dy tekste meritojnë interes të veçantë mbi gjerësinë e mëngjesit dhe përcaktimin e azimutit nga lartësia. Ai shkroi gjithashtu dy libra mbi përdorimin dhe ndërtimin e astrolabeve.
+
+== Nderime ==
+* {{ill|El-Kuarizmi (krater)|en|Al-Khwarizmi (crater)}} — krater në anën e largët të Hënës.<ref>{{cite journal |last=El-Baz |first=Farouk |title=Al-Khwarizmi: A New-Found Basin on the Lunar Far Side |journal=Science |volume=180 |issue=4091 |year=1973 |pages=1173–1176 |doi=10.1126/science.180.4091.1173 |pmid=17743602 |language=en}}</ref>
+* {{ill|13498 Al Chwarizmi|en|13498 Al Chwarizmi}} — asteroid i brezit kryesor, zbuluar më 6 gusht 1986 nga E. W. Elst dhe V. G. Ivanova në Smolyan.<ref>{{cite web |url=https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=13498 |title=Small-Body Database Lookup |website=ssd.jpl.nasa.gov |publisher=NASA/JPL |language=en}}</ref>
+* {{ill|11156 Al-Khwarismi|en|11156 Al-Khwarismi}} — asteroid i brezit kryesor, zbuluar më 31 dhjetor 1997 nga P. G. Comba në Prescott.<ref>{{cite web |url=https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=11156 |title=Small-Body Database Lookup |website=ssd.jpl.nasa.gov |publisher=NASA/JPL |language=en}}</ref>
+
+== Referime ==
+{{Reflist}}
+
+=== Burimet ===
+{{Refbegin|30em}}
+* Arndt, A. B. (dhjetor 1983). "Al-Khwarizmi". ''The Mathematics Teacher'' 76 (9): 668–670. (anglisht)
+* Boyer, Carl B. (1991). "The Arabic Hegemony", në ''A History of Mathematics'', botimi 2. John Wiley & Sons, Inc. ISBN 978-0-471-54397-8. (anglisht)
+* Burnett, Charles (2017). "Arabic Numerals", në Thomas F. Glick (red.), ''Routledge Revivals: Medieval Science, Technology and Medicine (2006): An Encyclopedia''. Taylor & Francis. (anglisht)
+* al-Daffa, Ali Abdullah (1977). ''The Muslim Contribution to Mathematics''. Croom Helm, Londër. ISBN 978-0-85664-464-1. (anglisht)
+* Dunlop, Douglas Morton (1943). "Muḥammad b. Mūsā al-Khwārizmī". ''The Journal of the Royal Asiatic Society of Great Britain and Ireland'' 2 (3–4): 248–250. (anglisht)
+* Kennedy, E. S. (1956). "A Survey of Islamic Astronomical Tables". ''Transactions of the American Philosophical Society'' 46 (2): 123–177. (anglisht)
+* Rashed, Roshdi; Morelon, Régis (1996). ''Encyclopedia of the History of Arabic Science'', vëll. 1. Routledge. ISBN 0-415-12410-7. (anglisht)
+* Struik, Dirk Jan (1987). ''A Concise History of Mathematics'', botimi 4. Dover Publications. ISBN 978-0-486-60255-4. (anglisht)
+* Toomer, Gerald (1990). "Al-Khwārizmī, Abu Ja'far Muḥammad ibn Mūsā", në Charles Coulston Gillispie (red.), ''Dictionary of Scientific Biography'', vëll. 7. Charles Scribner's Sons, Nju Jork. ISBN 978-0-684-16962-0. (anglisht)
+{{Refend}}
+
+== Lexime shtesë ==
+{{Refbegin|30em}}
+* Brentjes, Sonja (2007). "Khwārizmī: Muḥammad ibn Mūsā al-Khwārizmī", në Thomas Hockey et al. (red.), ''The Biographical Encyclopedia of Astronomers''. Springer, Nju Jork, f. 631–633. (anglisht)
+* Hogendijk, Jan P., ''Muhammad ibn Musa (Al-)Khwarizmi (c. 780–850 CE)'' — bibliografi e veprave, dorëshkrimeve, botimeve dhe përkthimeve të tij. (anglisht)
+* al-Khwārizmī, Muhammad ibn Musa (1831 [820]). ''Al-Kitāb al-Mukhtaṣar fī Ḥisāb al-Jabr wa'l-Muqābala'' (''The Algebra of Mohammed Ben Musa''), përkthyer nga Frederic Rosen. The Oriental Translation Fund, Londër. (anglisht)
+* Gandz, Solomon (1926). "The Origin of the Term 'Algebra'". ''The American Mathematical Monthly'' 33 (9): 437–440. (anglisht)
+* Gandz, Solomon (1936). "The Sources of al-Khowārizmī's Algebra". ''Osiris'' 1 (1): 263–277. (anglisht)
+* Gandz, Solomon (1938). "The Algebra of Inheritance: A Rehabilitation of Al-Khuwārizmī". ''Osiris'' 5 (5): 319–391. (anglisht)
+* Hughes, Barnabas (1986). "Gerard of Cremona's Translation of al-Khwārizmī's al-Jabr, A Critical Edition". ''Mediaeval Studies'' 48: 211–263. (anglisht)
+* Hughes, Barnabas (1989). ''Robert of Chester's Latin Translation of al-Khwarizmi's al-Jabr: A New Critical Edition''. F. Steiner Verlag, Wiesbaden. (latinisht)
+* Karpinski, L. C. (1915). ''Robert of Chester's Latin Translation of the Algebra of Al-Khowarizmi: With an Introduction, Critical Notes and an English Version''. The Macmillan Company. (anglisht)
+* Rashed, Roshdi (1996). "Algebra", në ''Encyclopedia of the History of Arabic Science'', vëll. 2, f. 17–43. Routledge. (anglisht)
+* Goldstein, B. R. (1968). ''Commentary on the Astronomical Tables of Al-Khwarizmi: By Ibn Al-Muthanna''. Yale University Press. (anglisht)
+* Neugebauer, Otto (1962). ''The Astronomical Tables of al-Khwarizmi''. (anglisht)
+* Kennedy, E. S. (1964). "Al-Khwārizmī on the Jewish Calendar". ''Scripta Mathematica'' 27: 55–59. (anglisht)
+{{Refend}}
+
+== Lidhje të jashtme ==
+* {{Commons category-inline|Muhammad ibn Musa al-Khwarizmi}}
+
+== Shiko edhe ==
+* [[Algjebra]]
+* [[Algoritmi]]
+* [[Epoka e Artë Islame]]
+* {{ill|Al-Xhabri|en|Al-Jabr}}
+
+[[Kategoria:Lindje - Vitet 780]]
+[[Kategoria:Vdekje 850]]
+[[Kategoria:Matematikanë persianë]]
+[[Kategoria:Astronomë persianë]]
+[[Kategoria:Gjeografë persianë]]
+[[Kategoria:Astrologë persianë]]
+[[Kategoria:Astrologë të shekullit të 9-të]]
+[[Kategoria:Astronomë të shekullit të 9-të]]
+[[Kategoria:Gjeografë të shekullit të 9-të]]
+[[Kategoria:Matematikanë të shekullit të 9-të]]
+[[Kategoria:Dijetarë myslimanë]]
+[[Kategoria:Njerëz nga Kalifati Abasit]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Al-Khwarizmi|21 korrik 2026|1365313405}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Al-Khwarizmi, versioni i datës 21 korrik 2026 (revizioni 1365313405)
+-->

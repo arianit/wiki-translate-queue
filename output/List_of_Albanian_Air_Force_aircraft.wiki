@@ -1,0 +1,210 @@
+```
+{{Short description|None}}
+
+'''Avionët ushtarakë shqiptarë''' përfshijnë të gjithë [[Aeroplani|aeroplanët]] dhe [[Helikopteri|helikopterët]] që janë operuar nga [[Forca Ajrore Shqiptare]] që nga themelimi i saj zyrtar në vitin 1947. Meqenëse [[Shqipëria]] nuk ka kapacitet vendas për prodhimin e avionëve, të gjithë [[Avioni|avionët]] janë blerë nga vende të tjera. Për më tepër, burimet e kufizuara të vendit kanë bërë që një blerje e tillë të jetë bërë kryesisht përmes ndihmës ushtarake të huaj të ofruar Shqipërisë për arsye strategjike. Fillimisht, [[Pakti i Varshavës]] siguroi pajisje gjatë viteve 1950, por pas një përçarjeje politike, [[Kina]] i zëvendësoi ata si mbështetësi kryesor i vendit. Pas përfundimit të [[Lufta e Ftohtë|Luftës së Ftohtë]] dhe një ndryshimi të rëndësishëm në marrëdhëniet ndërkombëtare të Shqipërisë, si dhe një riorientimi të [[Forcat e Armatosura të Shqipërisë|Forcave të Armatosura të Shqipërisë]], forca ajrore ka kërkuar helikopterë mbështetës më modernë nga [[Evropa Perëndimore]] për të mbështetur rolin e saj të ri në partneritet me [[NATO]].
+
+Lista më e përditësuar e avionëve ushtarakë shqiptarë mund të gjendet në artikullin [[Forca Ajrore Shqiptare]].
+
+==Avionët e epokës së Luftës së Ftohtë==
+
+===Vitet themeluese dhe Pakti i Varshavës===
+
+Në vitin 1951, Bashkimi Sovjetik i siguroi [[Forca Ajrore e Ushtrisë Popullore Shqiptare|Forcës Ajrore të Ushtrisë Popullore Shqiptare]] të sapokrijuar avionë luftarakë të vjetruar [[Yakovlev Yak-9|Yak-9]]<ref name="AlbYak9">{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=805155 |title=#805155 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref> dhe avionë trajnimi [[Po-2]].<ref name="AlbPo-2">{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=806921 |title=#806921 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref> U dorëzua gjithashtu një grup i vogël avionësh trajnimi [[Yakovlev Yak-18|Yak-18]] të sapondërtuar.<ref name="AlbYak18">{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=738483 |title=#738483 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref>
+
+Si anëtare themeluese e [[Pakti i Varshavës|Paktit të Varshavës]], Shqipëria mori avionë luftarakë dhe trajnimi [[Mikojan-Gureviç MiG-15|MiG-15]] në vitin 1955.{{Sfn|Wragg|2011|page=50}} Avionë shtesë u furnizuan nga sovjetikët deri në ndarjen shqiptaro-sovjetike në vitin 1961.{{Sfn|Keefe|Foreign Area Studies|1971|page=184}} Në vitin 1963, u vlerësua se shqiptarët operonin dy skuadrilje MiG-15 dhe MiG-17 me prodhim sovjetik, si dhe disa avionë transporti e trajnimi sovjetikë.{{Sfn|Steinberg|2016|page=800}}
+
+{| class="wikitable"
+! style="text-align:center; background:#acc;"|Avioni
+! style="text-align: center; background:#acc;"|Shënime
+|-
+! colspan="2" style="align: center; background: lavender;" | [[Avioni luftarak|Luftarakë]]
+|-
+| [[Yakovlev Yak-9]]
+| Të përdorur më parë, 12 të dorëzuar në 1951.<ref name="AlbYak9" />
+|-
+| [[Mikojan-Gureviç MiG-15|MiG-15]]
+| Të përdorur më parë, 24 MiG-15bis të dorëzuar në 1955<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=797817 |title=#797817 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref> dhe 8 F-2 me prodhim kinez në 1956.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=801937 |title=#801937 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref>
+|-
+| MiG-19
+| Të përdorur më parë, 3 MiG-19<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=805175 |title=#805175 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref> dhe 12 MiG-19PM<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=758858 |title=#758858 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref> të dorëzuar në 1959.
+|-
+! colspan="2" style="align: center; background: lavender;" | [[Bombarduesi|Bombardues]]
+|-
+| [[Ilyushin Il-28]]
+| 1 i dorëzuar në 1957.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=805159 |title=#805159 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref>
+|-
+! colspan="2" style="align: center; background: lavender;" | [[Helikopteri|Helikopterë]]
+|-
+| [[Mil Mi-1]]
+| 2 të dorëzuar në 1957.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=803943 |title=#803943 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref>
+|-
+| [[Mil Mi-4]]
+| 4 Mi-4A të dorëzuar në 1957.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=805119 |title=#805119 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref>
+|-
+! colspan="2" style="align: center; background: lavender;" | [[Avioni ushtarak i transportit|Transport]]
+|-
+| [[Ilyushin Il-14]]
+| 1 i dorëzuar në 1957;<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=801799 |title=#801799 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref> në 1963, [[Republika Socialiste Çekosllovake|Çekosllovakia]] dorëzoi 1 Avia-14T,<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=801815 |title=#801815 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref> ndërsa [[Gjermania Lindore]] dorëzoi 2 VEP-14P.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=801797 |title=#801797 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref>
+|-
+! colspan="2" style="align: center; background: lavender;" | [[Avioni i trajnimit|Avionë trajnimi]]
+|-
+| [[Po-2]]
+| Të përdorur më parë, 5 të dorëzuar në 1951.<ref name="AlbPo-2" />
+|-
+| [[Yakovlev Yak-18]]
+| 4 të dorëzuar në 1951;<ref name="AlbYak18" /> 6 Yak-18A të dorëzuar në 1959.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=805173 |title=#805173 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref>
+|-
+| [[Yakovlev Yak-11]]
+| 6 të dorëzuar në 1954.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=802463 |title=#802463 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref>
+|-
+| [[Mikojan-Gureviç MiG-15|MiG-15UTI]]
+| 4 të dorëzuar në 1955;<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=805157 |title=#805157 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref> edhe 4 me prodhim çekosllovak,<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=797804 |title=#797804 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref> plus 4 FT-2 me prodhim kinez<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=805168 |title=#805168 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref> të dorëzuar në 1956.
+|}
+
+<gallery>
+Albanian Air Force Mikoyan-Gurevich MiG-15bis Lofting-1.jpg|MiG-15bis shqiptar
+At Kucove this F2 (MiG-15bis) is rotting away in a tunnel. (11278584023).jpg|F-2 shqiptar
+</gallery>
+```
+```
+===Ndihma kineze===
+
+Pas vitit 1970, Forca Ajrore Shqiptare zëvendësoi plotësisht flotën e saj të MiG-15 dhe MiG-17 sovjetike me ekuivalentët kinezë.{{Sfn|Zickel|Iwaskiw|Keefe|1992|page=221}} Sipas ish-komandantit të Forcës Ajrore Shqiptare, Edip Ohri, Kina dërgoi gjithsej 100 avionë luftarakë, duke përfshirë 70 F-5 (MiG-17) dhe 12 F-6 (MiG-19), me një grup tjetër prej 95 F-6 të dorëzuar më vonë.{{Sfn|Bytyçi|2022|page=174}} Shumica e aviojetëve luftarakë shqiptarë ishin të kufizuar në operime ditore, pasi u mungonin radarët dhe avionika e nevojshme për të operuar natën dhe në çdo kusht atmosferik. Kinezët furnizuan gjithashtu shqiptarët me një skuadrilje F-7 (MiG-21). Këto ishin avionët më modernë në Forcën Ajrore Shqiptare.{{Sfn|Zickel|Iwaskiw|Keefe|1992|page=221}}
+
+Avionë shtesë të furnizuar përfshinin 12 transportues Y-5 (An-2), 36 helikopterë dhe katër avionë me qëllime speciale, duke përfshirë një transportues VIP [[Ilyushin Il-14|Il-14]] për [[Enver Hoxha]], megjithëse ai nuk e kaloi kurrë kufirin pasi avioni u dorëzua.{{Sfn|Bytyçi|2022|page=174}}<ref>{{Cite web |website=BalkanWeb |url=http://www.balkanweb.com/dossier/2720/edip-ohri-ne-vitin-64-sollem-nga-kina-avionin-personal-te-enverit-156271.html |archive-url=https://web.archive.org/web/20131031002709/http://www.balkanweb.com/dossier/2720/edip-ohri-ne-vitin-64-sollem-nga-kina-avionin-personal-te-enverit-156271.html |author-first=Fatos |author-last=Veliu |title=Edip Ohri: Në vitin '64 sollëm nga Kina avionin personal të Enverit |language=sq |trans-title=Edip Ohri: In '64 we brought Enver's personal plane from China |archive-date=2013-10-31 |date=2013-10-30}}</ref> U përdorën gjithashtu transportues Li-2 të furnizuar nga Kina.{{Sfn|Zickel|Iwaskiw|Keefe|1992|page=222}}
+
+Pasi Kina filloi të reduktonte dërgesat e pjesëve rezervë për Shqipërinë në vitin 1976 (për shkak të [[Ndarja Kino-Shqiptare|Ndarjes Kino-Shqiptare]]), gatishmëria luftarake e Forcës Ajrore Shqiptare u përkeqësua shpejt. Pasi Kina ndërpreu plotësisht dërgesat e armatimeve, inventari i avionëve u pakësua, pasi avionët më të vjetër nuk mund të riparoheshin ose zëvendësoheshin.{{Sfn|Zickel|Iwaskiw|Keefe|1992|page=222}}
+
+Në vitin 2016, Shqipëria vendosi në depo, për t'i shitur në ankand, 40 nga avionët e saj të mbetur sovjetikë dhe kinezë. Për shkak të burokracisë, ato ishin ende të magazinuara pa u shitur në vitin 2019.<ref>{{Cite news |title=Albania auctions off 40 communist-era aircraft |url=https://www.bbc.com/news/world-europe-35486258 |access-date=2024-11-10 |work=BBC News |agency=AFP news |language=en |date=2016-02-03}}</ref><ref>{{Cite magazine |last1=Mizokami |first1=Kyle |title=Albania's Ghost Air Force Is Up for Sale, But It Doesn't Look So Good |url=https://www.popularmechanics.com/military/aviation/a27008434/albania-underground-air-force-sale-fighter-planes/ |issn=0032-4558 |access-date=2024-11-10 |magazine=Popular Mechanics |via=Agence France-Presse |language=en |date=2019-04-01}}</ref>
+
+{| class="wikitable"
+! style="text-align:center; background:#acc;"|Avioni
+! style="text-align: center; background:#acc;"|Shënime
+|-
+! colspan="2" style="align: center; background: lavender;" | Luftarakë
+|-
+| [[Shenyang J-5]]
+| 12 të dorëzuar në 1962.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=776702 |title=#776702 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |language=en |doi=10.55163/SAFC1241}}</ref>
+|-
+| [[Shenyang J-6]]
+| 71 (duke përfshirë versionin stërvitor FT-6) të dorëzuar midis 1965 dhe 1971, pjesërisht në shkëmbim për MiG-19PM.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=736466 |title=#736466 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |language=en |doi=10.55163/SAFC1241}}</ref>
+|-
+| [[Chengdu J-7]]
+| 12 të dorëzuar në 1962.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=764729 |title=#764729 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |language=en |doi=10.55163/SAFC1241}}</ref>
+|-
+! colspan="2" style="align: center; background: lavender;" | Bombardues
+|-
+| [[Harbin H-5]]
+| 1 B-5 i dorëzuar në 1971.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=801795 |title=#801795 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |language=en |doi=10.55163/SAFC1241}}</ref>
+|-
+! colspan="2" style="align: center; background: lavender;" | Transport
+|-
+| [[Nanchang Y-5]]
+| 13 të dorëzuar midis 1963 dhe 1964.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=772720 |title=#772720 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |language=en |doi=10.55163/SAFC1241}}</ref>
+|-
+! colspan="2" style="align: center; background: lavender;" | Helikopterë
+|-
+| [[Harbin Z-5]]
+| 37 të dorëzuar midis 1967 dhe 1971.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=798837 |title=#798837 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |language=en |doi=10.55163/SAFC1241}}</ref>
+|-
+! colspan="2" style="align: center; background: lavender;" | Avionë trajnimi
+|-
+| [[Mikojan-Gureviç MiG-15|Shenyang FT-2]]
+| 11 të dorëzuar midis 1965 dhe 1966.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=797801 |title=#797801 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |language=en |doi=10.55163/SAFC1241}}</ref>
+|-
+| Shenyang FT-5
+| 8 të dorëzuar në 1961.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=798827 |title=#798827 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |language=en |doi=10.55163/SAFC1241}}</ref>
+|-
+| [[CJ-6|Nanchang CJ-6]]
+| 10 BT-6 të dorëzuar midis 1963 dhe 1964;<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=738783 |title=#738783 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |language=en |doi=10.55163/SAFC1241}}</ref> 10 BT-6A të dorëzuar në 1967,<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=738459 |title=#738459 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |language=en |doi=10.55163/SAFC1241}}</ref> me 10 shtesë të dorëzuar në 1971.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=805937 |title=#805937 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |language=en |doi=10.55163/SAFC1241}}</ref>
+|}
+
+<gallery>
+F5 (Chinese version of the MiG-17 'Fresco') at Kucove. (11278595203).jpg|F-5 shqiptar
+F6 at Kucove. (11278593483).jpg|F-6 shqiptar
+Two F7s (Chinese version of the MiG-21F-13 'Fishbed') at Tirana Airport (11278465865).jpg|Një çift F-7 shqiptarë
+H5 bomber (Chinese version of the IL-28 'Beagle') at Tirana Airport. (11278463955).jpg|B-5 shqiptar
+</gallery>
+<gallery>
+Y-5 Albania (11278588643).jpg|Y-5 shqiptar
+Albanian Air Force Harbin Z-5 Lofting-1.jpg|Z-5 shqiptar
+CJ6 trainer (Chinese version of the Yak-18 'Max') at Kucove. (11278513206).jpg|Dy CJ-6 shqiptarë
+</gallery>
+```
+==Avionët e periudhës pas-komuniste==
+
+Në vitin 2005, [[Ministria e Mbrojtjes e Shqipërisë|Ministria e Mbrojtjes e Shqipërisë]] vendosi të nxjerrë në pension skuadrilet e saj të avionëve me krahë fiks, për shkak të gjendjes së tyre të dobët dhe burimeve të kufizuara të vendit. Me vendin në prag të anëtarësimit në NATO (duke zvogëluar rrezikun e ndonjë kërcënimi ajror të menjëhershëm), Ministria e Mbrojtjes shqiptare vendosi të përqendrohej në zhvillimin e një force helikopterësh që do të mbështeste Forcat Tokësore.{{Sfn|Meijer|Wyss|2018|page=327}}
+
+Në vitin 2010, Forca Ajrore Shqiptare operonte helikopterë [[Bell 205]], [[Bell 206]], [[AgustaWestland AW109|AW109]] dhe [[MBB Bo 105]].{{Sfn|Wragg|2011|page=50}} Në vitin 2014, Gjermania dorëzoi dy helikopterë [[Eurocopter EC145|EC145]] që Shqipëria kishte blerë<ref name="AlbEC145">{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=739056 |title=#739056 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref> dhe Franca përfundoi dorëzimin e një loti me katër helikopterë sulmues [[Eurocopter AS532 Cougar|AS-532AL]].<ref name="AlbAS532AL">{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=743654 |title=#743654 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref> Në vitin 2022, Shqipëria bleu nga Turqia dronë [[Bayraktar TB2]], që do të operoheshin nga [[Baza Ajrore Kuçovë|Baza Ajrore e Kuçovës]].<ref name="TB2">{{Cite news |title=Albania's army buys 3 Turkish Bayraktar TB2 UAVs |url=https://apnews.com/article/nato-albania-tirana-edi-rama-944e50c42f9898a25cb0d14d600b9c02 |access-date=2024-11-09 |work=AP News |date=2022-12-21 |language=en}}</ref> Në tetor 2024, kryeministri [[Edi Rama]] njoftoi se Turqia do t'i furnizonte Shqipërisë me një sasi "të konsiderueshme" dronësh kamikaze, pa zbuluar numrin e saktë të sistemeve ose modelin specifik të dronit.<ref name="Kamikaze">{{Cite news |title=Albania to get kamikaze drones from Turkey - PM Rama |url=https://www.reuters.com/world/middle-east/albania-get-kamikaze-drones-turkey-pm-rama-2024-10-10/ |access-date=2024-11-09 |work=Reuters |date=2024-10-10 |language=en}}</ref>
+
+{| class="wikitable"
+! style="text-align:center; background:#acc;"|Avioni
+! style="text-align: center; background:#acc;"|Shënime
+|-
+! colspan="2" style="align: center; background: lavender;" | Helikopterë
+|-
+| [[Bell 205]]
+| 7 Agusta Bell-205A1 të dorës së dytë, dhuruar nga Italia në vitin 2005 si dhuratë.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=767397 |title=#767397 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref>
+|-
+| [[Bell 206]]
+| 7 Agusta Bell-206C-1 të dorës së dytë, dhuruar nga Italia në vitin 2003.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=767375 |title=#767375 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref>
+|-
+| [[MBB Bo 105]]
+| 6 të dorës së dytë, por të modernizuara para dorëzimit sipas standardit Bo-105E4. Dorëzuar nga Gjermania në vitin 2006.<ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=767531 |title=#767531 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref>
+|-
+| [[Eurocopter AS532 Cougar]]
+| 4 AS-532AL të dorëzuar nga Franca midis 2012 dhe 2014.<ref name="AlbAS532AL" />
+|-
+| [[Eurocopter EC145]]
+| 2 të dorëzuar në vitin 2015 nga Gjermania.<ref name="AlbEC145"/>
+|-
+! colspan="2" style="align: center; background: lavender;" | [[Automjeti ajror pa pilot|Automjetet ajrore pa pilot]]
+|-
+| [[Bayraktar TB2]]
+| 3 të blerë nga Turqia në vitin 2022.<ref name="TB2" /><ref>{{Cite web |url=https://armstransfers.sipri.org/ArmsTransfer/TransferData/transferDetail?entityId=822912 |title=#822912 |website=Arms Transfer Database |publisher=Stockholm International Peace Research Institute |doi=10.55163/SAFC1241 |language=en}}</ref>
+|-
+| Municion endacak (loitering munition) i panjohur
+| Do të dorëzohet nga Turqia.<ref name="Kamikaze" />
+|}
+
+<gallery>
+Albanian Air Force Agusta AB-205A-1 Lofting-1.jpg|Një AB-205A1 shqiptar (përpara) me një helikopter Z-5 (pas)
+Albanian Air Force Agusta AB-206C-1 JetRanger II Lofting-1.jpg|Një Agusta Bell-206C-1 shqiptar
+Alb BO-105.jpg|Një Bo 105 shqiptar
+Cougar Helicopter of the Albanian Air Force.jpg|Një Cougar shqiptar
+</gallery>
+
+== Avionët aktualisht në shërbim ==
+{{Kryesor|Forca Ajrore Shqiptare#Arsenali i Forcave Ajrore}}
+
+== Shiko edhe ==
+*[[Forca Ajrore Shqiptare]]
+*[[List of air forces|Lista e forcave ajrore]]
+
+==Referime==
+{{Reflist}}
+
+==Bibliografia==
+*{{Cite book |last1=Bytyçi |first1=Enver |title=In the Shadows of Albania-China Relations (1960-1978) |date=2022 |publisher=Cambridge Scholars Publishing |isbn=978-1-5275-7909-5 |url=https://books.google.com/books?id=vy5lEAAAQBAJ |language=en}}
+*{{Cite book |last1=Keefe |first1=Eugene K. |last2=Foreign Area Studies |first2=American University |title=Area Handbook for Albania |date=1971 |publisher=U.S. Government Printing Office |location=Washington, DC |url=https://books.google.com/books?id=CXmB6nDu4_AC |access-date=2024-11-08 |language=en}}
+*{{Cite book |editor1-last=Meijer |editor1-first=Hugo |editor2-last=Wyss |editor2-first=Marco |title=The Handbook of European Defence Policies and Armed Forces |date=2018 |publisher=[[Oxford University Press]] |isbn=978-0-19-250774-7 |url=https://books.google.com/books?id=kCxhDwAAQBAJ&dq=albanian+air+force&pg=PA327 |language=en}}
+*{{Cite book |editor1-last=Steinberg |editor1-first=S. H. |title=The Statesman's Year-Book 1963: The One-Volume ENCYCLOPAEDIA of all nations |date=2016 |publisher=Springer Nature |location=London |isbn=978-0-230-27092-3 |edition=100th |url=https://books.google.com/books?id=6NbMDQAAQBAJ |language=en}}
+*{{Cite book |last1=Wragg |first1=David |title=The World Air Power Guide |date=2011 |publisher=Casemate Publishers |isbn=978-1-84468-784-8 |url=https://books.google.com/books?id=s2PNDwAAQBAJ |language=en}}
+*{{Cite book |last1=Zickel |first1=Raymond E. |last2=Iwaskiw |first2=Walter R. |last3=Keefe |first3=Eugene K. |title=Albania: A Country Study |date=1992 |publisher=Federal Research Division, Library of Congress |location=Washington, DC |url=https://www.marines.mil/portals/1/Publications/Albania%20Study_6.pdf?ver=2012-10-11-163223-267 |access-date=2024-11-08}}
+
+
+{{DEFAULTSORT:Forca Ajrore Shqiptare, Lista e Avionëve}}
+[[Kategoria:Lista në lidhje me Shqipërinë]]
+[[Kategoria:Lista të avionëve ushtarakë]]
+[[Kategoria:Pajisje ushtarake të Shqipërisë]]
+[[Kategoria:Forca Ajrore Shqiptare|Avionë]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|List of Albanian Air Force aircraft|26 maj 2026|1356290923}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:List of Albanian Air Force aircraft, versioni i datës 26 maj 2026 (revizioni 1356290923).
+-->

@@ -1,0 +1,278 @@
+{{Short description|Traditional bell-shaped garment worn by Albanian women}}
+
+{{Infobox intangible heritage
+| ICH = Xhubleta, skills, craftsmanship and forms of usage
+| State Party = Albania
+| ID = 01880
+| Region = ENA
+| Year = 2022
+| Session = 17th
+| List = Need of Urgent Safeguarding
+}}
+
+[[File:Marubi photograph woman from Grudë.jpg|thumb|upright|Woman from [[Grudë, Albania|Grudë]] wearing a xhubleta, photographed by [[Pietro Marubi]].]]
+
+The '''xhubleta''' is a traditional handcrafted women's garment characterized by an undulating, bell-shaped skirt. It is part of the traditional dress of [[Albanians|Albanian]] highland communities and is particularly associated with the mountainous areas of [[Northern Albania]]. Variants have also historically been worn by Albanian communities in [[Kosovo]], [[Montenegro]] and [[North Macedonia]].{{sfn|Bido|1998|p=701}}
+
+The xhubleta is constructed principally from woollen textile and braid arranged to produce its distinctive bell-shaped form. Its complex structure and decoration distinguish it from other forms of Albanian traditional clothing.<ref name="Nini2013">{{cite journal
+ |last=Nini
+ |first=Silvana
+ |title=Technology Preparation of “Xhubleta”
+ |journal=Academic Journal of Interdisciplinary Studies
+ |volume=2
+ |issue=8
+ |year=2013
+ |page=646
+ |doi=10.5901/ajis.2013.v2n8p646
+ |url=https://www.richtmann.org/journal/index.php/ajis/article/view/787
+ |quote=The xhubleta is a complex garment, consisting of several elements that make it complete, and give it a final shape.
+}}</ref>
+
+Traditionally, the garment was worn from puberty and could indicate the social and economic status of the wearer. Although its everyday use and production have declined substantially, it retains ceremonial, social and spiritual importance among northern Albanian highland communities.<ref name="UNESCO">{{cite web
+ |title=Xhubleta, skills, craftsmanship and forms of usage
+ |url=https://ich.unesco.org/en/USL/xhubleta-skills-craftsmanship-and-forms-of-usage-01880
+ |publisher=[[UNESCO]]
+ |access-date=4 October 2026
+ |quote=Xhubleta was once used in everyday life from the age of puberty, indicating the wearer’s social and economic status.
+}}</ref>
+
+In 2022, ''Xhubleta, skills, craftsmanship and forms of usage'' was inscribed by [[UNESCO]] on the [[List of Intangible Cultural Heritage in Need of Urgent Safeguarding]].<ref name="UNESCO"/>
+
+==Etymology==
+The Albanian name ''xhubleta'' has been interpreted by linguist Lindon Dedvukaj as an inherited Albanian word rather than a borrowing. Dedvukaj proposes a derivation from Proto-Albanian *''jú-(m)blit-ā'', "bee", ultimately connecting it with the Balkan Indo-European formation *''h₁sú-melit'', "having good honey".{{sfn|Dedvukaj|2025|pp=4–7}}
+
+Dedvukaj relates the proposed etymology to a broader network of associations involving bees, female dress and religious symbolism in Albanian and ancient Mediterranean culture.{{sfn|Dedvukaj|2025|pp=4–7}}
+
+==History==
+[[File:Kličevac Idol, Serbia.jpg|thumb|150px|left|Bronze Age figurine from the Balkans wearing a bell-shaped garment. Similar ancient representations have been compared with the form of the xhubleta.]]
+
+The distinctive form and ornamentation of the xhubleta have led researchers to compare it with clothing represented in prehistoric and ancient Balkan and Mediterranean art. Similar bell-shaped garments appear on some Neolithic and Bronze Age figurines, while comparable forms are also represented on female figures and dancers in later ancient monuments.{{sfn|Gjergji|2004|p=185}}{{sfn|Bido|1998|p=701}}{{sfn|Dedvukaj|2025|pp=1–3}}
+
+These similarities have sometimes been interpreted as evidence that elements of the garment preserve very old Balkan clothing traditions. The comparisons are primarily iconographic, however, and do not by themselves demonstrate an uninterrupted continuity between prehistoric garments and the modern xhubleta.
+
+The decorative repertoire of the xhubleta includes geometric forms and motifs interpreted as representations of the sun, moon, stars, birds, serpents and other figures.{{sfn|Bido|1998|p=701}}{{sfn|Dedvukaj|2025|pp=2–3}} Some researchers have compared these motifs with symbols appearing in ancient Balkan material culture, including objects associated with the southern [[Illyrians]].{{sfn|Bido|1998|p=701}}
+
+Some motifs have also been interpreted as [[Apotropaic magic|apotropaic]], intended to protect the wearer from illness, harmful spirits or the [[evil eye]].{{sfn|Dedvukaj|2025|pp=2–3}}
+
+==Distribution and regional forms==
+The xhubleta is particularly associated with the highland communities of northern Albania, especially the [[Albanian Alps]] and areas such as [[Malësia e Madhe]], [[Kelmend]], [[Dukagjin (region)|Dukagjin]], [[Theth]] and [[Pukë]]. Related forms have historically been worn by Albanian communities beyond the present borders of Albania, including in Montenegro, Kosovo and North Macedonia.{{sfn|Bido|1998|p=701}}
+
+Ethnographic literature distinguishes two principal forms of xhubleta, a narrower and a broader type.{{sfn|Gjergji|2004}} Regional forms differ in the proportions of the skirt, the arrangement of the component strips, decoration, aprons and other elements of the complete costume.
+
+In western Kosovo, the xhubleta was among the traditional forms of women's clothing associated particularly with the [[Rugova (region)|Rugova]] region.
+
+==Construction and materials==
+[[File:Albanian women's dress.JPG|thumb|upright|A xhubleta on display.]]
+
+The xhubleta is not simply a skirt but the dominant element of a complex costume composed of several separately constructed parts.<ref name="Nini2013"/> According to textile researcher Silvana Nini, the final form results from the interaction between the material, cutting method, function and assembly of its individual components.<ref name="Nini2013"/>
+
+The principal material is traditionally wool. The textile used in construction is prepared within the household from sheep's wool and processed into the dense material required for the garment.<ref name="NiniMaterial">{{cite journal
+ |last=Nini
+ |first=Silvana
+ |title=Technology Preparation of “Xhubleta”
+ |journal=Academic Journal of Interdisciplinary Studies
+ |volume=2
+ |issue=8
+ |year=2013
+ |pages=646–652
+ |doi=10.5901/ajis.2013.v2n8p646
+ |url=https://www.richtmann.org/journal/index.php/ajis/article/download/787/818/3141
+ |quote=The felt used is a product manufactured within the household and mostly is obtained from sheep's wool.
+}}</ref>
+
+UNESCO describes the principal stages of production as preparation of the ''shajak'', cutting, sewing and embroidery of symbolic figures.<ref name="UNESCOprocess">{{cite web
+ |title=Xhubleta, skills, craftsmanship and forms of usage
+ |url=https://ich.unesco.org/en/USL/xhubleta-skills-craftsmanship-and-forms-of-usage-01880
+ |publisher=[[UNESCO]]
+ |access-date=4 October 2026
+ |quote=the crafting process entails preparing the shajak (woven felt), cutting, sewing and embroidering symbolic figures
+}}</ref>
+
+The bell-shaped lower portion is assembled from horizontal components which increase progressively in size. The relationship between the woollen material, decorative braid and the cutting and sewing technique produces the widening and undulating silhouette.<ref name="Nini2013"/>
+
+Traditionally, the garment is suspended from the shoulders by two straps. Ethnographic descriptions record a construction containing between thirteen and seventeen strips and five pieces of felt, with the bell shape particularly pronounced at the back.{{sfn|Gjergji|2004}}
+
+The complete costume could also include an apron, upper garments, sleeves, woollen leg coverings, footwear, belts and a headdress. Their form and decoration differed according to locality, age, marital status and social position.{{sfn|Gjergji|2004}}
+
+==Colour and decoration==
+[[File:Traditional North Albanian Dress.jpg|thumb|upright|Traditional northern Albanian dress with xhubleta.]]
+
+Surviving xhubleta are predominantly black and are often decorated with colourful embroidered motifs.<ref name="UNESCOblack">{{cite web
+ |title=Xhubleta, skills, craftsmanship and forms of usage
+ |url=https://ich.unesco.org/en/USL/xhubleta-skills-craftsmanship-and-forms-of-usage-01880
+ |publisher=[[UNESCO]]
+ |access-date=4 October 2026
+ |quote=Predominantly black with colourful embroidered motifs
+}}</ref>
+
+Ethnographic accounts distinguish between garments according to the age and marital status of their wearers. White forms have been associated with unmarried women and black forms with married women.{{sfn|Gjergji|2004}} Historical descriptions indicate that the costume formerly incorporated a wider range of colours. A seventeenth-century description of the women of Kelmend compared the variety of colours in their clothing with those of a peacock.
+
+Decoration was not purely ornamental. The garment and its embellishment could communicate social and economic standing.<ref name="UNESCO"/>
+
+The decorative system is dominated by geometric and stylized forms. Motifs interpreted as solar and lunar symbols, stars, birds, eagles, serpents and other figures occur in the ethnographic literature.{{sfn|Bido|1998|p=701}}{{sfn|Dedvukaj|2025|pp=2–3}}
+
+The combination of the unusual silhouette, textile construction and geometric ornamentation has been one of the principal reasons for scholarly interest in the xhubleta.<ref name="Nini2013"/>
+
+==Social and ceremonial role==
+[[File:Logu i Bjeshkëve 2017 – dancers on stage.jpg|thumb|Two dancers from [[Malësia e Madhe]] wearing xhubleta at [[Logu i Bjeshkëve]] in 2017.]]
+
+Historically, the xhubleta was everyday clothing rather than exclusively ceremonial dress. Girls began wearing it from puberty, and the garment could indicate the social and economic status of its wearer.<ref name="UNESCO"/>
+
+Its production formed part of a body of textile knowledge transmitted primarily among women. The required skills encompassed several stages of production, including preparation of wool and ''shajak'', cutting, sewing, assembly and embroidery.<ref name="UNESCOprocess"/>
+
+As everyday use declined, surviving garments acquired an increasingly important role in family and community heritage. Xhubleta continue to be worn or displayed at weddings, festivals, cultural events and other significant occasions.
+
+The garment is particularly associated with the cultural identity of the northern highlands. UNESCO describes it as continuing to possess both social and spiritual significance despite the decline of everyday production.<ref name="UNESCOidentity">{{cite web
+ |title=Xhubleta, skills, craftsmanship and forms of usage
+ |url=https://ich.unesco.org/en/USL/xhubleta-skills-craftsmanship-and-forms-of-usage-01880
+ |publisher=[[UNESCO]]
+ |access-date=4 October 2026
+ |quote=the garment has maintained its social and spiritual significance and is still considered an integral part of highland identity
+}}</ref>
+
+The costume is also displayed at contemporary cultural gatherings such as ''[[Logu i Bjeshkëve]]'', an annual event in the northern Albanian highlands.
+
+==Decline of the tradition==
+The everyday use and manufacture of the xhubleta declined substantially during the twentieth century. UNESCO identifies social, political and economic changes as major factors in this process.<ref name="UNESCO"/>
+
+The socialist transformation of Albania during the 1960s altered traditional patterns of life in mountain communities. As women increasingly worked in agricultural cooperatives, the xhubleta became impractical as everyday working clothing.<ref name="UNESCOdecline">{{cite web
+ |title=Xhubleta, skills, craftsmanship and forms of usage
+ |url=https://ich.unesco.org/en/USL/xhubleta-skills-craftsmanship-and-forms-of-usage-01880
+ |publisher=[[UNESCO]]
+ |access-date=4 October 2026
+ |quote=As women had to work in the agricultural socialist cooperatives, Xhubleta was no longer practical for everyday life.
+}}</ref>
+
+Collectivization also affected the availability of materials required for traditional production.<ref name="UNESCOmaterials">{{cite web
+ |title=Xhubleta, skills, craftsmanship and forms of usage
+ |url=https://ich.unesco.org/en/USL/xhubleta-skills-craftsmanship-and-forms-of-usage-01880
+ |publisher=[[UNESCO]]
+ |access-date=4 October 2026
+ |quote=state collectivization led to a lack of raw materials for its production
+}}</ref>
+
+The decline in use was accompanied by a breakdown in traditional transmission. By the time of Albania's UNESCO nomination, only a small number of women retained knowledge of the entire production process.<ref name="UNESCOrare">{{cite web
+ |title=Xhubleta, skills, craftsmanship and forms of usage
+ |url=https://ich.unesco.org/en/USL/xhubleta-skills-craftsmanship-and-forms-of-usage-01880
+ |publisher=[[UNESCO]]
+ |access-date=4 October 2026
+ |quote=Today, few women possess the knowledge of the entire process, and traditional family-based transmission is rare.
+}}</ref>
+
+The complexity of production presents an additional obstacle to revival, since making the garment requires knowledge of multiple specialized processes rather than sewing alone.<ref name="Nini2013"/><ref name="UNESCOprocess"/>
+
+==UNESCO recognition and safeguarding==
+Albania nominated ''Xhubleta, skills, craftsmanship and forms of usage'' for inscription on the [[List of Intangible Cultural Heritage in Need of Urgent Safeguarding]]. The [[Intergovernmental Committee for the Safeguarding of the Intangible Cultural Heritage]] approved the nomination at its seventeenth session in [[Rabat]], Morocco, in 2022.<ref name="UNESCOdecision">{{cite web
+ |title=Decision of the Intergovernmental Committee: 17.COM 7.A.4
+ |url=https://ich.unesco.org/en/decisions/17.COM/7.A.4
+ |publisher=[[UNESCO]]
+ |year=2022
+ |access-date=4 October 2026
+ |quote=Xhubleta is a handcrafted garment worn by highland women and girls in Northern Albania, characterised by its undulating bell form.
+}}</ref>
+
+The UNESCO element encompasses not only surviving garments but also the skills, craftsmanship and social practices connected with their manufacture and use.<ref name="UNESCOdecision"/>
+
+The Committee considered urgent safeguarding necessary because the number of bearers capable of carrying out the complete process had declined and traditional family-based transmission had become rare.<ref name="UNESCOrare"/>
+
+UNESCO subsequently approved international financial assistance for a two-year safeguarding programme. The project was intended to strengthen the practice and transmission of xhubleta craftsmanship, develop infrastructure for its revitalization, increase the capacity of knowledge bearers and raise awareness among local communities.<ref name="UNESCOproject">{{cite web
+ |title=Xhubleta, skills, craftmanship and forms of usage
+ |url=https://ich.unesco.org/en/assistances/xhubleta-skills-craftmanship-and-forms-of-usage-01948
+ |publisher=[[UNESCO]]
+ |access-date=4 October 2026
+ |quote=This two-year safeguarding programme aims to support efforts to enhance the practice and transmission of Xhubleta craftsmanship
+}}</ref>
+
+Safeguarding measures have included plans to identify and connect surviving knowledge bearers, provide training, obtain looms and other production materials, document the craft audiovisually and involve younger participants and textile students in learning the associated techniques.<ref name="UNESCOproject"/>
+
+==Research and documentation==
+The unusual structure of the xhubleta has attracted sustained attention from Albanian ethnographers and textile researchers. [[Andromaqi Gjergji]] examined the garment as part of her broader research into the origins, types and development of Albanian traditional clothing.{{sfn|Gjergji|2004}}
+
+Agim Bido discussed the xhubleta in relation to Albanian folk dress and ancient Balkan clothing traditions.{{sfn|Bido|1998|p=701}} More recently, Lindon Dedvukaj examined the etymology of the garment's name and its relationship with Albanian and ancient Mediterranean cultural symbolism.{{sfn|Dedvukaj|2025}}
+
+A technical study by Silvana Nini focused specifically on the materials, components, cutting and sewing processes responsible for the garment's characteristic shape.<ref name="Nini2013"/> Nini emphasizes that the xhubleta consists of numerous individually formed components which create the finished ensemble when joined together.<ref name="NiniStructure">{{cite journal
+ |last=Nini
+ |first=Silvana
+ |title=Technology Preparation of “Xhubleta”
+ |journal=Academic Journal of Interdisciplinary Studies
+ |volume=2
+ |issue=8
+ |year=2013
+ |page=646
+ |doi=10.5901/ajis.2013.v2n8p646
+ |url=https://www.richtmann.org/journal/index.php/ajis/article/view/787
+ |quote=Each of the components of xhubleta has its own shape, its own size, and features, which by joining together create a harmonious and interesting ensemble.
+}}</ref>
+
+Historical photography provides another important source for the study of the garment. Photographs made by the [[Marubi family]] in northern Albania during the nineteenth and early twentieth centuries document women wearing regional forms of the xhubleta and other traditional highland clothing.
+
+==Gallery==
+<gallery mode="packed" heights="220">
+File:Logu i Bjeshkëve 2017 – participants 1.jpg|Participants in traditional dress at Logu i Bjeshkëve
+File:Logu i Bjeshkëve 2017 – presentation 1.jpg|Presentation of traditional clothing at Logu i Bjeshkëve
+File:Logu i Bjeshkëve 2017 – second presentation.jpg|Xhubleta presented at Logu i Bjeshkëve
+File:Logu i Bjeshkëve 2017 – music on stage.jpg|Traditional costumes during a musical performance
+</gallery>
+
+==See also==
+* [[Traditional Albanian clothing]]
+* [[Culture of Albania]]
+* [[List of Intangible Cultural Heritage elements in Albania]]
+* [[Albanian folk beliefs]]
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* {{cite book
+ |last=Bido
+ |first=Agim
+ |chapter=The Albanian folk dress with xhubleta
+ |title=The Thracian World at the Crossroads of Civilisations
+ |publisher=Institutul Român de Tracologie
+ |year=1998
+ |ref=harv
+}}
+* {{cite journal
+ |last=Dedvukaj
+ |first=Lindon
+ |title=The 'queen bee' of the highlands: An etymological analysis of the Albanian xhubleta
+ |journal=Proceedings of the Linguistic Society of America
+ |publisher=Linguistic Society of America
+ |year=2025
+ |ref=harv
+}}
+* {{cite book
+ |last=Gjergji
+ |first=Andromaqi
+ |title=Albanian Costumes Through the Centuries: Origin, Types, Evolution
+ |publisher=Academy of Sciences of Albania
+ |location=Tirana
+ |year=2004
+ |ref=harv
+}}
+* {{cite journal
+ |last=Nini
+ |first=Silvana
+ |title=Technology Preparation of “Xhubleta”
+ |journal=Academic Journal of Interdisciplinary Studies
+ |volume=2
+ |issue=8
+ |year=2013
+ |pages=646–652
+ |doi=10.5901/ajis.2013.v2n8p646
+ |url=https://www.richtmann.org/journal/index.php/ajis/article/view/787
+}}
+
+==External links==
+* [https://ich.unesco.org/en/USL/xhubleta-skills-craftsmanship-and-forms-of-usage-01880 UNESCO – Xhubleta, skills, craftsmanship and forms of usage]
+* {{Commons category-inline|Xhubleta}}
+
+[[Category:Albanian clothing]]
+[[Category:Albanian traditions]]
+[[Category:Culture of Albania]]
+[[Category:Culture of Kosovo]]
+[[Category:Albanian culture in Montenegro]]
+[[Category:Folk costumes]]
+[[Category:Skirts]]
+[[Category:Intangible Cultural Heritage in Need of Urgent Safeguarding]]

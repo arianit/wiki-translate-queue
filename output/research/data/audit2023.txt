@@ -1,0 +1,1914 @@
+IZVEŠTAJA O REVIZIJI GODIŠNJIH FINANSIJSKIH IZVEŠTAJA
+ENERGETSKE KORPORACIJE KOSOVA A.D ZA 2023 GODINU
+
+
+
+
+                    Priština, Juni 2024
+     ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+SADRŽAJ IZVEŠTAJA
+
+
+
+1 Revizorsko mišljenje
+
+2 Nalazi i preporuke
+
+3 Napredak u implementaciji preporuka
+
+Prilog I: Pismo potvrde / Komentari JP na Nalaze revizorskog izveštaja
+
+
+Prilog II: Revidirani godišnji finansijski izveštaji
+
+
+
+
+                                            2
+     ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+1 Revizorsko mišljenje
+Revidirali smo godišnje finansijske izveštaje Energetske korporacije Kosova za godinu koja
+se završila 31. decembra 2023, u skladu sa Zakonom o Nacionalnoj Kancelariji Revizije
+Republike Kosova i Međunarodnim Standardima Vrhovnih Institucija Revizije (MSVIR).
+Revizija je izvršena prvenstveno kako bi nam omogućila da izrazimo mišljenje o
+finansijskim izveštajima i zaključak o usaglašenosti sa nadležnim organima.¹
+
+
+Kvalifikovano mišljenje za godišnje finansijske izveštaje
+
+
+Revidirali smo godišnje finansijske izveštaje Energetske korporacije Kosova (EKK a.d.), koji
+sadrže izveštaj o finansijskog položaja za 2023. godinu, sveobuhvatni bilans uspeha,
+izveštaj o novčanim tokovima, izveštaj o promenama na kapitalu, beleške objašnjenja o
+finansijskim izveštajima, uključujući rezime značajnih računovodstvenih politika, za godinu
+koja se završila 31. decembra 2023. godine.
+
+
+Prema našem mišljenju, pored efekata pitanja opisanih u paragrafu Osnova za
+kvalifikovano mišljenje, Finansijski izveštaji u prilogu za godinu koja se završila 31.
+decembra 2023. godine daju tačan i istinit prikaz u svim materijalnim aspektima
+finansijskog položaja EKK do 31. decembra 2023. godine, njegovog poslovanja, kao i
+tokova gotovine za 2023, u skladu sa Međunarodnim standardima finansijskog
+izveštavanja (MSFI).
+
+
+Osnova za kvalifikovano mišljenje
+
+
+Pitanja koja su uticala na kvalifikovano mišljenje su sledeća:
+
+
+C1   Menadžment nije više od 20 godina vršio periodične revalorizacije za sve klase
+     imovine koje se vode u knjigama po modelu revalorizacije. Njihova vrednost na
+     kraju izveštajnog perioda bila je 9.8 miliona evra. Pored toga, 71,4% registrovane
+     imovine su sredstva u upotrebi ali su potpuno amortizovana, odnosno nulte
+     knjigovodstvene vrednosti.
+
+
+C2   Menadžment još uvek nije uspeo da u potpunosti ažurira registar imovine kako bi
+     odrazio situaciju sa nekretninama. Građevinsko zemljište površine 1.72 hektara,
+     uključujući objekte površine 140 m² u centru Prištine, kao i poljoprivredno i šumsko
+     zemljište površine 55.7 hektara u Vasilevu, opština Glogovac su svojina koja se
+     pojavljuje na njeno ime, ali još uvek nije upisana u registar imovine kompanije, dok
+     još uvek u registru vode pet (5) parcela u Opštini Podujevo u vrednosti od
+     7,867,541€ koje prema odluci Vlade Kosova prešle u vlasništvo Infrakos a.d, kao i
+     još 11 parcela u vrednosti od 866,223€, koje su na osnovu vlasničkih listova
+     evidentirane od strane komisije za revalorizaciju zemljišta kao privatna svojina.
+
+
+
+                                            3
+     ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Za više detalja pogledajte potpoglavlje 2.1 Pitanja koja utiču na mišljenje revizije
+
+
+
+
+Revizija je izvršena u skladu sa Međunarodnim Standardima Revizije Vrhovnih Institucija
+Revizije (MSVIR). Prema ovim standardima naše odgovornosti su opisane ispod kod dela
+'Odgovornosti Revizora za Reviziju Finansijskih Izveštaja’.
+
+
+U skladu sa ONISA-P-10, MSVIR 130, Etički kodeks NKR-a kao i drugim relevantnim
+zahtevima za reviziju GFI budžetskih organizacija, NKR je nezavisna od subjekta revizije.
+Smatramo da su revizorski dokazi koje smo prikupili dovoljni i prikladni za osiguranje
+osnovu za mišljenje.
+
+
+
+
+Zaključak o usklađenosti
+
+
+Izvršili smo reviziju da li su prateći procesi i transakcije u skladu sa utvrđenim
+kriterijumima revizije koji proizilaze iz zakona koji se primenjuje na subjekt revizije u
+kontekstu korišćenja finansijskih sredstava.
+
+Po našem mišljenju, pored uticaja pitanja opisanih u odeljku Osnova za zaključak o
+usklađenosti, transakcije izvršene u Energetske korporacije Kosova bile su, u svim
+materijalnim aspektima, u skladu sa utvrđenim kriterijumima revizije koji proizilaze iz
+primenljivog zakonodavstva za subjekat revizije u kontekstu upotrebe finansijskih izvora.
+
+
+
+
+Osnova za zaključak
+
+
+
+
+A1   Kroz pregovaračku proceduru, menadžment je potpisao ugovor sa ekonomskim
+     operaterom bez ispunjavanja svih uslova iz dosijea tendera. Vrednost potpisanog
+     ugovora je bila 56,522,000€. Ugovori su takođe potpisani u devet (9) drugih
+     slučajeva kroz pregovarački postupak u iznosu od 1,895,203€ bez ubedljivih razloga
+     za korišćenje ovog postupka.
+
+
+                                            4
+     ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+A2   Kompanija je angažovala privatnog revizora, uprkos činjenici da je kompanija bila
+     predmet revizije Državne revizorske službe (NRS). Vrednost potpisanih ugovora sa
+     privatnim revizorom za dve godine bila je 45,700€
+
+Za više detalja pogledajte potpoglavlje 2.2 Pitanja koja utiču na zaključak o usklađenosti
+
+
+Revizija je izvršena u skladu sa Međunarodnim Standardima Revizije Vrhovnih Institucija
+Revizije (MSVIR). Prema ovim standardima naše odgovornosti su opisane ispod kod dela
+'Odgovornosti Revizora za Reviziju Finansijskih Izveštaja’. U skladu sa ONISA-P-10, MSVIR
+130, Etički kodeks NKR-a kao i drugim relevantnim zahtevima za reviziju GFI budžetskih
+organizacija, NKR je nezavisna od subjekta revizije. Smatramo da su revizorski dokazi
+koje smo prikupili dovoljni i prikladni za osiguranje osnovu za zaključak.
+
+
+
+
+                                            5
+     ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Ostale razne informacije iz finansijskih izveštaja i izveštaj revizora o njima
+
+
+Za ostale informacije odgovoran je menadžment. Ostale informacije uključuju informacije
+u izveštaju menadžmenta i izjavi o korporativnom upravljanju, ali ove informacije ne
+uključuju finansijske izveštaje i našeg izveštaja revizora o ovim izveštajima.
+
+
+Naše mišljenje o finansijskim izveštajima ne pokriva ostale informacije i mi ne izražavamo
+bilo kakav zaključak sa uverenjem u vezi sa ovim informacijama.
+
+
+U vezi sa revizijom finansijskih izveštaja, imamo odgovornost da pročitamo ostale
+informacije i procenimo da li takve informacije imaju materijalne nedoslednosti sa
+finansijskim izveštajima ili sa saznanjima do kojih smo došli tokom revizije ili na neki
+drugi način, ako se čini da su materijalne anomalije.
+
+
+Razmotrili smo da li su informacije u izveštaju menadžmenta u skladu sa informacijama
+u finansijskim izveštajima i izjava o korporativnom upravljanju uključuje obelodanjivanja
+koja se zahtevaju članovima 7 i 10 Zakona 06/L-032 o Računovodstvu, finansijskom
+izveštavanju i reviziji.
+
+
+Ako na osnovu obavljenog posla dođemo do zaključka da postoji materijalna anomalija u
+ovim informacijama, onda moramo prijaviti ovu činjenicu. Kao što je opisano u odeljku
+Osnova za kvalifikovano mišljenje:
+
+
+1    Menadžment više od 20 godina nije izvršio periodične procene za sve klase imovine
+     koje se drže u knjigama prema modelu revalorizacije. Njihova vrednost na kraju
+     izveštajnog perioda bila je 9,8 miliona evra. Štaviše, 71,4% registrovane imovine je
+     imovina u upotrebi, ali potpuno amortizovana, dakle sa knjigovodstvenom vrednošću
+     nula.
+2    Menadžment još nije uspeo da u potpunosti ažurira registar imovine kako bi
+     odražavao stvarno stanje nepokretne imovine. Građevinsko zemljište površine 1,72
+     hektara uključujući lokal površine 140m² u centru Prištine, kao i poljoprivredno i
+     šumsko zemljište površine 55,7 hektara u Vasilevu, Opština Glogovac, su imovina
+     koja se vodi na njeno ime, ali još nije registrovana u registru imovine kompanije. S
+     druge strane, u registru se i dalje vodi pet (5) parcela u Opštini Podujevo u
+     vrednosti od 7.867.541€, koje su prema odluci Vlade Kosova prešle u vlasništvo
+     Infrakos a.d., kao i 11 drugih parcela u vrednosti od 866.223€, koje su prema
+     posedovnim listovima evidentirane od strane komisije za revalorizaciju zemljišta kao
+     privatna imovina.
+
+
+
+
+Odgovornosti Menadžmenta i upravnih organa/upravljačkih za godišnje finansijske
+izveštaje
+
+
+                                            6
+       ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Menadžment je odgovoran za pripremu i realnu prezentaciju finansijskih izveštaja u
+skladu sa Međunarodnim Standardima Računovodstva u Javnom Sektoru (MSRJS). Takođe,
+menadžment odgovoran je i za uspostavljanje unutrašnjih kontrola, za koje utvrdi da su
+neophodne kako bi se omogućilo sastavljanje Finansijskih Izveštaja, bez pogrešnog
+prikazivanja materijalnih izveštaja izazvanih bilo prevarom ili greškom. To uključuje
+ispunjavanje zahteva koji proizilaze iz Zakona br. 03/L-048 o Upravljanju Javnim
+Finansijama i Odgovornosti (sa dopunama i izmenama), zakona br. 04/L-087 o Javnim
+preduzećima (sa dopunama i izmenama), Zakona 06/L-032 o računovodstvu, finansijsko
+izveštavanje i reviziju.
+
+
+Upravni odbor je odgovoran za obezbeđivanje nadzora nad postupkom finansijskog
+izveštavanja Energetske korporacije Kosova a.d..
+
+
+Odgovornost Menadžmenta o Usaglašenosti
+
+
+Menadžment Energetske korporacije Kosova a.d. je takođe odgovoran za korišćenje
+finansijskih resursa Energetske korporacije Kosova a.d. u skladu sa Zakonom o
+Upravljanju Javnim Finansijama i Odgovornosti i svim ostalim važećim pravilima i
+propisima.²
+
+
+Odgovornost Generalnog Revizora za reviziju GFI
+
+
+Naši ciljevi su da pružimo razumno uverenje da finansijski izveštaji u celini ne sadrže
+materijalno značajne pogreške, bilo zbog prevare ili greške, i da izdajemo/izradimo
+revizorski izveštaj koji uključuje naše mišljenje. Razumna sigurnost je visoki stepen
+sigurnosti međutim ne garantuje da će revizija koja se vrši u skladu sa MSVIR uvek
+identifikovati materijalno pogrešno prikazivanje kada ono postoji. Pogrešna prikazivanja se
+mogu pojaviti usled prevare ili greške a smatraju se materijalnim ukoliko, pojedinačno ili
+u grupi, razumno očekuje da utiču u ekonomskim odlukama korisnika koje se donose na
+osnovu ovih finansijskih izveštaja.
+
+
+Naš cilj je takođe da izrazimo revizorsko mišljenje o usklađenosti relevantnih vlasti
+Energetske korporacije Kosova a.d. sa svim primenljivim politikama Energetske korporacije
+Kosova a.d. pravilima i propisima u vezi sa korišćenjem finansijskih resursa revidirane
+Organizacije u kontekstu korišćenja finansijskih sredstava. Kao deo revizije u skladu sa
+Zakonom o NKR i ISSAI, vršimo profesionalnu presudu i održavamo profesionalni
+skepticizam tokom cele revizije. Mi takođe:
+
+
+   •    Identifikujemo i procenimo rizike od materijalno značajnih pogrešnih prikazivanja
+        finansijskih izveštaja, bilo zbog prevare ili greške, izradimo i izvršimo revizorske
+        postupke koji odgovaraju na te rizike, i pribavimo revizijske dokaze koji su dovoljni
+        i prikladni da obezbedimo osnovu za naše mišljenje. Rizik od ne otkrivanja
+        materijalno značajnih pogrešnih navoda koji nastaju kao rezultat prevare veći je od
+        onog koji je rezultat greške, jer prevara može uključivati manipulaciju,
+
+                                              7
+       ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+        falsifikovanje, namerne propuste, lažno predstavljanje ili zaobilaženje unutrašnjih
+        kontrola.
+
+
+   •    Identifikujemo i procenimo rizike neusklađenosti sa vlastima, bilo zbog prevare ili
+        greške, izradimo i izvršimo revizorske postupke koji su odgovorni za te rizike, i
+        pribavimo revizijske dokaze koji su dovoljni i prikladni da pruže osnovu za naš
+        zaključak o usklađenosti sa vlastima. Rizik od ne otkrivanja materijalno značajnih
+        pogrešnih navoda koji nastaju kao rezultat prevare veći je od onog koji je rezultat
+        greške, jer prevara može uključivati manipulaciju, falsifikovanje, namerne propuste,
+        lažno predstavljanje ili zaobilaženje unutrašnjih kontrola.
+
+
+   •    Osiguramo da razumemo unutrašnju kontrolu relevantnu za reviziju, radi izrade
+        revizorskih postupaka koji su prikladni, ali ne u svrhu izražavanja mišljenja o
+        efektivnosti interne kontrole Energetske korporacije Kosova a.d.,
+
+
+   •    Procenimo prikladnost korištenih računovodstvenih politika i razumnost
+        računovodstvenih procena i povezanih otkrivanja izvršene od strane menadžmenta.
+
+
+   •    Zaključujemo o tome da li je osnova računovodstva o neograničenosti poslovanja
+        prikladna za upotrebu od strane menadžmenta, na osnovu pruženih revizorskih
+        dokaza, da li postoji materijalna neizvesnost u vezi sa događajima ili uslovima koji
+        mogu dovesti u značajnu sumnju u sposobnost Energetske korporacije Kosova a.d..
+        nastaviti po principu kontinuiteta. Ako zaključimo da postoji materijalna
+        nesigurnost, od nas se traži da skrenemo pažnju na izveštaj revizora o
+        relevantnim obelodanjivanjima u finansijskim izveštajima ili, dali su takva
+        obelodanjivanja neprimerena, modifikujemo naše mišljenje. Naši zaključci se
+        zasnivaju na revizijskim dokazima prikupljenim do datuma našeg revizorskog
+        izveštaja. Međutim, budući događaji ili uslovi mogu dovesti do toga da JP prestane
+        da nastavi po principu kontinuiteta.
+
+
+   •    Procenimo ukupnu prezentaciju, strukturu i sadržaj finansijskih izveštaja, uključujući
+        obelodanjivanja, da bi se osigurali da finansijski izveštaji prikazuju transakcije i
+        osnovne događaje realno i tačno.
+
+
+Između ostalog, komuniciramo sa menadžmentom i odgovornima za upravljanje, i u vezi
+sa obimom i vremenom revizije i važnim nalazima revizije, uključujući sve značajne
+nedostatke interne kontrole koje identifikujemo tokom revizije.
+
+
+Od pitanja koja su preneta menadžmentu, identifikujemo ona pitanja koja su bila
+najrelevantnija u reviziji finansijskih izveštaja tekućeg perioda i koja se smatraju ključnim
+revizorskim pitanjima. Izveštaj revizije objavljuje se na veb stranici NKR-a, sa izuzetkom
+informacija koje su klasifikovane kao osetljive ili zbog drugih zakonskih i administrativnih
+zabrana, u skladu sa važećim zakonodavstvom.
+
+
+
+
+                                              8
+     ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+2 Nalazi i preporuke
+Tokom revizije, primetili smo oblasti za potencijalno poboljšanje, uključujući internu
+kontrolu, koje su predstavljene u nastavku za vaše razmatranje u obliku Nalaza i
+preporuka.
+Nalazi koji su uticali na mišljenje o finansijskim izveštajima su: ne izvršavanje periodične
+revalorizacije dugotrajne imovine koja se vodi u knjigama po fer vrednosti i neažuriranje
+nekretnina sa promenama koje su nastale tokom godina.
+
+Na zaključenje usaglašenosti uticalo je korišćenje pregovaračkog postupka bez
+objavljivanja obaveštenja o ugovoru i naknada ekonomskom operateru sa ugovorom bez
+ispunjavanja svih zahteva iz dosijea tendera. Dok drugi Nalazi koji nisu uticali na
+mišljenje, već samo na finansijsko upravljanje i usklađenost su u okviru izveštaja.
+Ovi Nalazi i preporuke imaju za cilj da izvrše neophodne korekcije finansijskih informacija
+predstavljenih u finansijskim izveštajima, uključujući obelodanjivanja u obliku napomena sa
+objašnjenjima i poboljšati unutrašnje kontrole u vezi sa finansijskim izveštavanjem i
+usaglašenošću sa organima vlasti u pogledu upravljanja resursima javnog sektora.
+
+Mi ćemo pratiti (pregledati) ove preporuke tokom revizije sledeće godine.
+
+Ovaj izveštaj je rezultirao sa četiri (4) nove preporuke, tri (3) delimično ponovljene
+preporuke i jednom (1) ponovljenom preporukom.
+
+
+
+Dok za status preporuka iz prethodne godine i nivo njihove primene, vidi poglavlje 3.
+
+
+
+
+                                            9
+        ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+2.1 Pitanja koja utiču na mišljenje revizije
+Pitanje C1 – Ne izvršavanje periodične ponovne procene dugotrajne imovine koja se vodi
+u registru prema modelu revalorizacije
+Nalaz                  Prema MRS 16, ako ekonomska jedinica odabere model revalorizacije
+                       onda će se revalorizacije vršiti na redovnoj osnovi dovoljnoj da se
+                       osigura da se knjigovodstveni iznos (neto) dugotrajne imovine
+                       (nekretnina, postrojenja i oprema) ne razlikuje materijalno od onoga
+                       što bi bilo da je utvrđeno da li će se koristiti fer vrednost na kraju
+                       izveštajnog perioda. Učestalost revalorizacije zavisi od promene fer
+                       vrednosti stavki dugotrajne imovine (nekretnina, postrojenja i oprema)
+                       koje se revalorizuju, ukoliko sredstva ne trpe značajne i česte
+                       promene fer vrednosti, stavka se revalorizuje samo svake tri-pet
+                       godina.
+
+
+                       Preduzeće je u svom registru imalo imovinu koja se vodi po modelu
+                       revalorizacije u neto knjigovodstvenoj vrednosti od 9,8 miliona evra,
+                       za koju periodične revalorizacije nisu vršene više od 20 godina. Ova
+                       vrednost bi se mogla značajno promeniti ako bi se koristila fer
+                       vrednost na kraju izveštajnog perioda.
+
+                       Pitanje revalorizacije imovine bila je preporuka od prošle godine, au
+                       vezi sa ovim pitanjem Uprava je formirala komisiju za revalorizaciju
+                       klase zemljišta, ali ne i drugih klasa kao što su objekti, zemljište i
+                       šume za rudarstvo (vađenje uglja), postrojenja, mašine i oprema itd.
+                       Komisija je izvršila ponovnu procenu zemljišta na osnovu fakture
+                       poreza na imovinu za 2023. godinu za zemljište koje se nalazi u
+                       opštini Obilić, dok je za zemljište u drugim opštinama na osnovu
+                       Izveštaja o opštoj proceni komercijalne imovine, izdatog od strane
+                       Ministarstva finansija ( oktobar 2023), ova revalorizacija rezultirala
+                       povećanjem vrednosti zemljišta za 53,6 miliona evra. Dakle, vrednost
+                       klase zemljišta - dvorišta u 2022. godini bila je 11,4 miliona evra,
+                       dok je u 2023. vrednost zemljišta bila 65 miliona evra.
+
+                       Štaviše, 71.4% ukupnog registra imovine (14,076 od 19,887 artikala)
+                       sa početnom vrednošću od 263 miliona evra su sredstva u upotrebi,
+                       ali potpuno amortizovana, odnosno nulta računovodstvene vrednosti.
+                       Od toga, 36% se odnosi na opremu za proizvodnju električne
+                       energije, ugalj, objekte, softver i zemljište za eksploataciju uglja, dok
+                       se 64% odnosi na kancelarijsku opremu i inventar. Takođe 5,663
+                       artikla imaju početnu vrednost, revalorizovanu vrednost i neto krajnju
+                       vrednost nula.
+
+
+                       To se dogodilo jer je menadžment to smatrao specifičnom
+                       industrijom, teško sprovodljivom revalorizacijom svih klasa sredstava
+                       u praksi.
+
+
+                                              10
+         ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Uticaj                  Nesprovođenje revalorizacije dugotrajne imovine u redovnoj frekvenciji
+                        može imati materijalni uticaj na prikazanu vrednost dugotrajne
+                        imovine, a samim tim i na priznavanje troškova amortizacije za
+                        godinu i dobit/gubitak godine.
+
+
+Preporuka C1            Upravni odbor mora osigurati da se revalorizacija svih klasa imovine
+                        koja se vodi po modelu revalorizacije vrši redovnom učestalošću koja
+                        je dovoljna da osigura da se prikazana vrednost imovine u
+                        finansijskim izveštajima ne razlikuje materijalno od njihove fer
+                        vrednosti na kraju izveštajnog perioda.
+                        Odgovor rukovostva entiteta (ne slažem se)
+                        vidi dodatak 1 za više detalja
+
+
+
+Pitanje C2 - Neažuriranje registra imovine sa promenama koje su se desile tokom
+godina za nepokretnu imovinu
+Nalaz                   Prema MRS 16, zemljište, zgrade, mašine i oprema su materijalne
+                        stavke koje se drže za upotrebu u proizvodnji ili snabdevanju robom
+                        ili uslugama, za zakup trećim licima ili u administrativne svrhe i za
+                        koje se očekuje da će se koristiti tokom više od jednog perioda.
+
+
+
+                        Menadžment, uprkos nekim akcijama koje je preduzeo tokom 2023.
+                        godine, nije uspeo da u potpunosti ažurira registar imovine kako bi
+                        prikazao stvarno stanje nepokretne imovine, kao što sledi:
+
+                            •   Prema vlasničkom listu, kompanija poseduje 1.72 hektara
+                                građevinskog zemljišta u centru Prištine i 140m² objekata. Po
+                                ovom pitanju, tokom 2023. godine kompanija je uspela da
+                                uknjiži 10.6 ari zemljišta koje se odnosi na pomenutu parcelu
+                                (15.9 ari je prijavljeno u imovinskom registru na kraju 2023.
+                                dok je 5.33 ari bilo na kraju 2022. godine), dok je za deo
+                                ostalih parcela i prostorija, preduzeće je još uvek u procesu
+                                rešavanja ovog pitanja.
+                            •   Kompanija i dalje u svom registru vodi pet (5) zemljišta sa
+                                neto knjigovodstvenom vrednošću od 7,867,541€, koja su
+                                preneta na javno preduzeće Infrakos a.d., prema odluci Vlade
+                                Kosova iz 2010. godine, odnosno Ugovora o prenosu imovine
+                                između Ministarstva za ekonomski razvoj i Infrakos a.d. iz
+                                2012. godine.
+                            •   Prema uredbama o eksproprijaciji, kompanija je vlasnik 116,88
+                                hektara u katastarskoj zoni Vasiljevo, opština Glogovac. Od
+                                njih, kompanija je tokom 2023. godine uknjižila parcele na
+                                površini od 61.1 hektar, dok je za ostale u sudskom
+                                postupku.
+                            •   Komisija za revalorizaciju zemljišta je utvrdila da se u
+                                zemljišnom registru Nalazi 11 zemljišta, knjigovodstvene
+                                vrednosti od 866,223€, koje su, po osnovu vlasničkog lista,
+
+                                               11
+         ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                               privatna svojina. S tim u vezi, rukovodstvo je zatražilo od
+                               relevantnih opština da analiziraju istoriju ovih parcela i potom
+                               se očekuju konkretne akcije.
+
+
+                        Nepotpuna i netačna prezentacija nepokretnosti nastala je zbog
+                        složenosti imovinskih pitanja u vezi sa trećim licima, kao i zbog
+                        nedostatka preduzetih efikasnih radnji kompanije tokom godina.
+
+
+Uticaj                  Neažuriranje imovinskog registra sa trenutnim stanjem nepokretnosti
+                        utiče na potcenjivanje ili precenjivanje vrednosti dugotrajne imovine u
+                        finansijskim izveštajima.
+
+
+Preporuka C2            Upravni odbor mora osigurati da se preduzmu neophodne radnje za
+                        rešavanje svih imovinskih pitanja kompanije i ažuriranje registra
+                        imovine sa trenutnim stanjem tako što će tačno i pošteno prikazati
+                        dugoročnu imovinu kompanije.
+                        Odgovor rukovostva entiteta (ne slažem se)
+                        vidi dodatak 1 za više detalja
+
+
+
+
+                                               12
+        ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+2.2      Pitanja koja utiču na zaključenje usklađenosti
+
+
+Pitanje A1 – Nedostatak u pregovaračkim postupcima bez objavljivanja obaveštenja o
+ugovoru
+Nalaz                  Članom 35. Zakona o javnim nabavkama je navedeno da naručilac
+                       može koristiti pregovaračke postupke bez prethodnog objavljivanja
+                       obaveštenja o ugovoru ako iz objektivnih i obaveznih tehničkih ili
+                       umetničkih razloga, iz razloga zaštite prava intelektualne ili
+                       industrijske svojine ili isključivih prava i iz razloga ekstremnih
+                       vanrednih situacija koje su uzrokovane objektivno proverljivim
+                       događajima koje ugovorni autoritet s razlogom nije mogao predvideti.
+                       Prema propisu o javnim nabavkama br. 001/2022, član 17 tačka 7,
+                       utvrđuje da deo C, Obrazac za podnošenje ponude, predstavlja
+                       glavni deo ponude, jer u ovom delu ponuđač izjavljuje da je proverio
+                       i prihvata sve uslove ponude i podnosi svoju finansijsku ponudu. Deo
+                       C se sastoji od Obrasca ponude i Cenovnika.
+
+                       Takođe u dosijeu tendera, pod uslovima podobnosti, tačka h, navodi
+                       da ekonomski operater mora da pruži dokaz da trenutno nije u
+                       zaostatku sa plaćanjem bilo kog socijalnog osiguranja ili poreskog
+                       doprinosa na Kosovu ili u mestu osnivanja ekonomskog operatera,
+                       osim slučajeva kada se ovaj dug smatra neznatnim na Kosovu.
+                       Vremenski period u slučaju pregovaračkog postupka bez objavljivanja
+                       obaveštenja o ugovoru računa se od dana kada je poziv za učešće
+                       poslat ekonomskom operateru.
+
+
+                       Menadžment je tokom 2023. godine potpisao ukupno 40 ugovora u
+                       ukupnoj vrednosti od 70,012,969€ korišćenjem pregovaračke
+                       procedure bez objavljivanja obaveštenja o ugovoru. Od toga smo
+                       testirali 12 aktivnosti nabavke po ovoj proceduri i identifikovali
+                       sledeće nedostatke:
+
+                           •   u dosijeu tendera „Modernizacija turbina B1 i B2“, u delu C,
+                               Menadžment je tražio da ekonomski operater ponudi cenu po
+                               jedinici za svaku poziciju u predmeri, dok za ponudu koju je
+                               dostavio ekonomski operater nije kompletirana predmera
+                               prema zahtevima tenderskog dosijea (cenovnika) ali je
+                               kompletirana samo u celini za komponente.
+                               Isto tako, poreski sertifikat koji je podneo ekonomski operater
+                               nije bio validan. Menadžment je uputio poziv ekonomskom
+                               operateru za učešće na tenderu 09. decembra 2022. godine,
+                               ekonomski operater je predao poresku potvrdu od 05. oktobra
+                               2022. godine, dok je ugovor potpisan 24. februara 2023.
+                               godine u iznosu od 56,522,000€. .
+                               Menadžment nije još jednom tražio poresku potvrdu da bi se
+
+                                              13
+         ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                               potvrdilo stanje poreskih obaveza ekonomskog operatera pre
+                               potpisivanja ugovora.
+
+                        u devet (9) slučajeva, u iznosu od 1,895,203€, potpisani su ugovori
+                        kroz pregovaračku proceduru zbog vanrednih situacija u kojima se
+                        kompanija već nalazila. Ovi ugovori su se odnosili na razne usluge i
+                        nabavka kao što su: Čuvanje i obezbeđenje objekata kompanije,
+                        zdravstveno osiguranje zaposlenih u kompaniji, prevoz zaposlenih u
+                        kompaniji, nabavka mazuta, snabdevanje hlorovodoničnom kiselinom,
+                        pravni saveti, službe za fizičko i ekonomsko raseljavanje za deo sela
+                        opštine Obilić́.
+                        Razlozi koje je navela kompanija nisu bili ubedljivi i nisu se odnosili
+                        na ekstremne vanredne situacije koje nije bilo moguće predvideti.
+                        Štaviše, oni se pripisuju nedostatku odgovarajućeg planiranja i
+                        nemaru, kako je RKJN dala svoje mišljenje, u tri od ova slučajeva.
+
+
+
+
+                        Komisija za procenu tokom pregovora sa ekonomskim operaterom je
+                        zahtevala da cene budu po jedinici za svaku poziciju unapred, ali je
+                        ekonomski operater izjavio da nije moguće ponuditi cene u formatu
+                        predstavljenom u obrascu dosijea tendera. Što se tiče nevažeće
+                        poreske potvrde, komisija za ocenjivanje je i dalje smatrala validnom
+                        potvrdu stariju od 90 dana zbog korišćenja pregovaračkog postupka.
+                        Do potpisivanja navedenih ugovora u pregovaračkom postupku došlo
+                        je kao posledica nedostataka u procesu planiranja aktivnosti
+                        nabavke.
+
+
+Uticaj                  Pregovarani ugovori bez objavljivanja obaveštenja o ugovoru utiču na
+                        minimiziranje konkurencije i onemogućavaju transparentnost i jednak
+                        tretman za sve zainteresovane strane, dok nepopunjavanje obrasca
+                        jedinične cene od strane ekonomskog operatera utiče na
+                        netransparentnost ponuđene cene i poteškoće u prihvatanju radova,
+                        dobara i usluga tokom realizacije ugovora. Takođe, nevažeći poreski
+                        sertifikat ne potvrđuje prihvatljivost ekonomskog operatera u pogledu
+                        stanja poreskih obaveza.
+
+
+Preporuka A1            Upravni odbor treba da ojača proces planiranja aktivnosti nabavke
+                        kako bi se maksimalno izbeglo korišćenje pregovaračkih postupaka
+                        bez objavljivanja obaveštenja o ugovoru. Takođe, Upravni odbor
+                        mora osigurati da se potpisivanje ugovora sa ekonomskim
+                        operaterima izvrši tek nakon što su ispunjeni svi uslovi tenderskog
+                        dosijea, u ovom slučaju obrazac opisa cene i potvrda o stanju
+                        poreskih obaveza moraju biti usklađeni sa zahtevima zakona o
+                        nabavkama.
+                        Odgovor rukovostva entiteta (ne slažem se)
+                        vidi dodatak 1 za više detalja
+
+
+                                               14
+         ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Pitanje A2 - Potpisivanje ugovora za reviziju finansijskih izveštaja
+Nalaz                   Prema članu 137 Ustava Republike Kosovo, članu 137 tačka 3, glavni
+                        revizor Republike Kosovo kontroliše privrednu delatnost javnih
+                        preduzeća i drugih pravnih lica, u kojima država ima deo akcija, ili
+                        kada za njihove zajmove, kredite i obaveze garantuje država.
+                        Dok prema članu 33.3 Zakona br. 03/l-087 za javna preduzeća
+                        (izmenjen i dopunjen), reviziju finansijskih izveštaja će izvršiti
+                        Kancelarija generalnog revizora, u suprotnom, službenik za nabavke
+                        JP će nabaviti usluge revizora za obavljanje eksternu reviziju u
+                        skladu sa uslovima definisanim Zakonom o javnim nabavkama i
+                        članom 33. Zakona br. 03/L-087 o javnim preduzećima. Relevantni
+                        ugovor će trajati tri (3) godine.
+                        Takođe prema Zakonu br. 05/L-055 za generalnog revizora i
+                        Nacionalnu kancelariju za reviziju Republike Kosovo, član 18, tačka 4,
+                        citira: Nacionalna kancelarija za reviziju može vršiti obavezne revizije
+                        regularnosti u javnim preduzećima. Generalni revizor obaveštava
+                        akcionara najkasnije do 30. septembra tekuće godine o tome koja će
+                        od ovih revizija biti izvršena.
+
+
+                        Državna revizorska kancelarija (DRK) je blagovremeno obavestila
+                        kompaniju da će ona biti predmet revizije od strane DRK za reviziju
+                        finansijskih izveštaja u skladu sa zahtevima MSFI za 2022. i 2023.
+                        godinu.
+                        Uprkos tome, kompanija je 13. decembra 2022. i 17. novembra
+                        2023. godine zaključila ugovore za usluge revizije finansijskih
+                        izveštaja za 2022. godinu u iznosu od 21,800€ i 2023. godine u
+                        iznosu od 23,900€, za revizorski izveštaj za godišnje finansijske
+                        izveštaje prema zahtevima MSFI i revizorskim izveštajima u skladu sa
+                        zahtevima regulatornih računovodstvenih uputstava Regulatorne
+                        kancelarije za energetiku (RKE) i Nezavisne komisije za rude i
+                        minerale (NKRM). Poslednja dva izveštaja su obaveza kompanije
+                        prema RUE i NKRM.
+
+
+
+
+                        Ovo se dogodilo jer uprava nije dobro ispunila zakonske uslove.
+
+
+Uticaj                  Angažovanje revizorskih usluga od strane privatnog revizora, uprkos
+                        činjenici da je bilo predmet revizije od strane NKR, osim što uzrokuje
+                        dodatne troškove kompaniji, može stvoriti nesigurnost kod čitalaca
+                        finansijskih izveštaja i samog preduzeća.
+
+
+Preporuka A2            Upravni odbor mora da obezbedi da u slučaju angažovanja
+                        Nacionalne kancelarije za reviziju za usluge revizije GFI, ne nastaju
+
+
+                                               15
+ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+               nepotrebni troškovi revizije.
+               Odgovor rukovostva entiteta (ne slažem se)
+               vidi dodatak 1 za više detalja
+
+
+
+
+                                      16
+         ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+2.3       Ostala pitanja finansijskog upravljanja i usklađenosti
+
+2.3.1        Operativni troškovi
+
+Operativni troškovi su iznosili 82,904,000€. Oni se odnose na troškove održavanja,
+naknade za licence, troškove obuke i putovanja, kancelarijske i administrativne troškove,
+troškove motornih vozila, troškove savetovanja i drugo.
+
+
+
+Pitanje A3 - Skraćivanje roka za primanje ponuda
+
+Nalaz                   Zakon o javnim nabavkama, član 44., između ostalog, navodi da
+                        ugovorni autoriteti ne smeju da postavljaju rokove koji su kraći od
+                        zakonom utvrđenih (minimalni rokovi). Za otvorene postupke sa
+                        velikim vrednostima rok za prihvatanje ponuda je 40 dana.
+
+
+                        Kompanija je u aktivnosti nabavke „Stavljanje šamotnih ploča,
+                        izolacija do recirkulacionih kanala i klizne ploče u TC Kosova B“ sa
+                        procenjenom vrednošću ugovora od 808,606€, skratila rok za učešće
+                        na tenderu sa potrebnih 40 dana na samo 17 dana. Kompanija je
+                        skratila vremenski okvir sa obrazloženjem prilagođavanja vremena
+                        realizacije projekta tokom perioda kada se očekivalo da ovaj blok
+                        bude van funkcije zbog popravke predviđene drugim projektom.
+
+
+
+                        Ovo se desilo zbog nedostatka boljeg planiranja rasporeda projekata
+                        za koje se očekivalo da budu preduzeti u TC Kosova B.
+
+
+Uticaj                  Skraćivanje rokova bez ubedljivih i dobro utemeljenih zakonskih
+                        razloga može ograničiti konkurenciju i samim tim ne dobiti
+                        najpogodnije ponude za kompaniju.
+
+
+Preporuka A3            Upravni odbor mora osigurati da se planiranje investicionih projekata
+                        koordinira kako bi se u potpunosti poštovali rokovi utvrđeni
+                        Zakonom o javnim nabavkama.
+                        Odgovor rukovostva entiteta (slažem se)
+
+
+
+
+Pitanje A4 – Nedostaci u planovima upravljanja ugovorima
+
+Nalaz                   Pravila i smernice za javne nabavke, član 70, između ostalog,
+                        zahtevaju da svi rukovodioci ugovora, kako od strane ugovornog
+                        organa tako i od ekonomskog operatera, moraju da administriraju
+                        i upravljaju sprovođenjem ugovora u skladu sa priručnicima za
+
+
+                                               17
+         ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                        korišćenje modula za upravljanje ugovorom. Nadalje, potrebno je
+                        izvršiti procenu učinka ugovarača tokom i nakon implementacije
+                        javnih i okvirnih ugovora.
+
+
+                        Od 20 revidiranih postupaka nabavki, primetili smo da kompanija
+                        u:
+
+                           •   u 19 slučajeva plan upravljanja ugovorom nije potpisan od
+                               strane menadžera ugovora kompanije i ekonomskog
+                               operatera. Ovi planovi su odobreni i razvijeni samo u
+                               elektronskom formatu e-nabavke.
+                           •   u još 10 slučajeva planovi upravljanja ugovorima su
+                               objavljeni samo u elektronskom formatu e-nabavki, ali nisu
+                               dalje ažurirani na osnovu obavljenog posla.
+
+
+                        Ovo se desilo zbog neefikasnog funkcionisanja unutrašnje kontrole
+                        za upravljanje potpisanim ugovorima.
+
+
+Uticaj                  Nepotpisivanje planova za upravljanje ugovorima, kao i neupotreba
+                        modula za upravljanje ugovorima i evaluaciju učinka kroz sistem e-
+                        nabavke dovodi do toga da se ugovori ne prate u realnom
+                        vremenu i potencijalno povećava rizik da usluge ili zalihe ne budu
+                        pružene na vreme onako kako je ugovor je potpisan.
+
+
+Preporuka A4            Upravni odbor mora da obezbedi da se otklone sve prepreke koje
+                        su uticale na nesprovođenje zakonskih zahteva, kao i da obezbedi
+                        trenutni početak korišćenja modula E-nabavke za upravljanje
+                        ugovorima i ocenjivanje učinka izvođača.
+                        Odgovor rukovostva entiteta (ne slažem se)
+                        vidi dodatak 1 za više detalja
+
+
+
+Pitanje B1 – Česta upotreba procedure minimalne vrednosti
+
+Nalaz                   Prema članu 16, 17 i 18 Zakona o javnim nabavkama, između
+                        ostalog, navodi se da ugovorni autoritet neće birati niti koristiti
+                        metode ocenjivanja koje imaju za cilj da umanje vrednost ugovora
+                        za nabavku/uslugu/rad ispod granice definisane u članu 19 ovog
+                        zakona; i nijedan ugovorni organ neće podeliti zahtev za nabavku
+                        za određenu količinu proizvoda u cilju smanjenja vrednosti ugovora
+                        za nabavku/usluge/rad ispod granice definisane u članu 19. ovog
+                        zakona.
+
+
+                        Kompanija je tokom 2023. godine razvila ukupno 163 aktivnosti
+                        nabavke sa minimalnom vrednošću, što predstavlja 33% od broja
+                        razvijenih nabavnih aktivnosti.
+
+
+                                               18
+         ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                        Ove nabavke se tiču:
+
+                           •   12 ugovora za vodu za piće i pića za bife, u vrednosti od
+                               8,834€;
+                           •   10 ugovora za nabavku tonera, u vrednosti od 6,681€;
+                           •   8 ugovora za akumulatore za vozila u vrednosti od 5,702€;
+                           •   7 ugovora za nabavku ležišta u vrednosti od 4,717€;
+                           •   5 ugovora za nabavku zaštitnih maski u vrednosti od
+                               4,295€;
+                           •   3 ugovora za nabavku sanitetskog materijala, u iznosu od
+                               2,805€;
+                           •   3 ugovora za servisiranje, usklađivanje, kalibraciju i
+                               sertifikaciju vaga, u vrednosti od 2,854€.
+
+
+
+                        Ovo se desilo zbog nedostatka odgovarajućeg planiranja potreba
+                        od strane jedinica za podnošenje zahteva, uprkos obećanju
+                        menadžmenta u akcionom planu da je ova preporuka sprovedena.
+
+
+Uticaj                  Podela ponuda na male i minimalne vrednosti utiče na efikasnost
+                        nabavke, opterećena je većim brojem aktivnosti. Takođe, podela
+                        može uticati na ekonomičnost aktivnosti nabavke, cene ponuda za
+                        manje količine mogu biti veće od cena ponuda za veću količinu.
+
+
+Preporuka B1            Upravni odbor mora da obezbedi da su zahtevi jedinice koja
+                        podnosi zahtev grupisane u cilju razvoja manje aktivnosti nabavke
+                        koje obezbeđuju veću konkurenciju i ekonomičnije cene. Da bi se
+                        izbeglo dupliranje aktivnosti nabavke, kompanija mora da agregira
+                        potrebe kako bi bila efikasnija i ekonomičnija.
+                        Odgovor rukovostva entiteta (slažem se)
+
+
+
+
+                                               19
+         ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+2.3.2        Informacioni sistemi
+
+U ovoj oblasti uključeno je samo praćenje sprovođenja preporuka za IT deo u KEK A.D.
+
+
+Pitanje C3 – Šifrovanje (enkripcija za loptop) laptopa i pristup korisnika preko virtuelne
+privatne mreže
+Nalaz                   Prema Politici bezbednosti informacija, Laptop mora da sadrži
+                        šifrovanu datoteku ili diskovni kontejner (fasciklu) i sve informacije u
+                        vezi sa radom biće uskladištene u tim kontejnerima šifrovanih
+                        datoteka. Takođe, pre nego što zaposlenima bude dozvoljen VPM
+                        pristup mreži kompanije, od njih se traži da popune poseban
+                        obrazac za prijavu za VPM.
+
+
+                        U 21 testiranom slučaju utvrdili smo da su specijalne šifrovane
+                        datoteke kreirane prema instrukcijama politike za bezbednost
+                        informacija, ali te datoteke nisu u potpunosti koristili korisnici.
+                        Takođe, korisnici nisu popunili poseban formular za pristup preko
+                        virtuelne privatne mreže (VPM) u skladu sa politikom zaštite
+                        informacija o pristupu VPM-u. Korisnici su uputili zahteve putem e-
+                        pošte, objašnjavajući razlog za pristup VPM-u.
+
+
+
+                        To se desilo jer je Politika informacione bezbednosti usvojena u
+                        drugoj polovini godine i još nije bilo strogog nadzora nad njenom
+                        primenom.
+
+
+Uticaj                  Ako se ova preporuka u potpunosti ne primeni za mobilne uređaje –
+                        laptopove, rizikuje se gubitak i distribucija osetljivih, poverljivih
+                        podataka kompanije, što može da ošteti imidž i izazove finansijske
+                        gubitke u kompaniji. Nedostatak sprovođenja bezbednosne politike za
+                        popunjavanje obrasca za daljinski pristup preko VPM-a čini
+                        bezbednosni nadzor podložnijim riziku od neovlašćenog pristupa.
+
+
+Preporuka C3            Upravni odbor mora da obezbedi da svi zaposleni u kompaniji
+                        sprovode politiku bezbednosti informacija u kompaniji i da sve svoje
+                        osetljive podatke smeste u šifrovanu datoteku. Takođe, mora se
+                        primeniti politika bezbednosti informacija za pristup preko VPM-a.
+                        Pregledajte stare pristupe i za nova odobrenja popuniti formulare za
+                        autorizaciju VPM pristupa.
+                        Odgovor rukovostva entiteta (slažem se)
+
+
+
+
+                                               20
+      ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+3      Napredak u implementaciji preporuka
+Revizorski izveštaj za 2022. godinu rezultirao je sa 15 preporuka. Kompanija je pripremila
+Akcioni plan u kome je predstavljeno kako ću date preporuke da sprovedem. Do kraja
+naše revizije 2023. godine, 12 preporuka je sprovedeno, dve (2) preporuke su delimično
+sprovedene i jedna (1) još uvek nije sprovedena. Takođe u tabeli preporuka je 17
+preporuka datih u pismu rukovodstva od strane privatnog revizora za GFI
+2021. Od njih, četiri (4) preporuke su sprovedene, jedna (1) je delimično sprovedena i 12
+više nisu primenjive.
+
+Za potpuniji opis preporuka i načina na koji su one adresirane, pogledajte sledeću tabelu.
+
+Grafikon 1. Napredak u implementaciji preporuka iz prethodne godine
+
+
+
+
+Tabela 1. Rezime preporuka iz prethodne godine
+
+
+
+
+Ne.   Polje revizije   Preporuke za 2022                      Preduzete akcije StatUS
+
+
+1.    Osnova za        Upravni odbor će obezbediti da se      U toku 2023.      Delimično
+      mišljenje        revalorizacija imovine sprovodi        godine            sprovedeno
+                       dovoljnom redovnom učestalošću         rukovodstvo je
+                       kako bi se obezbedilo da prikazana     izvršilo
+                       vrednost imovine u finansijskim        revalorizaciju
+                       izveštajima ne bude materijalno        klase imovine -
+                       odstupljena od njihove fer vrednosti   dvorišna
+                       na kraju izveštajnog perioda.          zemljišta, ali ne
+                                                              i ostale klase
+                                                              imovine koje se
+                                                              vode po
+                                                              modelu
+                                                              revalorizacije,
+                                                              kao što su:
+
+
+                                              24
+     ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                                                               zemljište i šume
+                                                               za eksploataciju
+                                                               uglja, objekti,
+                                                               postrojenja,
+                                                               mašine i
+                                                               proizvodna
+                                                               oprema, itd.
+2.   Osnova za       Upravni odbor treba da obezbedi da        Menadžment        Delimično
+     mišljenje       su preduzete neophodne radnje za          nije u            sprovedeno
+                     rešavanje imovinskih pitanja              potpunosti
+                     kompanije i ažuriranje imovinskog         ažurirao registar
+                     registra sa trenutnim stanjem tako        imovine da bi
+                     što tačno i pošteno predstavlja           prikazao
+                     dugoročnu imovinu kompanije.              trenutno stanje
+                                                               nekretnina.
+3.   Osnova za       Upravni odbor treba da obezbedi da        Nismo           Sprovedeno
+     mišljenje       se izvrše neophodne procene za            identifikovali
+                     nepredviđene situacije i da se u          slučajeve
+                     finansijskim izveštajima daju potpune     neophodne za
+                     informacije sa objašnjenjima.             obelodanjivanje
+                                                               kao
+                                                               nepredviđene
+                                                               slučajeve tokom
+                                                               2023.
+4.   Osnova za       Upravni odbor mora da obezbedi        Uprava je        Sprovedeno
+     mišljenje       priznavanje potraživanja i prihoda od preduzela
+                     kamata u odgovarajućem                neophodne
+                     obračunskom periodu tako da           korektivne
+                     finansijski izveštaji sadrže samo     radnje u vezi sa
+                     transakcije i događaje koji se odnose priznavanjem
+                     na godinu.                            prihoda od
+                                                           kamata u
+                                                           odgovarajućim
+                                                           obračunskim
+                                                           periodima.
+5.   Osnova za       Upravni odbor mora da obezbedi            Od testiranih   Sprovedeno
+     mišljenje       preduzimanje neophodnih radnji za         uzoraka nismo
+                     periodično usklađivanje situacije         utvrdili
+                     između kompanije i dobavljača kako        nedoslednosti u
+                     bi imao što jasniji pregled svojih        stanju obaveza
+                     obaveza prema dobavljačima.               prema
+                                                               dobavljačima.
+6.   Osnova za       Upravni odbor treba da osigura da         Menadžment je      Sprovedeno
+     zaključak       se izvrši pregled politike rezervisanja   pregledao
+                     zaliha tako da se rezervisanje vrši       proceduru
+                     prema grupama povezanih stavki ili        rezervisanja
+                     sa sličnim karakteristikama kako to       zaliha tokom
+                     zahteva MRS 2.                            2023. godine.
+7.   Osnova za       Upravni odbor mora da obezbedi da Od testiranih              Sprovedeno
+     zaključak       kompanija u slučaju snabdevanja    uzoraka nismo
+                     koristi otvorene procedure nabavke identifikovali
+
+
+                                             25
+      ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                      kao i indeksaciju cena prema berzi       slučajeve
+                      kada je to moguće.                       izbegavanja
+                                                               cena berze
+                                                               kada je to
+                                                               moguće.
+8.    Osnova za       Upravni odbor mora da obezbedi da        Od testiranih    Sprovedeno
+      zaključak       se procenjena vrednost, predložena       uzoraka nismo
+                      vrsta i sadržajni uslovi javnog          identifikovali
+                      ugovora urade na vreme, a                nijedan slučaj
+                      potpisivanje ugovora se vrši pre         da se posao
+                      početka izvođenja radova, odnosno        izvodi bez
+                      prijema usluga.                          važećeg
+                                                               ugovora.
+9.    Interne         Preporučujemo kompaniji da: utvrdi i .Preporuka iz        Više nije primenljivo
+      kontrole u      definiše prava i odgovornosti osoblja Pisma uprave
+      finansijskom    u novom softveru; da nastavi sa         2021.
+      izveštavanju    povećanom pažnjom fazu puštanja u
+                      rad i da koristi sve svoje funkcije; Da
+                      obezbedi odgovarajuću obuku osoblju
+                      o korišćenju i upotrebi softvera; da
+                      pronađe najbolji način održavanja i
+                      daljeg razvoja.
+10.   Interne         Preporučujemo Kompaniji da doda          Preporuka iz     Više nije primenljivo
+      kontrole u      kontrole nadzora tamo gde je             pisma
+      finansijskom    mogućnost greške veća.                   menadžmenta
+      izveštavanju                                             2021.
+11.   Interne         Preporučujemo Kompaniji da sagleda       Preporuka iz     Više nije primenljivo
+      kontrole u      mogućnosti unapređenja softvera koji     pisma
+      finansijskom    se trenutno koristi, ili da se opremi    menadžmenta
+      izveštavanju    novim softverom koji će zadovoljiti      2021.
+                      sve zahteve, kako finansijske tako i
+                      menadžerske.
+12.   Interne         Preporučujemo Kompaniji da takvi         Preporuka iz     Više nije primenljivo
+      kontrole u      izveštaji budu finalizovani u trenutku   pisma
+      finansijskom    kada budu poslati Upravnom odboru        menadžmenta
+      izveštavanju    na odobrenje.                            2021.
+13.   Interne         Upravni odbor mora da obezbedi da        Menađment je      Sprovedeno
+      kontrole u      se finansijski izveštaji pripreme,       pripremio
+      finansijskom    odobre i objave u zakonskim              finansijske
+      izveštavanju    rokovima.                                izveštaje i
+                                                               godišnji izveštaj
+                                                               u roku
+                                                               predviđenom
+                                                               Zakonom o
+                                                               javnim
+                                                               preduzećima
+14.   Potraživanja    Preporučujemo kompaniji da izbegava      Preporuka iz     Više nije primenljivo
+                      kašnjenja što je više moguće             Pisma
+                      u izvršenju kapitalnih ulaganja po       menadžmenta
+                      ugovorenim uslovima.                     2021.
+
+
+                                              26
+      ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+15.   Potraživanja    Upravni odbor mora da obezbedi           Uprava je        Sprovedeno
+                      procedure za periodično                  preduzela
+                      usaglašavanje računa sa dužnicima i      neophodne
+                      da pregleda registar potraživanja        radnje u vezi sa
+                      kako bi finansijski izveštaji što        starim
+                      preciznije i tačnije prikazali stanje    dugovanjima i
+                      kompanije.                               usaglašavanjem
+                                                               sa klijentima.
+16.   Zalihe          Preporučujemo da Kompanija revidira Preporuka iz          Više nije primenljivo
+                      proceduru rezervisanja zaliha tako da Pisma
+                      se rezervisanje određuje na osnovu    menadžmenta
+                      nekih specifičnih parametara zaliha,  2021.godine
+                      kao što su mobilnost, rok trajanja,
+                      fizičko stanje itd. Preporučujemo da
+                      stare i oštećene zalihe za koje se ne
+                      očekuje da će se koristiti u budućim
+                      periodima odrede njihov dalji
+                      tretman.
+17.   Zalihe          Preporučujemo Kompaniji da preispita     Preporuka iz     Više nije primenljivo
+                      način upravljanja zalihama, počevši      Pisma
+                      od pregleda internih procedura i         menadžmenta
+                      procesa i da se unapredi modul           2021.
+                      zaliha. Članke identifikovane kao
+                      zastarele ili sponere treba izdvojiti.
+                      Ovo će pomoći u smanjenju nivoa
+                      zaliha i poboljšanju stanja skladišta.
+                      Takođe može povećati produktivnost
+                      skladišnog osoblja i eliminisati robu
+                      kojoj je istekao rok trajanja. Zbog
+                      toga, inventar mora biti temeljno
+                      analiziran, procenjujući svaku stavku
+                      u odnosu na očekivanu buduću
+                      upotrebu.
+18.   Zalihe          Preporučujemo Kompaniji da započne Preporuka iz           Više nije primenljivo
+                      proces objedinjavanja nomenklature        Pisma
+                      za sve svoje jedinice u berzanskim        menadžmenta
+                      listama kako bi to bio jedinstven         2021.
+                      sistem i omogućio laku identifikaciju
+                      artikala prilikom njihovog korišćenja ili
+                      brojanja. Takođe preporučujemo da
+                      se skladišta i prostorije urede tako
+                      da se artikli na zalihama zaštite od
+                      raznih atmosferskih oštećenja, te da
+                      se artikli rasporede u redove i police
+                      kako bi se lakše identifikovali i
+                      tačnije prebrojali.
+19.   Osnovna         Preporučujemo Kompaniji, pored           Kompanija je     Više nije primenljivo
+      sredstva        ažuriranja svog registra imovine, da     osnovala radnu
+                      pokrene i reši ovaj problem kod          grupu za
+                      nadležnih organa što je pre moguće.      identifikaciju i
+                                                               razjašnjavanje
+
+
+                                             27
+      ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                                                              vlasništva nad
+                                                              nepokretnom
+                                                              imovinom.
+                                                              međutim,
+                                                              ažuriranja sa
+                                                              nalazima radne
+                                                              grupe još nisu
+                                                              bila odražena u
+                                                              imovinskom
+                                                              registru.
+20.   Prihod          Preporučujemo da se procedure           Preporuka iz      Više nije primenljivo
+                      dokumentuju i definišu u priručniku     pisma
+                      koji treba da ukaže i na dodelu         menadžmenta
+                      zadataka odeljenjima ili pojedinim      2021.
+                      zaposlenima koji se bave izvozom
+                      energije. Takođe, preporučujemo
+                      Kompaniji da sva odeljenja i funkcije
+                      Društva imaju procedure i priručnike
+                      za rad i da ih redovno ažuriraju
+                      najmanje jednom godišnje.
+21.   Prihod          Upravni odbor mora da obezbedi da Kompanija je            Sprovedeno
+                      su svi propisi i procedure neophodne 27.06.2023.
+                      za rad preduzeća sastavljene i       godine dala
+                      odobrene i da se izvrši ažuriranje u saglasnost na
+                      skladu sa potrebama društva.         propis o
+                                                           odobravanju
+                                                           postupka
+                                                           trgovanja i
+                                                           razmene
+                                                           električne
+                                                           energije i ovaj
+                                                           propis se
+                                                           primenjuje.
+22.   Prihod          Upravni odbor mora da obezbedi          Od testiranih     Sprovedeno
+                      efikasne interne procedure za           uzoraka, nismo
+                      postizanje maksimalnog rezultata        primetili nijedan
+                      kompanije i eliminisanje većih          slučaj
+                      troškova u budućnosti.                  ponovljenih
+                                                              aukcija.
+23.   Operativni      Upravni odbor osigurava da su           I ove godine      Implementacija nije
+      rashodi         zahtevi jedinica koje su podnele        kompanija je      počela
+                      zahtev grupisane u cilju razvoja        imala veliki broj
+                      manjeg broja aktivnosti nabavke koje    ugovora
+                      obezbeđuju veću konkurenciju i          minimalne
+                      ekonomičnije cene.                      vrednosti.
+24.   Operativni      Upravni odbor mora da obezbedi da       Od testiranih     Sprovedeno
+      rashodi         se nepotrebni zahtevi ne stavljaju u    uzoraka nismo
+                      dosije tendera kako bi svim             identifikovali
+                      ekonomskim operaterima dali priliku     nikakve
+                      da učestvuju na tenderu i postignu      nepotrebne
+                      ekonomske cene.                         zahteve u
+
+
+                                             28
+      ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                                                             tenderskom
+                                                             dosijeu koji
+                                                             ograničavaju
+                                                             konkurenciju.
+25.   Troškovi        Kompanija mora u potpunosti da           Preporuka iz    Više nije primenljivo
+      zarada          poštuje zakone, politike, interne        Pisma
+                      procedure i druge kadrovske odluke menadžmenta
+                      koje je odobrio Upravni odbor            2021. godine
+                      Kompanije. Preporučujemo da se
+                      izvrši preispitivanje dosijea zaposlenih
+                      i da se popune.
+26.   Troškovi        Preporučujemo Kompaniji da sva         Preporuka iz      Više nije primenljivo
+      zarada          odeljenja i poslovne funkcije imaju    Pisma
+                      procedure rada i priručnike i da se    menadžmenta
+                      redovno ažuriraju najmanje jednom      2021.godine
+                      godišnje.
+27.   Troškovi        Upravni odbor treba da obezbedi da     Uprava je         Sprovedeno
+      zarada          se izvrši blagovremeno ažuriranje      preduzela
+                      odluka koje su u vezi sa naknadama     neophodne
+                      radnicima, i da obezbedi da se         radnje
+                      preduzmu neophodne radnje za           ažuriranjem i
+                      ažuriranje ugovora o radu kako         kompletiranjem
+                      odredbe ugovora ne bi bile u           ugovora
+                      suprotnosti sa zakonom.                zaposlenih i
+                                                             odlukama o
+                                                             naknadama
+                                                             zaposlenih.
+28.   Informacioni    Preporučujemo da šifrujete sve         IT odeljenje je Delimično
+      sistemi         diskove opreme u vlasništvu            kreiralo            sprovedeno
+                      preduzeća, posebno one koja se         šifrovane
+                      koristi van mreže KEK-a.               datoteke, ali te
+                                                             datoteke nisu
+                                                             koristili korisnici
+                                                             tokom 2023.
+                                                             Godine. Dalje
+                                                             zahtevi za
+                                                             pristup VPM-u
+                                                             upućeni su
+                                                             putem e-pošte,
+                                                             a ne putem
+                                                             standardnog
+                                                             obrasca kako
+                                                             to zahteva
+                                                             politika.
+29.   Informacioni    Preporučujemo vam da zahtevate       Menadžment je Sprovedeno
+      sistemi         redovne pisane izveštaje od svog IT preduzeo
+                      osoblja u vezi sa testovima ponovnog neophodne
+                      vračanja podataka i kritičnim        radnje u vezi sa
+                      korporativnim sistemima.             testovima
+                                                           ponovnog
+                                                           vračanja
+
+
+                                             29
+      ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                                                              podataka i
+                                                              kritičnih
+                                                              korporativnih
+                                                              sistema. Tokom
+                                                              revizije dobili
+                                                              smo poslednja
+                                                              3 pismena
+                                                              izveštaja od IKT
+                                                              osoblja o
+                                                              izvršenim
+                                                              testovima
+                                                              ponovnog
+                                                              vračanja
+                                                              podataka i
+                                                              kritičnih
+                                                              korporativnih
+                                                              sistema.
+30.   Informacioni    Preporučujemo vam da jasno odredite Politika           Sprovedeno
+      sistemi         vremenske periode za svaku           informacionih
+                      proceduru i pregledate da li postoji tehnologija je
+                      potreba za pripremanjem drugih       odobrena u
+                      pratećih dokumenata kao što su:      junu 2023. U
+                      Smernice za hitne reakcije, Plan     odobrenoj
+                      kontinuiteta poslovanja, Plan        politici i drugim
+                      oporavka od katastrofe, dodatne      dodacima koje
+                      procedure za povratne testove itd.   je izradio IT
+                                                           odsek KEK.A.D,
+                                                           vremenski
+                                                           periodi za
+                                                           čuvanje
+                                                           podataka za
+                                                           svaku
+                                                           proceduru su
+                                                           jasno navedeni,
+                                                           uključujući
+                                                           arhiviranje i
+                                                           testiranje. Oni
+                                                           su takođe
+                                                           izradili druge
+                                                           propratne
+                                                           dokumente kao
+                                                           što su smernice
+                                                           za reagovanje u
+                                                           vanrednim
+                                                           situacijama,
+                                                           kontinuitet
+                                                           poslovanja i
+                                                           oporavak u
+                                                           slučaju prirodne
+                                                           katastrofe.
+31.   Informacioni    Preporučujemo IKT menadžmentu da        Tokom revizije     Sprovedeno
+      sistemi         preispita da li ova praksa treba biti   smo
+
+
+                                             30
+      ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                      dozvoljena. Ograničenje pristupa.         identifikovali da
+                      Interni proxi i filtriranje sadržaja su   su u
+                      važne bezbednosne mere za                 konfiguraciji
+                      smanjenje izloženosti napadima koji       mreže
+                      dolaze iz interne mreže preduzeća.        kompanije
+                                                                implementirana
+                                                                pravila liste
+                                                                kontrole
+                                                                pristupa (Access
+                                                                List Polici Rules)
+                                                                i ograničenja
+                                                                kroz Proxi
+                                                                firewall.
+32.   Informacioni    Preporučujemo da ugovarate              Odeljenje za     Sprovedeno
+      sistemi         kompaniju specijalizovanu za IKT        informatiku kao
+                      bezbednost da testira KEK-ove IKT       podnosilac
+                      mreže i sisteme na bilo kakve           zahteva u 2022.
+                      propuste. Ako ih ima, potražite         godini
+                      stručni savet kako da ih poboljšate ili pokrenulo je
+                      popravite.                              zahtev za
+                                                              izradu
+                                                              tenderske
+                                                              procedure za
+                                                              pružanje usluga
+                                                              - „Penetration
+                                                              Testing“
+                                                              infrastrukturno
+                                                              testiranje, ali
+                                                              razvoj
+                                                              procedure nije
+                                                              bio uspešan.
+                                                              Takođe, ova
+                                                              divizija je
+                                                              primenila
+                                                              neophodne
+                                                              konfiguracije za
+                                                              podizanje nivoa
+                                                              informacione
+                                                              bezbednosti u
+                                                              kompaniji i
+                                                              kontinuirano
+                                                              pratila pretnje
+                                                              za moguće
+                                                              napade kojima
+                                                              je upravljano i
+                                                              bez ikakvih
+                                                              bezbednosnih
+                                                              incidenata.
+
+Izveštaj je prevod sa originalne verzije na albanskom jeziku. U slučaju nedoslednosti provladava
+verzija na albanskom jeziku.
+
+
+
+
+                                               31
+     ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Vlora Spanca, Generalna revizorka
+
+
+
+
+Naser Arllati, Pomoćnik Generalnog Revizora
+
+
+
+
+Mehmet Mucaj, Direktor revizije
+
+
+
+
+Naim Neziri, Vođa tima
+
+
+
+
+Xhevat Hasolli, Član tima
+
+
+
+
+Arbresha Grainca, Član tima
+
+
+
+
+                                           33
+       ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Dodatak I: Pismo potvrde / Komentari JP-a u vezi sa
+revizorskim izveštajem
+Pitanje                    Komentar BO-a                                   Gledište NKR -a
+C1 - Menadžment više od                                                    Komentar nije relevantan i nalaz stoji.
+20 godina nije vršio        Menadžment je, na osnovu preporuke NKR,        Preporuka je data za deo imovine koji se
+periodične revalorizacije izvršio ponovnu procenu kategorije               vodi u knjigama po fer vrednosti (metoda
+za sve klase imovine koje zemljišta u skladu sa zahtevima                  revalorizacije).
+se vode u knjigama po       Međunarodnih standarda finansijskog
+modelu revalorizacije.      izveštavanja i korišćenjem internih resursa    Preduzeće je izvršilo revalorizaciju imovine
+Njihova vrednost na kraju bez dodatnih finansijskih troškova za            u 2004. godini i vrednost imovine od 9,8
+izveštajnog perioda bila je Kompaniju. Od ove revalorizacije, vrednost     miliona evra se vodi u knjigama na osnovu
+9,8 miliona evra. Šta više, zemljišta Kompanije je povećana za 50          izveštaja nezavisnog procenitelja, zatim
+71,4% registrovane          miliona.                                       prema MRS 16 revalorizacije treba vršiti
+imovine su sredstva u                                                      dovoljnom redovnom učestalošću da će
+upotrebi, ali su u          Za ostale kategorije imovine, rukovodstvo      prava vrednost biti blizu tržišne vrednosti.
+potpunosti amortizovana, smatra da je model troškova mnogo
+odnosno nultne              prikladniji i da tačno prikazuje stanje
+knjigovodstvene             imovine Korporacije iz sledećih razloga:       Komentar nije relevantan i nalaz stoji.
+vrednosti.                                                                 Preporuka je data za deo imovine koji se
+                                                                           vodi u knjigama po fer vrednosti (metoda
+                                                                           revalorizacije).
+                           Pristup zasnovan na troškovima: Metoda
+                           revalorizacije uključuje vrednovanje           Preduzeće je izvršilo revalorizaciju imovine
+                           imovine po njihovoj fer vrednosti, što možda u 2004. godini i vrednost imovine od 9,8
+                           nije praktično ili značajno za određene vrste miliona evra se vodi u knjigama na osnovu
+                           imovina, kao što su elektrane i oprema koja izveštaja nezavisnog procenitelja, zatim
+                           se koristi u proizvodnji električne energije. prema MRS 16 revalorizacije treba vršiti
+                           Ova sredstva su specijalizovana i              dovoljnom redovnom učestalošću da će
+                           jedinstvena za industriju, što otežava, ako ne prava vrednost biti blizu tržišne vrednosti.
+                           i nemoguće, tačno određivanje njihove fer
+                           vrednosti. U takvim slučajevima, pristup
+                           zasnovan na troškovima, kao što je istorijski
+                           trošak ili amortizovana cena, pruža
+                           pouzdanije i prikladnije informacije za
+                           finansijsko izveštavanje.
+
+                           Volatilnost : Metoda revalorizacije može
+                           uvesti značajnu promenljivost u finansijskim
+                           izveštajima. Promene fer vrednosti, posebno
+                           za dugovečna sredstva kao što su elektrane,
+                           mogu da variraju usled promena tržišnih
+                           uslova, tehnološkog napretka ili regulatornih
+                           faktora. Ove fluktuacije mogu poremetiti
+                           finansijske performanse kompanije i otežati
+                           investitorima i zainteresovanim stranama da
+                           procene pravu osnovnu profitabilnost
+                           kompanije.+
+
+                           Regulatorno okruženje : Kompanije za
+                           proizvodnju električne energije rade u
+                           regulisanom okruženju, gde tarife i prihode
+                           određuju regulatorna tela na osnovu unapred
+                           određenih formula ili mehanizama za
+                           nadoknadu troškova. U takvim slučajevima,
+                           iako u indirektnom obliku u KEK-u, metoda
+                           revalorizacije možda nije u skladu sa
+                           regulatornim okvirom i primena merenja fer
+
+                                                       34
+ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                vrednosti može dovesti do neslaganja
+                između prijavljenih vrednosti i regulatornih
+                zahteva. Ova nedoslednost može stvoriti
+                konfuziju i ometati uporedivost sa drugim
+                kompanijama u industriji.
+
+                Praktični izazovi : Primena metode
+                revalorizacije zahteva znatnu stručnost,
+                resurse i stalno procene vrednosti. To
+                zahteva angažovanje eksternih stručnjaka,
+                sprovođenje redovnih procena i održavanje
+                složenih modela procene. Za kompanije za
+                proizvodnju električne energije, je
+                operativno izazovno i skupo da kontinuirano
+                primenjuju metod revalorizacije imovine,
+                posebno imajući u vidu specijalizovanu
+                prirodu njihove infrastrukture i dinamičnu
+                prirodu industrije.
+
+                Rukovodstvo je, u skladu sa zahtevima
+                MSFI, na redovnoj godišnjoj osnovi vršilo
+                testiranje imovine na oštećenje, upoređujući
+                na taj način neto vrednost imovine sa
+                diskontovanom neto dobiti koju će ova
+                sredstva ostvariti u narednim godinama. Na
+                osnovu ovih sprovedenih testova, neto
+                vrednost imovine se materijalno ne razlikuje
+                od neto dobiti za koju se očekuje da će se
+                ostvariti tokom godina, što znači da imovina
+                predstavlja svoju realnu vrednost i da nema
+                potrebe da se vrše korekcije u njihovoj
+                knjigovodstvenoj vrednosti.
+
+                Pored toga, KEK ima postojeće ugovore za
+                realizaciju glavnih investicija, uključujući
+                modernizaciju blokova B1 i B2, koji
+                predstavlja glavnu imovinu koja stvara
+                prihod za Korporaciju, a rehabilitacija
+                jedinica termoelektrane Kosovo A, ulaganja
+                u rudnike i sl. su takođe u postupku tendera,
+                a u ovoj fazi ulaganja svaka nova procena
+                predstavlja neopravdane dodatne troškove, s
+                obzirom na to da već imamo trošak na dan
+                investicije.
+
+                Rudarsko zemljište se drži prema istorijskoj
+                ceni i rukovodstvo nije smatralo za shodno
+                da ponovo proceni kategoriju rudarskog
+                zemljišta, pošto se njihova amortizacija
+                takođe zasniva na operativnom planu
+                kompanije za eksploataciju rezervi uglja
+                (izvlačenje ekonomskih koristi) i Preostala
+                vrednost - nula za 296 imovine ove
+                kategorije, odražava fer vrednost do njihove
+                revitalizacije od strane KEK-a za bilo koju
+                drugu svrhu upotrebe.
+
+                KEK smatra da je preporuka za
+                revalorizaciju imovine sprovedena sa
+                izvršenom revalorizacijom za kategoriju
+                zemljišta.
+
+
+                                            35
+       ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                           Što se tiče nalaza da KEK ima 71% od broja
+                           imovine sa nultom knjigovodstvenom           Što se tiče imovina u upotrebi sa neto
+                           vrednošću, MSFI ne zahteva da se             knjigovodstvenom nultom vrednošću (0,00),
+                           knjigovodstvena vrednost imovine održava u MRS 16, u delu Iznos amortizacije i period
+                           pozitivnom iznosu sve dok je prikazana i     amortizacije navodi, između ostalog, da se
+                           obelodanjena na odgovarajući način u         iznos sredstva koji se amortizuje sistematski
+                           finansijskim izveštajima. Od suštinskog je   raspoređuje tokom njegovog korisnog veka
+                           značaja da se u napomenama uz finansijske trajanja. Korisni vek trajanja sredstva je
+                           izveštaje obelodani postojanje i priroda     definisan u smislu očekivane korisnosti
+                           takvih sredstava, uključujući njihovu        sredstva za ekonomsku jedinicu.
+                           knjigovodstvenu vrednost i bilo koje
+                           povezano obezvređenje ili akumuliranu        Preostala vrednost i korisni vek trajanja
+                           amortizaciju.                                sredstva moraju se ponovo proceniti
+                                                                        najmanje na kraju svake finansijske godine i
+                           Važno je napomenuti da iako je imovina sa ako se očekivanje promeni u odnosu na
+                           nultom knjigovodstvenom vrednošću još        prethodne prognoze, promene će se tretirati
+                           uvek u upotrebi, KEK ima troškove            kao promene u računovodstvenim
+                           održavanja ove imovine, i ovaj trošak se     procenama u skladu sa MRS 8
+                           poklapa sa prihodima ostvarenim od           Računovodstvene politike, Promene u
+                           korišćenja imovine sa nultom                 Računovodstvenim procenama i greškama.
+                           knjigovodstvenom vrednošću, štaviše 70%
+                           od vrednost ove imovine su sredstva koja     Prema tome, preduzeće ostvaruje prihod od
+                           moraju imati nultu neto vrednost. Štaviše , imovine sa nultom knjigovodstvenom
+                           njihova vrednost nije materijalna za potrebe vrednošću i rukovodstvo je upoznata da je
+                           finansijskih izveštaja.                      njihova tržišna vrednost veća od nule, mora
+                                                                        se izvršiti procena da bi se utvrdila njihova
+                                                                        fer vrednost koja omogućava tačan prikaz i
+                           Stoga, uzimajući u obzir zahteve             pravo stanje dugoročnih imovina
+                           međunarodnih računovodstvenih standarda i Kompanije.
+                           specifičnosti KEK-a, rukovodstvo smatra da
+                           ovaj nalaz ne važi i da je istovremeno
+                           preporuka koja nije praktična za
+                           implementaciju u delu glavne imovine koja
+                           je proizvodna oprema.
+
+
+C2 – Menadžment još         Prema Konceptualnom okviru za finansijsko Komentar nije relevantan i nalaz stoji.
+uvek nije uspeo da u        izveštavanje – MSFI, privredna jedinica      Štaviše, ovaj nalaz se ponavlja iz prošle
+potpunosti ažurira registar priznaje imovinu kao ekonomski resurs, ako godine sa kojim se menadžment složio u
+imovine kako bi odrazio su ispunjena 3 osnovna aspekta definicije: a) izveštaju za 2022.godinu
+stvarnu situaciju za        Pravo, b) mogućnost ostvarivanja
+nepokretnu imovinu.         ekonomske koristi i c) kontrola. nad tom     Menadžment, uprkos nekim akcijama koje je
+Građevinsko zemljište       imovinom.                                    preduzeo u vezi sa ovim pitanjem, mora
+površine 1,72 hektara,                                                   povećati svoje napore da obezbedi
+uključujući objekte         KEK a.d je ažurirala registar u skladu sa    kompletnost i tačnost registra nepokretne
+površine 140 m² u centru zahtevima za finansijsko izveštavanje, kako imovine.
+Prištine, kao i             je definisano u pomenutom Okviru i
+poljoprivredno i šumsko Međunarodnim standardima finansijskog            Smatramo da rukovodstvo treba da uradi
+zemljište površine 55,7     izveštavanja .                               opšti pregled nepokretnosti i ažurira registar
+hektara u Vasilevu ,        a)        Građevinsko zemljište 1,72 ha -    imovine sa stvarnim stanjem.
+opština Glogovac, su        kompanija je ažurirala registar, samo za deo
+svojina. koji se pojavljuju zemljišta od 15,91 ari koje koristimo i      Takođe, čak ni u komentaru entiteta, kao što
+na njeno ime, ali još uvek kontrolišemo;                                 se vidi, nema jasnoće u vezi sa pravima i
+nisu upisani u registar     b)        116,88 hektara zemljišta u         obavezama na imovini, pa to utiče na to da
+imovine kompanije, dok katastarskom području Vasileve - KEK je           prikaz stanja imovine bude nepotpun u
+se još uvek u registru      uneo u registar sopstvene imovine deo        izveštaju i može imati materijalni uticaj na
+vode pet (5) parcela u      parcele od 61,18 ha, nad kojom ima           pravilno prikaz i pravo stanja dugotrajne
+Opštini Podujevo u iznosu zakonsko pravo i kontrolu, dok je na           imovine preduzeća.
+od 7,867,541€ koje prema površini od 55,70 ha kompanija pokrenula
+odluci Vlade Kosova         sudski postupak, prema uverenju vlasništva
+
+                                                       36
+       ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+prešli u vlasništvo        to je na ime Agencije za šumarstvo Kosova.
+Infrakos a.d, kao i 11     Dana 18.01.2024. godine, KEK.a.d je
+drugih parcela u vrednosti podneo tužbu protiv SO-Glogovac, sa
+od 866.223€, koje su na    predmetom spora prenos vlasništva, jer u
+osnovu vlasničkih listova redovnom upravnom postupku SO-Glogovac
+identifikovane od strane nije izvršio prenos ove imovine u ime KEK.
+komisije za revalorizaciju d prema na odluke o eksproprijaciji.
+zemljišta kao privatna     c)        Poslovni prostor 140 m² - na
+svojina.                   osnovu ograničenja jedne imovine,
+                           kompanija nema mogućnost eksploatacije (
+                           ekonomske koristi ) i kontrole nad ovom
+                           imovinom, stoga ono nije uključeno u
+                           registar imovine. Mi smo u postupku
+                           izvršenja, tačnije čekamo odluku suda koji
+                           razvija izvršne postupke.
+                           Skoro smo dobili presudu Vrhovnog suda
+                           Rev. E. br. 16/2024 od 24.04.2024.godine za
+                           pravno pitanje savesne stranke „Epoka e Re“
+                           gde se na osnovu ove presude odbija
+                           Revizija tužene „Epoka e Re“.
+                           Nakon prihvatanja ove presude od strane
+                           Vrhovnog suda, uputili smo hitno
+                           obaveštenje Sudu u kome je u toku izvršni
+                           postupak, uz prilaganje presude Vrhovnog
+                           suda Rev. E. br 16/2024 jer je jedan od
+                           razloga što tužena stranka – dužnik „Epoka e
+                           Re“ je uradila nazadovanje je i slanje ovog
+                           sudskog pitanja Vrhovnom sudu.
+                           d)        Zemljišta u Podujevu- Infrakos (5)
+                           - Podneli smo tužbu br. KP br. 23/24 u
+                           Privrednom sudu Kosova od
+                           10.05.2024.godine protiv preduzeća Infrakos
+                           a.d, predmet spora je dokaz o vlasništvu i
+                           osiguranju pre suđenja za parcele za koje se
+                           tvrdi da su prešle sa KEK..a.d na Infrakos
+                           a.d, prema odluci Vlade 2010.godine i
+                           sporazumom između Infrakos a.d i
+                           Ministarstvo za ekonomski razvoj u
+                           2012.godine. Komercijalni sud od
+                           04.06.2024. godine je odobrio naš predlog
+                           za dodelu geodetskog veštačenja sa
+                           prethodnim testom i čekamo ovo sudsko
+                           veštačenje.
+                           e)        Imovina (11) koja je privatna - Ove
+                           imovina je Uprava predložila za namirenje
+                           Odboru. Na osnovu odluke br. 1612 od
+                           14.03.2024.godine, odbor je tražio da se
+                           dostavi istorijat ovih imovina do
+                           30.06.2024.godine, a zatim odlučuje da li će
+                           se izmiriti ili ne. Zahteve smo poslali
+                           opštinama Podujevo i Obilić. Dobili smo
+                           potvrdu od opštine Podujevo da predmetno
+                           zemljište nikada nije bilo u vlasništvu KEK-
+                           a, dok smo od opštine Obilić dobili potvrdu
+                           da predmetno zemljište nije u vlasništvu
+                           KEK-a. Ova dokumentacija će biti poslata
+                           odboru na pregled i odobrenje poravnanja iz
+                           evidencije Kompanije.
+
+                           Rukovodstvo KEK-a, na osnovu gore
+                           navedenih činjenica i zahteva MSFI, nijedno
+
+
+                                                      37
+       ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                            od pitanja postavljenih u mišljenju nema
+                            uticaja na finansijske izveštaje Korporacije,
+                            stoga, kao takvi, ne mogu predstavljati
+                            osnovu za mišljenje u finansijskim
+                            izveštajima.
+A1 - Nedostatak u           a)        Što se tiče Opisa cene u aktivnosti Komentar nije relevantan i nalaz stoji.
+pregovaračkim               nabavke „Modernizacija turbina u TCB“, u
+postupcima bez              tenderskom dosijeu je tražen detaljniji opis a) Subjekat je naveo razloge u vezi sa
+objavljivanja obaveštenja   cena po jedinici, ali je ponuđač dostavio opis razvojem procesa nabavke, a pitanje je
+o ugovoru                   zbirne cene i tokom pregovora je traženo da obrađeno sa aspekta poštovanja uslova
+                            ponovo dostaviti detaljniji opis cene.          navedenih u tenderskom dosijeu. Dakle,
+                            Ponuđač se izjasnio da nije moguće ponuditi finansijsku ponudu – opis cene je dostavio
+                            cene prema formatu datom u tenderskom           ekonomski operater u ukupnim cenama
+                            dosijeu. Imajući u vidu da je postupak          komponenti i, kako je traženo u tenderskom
+                            nabavke pregovaran i da je ovim postupkom dosijeu, cenama po jedinici za svaku
+                            dozvoljeno pregovaranje o svim uslovima         poziciju predviđenu u prethodnoj meri. Što
+                            tenderskog dosijea i na osnovu činjenice da se tiče poreske overe, kada je ugovor
+                            je predlog opisa cene bio prihvatljiv za        potpisan, potvrda je bila nevažeća (potvrda
+                            Ugovorni autoritet i da je ocenio da ne         je predata 05.10.2022. sa rokom važenja od
+                            predstavlja problem u realizaciji ugovora, u 90 dana, dok je ugovor potpisan
+                            skladu sa odredbama zakona o javnim             24.02.2023).
+                            nabavkama, ponuda je prihvaćena kao             b) Subjekt je objasnio okolnosti koje su
+                            odgovorna i nastavljena potpisivanjem           dovele do korišćenja ovog pregovaračkog
+                            ugovora. Što se tiče poreske overe, Uprava postupka, ali smatramo da je ova situacija
+                            za nabavke još jednom napominje da je           rezultat nedostatka odgovarajućeg planiranja
+                            overa dostavljena u skladu sa zahtevima         od strane jedinica koje su dale zahtev i
+                            Zakona o javnim nabavkama. Ponuđač je           kancelarije za nabavke u vezi sa razvojem
+                            dostavio potvrdu Poreske uprave od              aktivnosti preliminarne nabavke . Isto tako,
+                            05.10.2022.godine koja obuhvata kvartal         KRPP je u tri od ovih slučajeva dao
+                            jun-septembar/2022. Pošto je poziv za           mišljenje da se takve okolnosti više mogu
+                            pregovore podnet 09.12.2020. godine ,           pripisati nepravilnom planiranju i nemaru od
+                            prethodni kvartal za ovu aktivnost nabavke strane ugovornog autoriteta.
+                            za izdavanje poreza je III kvartal (jun-jul) iu
+                            ovom slučaju je poreska potvrda dostavljena
+                            u skladu sa članom 65. stav 5. „Rokovi
+                            definisani ovim članom odnose se na period
+                            koji neposredno prethodi datumu
+                            objavljivanja obaveštenja o ugovoru ili, u
+                            slučaju pregovaračkih postupaka bez
+                            objavljivanja obaveštenja o ugovoru, slanja
+                            poziva za učešće ili tender.“
+                            b)        Kancelarija za nabavke čini
+                            kontinuirane napore da izbegne korišćenje
+                            pregovaračkih procedura za vanredne
+                            situacije, kao iu nekim slučajevima zbog
+                            tehničkih obaveza.
+                            Pregovaračka procedura za usluge
+                            „Očuvanje i obezbeđenje objekata
+                            preduzeća“ je nastala kao rezultat jer je
+                            otvoren postupak za jednogodišnje okvirne
+                            ugovore zbog žalbi u TRN i kada imamo
+                            istu delatnost, ne možemo koristiti otvoreni
+                            postupak, onda smo prinuđeni da, da ne
+                            bismo ostali bez ugovora, koristimo
+                            pregovaračku proceduru.
+
+                            Takođe za usluge „Zdravstvenog osiguranja
+                            radnika KEK-a“, sve dok nemamo
+                            jednogodišnje ili trogodišnje okvirne
+                            ugovore, nastavili smo sa pregovaračkim
+                            postupkom kako ne bismo ostavili radnike
+
+                                                        38
+       ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                           bez zdravstvenog osiguranja.
+
+                           Uslugu „Prevoz radnika KEK-a“ takođe
+                           zbog pritužbi u Upravi za javne nabavke bili
+                           smo prinuđeni da koristimo pregovarački
+                           postupak kako ne bismo ostali bez ove
+                           usluge za radnike.
+
+                           Korišćenje pregovaračke procedure za
+                           nabavku mazuta, snabdevanje
+                           hlorovodoničnom kiselinom i sl. rezultat su
+                           žalbi TRN-u i znajući da su to snabdevanja
+                           bez kojih termoelektrane ne mogu da
+                           funkcionišu, dužni smo da u odsustvo
+                           okvirnih ugovora za ove nabavke koristimo
+                           pregovaračku proceduru.
+
+                           Upotreba procedure za „Usluge fizičko-
+                           ekonomskog preseljenja za deo sela opštine
+                           Obilić“ proizišla je iz neuspeha ograničenog
+                           otvorenog postupka koji se ne može
+                           nastaviti ako u prvoj fazi nemamo tri
+                           ponuđača odgovorna da bi se nastavilo sa
+                           drugom fazom i doći do potpisivanja i
+                           izvršenja ugovora.
+A2 Kompanija je            Revizija finansijskih izveštaja privrednih    Komentar nije relevantan i nalaz stoji.
+angažovala privatnog       društava regulisana je Zakonom br. 06/L-
+revizora, uprkos činjenici 032 ZA RAČUNOVODSTVO,                         U skladu sa utvrđenim zakonskim
+da je kompanija bila       FINANSIJSKO IZVEŠTAVANJE I                    procedurama, NKR je blagovremeno
+predmet revizije           REVIZIJU ; Pravni zahtevi koji proizilaze iz obavestila subjekat i putem pisma o obavezi
+Nacionalne kancelarije za ovog zakona su takođe obavezni za javna        za 2022. i 2023. godinu odredila da će
+reviziju (NKR). Vrednost preduzeća, koja osim toga imaju dodatne         izvršiti reviziju finansijskih izveštaja
+ugovora potpisanih sa      zahteve u pogledu finansijskog izveštavanja pripremljenih za opšte namene na osnovu
+privatnim revizorom za     i revizije .                                  MRS/MSFI, dajući mišljenje o finansijskim
+dve godine bila je                                                       izveštajima. izjave i zaključak o
+45,700€.                   Za ovo pitanje, KEK se takođe obratio         usklađenosti. Iako smo reviziju izvršili na
+                           zabrinutost KKRF i NKR i iz odgovora          osnovu ustavnog mandata, Zakona o javnim
+                           dobijenih od obe strane, je da je KEK         preduzećima i Zakona o glavnom revizoru,
+                           obavezan da izvrši reviziju u skladu sa       subjekt je angažovao privatnog revizora za
+                           SNA od nezavisne licencirane revizorske       isti cilj – reviziju finansijskih izveštaja.
+                           firme i da dostavi izveštaj najkasnije do 30.
+                           aprila (zakonski zahtev), kao i odgovor NKR
+                           da NKR ne može da ispuni ove zakonske
+                           uslove, KEK je nastavio sa ugovaranjem
+                           revizije u skladu sa zakonskim zahtevima.
+                           Pored toga, NKR je naveo da pored
+                           neispunjavanja zakonskih uslova koji
+                           proizilaze iz zakona br. 06/L-032 ZA
+                           RAČUNOVODSTVO, FINANSIJSKO
+                           IZVEŠTAVANJE I REVIZIJU , takođe ne
+                           može ispuniti zakonske uslove koji
+                           proizilaze iz člana 4. Licence za proizvodnju
+                           električne energije iu skladu sa Zakonom o
+                           Regulatoru energije 05-L-084, ne kasnije. od
+                           31. marta naredne godine za prethodnu
+                           godinu i;
+                           Zahtevi prema Zakonu br. 03/L-163 za
+                           rudarstvo i minerale, član 34 Prava i
+                           obaveze licence za eksploataciju, stav 4.2.2,
+                           najkasnije do 28. februara naredne godine za
+                           prethodnu godinu.
+
+                                                       39
+       ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                           Štaviše, u pismima koje je NKR primila, ona
+                           potvrđuje činjenicu da su zakonske promene
+                           neophodne kako bismo nas oslobodili ovih
+                           obaveza, međutim, do ovih zakonskih
+                           promena nije došlo i KEK ostaje zakonski
+                           obavezan da primeni sledeće zahteve iz ovih
+                           zakona (vidi priložena dokumentacija).
+
+                           Stoga, uzimajući u obzir saopštenja koja su
+                           nepobitne činjenice u ovoj stvari, KEK
+                           smatra da ovaj nalaz ne može biti deo
+                           izveštaja i predstavljanje ovog nalaza je u
+                           suprotnosti sa zakonskim zahtevima koje je
+                           KEK dužan da ispuni.
+
+                           Štaviše, ovo kako je utvrđeno nije uvedeno
+                           prošle godine (2022) i bila je potpuno ista
+                           situacija.
+A3 - Skraćivanje roka za   Uprava za nabavke kontinuirano nastoji da Komentar nije relevantan i nalaz stoji.
+prihvatanje ponuda         poštuje vremenske rokove za raspisivanje     Zakon o javnim nabavkama ne dozvoljava
+                           tendera u skladu sa Zakonom o nabavkama i skraćivanje zakonom utvrđenih minimalnih
+                           pravilnikom i smernicama za javne nabavke. rokova i ova situacija se nije odnosila na
+                           U konkretnom slučaju, kancelarija za         ekstremne vanredne situacije koje subjekt ne
+                           nabavke je iskoristila ubrzani rok za veliku može da predvidi, već na nedostatak
+                           vrednost (preko 500.000€), koji prema        pravilnog planiranja vremena izvođenja
+                           propisima minimalni rok je 15 dana, tako da kapitalnih projekata.
+                           je rok od 17 dana u skladu sa propisima o
+                           javnim nabavkama, a to je urađeno da
+                           poštujem sve zakonske rokove koji su
+                           uvršteni nakon otvaranja tendera. Rokovi za
+                           ocenjivanje, zahtevi za pojašnjenje tokom
+                           procene, eventualni zahtevi za ponovno
+                           razmatranje kao i rokovi u slučaju bilo
+                           kakve žalbe TRN-u od strane EO. Dakle u
+                           ovom slučaju se računa da imamo ugovore
+                           po planovima remonta.
+A4 – Nedostaci u           Što se tiče plana upravljanja ugovorom,       Komentar nije relevantan i nalaz stoji.
+planovima upravljanja      menadžeri ugovora ugovornog autoriteta su     Pitanje je obrađeno sa aspekta zakonskih
+ugovorima                  postupili u skladu sa priručnicima koje je    zahteva. Pravilo i uputstvo za javne
+                           objavio KRPP, gde je predviđeno da se plan    nabavke, tačka 70.11, zahteva da se Plan
+                           upravljanja ugovorom odobrava samo preko      upravljanja ugovorima pripremi pre početka
+                           platforme e-nabavke.                          realizacije ugovora i
+                           U budućnosti, KEK će se obavezati na          potpisuju obe strane, respektivno
+                           procenu učinka izvođača kroz modul e-         menadžera ugovora od strane UA i
+                           nabavke.                                      menadžera ugovora sa strane operatera
+                                                                         Ekonomski.
+B1 – Česta upotreba        Kancelarija za nabavke ulaže kontinuirane     Subjekt se slaže sa nalazom i komentar se
+procedure minimalne        napore da prikupi zahteve minimalne           odnosi na obrazloženja i izazove sa kojima
+vrednosti                  vrednosti, ali zbog prirode proizvodnje,      se suočava u vezi sa prikupljanjem zahteva
+                           velikog broja odeljenja, njihovog             od jedinica koje su podnele zahtev.
+                           teritorijalnog obima, svakodnevnih potreba
+                           koje se javljaju u ovim odeljenjima za
+                           materijalom, opremom itd. , teško je
+                           sakupljati na zadovoljavajućem nivou.
+ C3 - Šifrovanje laptopa i Pristup preko VPN-a – Počeo da se           Subjekat se slaže sa ovim nalazom i
+ pristup korisnika preko implementira. Za svaki novi zahtev za         posvećen je potpunoj implementaciji ove
+ virtuelne privatne mreže pristup preko VPN-a obavezno je              preporuke.
+                           popunjavanje pristupnog formulara. Obrasci
+                           će se popunjavati i za postojeće korisnike.
+
+                                                      40
+ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+                Šifrovanje datoteka – Šifrovani fajlovi/
+                fascikli su kreirani za korisnike laptopa,
+                radiće se na senzibilizaciji korisnika da
+                čuvaju osetljive dokumente u fasciklama
+                /kriptonim diskovima
+
+
+
+
+                                            41
+     ZYRA KOMBËTARE E AUDITIMIT - NACIONALNA KANCELARIJA REVIZIJE - NATIONAL AUDIT OFFICE
+
+
+
+
+Završne beleške
+
+   ¹ Usklađenost sa vlastima – usklađenost sa svim relevantnim zakonima, propisima, uredbama,
+     standardima i dobrim praksama.
+   ² Kolektivno se odnosi na usklađenost sa vlastima
+
+
+
+
+                                                42
+

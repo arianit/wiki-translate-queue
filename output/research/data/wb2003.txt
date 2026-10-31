@@ -1,0 +1,2080 @@
+Public Disclosure Authorized
+
+
+
+
+                                                                            Document o f
+                                                                        The World Bank
+                                                                   FOR OFFICIAL USE ONLY
+
+                                                                                                                     Report No: 25690
+Public Disclosure Authorized
+
+
+
+
+                                                               PROJECT APPRAISAL DOCUMENT
+
+                                                                               ON A
+
+                                           PROPOSED INTERNATIONAL DEVELOPMENT ASSOCIATION GRANT
+Public Disclosure Authorized
+
+
+
+
+                                            INTHE AMOUNT OF SDR 1,100,000 (US$ 1.5 MILLION EQUIVALENT)
+
+                                         TO UNITED NATIONS INTERIM ADMINISTRATION MISSION INKOSOVO
+
+                                                                 FOR THE BENEFIT OF KOSOVO
+
+                                                                              FOR A N
+
+                                                   ENERGY SECTOR TECHNICAL ASSISTANCE PROJECT I1
+
+                                                                            May 8,2003
+Public Disclosure Authorized
+
+
+
+
+                               Infrastructure and Energy Department
+                               South East Europe Country Unit
+                               Europe and Central Asia Region
+
+
+                                 This document has a restricted distribution and may be used by recipients only in the performance of
+                                 their officialduties. Its contents may not otherwise be disclosed without World Bank authorization
+                  CURRENCY EQUIVALENTS
+              (Exchange Rate Effective May 8,2003)
+                  CurrencyUnit = EURO
+                     EURO 1.0 = US$1.135
+                       US$1.0 = EUR00.880
+
+                         FISCAL YEAR
+                      January 1 -- December 31
+
+              ABBREVIATIONS AND ACRONYMS
+
+BMZ                   Bundesministerium fur wirtschaftliche
+                      Zusammenarbeit (Ministry o f Economic Cooperation)
+CPE                   Central Procurement Entity
+CFA                   Central Fiscal Authority
+EA                    Environmental Assessment
+EAR                   European Agency for Reconstruction
+EC                    European Commission
+EMP                   Environmental Management Plan
+GTZ                   Deutsche Gesellschaft fur Technische Zusammenarbeit (GTZ)
+                      GmbH (German Association for Technical Cooperation)
+KEK                   The Power Company o f Kosovo
+KESH                  The Power Company o f Albania
+KfW                   Kreditanstalt fur Wiederaufbau (Bank for Reconstruction)
+NGOs                  Non-Governmental Organizations
+PMR                   Project Management Report
+QCBS                  Quality and Cost-Based Selection
+RFP                   Request for Proposals
+SCADA                 System Control and Data Acquisition
+SEE-REM               South East Europe-Regional Electricity Market
+TORS                  Terms o f Reference
+UNMIK                 UnitedNations InterimAdministration Mission in Kosovo
+USAID                 United States Agency for International Development
+
+                      WEIGHTS AND MEASURES
+
+        kV                    Kilovolt
+        kW                    EGlowatt
+        Mw                    Megawatt = 1,000 kilowatts
+        kWh                   Kilowatt hour
+        GWh                   Gigawatt hour = 1 million kWh
+
+
+                 Vice President:   Johannes F. Linn, ECAVP
+      Country ManagedDirector:     Orsalia Kalantzopoulos, ECCU4
+        Sector ManagerDirector:    Henk Busz, ECSIE
+Task Team Leader/Task Manager:     Mohinder Gulati, ECSIE
+                                                                        FOR OFFICIAL USE ONLY
+                                            KOSOVO
+                          ENERGY SECTOR TECHNICAL ASSISTANCE PROJECT I 1
+
+
+                                                      CONTENTS
+
+
+
+
+       A. Project Development Objective                                                            Page
+
+          1. Project development objective                                                           2
+          2. K e y performance indicators                                                            2
+
+       B. Strategic Context
+
+          1. Sector-related Country Assistance Strategy (CAS) goal supported by the project          2
+          2. M a i n sector issues and Government strategy                                           2
+          3. Sector issues to be addressed by the project and strategic choices                      9
+
+       C. Project Description Summary
+
+          1. Project components                                                                      10
+          2. K e y policy and institutional reforms supported by the project                         11
+          3. Benefits and target population                                                          12
+          4. Institutional and implementation arrangements                                           12
+
+       D. Project Rationale
+
+         1. Project altematives considered and reasons for rejection                                 13
+         2. M a j o r related projects financed by the Bank a n d o r other development agencies     14
+         3. Lessons learned and reflected in the project design                                      15
+         4. Indications o f recipient commitment and ownership                                       15
+         5. Value added o f Bank support in this project                                             15
+
+       E. Summary Project Analysis
+
+         1. Economic                                                                                 15
+         2. Financial                                                                                16
+         3. Technical                                                                                16
+         4. Institutional                                                                            16
+         5. Environmental                                                                            17
+         6. Social                                                                                   18
+         7. Safeguard Policies                                                                       19
+
+      F. Sustainability and Risks
+
+         1. Sustainability                                                                           19
+         2. Critical risks                                                                           19
+
+This document has a restricted distribution and may b e used b y recipients only in
+the performance of their official duties. I t s contents m a y n o t b e otherwise disclosed
+without W o r l d Bank authorization.
+   3. Possible controversial aspects                                                    20
+
+
+G. M a i n Conditions
+
+   1. Effectiveness Condition                                                           20
+   2. Other                                                                             20
+
+H. Readiness for Implementation                                                         20
+
+I.Compliance w i t h Bank Policies                                                      21
+
+
+Annexes
+
+Annex 1: Project Design Summary                                                         22
+Annex 2: Detailed Project Description                                                   25
+Annex 3: Estimated Project Costs                                                        30
+Annex 4: Cost Benefit Analysis Summary, o r Cost-Effectiveness Analysis Summary         31
+Annex 5: Financial Summary for Revenue-Earning Project Entities, or Financial Summary   32
+Annex 6: (A) Procurement Arrangements                                                   33
+          (B) Financial Management and Disbursement Arrangements                        37
+Annex 7: Project Processing Schedule                                                    40
+Annex 8: Documents in the Project File                                                  41
+Annex 9: Statement o f Loans and Credits                                                42
+Annex 10: Country at a Glance                                                           44
+                                                  KOSOVO
+                                 Energy Sector Technical Assistance Project I1
+
+                                    Project Appraisal Document
+                                        Europe and Central Asia Region
+                                                   ECSIE
+Date: May 8,2003                                       T e a m Leader: Mohinder P. Gulati
+Sector ManagedDirector: Henk Busz                      Sector(s): General energy sector (100%)
+Country ManagedDirector: Orsalia Kalantzopoulos        Theme(s): Conflict prevention and post-conflict
+Project ID: PO79019                                    reconstruction(P)
+Lending Instrument: Technical Assistance Loan (TAL)
+Project Financing Data
+[ ] Loan      [ ] Credit    [XI Grant      [ ] Guarantee       [ ] Other:
+For LoanslCreditslOthers:
+Amount (US$m): S1.50
+
+BORROWEWRECIPIENT                                                        0.00    1      0.00   I         0.00
+D A GRANT FOR POST-CONFLICT                                              0.00           1S O             1.50
+Total:                                                                   0.00           1S O             1.50
+
+
+
+
+     FY            2004       2005
+          Annual     1.oo       0.50
+    Cumulative       1.oo        1S O
+A. Project Development Objective
+
+1. Project development objective: (see Annex 1)
+Assist in (i)developing capacity for a commercially sustainable exchange o f power with the regional
+system, and optimizing utilization o f existing generation capacity through economic dispatch; and (ii)
+developing a framework for attracting private sector investment in the energy sector.
+
+2. K e y performance indicators: (see Annex 1)
+0   Timely preparation and acceptance o f a detailed feasibility study for a transmission interconnection
+    between Kosovo and Albania, and development o f commercially sustainable terms o f exchange o f
+    power with the neighboring power utilities.
+
+0   A bankable proposal for financing the establishment o f a dispatch center in Kosovo.
+
+0   Delivery and acceptance o f a satisfactory report on a policy, legal, regulatory, and institutional
+    framework for private sector investments in the energy sector.
+
+B. Strategic Context
+1. Sector-related Country Assistance Strategy (CAS) goal supported b y the project: (see Annex 1)
+Document number: R24275-KOS           Date of latest CAS discussion: July 25, 2002
+
+Following the Kosovo conflict, a Transitional Support Strategy for Kosovo (R99-178) and i t s supplement
+(R2000-130) supported a program o f post-conflict reconstruction and economic recovery up until
+CY2001. Continuation o f Bank assistance through the use o f IDA grants for the remaining period o f the
+reconstruction and recovery program (i.e. until end-2003) was endorsed b y the Executive Directors on
+July 25, 2002 with the Transition Support Strategy (R 24275-KOS). The overall objective i s to support
+sustainability o f the reconstruction and recovery program. The Bank would seek to maximize the impact
+o f the limited resources it can make available, by selective use o f grant funds to focus on poverty
+alleviation and limited budget support, and an extensive program o f analytical work. The Bank w i l l
+continue i t s donor coordination role. UNMIK has asked the Bank, and the Transitional Support Strategy
+(TSS) affirms, that the Bank should assist in putting the energy sector on a sustainable path. The
+proposed project, identified in the TSS, would follow up on the recently completed comprehensive
+sector study. I t would fund a feasibility study for priority investments in transmission, preparation o f a
+bankable project for a dispatch center, assistance in establishing optimal exchange with the neighboring
+systems, and preparation o f a framework for attracting private sector investment in the energy sector.
+
+2. M a i n sector issues and Government strategy:
+Introduction : Present Situation o f the Energy Sector. The Kosovo energy sector has suffered from
+conflict damage, loss o f mobile equipment, and lack o f maintenance and poor management dating back to
+before the conflict of 1998-99. Poor performance o f i t s thermal generation plants, a major accident
+caused by a landslide o f overburden at Bardh coal mine in November 2002, and a lightning-induced fire
+at Kosovo B (its main power generation plant), are manifestations o f years o f neglect in maintenance.
+The following provides a brief description o f the current situation o f the sector.
+
+Electricity.
+
+Generation assets are old and almost entirely lignite based. Electricity in Kosovo i s produced by two
+lignite-fired thermal power plants, Kosovo-A (comprising o f five units for a total capacity o f 800 MW,
+
+
+                                                   -2-
+mostly very old plants) and Kosovo-B (comprising o f 2 units o f 339 MW each, o f about 15 year vintage)
+and the Ujman hydropower plant (about 35 MW). After the recent lightning-induced fire accident at
+Kosovo B, a program o f i t s repair and rehabilitation i s under implementation. All the five units o f
+Kosovo A, and Kosovo B2 have been rehabilitated and rehabilitation o f Kosovo B 1 i s expected to be
+completed by July 2003. After completion o f this rehabilitation program, about 1000 MW o f maximum
+capacity (up from 620 MW currently available) i s projected to be available, though one should treat it
+with some caution due to unpredictable reliability o f old plants after repairs.
+
+Poor capacity utilization leads to shortages. Before the conflict, annual electricity generation was about
+4,500 GWh, which went down to about 1,900 GWh in 2000. Since then it has been steadily improved to
+about 2,600 GWh in 2001, and about 3,100 G W h in 2002. The energy consumption, constrained by
+supply shortages, has increased from about 2,900 GWh in 2000 to about 3,300 G W h in 2002. Only about
+53% o f the electricity supplied was billed in 2001 (technical and nontechnical losses were 47%) and only
+64% o f the amount billed was collected. In 2002, the losses came down to about 41%, and o f the 59%
+energy billed only 59% was collected.
+
+Adverse changes in consumer-mix. Over the last 10 years, the consumer m i x o f KEK has changed to i t s
+detriment- away from high value, high volume industrial consumers to subsidized and low voltage
+consumers such as households. The household share o f consumption increased from 26% to 75% and the
+share o f services increased from 7% to 13%, while industry’s share f e l l from 67% to 12%. The use o f
+electricity for heating accounts for about 64% o f the quantity supplied, and the monthly energy
+consumption in December i s almost two and half times that in July for the same reasons. The
+electrification rate in Kosovo i s close to 100% and KEK has about 360,000 customers.
+
+Network is in poor condition. The total length o f transmission lines (400, 220 and 110 kV) i s 1,162 km.
+Most o f the transmission lines are now in operation following post-conflict repairs, but the substations
+are s t i l l in bad technical condition. The transmission system i s interconnected with all the neighboring
+systems, and the 220 kV and 400 kV lines are important for power exchanges between the power systems
+o f the Second Synchronous Zone o f the Union for the Coordination o f Transmission o f Electricity
+(UCTE). The total length o f distribution lines i s about 29,000 km. Conflict damage affected about 30%
+o f the distribution network.
+
+Electricity supply and quality of service continues to be unsatisfactory. Inspite o f emergency
+rehabilitation o f generation plants and the network, Kosovo continues to suffer from severe shortages.
+Quite often the supply i s regulated to two hours o f black out for every four hour o f supply, thereby
+imposing huge economic costs. After some improvement in generation in the first half o f 2002, the fire
+accident at Kosovo B in July 2002 and a coal mine accident in November 2002 set back the gains o f
+initial improvements. Import o f electricity worth about US$ 19 million helped Kosovo meet peak
+requirements o f electricity for space heating during the winter months o f 2002-03, which i s not a
+sustainable situation. The quality o f supply also suffers due to poor maintenance o f the distribution
+network and poor operating practices. Customer service i.e. metering, billing, collection, response time
+to local technical faults, etc. i s also unsatisfactory and the power utility i s genreally not perceived to be
+responsive to customer complaints.
+
+Lignite.         Kosovo possesses one o f the most favorable and very large (about 10,000 million tons)
+lignite deposits in Europe. Prior to the conflict, the Mirash and Bardh mines produced about two-thirds
+o f their production capacity o f 16.7 million tons per year. Although there were no conflict-related
+physical damages in the mines, all mobile equipment had been taken out o f Kosovo by the end o f the
+conflict. Overburden removal had been neglected for years. As a result, the mining fronts were steep
+
+
+
+                                                     -3-
+and unstable. This led to a major accident in November 2002 in Bar& coal mine where, after a few days
+o f heavy rains, a landslide in the overburden led to extensive damage to equipment and closure o f the
+mine. There i s considerable smoldering o f coal remnants, caused by self-ignition. Despite actions taken
+since the conflict, with financing made available by the EAR and Germany to replace lost equipment and
+carry out urgent repairs, coal production was only about 5.5 million tons in FY 2002, which significantly
+constrains electricity generation capacity.
+
+District Heating.        District heating systems in Pristina, Gjakova and Mitrovica supply heated water
+from heavy fuel-oil fired boilers, meeting about 5% o f the heat demand in Kosovo. The Pristina system
+serves about 12,000 apartments, the Gjakova system about 700 apartments and the Mitrovica system
+about 160 apartments. The systems did not incur much damage during the conflict, but they have
+suffered from years o f neglect, lack o f maintenance and under-investment, combined with poor operating
+techniques. At the same time, the need for heat has increased since the large amount o f damage to
+houses in rural areas has led many people to move into the cities.
+
+Oil and Gas. Kosovo has no known indigenous o i l or gas resources and no o i l refinery. I t depends
+entirely on imported petroleum products, and consumes about 400,000 tons per year. A gasification plant
+at Kosovo A used to extract low calorie gas from lignite. The gas was used by local industries and some
+was shipped by pipeline to Skopje. The gasification plant and the Kosovo portion o f the gas pipeline are
+no longer functioning.
+
+Fuel Wood Fuel wood accounts for over 20% o f energy consumption in Kosovo, with the wood being
+used mainly for coolung and space heating by households. Fuel wood consumption i s about equal to the
+natural annual growth o f forest stock. When account i s taken o f non-energy demands for wood plus the
+possibility o f future increased demand for wood for energy use, there appears to be a potential problem
+o f increasing deforestation.
+
+Energy Sector Study.
+In accordance with a program for reconstruction and recovery in Kosovo agreed at a Donors' Conference
+in Brussels on November 17, 1999, a technical assistance project was financed by the World Bank Trust
+Fund for Kosovo to help develop a strategy for the energy sector.
+
+The technical assistance involved preparation o f an Energy Sector Study focusing on: (i)defining a
+least-cost investment program for rehabilitation, reconstruction and expansion o f the energy sector over a
+period o f 15 years; and (ii) preparing recommendations for institutional strengthening and the sector
+reforms. A draft report covering the 13 modules o f the study was presented in a seminar held in Pristina
+in September, 2002.        More than 100 participants representing UNMIK, donors, KTA, utility
+management, civic society, and the private sector participated. The recommendations o f the study were
+endorsed, and the report has since been finalized and accepted by UNMIK. The main issues identified by
+the study and i t s recommendations are as follows:
+
+Main Issues.
+
+Large needs for physical rehabilitation, reconstruction and expansion in the power and linked lignite
+sectors. W h i l e substantial investments have been carried out since the end o f the conflict, much more i s
+needed. Major future investments should be justified in terms o f an overall least-cost strategy for future
+sector development. Questions arise concerning the rate o f growth o f energy demand, especially
+electricity demand, and when to retire existing power generating units. If new generating units are
+chosen, should they be lignite power plants, hydropower plants, or perhaps gas-fired plants using
+
+
+
+                                                    -4-
+imported natural gas? Should Kosovo construct its own power dispatching system?
+
+Self-sufficiency vs. regional coordination in electricity supply. For meeting i t s peak demand, Kosovo i s
+confronted with a “make or buy” decision. Should Kosovo invest in i t s own generation plants or procure
+i t s power through trade with neighboring power systems? If so, what arrangements should be made to
+provide for this trade and what would the related investments be?
+
+The role of lignite. If the existing coal-fired power plants are rehabilitated and if new coal-fired plants
+are to be built, Kosovo’s constrained ability to get financing for the investments in domestic lignite
+production would be an issue. Another issue in lignite mining i s the potential for reducing cost o f
+domestic production by commercializing and improving efficiency and productivity o f mining
+operations.
+
+The role of district heating. Questions arise conceming whether the existing district heating systems are
+competitive with other forms o f energy, whether combined heat and power production would be a
+cost-minimizing option, and what fuels should be used to produce district heat.
+
+The possible role of natural gas. As mentioned above, Kosovo does not have domestic natural gas
+resources, nor does i t import gas. However, gas i s used in neighboring Serbia, the Former Yugoslav
+Republic o f Macedonia and Greece. Would it be economic to bring gas to KOSOVO,       and, if so, in what
+sectors and areas would the gas be best used, and what investments and institutional arrangements would
+it be desirable to make?
+
+Fuel substitution for heating. The main sources o f energy used for heating in KOSOVO,         especially by
+households, are fuel wood and electricity. The use o f f u e l wood i s polluting and can lead to
+deforestation. Electricity i s normally more expensive for heating than substitute forms o f energy, but in
+Kosovo i t s use has grown rapidly, in part because consumers have been able to get electricity at l i t t l e or
+no cost by by-passing their meters, making illegal connections and not paying their electricity bills.
+What forms o f energy, if any, are economically competitive with electricity and fuel wood in KOSOVO,
+and what measures should be taken to encourage them? In addition, what measures should be taken to
+provide incentives for energy efficiency, particularly in space heating, since the existing building stock as
+well as new construction are not energy efficient.
+
+Financial performance of KEK. I t s tariff structure i s differentiated by consumer category, level o f
+consumption and supply voltage, time o f use and season. Nominal tariffs per kWh range from equivalent
+o f U S cents 2.5 to 6 for high and medium voltage consumers respectively, and U S cents 6 to a marginal
+rate o f US cents 12.5 for residential consumers (higher tariff i s for consumption exceeding 800 kWh per
+month in winter at peak time). Average realization in 2002 was U S cents 5.4 per kWh. Though nominal
+tariffs levied by KEK are adequate to cover costs, it suffers from large technical and nontechnical losses.
+Illegal connections, tampering with meters, inefficient use o f electricity due to unmetered supply, and
+poor collection have led to poor financial performance o f KEK. I t s systems, business processes, and
+internal controls are also inadequate for a modem commercially oriented utility. After considerable
+delay, the audit o f KEK’s financial accounts has been recently completed and submitted by the auditors
+for management’s review.
+
+Environmental Issues. Environmental issues are important especially with respect to lignite mining and
+the burning o f lignite at Kosovo A and B. What standards should be adopted to regulate environmental
+impacts?
+
+Attractingprivate sector investment. Since vast deposits o f lignite are a major natural resource available
+in Kosovo, there i s a strong desire to utilize it for economic development. Kosovo does not have financial
+resources to develop coal mines and power plants, and therefore has to try to attract private capital. The
+most plausible opportunities are in inviting private investment in export oriented private power
+generation projects. However, the policy and legal framework for private investment, particularly in
+large infrastructure projects, i s either unclear or absent.
+
+The need to re-establish and further develop an institutional framework for the energy sector. At the end
+o f the conflict, there was virtually no administrative structure in KOSOVO,    and UNMIK temporarily
+assumed the role that elsewhere would be performed by a government. A government has now been
+established, which, for the time being, shares responsibilities with UNMIK but the energy sector i s a
+reserved subject and vests with the UNMIK. Immediately before the conflict, the Kosovo power system
+was managed from Belgrade. By the time the conflict ended, the local managers had left and the system
+data had been lost. UNMIK created the Power Company o f Kosovo (KEK) as a new power utility and
+re-established basic hnctions such as billing customers. While UNMIK has supervisory control over
+KEK and the other non-private energy sector companies, the issues concerning ownership o f assets are
+being clarified only gradually. The following sub-issues may be identified relating to institutional
+strengthening, creation and development in the energy sector:
+
+(i)     the nature and pace o f evolution o f a regulatory framework for the power and lignite, district
+heating and petroleum sub-sectors, and for natural gas in the event that gas i s imported;
+(ii) consistent with improvement in institutional capacity, evolution o f KEK and the other energy
+sector companies, including possible new ones (e.g. for petroleum and natural gas), towards greater
+autonomy, corporatization, commercialization and eventual competition and privatization; and
+(iii) the creation o f technical capacity and institutional framework (e.g. government body for policy
+development, transmission system operator, modern dispatch center) for compliance with the
+requirements o f South East Europe-Regional Electricity Market (SEE-REM) which Kosovo has joined in
+November 2002.
+
+Recommendations of the study
+
+Electricity.  On the basis o f the least-cost power generation investment program determined for the
+medium electricity demand growth scenario (based on GDP growth o f 6% per year), the additions to
+domestic generating capacity could be postponed to 2013 if an appropriate scheme o f electricity
+exchanges (export during non-peak hours and import during peak hours) can be established with
+neighboring systems, Kosovo's generation plants are rehabilitated, and transmission interconnection i s
+built. In the high growth scenario, additions to power generating capacity could be postponed to 2009.
+The power exchanges would require imports o f up to 300 MW while the exports can range between 210
+to 520 MW.
+
+The power transmission master plan identifies the need for substantial investments in substations and
+transmission lines. One question requiring further study concerns whether investments are needed for
+new transmission system interconnection facilities to accommodate the power exchanges identified as
+required in the least-cost power generation investment program. If the exchanges were with Serbia the
+existing transmission facilities would be sufficient. But i t i s doubtful whether Serbia would be able to
+provide sufficient electricity at as l o w cost as other sources such as Albania. Because o f i t s
+predominantly hydropower system, Albania would be able to supply electricity during peak periods as
+long as it i s compensated by a larger amount o f electricity during off-peak periods. However, carrying
+out the electricity exchanges with Albania would require the construction o f a new transmission line. An
+analysis done in the study finds that a 400 KV transmission line from Kosovo B to Kashar, Albania
+would be technically and economically preferable to either a new 220 kV interconnection between
+
+
+                                                   -6-
+Kosovo and Albania or a 400 kV interconnection between Podgorica, (Montenegro) and Kashar
+(Albania). However, this analysis would need to be confirmed using a broader regional approach. I t
+would also be desirable to determine the limits within which electricity exchanges would be profitable
+for the both power systems involved, in terms o f the quantity o f off-peak electricity which should be
+exchanged for a given amount o f peak electricity.
+
+The study recommends a new power dispatch system, including associated communication facilities.
+
+The largest investments proposed are for the power distribution system. The main work would consist o f
+carrying out a gradual transition from the 10 kV voltage level to the 20 kV voltage level together with a
+phase-out o f the 35 kV level. There would also be expenditures on meters for customers who are
+currently without them.
+
+Lignite. From among the various lignite production scenarios analyzed, the study recommends a scenario
+involving production o f about 7.5 million tons per year, initially from the existing Mirash West, Bardh
+and Brand mines, with exploitation o f the Mirash East Mine starting in 2005, then substitution o f lignite
+production by the new Sibovc mine in 2017. However, once the currently ongoing assessment o f the
+damage caused by the accident at Bardh mine, described in the previous section, i s concluded it may
+warrant a review o f these assumptions and opening o f Sibovc mine may become a priority. All o f the
+lignite except about 0.5 million tons per year would be used for power generation.
+
+District heating. The study proposes tailor-made district heating strategies for Pristina, Gjakova and
+Mitrovica. The strategies involve rehabilitation, upgrading and a modest number o f new connections.
+Consumers would be gradually provided with thermostatic radiator valves and heat allocators, and some
+consumers would be provided with hot tap water. Conceming the production facilities, if natural gas i s
+made available the least-cost solution would be to convert the existing fuel-oil fired boilers to natural gas.
+If gas i s not available the least-cost solution would be to continue with fuel oil.
+
+Natural gas. The study concludes that i t would not be economic to introduce imported natural gas to
+Kosovo at the present time. This finding i s not surprising given the absence o f demand for gas for power
+generation prior to 2013 and the relatively low demand in industry and district heating. Nevertheless the
+study recommends that the gas option be reviewed regularly since the situation could change due to
+changing relative energy prices on international markets, the emergence o f energy-intensive industry or
+possible interest in constructing transit gas pipelines through Kosovo.
+
+Fuel substitution. The study finds that heating o i l i s the least-cost form o f energy for space heating in
+households if natural gas i s not available. I t makes several recommendations to encourage the use o f
+heating o i l by households as a substitute for electricity and fuel wood. I t s various recommendations to
+reduce nontechnical losses o f electricity and improve bill collection would contribute to this goal.
+Recommendations on the petroleum side include: setting up new regulations concerning safety, security,
+environmental impacts, and other matters affecting the import, transportation, distribution and trade o f
+petroleum products; reducing taxes on heating oil; reallocating as much as possible o f the petroleum
+transportation to rail transport; establishing regular contacts with the Greek and Macedonian authorities
+in order to avoid high transit fees; and establishing a Competition Council to overview the functioning o f
+the petroleum market. The study also recommends the phased establishment over the period 2002-201 5
+o f a 90-day compulsory o i l stock in order to comply with requirements imposed on European Union
+members.
+
+Environment. Considerable attention i s paid to environmental issues. In the coal sector i t i s
+recommended to spend USS 1.8 million to extinguish the coal mines fires, and that all o f the 1,000
+
+
+                                                    -7-
+hectares o f outside dumps be reclaimed within 10 years, with the land being brought into cultivation and
+sold to the public. In the power sector i t i s proposed to take the necessary actions to reduce pollution
+nearly to the levels prescribed by EU standards for existing plants, except for smaller u n i t s o f Kosovo A
+which are expected to be phased out by 2007. This would involve: reducing dust emissions from Kosovo
+A3, A 4 and A5 to below 100 mg/Nm3,and to below 50 mg/Nm3from Kosovo B after January 2008;
+monitoring emissions o f dust and other pollutants; ensuring that the process water i s neutralized;
+rehabilitating ash transport; and considering measures to reduce N O x emissions if later investigations
+show these to exceed limits defined by EU directives. Flue gas desulfurization was not considered
+necessary because o f the relatively l o w sulfur content o f the coal and i t s relatively high rate o f bonding
+with ash and slag. Recommendations are made with respect to the application o f the principles o f
+sustainable forestry management, and energy conservation.
+
+The recommended investments are summarized below:
+
+                                           US$ million (Year 2002 Prices)
+                          2003-2005        2006-2010      2011-1015       Total
+Coal                        73                 16              3             92
+Total Power                267                193            24 1           69 1
+Power generation           39                 18              93           149
+Transmission               27                 27              26             80
+Distribution              177                145             122           444
+Dispatch                    14                 4               0             18
+District Heating           23                  11              3             37
+Petroleum                 - 12             9                 8                 28
+Total                     364                228               255              847
+
+Oil stock                  17                  8                 9               34
+
+The o i l stock (as opposed to the facilities to store the oil) i s assumed to be financed by the o i l companies.
+
+Policy framework for private investment.       The report suggests that in order to promote private
+sector investments, an appropriate policy framework should be created that should include laws and
+regulations to govem the investment process; institutions to manage the process; and the procedures to
+facilitate investments.
+
+Institutional and Reform Measures. The report proposes a number o f measures to improve efficiency,
+focusing especially on reducing nontechnical power losses and improving collections. I t recommends
+establishment o f production, transmission, and distribution o f power as separate cost centers, and
+reorganization o f the production division o f the coal mines. There are a number o f recommendations on
+establishing an effective and transparent regulatory framework for electricity, district heating and natural
+gas. The institutional recommendations were designed to comply, as far as possible, with the relevant EU
+directives.
+
+Tariff structure.          The current electricity tariff level and structure were found to be largely in line
+with the long-run marginal costs and the financial costs, requiring only minor modifications. The main
+sources o f KEK’s financial difficulties are considered to be extremely high technical and nontechnical
+losses, and a l o w bill collection rate. The study recommends a lifeline tariff block o f 100 k W m o n t h ,
+corresponding to the amount that would allow for lighting, basic appliances and a very limited use o f
+electricity for water heating and cooking. Different options are presented for financing the subsidy
+
+
+
+                                                      -8-
+involved in offering the lifeline block at a below-cost price. N e w tariffs are proposed together with a
+transition path.
+
+Government Strategy
+
+UNMIK will prepare and adopt an energy strategy based o n the recommendations o f the Energy Sector
+Study some o f which are described above. A Steering Committee comprising o f representatives o f PISG
+(senior representatives o f the Prime Minister, Minister o f Finance and Economy, Minister o f Trade and
+Industry, and Minister o f Environment and Spatial Planning), UNMIK, KTA, KEK, academia, NGOs,
+and the donors has been formed to develop the energy sector strategy which will be issued as 'I White
+Paper" o f the government. T o initiate discussion o f various complex issues that would be included in the
+strategy paper, a "Green Paper" has been prepared and disseminated for public consultation. A recently
+established division o f UNMIK (Energy Office and Central Regulatory Unit) will steer adoption o f this
+strategy and prepare an implementation plan. According to the current schedule, the "White Paper" i s
+expected to be issued for consultation by June 2003. The initial views o n the sector strategy emerging
+f r o m these discussions indicate that Kosovo wants t o integrate into regional market, adopt an approach o f
+regional development instead o f creating capacity w i t h i n Kosovo to become self sufficient, promotion o f
+IPPs, and implement institutional measures such as creation o f regulatory agency, restructuring o f KEK
+into separate cost centers and spinning o f f unviable business activities.
+
+3. Sector issues to be addressed by the project and strategic choices:
+As explained in the preceding section, the sector i s affected by several complex issues which can be
+addressed only in a phased manner. EAR i s fimding institutional development consultants for KEK,
+initially for a period o f two years. In KEK, the establishment o f cost centers, a new organization
+structure, clear definition o f j o b descriptions and s k i l l requirements, employee performance evaluation,
+are some o f the measures currently under implementation. The U S A I D funded consultants are helping in
+improvement in billing and collection through implementation o f a "customer care package". The
+Government i s keen to adopt policies and put in place the legal, regulatory, and institutional mechanisms
+that will help attract private investment in the energy sector, even if transactions are not imminent in the
+current political and economic environment since institutional changes require a long lead time for
+successful implementation. EAR i s also planning t o find technical assistance to UNMIK for
+operationalizing the recently established Central Regulatory Unit, defining the structure o f future
+Ministry o f Energy to which the authority for energy sector i s expected to be transferred by UNMIK, and
+o n institutional arrangements for dealing with energy efficiency issues.
+
+The proposed project will help in implementation o f K O S O Vstrategy        O~       o f intensifying regional
+integration in the sector. Three main issues w h i c h the proposed project seeks t o address through the
+provision o f technical assistance are: (a) finding the best solution t o meet peak power shortages through a
+more economic regional approach instead o f Kosovo investing in building its own expensive p e a l n g
+capacity, (b) better utilization o f i t s existing generation plants by establishing a modern dispatch center,
+and (c) preparation o f a framework for private sector investments in the energy sector.
+
+The Albania and the Kosovo systems are very complementary since Albania i s a predominantly hydro
+system while Kosovo i s a predominantly thermal system. Strengthening exchange o f power between
+them can be beneficial f o r both o f them. From the point o f v i e w o f Albania and Kosovo, this
+interconnection would result in the following benefits:
+
+0       Medium and long-term optimization o f hydrologic resources o f Albania;
+0       Reduction in the operating costs o f Kosovo power system due to better utilization o f thermal
+
+
+
+                                                     -9-
+power plants;
+0       Improvement in reliability o f electricity supply for customers as a result o f increase in generation
+availability, mitigation o f 'hydro risk' for the Albanian power system and the 'peak capacity risk' for the
+Kosovo power system;
+0       Reducing the projected necessary investments in installed generating capacity in both countries
+since the availability o f Albanian hydropower would reduce Kosovo's need to invest in peaking capacity
+and ancillary services, and the supply o f Kosovo thermal electricity to Albania ( in excess o f hydropower
+received) would reduce Albania's need to invest in base-load capacity;
+0       Strengthening the interconnected South East European network through establishment o f a new
+400 kV interconnection line which will increase exchanges and transactions o f electricity between other
+countries in the region, strengthening the regional electricity market (REM) operating under UCTE rules
+and the E C directives and regulations and consequently regional cooperation and stability.
+
+Kosovo i s obliged to establish a transmission system operator under an M o U that all the countries in the
+region signed in November 2002, for creation o f a regional electricity market (SEE-REM). Establishment
+o f a dispatch center w i l l facilitate creation o f a transmission system operator in Kosovo.
+
+C. Project Description Summary
+1. Project components (see Annex 2 for a detailed description and Annex 3 for a detailed cost
+breakdown):
+Three components identified on the basis o f the ESTAP-I Energy Sector Study (December, 2002) and
+discussions with the Recipient are: (i)     preparing a detailed feasibility report for a 400 kV transmission
+interconnection between Kosovo and Albania talung into account regional perspective, and developing
+an approach for commercially sustainable terms o f exchange o f power with the neighboring systems.
+The feasibility study w i l l be conducted in coordination with Albania; (ii)  preparing a bankable project for
+establishment o f a dispatch center in Kosovo; and (iii)assistance in developing a policy, legal,
+regulatory, and institutional framework for private investment in the energy sector. The Terms o f
+Reference for Component (iii)      are currently being developed. The TORSw i l l include, inter alia, a review
+from the perspective o f foreign private investors o f issues such as applicable commercial law, business
+registration, currency regime and profit repatriation; access to international finance and guarantees;
+applicable investment protection treaties; ownership o f property laws relating to securing o f obligations,
+concessions, leases and mortgages; energy sector regulation, licensing, energy trading, regulatory
+institution; labor laws affecting foreign private investment; dispute resolution systems; taxation
+(exporthmport duties, VAT, presumptive and profit taxes, personal income tax etc., municipal taxes,
+royalties); and applicable environmental regulation etc. A provision o f US$ 15,000 equivalent to meet the
+project audit costs for a period o f two years, and o f US$ 35,000 equivalent to meet the project
+incremental operating costs has been made, from the proceeds o f the Grant. Detailed description o f the
+components i s provided at Annexure 2.
+
+The estimated cost o f establishing a dispatch center could range from US$ 12 to 17 million, depending on
+the technical alternative selected. In a phased implementation program extending over a period o f three
+years, Kosovo may need about US$ 7-8 million for the first phase. Financing has not yet been arranged
+for this investment. EAR i s also providing some grant fimds for installation o f boundary meters and data
+acquisition system which w i l l be integrated into the dispatch center whenever i t i s established.
+Preliminary cost estimate o f the transmission line i s about USS 56 million o f which US$ 21 million i s for
+Kosovo and US$ 35 million for Albanian portion o f the line. This project has been included in the
+investment program proposed for funding under the Stability Pact. K f W has also indicated i t s interest in
+financing and w i l l like to use the proposed feasibility study for the purpose.
+
+
+
+                                                    - 10-
+                                                                Indicative                Bank-    % of
+                         Component                                costs      Yo of      Financing Bank-
+                                                                 (US$M)      Total       (US$M) financing
+ Regional Interconnection Component: Detailed feasibility           0.85        56.7        0.85         56.7
+ report for 400 kV connection between Kosovo B and
+ Kashar (Albania) and assistance in developing optimal
+ terms o f exchange o f power
+ Dispatch Center Project Component: Preparation o f a               0.25        16.7         0.25        16.7
+ bankable project for financing a dispatch center
+ Private Sector Participation Policy Component: Framewor            0.35        23.3         0.35        23.3
+ for private investment in the energy sector
+ Incremental Cost ( including project audit costs)                  0.05         3.3         0.05         3.3
+                                          Total Project Costs       1.50       100.0         1.50       100.0
+                                                                                                        ~....
+
+                                 Total Financing Reauirec
+
+2. Key policy and institutional reforms supported by the project:
+Adoption of a more beneficial regional approach for expansion. Kosovo needs to strengthen i t s
+participation in exchange o f power with the neighboring systems. Energy Sector Study has confirmed
+that the "self sufficiency" strategy for meeting its electricity requirements i s economically less
+advantageous than a "regional" strategy, if the terms o f exchange are mutually beneficial, and
+commercially sustainable. To foster development and reinforcement o f a Regional Electricity Market, it
+i s necessary to develop technical ability in the system, commercial agreements with trading partners, and
+institutional capacity in KEK. Kosovo i s a joint signatory, with other countries in the region, to an M o U
+for establishment o f a "South East Europe Regional Electricity Market" (SEE-REM) and its integration
+into the "European Union Internal Electricity Market". The project will help Kosovo partially comply
+with i t s obligations under the M o U and strengthen its integration into the regional market.
+
+Creation of capacity for power trading with neighboring systems. As explained in preceding sections,
+Albania and Kosovo systems are mutually complementary since the former i s predominantly hydro and
+the latter i s predominantly thermal system. Instead o f investing in expensive peaking thermal capacity, it
+i s beneficial for Kosovo to exchange i t s off-peak power with peak power from the hydro system o f
+Albania. Such an arrangement will benefit both systems. A 400 kV interconnection between Kosovo and
+Albania w i l l also allow higher power exchange, lower regional power losses, and mitigate some network
+congestion for transfer o f power from North to South o f the region.
+
+Economic dispatch of existing generation plants. Absence o f a data acquisition and control system in the
+utility leads to sub-optimal dispatch o f i t s generating capacity and management o f load. The old system
+acquired in the '80s was damaged in conflict and restoration o f this system can be expensive and
+uneconomic due to technological obsolescence. To optimize utilization o f i t s capacity and operation o f
+i t s transmission network a modern dispatch center i s almost a sine qua non for a utility. In addition, in
+future this control system will need to be connected to the neighboring control centers to improve power
+exchange.
+
+Framework for private sector investments in the energy sector. For a power-export led growth strategy,
+Kosovo needs to attract private sector investments. The project w i l l assist in identifying the
+requirements o f foreign private investor in large infrastructure projects; a general diagnostic review o f
+existing policy, legal, regulatory, and institutional arrangements to identify the gaps; and
+recommendations on alternatives that are most appropriate for Kosovo to meet the requirements.
+
+
+                                                   - 11 -
+Institutional development of KEK. Institutional capacity o f KEK t o operate as a modem, financially
+viable utility, in a commercial environment needs to be strengthened. EAR has provided funding for
+institutional development o f KEK for a period o f two years. During the supervision o f the project, the
+Bank will closely coordinate with the donors and the institutional development consultants.
+
+3. Benefits and target population:
+Kosovo will benefit from this assistance in four ways: (i)     detailed feasibility report for the proposed
+transmission interconnection will help it to prepare a bankable project and seek financing for this
+investment and strengthen further evolution o f regional electricity market, (ii)   the study o f the terms o f
+electricity exchange would help Kosovo to prepare for future negotiations and thereby contribute to
+reducing the costs t o Kosovo o f the power exchange, (iii)  preparation o f bankable project for a dispatch
+center w i l l help seek financing for this critical investment required t o optimize utilization o f its
+generating capacity and management o f i t s system, and comply with i t s obligations as a participant in the
+regional electricity market, (iv) create an enabling environment for attracting private sector investments.
+
+Strengthening exchange of power with Albania and other neighboring systems, can lead to deferment o f
+new expensive generation capacity for meeting peak loads, thereby reducing the fiscal burden and cost o f
+power to the consumers.
+
+4. Institutional and implementation arrangements:
+The grant w o u l d be given to UNMIK. UNMIK and Kosovo Trust Agency will be the implementing
+agencies.
+
+There will be a maximum o f three contracts for delivery o f technical assistance. The contract for
+preparation o f framework for private investment will be managed by the Energy Office o f UNMIK which
+has recently hired qualified professionals experienced in sector strategy and regulatory matters. A team
+comprising o f the Head o f Energy Office, Senior Economic Advisor o f UNMIK, Head o f Central
+Regulatory Unit, and Director o f Private Sector Development o f PISG, has been formed to be the
+counterparts to the consultants. The other t w o contracts will be managed by the energy division o f KTA,
+w i t h the assistance o f KEK and in coordination w i t h the Albanian power utility KESH. The decisions
+have been taken o n the structure o f the counterpart teams and the necessary technical s h l l s . Qualified
+staff will be selected from KEK for the counterpart teams.
+
+The project would be managed by KTA and the Energy Office o f UNMIK, w h o will be responsible for
+selection o f the consultants in accordance w i t h Bank guidelines, supervision o f their work, evaluation o f
+results o f the technical assistance, assistance in disbursements, and preparation o f follow-up actions,
+KEK will be fully involved in the studies. KEK will provide counterpart teams to work with the
+consultants, provide data, coordinate w i t h other utilities including Albanian counterpart KESH, and
+review the output o f the consultants. Project financial management will continue to be handled by an
+international financial manager and two assistants located in the MFE. The MFE will be responsible for
+the financial management and reporting requirements o f the project. The MFE has in place a financial
+management system that i s capable o f producing project management reports as required by the Bank.
+This system has already been utilized for other Bank funded projects. All payments from the IDA Grant
+will be made directly by the Bank and as a result n o special account will be opened. Based o n the
+documents prepared by KTA, a l l payments will be authorized by the MFE and UNMIK and submitted t o
+the Bank for payment, as per procedure t o be agreed with the Bank. The KTA will prepare a l l the
+relevant documents in support o f applications for withdrawal and obtain the required clearances and
+coordinate very closely with the MFE. F o r expenditure incurred to meet the project incremental
+
+
+                                                    -12-
+operating costs, disbursement w i l l be made through Statement o f Expenditure (SOE) procedure o f the
+Bank. Counterpart contributions, if any, will be made from Kosovo Consolidated Budget. UNMIK w i l l
+hire auditors, satisfactory to the Bank, for auditing the project accounts, including SOEs. The cost o f
+audit w i l l be paid through the Grant proceeds.
+
+The feasibility report for the transmission interconnection i s likely to take at least eight to ten months,
+though other reports can be finalized sooner. However, the transmission feasibility may require more
+time if the field survey o f more than 200 kilometer long route i s affected by adverse weather conditions
+in winter and unforeseen developments in security situation. Therefore, a project implementation period
+o f period o f eighteen months i s proposed with June 2005 as the closing date.
+
+D. Project Rationale
+1. Project alternatives considered and reasons for rejection:
+The utility i s operating in a survival mode and due to several years o f neglect o f maintenance it i s now
+focussing on rehabilitation o f the system. Due to a recent fire accident at the Kosovo B thermal
+generation plant, even the budgetary assistance meant for investment had to be diverted to pay for import
+o f electricity and repairing the damage. Investments required for FY 2003, including deferred
+investments, are about Euro 100 million. One o f the alternatives for use o f the proposed Grant would be
+to finance physical rehabilitation but this option was rejected since the available money (US$ 1.5
+million) i s too small relative to the total requirements to have much o f an impact.
+
+Due to preoccupation o f the utility and the Government with the day to day operations and dealing with
+the crisis situation, exacerbated by the accidents at its biggest and the best generating plant and a large
+coal mine, little work can be done by them on long term strategic issues. In addition, other donors are
+also providing only limited assistance to address strategic issues. UNMIK has sought Bank's help to put
+the sector on a more sustainable path on the basis o f its experience in the region and world wide.
+Therefore, the use o f limited grant funds for high priority technical assistance i s the preferred alternative.
+
+
+Several areas such as energy policy, taxation on o i l and gas (which i s leading to distortion in f u e l choices
+for heating), sector restructuring, preparation o f distribution master plan, power plant efficiency, energy
+savings in district heating, rehabilitation o f coal mines and reclamation o f dump areas o f mines, plan for
+fighting coal mine fire, renewable energy potential, were considered as candidates for technical
+assistance. However to get the "biggest impact o f the development dollars" technical assistance i s
+focussed on optimization o f resources on a regional basis. As explained in detail in section B-3, a 400 kV
+interconnection between Kosovo and Albania would not only benefit these two systems but also
+strengthen the regional electricity market. Therefore the choice o f a technical assistance program that
+would help create necessary technical, commercial, and institutional capacity in the utility to foster
+evolution o f regional electricity market and help optimize utilization o f resources available to the
+constituent systems o f the region.
+
+The recommended option i s to provide technical assistance to prepare a detailed feasibility report for a
+400 kV interconnection between Kosovo and Albania; develop optimal terms o f power trading with
+neighboring systems; establish a dispatch center in Kosovo; and assist in preparing a framework for
+attracting private investment.
+
+
+
+
+                                                     - 13-
+2. M a j o r related projects financed by the B a n k and/or other development agencies (completed,
+ongoing and planned).
+                                                                                      Latest Supervision
+              Sector Issue                               Project                        (PSR) Ratings
+                                           I                                      (Bank-finance     xojects only)
+                                                                                 Implementation     Development
+                                                                                  Progress (IP)     Objective (DO)
+ 3ank-financed
+ Zompleted:                                                                             S                 S
+
+
+ Ither development agencies
+ 'ower generation                           Germany (BMZ, KfW): spare
+                                            parts and consultancy for
+                                            Kosovo A3, A4 and A5.
+                                            Germany (BMZ, GTZ): supply
+                                            o f small-scale generating units.
+                                            Sweden: equipment and repairs
+                                            at Kosovo A and B.
+ 'ower transmission.                        Denmark: repair o f 400 kV,
+                                            220 kV and 110 kV lines.
+                                            Norway: repair o f 400 kV
+                                            lines.
+                                            United Kingdom: supply o f
+                                            vehicles.
+                                            Supply o f equipment and
+                                            repairs by: Denmark, EC
+                                            (EAR), France, Germany,
+                                            Japan, Norway, Spain, Sweden,
+                                            Swirzerland, United Kingdom,
+                                            United States.
+ 'ower sector institutional support         Germany (BMZ, GTZ, KfW):
+                                            capacity building, feasibility
+                                            study o f extending l i f e o f
+                                            KOSOVO    A3-A5.
+                                            United States: training,
+                                            establishment o f financial
+                                            management systems.
+                                            SIDA: Management and
+                                            Technical support to KEK.
+                                           I
+ '/DO Ratings: HS (Highly Satisfactory), S (Satisfactory), U (Unsatisfactory), HL Highly Unsatisk
+
+
+
+
+                                                      - 14-
+3. Lessons learned and reflected in the project design:
+Experience with Bank-financed o r Bank-managed technical assistance in other countries points to a need
+for careful and realistic planning o f the technical assistance and close monitoring o f the consultants in
+order t o ensure that the tasks are completed o n schedule. In the course o f implementation o f ESTAP-I,
+mechanisms f o r close coordination with various functional departments o f UNMIK, KTA, the utility,
+several donors active in energy sector in Kosovo, and the civic society have been established. The Bank's
+involvement in drafting clear and comprehensive Terms o f Reference, proposing realistic schedules,
+interim review o f consultant's work with counterparts, and coordination with donors was found t o be
+necessary for timely implementation o f the recently completed technical assistance project. The Bank
+will therefore b e closely involved in implementation o f the proposed project.
+
+To avoid delays in implementation, the activities for selection o f consultants will be carried out in
+parallel with project processing.
+
+In order to ensure that the technical assistance takes full account o f conditions in Kosovo, and that the
+results and recommendations are acceptable t o the Recipient and the beneficiaries, representatives o f
+UNMIK, KTA, PISG, and KEK will be actively involved in a l l stages o f the project. Close involvement
+of KEK with the consultants will help provide o n the j o b training t o the counterpart staff.
+
+4. Indications of recipient commitment and ownership
+UNMIK, KTA, Supervisory Board and the senior management o f KEK were fully involved in
+finalization and presentation t o the civic society and to the donor community, o f the findings and
+recommendations o f the consultants engaged for energy sector study. A "Green Paper", which i s a
+precursor o f the strategy and policy paper has been issued for public consultation. Regarding
+Kosovo-Albania interconnection, commitment o f the Government o f Albania, UNMIK, and the PISG has
+been stated in various public fora. A recent energy sector study (January 2003) o f Albania has also
+recommended Albania-Kosovo transmission interconnection as a prioirty investment. A proposal for
+investment in the proposed transmission line has been included in the Stability Pact investment program
+for the region.
+
+5. Value added of Bank support in this project:
+The Bank has extensive experience in supervising and monitoring studies and technical assistance o n the
+same topics in other transition countries, including in the Balkans. The Bank's close involvement in
+ESTAP-I, though effort intensive, has created institutional knowledge, has established its donor
+coordination role and i s looked upon for bringing domain knowledge and long term view o f the strategic
+sector issues in the region as w e l l as in Kosovo. This experience would enable the Bank t o provide useful
+advice during the phases o f finalization o f the terms o f reference, selection o f the consultants, carrying
+out o f the studies, and implementation o f the results. The Bank's involvement in the project would also
+help to attract well-qualified f i r m s as bidders and help ensure that they prepare sound proposals.
+
+E. Summary Project Analysis (Detailed assessments are in the project file, see Annex 8)
+- Economic (see Annex 4):
+1.
+   Costbenefit    NPV=USS million; ERR = % (see Annex 4)
+-
+I
+
+
+
+
+- Cost effectiveness
+   Other (specify)
+Formal codbenefit analyses are normally n o t done for technical assistance activities. An economic
+evaluation o f the three proposed studies i s not planned t o be carried out because o f the difficulty o f
+
+
+                                                   - 15-
+measuring and separating out the benefits o f the information provided by the studies from the overall
+expected benefits o f the projects that would make use o f the study results.
+
+2. Financial (see Annex 4 and Annex 5):
+NPV=US$ million; FRR = 940 (see Annex 4)
+         KEK will depend for several more years on subsidies to partially meet its operating costs, and on
+budgetary support for meeting i t s investment needs. The recent fire accident due to lightning strike at the
+Kosovo B generation plant (which i s the mainstay o f their generation) and the accident at Bardh coal
+mine, have affected adversely the recent trend o f improvement in financial performance o f KEK. As
+against electricity exports worth over Euro 10 million in the period prior to the fire in July, KEK had to
+import electricity worth about Euro 20 million during C Y 2002. KEK restricted imports to the extent o f
+the budgetary allocation made for the purpose and imposed supply restrictions to contain i t s financial
+losses. Plans, to be launched in summer, have been made for controlling theft and improving billing and
+collection.
+
+        SwedPowedKEK are in the process o f preparing a medium term business plan for KEK, and
+establishing systems for providing financial information to the senior management o f KEK. During the
+project processing, there would be no analysis o f the financial performance o f KEK. However during the
+implementation o f the project, financial performance o f KEK w i l l be monitored.
+
+Fiscal Impact:
+N.A.
+
+3. Technical:
+N o technical issues are anticipated.
+
+4. Institutional:
+
+
+4.1 Executing agencies:
+One o f the executing agencies would be the Energy Office o f UNMIK which has the responsibility for
+defining and implementing sector policies and long t e r m strategy for i t s development. The other would
+be K T A , which has the responsibility for the management oversight o f the public utilities in Kosovo,
+including the power company, and will implement the components related to the transmission
+interconnection and the dispatch center.
+4.2 Project management:
+The project would be managed by K T A and the Energy Office o f UNMIK, who will be responsible for
+selection o f the consultants in accordance with Bank guidelines, supervision o f their work, evaluation o f
+results o f the technical assistance, assistance in disbursements, and preparation o f follow-up actions.
+KEK will be fully involved in the studies and will coordinate with i t s Albanian counterpart KESH.
+
+For the private sector policy component, a counterpart team will be led by the Head o f Energy Office
+(UNMIK) and include the Senior Economic Advisor (UNMIK), the Head o f Central Regulatory Unit
+(UNMIK) and the Director, Private Sector Development (PISG) as members. For the other two
+components, K T A and KEK have taken decision on the structure and s k i l l requirements for the
+counterpart teams for which technically qualified staff will be drawn from KEK. Each o f these teams
+will be headed by a senior manager from the relevant department o f KEK and have three more members
+experienced in technical, telecommunication, and commercial matters. UNMIK has received a
+
+
+
+                                                   - 16-
+commitment from the Government o f Albania and i t s power utility KESH t o provide data, support for
+field survey, and availability o f counterparts for discussion.
+4.3 Procurement issues:
+There will be a maximum o f three consultancy contracts. The procedure for selection o f the consultants
+would be in accordance with the Quality and Cost-Based Selection (QCBS) procedure. The requests for
+proposals w o u l d be issued during project preparation, and the proposals received and evaluated before
+project approval, so that the contract could be awarded shortly thereafter. The evaluation teams will
+include representatives o f the Energy Office, KTA, KEK, and the Central Procurement Entity. KTA uses
+Bank's procurement procedures even for investments funded f r o m the Kosovo Consolidated Budget and
+has staff trained in the Bank's procurement procedures.
+4.4 Financial management issues:
+N o Country Financial Accountability Assessment (CFAA) has been carried out for KOSOVO,        although a
+customized CFAA i s planned in FY 2004. The Ministry o f Economy and Finance (MFE) under the
+auspices o f the UNMIK carries out public finance management in Kosovo. These activities were
+formerly carried out by the CFA, and were mostly transferred t o the MFE as o f December 3 1, 2002. T o
+ensure that expenditures are consistent with the amounts and purposes set out in the Kosovo
+Consolidated Budget, and t o prevent abuse and fraud, explicit administrative instructions and procedures
+have been developed by the MFE, which have to be followed in the commitment and expenditure o f
+public money. Policies and procedures have been reviewed and found acceptable to the Bank. Financial
+management review o f the projects administered by the MFE has been satisfactory and n o issues have
+been identified. Experience gained so far has been factored into the design o f the Energy Sector
+Technical Assistance Project-I1 project financial management arrangements.
+
+A review o f the Financial Management arrangements for the project was undertaken in February 2003 to
+determine whether the financial management arrangements within the MFE are acceptable to the Bank.
+This system i s capable o f providing accurate and timely information regarding project resources and
+expenditures, including planning, procurement accounting and financial reporting. The project chart o f
+accounts has been entered into the Free Balance System maintained by the MFE, and the project meets
+the Bank's minimum financial management requirements.
+5. Environmental:                        Environmental Category: C (Not Required)
+5.1 Summarize the steps undertaken for environmental assessment and E M P preparation (including
+consultation and disclosure) and the significant issues and their treatment emerging from this analysis.
+N o environmental issues are anticipated. The consultant's terms o f reference for the feasibility study o f
+the transmission line will include evaluation o f possible environmental impact o f each o f the alternatives
+t o be studied, and suggest inclusion o f environmental safeguards and public consultation while
+implementing the selected alternative.
+5.2 What are the main features o f the EMP and are they adequate?
+N o t applicable.
+5.3 For Category A and B projects, timeline and status o f EA:
+                  Date o f receipt o f final draft: N o t applicable
+
+5.4 H o w have stakeholders been consulted at the stage o f (a) environmental screening and (b) draft EA
+report on the environmental impacts and proposed environment management plan? Describe
+mechanisms o f consultation that were used and which groups were consulted?
+N o t applicable
+
+
+                                                     - 17-
+5.5 What mechanisms have been established to monitor and evaluate the impact o f the project o n the
+environment? Do the indicators reflect the objectives and results o f the EMP?
+N o t applicable
+6. Social:
+6.1 Summarize key social issues relevant t o the project objectives, and specify the project's social
+development outcomes.
+The detailed feasibility study for transmission line will include an assessment o f possible social impact in
+case any land needs to be acquired for the related sub-station, transmission towers, and the right o f way.
+These issues will be included in the consideration and evaluation o f options. The land acquisition
+procedures will be reviewed. A rigorous assessment o f social impacts would be required when detailed
+route planning and technical design i s prepared for implementation.
+6.2 Participatory Approach: H o w are key stakeholders participating in the project?
+The key stakeholders would be the UNMIK (Energy Office in particular), KTA, and KEK. They all
+participated in the project preparation, would w o r k directly with the consultants throughout the project
+implementation period, and provide most o f the data needed for the project. Assurance has been received
+by UNMIK and the PISG from the Government o f Albania for its participation and for support in
+conducting the feasibility study for the transmission line.
+6.3 H o w does the project involve consultations o r collaboration with NGOs o r other c i v i l society
+organizations?
+While making an assessment o f social impact as part o f feasibility study, the consultants would be
+required to consult w i t h the local population and w i t h the civic society representatives.
+6.4 What institutional arrangements have been provided to ensure the project achieves i t s social
+development outcomes?
+There are n o direct social development outcomes o f feasibility reports and institutional development o f
+the power utility.
+6.5 H o w will the project monitor performance in terms o f social development outcomes?
+
+
+
+
+                                                     - 18-
+N o monitoring mechanisms are proposed in view o f what i s stated in the preceding section.
+
+7. Safeguard Policies:
+
+
+
+
+7.2 Describe provisions made by the project to ensure compliance with applicable safeguard policies.
+
+
+
+F. Sustainability and Risks
+1. Sustainability:
+Sustainability o f the technical assistance require that the recommendations and training provided under
+the project i s effectively used. Detailed feasibility reports for the transmission and for the dispatch center
+w i l l help mobilize financing for these investments, if political stability and economic recovery continues.
+
+2. Critical Risks (reflecting the failure o f critical assumptions found in the fourth column o f Annex 1):
+                     Risk                        Risk Rating     I            Risk Mitigation Measure
+From Outputs to Objective
+Regional Interconnection Component:                   M           Adequate data i s available on power exchange,
+Lack o f data on power exchange, and                              through several regional studies, but not on
+sector development plans o f neighboring                          sector development plans o f neighboring
+systems; implementation not in                                    systems. Close coordination with Albania and
+accordance with contract provisions                               with the donors hnding investments o f the
+                                                                  neighboring utilities i s being ensured for
+                                                                  exchange o f relevant information. Standard
+                                                                  Bank contracts will be used for monitoring
+                                                                  performance o f the Consultants
+
+Dispatch Center Project Component:                   M            Same as above
+Same as above
+
+Private Sector Participation Policy                  M            Standard Bank contracts will be used for
+Component: Implementation not in                                  monitoring performance o f the Consultants
+xcordance with contract provisions
+From Components to Outputs
+
+
+
+                                                    - 19-
+All Components: Not selecting                       M           Bank's procurement procedure will be used.
+competent consultants and delay in award                        The implementingagencies have developed
+o f contract, non-availability o f                              capacity to solicit, evaluate, and select
+                                                                consultants using Bank's procurement
+                                                                guidelines;
+                                                                Counterpart team has been formed for
+                                                                component-In, for other two components
+                                                                availability o f counterpart teams w i l l be
+                                                                ensured before mobilization o f the consultants.
+
+Regional Interconnection Component:                 M           The Government o f Albania, UNMIK, and
+Lack o f support from the Government o f                        PISG have publicly stated, on several
+Albania and i t s power utility KESH for                        occasions, their strong support for the
+feasibility study o f the transmission                          transmission line. A written communication
+interconnection                                                 from the Government o f Albania expressing i t s
+                                                                interest and support for the study has been
+                                                                obtained.
+Overall Risk Rating                                 M
+
+
+
+3. Possible Controversial Aspects:
+None
+
+G. Main Loan Conditions
+1. Effectiveness Condition
+The standard Bank requirements, and submission by UNMIK o f legal opinion on the agreements
+executed by the Recipient and the executing agencies, shall apply.
+
+2. Other [classify according to covenant types used in the Legal Agreements.]
+    The MFE to have the project records, accounts and financial statements audited each year,
+    commencing with the accounts for the year ending December 31,2003.
+0   The M F E to maintain financial management arrangements satisfactory to the Bank.
+
+H. Readiness for Implementation
+-
+- 1. a) The engineering design documents for the first year's activities are complete and ready for the
+- start o f project implementation.
+I   1. b) Not applicable.
+-
+- 2. The procurement documents for the first year's activities are complete and ready for the start o f
+-      project implementation.
+- 3. The Project Implementation Plan has been appraised and found to be realistic and o f satisfactory
+       quality.
+1
+__ 4. The following items are lacking and are discussed under loan conditions (Section G):
+
+
+
+
+                                                   - 20 -
+I. Compliance with Bank Policies
+r
+       1. This project complies with all applicable Bank policies.
+1
+I
+
+
+
+
+ 2. The following exceptions to Bank policies are recommended for approval. The project complies
+         with all other applicable Bank policies.
+
+
+
+
+~~~~
+
+
+
+
+Mohind
+                     6&: :
+Team L                                      Sector ManagerlDirector
+
+
+
+
+                                                      -21 -
+                                            Key Performance               Data Collection Strategy
+ Hierarchy of Objectives                        Indicators                                                 Critical Assumptions
+Sector-related CAS Goal:             Sector Indicators:                Sector/ country reports:         (from Goal to Bank Mission)
+Support long-term strategy for       Detailed reports on feasibility                                    Willingness o f the key
+putting the sector on a              o f priority investments and      Implementation review            decision makers to implement
+sustainable path                     exchange o f power with           reports, and periodic progress the priority investments and o f
+                                     neighboring systems accepted      reports                        1 the neighboring utilities to
+
+                                                                                                        negotiate satisfactory
+                                                                                                        commercial arrangements.
+
+
+                                 I
+
+Project Development            IOutcome / Impact                       Project reports:                (from Objective to Goal)
+Objective:                      Indicators:
+Assist in (i)developing         Acceptance o f final reports           Implementation review          Effective implementation
+capacity for a commercially     and negotiation/ solicitation          reports, and periodic progress review and participation o f the
+sustainable exchange o f power documents;
+with the regional system, and
+optimizing utilization o f      Improved terms o f power
+existing generation capacity    exchange;
+through economic dispatch;
+and (ii)developing a            Strong interest by potential
+framework for attracting        donorsllenders in financing
+private sector investment in    transmission line and the
+the energy sector               dispatch center.
+
+
+
+
+                                                                 - 22 -
+                                                                                                         Critical Assumptions
+                                                                                                      from Outputs to Objective)
+Component:
+                                                                                                      ivailability o f data on power
+Regional Interconnection          acceptable to the client        reports, periodic progress          :xchange, and sector
+component: Prepared a                                             reports, final feasibility report   levelopment plans o f
+detailed feasibility report for a                                 for the transmission line and       ieighboring systems;
+400 kV transmission                                               report for terms o f power          mplementation in accordance
+interconnection and a report                                      exchange                            vith contract provisions
+describing the best
+arrangement o f power
+exchange with neighboring
+systems.
+
+                                Satisfactory project report and   Implementation review               mplementation in accordance
+Dispatch Center Proiect         solicitation documents            reports, periodic progress          vith contract provisions
+Component: Prepared a                                             reports, and final set o f
+bankable project report for                                       documents
+submission to the
+lendersldonors and technical
+documentation for inviting
+proposals for establishment o f
+a dispatch center.
+Private Sector Participation    Satisfactory report and           Implementation review               mplementation in accordance
+Policy Component:               acceptance o f action plan        reports, periodic progress          vith contract provisions;
+Framework report prepared                                                                             ivailability o f counterparts for
+for attracting private                                                                                liscussing the issues and
+investment in energy sector,                                                                          )ptions
+identifying issues and
+recommending options, and an
+action plan for addressing
+these issues
+
+
+
+
+                                                             -23-
+                                      Key Performance              Data Collection Strategy
+ Hierarchy of Objectives                 Indicators                                                Critical Assumptions
+Project Components I              nputs: (budget for each      'roject reports:             from Components to
+Sub-components:                   :omponent)                                                htputs)
+Regional Interconnection          JSS 0.85 million             mplementation review reports selection o f competent
+ComDonent: Prepare a detailed                                  .ndprogress reports          :onsultants and prompt award
+feasibility report for a 400 kV                                                             )fcontract; Support from
+connection between Kosovo B                                                                 3overnment o f Albania and its
+and Kashar (Albania), and                                                                   lower utility, KESH.
+assistance in developing terms
+o f exchange o f power with the
+neighboring systems
+
+Dispatch Center Proiect           IS$ 0.25 million             mplementation review reports Selection o f competent
+ComDonent:                                                     .nd progress reports         :onsultants and prompt award
+Develop for submission to                                                                   )fcontract
+potential lenders and donors a
+bankable project with
+technical specifications,
+financial and economic
+evaluation, cost estimates and
+financing plan, and
+institutional arrangements for
+implementation and operation
+o f a dispatch center
+
+
+
+Private Sector Particbation       JSS 0.35 million                 mplementation review reports Selection o f competent
+Policv ComDonent: Prepare a                                        md progress reports          :onsultants and prompt award
+policy, legal, regulatory, and                                                                  i f contract, formation o f an
+institutional framework for                                                                     nter-departmental counterpart
+private investment in the                                                                       :eam for the assignment
+energy sector
+
+
+
+
+                                                            -24-
+                                 Annex 2: Detailed Project Description
+                      KOSOVO: Energy Sector Technical Assistance Project II
+
+By Component:
+
+                       -
+Project Component 1 US$0.85 million
+      Regional Interconnection Component
+
+      The main tasks to be carried out by the consultants are:
+
+      T A S K A: Feasibilitv studv for a transmission interconnection between Kosovo and Albania
+
+         Carrying out network studies (load flow, short circuit, stability, insulation, etc.), to demonstrate
+network conditions after the 1st and the 2nd synchronous zones o f UCTE are re-interconnected, and with
+special attention to the following scenarios:
+       *         after the subject interconnection Project (Kosovo B - Kashar) i s implemented and
+       without the Podgorica-Elbasan line;
+       *         after the Podgorica-Elbasan line i s implemented and without the Kosovo B - Kashar
+       line;
+       *         after both above lines with Montenegro and Albania are implemented;
+       *         after all three lines under consideration are implemented (Le. including the proposed 400
+       kV line with F Y R O M and further 400 kV connection between Skopje (FYROM) and N i s
+       (Serbia))
+
+         All simulations should be done for the time horizon until 2020 and under various dispatch
+         scenarios o f the K E S H and the KEK system, respectively;
+
+         The proposed 400 kV interconnection between Kosovo and Albania should meet present and
+future exchange o f power between KEK and KESH as well as anticipated transits in the North-South
+corridor. In this regard, the consultants will:
+
+(a)      review existing reports related to the Project; and submit the analysis and results.
+(b)      review electric power demand forecast related to the proposed Project, and submit the analysis
+and results;
+(c)      review and update, if necessary, electric power exchange forecast scenarios Including but not
+limited to reports o f KfW, EKC, and SECI . between Kosovo and Albania related to the proposed Project,
+and submit the analysis and results;
+(d)      review basic parameters listed under Section 3, Description o f the Project, and submit the
+analysis and results.
+
+         Definition of the characteristics o f the line components (conductor, insulators, optic fibre ground
+wire, etc,) and o f the substations.
+
+        Technical-economic comparison of the following variants: single circuit, a double circuit with
+one circuit strung initially, and a double circuit with both strung initially taking into account the future
+power transfer needs between the two systems.
+
+         Identification o f network constraints that may hinder Kosovo’s integration into the regional
+electricity market and optimal power transfer in the interconnected system and propose remedial
+
+
+
+                                                    -25-
+measures to said constraints,
+
+e       Routing o f the line, in alternatives if applicable, including topographic survey in Kosovo and
+Albania.
+
+e       Determining amounts o f transfer on the proposed Project under existing networks conditions and
+by taking into account power generation development plans o f Kosovo and Albania. Simulation o f export
+oriented additional power generation capacities o f possible independent power producers in line with
+draft White paper o f Kosovo should be also modeled. However, only realistic power exchanges should
+serve as a basis for design o f the subject interconnection line.
+
+e       Measures that are required to be implemented to allow transfer to full optimized interconnector
+capacity.
+
+e     Propose principles and develop a model for an interconnection agreemenuarrangements between
+KEK and K E S H and for the tariff(s) to be adopted for the interchange o f power.
+
+e       Operation and maintenance o f the interconnection and mutual obligations o f KEK and KESH.
+
+e    Functionallpreliminary design and engineering, o f the line and substations, including
+communication requirements.
+
+e       Prepare design memorandahrief o f the Project.
+
+e        Detailed quantity and cost estimate with breakdown in local and foreign (EURO) currencies and
+interest during construction (maintenance equipment should be included). The cost estimate should be
+prepared on the basis o f prevailing prices and latest tendered unit prices for similar works at the time of
+preparation o f the estimate. The reference price level, currencies and exchange rates and their reference
+period, physical and price contingencies and basis thereof should also be furnished.
+
+e       Economic analysis o f the Project, including direct and indirect benefits for Kosovo and Albania,
+in quantitative and qualitative terms, resulting from bilateral electricity exchange under different
+scenarios and revenues from transit fees from third parties
+
+e      Development o f cross border trade rules and transparent interconnection capacity allocation
+method between Kosovo and Albania and for any third party access.
+
+e       Financial analysis o f the proposed transmission scheme, including proposed Project financing
+plan, and financial projections for KEK (source and application o f funds, income and expenditure
+statement, and balance sheet). The financial projections shall be prepared for each year from the
+beginning o f project construction to five years after i t s commissioning.
+
+e       Detailed implementation strategy for the interconnection.
+
+e      Implementation schedule covering following tasks: procurement strategy, schedule o f
+procurement actions up to award o f contracts, period o f preparation o f bidding documents per
+packagellot, detailed construction activities up to testing and commissioning.
+
+e       Identification o f critical factors that could affect Project implementation and success, and
+
+
+                                                   -26-
+assessment o f the Project’s sensitivity to them.
+   T A S K B: Terms o f exchange o f power with the neighboring utilities
+
+The main tasks o f the consultants shall be:
+
+0       review and comment among others on the following:
+
+(a)     the present and near term loads and supply resources in Kosovo, including the operating
+characteristics o f the generating units;
+(b)     after including applicable transit costs, the most cost effective generating resources available
+outside o f Kosovo and on a regional basis,             regarding which there may be physical power
+exchanges or other transactions, such as power purchases;
+(c)     the power requirements o f entities outside Kosovo that may become customers o f power from
+Kosovo;
+(d)     the existing commercial arrangements, including matters related to the creditworthiness o f
+contracting parties, as well as reasonably likely       changes to such arrangements;
+
+0      define and describe the transactions, including coordinated dispatch, and contractual
+arrangements that might be beneficial to Kosovo at present and in the near term;
+
+0       define and describe the key contractual principles for the various types o f transactions;
+
+0       define and describe the risks that may be present in the different types o f transactions;
+
+0      define heads o f terms o f an illustrative contract for exchange o f power, and provide some
+samples o f similar contracts;
+
+0       discuss methods for evaluating contracts as part o f the overall supply planning strategy;
+
+0       discuss the development within KEK o f a team that would be responsible for identifying the
+possible transactions, analyzing the possibilities, and finalizing the contracts.
+
+0       define the institutional arrangements to be implemented for carrying out power exchange. These
+arrangements include organizational structure, functions, responsibilities, staffing, staff training
+including visits to electric utilities with recognized power exchange practices, budget, and reporting
+requirements.
+
+                     -
+Project Component 2 US$0.25 million
+Dispatch Center Project Component
+
+The main tasks o f the consultants shall be:
+0       review the existing reports related to the Project, and submit the analysis and results.
+0       comparison o f the S C A D N E M S with power line camer communication network with
+SCADNEMS with optic fiber communication network, and submit analysis and results.
+0       detailed definition o f SCADAEMS, Communication Network and RTUs to be implemented
+under each stage for the KCS and EKCS (refer to the Power Dispatch System Plan Report, Module E).
+0       define the procurement packages for the works to be undertaken in accordance with the program
+of implementation o f project (one stage or phased).
+0       assist in final selection from among the technical alternatives proposed by ESTAP-I consultants
+
+
+
+                                                    -27-
+and finalize the technical specifications (with reference to the Power Dispatch System Plan Report o f
+ESTAP-I study). The technical specifications w i l l have to take into account the commercial agreements
+for the optimal exchange o f power with neighboring country systems and monitoring o f exchange o f
+power in relation to the commercial agreements for the purpose o f settlement o f accounts between
+trading partners. The technical specifications w i l l also include the software requirements for such
+purpose. The Consultant should assess the requirements in consultation with the consultants engaged for
+developing the terms o f power exchange.
+0        detailed quantity and cost estimate with breakdown in local and foreign currencies and interest
+during construction for the total project and for each stage. The cost estimate should be prepared on the
+basis of prevailing prices and the latest tendered unit prices for similar works at the time o f preparation
+of the estimate. The reference price level, currencies and exchange rates and their reference period,
+physical and price contingencies and basis thereof should also be furnished.
+0        economic analysis o f the project.
+0        financial analysis o f the project, including proposed project financing plan, and financial
+projections for KEK (source and application o f funds, income and expenditure statement, and balance
+sheet). The financial projections shall be prepared for each year from the beginning o f project
+construction to five years after i t s commissioning.
+0        implementation schedule including procurement strategy (two-stage bidding, one turnkey
+package under single responsibility) and schedule o f procurement actions up to award o f contracts,
+preparation o f bidding documents, detailed construction activities, testing and commissioning, and
+arrangements for these tasks, prepare complete bidding documents excluding commercial terms.
+e        definition o f the institutional arrangements to be implemented for the proper operation o f the
+KCS and EKCS. These arrangements include organizational structure, functions, responsibilities,
+staffing, staff training, budget, and reporting requirements required to ensure reliable and secure
+integrated grid operation and for achieving economic and efficiency in the operation o f the national
+system.
+0        identification o f critical factors that could affect project implementation and success, and
+assessment o f the project’s sensitivity to them.
+
+
+
+
+                                                   - 28 -
+                      -
+Project Component 3 US$0.35 million
+Private Sector Participation Policy Component
+
+The m a i n task o f the consultants shall be to review the existing policy, legislative, regulatory, and
+institutional framework governing private investment in Kosovo with the a i m to identify bottlenecks
+f r o m the perspective o f foreign private investment in energy sector, suggest alternatives and recommend
+an action plan to address the issues identified through the review. The detailed terms o f reference are
+currently under preparation and will be reviewed with the assistance o f Bank's PSD specialists. The
+TORS will include at a minimum, a review o f foreign investment regime in Kosovo ( applicable law,
+business registration, currency regime and profit repatriation, energy trading); access to international
+finance and guarantees; applicable investment protection treaties; ownership o f property, laws relating to
+securing o f obligations, concessions and leases; energy sector regulation, licensing, regulatory institution;
+labor laws affecting foreign private investment; dispute resolution systems; taxation ( export/ import
+duties, VAT, presumptive and profit taxes, personal income tax etc., municipal taxes, royalties); and
+applicable environmental regulation etc.
+
+
+
+
+                                                   - 29 -
+                                            Annex 3: Estimated Project Costs
+                       KOSOVO: Energy Sector Technical Assistance Project II
+
+                                                                                                Local                 Foreign                 Total
+                       Project Cost By Component                                              US $million            US $million            US $million
+Regional Interconnection Component: Feasibility study for a                                      0.00                      0.85                 0.85
+Kosovo-Albania transmission interconnection and terms o f
+exchange o f power
+Dispatch Center Project Component: Preparation o f a bankable                                       0.00                   0.25                   0.25
+project for the dispatch center
+Private Sector Participation Policy Component: Framework for                                        0.00                   0.35                   0.35
+private investment in energy sector
+Incremental Cost (project audit cost)                                                               0.00                   0.05                   0.05
+Total Baseline Cost                                                                                 0.00                   1S O                   1.50
+ Physical Contingencies                                                                             0.00                   0.00                   0.00
+ Price Contingencies                                                                                0.00                   0.00                   0.00
+                                      Total Project Costs'                                          0.00                   1.50                   1S O
+                                 Total Financing Required                                           0.00                   1S O                    1.50
+
+                                                                                                Local                 Foreign                 Total
+                        Project Cost By Category                                              US $million            US $million            US $million
+Goods                                                                                                 0.00                     0.00                   0.00
+Works                                                                                                 0.00                     0.00                   0.00
+Services                                                                                              0.00                     1.50                   1S O
+Training                                                                                              0.00                     0.00                   0.00
+                                                       Total Project Costs
+                                                                                        1
+                                                                                                      0.00                     1S O                   1.50
+                                                  Total Financing Required                            0.00                      1.50                   1.50
+
+  1
+    Identifiable taxes and duties are 0 (US$m) and the total project cost, net o f taxes, is 1.5 (USSm). Therefore, the project cost sharing ratio is 0% of
+  total project cost net o f taxes.
+
+
+
+
+                                                                    - 30 -
+    Annex 4Cost Benefit Analysis Summary, or Cost-EffectivenessAnalysis Summary
+             KOSOVO: Energy Sector Technical Assistance Project I1
+Not Applicable
+
+
+
+
+                                       -31 -
+                                    Annex 5: Financial Summary
+                      KOSOVO: Energy Sector Technical Assistance Project II
+
+                                                           IMPLEMENTATION PERIOD
+                           I Year1 I Year2 I Year3 I Year4 1 year5 I Year6 I Year 7
+Total Financing Required
+ Project Costs
+ investment Costs                 1.o       0.5              0.0       0.0         0.0   0.0   0.0
+ Recurrent Costs                  0.0       0.0              0.0       0.0         0.0   0.0   0.0
+Total Project Costs               1.o       0.5              0.0       0.0         0.0   0.0   0.0
+Total Financing                   1.o       0.5              0.0       0.0         0.0   0.0   0.0
+Financing
+  IBRDliDA                        1.o       0.5              0.0       0.0         0.0   0.0   0.0
+ Total Project Financing          1.o       0.5              0.0       0.0         0.0   0.0   0.0
+
+
+Main assumptions:
+
+
+
+
+                                                  - 32 -
+                             Annex 6(A): Procurement Arrangements
+                       KOSOVO: Energy Sector Technical Assistance Project II
+
+Procurement
+Procurement will comprise o f three consulting contracts and a contract w i t h an auditor. Kosovo Trust
+Agency will carry out the procurement in accordance with the Bank procurement guidelines. The
+project components not financed by the Bank would be procured in accordance with the national
+regulations or the co-financing institutions procurement regulations. The estimated cost i s summarized in
+Tables A and A1 o f Annex 6. A procurement plan i s presented in Table C o f Annex 6. All other
+procurement information i s presented in Table B o f Annex 6.
+Procurement methods (Table A)
+
+The consulting f i r m s will be selected and contracted in accordance w i t h the Guidelines ( Guidelines:
+Selection and Employment o f Consultants by W o r l d Bank Borrowers, January 1997, September 1997 and
+January 1999, and M a y 2002). The Quality-and-Cost-Based Selection Method shall be used in the
+selection o f firms.
+
+The invitation o f expression o f interest for consulting f i r m s shall be published in the Development
+Business o f the United Nations.
+
+The process o f procurement will be conducted by KTA ( procurement unit in Finance department) with
+the assistance o f Evaluation Committees ( for shortlist, evaluation o f technical and financial proposals).
+The contracts will be reviewed by Office o f Legal Advisor o f UNMIK, and signed by UNMIK (Deputy
+Special Representative o f the Secretary General). Furthermore, KTA has staff who handle procurement
+for a l l projects financed by donors o r through the Kosovo Consolidated Budget. They follow the W o r l d
+Bank procedures. In addition, the person who will handle TA project, has attended the Bank's training
+program in procurement and i s familiar with guidelines for procurement o f consultants. In the Energy
+Division o f KTA also, the Manager and the staff who will handle this project are the same staff who
+handled ESTAP-I. Based o n this, the procurement-related risk i s considered low.
+                           Table A: Project Costs by Procurement Arrangements
+                                            (US$ million equivalent)
+
+                                                                     Procurement Method'
+
+
+
+
+     Figures in parentheses are the amounts t o b e financed by the B a n k Grant. Ail costs include contingencies.
+*(   Includes c i v i l works and goods to b e procured through national shopping, consulting services, services o f contracted
+     staff o f the project management office, training, technical assistance services, and incremental operating costs related
+
+
+
+
+                                                            - 33 -
+      managing the project, and (ii)
+t o (i)                            re-lending project funds to local government units.
+
+
+
+
+                                                     - 34 -
+                                                                            Selection Method
+     Consultant Services
+     Expenditure Category          QCBS         QBS          SFB             LCS          CQ          Other        N.B.F.       Total cost'
+A. Firms                            1.45         0.00         0.00           0.02         0.00         0.00         0.00           1.47
+                                   (1.45)       (0.00)       (0.00)         (0.02)       (0.00)       (0.00)       (0.00)         (1.47)
+B. Individuals                      0.00         0.00         0.00           0.00         0.00         0.00         0.00           0.00
+                                   (0.00)       (0.00)       (0.00)         (0.00)       (0.00)       (0.00)       (0.00)         (0.00)
+                       Total        1.45         0.00         0.00           0.02         0.00         0.00         0.00           1.47
+                               I   (1.45)   I   (0.00)   I   (0.00)     I   (0.02)   I   (0.00)   I   (0.00)   1   (0.00)   I     (1.47)      I
+I\
+     Including contingencies
+
+              Note: QCBS = Quality- and Cost-Based Selection
+                    QBS = Quality-based Selection
+                    SFB = Selection under a Fixed Budget
+                    LCS = Least-Cost Selection
+                    CQ = Selection Based on Consultants' Qualifications
+                    Other = Selection of individual consultants (per Section V of Consultants Guidelines), Commercial
+                    Practices, etc.
+                    N.B.F. = Not Bank-financed
+                    Figures in parentheses are the amounts to be financed by the Bank Grant.
+
+
+
+
+                                                               - 35 -
+    Prior review thresholds (Table B)
+
+
+
+
+                                          Contract Value                                             Contracts Subject to
+                                            Threshold                       Procurement                 Prior Review
+      Expenditure Category               (US$ thousands)                      Method                    (US$ millions)
+    1. Works
+
+
+   I*. Goods
+   13. Services
+                                   II           200
+                                                                     II        OCBS
+                                                                                                II           1.45
+                                                                                                                             I1
+   14. Miscellaneous               I                                 I                          I                            I
+    5. Miscellaneous
+    6. Miscellaneous
+
+                       Total value of contracts subject to prior review:          US$ 1.45 million
+                               Overall Procurement Risk Assessment:         Low
+             Frequency of procurement supervision missions proposed:        One every 12 months
+                                                                            (includes special procurement supervision
+                                                                            for post-review/audits)
+         Procurement staff assigned to the Project: Leonid Vanian, ext. 84796
+          Retroactive financing: N o
+
+
+         1        1 2          3          4          5                                 6. Estimated dates
+                         # o f sliced Estimated Procurement Prequallficatlon (BDRFP)             Bid      Contract    Contract
+                           items/     cost, US$ Method           ISL         preparation     1 Invitation
+                                                                                                          signing    Zompletion
+                                                                                           GPNiSPNILocal
+                                                                ~
+
+
+
+
+                         sub-packag thousand                GPNISPNILocal                    2 Opening
+                              es                              2 Opening                    3 Eval&Recom
+                                                              3 Eva1 &Recom                  Award
+
+
+                             1          850        QCBS       04/29/2003      05/30/2003   06/02/2003   08/02/2003 12/31/2004
+Regional                                                      0511612003                   06/27/2003
+Interconnectio                                                0513012003                   07/25/2003
+n Component
+                             1          250        QCBS       05/06/2003      06/06/2003   06/09/2003   08/09/2003 1213112004
+Center Project                                                05/23/2003                   07/03/2003
+                                                              06/06/2003                   08/01/2003
+                             1          350        QCBS      0511 112003      06/13/2003   06/16/2003   08/16/2003 1213112004
+Participation                                                05/30/2003                    07/10/2003
+  Policy                                                     0611312003                    08/08/2003
+
+                             1          15            LCS     01/25/2004      03/01/2004   03/01/2004   05/15/200L 1213112004
+    Audit                                                     0211512004                   03/31/2004
+                                                              0310 112004                  04/30/2004
+
+
+   “Thresholds generally differ by country and project. Consult “Assessment o f Agency’s Capacity to Implement
+    Procurement” and contact the Regional Procurement Adviser for guidance.
+
+
+
+
+                                                            - 36 -
+            Annex 6(B): Financial Management and Disbursement Arrangements
+                 KOSOVO: Energy Sector Technical Assistance Project It
+
+Financial Management
+1. Summary o f the Financial Management Assessment
+1.1 Country Issues.
+No Country Financial Accountability Assessment (CFAA) has been carried out for Kosovo, and n o
+C F A A i s planned for the near future. The Ministry o f Finance and Economy (MFE) under the auspices
+of the UNMIK carries out public finance management in Kosovo. These activities were formerly carried
+out by the C F A and were mostly transferred to the MFE as o f December 31, 2002. T o ensure that
+expenditures are consistent w i t h the amounts and purposes set out in the Kosovo Consolidated Budget,
+and to prevent abuse and fraud, explicit administrative instructions and procedures have been developed
+by the MFE, which have to be followed in the commitment and expenditure o f public money. Policies
+and procedures have been reviewed and found acceptable to the Bank. Financial management review o f
+the projects administered by the MFE has been satisfactory and n o issues have been identified.
+Experience gained so far has been factored into the design o f the Energy Sector Technical Assistance
+Proj ect-II project financial management arrangements.
+
+1.2     Strengths and Weaknesses.
+Significant strengths that provide a basis for reliance o n the project financial management system
+include: (a) the experience o f implementing Bank financed Grants that the accounting team in the MFE
+has; and (b) the unqualified audit reports and the positive management letters issued by the auditors o n
+the projects covered by the MFE. N o significant weaknesses have been noted.
+
+1.3     Implementing Entity.
+The project would be managed by KTA and the Energy Office o f UNMIK, w h o will be responsible for
+selection o f the consultants in accordance w i t h Bank guidelines, supervision o f their work, evaluation of
+results o f the technical assistance, assistance in disbursements, and preparation o f follow-up actions.
+KEK will be fully involved in the studies and will coordinate with its Albanian counterpart KESH.
+Project financial management will continue to be handled by an intemational financial manager and two
+assistants located in the MFE. The MFE will be responsible for the financial management and reporting
+requirements o f the project. The MFE has in place a financial management system that i s capable o f
+producing project management reports as required by the Bank. This system has already been utilized for
+other Bank funded projects.
+
+1.4      Funds Flow.
+All payments f r o m the IDA Grant will be made directly by the Bank and as a result n o special account
+will be opened. Based o n the documents prepared by KTA, a l l payments will be authorized by the MFE
+and UNMIK and submitted to the Bank, as per procedures t o be agreed with the Bank. KTA will prepare
+all the relevant documents in support o f applications f o r withdrawal and obtain the required clearances,
+and coordinate very closely with the MFE. Counterpart contributions, if any, will be made by the K C B .
+For incremental operating expenditure, SOE procedure will be used and reimbursement claimed f r o m the
+proceeds o f the grant.
+
+1.5     Staffing.
+The accountant and Disbursement officers are familiar with financial and accounting systems as w e l l as
+with Bank requirements. The experienced has been gained through implementation several Bank
+financed Grants The accountant would be responsible f o r a l l aspects o f the financial management and
+accounting, including maintaining books o f accounts, reporting day-to-day transactions. She will also be
+
+
+
+                                                   - 37 -
+in charge o f the preparing the FMRs.
+
+1.6   Accounting Policies and Procedures.
+The MFE will take all necessary steps to ensure that the project complies with the relevant Bank policies
+(OP/BP 10.02). The MFE procedures and policies have been reviewed by the Bank and found acceptable
+
+1.7    Internal Audit.
+Not applicable.
+
+
+
+
+Audit Report                                       Due Date
+Project                                            June 30,2004
+SOE                                                June 30,2004
+
+
+1.9     Reporting and Monitoring.
+The MFE w i l l maintain accounts o f the Project and will ensure appropriate accounting o f the funds
+provided. The MFE has been preparing PMRs for several on-going Bank financed projects. These
+reports have been timely and o f good quality. The mission agreed with the MFE to maintain the same
+reporting formats (for consistency) for this project, although the name would change to FMR. The MFE
+will be responsible for preparing FMRs on a quarterly basis. The FMRs w i l l include:
+
+0       Project Sources and Uses o f Funds
+0       Uses o f Funds by Project Activity
+0       Special Account Statement Plus Local Bank Account Statement
+0       Project Progress Reporting
+0       Procurement Reporting
+
+1.10      Information Systems.
+The MFE has in place a financial management system acceptable to the Bank. The MFE consolidate
+payments and receipts o f all line ministries and municipalities, through i t s accounting system. The chart
+o f accounts i s based on the GFMIS. As the participants under the project fall under the umbrella o f the
+KCB, all project related payments would be made via the STA, and the accounts would be maintained as
+part o f the MEF’s accounting system. The MFE is already producing PMRs for several Bank financed
+Grants.
+
+1.11 Disbursement Arrangements.
+Disbursements from the Grant w i l l consist o f direct payments and against Statement o f Expenditure for
+the incremental operating costs and as a result no SA w i l l be opened. The proceeds o f the Grant w i l l be
+allocated in accordance with Table C, Annex 6. The option to move to a FMR based disbursements w i l l
+not be considered.
+
+
+                                                    - 38 -
+1.12    Action Plan
+The project chart o f accounts will be entered into the Free Balance System.
+
+1.13 Supervision Plan
+The reports o f the progress o f the project implementation will be monitored in detail during supervision
+missions. FMRs will be reviewed o n a quarterly basis by the field based F M S and the results or issues
+followed up during the supervision missions. Audit reports o f the project will be reviewed and issues
+identified and followed up. The field based F M S would monitor the agreed action plan t o ensure
+appropriate actions have been implemented by the MFE.
+2. Audit Arrangements
+Kosovo Consolidated Budget and accounts o f KTA are audited by external auditors. UNMIK will hire
+auditors, satisfactory to the Bank, for auditing the project accounts, including SOEs. The cost o f audit
+will be paid through the Grant proceeds.
+3. Disbursement Arrangements
+Based o n the documents prepared by KTA, all payments will be authorized by the MFE and UNMIK and
+submitted to the Bank. KTA will prepare a l l the relevant documents in support o f applications for
+withdrawal and obtain the required clearances and coordinate very closely with the MEF. Counterpart
+contributions, if any, will be made by the K C B . Disbursement for incremental operating costs will be
+through Statement o f Expenses. N o Special Account i s envisaged.
+Allocation of grant proceeds (Table C)
+
+                                Table C: Allocation of Grant Proceeds
+
+
+
+ Services (consulting)                                1.47                              100
+lhcremental Oueratine Costs                 I         0.03           I                  100                  I
+I                                           I         0.00           I                                       I
+ITotal Project Costs with Bank Financing1              1.50          I                                       I
+ITotal                                      I          1.50          I                                       I
+The financing percentage indicated in the Table above will be applicable only for foreign consultants.
+For local consultants, if any, standard disbursement percentage for Kosovo shall be applicable.
+
+    Use of statements of expenditures (SOEs):
+All incremental operating costs, as approved by the Association on the basis of budgets acceptable to the
+Association
+
+Special account:
+
+
+
+
+                                                  - 39 -
+                                  Annex 7: Project Processing Schedule
+                     KOSOVO: Energy Sector Technical Assistance Project II
+
+    Project Schedule                                              Planned               Actual
+    Time taken to prepare the project (months)                6
+I First Bank mission (identification)
+~
+                                                   I          09/08/2002           I   09/08/2002   I
+    Appraisal mission departure                               04/28/2003               05/05/2003
+    Negotiations                                              05/07/2003               05108l2003
+    Planned Date of Effectiveness                             0713 112003
+I                                                  I                                                I
+
+
+
+Prepared by:
+
+
+
+    Preparation assistance:
+
+
+    Bank staff who worked on the project included:
+             Name                                        Speciality
+    Mohinder Gulati                       Task Team Leader
+    Ifiikhar K h a l i l                  Lead Energy Specialist
+    Richard E. Hamilton                   Consultants, Economist
+    Ramon Lopez Rivera                    Consultant, Power Engineer
+    Leonid Vanian                         Procurement Specialist
+    Hiran Herat                           Senior Financial Management Specialist
+    M a r k Walker                           Lead Counsel
+    Joseph Formoso                           Senior Disbursement Officer
+    Yolanda Gedse                            Program Assistant
+    L u i z Maurer                           Senior Energy Specialist, Peer Reviewer
+
+
+
+
+                                                       -40-
+                              Annex 8: Documents in the Project File*
+                   KOSOVO: Energy Sector Technical Assistance Project II
+
+
+A. Project implementation Pian
+Project Implementation Plan dated April 28,2003
+
+6. Bank Staff Assessments
+Financial Management Assessment Report, dated March 23,2003
+
+C. Other
+
+(i) Energy Sector Technical Assistance Project-I study report, December 2002.
+ (ii) Additional studies (a) Demand and Supply analyses for the generation plan and potential
+interconnection network implications in Kosovo until 2020 ( November 2002) and (ii)  Transmission
+network strategy (November 2002).
+(iii) Background and context for preparation o f a long-term energy strategy and policy o f Kosovo
+("Green Paper") November 2002
+(iv)    UNMIKs Regulation numbers 2002112 dated June 13,2002 on establishment o f Kosovo Trust
+Agency, and 2002113 dated June 13,2002 on establishment o f a special Chamber o f the Supreme
+Court of Kosovo on Kosovo Trust Agency related matters;
+
+'Including electronic files
+
+
+
+
+                                                  -41 -
+                                          Annex 9: Statement of Loans and Credits
+                              KOSOVO: Energy
+                                          _. Sector Technical Assistance Project II
+                                                            26-Mar-2003
+                                                                                                                     Difference between expected
+                                                                                                                               and actual
+                                                                Original Amount in US$ Millions                             disbursements'
+ Project ID   FY    Purpose                                  IBRD       IDA         SF            Cancel.    Undisb.        Orig Frm Rev'd
+PO72405       2002 SOC PROT (KOSOVO TF)                        0.00       0.00       4.20             0.00       3.77       2.07       0.00
+PO72814       2001 COMM DEV FUN0 (KOSOVO TF)                   0.00       0.00       5.00             0.00       1.66       -3.34      0.00
+PO71265       2001 PSD TA (KOSOVO TF)                          0.00       0.00       3.00             0.00       0.76       0.66       0.00
+PO70365       2001 PILOT WS (KOSOVO TF)                        0.00       0.00       4.60             0.00       3.54       -1.06      0.00
+PO70295       2001 URG ROAD (KOSOVO TF)                        0.00       0.00       5.00             0.00       1.15       1.15       0.00
+PO69629       2001 SME CREDIT (KOSOVO TF)                      0.00       0.00       5.00             0.00       0.35       5.44       0.00
+PO69325       2000 EMG FARM RECONSTRUCTION (KOSOVO TF)         0.00       0.00      10.00             0.00       0.41       -3.69      0.41
+PO69516       2000 EDUC/HEALTH (KOSOVO TF)                     0.00       0.00       4.44             0.00       0.98       -0.19      0.00
+
+                                                   Total:     0.00       0.00       41.24            0 00       12 63        105       0.41
+
+
+
+
+                                                               -42-
+                                          KOSOVO
+                                   STATEMENT OF IFC's
+                                 Held and Disbursed Portfolio
+                                        J u ~30 - 2002
+                                       In Millions U S Dollars
+
+                                                            Committed                                    Disbursed
+                                                        IFC                                            IFC
+FY Approval   Company                            Loan      Equity      Quasi        Partic     Loan     Equity      Quasi   Partic
+
+
+                    Total Portfolio:             0.00       0.00           0.00       0.00      0.00         0.00    0.00     0.00
+
+
+
+                                                      ADorovak Pending Commitment
+FY Approval   Company                              Loan        Equity             Quasi      Partic
+
+
+              Total Pending Commitment:             0.00            0.00           0.00       0.00
+
+
+
+
+                                               -43-
+                                                           Annex 10: Country at a Glance
+                              KOSOVO: Energy Sector Technical Assistance Project II
+                                                           Kosovo at a glance                                                                                4/4/03
+
+                                                                                      Europe 8      Lower-
+POVERTY and SOCIAL                                                         Kosovo      Central     middle-
+                                                                             SAM          Asia     Income       1 Development diamond'
+ZOO1
+Population, m id-year (millions)
+G N P per capita
+GNP
+                                                                                 2
+                                                                             1,217
+                                                                               2.4
+                                                                                           475
+                                                                                         1,960
+                                                                                           930
+                                                                                                     2,164
+                                                                                                     1,240
+                                                                                                     2,677
+                                                                                                                i                 Life expectancy
+
+
+Average a n n u a l g r o w t h , 1995-01
+Population ( % J                                                                            0.1         1 .o
+                                                                                            0.6         1.2     'GNi                                     Gross
+Labor force (%)
+                                                                                                                ,per         I--                        primary
+M o s t r e c e n t e s t i m a t e (latest year available, 1995-01)                                                                                 enrollment
+                                                                                                                I cap'ta
+Poverty (% o f population below national poverty line) I /                      50
+Urban population (% o f totalpooulationJ                                        37          63          46      I
+Life expectancy at birth (years)                                                74          69          69                               -
+infant mortality (per 1,000 live births)                                        35          20          33
+Chiid malnutrition [% o f children under 5)                                                             11                 Access to improved water source
+
+
+                                                                                                                       -
+Access to an improved water source 1% ofpopulation)                             54          90          80
+Illiteracy (% ofpopulation age 1.51)                                             7            3         15
+Gross primary enrollment (% of school-age population)                           97         102         107                     Kosovo
+    Male                                                                        98         103         107                     Lower-middle-Income orouu
+    Female                                                                      96         101         107
+
+K E Y ECONOMIC RATIOS and LONG-TERM TRENDS
+                                                                                          2000        2001
+                                                                                                                     Economlc ratios.
+G D P (Euro € m l l l i o n r )                                                           1,414      1.747
+Gross domestic investmentiGDP                                                                68         54
+                                                                                                                                        Trade
+Exports of goods and servicesiGDP                                                            10         13
+Gross domestic savings/GDP
+Gross national savingsiGDP
+Current account balance/GDP                                                                5.87       9.10
+Interest payments/GDP
+Total debt/GDP                                                                              0.0
+Total debt service/exports 2/
+Present value of debt/GDP
+Present vaiue of debt/exports
+                                                                                                                                   indebtedness
+
+                                                                                                                        -
+                                                                              2000        zoo1     2001-05
+(average annual growth)
+                                                                                                                                Kosovo
+GDP
+G D P per capita
+                                                                                           23.6
+                                                                                           18.4
+                                                                                                        6.5
+                                                                                                                I!              Lower-middle-income group
+Exports of goods and services                                                              56.1
+
+
+STRUCTURE o f the ECONOMY
+                                                                1988          1996        2000        zoo1
+(% o f G D P )
+Agriculture                                                      20.4          28.8
+Industry                                                         47.4          33.8
+  Manufacturing
+Services                                                         32.2          37.4
+Private consumption                                                                       113.0      102.8
+General government COnSUmptiOn                                                             51.5       48.7
+Imports of goods and services                                                              91.5       88.7
+
+                                                            1981-91       1991-01         2000        2001
+(average annual growth)
+Agriculture
+industry
+  Manufacturing
+Services
+Private consumption
+General government COnSUmptiOn
+Gross domestic investment
+Imports of goods and Services 31
+
+Note: 2001 data are preliminary estimates
+* The diamonds show four key indicators in the country (in bold) compared with its income-group average. If data are missing, the diamond will
+   be incomplete.
+1/ Share of population below food poverty line of US$ 0.813/day is 11.9%.
+
+
+
+
+                                                                        -44-
+

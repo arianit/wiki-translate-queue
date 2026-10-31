@@ -1,0 +1,279 @@
+{{Short description|Metodë arsyetimi dhe argumentimi filozofik}}
+{{Dalloje|Dialekti|Dianetika}}
+
+'''Dialektika''' (nga [[Gjuha greke e lashtë|greqishtja e vjetër]] ''dialektikē''), e njohur edhe si '''metoda dialektike''', është një metodë arsyetimi dhe argumentimi filozofik që thekson zhvillimin e mendimit nëpërmjet një procesi zgjidhjeje të [[Kundërthënia|kundërthënieve]]. Termi, që e ka rrënjën te greqishtja e vjetër ''dialegesthai'' ('të [[Biseda|bisedosh]]'), u popullarizua nga [[dialogjet sokratike]] të [[Platoni]]t, të cilat e paraqitën dialektikën si një [[diskurs]] mes dy ose më shumë personave që mbanin pikëpamje të ndryshme rreth një teme, por që dëshironin të vendosnin [[E vërteta|të vërtetën]] nëpërmjet argumentimit të arsyeshëm. Në [[filozofia moderne|filozofinë moderne]], dialektika ka evoluar në një praktikë të veçantë, shpesh një metodë sistematike e madje [[Monologu|monologjike]] arsyetimi, që kërkon të vendosë një kornizë gjithëpërfshirëse për të kuptuar zhvillimin, ndryshimin dhe ndërlidhjen e realitetit.
+
+Gjatë historisë së saj, koncepti i dialektikës ka pësuar shndërrime të rëndësishme. Në lashtësi, ajo u zhvillua si një formë "dialektike objektive" nga [[Parasokratikët|filozofët parasokratikë]] si [[Herakliti]], i cili u përqendrua te parimet kozmike të ndryshimit dhe {{ill|Uniteti i të kundërtave|en|Unity of opposites}}. Kjo u pasua nga një "dialektikë subjektive" e themeluar nga [[Sofistët]] dhe [[Sokrati]], e cila e zhvendosi vëmendjen te vetëdija njerëzore dhe arti i argumentimit. [[Platoni]] e ngriti dialektikën në metodën supreme të kërkimit filozofik, duke e parë atë si udhën drejt të kuptuarit të [[Teoria e formave|Formave]] transhendente. Nxënësi i tij, [[Aristoteli]], e ripërkufizoi atë si një metodë për shqyrtimin kritik të mendimeve të njohura (''[[endoxa]]'').
+
+Në epokën moderne, veçanërisht brenda [[Idealizmi gjerman|idealizmit gjerman]], dialektika u ringjall dhe u sistemua. [[Immanuel Kant]]i e konceptualizoi atë si "logjikë e iluzionit", duke identifikuar kundërthëniet e brendshme (''antinomitë'') që lindin kur arsyeja njerëzore synon të shkojë përtej kufijve të përvojës së mundshme. Duke u mbështetur mbi punën e Kantit dhe kontributet e mendimtarëve romantikë si [[Friedrich Wilhelm Joseph Schelling]], [[Georg Vilhelm Fridrih Hegel|Georg Vilhelm Fridrih Hegeli]] (Georg Wilhelm Friedrich Hegel) zhvilloi sistemin më gjithëpërfshirës të logjikës dialektike. Ai e pa kundërthënien jo si të metë, por si forcën lëvizëse të çdo lëvizjeje dhe zhvillimi. Për Hegelin, dialektika është njëkohësisht metodë argumentimi dhe ontologji — procesi imanent nëpërmjet të cilit Shpirti (''Geist'') zhvillohet dhe arrin vetëdijen.
+
+[[Karl Marksi]] (Karl Marx) dhe [[Frederik Engels|Frederik Engelsi]] (Friedrich Engels) e ripunuan më vonë dialektikën hegeliane mbi një bazë materialiste, duke themeluar [[materializmi historik|materializmin historik]]. Të ndikuar nga kritikat e hegelianëve të rinj, ata argumentuan se zhvillimi i historisë shtyhet nga kundërthëniet brenda kushteve materiale, socio-ekonomike të shoqërisë, veçanërisht [[lufta e klasave]]. Në shekullin XX, dialektika ishte një temë qendrore, dhe shpesh e diskutueshme, si brenda marksizmit sovjetik ashtu edhe brenda {{ill|marksizmi perëndimor|en|Western Marxism|lt=marksizmit perëndimor}}. Mendimtarë të {{ill|Shkolla e Frankfurtit|en|Frankfurt School|lt=Shkollës së Frankfurtit}}, si [[Theodor W. Adorno]], zhvilluan një "dialektikë negative" që i rezistoi tendencave pajtuese dhe afirmuese të sistemit hegelian. Në gjysmën e dytë të shekullit, dialektika u përball me kritika të vazhdueshme nga traditat analitike, poststrukturaliste dhe postmoderne, të cilat sfiduan supozimet e saj themelore. Sidoqoftë, si përgjigje ndaj krizave globale bashkëkohore dhe kufizimeve të paradigmave shkencore reduksioniste, ka pasur një interes të rinovuar për dialektikën si metodë kritike për të kuptuar sistemet komplekse dhe dinamike.
+
+== Etimologjia dhe përkufizimet ==
+Termi ''dialektikē'' (dialektikë) me shumë gjasë u shpik nga vetë [[Platoni]]{{sfn|Nikulin|2010|p=17}}, duke e nisur nga greqishtja e vjetër ''dialegesthai'', që do të thotë "të [[Biseda|bisedosh]]" ose "të merresh me [[Dialogu|dialog]]".{{sfn|Dafermos|2025|p=11}} Fjala kombinon ''dia'' ("nëpërmjet" ose "përtej") dhe ''[[logos]]'' ("arsye" ose "ligjërim"), duke shënuar një proces lëvizjeje dhe ndërmjetësimi nëpërmjet diskutimit të [[Arsyeja|arsyeshëm]].{{sfn|Dafermos|2025|p=12}} ''Fjalori Oksford i Anglishtes'' e përkufizon ''dialektikën'' si "Arti i shqyrtimit kritik të së vërtetës së një mendimi; hetimi i të vërtetës nëpërmjet diskutimit." Në filozofinë moderne, veçanërisht nëpërmjet punës së [[Immanuel Kant]]it dhe [[Georg Vilhelm Fridrih Hegel|Georg Vilhelm Fridrih Hegelit]], termi fitoi një kuptim më të specializuar. Ai i referohet njëkohësisht procesit të mendimit nëpërmjet të cilit kundërthëniet zgjidhen në një të vërtetë më të lartë e më gjithëpërfshirëse, dhe "procesit botëror" në vetvete, i cili shihet si zhvillim nëpërmjet një bashkimi të vazhdueshëm të të kundërtave.{{sfn|Dafermos|2025|p=12}}
+
+Mendimi dialektik dallohet themelisht nga ajo çka shpesh quhet mënyra e mendimit "[[Metafizika|metafizike]]".{{sfn|Dafermos|2025|p=18}} Siç e përshkroi [[Frederik Engels|Frederik Engelsi]], qasja metafizike i konsideron objektet dhe idetë si "të izoluara, ... fikse, të ngurta, të dhëna njëherë e përgjithmonë", dhe mendon në "antiteza absolutisht të papajtueshme". Në kontrast, mendimi dialektik "i kupton gjërat dhe përfaqësimet, idetë e tyre, në lidhjen, ndërthurjen, lëvizjen, prejardhjen dhe fundin e tyre thelbësor."{{sfn|Dafermos|2025|p=19}} Ai thekson tre parime themelore: tërësinë (ndërlidhjen e pjesëve brenda një të tëre), ndryshimin e vazhdueshëm dhe kundërthënien si motorin e atij ndryshimi.{{sfn|Rees|1998|p=4}} Forma e përgjithshme e dialektikës mund të përshkruhet si një "tërësi e kundërthënshme brenda vetes, në një proces të vazhdueshëm ndryshimi."{{sfn|Rees|1998|p=7}} Ajo qëndron në kontrast me logjikën lineare, e cila shihet si e papërshtatshme për të kuptuar sisteme me marrëdhënie të brendshme komplekse.{{sfn|Arthur|2004|pp=17–23}}
+
+Një formulim i përhapur gjerësisht, por shpesh i kritikuar, i dialektikës është modeli triadik i tezës–antitezës–sintezës, ku një propozim fillestar (teza) mohohet nga e kundërta e tij (antiteza), dhe tensioni mes tyre zgjidhet nga një propozim i ri (sinteza).{{sfn|Dafermos|2025|p=12}} Kritikë si [[Karl Popper]]i ia atribuojnë këtë formulë Hegelit,{{sfn|Dafermos|2025|p=344}} megjithëse studiuesit vërejnë se vetë Hegeli rrallë i përdorte këto terma dhe paralajmëronte kundër reduktimit të lëvizjes dialektike në një "skemë të pajetë."{{sfn|Dafermos|2025|p=344, n. 2}}{{sfn|Arthur|2004|p=12}} Mendimtarë si Bertell Ollman argumentojnë se kjo formulë e thjeshtëzon tepër metodën dialektike, duke e përshkruar atë si një "triadë të ngurtë" që keqpërfaqëson natyrën dinamike dhe ndërvepruese të mendimit dialektik.{{sfn|Ollman|2003|p=12}} Përkundrazi, sugjeron ai, dialektika është "një mënyrë të menduari që sjell në fokus gamën e plotë të ndryshimeve dhe ndërveprimeve që ndodhin në botë."{{sfn|Ollman|2003|p=12}}
+
+== Filozofia e lashtë ==
+
+=== Mendimi i lashtë lindor ===
+Format e hershme të arsyetimit dialektik, shpesh të quajtura "dialektikë spontane", u shfaqën në traditat e lashta filozofike lindore, të karakterizuara nga një perceptim holistik dhe dinamik i botës natyrore.{{sfn|Dafermos|2025|p=24}} Kjo mënyrë të menduari u zhvillua nga një angazhim i drejtpërdrejtë, shqisor me botën, para formimit të disiplinave shkencore të specializuara dhe sistemeve kategoriale formale.{{sfn|Dafermos|2025|p=24}}
+
+[[File:Yin yang.svg|thumb|Simboli ''jin-jang'' përfaqëson unitetin e të kundërtave dhe ndërveprimin e tyre dialektik, koncept qendror në mendimin e lashtë kinez.{{sfn|Dafermos|2025|p=27}}]]
+Në mendimin e lashtë kinez, dialektika spontane shprehet gjallërisht në ''I Ching'' (Libri i Ndryshimeve), i cili përdor një sistem prej 64 heksagramesh për të simbolizuar proceset dinamike të ndryshimit dhe ndërlidhjen e të gjitha gjërave.{{sfn|Dafermos|2025|p=26}} Thelbi i kësaj botëkuptimi është koncepti i jin dhe jangut, dy forca kundërshtare, por plotësuese (p.sh., errësira dhe drita, pasiviteti dhe aktiviteti), ndërveprimi i të cilave shtyn të gjitha proceset natyrore dhe shoqërore. Kjo marrëdhënie nuk është një kundërshti absolute, por një ekuilibër harmonik dhe një shndërrim i vazhdueshëm, ku secila forcë mban brenda vetes farën e tjetrës.{{sfn|Dafermos|2025|p=27}} [[Taoizmi]], veçanërisht në ''Tao Te Ching'', e zhvillon më tej këtë dialektikë. Ai e paraqet realitetin si një rrjedhë të vazhdueshme (Tao) në të cilën të kundërtat si "qenia dhe mosqenia", "e vështira dhe e lehta", "e gjata dhe e shkurtra" prodhojnë dhe përcaktojnë njëra-tjetrën. Dialektika taoiste shpesh përshkruhet si "dialektikë negative" për shkak të theksit të saj mbi mosqenien, zbrazëtinë dhe mosveprimin (''wu wei''), e cila shërben si kritikë e ndërtimeve dogmatike dhe artificiale njerëzore.{{sfn|Dafermos|2025|p=28}} Sidoqoftë, botëkuptimi kinez i jep përparësi harmonisë ciklike mbi luftën zhvillimore, duke i konceptuar të kundërtat si në ekuilibër plotësues, në vend të një konflikti antagonist që kërkon tejkalim.{{sfn|Dafermos|2025|p=34}}
+
+Në mendimin e lashtë indian, temat dialektike shfaqen në tekstet më të hershme të shenjta, [[Vedat]]. ''Rigveda'' eksploron polaritete kozmike si drita dhe errësira, rendi dhe kaosi, qenia dhe mosqenia, duke i parë jo si binare të ngurta, por si forca të ndërvarura në një proces të vazhdueshëm bërjeje.{{sfn|Dafermos|2025|p=36–37}} [[Kozmologjia hinduiste]], me trinitetin e saj të Brahmës (krijuesi), Vishnusë (ruajtësi) dhe Shivës (shkatërruesi), mishëron një kuptim dialektik të natyrës ciklike të ekzistencës, ku krijimi, mirëmbajtja dhe shkatërrimi janë faza integrale të një ritmi kozmik të përjetshëm.{{sfn|Dafermos|2025|p=37}} ''Upanishadët'' zhvilluan një formë të dialektikës negative për të përshkruar realitetin përfundimtar (Brahman), i cili tejkalon të gjitha atributet empirike dhe mund t'i afrohesh vetëm nëpërmjet mohimit të të gjitha koncepteve të fundme (''neti neti'', 'as kjo, as ajo'{{'}}).{{sfn|Dafermos|2025|p=39, 42}} [[Budizmi]] e radikalizoi më tej këtë dialektikë negative me konceptet e tij të zbrazëtisë (''śūnyatā''), përkohshmërisë (''anicca''), dhe jo-vetes (''anattā''), të cilat çmontojnë sistematikisht çdo nocion të një thelbi fiks dhe të brendshëm në realitet.{{sfn|Dafermos|2025|p=43}}
+
+=== Greqia e lashtë ===
+[[File:Heraclitus b 4 compressed.jpg|thumb|upright|Filozofia e [[Herakliti]]t, me parimet e saj të fluksit universal dhe unitetit të të kundërtave, konsiderohet formulimi i parë i qartë i dialektikës në mendimin e lashtë grek.{{sfn|Dafermos|2025|p=68}}]]
+Shfaqja e dialektikës në Greqinë e lashtë ishte e ndërthurur me kalimin nga botëkuptimet e bazuara në mit (''mythos'') te shpjegimet e bazuara në arsye (''logos''). Filozofët parasokratikë filluan të kërkonin substancën themelore (''arche'') të kozmosit nëpërmjet hetimit racional, në vend të rrëfimeve mitologjike.{{sfn|Dafermos|2025|p=53–54}} Filozofia e [[Herakliti]]t (rreth 540–480 p.e.s.) konsiderohet formulimi i parë i qartë i një kuptimi dialektik të kozmosit.{{sfn|Dafermos|2025|p=68}} Qendrore në mendimin e tij janë parimet e fluksit universal, të shprehura famshëm në frazën "gjithçka rrjedh" (''panta rhei''), dhe identiteti i të kundërtave. Për Heraklitin, realiteti është në një gjendje ndryshimi të përhershëm, i simbolizuar nga zjarri, dhe të gjitha gjërat gjenerohen dhe mbahen nëpërmjet luftës (''polemos'') së forcave kundërshtare, si jeta dhe vdekja, zgjimi dhe gjumi, të cilat ai mbante se ishin "një dhe e njëjta gjë".{{sfn|Dafermos|2025|p=56–57}}{{sfn|Williams|1989|p=10}}
+
+Në kontrast, eleatët, veçanërisht [[Parmenidi]], hodhën poshtë realitetin e lëvizjes dhe ndryshimit. Parmenidi argumentoi për një Qenie të vetme, të pandryshueshme dhe të përjetshme, të arritshme vetëm nëpërmjet mendimit racional, ndërsa e shpërfilli botën shqisore të ndryshimit si thjesht dukje ose "Dukuri e Rreme". Nxënësi i tij, Zenoni nga Elea, zhvilloi një seri paradoksesh për të treguar pamundësinë logjike të lëvizjes, duke përdorur një formë dialektike negative që zbulonte kundërthëniet në nocionet e sensit të përbashkët për realitetin.{{sfn|Dafermos|2025|p=63}}
+
+Një ndryshim i madh ndodhi me [[Sofistët]], të cilët e zhvendosën hetimin filozofik nga kozmologjia drejt subjektivitetit njerëzor. Teza e famshme e Protagorës, "njeriu është matësi i të gjitha gjërave", e bazoi njohurinë te perceptimi individual dhe hapi rrugën drejt relativizmit dhe skepticizmit epistemologjik. Sofistët e zhvilluan dialektikën si artin e argumentimit retorik (''antilogikē''), shpesh duke e përdorur për të shqyrtuar argumente të kundërta dhe për të treguar se pretendime kundërthënëse mund të vërtetoheshin njëkohësisht.{{sfn|Dafermos|2025|p=66–67}}{{sfn|Nikulin|2010|p=34}}
+
+[[File:Marcello_Bacciarelli_-_Alcibiades_Being_Taught_by_Socrates,_1776-77_crop.jpg|thumb|''Alkibiadi duke u mësuar nga Sokrati'' nga Marcello Bacciarelli (1776)]]
+[[Sokrati]] e riformësoi këtë metodë në një kërkim bashkëpunues për të vërtetën. Duke e parë dialektikën si "artin e mamisë", ai synonte t'i jepte jetë kuptimeve të reja nëpërmjet analizimit dhe kritikimit të mendimeve të të tjerëve.{{sfn|Williams|1989|p=1}} Nëpërmjet metodës së tij të pyetjes, e njohur si [[metoda sokratike]] ose ''elenku'', ai i angazhonte bashkëbiseduesit në [[dialog]] për të shqyrtuar besimet e tyre, për të zbuluar supozimet e tyre të pashqyrtuara dhe për t'i çuar drejt vetënjohjes.{{sfn|Dafermos|2025|p=70–71}} Dialektika sokratike ishte tipikisht refutuese (''elenchike'') dhe shpesh përfundonte në një gjendje hutimi, ose ''[[aporia]]'', ku bashkëbiseduesit detyroheshin të braktisnin pretendimet e tyre fillestare pa arritur domosdoshmërisht në një përfundim të prerë.{{sfn|Nikulin|2010|p=29}}
+
+{{Multiple image
+| total_width       = 300
+| perrow            = 2
+| image1            = Plato Silanion Musei Capitolini MC1377 (cropped).jpg
+| caption1          = Bust i [[Platoni]]t
+| image2            = Aristotle Altemps Inv8575.jpg
+| caption2          = Bust i [[Aristoteli]]t
+}}
+[[Platoni]], nxënësi i Sokratit, e sistemoi dhe e ngriti dialektikën në metodën supreme të filozofisë, "artin mbretëror".{{sfn|Dafermos|2025|p=74}} Dialogjet e tij të shkruara janë imitime të artikuluara dhe artificiale të diskursit sokratik spontan, të cilat janë njëkohësisht filozofike (dialektike) dhe dramatike në formë.{{sfn|Nikulin|2010|p=18}} Për Platonin, dialektika është njëkohësisht një shkencë e qenies dhe një art (''technē'') i pyetjes së pyetjeve të duhura për të zbuluar të vërtetën,{{sfn|Nikulin|2010|pp=50-51}} një proces intelektual rigoroz që i mundëson mendjes të ngrihet nga bota e ndryshueshme e përvojës shqisore dhe mendimit të thjeshtë (''doxa'') drejt mbretërisë së përjetshme dhe të pandryshueshme të [[Teoria e formave|Formave]], ku qëndron njohuria e vërtetë (''episteme'').{{sfn|Dafermos|2025|p=74}} Ky proces përfshin dy lëvizje plotësuese: mbledhjen (''synagoge''), që i mbledh shembujt e veçantë nën një Formë universale, dhe ndarjen (''diairesis''), që e diferencon një Formë në llojet e saj përbërëse.{{sfn|Nikulin|2010|p=46}} Sidoqoftë, pavarësisht formës së saj dialogjike, dialektika platonike është përfundimisht një proces i drejtuar, argumentativ, dhe rrjedhimisht [[Monologu|monologjik]], në kontrast me dialogun oral spontan.{{sfn|Nikulin|2010|p=53}}
+
+[[Aristoteli]] e ripërkufizoi dialektikën, duke e dalluar atë njëkohësisht nga logjika formale (analitikat) dhe filozofia (shkenca e qenies). Ai e përkufizoi dialektikën si një metodë për arsyetimin nga mendime të njohura (''endoxa'') për të testuar propozime dhe për të zbuluar parimet e para të çdo hetimi.{{sfn|Nikulin|2010|p=54}} Vepra e tij kryesore mbi këtë temë, ''Topikat'', e paraqet dialektikën si një art sistematik (''technē'') argumentimi për t'u përdorur në debate të stilizuara.{{sfn|Stump|1989|pp=11–12, 19}} Për Aristotelin, një "Topik" (''topos'') ishte kryesisht një strategji, shpesh e bazuar në një parim të përgjithshëm, nga e cila një dialektikan mund të ndërtonte një argument për një propozim të dhënë.{{sfn|Stump|1989|pp=20–21, 29}} Ai i organizoi këto strategji sipas katër predikablave (përkufizimi, prona, gjinia dhe aksidenti), duke argumentuar se arti i dialektikës qëndron në zotërimin e këtij "trashëgimie predikablash" për t'u bërë i aftë në gjetjen e argumenteve.{{sfn|Stump|1989|pp=26, 46}} Duke sistemuar metodat argumentative të gjetura në dialogjet e Platonit, vepra e Aristotelit përfaqëson një kalim drejt një kuptimi më formal, logjik dhe monologjik të dialektikës.{{sfn|Nikulin|2010|pp=54, 60}}
+
+Në periudhën helenistike, stoikët e integruan dialektikën në logjikë si studimin e argumentimit dhe strukturës propozicionale, ndërsa skeptikët pironiantë e përdorën atë për të pezulluar gjykimin (''epoché'') duke shtruar kundërshti mes pretendimeve dogmatike konkurruese.{{sfn|Dafermos|2025|p=87, 91}}
+
+== Filozofia mesjetare dhe e rilindjes ==
+Zhvillimi i dialektikës nga periudha e vonë e lashtësisë deri në fillimet e Mesjetës u formësua nga një formalizim gradual i artit aristotelian, proces që filloi me pasardhësin e Aristotelit, Teofrastin, dhe u avancua nga Ciceroni.{{sfn|Stump|1989|pp=61, 63}} Teologët e hershëm të krishterë si Tertuliani ishin armiqësorë ndaj dialektikës, duke e parë atë si një "art që shkatërron aq sa ndërton", ndërsa të tjerë, si [[Shën Augustini|Augustini nga Hipoja]], e njohën vlerën e saj për diskursin teologjik.{{sfn|Dafermos|2025|p=102}}
+
+[[File:Aristotele, organon, XIII secolo (bml, pluteo 11 sin 1) 01.jpg|thumb|Kopje e shekullit XIII e ''Organonit'' të Aristotelit]]
+Figura vendimtare në transmetimin e saj te Perëndimi Latin ishte Boeci, vepra e të cilit mbi Topikat formësoi thellësisht logjikën mesjetare.{{sfn|Stump|1989|p=17}} Në traktatin e tij ''De topicis differentiis'', Boeci e sistemoi artin, duke dalluar dy lloje topikash dialektike: ''maxima propositio'' (propozimi maksimal) dhe ''differentia''. Propozimet maksimale ishin parime vetëvetëse, universale që funksiononin si premisa ose garantues për vlefshmërinë e argumenteve,{{sfn|Stump|1989|pp=32, 39}} ndërsa ''differentiae'' ishin mjetet praktike për gjetjen e argumenteve, duke funksionuar si koncepte organizuese që e ndihmonin dialektikanin të zbulonte një term ndërmjetës.{{sfn|Stump|1989|pp=32, 45, 49}} Kjo kornizë shumë e rregulluar boeciane u bë themeli për studimin e dialektikës deri në rizbulimin e plotë të ''Organonit'' të Aristotelit.{{sfn|Dafermos|2025|p=103}}{{sfn|Stump|1989|p=73}}
+
+Gjatë Mesjetës, dialektika u përfshi kryesisht nën teologji dhe u bë një nga tri artet e lira të [[Trivium|Triviumit]] (së bashku me gramatikën dhe retorikën). Ngritja e skolasticizmit solli një angazhim të ripërtëritur me dialektikën si metoda qendrore për reflektimin teologjik dhe filozofik. Mendimtarët skolastikë e përdorën arsyetimin dialektik në formën e ''disputatio''-s — një debat i strukturuar pyetjesh dhe përgjigjesh — për të pajtuar kundërthëniet e dukshme mes teksteve autoritative, veçanërisht mes arsyes (Aristoteli) dhe zbulesës (Shkrimi i Shenjtë).{{sfn|Dafermos|2025|p=104, 106}} Kjo periudhë u shënua nga një debat i ashpër mes realizmit dhe nominalizmit rreth statusit ontologjik të {{ill|universalet|en|universal (metaphysics)|lt=universaleve}}, një polemikë që sfidoi marrëdhënien dialektike mes së veçantës dhe universales.{{sfn|Dafermos|2025|p=106–107}} Ngushtësia e formalizimit skolastik të logjikës, e reduktuar në thjesht një instrument për zhvillimin e debateve verbale dhe interpretimin e shkrimeve, përfundimisht e çoi drejt diskreditimit të saj në sytë e shumë mendimtarëve të hershëm modernë.{{sfn|Ilyenkov|1977|p=12}}
+
+Rilindja shënoi një shndërrim të rëndësishëm në rolin dhe kuptimin e dialektikës. Mendimtarë humanistë si Lorenzo Valla dhe Rodolphus Agricola sfiduan formalizmin abstrakt të logjikës skolastike, duke avokuar për një dialektikë humaniste të përqendruar te komunikimi dhe bindja praktike, më ngushtë të lidhur me retorikën.{{sfn|Dafermos|2025|p=110–111}} Një rivlerësim më radikal erdhi nga Nikolla Kuzani, i cili prezantoi konceptin e ''coincidentia oppositorum'' (koinçidenca e të kundërtave). Ai argumentoi se Absoluti është terreni i pafund në të cilin pajtohen të gjitha kundërthëniet, një nocion që tejkaloi parimin aristotelian të [[Parimi i jokundërthënies|jokundërthënies]].{{sfn|Nikulin|2010|p=69}}{{sfn|White|1996|p=17}} Giordano Bruno e zhvilloi më tej këtë linjë mendimi, duke propozuar një univers të pafund dhe në ndryshim të vazhdueshëm, në të cilin të gjitha qeniet marrin pjesë në një proces të vazhdueshëm krijimi dhe shndërrimi, duke sfiduar kështu kozmologjinë e fundme dhe hierarkike të epokës mesjetare.{{sfn|Dafermos|2025|p=113}}
+
+== Filozofia moderne ==
+
+=== Metafizika dhe ngritja e shkencës moderne ===
+Shfaqja e shkencës moderne në shekujt XVI dhe XVII, me theksin e saj mbi vëzhgimin empirik dhe saktësinë matematikore, paraqiti një sfidë të rëndësishme për format tradicionale të dialektikës. Metodat analitike dhe reduksioniste të mendimtarëve si Francis Bacon dhe Isaac Newton lindën një botëkuptim mekanicist që e trajtonte natyrën si një sistem objektesh të veçuara, të qeverisura nga ligje të pandryshueshme.{{sfn|Dafermos|2025|p=121}}{{sfn|Rees|1998|pp=12–13}} Kjo mënyrë e menduari [[Metafizika|metafizike]], siç e quajti më vonë [[Frederik Engels|Frederik Engelsi]], i konceptonte gjërat në izolim dhe si fikse e të pandryshueshme, në kontrast me perspektivën dinamike dhe relacionale të dialektikës.{{sfn|Dafermos|2025|p=122–123}}
+
+Traditat mbizotëruese filozofike të periudhës së hershme moderne, racionalizmi dhe empirizmi, kontribuan të dyja në këtë orientim metafizik. Racionalizmi i René Descartes-it themeloi një dualizëm të ngurtë mes mendjes (''res cogitans'') dhe materies (''res extensa''), duke krijuar një ndarje të mprehtë mes mendimit dhe botës së jashtme.{{sfn|Dafermos|2025|p=126}} Kjo shtroi "problemin psikofizik" qendror të filozofisë moderne: nëse mendimi dhe materia e shtrirë janë dy substanca absolutisht të kundërta, ndërveprimi i tyre brenda qenies njerëzore bëhet i pashpjegueshëm.{{sfn|Ilyenkov|1977|p=19}} Shkolla kartezianе mund ta zgjidhte këtë kundërthënie vetëm duke iu drejtuar ndërhyrjes së Zotit, një "kapitullim para teologjisë" që nxori në pah kufizimet e kornizës dualiste.{{sfn|Ilyenkov|1977|pp=24, 26}} Ndërkohë që sistemi monist i Baruch Spinoza-s, i cili e identifikoi Zotin me Natyrën (''Deus sive Natura'') dhe pohoi se çdo përcaktim është mohim (''Omnis determinatio est negatio''), u konsiderua "thellësisht dialektik" nga filozofi sovjetik i mëvonshëm Evald Iljenkov, substanca e Spinozës mbeti një unitet statik dhe i përjetshëm.{{sfn|Dafermos|2025|p=129–130}}{{sfn|Ilyenkov|1977|p=33}} Universi pluralist i Gottfried Wilhelm Leibniz-it, i përbërë nga "monada" vetë-aktive, prezantoi dinamizmin dhe ligjin e vazhdimësisë, por harmonia e tyre ishte e paracaktuar nga një parim i jashtëm.{{sfn|Dafermos|2025|p=133–135}}
+
+Empirizmi i John Locke-ut, i cili e portretizoi mendjen si një ''tabula rasa'' (fletë e bardhë) që pranon pasivisht përshtypjet shqisore, po ashtu përforcoi një model mekanicist dhe individualist të njohurisë.{{sfn|Rees|1998|p=14}} Skepticizmi radikal i David Hume-it, i cili sfidoi konceptet e shkakësisë dhe substancës, zbuloi kufijtë e njëkohshëm të empirizmit dhe racionalizmit, duke çuar në një krizë të metafizikës që përgatiti terrenin për një ringjallje të dialektikës.{{sfn|Rees|1998|pp=16–17}}
+
+=== Idealizmi gjerman ===
+[[Idealizmi gjerman]] shënoi ringjalljen dhe kulmin e dialektikës moderne. Ngritja e tij ishte një përgjigje ndaj kufizimeve të perceptuara të materializmit mekanicist të Iluminizmit dhe një reflektim filozofik i trazirave shoqërore të [[Revolucioni Francez|Revolucionit Francez]].{{sfn|Rees|1998|pp=12, 22}}
+
+[[File:Immanuel Kant - Gemaelde 1.jpg|thumb|upright|Immanuel Kanti]]
+[[Immanuel Kant]]i, në ''Kritikën e Arsyes së Kulluar'' (1781), e inaugoi këtë ringjallje duke e ripërkufizuar dialektikën. Duke e parë gjendjen e filozofisë të kohës së tij si "luftë e të gjithëve kundër të gjithëve", ai kërkoi të vendoste një "legjislacion" për arsyen, për të zgjidhur konfliktet e saj.{{sfn|Ilyenkov|1977|p=77}} Ndërsa filozofët e mëparshëm kishin kërkuar ta përdornin dialektikën për të arritur njohuri objektive, Kanti argumentoi se ajo ishte një "logjikë e iluzionit" (''Logik des Scheins'').{{sfn|Dafermos|2025|p=149, 155}} Ai tregoi se kur arsyeja njerëzore (''Vernunft'') përpiqet të shkojë përtej kufijve të përvojës së mundshme për të spekuluar mbi objekte transhendente si shpirti, bota si tërësi dhe Zoti, ajo bie në mënyrë të pashmangshme në kundërthënie, të cilat ai i quajti antinomitë e arsyes së kulluar.{{sfn|Dafermos|2025|p=157–160}} Për Kantin, roli i dialektikës është kryesisht negativ: një "disiplinë e vetëpastrimit kritik të arsyes" që zbulon këto iluzione dhe percakton kufijtë e duhur të njohurisë njerëzore.{{sfn|Nikulin|2010|p=68}} Një pjesë kyçe e projektit të tij ishte një "logjikë transhendentale" që i solli kategoritë e metafizikës në logjikë si format e gjykimeve sintetike objektivisht të vlefshme.{{sfn|Ilyenkov|1977|p=93}} Ai mbante se universaliteti ishte boshti rreth të cilit rrotulloheshin teoritë e tij të njohurisë, etikës dhe estetikës.{{sfn|White|1996|p=29}} Sistemi i Kantit, megjithatë, mbështetej mbi një kundërthënie themelore: ndërkohë që pretendonte se përshtypjet shqisore shkaktohen nga veprimi i realitetit objektiv (sendi-në-vetvete), ai njëkohësisht mbante se shkakësia është një koncept mendor dhe jo një veti e botës objektive.{{sfn|Rees|1998|p=22}}
+
+Johann Gottlieb Fichte e shndërroi dialektikën negative të Kantit në një metodë pozitive, konstruktive. Ai e hodhi poshtë nocionin e Kantit të sendit-në-vetvete të panjohshëm si logjikisht kundërthënës, dhe e themeloi sistemin e tij në aktivitetin e subjektit vetëdijshëm, ose "Unë"-s.{{sfn|Dafermos|2025|p=161, 163}}{{sfn|Ilyenkov|1977|p=117}} Për Fichten, realiteti përbëhet nëpërmjet një procesi triadik: "Unë"-ja e pohon veten (teza), kundërshtohet nga një "jo-Unë" (antiteza), dhe tensioni mes tyre zgjidhet nëpërmjet një sinteze që e mundëson njëkohësisht njohurinë dhe veprimin praktik.{{sfn|Dafermos|2025|p=161, 163}} Sistemi i tij fillonte nga universaliteti abstrakt dhe përparonte drejt të veçantës, me qëllimin përfundimtar të nënshtrimit të natyrës (të "jo-Unë"-së) ndaj arsyes.{{sfn|White|1996|pp=29, 39}}
+
+[[Friedrich Wilhelm Joseph Schelling]] e zgjeroi dialektikën subjektive të Fichtes drejt botës objektive, duke zhvilluar një ''Naturphilosophie'' (filozofi e natyrës) që e shihte natyrën jo si një "jo-Unë" pasive, por si një proces dinamik, vetëorganizues. Ai e pa natyrën dhe shpirtin, ose subjektin dhe objektin, si dy pole të një Absoluti të vetëm, themelor, të cilin e quajti "identiteti absolut".{{sfn|Dafermos|2025|p=170–171}} Për Schelling-un, universi zhvillohet nëpërmjet ndërveprimit të forcave kundërshtare ose "polariteteve", dhe kundërthënia është nxitësi thelbësor i çdo lëvizjeje dhe jete.{{sfn|Dafermos|2025|p=170–171}} Sipas Schelling-ut, Absoluti ishte një "intuitë intelektuale" e paarritshme për të kuptuarit e vetëdijshëm. Këndvështrimi i vetëdijes së zakonshme, të cilin ai e quajti "reflektim", mund ta kapte realitetin vetëm në mënyrë fikse dhe statike, nëpërmjet krijimit të "koncepteve", ndërsa këndvështrimi i vërtetë i "spekulimit" mund ta kapte natyrën dinamike të realitetit.{{sfn|White|1996|pp=34–35}}
+
+[[File:Jakob Schlesinger - Hegel 1831.jpg|thumb|upright|[[Georg Vilhelm Fridrih Hegel|Georg Vilhelm Fridrih Hegeli]] zhvilloi sistemin më gjithëpërfshirës të logjikës dialektike, duke e vendosur kundërthënien si forcën lëvizëse të çdo realiteti.{{sfn|Dafermos|2025|p=176}}]]
+[[Georg Vilhelm Fridrih Hegel|Georg Vilhelm Fridrih Hegeli]] e solli traditën dialektike të idealizmit gjerman në shprehjen e saj më gjithëpërfshirëse dhe sistematike. Ai i kritikoi paraardhësit e tij për ta lënë të pazgjidhur kundërshtinë mes subjektit dhe objektit, mendimit dhe qenies. Hegeli e vlerësoi Kantin për theksimin e "natyrës së pashmangshme të dialektikës" dhe rolit të saj thelbësor në arsye, por argumentoi se Kanti nuk shkoi mjaftueshëm larg.{{sfn|Williams|1989|p=37}} Për Hegelin, dialektika është lëvizja imanente, e vetështyrë e vetë mendimit, dhe njëkohësisht procesi zhvillimor i realitetit si tërësi. Në ''Fenomenologjinë e Shpirtit'' (1807), ai gjurmoi zhvillimin e vetëdijes nëpërmjet një serie fazash, duke kulmuar në dijen absolute. Në ''Shkencën e Logjikës'' (1812–1816, 1831), ai paraqiti strukturën e kësaj lëvizjeje nëpërmjet një sistemi kategorish logjike.{{sfn|Dafermos|2025|p=177, 185}} Qendrore në dialektikën e Hegelit është koncepti i kundërthënies, të cilën ai e shihte jo si gabim logjik, por si "rrënjën e çdo lëvizjeje dhe jete."{{sfn|Dafermos|2025|p=277, n. 9}} Çdo koncept apo formë ekzistence, kur shqyrtohet, zbulon veten si njëanshme dhe kalon në të kundërtën e saj. Zgjidhja e kësaj kundërthënieje çon në një fazë më të lartë, më gjithëpërfshirëse, që i ruan fazat e mëparshme në një proces që Hegeli e quajti ''Aufhebung'' (tejkalim), term që njëkohësisht do të thotë të mohosh, të ruash dhe të ngrish.{{sfn|Dafermos|2025|p=196}}{{sfn|Williams|1989|p=119}} Për Hegelin, ky koncept, që kap shkatërrimin dhe ruajtjen e vazhdueshme të dukshme në kalimin e qenies në asgjë dhe të asgjësë në qenie, e ka rrënjën te nocioni i Heraklitit për bërjen.{{sfn|Williams|1989|p=119}}
+
+=== Dialektika marksiste ===
+[[File:Karl Marx by John Jabez Edwin Mayall 1875 - Restored & Adjusted (3x4 cropped b).png|thumb|upright|[[Karl Marksi]] e "përmbysi" dialektikën idealiste të Hegelit, duke e rithemeluar atë mbi bazë materialiste si teori e zhvillimit historik të shtyrë nga kundërthëniet në mënyrën e prodhimit.{{sfn|Dafermos|2025|p=223}}]]
+[[Karl Marksi]] dhe [[Frederik Engels|Frederik Engelsi]] e adoptuan dhe e shndërruan dialektikën e Hegelit, duke e "përmbysur" atë nga një kornizë idealiste në një materialiste. Ata e hodhën poshtë konceptimin e Hegelit të Shpirtit vetëzhvillues si motorin e historisë, duke argumentuar në vend të kësaj se zhvillimi i shoqërisë njerëzore shtyhet nga kundërthëniet brenda kushteve materiale, socio-ekonomike.{{sfn|Dafermos|2025|p=214}} Puna e tyre u formësua nga evolucioni i mendimit hegelian të ri, veçanërisht kritika e Ludwig Feuerbach-ut ndaj abstraksionit hegelian dhe kërkesa politike e Arnold Ruge-s për ''praxis''.{{sfn|White|1996|pp=129–131, 358–359}}
+
+Marksi argumentoi se idealizmi i Hegelit kryente një "gabim të dyfishtë": së pari, ai e shpërbënte botën empirike në kategori abstrakte, dhe së dyti, pastaj detyrohej në një "rikthim jokritik" të asaj bote, duke e pagëzuar realitetin ekzistues si rezultat racional i procesit dialektik.{{sfn|Rees|1998|p=61}} Për Marksin, metoda dialektike nuk është thjesht një mënyrë për të përshkruar botën, por një mjet për të zbuluar natyrën e saj kalimtare, historike dhe potencialin e saj për shndërrim revolucionar. Me fjalët e tij, dialektika "e konsideron çdo formë shoqërore të zhvilluar historikisht si në lëvizje të rrjedhshme, dhe prandaj merr parasysh natyrën e saj kalimtare jo më pak se ekzistencën e saj të përkohshme... ajo është në thelb kritike dhe revolucionare."{{sfn|Dafermos|2025|p=220}} Sipas Bertell Ollman, dialektika është revolucionare sepse "na ndihmon të shohim të tashmen si një moment nëpër të cilin po kalon shoqëria jonë," duke detyruar një shqyrtim të "nga ku ka ardhur dhe nga po shkon si pjesë e të mësuarit se çfarë është."{{sfn|Ollman|2003|p=20}}
+
+Themeli filozofik i dialektikës materialiste të Marksit është konceptimi i tij i punës njerëzore. Ai e shihte punën si procesin që ndërmjetëson mes njerëzimit dhe natyrës, mjeti nëpërmjet të cilit njerëzit e shndërrojnë me vetëdije mjedisin e tyre, dhe duke bërë kështu, e shndërrojnë veten.{{sfn|Rees|1998|pp=66–67}} Kjo ofron një bazë materiale për tejkalimin e dualizmit të subjektit dhe objektit, meqë puna është një unitet i vetëdijes (plani) dhe materialitetit (veprimi fizik).{{sfn|Rees|1998|p=69}} Metoda e Marksit, e njohur si [[materializmi historik]], e shikon historinë si një sukses mënyrash prodhimi, secila me kundërthëniet e veta të brendshme mes "forcave prodhuese" (teknologjia, puna) dhe "marrëdhënieve të prodhimit" (prona, struktura klasore). Këto kundërthënie çojnë në [[lufta e klasave|luftën e klasave]] dhe përfundimisht në revolucion shoqëror, i cili e zgjidh kundërthënien duke themeluar një mënyrë të re prodhimi.{{sfn|Rees|1998|p=76}} Në veprën e tij madhore, ''[[Das Kapital]]'', Marksi e aplikoi këtë metodë dialektike në analizën e kapitalizmit. Ai e filloi analizën e tij me "formën qelizore" të shoqërisë kapitaliste — mallin — dhe zbuloi kundërthënien e tij të brendshme mes vlerës së përdorimit dhe vlerës së këmbimit. Ai gjurmoi se si kjo kundërthënie themelore shpaloset nëpërmjet formave të njëpasnjëshme — parasë, kapitalit, vlerës së tepërt — për të gjeneruar kundërthëniet sistemike të mënyrës kapitaliste të prodhimit, si antagonizmi mes borgjezisë dhe proletariatit.{{sfn|Dafermos|2025|p=241, 243}}
+
+Në "filozofinë e marrëdhënieve të brendshme" të Marksit, gjërat nuk konceptohen si entitete të pavarura që më pas vihen në marrëdhënie, por përbëhen vetë nga ndërlidhjet e tyre. Marrëdhëniet e një gjëje janë "të brendshme" për atë çka është ajo, në atë mënyrë që nëse një marrëdhënie e rëndësishme ndryshon, vetë gjëja bëhet diçka tjetër.{{sfn|Ollman|2003|p=25–26}} Për shembull, kapitali nuk është një "gjë" statike që ''ka'' një marrëdhënie me punën, por është vetë një "marrëdhënie shoqërore e caktuar" që e përfshin punën si përbërës thelbësor.{{sfn|Ollman|2003|p=25}} Kjo ontologji relacionale kërkon një mjet metodologjik specifik: "procesin e abstraksionit." Ky është aktiviteti mendor nëpërmjet të cilit mendimtari gëdhend kufij të përkohshëm në botën e pandërprerë, relacionale, për të krijuar njësi për analizë.{{sfn|Ollman|2003|p=60–61}} Ky proces vepron në tri "mënyra": abstraksioni i shtrirjes (përcaktimi i kufijve hapësinorë dhe kohorë të një njësie), niveli i përgjithësimit (përcaktimi i nivelit të përgjithësimit nga e veçanta te universalja), dhe pika e vështrimit (zgjedhja e një perspektive nga e cila shihet marrëdhënia).{{sfn|Ollman|2003|p=73–75}}
+
+[[File:Friedrich Engels portrait (cropped).jpg|thumb|upright|[[Frederik Engels|Frederik Engelsi]]]]
+Një linjë e madhe zhvillimi dhe polemike brenda dialektikës marksiste ka të bëjë me projektin e Engelsit të një "dialektike të natyrës." Në veprën e tij të papërfunduar ''Dialektika e Natyrës'', Engelsi u përpoq të tregonte se dialektika nuk është vetëm një ligj i historisë shoqërore dhe mendimit njerëzor, por gjithashtu një "ligj i vërtetë i zhvillimit të natyrës."{{sfn|Kangal|2020|p=95}} Qëllimi i tij ishte të "shpëtonte dialektikën e vetëdijshme nga filozofia idealiste gjermane" dhe ta aplikonte atë në një konceptim materialist të botës natyrore, duke kundërshtuar tendencat antifilozofike dhe metafizike që ai i vinte re te shkencëtarët bashkëkohorë.{{sfn|Kangal|2020|pp=95, 112}} Ky nismë u bë objekt i "debatit të Engelsit" afatgjatë. Kritikët argumentojnë se formulimi i Engelsit e universalizoi dialektikën në një sistem të ngurtë, deterministik dhe gati-metafizik, duke shtrembëruar kështu metodën historike më të nuancuar të Marksit. Përkrahësit, megjithatë, e shohin punën e Engelsit si një zgjatim vendimtar dhe të qëndrueshëm të botëkuptimit të tyre të përbashkët materialist.{{sfn|Kangal|2020|pp=16, 67}}
+
+== Zhvillimet dhe kritikat e shekullit XX ==
+Në shekullin XX, dialektika u bë një temë qendrore në zhvillimin si të marksizmit sovjetik ashtu edhe të atij perëndimor, ndërkohë që përballej gjithashtu me kritika të rëndësishme nga tradita të tjera filozofike.
+
+=== Marksizmi sovjetik dhe perëndimor ===
+Pas Revolucionit Rus, dialektika u institucionalizua si doktrina zyrtare filozofike e Bashkimit Sovjetik nën banderolën e "diamat"-it (materializmi dialektik). Kjo bazohej kryesisht në veprat e Georgi Plehanovit, i cili, duke u mbështetur te Engelsi, kishte themeluar një sistem në të cilin natyra njerëzore shihej si një ndryshore e formësuar nga ligje ekonomike objektive — çka sipas disa interpretimeve ishte një largim nga pikëpamja origjinale e Marksit për një natyrë shoqërore konstante, vetë-aktualizuese.{{sfn|White|1996|pp=346, 365}} Vitet 1920 panë një konflikt intensiv filozofik mes "mekanistëve", të cilët kërkonin ta reduktonin dialektikën në shkencat pozitive, dhe "deborinistëve", të cilët mbronin themelet filozofike hegeliane të dialektikës.{{sfn|Rees|1998|pp=190–191}}{{sfn|Kangal|2020|pp=60–66}} Ky debat u përqendrua te trashëgimia e ''Dialektikës së Natyrës'' të Engelsit, e cila u botua për herë të parë në Bashkimin Sovjetik në vitin 1925.{{sfn|Kangal|2020|p=56}} Nën [[Josif Stalini|Josif Stalinin]], kjo dialektikë zyrtare u dogmatizua në një grup të ngurtë dhe skematik ligjesh, shpesh të përdorura për të justifikuar vendime politike.{{sfn|Dafermos|2025|p=288–289}} Sidoqoftë, një traditë e "marksizmit sovjetik krijues" vazhdoi, e shembullëzuar nga mendimtarë si Evald Iljenkov, i cili kërkoi të ringjallte një interpretim më autentik, hegelian të metodës dialektike të Marksit.{{sfn|Dafermos|2025|p=290}}
+
+{{Multiple image
+| total_width       = 300
+| perrow            = 2
+| image1            = Lukács György.jpg
+| caption1          = Georg Lukács
+| image2            = Theodor W. Adorno.jpg
+| caption2          = [[Theodor W. Adorno]]
+}}
+Paralelisht, {{ill|marksizmi perëndimor|en|Western Marxism}} u shfaq si përgjigje ndaj disfatave të revolucioneve evropiane dhe ngritjes së fashizmit. Marksistët e hershëm perëndimorë si Georg Lukács, Karl Korsch dhe Antonio Gramsci e ringjallën dialektikën hegeliane si kritikë të marksizmit mekanicist dhe deterministik të Internacionales së Dytë. Lukács, në një fusnotë të famshme te ''Historia dhe vetëdija e klasës'' (1923), nisi kritikën marksiste perëndimore ndaj Engelsit, duke argumentuar se Engelsi gabimisht e zgjeroi metodën dialektike te natyra, një qëndrim që u bë gurthemel i "debatit të Engelsit".{{sfn|Dafermos|2025|p=312–313}}{{sfn|Kangal|2020|p=56}} Ai theksoi konceptin e tërësisë dhe identitetin e subjektit dhe objektit, duke argumentuar se proletariati është agjenti historik që mund ta tejkalojë reifikimin e shoqërisë kapitaliste. {{ill|Shkolla e Frankfurtit|en|Frankfurt School}}, veçanërisht [[Theodor W. Adorno]] dhe Herbert Marcuse, zhvilluan një "dialektikë negative". Duke reaguar ndaj përfundimeve totalitare si të fashizmit ashtu edhe të stalinizmit, ata u bënë thellësisht skeptikë ndaj theksit afirmativ të Hegelit mbi identitetin dhe tërësinë. Adorno, në veprën e tij ''Dialektika negative'' (1966), argumentoi se mendimi duhet t'i rezistojë nxitjes për të pajtuar kundërthëniet, duke u fokusuar në vend të kësaj te "jo-identikja" dhe e veçanta që i shpëton sistemeve totalizuese.{{sfn|Dafermos|2025|p=323–324}} Më vonë, marksizmi strukturalist, veçanërisht puna e Louis Althusser-it, e hodhi poshtë tërësisht dialektikën hegeliane, duke e përkufizuar atë si "mistifikim" idealist dhe duke kërkuar ta vendoste marksizmin si shkencë pozitive, të bazuar në konceptin e "mbipërcaktimit."{{sfn|Rees|1998|pp=286–287}}
+
+=== Kritika analitike dhe postmoderne ===
+Tradita analitike, mbizotëruese në botën anglishtfolëse, u themelua mbi një refuzim të fortë të hegelianizmit. Mendimtarë si Bertrand Russell i hodhën poshtë doktrinat e Hegelit si "të rreme" dhe të bazuara në gabime logjike.{{sfn|Dafermos|2025|p=342}} [[Karl Popper]]i, në ''Shoqëria e hapur dhe armiqtë e saj'', ngriti një kritikë me ndikim ndaj dialektikës, duke argumentuar se pranimi i saj i kundërthënies shkel parimin themelor të jokundërthënies dhe e bën atë joshkencore dhe irracionale. Për Popperin, dialektika ishte një formë "dogmatizmi të përforcuar" që i mbronte teoritë nga falsifikimi.{{sfn|Dafermos|2025|p=345}}
+
+Poststrukturalizmi dhe postmodernizmi e zgjeruan këtë kritikë, duke sfiduar "rrëfimet e mëdha" të modernitetit, përfshirë dialektikën hegeliane dhe marksiste. Duke u mbështetur te skepticizmi i [[Friedrich Nietzsche]]s, mendimtarë si Jean-François Lyotard, Michel Foucault dhe Gilles Deleuze i hodhën poshtë nocionet dialektike të tërësisë, progresit dhe mohimit të përcaktuar. Ata argumentuan se dialektika imponon një unitet të rremë dhe një rend teleologjik mbi një botë që themelisht karakterizohet nga ndryshimi, shumësia dhe diskontinuiteti.{{sfn|Dafermos|2025|p=360, 362}} Ky pesimizëm i thellë bazohet në një besim në një humnerë absolute mes njohurisë dhe vetë botës.{{sfn|Rees|1998|p=291}} Lyotard-i, për shembull, e përdori emrin "Auschwitz" për të "treguar parëndësinë e materies empirike" për çdo pretendim modern të emancipimit njerëzor.{{sfn|Rees|1998|p=291}} Dekonstruksioni i Jacques Derrida-s synonte të çmontonte kundërshtitë binare të mendimit perëndimor duke zbuluar logjikën e ''différance''-ës, një proces shtyrjeje të pafundme të kuptimit që kurrë nuk mund të zgjidhet në një sintezë përfundimtare.{{sfn|Dafermos|2025|p=362}} Sidoqoftë, kritikët kanë vënë re një paradoks: në përpjekjen e tyre për të "thyer" me Hegelin, këta mendimtarë shpesh mbeten të ngatërruar në po atë terren konceptual që kërkojnë ta dekonstruktojnë, duke përdorur mjete hegeliane për ta sfiduar Hegelin.{{sfn|Dafermos|2025|p=367}}
+
+== Rëndësia bashkëkohore ==
+Pas "fundit të historisë" të shpallur pas rënies së Bashkimit Sovjetik, ka pasur një rilindje të rëndësishme të interesit për dialektikën. Vazhdimësia e krizave globale — ekonomike, ekologjike dhe politike — ka sfiduar konceptimet lineare dhe pa konflikt të zhvillimit historik dhe ka nxjerrë në pah kufizimet e paradigmave empiriciste dhe reduksioniste.{{sfn|Dafermos|2025|p=382–383}} Sipas Manolis Dafermos-it, ky rikthim reflekton një kuptim gjithnjë e në rritje të dialektikës si një perspektivë kritike metodologjike për të kuptuar dhe lundruar natyrën komplekse, dinamike dhe kundërthënëse të shoqërisë bashkëkohore.{{sfn|Dafermos|2025|p=382}} Bertell Ollman argumentoi se ndërsa shoqëria bëhet e karakterizuar nga "kompleksitet shumë më i madh dhe ndryshim e ndërveprim shumë më i shpejtë," një kuptim dialektik bëhet "më i domosdoshëm tani se kurrë më parë" për të kuptuar marrëdhëniet sistemike që e përcaktojnë atë.{{sfn|Ollman|2003|p=158}}
+
+Brenda traditës analitike, është vërejtur një "kthim te Hegeli", me filozofë si Robert Brandom dhe John McDowell që riangazhohen me idealizmin gjerman për të adresuar mangësitë e atomizmit dhe fondacionalizmit analitik.{{sfn|Dafermos|2025|p=353}} Puna e Wilfrid Sellars-it, me kritikën e saj ndaj "Mitit të së Dhënës", është parë si rezonuese me çmontimin nga Hegeli të "siguria-ndijimit."{{sfn|Dafermos|2025|p=354}} Figura si Slavoj Žižek gjithashtu kanë kontribuar në interesin e ripërtëritur për dialektikën, duke riinterpretuar mendimin hegelian dhe lakanian për të analizuar kulturën dhe politikën bashkëkohore, megjithëse qasja e tij e "hendekut paralaks" thekson ndarjet e paredukueshme mbi sintezën.{{sfn|Dafermos|2025|p=372–373}}
+
+Brenda marksizmit, një aspekt i rëndësishëm i kësaj rilindjeje është zhvillimi i "Dialektikës së Re" ose "Marksizmit të Ri Hegelian".{{sfn|Arthur|2004|p=1}} Ky trend, i shfaqur në fund të shekullit XX, e rithekson rëndësinë e ''Shkencës së Logjikës'' të Hegelit për të kuptuar metodën e Marksit në ''Das Kapital''.{{sfn|Arthur|2004|p=2}} Teza e tij qendrore është dallimi mes "dialektikës historike" dhe "dialektikës sistematike".{{sfn|Arthur|2004|p=4}} Përkrahësit e kësaj qasjeje argumentojnë se shumë interpretime të mëparshme i ngatërruan gabimisht të dyja, duke çuar në një lexim deterministik dhe linear të Marksit. Dialektika sistematike, në kontrast, paraqitet si një metodë sinkronike për të analizuar strukturën e një tërësie të dhënë, si kapitalizmi, duke gjurmuar zhvillimin logjik të kategorive të saj nga abstraktja te konkretja.{{sfn|Arthur|2004|pp=4, 63–64}}
+
+Në shkenca, ka një njohje në rritje të papërshtatshmërisë së modeleve lineare, statike dhe reduksioniste për të shpjeguar fenomene komplekse. Dialektika ofron një kornizë për të kuptuar sisteme dinamike, veti të reja (emergjente) dhe ndërveprime jolineare.{{sfn|Dafermos|2025|p=391}} Në fizikë, është argumentuar se natyra dialektike e realitetit është e dukshme në koncepte si dualiteti valë-grimcë në mekanikën kuantike.{{sfn|Dafermos|2025|p=391}} Në biologji, perspektiva e "biologut dialektik", e avancuar nga mendimtarë si Richard Levins dhe Richard Lewontin, thekson ndërlidhjen e organizmave dhe mjediseve të tyre, duke sfiduar determinizmin gjenetik.{{sfn|Rees|1998|p=4}} Në shkencat shoqërore, qasjet dialektike po zbatohen për të studiuar zhvillimin psikologjik, teorinë arsimore dhe kundërthëniet e kapitalizmit global, si "çarja metabolike" mes shoqërisë njerëzore dhe natyrës.{{sfn|Dafermos|2025|p=384, 393}}
+
+== Shiko edhe ==
+{{Div col|colwidth=18em}}
+* [[Biseda]]
+* [[Dialogu]]
+* {{lang|la|{{ill|Dialectica|en|Dialectica}}}} – revistë filozofike
+* {{ill|De Dialectica|en|De Dialectica (disambiguation)}} – vepra të ndryshme mbi dialektikën dhe arsyetimin logjik
+* {{ill|Terapia e sjelljes dialektike|en|Dialectical behavior therapy}}
+* {{ill|Kërkimi dialektik|en|Dialectical research}}
+* {{ill|Dialogjika|en|Dialogic}}
+* [[Didaktika|Metoda didaktike]] – metodë mësimdhënieje që mund të kontrastohet me metodën dialektike
+* {{ill|Diskursi|en|Discourse}}
+* {{ill|Dilema e rreme|en|False dilemma}}
+* {{ill|Logjika dhe dialektika|en|Logic and dialectic}}
+* {{ill|Ekuilibri reflektiv|en|Reflective equilibrium}}
+* {{ill|Dialektika relacionale|en|Relational dialectics}}
+* {{ill|Tarka Shastra|en|Tarka Shastra}}
+* {{ill|Uniteti i të kundërtave|en|Unity of opposites}}
+{{Div col end}}
+
+== Referime ==
+{{Reflist}}
+
+=== Veprat e cituara ===
+*{{cite book
+| last = Arthur
+| first = Christopher J.
+| year = 2004
+| title = The New Dialectic and Marx's Capital
+| publisher = Brill
+| isbn = 978-90-04-13643-4
+| language = en
+| ref = {{harvid|Arthur|2004}}
+}}
+*{{cite book
+| last = Dafermos
+| first = Manolis
+| year = 2025
+| title = Dialectics as Mode of Thought and Method in History
+| series = Perspectives in Cultural-Historical Research
+| volume = 14
+| publisher = Springer
+| isbn = 978-3-032-06919-1
+| doi = 10.1007/978-3-032-06920-7
+| language = en
+}}
+*{{cite book
+| last = Ilyenkov
+| first = E. V.
+| year = 1977
+| title = Dialectical Logic: Essays on Its History and Theory
+| translator-last = Creighton
+| translator-first = H. Campbell
+| location = Moskë
+| publisher = Progress Publishers
+| oclc = 491038593
+| language = en
+| ref = {{harvid|Ilyenkov|1977}}
+}}
+*{{cite book
+| last = Kangal
+| first = Kaan
+| year = 2020
+| title = Friedrich Engels and the Dialectics of Nature
+| publisher = Palgrave Macmillan
+| isbn = 978-3-030-34334-7
+| language = en
+| ref = {{harvid|Kangal|2020}}
+}}
+*{{cite book
+| last = Nikulin
+| first = Dmitri
+| year = 2010
+| title = Dialectic and Dialogue
+| publisher = Stanford University Press
+| isbn = 978-0-8047-7015-6
+| language = en
+}}
+*{{cite book
+| last = Ollman
+| first = Bertell
+| year = 2003
+| title = Dance of the Dialectic: Steps in Marx's Method
+| publisher = University of Illinois Press
+| isbn = 978-0-252-07118-8
+| language = en
+| ref = {{harvid|Ollman|2003}}
+}}
+*{{cite book
+| last = Rees
+| first = John
+| year = 1998
+| title = The Algebra of Revolution: The Dialectic and the Classical Marxist Tradition
+| publisher = Routledge
+| isbn = 978-0-415-19877-6
+| language = en
+| ref = {{harvid|Rees|1998}}
+}}
+*{{cite book
+| last = Stump
+| first = Eleonore
+| year = 1989
+| title = Dialectic and Its Place in the Development of Medieval Logic
+| publisher = Cornell University Press
+| isbn = 978-0-8014-2036-8
+| language = en
+| ref = {{harvid|Stump|1989}}
+}}
+*{{cite book
+| last = White
+| first = James D.
+| year = 1996
+| title = Karl Marx and the Intellectual Origins of Dialectical Materialism
+| publisher = Palgrave Macmillan
+| isbn = 978-0-333-66594-7
+| language = en
+}}
+*{{cite book
+| last = Williams
+| first = Howard
+| year = 1989
+| title = Hegel, Heraclitus and Marx's Dialectic
+| publisher = Harvester Wheatsheaf
+| isbn = 978-0-7450-0527-0
+| language = en
+| ref = {{harvid|Williams|1989}}
+}}
+
+== Lidhje të jashtme ==
+{{WikiQuote}}
+{{Wiktionary kuti}}
+* {{sister-inline|project=v|links=[[v:Dialectic algorithm|Dialectic algorithm]]}} – një algoritëm i bazuar në parimet e dialektikës klasike
+* {{cite web |url=https://plato.stanford.edu/entries/hegel-dialectics/ |title=Hegel's Dialectics |publisher=Stanford Encyclopedia of Philosophy |language=en}}
+* {{cite EB1911 |wstitle=Dialectic |volume=8 |page=156 |short=1}}
+* [https://www.marxists.org/reference/archive/mctaggart/hegel/contents.htm Studies in the Hegelian Dialectic] nga J. M. E. McTaggart (1896) te marxists.org
+
+{{Authority control}}
+
+[[Kategoria:Dialektikë| ]]
+[[Kategoria:Logjika e Greqisë së lashtë]]
+[[Kategoria:Metodologjia filozofike]]
+[[Kategoria:Retorikë]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Dialectic|27 gusht 2026|1369997620}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Dialectic, versioni i datës 27 gusht 2026 (revizioni 1369997620)
+-->

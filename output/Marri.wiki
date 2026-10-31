@@ -1,0 +1,43 @@
+{{Infobox ethnic group
+|group = Marrët
+|image = 
+|caption = 
+|region = [[Baloçistan, Pakistan|Baloçistan]]
+|pop = 
+|languages = [[Gjuha beluçe]]
+|religions = [[Islami]]
+|related_groups = {{ill|Beluçët|en|Baloch people}}, Kakarët dhe Lonët
+|region1 = {{PAK}}
+}}
+
+'''Marrët''' janë një popullsi që flet [[Gjuha beluçe|gjuhën beluçe]] dhe banon në rajonin e gjerë në verilindje të [[Baloçistan, Pakistan|Baloçistanit]]. Zona e banuar nga Marrët rrethohet nga fushat e {{ill|Sibi|en|Sibi, Pakistan}}. Në veri kufizohen me Kakarët dhe Lonët e [[Pashtunët|pashtunëve]]; në lindje, me tokat e Khetranëve, që flasin një gjuhë indo-ariane, dhe me Khetranët; në jug, me fisin Bugti.<ref>Pehrson, Barth, 1966, pp.1–2</ref> Tradicionalisht, Marrët, si shumë fise të tjera beluçe, janë nomadë dhe merren me blegtori.<ref>{{Cite journal|title=Lifestyle of a Nomad|date=1993|url=http://dx.doi.org/10.5040/9780755612314.ch-009|journal=An Element of Luck|publisher=The Radcliffe Press|isbn=978-1-85043-739-0|access-date=10 July 2021|language=en}}</ref> Sot Marrët janë një nga grupet e pakta etnike të modernizuara që megjithatë kanë ruajtur një identitet të veçantë kulturor.
+
+== Historia dhe folklori ==
+Gjurmët më të hershme historike të Marrëve lidhen me Mir Chakar Khanin, heroin e traditës, protagonist të shumë romaneve në gjuhën beluçe dhe prijësin e fisit Rind. Pas një vargu luftërash me Lasharët dhe pasi u dëbua nga {{ill|Sibi|en|Sibi, Pakistan}} prej Arghunëve, Mir Chakar u strehua në territorin e sotëm të Marrëve, pranë lumit Manjara.
+
+Pak pas bastisjeve, pjesa më e madhe e Rindëve migroi në lindje të lumit Ind. Megjithatë, një pjesë e vogël e Puzh Rindëve u shkëput nga Mir Chakar dhe zgjodhi si vendbanim kodrat e Sewistanit. Prijësi i këtij grupi ishte Bijar Khani, të cilin e shoqëronin Ali Khani, Mando Khani dhe Kalu Khani, një farkëtar, si dhe një kopshtar i quajtur Kangra dhe një burrë me lëkurë të errët i quajtur Shaheja. Këta themeluan fisin e Marrëve, i cili u konsolidua në shekullin XVI.<ref>{{Cite book|title=The Gazetteer of Baluchistan SIBI|publisher=Government of Balochistan|year=1906|location=Quetta|page=271|language=en}}</ref><ref>{{Cite journal|last=D’Accone|first=Frank A.|title=Marri, Ascanio|date=2001|url=http://dx.doi.org/10.1093/gmo/9781561592630.article.17853|journal=Oxford Music Online|publisher=Oxford University Press|access-date=10 July 2021|language=en}}</ref>
+
+Midis viteve 1840 dhe 1917, Marrët luftuan tri {{ill|Luftërat anglo-marri|en|Anglo-Marri wars|lt=luftëra kundër kolonëve britanikë}}, në përpjekje për t'u pavarësuar nga India Britanike. Ata fituan përplasjen e parë, por u mundën në dy luftërat e tjera. Gjatë konfliktit të fundit, pavarësisht kundërshtimit në vend, Marrët u detyruan të shërbenin në ushtrinë britanike gjatë [[Lufta e Parë Botërore|Luftës së Parë Botërore]].
+
+== Grupet përbërëse ==
+Fisi i Marrëve përbëhej nga disa nënfise:<ref>{{Cite book|title=The Gazetteer of Baluchistan SIBI|publisher=Government of Balochistan|year=1906|location=Quetta|page=311|language=en}}</ref>
+
+* Ghaznni (i përbërë nga Thingiani, Badani, Mandani, Chhalgari, Zhing, Langani, Aliani, Mazarani, Nozbandgani, Lori Kush, Bahwalanzai, Murgiani, Isfani dhe Jarwar)
+* Bijarani (i përbërë nga Pawadi, Kungrani, Shaheja, Kalwani, Kalandrani, Salarani, Somrani, Pirdadani dhe Ramkani)
+* Loharani (i përbërë nga Mohamadani, Sherani dhe grupet e emërtuara sipas Loharanëve)
+
+== Shënime ==
+<references />
+
+== Bibliografia ==
+* {{Cite book|last1=Pehrson|first1=Robert H.|last2=Barth|first2=Fredrik|year=1966|title=The Social Organization of the Marri Baluch|series=Viking Fund Publications in Anthropology|volume=43|publisher=Wenner-Gren Foundation for Anthropological Research|location=New York|language=en}}
+* {{Cite web|url=http://san-pips.com/PIPS-SAN-Files/SAN-Pakistan/SAN-PAK-Article47/San-Pak-Main-A47-D.asp|title=PAK Institute for Peace Studies 19-04-2006: Baloch Insurgency – A backgrounder|archive-url=https://web.archive.org/web/20081101091010/http://san-pips.com/PIPS-SAN-Files/SAN-Pakistan/SAN-PAK-Article47/San-Pak-Main-A47-D.asp|language=en}}
+* {{Cite web|url=http://www.newsline.com.pk/NewsSep2004/newsbeat1sep.htm|title=Newsline Sept 2004: Edging Towards Anarchy?|archive-url=https://web.archive.org/web/20081012171910/http://www.newsline.com.pk/NewsSep2004/newsbeat1sep.htm|language=en}}
+* {{Cite web|url=https://www.nytimes.com/2006/04/02/world/asia/02pakistan.html|title=New York Times April 2, 2006: In Remote Pakistan Province, a Civil War Festers|language=en}}
+== Projekte të tjera ==
+{{Sisterlinks}}
+
+{{Kontrolli i autoritetit}}
+{{Portali|Pakistani|antropologjia}}
+
+[[Kategoria:Grupet etnike në Pakistan]]

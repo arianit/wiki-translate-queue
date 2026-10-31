@@ -1,0 +1,756 @@
+{{Short description|Shtet në Evropën Juglindore}}
+{{Ky artikull|shtetin}}
+{{Artikull i mirë}}
+{{Use dmy dates|date=February 2026}}
+{{Infobox country
+| conventional_long_name = Republika Portugeze
+| native_name            = {{Native name list|pt|República Portuguesa}}
+| common_name            = Portugalia
+| image_flag             = Flag of Portugal (official).svg
+| alt_flag               = &nbsp;
+| flag_type_article      = Flamuri i Portugalisë
+| image_coat             = Coat of arms of Portugal.svg
+| coat_alt               = &nbsp;
+| symbol_type_article    = Stema e Portugalisë
+| coa_size               = 115
+| national_anthem        = "{{ill|A Portuguesa|en}}"<br />"Portugezja"<div style="display:inline-block;margin-top:0.4em;">[[File:A Portuguesa.ogg]]</div>
+| image_map              = {{Switcher|[[File:EU-Portugal (orthographic projection).svg|frameless|alt=Harta me projeksion ortografik që thekson Portugalinë brenda Bashkimit Evropian.]]|Shfaq globin|[[File:EU-Portugal with islands circled.svg|frameless|alt=Harta e Evropës që thekson Portugalinë brenda Bashkimit Evropian.]]|Shfaq hartën e Bashkimit Evropian|default=1}}
+| map_width              = 220px
+| map_caption            = {{Legend|#218439|Vendndodhja e Portugalisë}}
+{{Legend|#C6DEBD|Portugalia brenda [[Bashkimi Evropian|Bashkimit Evropian]]}}
+| capital                = [[Lisbona]]
+| coordinates            = {{Coord|38|46|N|9|9|W|type:city}}
+| largest_city           = capital
+| official_languages     = [[Gjuha portugeze|Portugezja]]
+| recognised_national_languages = Gjuha e shenjave portugeze
+| recognised_regional_languages = <br />* Mirandezja<br />* Barranquenjoja
+| demonym                = Portugez
+| government_type        = Republikë unitare gjysmëpresidenciale
+| leader_title1          = Presidenti
+| leader_name1           = {{Nowrap|António José Seguro}}
+| leader_title2          = Kryeministri
+| leader_name2           = Luís Montenegro
+| leader_title3          = Kryetari i Asamblesë
+| leader_name3           = {{Nowrap|José Pedro Aguiar-Branco}}
+| legislature            = Asambleja e Republikës
+| sovereignty_type       = Themelimi
+| established_event1     = Kontia
+| established_date1      = 868
+| established_event2     = Beteja e São Mamedes
+| established_date2      = 24 qershor 1128
+| established_event3     = Beteja e Ouriques
+| established_date3      = 25 korrik 1139
+| established_event4     = Konferenca e Zamorës
+| established_date4      = 4–5 tetor 1143
+| established_event5     = Njohja papale
+| established_date5      = 23 maj 1179<ref group="sh">Koncepti modern i sovranitetit ose i [[Deklarata e Pavarësisë|deklaratës së pavarësisë]] nuk ekzistonte në atë kohë, dhe nuk ishte krijuar asnjë nocion i njohjes së tyre. Portugalia u njoh si mbretëri me mbretin e vet në vitin 1179 nga [[Papa]], i cili ishte autoriteti suprem në Evropë në atë kohë. Mënyra se si shihej Evropa në atë kohë ishte si një {{Lang|la|Res publica christiana}}.{{harvp|Ristuccia|2018|pp=15–19}}</ref>
+| established_event6     = Restaurimi
+| established_date6      = 1 dhjetor 1640
+| established_event7     = {{Nowrap|Kushtetuta e parë}}
+| established_date7      = 23 shtator 1822
+| established_event8     = Republika
+| established_date8      = 5 tetor 1910
+| established_event9     = Kushtetuta aktuale
+| established_date9      = 25 prill 1976
+| area_km2               = 92.225
+| area_footnote          = <ref group="sh">Sipërfaqja tokësore e Portugalisë është {{Convert|92225|km2|mi2|abbr=on}},{{harvp|Ramos|Ramos-Pereira|2020|p=4}} ndërsa territori mbi të cilin ushtron sovranitet — përfshirë tokën, ujërat e brendshme dhe [[Ujërat territoriale|detin territorial]] — arrin {{Convert|156597|km2|mi2|abbr=on}}.{{harvp|Ferrão|2016|pp=123-134}}{{harvp|Bessa Pacheco|2014|pp=112-116}}</ref>
+| area_rank              = I 109-ti
+| area_sq_mi             = 60.462
+| percent_water          = 1,2 (2015)<ref>{{Cite web |title=Surface water and surface water change |access-date=2020-10-11 |publisher=Organisation for Economic Co-operation and Development |url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER |archive-date=2021-03-24 |archive-url=https://web.archive.org/web/20210324133453/https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER |url-status=live |language=en}}</ref>
+| population_estimate_rank = I 83-ti
+| population_estimate    = 11.424.031{{Sfnp|''Estimates of resident population in Portugal 2025''|2026}}
+| population_census      = 10.343.066{{Sfnp|''Census 2021 - 16th population census. 6th housing census''|2022|pp=11-14}}
+| population_estimate_year = 2025
+| population_census_year = 2021
+| population_density_km2 = 123,9
+| GDP_PPP                = {{Rritje}} 567,632&nbsp;miliardë $<ref name="IMFWEO.PT">{{Cite web |url=https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.RES:WEO(9.0.0) |title=World Economic Outlook (WEO) |publisher=International Monetary Fund |date=2026-04-14 |access-date=2026-06-04 |language=en}}</ref>
+| GDP_PPP_year           = 2026
+| GDP_PPP_rank           = I 51-ti
+| GDP_PPP_per_capita     = {{Rritje}} 52.841 $<ref name="IMFWEO.PT" />
+| GDP_PPP_per_capita_rank = I 42-ti
+| GDP_nominal            = {{Rritje}} 380,637&nbsp;miliardë $<ref name="IMFWEO.PT" />
+| GDP_nominal_year       = 2026
+| GDP_nominal_rank       = I 45-ti
+| GDP_nominal_per_capita = {{Rritje}} 35.434 $<ref name="IMFWEO.PT" />
+| GDP_nominal_per_capita_rank = I 40-ti
+| Gini                   = 30,9
+| Gini_year              = 2025
+| Gini_change             = decrease
+| Gini_ref               = <ref>{{Cite web |url=https://ec.europa.eu/eurostat/databrowser/view/tessi190/default/table?lang=en |title=Gini coefficient of equivalised disposable income – EU-SILC survey |publisher=[[Eurostati]] |website=ec.europa.eu |access-date=2025-04-22 |language=en}}</ref>
+| HDI                    = 0,890
+| HDI_rank               = I 40-ti
+| HDI_year               = 2023
+| HDI_change             = increase
+| HDI_ref                = {{Sfnp|United Nations Development Programme|2025|p=274}}
+| currency               = [[Euro]] ([[Simboli i Euros|€]])
+| currency_code          = EUR
+| utc_offset             = +0 dhe -1
+| utc_offset_DST         = +1 dhe +0
+| date_format            = vvvv-mm-dd{{Sfnp|Guimarães|Martins|2024|p=34}}
+| calling_code           = +351
+| cctld                  = [[.pt]]
+| religion_year          = 2021
+}}
+
+'''Portugalia''',<ref group="sh">{{IPA|PT-pt|puɾtuˈɣal|audio=Portugal.wav|help=no}}</ref> zyrtarisht '''Republika Portugeze''',<ref group="sh">{{Langx|PT-pt|República Portuguesa|links=no}}, {{IPA|PT-pt|rɛˈpuβlikɐ puɾtuˈɣez̻ɐ|IPA|help=no}}</ref> është shtet në {{ill|Evropën Jugperëndimore|en|Southwestern Europe}}. {{ill|Portugalia kontinentale|en|Continental Portugal|lt=Portugalia kontinentale}} ndodhet në pjesën jugperëndimore të [[Gadishulli Iberik|Gadishullit Iberik]] dhe kufizohet me Spanjën në veri e në lindje. Portugalia përfshin gjithashtu arkipelagët e [[Ishujt Madeira|Madeirës]] dhe të [[Ishujt Azore|Azoreve]] në Oqeanin Atlantik. Shteti ka 11,4&nbsp;milionë banorë, ndërsa [[Lisbona]], kryeqyteti i tij, është qyteti më i madh. Ujërat e brendshme dhe deti territorial të Portugalisë së bashku përbëjnë dy të pestat e territorit të saj, dhe zona e saj ekskluzive ekonomike është një nga më të mëdhatë në Evropë. Terreni i shtetit përfshin një gamë të larmishme peizazhesh dhe klimash rajonale.
+
+Pjesa perëndimore e Gadishullit Iberik ka qenë e banuar që nga [[Parahistoria|parahistoria]], me shenjat e para të vendbanimit që datojnë midis vitit 5500&nbsp;p.e.s. dhe 5300&nbsp;p.e.s. Myslimanët e kishin pushtuar Gadishullin Iberik {{ill|që nga viti 711|en|Battle of Guadalete}}. Si rezultat i ''Reconquista''-s kundër tyre, Portugalia u themelua si kontí e Mbretërisë së Leónit në vitin 868 dhe [[Manifestis Probatum|zyrtarisht]] si mbretëri në vitin {{YEAR|1179}}. Gjatë [[Epoka e Zbulimeve|Epokës së Zbulimeve]], mbretëria bëri përparime të shumta në shkencën detare dhe në eksplorimin detar për të zbuluar territore dhe rrugë deti të reja, çka çoi në themelimin e [[Perandoria Portugeze|Perandorisë Portugeze]]. Mbretëria u bë republikë në vitin {{YEAR|1910}}, përpara se të bëhej diktaturë në vitin {{YEAR|1926}}, përmbysja e së cilës në vitin 1974 mundësoi vendosjen e demokracisë në vitin {{YEAR|1976}}.
+
+Portugalia është republikë unitare dhe demokraci përfaqësuese shumëpartiake me katër {{ill|organe sovrane|en|Sovereignty body (Portugal)}}: presidentin, qeverinë, parlamentin dhe gjyqësorin. Ajo ka një legjislativ kombëtar njëdhomësh të njohur si Asambleja e Republikës ({{Lang|pt|Assembleia da República}}). Portugalia ndahet në shtatë rajone kontinentale dhe dy rajone autonome përtej detit, megjithëse mbetet një shtet shumë i centralizuar.
+
+Si [[Shtetet e zhvilluara|shtet i zhvilluar]], Portugalia ka një ekonomi të përparuar që mbështetet kryesisht te shërbimet, industria dhe turizmi. E formësuar nga qytetërimet e ndryshme që kanë banuar territorin e saj, si kartagjenasit dhe romakët, Portugalia zhvilloi një kulturë me ndikim botëror. Kjo i lejoi portugezes të bëhet [[Gjuhët botërore|gjuha e pestë më e folur amtare]] në botë, me më shumë se 250&nbsp;milionë folës amtarë. Me një politikë të jashtme të qëndrueshme, të formësuar nga historia e saj koloniale e diplomatike dhe nga vendndodhja, Portugalia është anëtare e {{ill|disa organizatave dhe forumeve ndërkombëtare|en|International organization membership of Portugal}}.
+
+{{Reflist|group=sh}}
+== Etimologjia ==
+
+Fjala {{Anchor|Name|Etymology}} ''Portugal'' rrjedh nga latinishtja {{Lang|la|Portus Cale}}, një emër romak që do të thotë 'porti i {{Lang|la|Cale}}-s', e cila është edhe origjina e emrit të qytetit portugez [[Porto]], ndërsa ''Cale'' ishte një qytezë në lumin {{ill|Douro|en|Douro}}. Nuk ka konsensus për etimologjinë e fjalës ''Cale''. Ajo mund të rrjedhë nga fjala [[Gjuhët para-indoevropiane|para-indoevropiane]] ''Kala'', që do të thotë 'strehim' ose 'mbrojtje', e cila kaloi në {{ill|gjuhën keltike të Kalaikëve|en|Callaecian language}} në formën ''Cale'', me kuptimin 'tokë' ose 'mal'. Etnonimi ''Calaico/a'' më pas erdhi nga {{ill|Gallaeci|en|Gallaeci|lt=Gallaecët}}, popuj keltë të Iberisë veriperëndimore, dhe erdhi të nënkuptojë 'ai i tokës' ose 'ai i vendit'.{{Sfnp|Carvalho|2022|pp=76–79}}{{Sfnp|Magarinhos|2011|pp=537–546}}{{Sfnp|Silva|2010|pp=217-218,235}} Gjatë [[Mesjeta|Mesjetës]], rajoni përreth Portus Cale-s u njoh nga [[Visigotët]] si ''Portucale'' dhe nga suebët si ''Parochiale''.{{Sfnp|Silva|2010|pp=213–262}} Emri ''Portucale'' evoluoi në ''Portugale''; deri në shekujt e 11-të dhe të 12-të, ''Portugal'' i referohej rajonit midis lumenjve Douro dhe Minho.{{Sfnp|Wade|2020|p=25}}
+
+== Historia ==
+{{Kryesor|Historia e Portugalisë}}
+
+=== Parahistoria ===
+{{Kryesor|Iberia parahistorike}}
+
+Rajoni është banuar nga njerëzit që nga rreth 400.000 vjet më parë.{{Efn|Gjurma më e hershme njerëzore e gjetur në Portugali është [[Aroeira 3]] 400.000-vjeçare, një kafkë e {{Lang|la|Homo heidelbergensis}} e zbuluar në shpellën e Aroeira-s në vitin 2014.{{Sfnp|Daura|Sanz|Arsuaga|Hoffmann|2017|pp=3397-3399,3401}}}} [[Neandertalët]] enden në jugperëndim të Gadishullit Iberik deri 37.000 vjet më parë,{{Sfnp|Zilhão|Cardoso|Pike|Weninger|2011|p=93}}{{Sfnp|Zilhão|d'Errico|Banks|Teyssandier|2024|p=43}} ndërsa njeriu modern anatomik arriti në atë që sot është Portugalia rreth 40.000 vjet më parë.{{Sfnp|Shao|Klein|Wegener|Weniger|2025|pp=15,18-22}} Fillimi i neolitit në këtë zonë daton midis vitit 5500 p.e.s. dhe 5300 p.e.s.{{Sfnp|Peyroteo-Stjerna|2021|pp=265–299}} Në Portugalinë jugore janë gjetur stela me mbishkrime të [[Evropa e Epokës së Hekurit|Epokës së Hekurit]], që përfaqësojnë dëshmi të hershme të shkrimit në Gadishullin Iberik.{{Sfnp|Luján Martínez|2020|pp=561–589}} Fiset para-keltike me origjinë nga [[Hipoteza kurgane|stepat ukrainase]] banuan në Portugalinë kontinentale dhe lusitanët zunë kryesisht rajonet qendrore, të brendshme në vitin 1250 p.e.s.{{Sfnp|Gorbea|2023|pp=251-254}}{{Sfnp|Alarcão|2001|pp=322-324}} [[Keltët]] mund të jenë përhapur drejt perëndimit në Iberi në gjysmën e dytë të mijëvjeçarit të 1-rë p.e.s.{{Sfnp|Sims-Williams|2020|p=523}} [[Fenikasit]] kolonizuan Portugalinë gjatë shekujve të 7-të dhe të 8-të p.e.s.{{Sfnp|Prieto|2026|p=[https://books.google.pt/books?id=6_qaEQAAQBAJ&lpg=PA18 18]}}
+
+=== Lashtësia dhe Mesjeta e hershme ===
+{{Kryesor|Lusitania|Gallaecia|Hispania|Portugalia e lashtë}}
+[[File:Roman Temple Evora Portugal 02.jpg|thumb|upright 0.90|[[Tempulli Romak i Évorës]], i ndërtuar në shekullin e 1-rë|alt=Rrënojat e Tempullit Romak të Évorës me kolona të larta korintike që qëndrojnë mbi një platformë të ngritur prej shkëmbinjsh në një sheshi të qytetit të ndriçuar nga dielli, përballë një qielli blu të ndritur, me një kullë mesjetare dhe ndërtesa të bardha në sfond.]]
+
+Bregdeti mesdhetar ishte i njohur mirë për [[kartagjenasit]]. Marrëdhëniet e tyre të ngushta me vendbanimet fenikase-punike dhe lidhjet e përbashkëta kulturore ndoshta u dhanë ndikim të konsiderueshëm politik dhe ekonomik atje nga shekulli i 6-të ose i 5-të p.e.s., së bashku me vendosjen e traktateve të pabarabarta me qytet-shtetet iberike. Pas disfatës së Kartagjenës nga Roma në {{ill|Lufta e Parë Punike|en|First Punic War}}, ajo kërkoi territore të reja perëndimore, që kulmuan me {{ill|pushtimin barkid të Gadishullit Iberik|en|Barcid conquest of Hispania}} në vitin 237 p.e.s.{{Sfnp|Ferrer Albelda|Pliego Vázquez|2021|pp=21-22,30-32}}{{Sfnp|Cutillas-Victoria|Camino|Asensio|2024|p=1}}
+
+Romakët [[Lufta e Dytë Punike|pushtuan Gadishullin Iberik]] në vitin 218 p.e.s. dhe dëbuan kartagjenasit pas {{ill|Betejës së Ilipës|en|Battle of Ilipa}} në vitin 206 p.e.s.{{Sfnp|Hoyos|2015|pp=165–167}}{{Sfnp|Zimmermann|2011|pp=280-284,290-291,293}} Brenda 200 vjetësh, Portugalia kontinentale ishte {{ill|aneksuar nga romakët|en|Roman conquest of the Iberian Peninsula}}, përkundër rezistencës së fiseve vendase, si [[Lusitanët]] nën udhëheqjen e [[Viriati|Viriatit]] dhe udhëheqësve të tjerë.{{Sfnp|Pires Pereira|2024|pp=405-456}}{{Sfnp|Fernández-Götz|Maschek|Roymans|2020|pp=1633–1635}}{{Sfnp|Gil González|2017|pp=113-138}}
+
+Në vitin 409, me rënien e [[Perandoria Romake Perëndimore|Perandorisë Romake Perëndimore]], Gadishulli Iberik u pushtua nga fiset gjermane.{{Sfnp|Disney|2009|pp=34–37,41}} Iberia perëndimore u integrua në Mbretërinë e Suebëve, me kryeqytet në ose pranë [[Braga|Bragës]].{{Sfnp|Sánchez|2015|pp=176–209}}{{Sfnp|Disney|2009|p=37}} Visigotët mundën suebët në vitin 585 dhe sunduan gadishullin deri në fillim të shekullit të 8-të.{{Sfnp|Lenski|2022|pp=251–253}}{{Sfnp|Collins|2004|pp=60-61}}{{Sfnp|Castillo Lozano|2023|p=32}}
+
+Në vitin 711, Gadishulli Iberik u [[Pushtimi mysliman i Gadishullit Iberik|pushtua nga jugu]] nga [[Kalifati umajad]], i cili u zgjerua me shpejtësi.{{Sfnp|Rusin|2025|p=8}} Deri në vitin 716, Portugalia kontinentale e sotme ishte pjesë e territoreve myslimane iberike të njohura si [[Al-Andalus]].{{Sfnp|Rusin|2025|pp=7-9}} Kalifati umajad e qeverisi Al-Andalusin si provincë deri në pavarësinë e tij në vitin 756 nën Emiratin e Kordobës, i cili në vitin 929 la vendin e tij për një {{ill|Kalifati i Kordobës|es|Califato de Córdoba|lt=kalifat}} që zgjati deri sa u fragmentua në shtete të njohura si {{ill|Taifa|en|Taifa|lt=tajfa}}, duke u shembur në vitin 1031,{{Sfnp|Rusin|2025|pp=9-11,13-15}} ndërsa pjesa më e madhe e asaj që sot është Portugalia qendrore dhe jugore ra nën {{ill|Tajfën e Badajozit|en|Taifa of Badajoz}}.{{Sfnp|Disney|2009|p=56}} Tajfat u pushtuan nga forcat myslimane nga Afrika Veriore, fillimisht plotësisht nga Almoravidët deri në vitin 1115, të cilët u pasuan nga {{ill|Almohadët|en|Almohad Caliphate}} në vitet 1140.{{Sfnp|Disney|2009|pp=57,64,78-79}}{{Sfnp|Bennison|2016|pp=47,59-61}} Gjatë kësaj periudhe ndodhën edhe inkursione nga veriu, me bastisje vikinge të regjistruara nga viti 844 deri në shekullin e 11-të.{{Sfnp|Pires|2022|pp=92-95}}
+
+{{Reflist|group=sh}}
+=== ''Reconquista'' dhe pavarësia ===
+{{Hatnote|Artikulli kryesor: {{ill|Portugalia në Ripushtim|en|Portugal in the Reconquista}}, {{ill|Portugalia në Mesjetë|en|Portugal in the Middle Ages}}}}
+
+[[File:Estatua de Vimara Peres, Oporto, Portugal, 2012-05-09, DD 01.JPG|thumb|left|upright=.57|Vímara Peres|alt=Statuja e Vímara Peres]]
+
+[[Ripushtimi i Andaluzisë|''Reconquista'']] ishte një seri fushatash ushtarake dhe kulturore të shteteve të krishtera të Iberisë veriore kundër al-Andalusit.{{sfnp|Caraccioli|2021|p=15}} Vdekja e emirit omejad Abd ar-Rahmani II në vitin 852 i dha fund përpjekjeve omejade për ta zgjeruar autoritetin drejt veriut.{{sfnp|Lay|2009|p=7}} Zbulimi në vitet 830 i një varri që besohej se i përkiste [[Jakobi i Vjetri|Jakobit të Vjetër]] ua dha të krishterëve një mbrojtës të fuqishëm, ndërsa ngjitja në fron e Alfonsit III të Asturias në vitet 860 i dha fund një periudhe udhëheqjeje të pasigurt dhe ofroi komandën e nevojshme për ta kanalizuar këtë energji në një valë ekspansionizmi drejt jugut.{{sfnp|Lay|2009|p=7}} Në vitin 868, rajoni mes lumenjve Minho dhe Douro iu mor maurëve nga forcat e krishtera nën udhëheqjen e Vímara Peres dhe u konstituua nën drejtimin e tij si {{ill|Konti i Portugalisë|en|County of Portugal|lt=Kontea e Portugalisë}}.{{sfnp|Lay|2009|p=7}} Kontea e parë e Portugalisë zgjati deri në vitin 1071.{{sfnp|Lay|2009|pp=11-13}}{{sfnp|Gouveia|2013|pp=176-184}} Në vitin 1096, Alfonsi VI i Leonit e rithemeloi kontenë dhe ia dha Henrit të Burgundisë, i cili u martua me bijën e paligjshme të Alfonsit, Terezën e Leonit.{{sfnp|Lay|2009|pp=37-42}}
+
+[[File:D. Afonso Henriques - Compendio de crónicas de reyes (Biblioteca Nacional de España).png|thumb|upright=0.6|Mbreti Afonso I|alt=Miniaturë mesjetare e mbretit Afonso I]]
+
+Pas vdekjes së kontit Henri në vitin 1112, Tereza sundoi Portugalinë si mbretëreshë.{{sfnp|Bailey|2025|pp=170-179}}{{sfnp|Ribeiro Mirada|2025|pp=66-70}} Lidhja e saj e ngushtë që nga viti 1121 me Fernando Pérez de Trabën, një fisnik galician, i shqetësoi fisnikët vendas, të cilët u radhitën në krah të djalit të saj, Afonso Henriques, duke e mundur atë dhe mbështetësit e saj në {{ill|Beteja e São Mamedes|en|Battle of São Mamede}} në vitin 1128.{{sfnp|Godoy da Costa Leal Ferreira|2023|pp=24-37}}{{sfnp|Lay|2009|p=67}}{{sfnp|Lueiro|2023|pp=14-15}} Një vit më pas, Afonso pretendoi autoritet të plotë mbi gjithë kontenë, pa ndikim të huaj.{{sfnp|Lay|2009|pp=71-72}} Sipas legjendës, ai fitoi {{ill|Beteja e Ouriques|en|Battle of Ourique}} dhe mori titullin e mbretit në vitin 1139.{{sfnp|Mendes|2024|pp=147-172}}{{sfnp|Franco da Costa|2014}}{{efn|Ekzistojnë pesë dokumente të mbijetuara të shekullit XII që i referohen Betejës së Ouriques, por asnjëri nuk përmend ndonjë shfaqje të Krishtit para D. Afonso Henriques; referimet më të hershme të tilla shfaqen në shekullin XV. Sipas historianit Rodrigo Franco da Costa: «Asnjë dokument deri në shekullin XV nuk përmend shfaqjen e Krishtit para D. Afonso Henriques në prag të Betejës së Ouriques. Ato që janë paraqitur nuk janë bindëse. Megjithatë, ekzistojnë ‘pesë’ dokumente të shekullit XII që i referohen betejës — por asnjëri prej tyre nuk e përmend shfaqjen, edhe pse disa rrëfejnë mrekulli. Referimet e para të sigurta për mrekullinë shfaqen në mesin e shekullit XV. Pasi u shfaq, legjenda u zgjerua gradualisht derisa mori formën e saj përfundimtare te shkrimtarët e shekullit XVI ... Kemi, pra, nga njëra anë heshtjen e tri shekujve më të afërt me betejën lidhur me mrekullinë e shfaqjes, dhe nga ana tjetër shfaqjen e vonë të legjendës në rrethana që tregojnë për një proces evolutiv. Duhet theksuar gjithashtu se, sipas versionit të shekullit XVI, Krishti jo vetëm që u shfaq dhe premtoi fitoren — Ai profetizoi edhe fatet e ardhshme të Portugalisë. Kështu, bashkëkohësit e mbretit pushtues supozohet se morën nga vetë Zoti titujt që legjitimonin monarkinë e re dhe garancinë e së ardhmes së saj të lavdishme. Megjithatë, pikërisht për këtë fakt të themelimit hyjnor të Portugalisë — faktin më të rëndësishëm nga të gjithë për portugezët — të gjithë heshtin, ndërsa flasin për betejën që supozohet se ndodhi.»{{sfnp|Franco da Costa|2014}}}} Pretendimi i Afonsos u njoh në mënyrë të nënkuptuar nga Alfonsi VII i Leonit në Konferencën e Zamorës në vitin 1143, dhe nga [[Aleksandri III|Papa Aleksandri III]] në vitin 1179 përmes bulës papnore {{Lang|la|''{{ill|Manifestis Probatum|en}}''}}.{{sfnp|Ferreira|2013}}{{sfnp|Reilly|1998|pp=[https://books.google.pt/books?id=AVIrEAAAQBAJ&pg=PA80 80-81]}}{{sfnp|Veneziani|2025|pp=1-10}}{{efn|Ndryshe nga ç'besohet zakonisht, nuk ekzistojnë dokumente të mbijetuara që tregojnë se në Zamora në vitin 1143 u nënshkrua një traktat që e njihte statusin e Portugalisë si mbretëri nga Mbretëria e Leonit. Historiani Bernard F. Reilly thotë se: «Në tetor ai e ftoi Afonso Henriques në një konferencë në Zamora. Monarku leonez dëshironte jo vetëm të siguronte kufirin e vet me Portugalinë në muajt në vijim, por edhe të merrte bashkëpunimin e kushëririt të tij në sulme të njëkohshme ndaj almoravidëve, dhe ishte i gatshëm të bënte lëshimet më të mëdha për ta arritur një bashkëpunim të tillë. Dëshmitë se çfarë ndodhi mes të dyve në Zamora janë padyshim më të pakta se sa do të dëshironim. Në radhë të parë, ato përbëhen nga dy karta mbretërore, njëra për një Martin Cidez dhe tjetra për Pons de Cabrera (D458-59). Megjithëse sundimtari portugez nuk shfaqet si konfirmues i asnjërës, ai përmendet në formulën e datimit të të dyjave. Ato flasin për Këshillin e Valladolidit të mbajtur nga kardinali Guido dhe për «mbretin e Portugalisë» që erdhi për të mbajtur një konferencë me perandorin. Meqenëse kartat u hartuan nga kancelaria e Alfonsit VII, njohja e statusit të ri mbretëror të Afonso Henriques është e nënkuptuar.»{{sfnp|Reilly|1998|pp=[https://books.google.pt/books?id=AVIrEAAAQBAJ&pg=PA80 80-81]}}}}
+
+Me mbështetjen e kryqtarëve të Evropës veriore dhe të [[Urdhri ushtarak fetar|urdhrave ushtarakë dhe fetarë]] të krishterë,{{sfnp|Costa|Lencart|2023|pp=2-6,8-11}}{{sfnp|Lencart|2023|pp=662-668}}{{sfnp|Costa|Pimenta|2009|pp=273-284}} Afonso Henriques dhe pasardhësit e tij vazhduan përparimin drejt jugut deri në pushtimin e Algarvës, rajonit më jugor të Portugalisë kontinentale,{{sfnp|Costa|Pimenta|2009|pp=281-284}}{{sfnp|Pimenta|2020|pp=53-55}} e cila u njoh nga Mbretëria e Kastiljes si territor portugez në vitin 1267.{{sfnp|Wilson|2020|pp=199-229}}{{sfnp|Mendonça|1991|pp=1123-1134}} Me rregullime të vogla, kufijtë e Portugalisë kanë mbetur kryesisht të njëjtë që nga nënshkrimi i {{ill|Traktati i Alcañices|en|Treaty of Alcañices|lt=Traktatit të Alcañices}} mes Dionizit të Portugalisë dhe Fernando IV të Kastiljes në vitin 1297.{{sfnp|García|2006|pp=713–723}} Mes shekullit XIV dhe fillimit të shekullit XV, Portugalia u godit nga disa shpërthime të murtajës, luftëra civile, pushtime, zi buke dhe fatkeqësi natyrore që çuan në rënie të popullsisë, mungesë të fuqisë punëtore dhe rritje të antisemitizmit.{{sfnp|Disney|2009|pp=107-109}}
+
+{{Reflist|group=sh}}
+=== Epoka e Zbulimeve ===
+{{Kryesor|Perandoria Portugeze|Historia e Portugalisë (1415–1578)}}
+
+[[File:Portuguese Carracks off a Rocky Coast RMG BHC0705 (1).png|thumb|alt=Pikturë që tregon 10 anije portugeze pranë një qyteti të fortifikuar me mure dhe një kullë që ngrihet mbi portin, ku disa anije qëndrojnë të ankoruara; kodra të pyllëzuara shtrihen në sfond dhe një ishull i largët shfaqet në det, me ngjyra që kalojnë nga kafe-jeshile në plan të parë në blu në largësi.|Piktura ''Portuguese Carracks Off a Rocky Coast'' paraqet [[:en:Carrack|anije]] portugeze të [[Epoka e Zbulimeve|Epokës së Zbulimeve]] gjatë shekullit XVI.]]
+
+Pas vdekjes së mbretit {{ill|Ferdinandi I i Portugalisë|en|Ferdinand I of Portugal|lt=Ferdinandit I}} në vitin 1383, vajza e tij e mitur {{ill|Beatrisa e Portugalisë|en|Beatrice of Portugal|lt=Beatrisa}} u bë trashëgimtarja e tij ligjore nën regjencën e {{ill|Leonor Teles|en|Leonor Teles|lt=Leonor Telesit}}.{{Sfnp|Pinto|2025|pp=158-165}} Pasuria e Leonorës shkaktoi një {{ill|Interregnumi portugez 1383–1385|en|1383–1385 Portuguese interregnum|lt=krizë}}, e shtuar nga frika se martesa mes Beatrisës dhe {{ill|Gjoni I i Kastiljes|en|John I of Castile|lt=Gjonit I të Kastiljes}} [[:pt:Tratado de Salvaterra de Magos|mund të çonte]] në humbjen e pavarësisë së Portugalisë.{{Sfnp|Pinto|2025|p=160}} Në vitin 1385, Gjoni i Avizit, një bir i paligjshëm mbretëror dhe vëlla i Ferdinandit, u [[:pt:Cortes de Coimbra de 1385|zgjodh]] mbret dhe më vonë mundi kastiljanët në betejën e Aljubarrotës, duke konsoliduar sundimin e Shtëpisë së Avizit mbi vendin.{{Sfnp|da Cruz Coelho|2025|pp=337-341}}{{Sfnp|Monteiro|2020a|pp=63-65}}{{Sfnp|Monteiro|2020b|pp=70-74}} Në vitin 1386, gjatë mbretërimit të tij, Portugalia e vendosi [[:en:Anglo-Portuguese Alliance|aleancën me Anglinë]] me nënshkrimin e Traktatit të Uindsorit, duke e bërë atë aleancën më të vjetër ende në fuqi në botë.{{Sfnp|Childs|2024|pp=24-26,36-37}}<ref>{{cite web |last1=Fergusson |first1=George |last2=Trowbridge |first2=Benjamin |title=History's unparalleled alliance: the Anglo-Portuguese Treaty of Windsor, 9th May 1386 |website=History of Government |publisher=gov.uk |date=2016-05-09 |url=https://history.blog.gov.uk/2016/05/09/historys-unparalleled-alliance-the-anglo-portuguese-treaty-of-windsor-9th-may-1386/ |url-status=live |archive-url=https://web.archive.org/web/20240607175621/https://history.blog.gov.uk/2016/05/09/historys-unparalleled-alliance-the-anglo-portuguese-treaty-of-windsor-9th-may-1386/ |archive-date=2024-06-07 |access-date=2026-04-20 |language=en}}</ref> Dinastia kontribuoi në krijimin e kushteve për zgjerimin detar të Portugalisë,{{Sfnp|Barros Cardoso|da Silva Lima|2024|pp=388–410}} duke e ngritur atë në politikën dhe kulturën evropiane.{{Sfnp|Lima|2018|pp=81–97}}{{Sfnp|Montes|2019|pp=305-307}}{{Sfnp|Soares|2019|pp=313-337}} Portugalia fitoi kolonitë e para duke pushtuar Seutën në [[Afrika veriore|Afrikën veriore]] në vitin 1415.{{Sfnp|Ferrarini|Mocelim|2024|pp=518–540}}{{Sfnp|dos Santos|2017|p=25}}{{Sfnp|Monteiro|2017|pp=63-78}} Portugalia ishte ndër të parat që nisën Epokën e Zbulimeve,{{Sfnp|Mukherjee|2025|pp=357-361|loc="...despite its peripheral position in European affairs, Portugal and not Spain kick-started Europe's 'discovery' project."}}{{Sfnp|Casimiro|2020|pp=1–17|loc="In the Early Modern age, Portugal was among the first European countries to engage in overseas trade and colonial ventures."}}{{Efn|Koncepti i zbulimit që zbatohet për veprimtaritë portugeze jashtë shtetit në shekujt XV dhe XVI doli në Traktatin e Alcáçovasit. Pas viteve 1480 ai u bë kriteri kryesor për pretendimet territoriale. Para kësaj, zgjerimi portugez përqendrohej te pushtimi, [[Lufta fetare|lufta fetare]] dhe konvertimi me forcë. Para traktatit, dokumentet nuk bënin asnjë referim te zbulimi.{{Sfnp|Menez|2025|pp=51,59,60-61,73}}}} dhe përparimet e saj [[Shkencat e detarisë portugeze|shkencore]] ndikuan në zgjerimet e shteteve të tjera evropiane jashtë shtetit.{{Sfnp|Fontes da Costa|Leitão|2009|pp=35–56}}{{Sfnp|Vila-Santa|2024|pp=332-334}}
+
+Portugalia ishte fuqia e parë dhe e fundit koloniale në epokën e [[Kolonializmi|kolonializmit]] modern evropian,{{Efn|Perandoria koloniale e Portugalisë zgjati nga pushtimi i Seutës në vitin 1415 deri te dorëzimi i Makaosë në vitin 1999. Historiani L. Veracini thekson se Portugalia ishte fuqia e parë dhe e fundit shprehimisht koloniale.{{Sfnp|L'Estoile|2023|p=xii}}{{Sfnp|Veracini|2023|p=12}}{{Sfnp|Schriffl|2022|p=487}}}} dhe nga mesi i shekullit XVI ajo kontrollonte një rrjet zotërimesh që shtriheshin nga Lisbona deri në Japoni dhe Timor, përmes Brazilit.{{Sfnp|Veracini|2023|p=28}} Gjatë shekujve XV dhe XVI, eksploruesit portugezë lundruan në bregdetin e Afrikës, themeluan pika tregtare për mallra, veçanërisht ar dhe skllevër, eksploruan [[Oqeani Indian|Oqeanin Indian]] dhe Azinë lindore, dhe krijuan rrugë tregtare në pjesën më të madhe të Azisë jugore, duke tatuar pjesën më të madhe të tregtisë që kalonte nëpër Oqeanin Indian.{{Sfnp|Phillips|2014|p=22}}{{Sfnp|Smith|Boscariol|2022|pp=609–638}}{{Sfnp|Veracini|2023|pp=20-23}} Megjithatë, deri në shekullin XVI ndërmarrja e saj në Azi ishte tashmë në rënie.{{Sfnp|Mueller|Ayello Leite|2020|pp=1,23}} Traktati i Tordesillasit i vitit 1494 ndau territoret e reja jo-evropiane të hasura midis Portugalisë dhe Spanjës përgjatë një meridiani në perëndim të [[Gjeografia e Kepit të Gjelbër|Kepit të Gjelbër]], ndërsa Traktati i Saragosës i vitit 1529 e shtriu këtë ndarje në Oqeanin Paqësor.{{Sfnp|de Grijs|2020|pp=465-494}}
+
+Në vitin 1498, [[Zbulimi portugez i rrugës detare të Indisë|Vasco da Gama arriti në Indi nga deti]], dhe dy vjet më vonë {{ill|Zbulimi i Brazilit|en|Discovery of Brazil|lt=Pedro Álvares Cabral zbarkoi në Brazil}} dhe e shpalli pronë të Portugalisë.{{Sfnp|Mathew|2024|p=[https://books.google.com/books?id=UBOSEQAAQBAJ&pg=PA110 110]}}{{Sfnp|Veracini|2023|p=22}} Gjatë shekullit XV, Portugalia themeloi qarqet transatlantike të tregtisë së skllevërve dhe, deri në mesin e shekullit XIX, ishte bërë një nga pjesëmarrëset më të vjetra aktive dhe një pjesëmarrëse e rëndësishme në [[:en:Atlantic slave trade|tregtinë atlantike të skllevërve]].{{Sfnp|da Silva|2021|pp=77-104}}
+
+{{Reflist|group=sh}}
+=== Unioni Iberik dhe Restaurimi ===
+{{Hatnote|Artikujt kryesorë: {{ill|Unioni Iberik|en|Iberian Union}}; {{ill|Historia e Portugalisë (1640–1777)|en|History of Portugal (1640–1777)}}}}
+
+[[File:Coroação de D. João IV.png|alt=Gdhendje e kurorëzimit të Gjonit IV të Portugalisë|thumb|Kurorëzimi i mbretit {{ill|Gjoni IV i Portugalisë|en|John IV of Portugal|lt=Gjonit IV}} në Lisbonë]]
+
+Vdekja e {{ill|Sebastiani i Portugalisë|en|Sebastian, King of Portugal|lt=Mbretit Sebastian}} në [[:en:Battle of Alcácer Quibir|betejë]] më 1578 dhe vdekja pasuese e Mbretit Henri më 1580 pa lënë pasardhës të emëruar shkaktuan një {{ill|Kriza e trashëgimisë portugeze e vitit 1580|en|Portuguese succession crisis of 1580|lt=krizë trashëgimie}}.{{sfnp|Sousa|2024|pp=98-99}}{{sfnp|Arroyo|2016|pp=1-21}}{{sfnp|McTaggart|2021}} [[Filipi II i Spanjës]], nëna e të cilit ishte Isabela e Portugalisë, ishte një nga kandidatët për fronin.{{sfnp|Arroyo|2016|pp=1-21}}{{sfnp|Barrio Gozalo|2025|pp=303-305}} Më 1581 ai u {{ill|Kortes e Tomarit|pt|Cortes de Tomar de 1581|lt=shpall}} mbret i Portugalisë, duke krijuar një [[:en:Iberian Union|union personal]] midis dy mbretërive.{{sfnp|Arroyo|2016|pp=1-21}}{{sfnp|Barrio Gozalo|2025|pp=303-305}}{{sfnp|Stella|1999|pp=411-438}} Kjo e privoi Portugalinë nga një politikë e jashtme e pavarur dhe çoi në Luftën Holandezo-Portugeze.{{sfnp|Lousada|2024|pp=186-193}}{{sfnp|da Costa|2021|pp=29-52}}{{sfnp|Borschberg|2024|pp=48-72}}
+
+Më 1641, Gjoni, Duka i Braganzës, u shpall mbret nga Kortesi (Cortes) pas një kryengritjeje të udhëhequr nga disa fisnikë një vit më parë, çka i dha fund Unionit Iberik nën [[Habsburgët|Habsburgët]] dhe nisi sundimin e Shtëpisë së {{ill|Shtëpia e Braganzës|en|House of Braganza|lt=Braganzës}}.{{sfnp|Hespanha|1993|pp=31-32}}{{sfnp|Oliveira|2002|pp=714-717}}{{sfnp|Tengwall|2011|pp=448-459}} Pas {{ill|Lufta e Restaurimit Portugez|en|Portuguese Restoration War|lt=Luftës së Restaurimit Portugez}}, Spanja njohu Afonson VI si mbret të Portugalisë.{{sfnp|Dores Costa|2005|pp=1-14}}{{sfnp|Mitchell|2024|p=265}}{{sfnp|Esteves Soares|2025|pp=153-155,174-175}} Gjatë mbretërimit të Gjonit V, rrjedhja e madhe e arit brazilian në thesarin mbretëror, kryesisht përmes «së pestës mbretërore» (''quinto real''), shkaktoi një {{ill|Mallkimi i burimeve|en|Resource curse|lt=mallkim burimesh}} që dobësoi industrinë dhe prodhimin e drithërave, krijoi një etje për ar nga Portugalia drejt Brazilit dhe çoi në stagnim të zgjatur ekonomik, në ulje të përhershme të rritjes së të ardhurave dhe në ndërprerjen e progresit institucional dhe ekonomik të arritur në shekullin e 17-të.{{sfnp|Kedrosky|Palma|2025|pp=730–766}}
+
+Pas shterimit të të ardhurave nga ari, Portugalisë i mbeti një bazë e dobët industriale dhe struktura të prapambetura institucionale e arsimore. Kjo gjendje u keqësua nga {{ill|Markezi i Pombalit|en|Sebastião José de Carvalho e Melo, 1st Marquis of Pombal|lt=Sebastião José de Carvalho e Melo, Markezi i Parë i Pombalit}}, i cili doli si sundimtari {{lang|la|[[De fakto]]}} i vendit pas {{ill|Tërmeti i Lisbonës i vitit 1755|en|1755 Lisbon earthquake|lt=tërmetit dhe cunamit të vitit 1755}}, një nga fatkeqësitë natyrore më të këqija të regjistruara të mbretërisë. Përpjekjet e Pombalit për industrializim dështuan dhe politikat e tij arsimore dobësuan formimin e kapitalit njerëzor. Dëbimi i jezuitëve zvogëloi numrin e nxënësve dhe kontribuoi në rënien e shkrim-leximit në Portugali. Instrumentalizimi i {{ill|Inkuizicioni portugez|en|Portuguese Inquisition|lt=Inkuizicionit}} nga Pombali për qëllime politike ndihmoi në ngulitjen e një sistemi ekstraktiv që e mbijetoi sundimin e tij. Natyra e institucioneve politike ekzistuese kontribuoi në divergjencën e vazhdueshme të Portugalisë nga Evropa Perëndimore, pavarësisht vlerave familjare të krahasueshme dhe kapacitetit të lartë shtetëror, me një rimëkëmbje të pjesshme që nisi nga mesi i shekullit të 20-të, paralelisht me vazhdimin e kolonializmit.{{sfnp|Kedrosky|Palma|2025|pp=730–766}}{{sfnp|Stadheim|2023|p=777}}{{sfnp|Santos|Rijo|2022}}
+
+=== Monarkia kushtetuese ===
+{{Hatnote|Artikujt kryesorë: {{ill|Historia e Portugalisë (1777–1834)|en|History of Portugal (1777–1834)}}; {{ill|Historia e Portugalisë (1834–1910)|en|History of Portugal (1834–1910)}}}}
+
+[[File:Sessão das Cortes de Lisboa.jpg|thumb|upright|{{ill|Kortesi Kushtetutës i vitit 1820|en|Constituent Cortes of 1820|lt=Kortesi Kushtetues i vitit 1820}} miratoi {{ill|Kushtetuta portugeze e vitit 1822|en|Portuguese Constitution of 1822|lt=kushtetutën e parë të Portugalisë}}.|alt=Pikturë e madhe historike që tregon një sallë parlamentare të mbushur plot, në mes të një debati të zjarrtë gjatë Kortesit Kushtetues të vitit 1820. Dhjetëra burra të veshur zyrtarisht bëjnë shenja me duar, debatojnë dhe ngrihen nga vendet e tyre nën llamba kristali madhështore dhe një tavan të dekoruar pasur, ndërsa zyrtarë ulen në një tavolinë qendrore poshtë një baldakini dhe froni madhështor.]]
+
+Më 1807, Portugalia refuzoi kërkesën e [[Napoleon Bonaparti|Napoleonit]] për t'iu bashkuar {{ill|Sistemi Kontinental|en|Continental System|lt=Sistemit Kontinental}} të embargos kundër Mbretërisë së Bashkuar; pasoi një pushtim i udhëhequr nga gjenerali {{ill|Jean-Andoche Junot|en|Jean-Andoche Junot|lt=Junot}}, dhe Lisbona u pushtua në vitin 1807.{{sfnp|Joor|2016|p=57}}{{sfnp|Neves|2016|pp=101-104}} Gjatë pushtimeve napoleonike, familja mbretërore portugeze e transferoi oborrin në [[Rio de Zhaneiro]], në Brazil, duke e bërë atë kryeqytet midis viteve 1808 dhe 1821.{{sfnp|Cavalcanti|2007|pp=149–199}} Ndërhyrja britanike në {{ill|Lufta Gadishullore|en|Peninsular War|lt=Luftën Gadishullore}} ndihmoi në mbështetjen e pavarësisë portugeze dhe të gjitha trupat franceze u dëbuan deri më 1812.{{sfnp|Ertl|2008|p=303}}
+
+Më 1820, një {{ill|Revolucioni Liberal i vitit 1820|en|Liberal Revolution of 1820|lt=kryengritje}} në [[Porto]] kërkoi të vendoste një kushtetutë për Portugalinë, duke detyruar kthimin e mbretit [[Gjoni VI i Portugalisë|Gjon VI]] dhe oborrit të tij në Portugalinë kontinentale më 1821.{{sfnp|Cardoso|2022}} Edhe pse u miratua Kushtetuta e vitit 1822, procesi u shënua nga kompromise dhe përpjekje për konsensus, çka lejoi forcat absolutiste të rimarrin fuqi, duke çuar në kundërkryengritje miguelite kundër liberalizmit dhe në mërgimin e Princit Miguel.{{sfnp|Cardoso|2022}}{{sfnp|Lousada|2022|pp=287-288}} Pas vdekjes së Gjonit VI më 1826, djali i tij i madh, {{ill|Pedro I i Brazilit|en|Pedro I of Brazil|lt=Pedro I i Brazilit}}, mbretëroi shkurtimisht si Pedro IV i Portugalisë, dha Kartën e vitit 1826 dhe abdikoi në favor të të bijës së mitur, Maria da Glória, me kusht që ajo të martohej me Miguelin, i cili u emërua regjent.{{sfnp|Lousada|2022|pp=288-290}} Edhe pse kthimi i Miguelit u bë me kusht që të betohej për besnikëri ndaj Kartës, ai shpejt shpërbëri institucionet liberale dhe u shpall mbret më 1828, duke çuar në {{ill|Luftërat Liberale|en|Liberal Wars|lt=Luftërat Liberale}}, pas të cilave Pedro e detyroi Miguelin të abdikonte në favor të Marias dhe e dërgoi në mërgim, çka e dobësoi ideologjinë absolutiste.{{sfnp|Lousada|2022|pp=288-290}}
+
+Nën {{ill|Monarkia kushtetuese (Portugali)|pt|Monarquia constitucional (Portugal)|lt=monarkinë kushtetuese}}, vendi përballoi kriza ekonomike, paqëndrueshmëri politike dhe disa grusht shtete.{{sfnp|Birmingham|2018|pp=117–145}} {{ill|Kolonizimi i Afrikës (Portugali)|pt|Colonização portuguesa de África|lt=Zgjerimi kolonial}} afrikan i Portugalisë kulmoi me {{ill|Ultimatumi britanik i vitit 1890|en|1890 British Ultimatum|lt=Ultimatumin britanik të vitit 1890}}, i cili pengoi {{ill|Harta Rozë|en|Pink Map|lt=ambiciet}} e saj.{{sfnp|Patrício|2013|pp=11371-11397}}{{sfnp|Teixeira|1987|pp=687-719}} Ultimatumi dhe Traktati Anglo-Portugez i vitit 1891, të përforcuara nga trazirat ekzistuese, çuan në erozion politik dhe e dobësuan monarkinë.{{sfnp|Patrício|2013|pp=11397-11408}}{{sfnp|Teixeira|1987|pp=687-719}}
+
+{{Reflist|group=sh}}
+=== Republika e Parë dhe {{lang|pt-PT|Estado Novo}} ===
+{{Kryesor|}}{{Hatnote|Artikujt kryesorë: {{ill|Republika e Parë Portugeze|en|First Portuguese Republic}} dhe {{ill|Estado Novo (Portugali)|en|Estado Novo (Portugal)|lt=''Estado Novo'' (Portugali)}}}}
+
+[[File:Proclamação República Portuguesa.jpg|thumb|José Relvas duke shpallur republikën më {{ill|Revolucioni i 5 tetorit 1910|en|5 October 1910 revolution|lt=5 tetor 1910}}, në Bashkinë e Lisbonës|alt=Fotografi bardhezi e José Relvas duke shpallur Republikën, së bashku me disa burra të veshur zyrtarisht që mbështeten mbi parmakun e ballkonit të Bashkisë së Lisbonës dhe shikojnë poshtë drejt një sheshi të rrethuar me ndërtesa.]]
+
+Në vitin 1908, mbreti Karli I dhe Luís Filipe, princi trashëgimtar, u vranë nga militantë republikanë.{{sfnp|Corrêa da Silva|2019|pp=63-65,83}}{{sfnp|Barral Martínez|2026|pp=123-130}} Në vitin 1910, monarkia u zëvendësua me republikë.{{sfnp|Corrêa da Silva|2019|p=84}}{{sfnp|Pires|2017|pp=331-354}}{{sfnp|Wheeler|1972|pp=177-193}} Gjatë [[Lufta e Parë Botërore|Luftës së Parë Botërore]], Portugalia luftoi në anën e Aleatëve.{{sfnp|de Meneses|2025|pp=241-246}} Lufta e shtoi paqëndrueshmërinë politike dhe e thelloi krizën ekonomike, duke krijuar kaos dhe trazira të mëtejshme gjatë Republikës së Parë.{{sfnp|Ribeiro de Meneses|Aires Oliveira|2023|pp=273–292}}{{sfnp|Ferraz|2023a|pp=278–301}}{{sfnp|Madureira|2010|pp=647-663}} Këto kushte çuan në përmbysjen e Republikës në vitin 1926 dhe në krijimin e {{lang|pt-PT|{{ill|Ditadura Militar (Portugal)|pt|Ditadura militar portuguesa|lt=Ditadura Militar}}}},{{sfnp|Ferraz|2023b|pp=3-5,9-10}}{{sfnp|Schiavon|2011|pp=229–238}}{{sfnp|Lousada|2026|pp=181-201}} më vonë {{lang|pt-PT|Ditadura Nacional}},{{sfnp|Gazalle Cavichioli|2025|p=4}}{{sfnp|Moreira|2020|pp=491-493}} e cila, pas referendumit kushtetues të vitit 1933, u shndërrua në diktaturën autoritare, nacionaliste dhe korporativiste të {{lang|pt-PT|Estado Novo}},{{sfnp|Cruz|1985|pp=347-353}}{{sfnp|Borges Santos|2025|pp=838-852}} nën drejtimin e [[António de Oliveira Salazar|António de Oliveira Salazarit]].{{sfnp|Leal|2016|pp=128-148}}{{sfnp|Reis Santos|2024|pp=400-401,406-421}}{{sfnp|Ferreira da Cunha|2006|pp=187-207}}
+
+Gjatë {{lang|pt-PT|Estado Novo}}, Portugalia mbeti neutrale në [[Lufta e Dytë Botërore|Luftën e Dytë Botërore]], pas së cilës fundi i legjitimitetit kolonial në periudhën e pasluftës dhe rritja e lëvizjeve ekzistuese për pavarësi, me rrënjë në [[Depresioni i madh|Depresionin e Madh]], sfiduan gjithnjë e më shumë sundimin portugez jashtë shtetit.{{sfnp|Golson|2020|pp=79-110}}{{sfnp|Schriffl|2022|pp=474-476}}{{sfnp|Altink|Clayton|2027|pp=[https://books.google.pt/books?id=3xj_EQAAQBAJ&pg=PT227 201-202,208-209]}} Nga vitet 1940 e tutje, regjimi forcoi kontrollin mbi çështjet koloniale dhe zgjeroi administratën jashtë shtetit, gjë që rriti kostot dhe vonoi programet joefikase të zhvillimit. Ai ruajti një perandori ekonomike dhe doganore të fragmentuar, që favorizonte metropolin. Regjimi ruajti politika të synuara për të mbajtur kolonitë, si puna e detyruar deri në vitin 1961 dhe skemat e vendosjes së kolonëve, që shërbenin qëllimeve ekonomike, shoqërore dhe strategjike të metropolit.{{sfnp|Schriffl|2022|pp=474-477}}{{sfnp|Altink|Clayton|2027|pp=[https://books.google.pt/books?id=3xj_EQAAQBAJ&pg=PT230 203-209]}} Popujt autoktonë, tashmë qytetarë të klasit të dytë, përjetuan përmirësime të kufizuara në kushtet e jetesës.{{sfnp|Moutinho|2000|pp=87-132}} Kjo i nxiti më tej lëvizjet nacionaliste,{{sfnp|Moutinho|2000|pp=87-132}}{{sfnp|Garcia|2021|pp=45-60}}{{sfnp|Cann|2021|pp=91-105}} duke çuar në fund në {{ill|Lufta Koloniale Portugeze|en|Portuguese Colonial War}} nga {{ill|Sulmet në veri të Angolës në vitin 1961|pt|Ataques ao norte de Angola em 1961|lt=viti 1961}} deri në vitin 1974.{{sfnp|Aires Oliveira|2017}}{{sfnp|Júnior|2021|pp=121-137}}{{sfnp|Rodrigues|2021|pp=107-128}}
+
+=== Kthimi në demokraci ===
+{{Hatnote|Artikujt kryesorë: {{ill|Revolucioni i Karafilave|en|Carnation Revolution}} dhe {{ill|Republika e Tretë Portugeze|en|Third Portuguese Republic}}}}
+
+[[File:Ondanks een verbod wilden leden van de Portugese Maoïstische beweging MRPP op 31, Bestanddeelnr 927-7289.jpg|thumb|left|Automjete të blinduara në sheshin Rossio të Lisbonës, në vitin 1975|alt=Fotografi bardhezi natën e disa automjeteve ushtarake të blinduara të radhitura në sheshin Rossio, me ushtarë që qëndrojnë pranë tyre, afër Kolonës së Pedro IV, dhe me tabela neoni të ndritshme në sfond.]]
+
+Në vitin 1974, një grusht shteti ushtarak përmbysi regjimin {{lang|pt-PT|Estado Novo}},{{sfnp|Pimentel|2024|pp=121-146}}{{sfnp|Andrade|2024|pp=253-254}} dhe nisi Revolucionin e Karafilave.{{sfnp|Varela|Alcântara|2015|p=151-152}}{{sfnp|Pimentel|2024|pp=121-146}}{{sfnp|Leite Pinto|2016|pp=309-343}} Kjo nisi tranzicionin drejt demokracisë dhe shpërbërjen e perandorisë koloniale të Portugalisë,{{sfnp|Costa Pinto|Paris|2023|pp=7-18}}{{sfnp|Mendes|Teixeira|2026}}{{sfnp|Lousada|Oliveira|2025|pp=15-45}} nga pavarësia e kolonive afrikane deri te dorëzimi i Makaos në vitin 1999.{{sfnp|Esgalhado|2025|pp=52-68}}{{sfnp|MacQueen|2018|pp=172-175,178}}{{sfnp|Mendes|Steenhagen|2024|pp=297-300,303-306}} Kjo periudhë u karakterizua nga trazira shoqërore, ushtarake dhe politike, që kulmuan në politikën e rrugës dhe dhunë dhe e çuan Portugalinë në prag të luftës civile.{{sfnp|Palacios Cerezales|2017|pp=688-709}}{{sfnp|Palacios Cerezales|2003|pp=1127-1157}}{{sfnp|Ferreira|2025|pp=223-243}} Grushti i shtetit i vitit 1975 hapi rrugën për miratimin e një kushtetute të re dhe për mbajtjen e zgjedhjeve, duke filluar të zbusë tensionet.{{sfnp|Pinto|2008|pp=305-332}}{{sfnp|Costa Pinto|Paris|2023|pp=11,17-19}}{{sfnp|Rezola|2012|pp=656-658}}
+
+Pas revolucionit, në fund të viteve 1970 dhe gjatë viteve 1980, nën ndikimin e kuptimeve të reja ekonomike, Portugalia filloi të çmontonte politikat socialiste të asaj periudhe dhe të lëvizte drejt [[Neoliberalizmi|neoliberalizmit]].{{sfnp|Noronha|2022|pp=113–128}} Në vitin 1986, Portugalia iu bashkua [[Komuniteti Ekonomik Evropian|Komunitetit Ekonomik Evropian]] (KEE), gjë që solli reforma strukturore.{{sfnp|Dooley|2018|pp=76-77}} Kjo çoi në vitet 1990 në rritje të ndjeshme ekonomike, të nxitur nga [[Krediti|konsumi i financuar me kredi]] dhe nga një rritje e mprehtë e borxhit privat.{{sfnp|Dooley|2018|pp=77-80}} Së bashku me rritjen e sektorëve financiarë dhe atyre jo të tregtueshëm, kjo kontribuoi në çekuilibra makroekonomikë dhe hapi rrugën për stanjacion ekonomik pas viteve 2000.{{sfnp|Dooley|2018|pp=80-83}} Në fund çoi në krizën financiare portugeze të viteve 2010–2014, e cila rezultoi në një shpëtim ndërkombëtar financiar dhe në politika të ashpra [[Austeriteti|kursimi]], duke shkaktuar pasoja afatgjata, si pasiguria e punësimit të të rinjve.{{sfnp|Dooley|2018|pp=81-88}}{{sfnp|Pedroso|2014}}{{sfnp|Fonseca|Lourenço|Francisco|Crespo|2023|pp=322–324}}
+{{Reflist|group=sh}}
+== Gjeografia ==
+{{Hatnote|Artikulli kryesor: {{ill|Gjeografia e Portugalisë|en|Geography of Portugal}}}}
+
+[[File:Portugal topographic map-en.svg|alt=Shih përshkrimin|upright|thumb|Një hartë topografike e Portugalisë]]
+
+Territori i Portugalisë përfshin Portugalinë kontinentale dhe arkipelagët e Azoreve dhe të Madeiras.{{sfnp|Ramos|Ramos-Pereira|2020|p=4}} Pjesa kontinentale, e quajtur zakonisht {{ill|Portugalia kontinentale|en|Continental Portugal}}, ndodhet në jugperëndim të Gadishullit Iberik, në {{ill|Evropën Jugperëndimore|en|Southwestern Europe}}, ndërsa Madeira dhe Azoret shtrihen në [[Oqeani Atlantik|Oqeanin Atlantik]].{{sfnp|Ramos|Ramos-Pereira|2020|p=4}}<ref>{{cite web |url=https://portaldiplomatico.mne.gov.pt/en/about-portugal |publisher=Ministry of Foreign Affairs |website=Diplomatic Portal |access-date=2026-05-27 |archive-url=https://web.archive.org/web/20251027183927/https://portaldiplomatico.mne.gov.pt/en/about-portugal |title=About Portugal |archive-date=2025-10-27 |url-status=live |language=en}}</ref> Sipërfaqja tokësore e Portugalisë është {{convert|92,225|km2|sqmi|0|abbr=on}}, megjithëse e drejta portugeze e përcakton madhësinë e vendit në {{convert|156,597|km2|sqmi|0|abbr=on}}, që përfshin rreth {{convert|64,000|km2|sqmi|0|abbr=on}} ujëra oqeanike.{{sfnp|Ramos|Ramos-Pereira|2020|p=4}}{{sfnp|Bessa Pacheco|2014|pp=112-116}}{{efn|Territori i Portugalisë përfshin tokën, ujërat e brendshme dhe [[Ujërat territoriale|detin territorial]].{{sfnp|Ferrão|2016|pp=123-134}}}} {{ill|Zona ekonomike ekskluzive e Portugalisë|en|Exclusive economic zone of Portugal}} shtrihet në {{Convert|1,727,408|km2|mi2|abbr=on}}, duke e bërë një nga më të mëdhatë në [[Bashkimi Evropian|Bashkimin Evropian]].{{sfnp|Baptista|Neto|Braverman|Steinberg|2025|pp=805-827}}{{sfnp|Calado|Frazão Santos|Quintela|Fonseca|2024}} Vendi është mbi dy të tretat [[Natyra e egër|natyrë e egër]], gati një e katërta tokë bujqësore, ndërsa pjesa tjetër përbëhet nga [[Vendbanimi|vendbanime]].{{sfnp|''Portugal: forest profile''|2021|p=1}} Pika më e lartë e Portugalisë është maja e {{ill|Mali Pico|en|Mount Pico|lt=Malit Pico}}, e vendosur në {{ill|Ishulli Pico|en|Pico Island|lt=ishullin Pico}} në Azore, që arrin një lartësi prej {{convert|2351|m|ft|abbr=on}} mbi nivelin e detit.{{sfnp|Melo|Neto Torres|Ferreira Fernandes|Marques Lameirinhas|2020}}{{efn|Maja më e lartë në Portugalinë kontinentale është Torre në Serra da Estrela, me një lartësi prej {{convert|1993|m|ft}}.{{sfnp|Andrade|Mourato|Ramos|2021}}}}
+
+Portugalia mund të ndahet në katër njësi morfostrukturore:{{sfnp|Gerasimov|Meshcheryakov|2006|pp=731–733}} {{ill|Masivi Hesperian|en|Hesperian Massif}}, që zë pjesën më të madhe të Portugalisë kontinentale; kufijtë sedimentarë të masivit, që formojnë pellgjet Lusitanian dhe Algarve; pellgjet sedimentare të Tagusit të Poshtëm dhe të Alvalades; dhe vargmalet nënujore vullkanike që formojnë Azoret dhe Madeirën.{{sfnp|Ramos|Ramos-Pereira|2020|pp=4-5,13}} Veçoritë e saj gjeologjike dhe [[Gjeomorfologjia|gjeomorfologjike]] janë kryesisht produkt i orogjenezës Variscane, përgjegjëse për formimin e Masivit Hesperian, dhe më pas i ciklit Tetis–Atlantik, përgjegjës për njësitë e tjera.{{sfnp|Ramos|Ramos-Pereira|2020|pp=4-13,29}}
+
+Proceset tektonike rajonale ndikuan ndryshe te njësitë morfostrukturore të Portugalisë kontinentale, duke krijuar ndryshime në reliev që e ndajnë territorin në dhjetë njësi gjeomorfologjike rajonale. Këto njësi u formuan nga ndikimet e ndryshme rajonale të tektonikës së Kenozoikut, nga asimetritë klimatike në Paleogjen, Neogjen dhe [[Kuaternari|Kuaternar]], si dhe nga përgjigjet e ndryshme litologjike ndaj aktivitetit tektonik dhe ndryshueshmërisë klimatike.{{sfnp|Ramos|Ramos-Pereira|2020|pp=13-29}}
+
+Portugalia kontinentale është kryesisht me lartësi të ulët, me mbi 70% të territorit nën {{convert|400|m|ft|abbr=on}} dhe më pak se 12% mbi {{convert|700|m|ft|abbr=on}} lartësi. Gjeografia e saj strukturohet nga lumi {{ill|Tagus|en|Tagus}}, i cili hyn nga Spanja dhe derdhet në grykëderdhjen e Tagusit, pasi 95% e zonave mbi {{convert|400|m|ft|abbr=on}} ndodhen në veri të lumit, ndërsa rajonet në jug të Tagusit, që përfshijnë {{ill|Alentejon|en|Alentejo}} dhe {{ill|Algarven|en|Algarve}}, kanë 62% të tokave nën {{convert|200|m|ft|abbr=on}}. Territori në veri të Tagusit shquhet për male dhe pllaja të çara nga luginat e lumenjve, ndërsa jugu dallohet për rrafshina të valëzuara.{{sfnp|Ramos|Ramos-Pereira|2020|pp=13–25}}
+
+Arkipelagu i Madeiras përbëhet nga ishujt Madeira dhe Porto Santo, së bashku me Desertas dhe Ishujt e Egër, të cilët janë të gjithë me [[Gjeologjia e Madeiras|origjinë vullkanike]]. Rreth një e treta e ishullit të Madeiras shtrihet mbi {{convert|1000|m|ft}} lartësi, dhe peizazhi i tij karakterizohet nga një rrjet i dendur luginash të thella me shpate që ngrihen disa qindra metra, si dhe nga përrenj që burojnë në qendër të ishullit dhe shpërndahen drejt bregut, të ushqyer nga reshje të bollshme. Pjerrësia e madhe dhe reshjet shumë të larta shkaktojnë përmbytje të befta me transport të lartë sedimentesh.{{sfnp|Ramos|Ramos-Pereira|2020|pp=25–26}}
+
+Azoret janë një arkipelag i përbërë nga nëntë ishuj vullkanikë, të cilët, nga perëndimi në lindje, janë Flores, Corvo, Faial, Pico, São Jorge, Graciosa, Terceira, São Miguel dhe Santa Maria. Ishujt ruajnë një pjesë të madhe të format e tyre vullkanike të relievit, më dukshëm në konet vullkanike dhe në liqenet që formësojnë peizazhin e ishujve, sidomos São Miguel, Flores, Terceira, Pico dhe Corvo. Megjithëse reshjet janë të bollshme, shumica e rrjedhave ujore në Azore janë të përkohshme. Përmasat e vogla të [[Pellgu kullues|pellgjeve kulluese]], pjerrësia e shpateve dhe [[Shpyllëzimi|shpyllëzimi]] përforcojnë regjimin torrential të lumenjve gjatë periudhave të reshjeve intensive, duke shkaktuar probleme erozioni dhe përmbytje.{{sfnp|Ramos|Ramos-Pereira|2020|pp=26–28}}{{sfnp|''Portugal: forest profile''|2021|p=1}}{{sfnp|Pereira|Mendes|Dias|2022}}
+
+{{Reflist|group=sh}}
+=== Klima ===
+{{Kryesor|Klima e Portugalisë}}
+
+{{Image frame|align=right|border=yes|caption={{ill|Llojet klimatike sipas Këppenit|en|Köppen climate classification|lt=Llojet klimatike sipas Këppenit}} në terrenin e Portugalisë<br/>{{sfnp|Beck|McVicar|Vergopolan|Berg|2023|p=3}}|content=
+{{stack
+|{{CSS image crop
+|alt = Harta e klasifikimit klimatik për sipërfaqen tokësore të Portugalisë midis viteve 1991 dhe 2020
+|Image = Koppen-Geiger Map v2 PRT 1991–2020 (labeled).svg
+|bSize = 1050
+|cWidth = 146
+|cHeight = 170
+|oTop = 57
+|oLeft = 640
+}}
+|{{CSS image crop
+|alt = Harta e klasifikimit klimatik për sipërfaqen tokësore të Portugalisë midis viteve 1991 dhe 2020
+|Image = Koppen-Geiger Map v2 PRT 1991–2020 (labeled).svg
+|bSize = 600
+|cWidth = 146
+|cHeight = 60
+|oTop = 110
+|oLeft = 455
+}}
+}}
+{{stack
+|{{CSS image crop
+|alt = Harta e klasifikimit klimatik për sipërfaqen tokësore të Portugalisë midis viteve 1991 dhe 2020
+|Image = Koppen-Geiger Map v2 PRT 1991–2020 (labeled).svg
+|bSize = 490
+|cWidth = 100
+|cHeight = 100
+|oTop = 30
+|oLeft = 6
+}}
+|{{CSS image crop
+|alt = Shih titullin dhe tekstin ngjitur
+|Image =Koppen-Geiger Map v2 PRT 1991–2020 (labeled).svg
+|bSize = 800
+|cWidth = 100
+|cHeight = 130
+|oTop = 220
+|oLeft = 300
+}}
+}}
+}}
+
+Klima e Portugalisë kontinentale dhe e Madeiras, së bashku me ujërat përreth tyre, është [[Klima mesdhetare|mesdhetare]], ndërsa Azoret dhe ujërat ngjitur kanë kryesisht një {{ill|Klima oqeanike|en|Oceanic climate|lt=klimë të butë oqeanike}}.{{sfnp|Rohli|Vega|Henderson|2024|p=271}}{{sfnp|Adinolfi|Loprieno|Demory|Zeman|2025}}{{sfnp|Mora|Vieira|2020|pp=33–46}} Terreni i Portugalisë ka një larmi të gjerë klimash rajonale në raport me madhësinë e saj.{{sfnp|Mora|Vieira|2020|pp=33–46}} Temperatura mesatare në Portugali varion nga {{convert|4-20|°C|°F|1}} në pjesën kontinentale, rreth {{convert|18|°C|°F|1}} në Azore dhe {{convert|9-19|°C|°F|1}} në Madeira.{{sfnp|Mora|Vieira|2020|p=36}}{{sfnp|Rusu|2023|pp=5-15}}{{sfnp|Pinheiro de Carvalho|Ragonezi|Oliveira|Reis|2022}}
+
+Gadishulli Iberik ndodhet në skajin jugor të zonës së butë dhe në skajin verior të zonës subtropikale të presionit të lartë. Përveç kësaj, klima e Portugalisë ndikohet nga zhvendosja sezonale gjerësore e rrymës së jetit (''jet stream''), e cila ndikon drejtpërdrejt në trajektoren e frontit polar. Zakonisht në dimër rryma e jetit zhvendoset drejt jugut dhe Portugalia vihet nën ndikimin e frontit polar, duke sjellë temperatura më të ftohta. Kur fronti polar zhvendoset drejt veriut, Portugalia vihet nën ndikimin e anticiklonit të Azoreve, duke sjellë stabilitet atmosferik gjatë verës.{{sfnp|Mora|Vieira|2020|pp=33–46}} Në bregdet ndodh ngritja e ujërave të thella (''upwelling''), e cila krijon ''Nortadën'', një erë verore përgjatë bregdetit.{{sfnp|Ramos|Pires|Sousa|Trigo|2013|pp=38-51}}
+
+Zjarret e egra përbëjnë një sfidë serioze në Portugali: gati 30% e atyre të [[2024 Portugal wildfires|regjistruar në vitin 2024]] kishin origjinë të papërcaktuar, ndërsa zjarrvënia përbënte gati pesë të gjashtat e sipërfaqes së përgjithshme të djegur.{{sfnp|Sedano|San-Miguel-Ayanz|Broglia|Durrant|2025|p=102}} Midis viteve 2014 dhe 2024, Portugalia regjistroi mesatarisht 12.496&nbsp;zjarre në vit dhe {{convert|112455|ha|sqmi|0|abbr=on}} sipërfaqe të djegur, duke u bërë vendi i Bashkimit Evropian me numrin mesatar më të lartë të zjarreve të egra dhe me sipërfaqen mesatare më të madhe të djegur gjatë asaj periudhe.{{sfnp|Sedano|San-Miguel-Ayanz|Broglia|Durrant|2025|p=13}} {{ill|Ndryshimet klimatike në Portugali|en|Climate change in Portugal|lt=Ndryshimet klimatike}} parashikohet të rrisin temperaturat mesatare në Portugali deri në {{convert|3-4|°C|°F|1}} deri në vitin 2100 në krahasim me mesataren e viteve 1990–2010,{{sfnp|Carvalho|2024}}{{sfnp|Carvalho|Meirelles|Henriques|Navarro|2022|p=353}}{{sfnp|Adinolfi|Loprieno|Demory|Zeman|2025}} me ndikime në ujin,{{sfnp|Claro|Fonseca|Fraga|Santos|2024}} ekosistemin,{{sfnp|Pedersen|Dias|Kok|van Vuuren|2024}} bujqësinë,{{sfnp|Lima|Bento|Lemos|Nogueira|2023}} shëndetin{{sfnp|Teixeira|Carvalho|Rocha|Pereira|2026}} dhe sigurinë.{{sfnp|Araújo|Ramos|Soares|Melo|2022|pp=2279–2293}}{{sfnp|Cramer|Guiot|Fader|Garrabou|2018|pp=972–980}}
+
+=== Biodiversiteti ===
+{{Hatnote|Artikulli kryesor: {{ill|Biodiversiteti i Portugalisë|en|Biodiversity of Portugal}}}}
+
+[[File:Miradouro da Cascata do Arado.jpg|right|thumb|Parku Kombëtar Peneda-Gerês në Portugalinë veriore është i vetmi park kombëtar në Portugali.{{sfnp|Cruz|Sánchez|Suárez|2024}}|alt=Pamje e gjerë e një lugine malore të pyllëzuar në Parkun Kombëtar Peneda-Gerês nën re gri, me shpate shkëmbore në të dy anët, një rrjedhë uji në qendër dhe një urë e vogël prej guri e fshehur pjesërisht mes pemëve]]
+
+Portugalia ndodhet në pellgun e Mesdheut, një pikë e nxehtë e biodiversitetit.{{sfnp|Solomou|2025|p=147}} Ajo është vendbanim i gjashtë ekoregjioneve tokësore: pyjet e përziera të butë të Azoreve, pyjet e përziera kantabrike, pyjet e përhershëm të gjelbër të Madeiras, pyjet sklerofile dhe gjysmëpërjashtuese të Iberisë, pyjet malore të Iberisë Verilindore dhe pyjet sklerofile e të përziera mesdhetare të Iberisë Jugperëndimore.{{sfnp|Dinerstein|Olson|Joshi|Vynne|2017|pp=534–545}} Gati një e katërta e sipërfaqes së saj tokësore përfshihet në rrjetin {{ill|Natura 2000|en}}.{{sfnp|Frazão-Moreira|Martins|2023|pp=93-111}} Speciet autoktone si lisi i gjelbër, lisi i tapës, pisha e pinjollit dhe pisha detare përbëjnë 72% të sipërfaqes së përgjithshme pyjore të Portugalisë kontinentale.{{sfnp|Ferreira|Ribeiro|Pereira|2026}}
+
+Portugalia dhe Spanja kanë një përqindje më të lartë të specieve endemike të peshqve të ujërave të ëmbla se kudo tjetër në Evropë, 73%.{{sfnp|Rodeles|Galicia |Miranda|2016|p=2}} Mes zonave të mbrojtura të Portugalisë janë Parku Natyror i Alentejos Jugperëndimor dhe Bregdetit të Vicentinës, një nga pjesët e fundit të mbetura të bregdetit të egër në Evropë, dhe Parku Natyror i Montesinhos, i cili ruan një nga peizazhet e paktë të paprekura malore mesdhetare.{{sfnp|Bastos|Dias|Baptista|Batista|2012|pp=102-103,113-115}}{{sfnp|Castro|2009|pp=151–154}}
+
+Kushtet gjeografike dhe klimatike lehtësojnë përhapjen e specieve të huaja pushtuese të bimëve. Mbi një e katërta e specieve ekzistuese të bimëve në Portugalinë kontinentale janë ekzotike.{{sfnp|Oliveira-Costa|2022|pp=604,620-621}} Portugalia ka një nga numrat më të lartë të specieve të kërcënuara të kafshëve dhe bimëve në Evropë.<ref>{{cite web |publisher=IUCN |author=<!-- not stated --> |title=IUCN Red List of threatened species |version=2025-2 |url=https://www.iucnredlist.org/statistics |website=IUCN Red List |access-date=2026-04-22 |year=2025 |language=en}}</ref> Portugalia është një pikë e rëndësishme ndalese për shpendët shtegtarë, pasi zonat e saj të njomura shërbejnë si vende kyçe dimërimi dhe ndalese për shumë shpendë bregdetarë, për shkak të vendndodhjes së tyre në {{ill|Rruga Lindore e Atlantikut|en|East Atlantic Flyway|lt=Rrugën Lindore të Atlantikut}}.{{sfnp|Belo|Dias|Jara|Almeida|2023|pp=141–149}} Disa specie dhe nënspecie gjitarësh të Portugalisë, si [[Dreri i rëndomtë|dreri i kuq]], cjapi iberik, [[Derri i egër|derri i egër]], [[Dhelpra e kuqe|dhelpra e kuqe]], ujku iberik dhe rrëqebulli iberik, dikur ishin të përhapur në të gjithë vendin, por gjuetia intensive, degradimi i habitatit dhe presioni në rritje nga bujqësia dhe blegtoria i reduktuan ndjeshëm popullatat e tyre në shekujt e 19-të dhe të 20-të.{{sfnp|Bencatel|Sabino-Marques|Álvares|Moura|2019|pp=70,72-73,96,104,106,112,226-227}} Tre specie dhe nënspecie gjitarësh, si cjapi portugez, janë zhdukur, por disa specie gjitarësh, si lepuri iberik, kanë qenë duke e zgjeruar sërish përhapjen e tyre vendase.{{sfnp|Santos|Ceríaco|2025|p=3}}{{sfnp|Bencatel|Sabino-Marques|Älvares|Moura|2019|pp=156-157,226-227}}{{Reflist|group=sh}}
+== Qeveria dhe politika ==
+{{Hatnote|Artikujt kryesorë: [[Qeveria e Portugalisë]] dhe {{ill|Politika e Portugalisë|en|Politics of Portugal}}}}
+
+{{Multiple image
+| alt1 = António José Seguro duke buzëqeshur pranë një steme të madhe portugeze.
+| alt2 = Luís Montenegro duke buzëqeshur pranë një flamuri portugez.
+| caption_align     = center
+| image1            = António José Seguro 2026-04-21 (cropped).png
+| width1            = 154
+| caption1          = {{ill|António José Seguro|en}}<br />{{ill|Presidenti i Portugalisë|en|President of Portugal|lt=Presidenti}}
+| image2            = Luís Montenegro September 2025.jpg
+| width2            = 151
+| caption2          = {{ill|Luís Montenegro|en}}<br />{{ill|Kryeministri i Portugalisë|en|Prime Minister of Portugal|lt=Kryeministri}}
+| total_width       = 305
+}}
+
+Portugalia është një [[Republika gjysmëpresidenciale|republikë gjysmëpresidenciale]] demokratike përfaqësuese që nga ratifikimi i {{ill|Kushtetuta e Portugalisë|en|Constitution of Portugal|lt=Kushtetutës së vitit 1976}}.{{sfnp|''Constitution of the Portuguese Republic''|2005|loc= Pjesa IV: Garantimi dhe rishikimi i Kushtetutës, Dispozitat përfundimtare dhe kalimtare, neni 296, pika 2}}{{sfnp|Neto|2023|pp=122-125,132}}{{sfnp|Tavares de Almeida|2010|pp=1535-1539}} Kushtetuta i ndan strukturat themelore të sistemit politik portugez midis katër {{ill|organe sovrane|en|Sovereignty body (Portugal)}}: presidentit, qeverisë, Asamblesë së Republikës dhe gjykatave.{{sfnp|Fontes|2013|pp=93-94}} Ekziston {{ill|e drejta e përgjithshme e votës|en|Universal suffrage}} për të rriturit mbi 18&nbsp;vjeç, me votim të fshehtë për të gjitha postet e zgjedhura.{{sfnp|Tavares de Almeida|2010|pp=1535-1537}} Portugalia ka një sistem konkurrues shumëpartiak në nivel kombëtar, rajonal dhe lokal.{{sfnp|de Sousa|da Cruz|Fernandes|2023|pp=1-29}}{{sfnp|Ruel|2021|pp=85-91}}{{sfnp|Calca|Ruel|2024|pp=704-718}} Ka pasur tendenca drejt autokratizimit.{{sfnp|Marina|Altman|Fernandes|God|2026|p=41|loc="Tetë vendet që janë shumë afër kalimit në autokratizim janë: Bullgaria, Qiproja, Namibia, Portugalia, Rusia, Sierra Leone, Sudani dhe Vanuatu. Tre nga tetë vendet janë të reja në listën e vëzhgimit këtë vit: Bullgaria, Portugalia dhe Vanuatu."}}<ref>{{Cite web |title=Portugal |author=The Global State of Democracy |url=https://www.idea.int/democracytracker/country/portugal |access-date=2026-04-29 |publisher=International IDEA |date=June 2025 |quote=Between 2019 and 2024, it experienced declines in multiple factors of Representation, Rights and Rule of Law. |archive-url=https://web.archive.org/web/20260331023341/https://www.idea.int/democracytracker/country/portugal |archive-date=2026-03-31 |url-status=live |language=en}}</ref>
+
+Kryetari i shtetit i Portugalisë është presidenti, i cili zgjidhet për një mandat pesëvjeçar me votim të drejtpërdrejtë të përgjithshëm.{{sfnp|Narciso|2023|p=210}}{{sfnp|Mendonça|2023|p=52}}{{sfnp|Tavares de Almeida|2010|pp=1536-1537}} Presidenti zakonisht konsiderohet politikisht i pavarur dhe ka kompetenca moderuese që synojnë të sigurojnë funksionimin e rregullt të institucioneve dhe garancitë kushtetuese;{{sfnp|Graça Feijó|2021|pp=164,166}}{{sfnp|Gomes|Albergaria|Canotilho|2021|pp=478-479,517}}{{sfnp|Feijó|2019|pp=39-41}}{{efn|Presidenti ka edhe kompetenca të jashtëzakonshme përveç atyre moderuese, të cilat nuk janë ekskluzive për këtë post.{{sfnp|Gomes|Albergaria|Canotilho|2021|p=514}}}} përveç kësaj, ai ka komandën e lartë të forcave të armatosura{{sfnp|Gomes Canotilho|Moreira|1991|pp=101-106}} dhe ndikon në opinionet dhe axhendat politike.{{sfnp|Grimaldi|2023|pp=196-205,222-228,380-396}}{{sfnp|Graça Feijó|2021|pp=90-95}}{{sfnp|Amorim Neto|Anselmo|2024|pp=704-721}} Presidenti aktual i Portugalisë është {{ill|António José Seguro|en}}; ai {{ill|Tomada de posse do Presidente da República Portuguesa|pt|Tomada de posse do Presidente da República Portuguesa|lt=mori detyrën}} pasi fitoi balotazhin e {{ill|Zgjedhjet presidenciale portugeze të vitit 2026|en|2026 Portuguese presidential election|lt=zgjedhjeve presidenciale portugeze të vitit 2026}}.<ref>{{cite news|title=António José Seguro toma posse como Presidente da República (António José Seguro merr detyrën si President i Republikës)|access-date=2026-08-12|date=2026-03-09|location=Lisbon|publisher=Lusa|language=pt|url=https://www.lusa.pt/article/46713307/|archive-url=https://web.archive.org/web/20260812153458/https://www.lusa.pt/article/46713307/|archive-date=2026-08-12|url-status=live}}</ref><ref>{{cite news |first1=Andrei |last1=Khalip |first2=Sergio |last2=Goncalves |location=Lisbon |url=https://www.reuters.com/world/portugal-votes-presidential-runoff-with-socialist-poised-victory-2026-02-08/ |title=Portugal elects Socialist as president by landslide, but far right grows |publisher=Reuters |date=2026-02-08 |access-date=2026-04-29 |language=en}}</ref>
+
+{{Multiple image
+| direction         = vertical
+| width             = 220
+| image1            = Lisbon, Belém Palace.JPG
+| caption1          = {{ill|Pallati i Belémit|en|Belém Palace}}, rezidenca dhe vendi i punës i presidentit
+| alt1              = Fotografi e Pallatit të Belémit. Një pallat i madh me ngjyrë rozë të zbehtë dhe çati me tjegulla qëndron pas një tarace me mur dhe sheshit Afonso de Albuquerque, me statuja, gardhe të krasitura dhe disa makina që kalojnë përpara në rrugë.
+| image2            = Palácio de São Bento (Assemblée nationale) (9307363528).jpg
+| caption2          = {{ill|Pallati i São Bentos|en|São Bento Palace}}, selia e Asamblesë së Republikës
+| alt2              = Fotografi e Pallatit të São Bentos. Një ndërtesë e madhe qeveritare neoklasike e bardhë, me kolona të larta dhe frontone të skalitura, ngrihet mbi një lëndinë të gjelbër nën qiell të kthjellët blu, me flamurin portugez që valëvitet mbi çati.
+}}
+
+Organi ligjvënës i Portugalisë është {{ill|Asambleja e Republikës së Portugalisë|en|Assembly of the Republic (Portugal)|lt=Asambleja e Republikës}}, një parlament [[Njëdhomësia|njëdhomësh]].{{sfnp|Goes|Leston-Bandeira|2022|p=[https://books.google.pt/books?id=_DeKEAAAQBAJ&pg=PA138 138]}}{{sfnp|Losada Maestre|2021|p=227}} Ai përbëhet nga një dhomë e vetme me minimumi 180&nbsp;vende dhe maksimumi 230, të zgjedhura me votë popullore çdo katër vjet ose kur shpërndahet.{{sfnp|Narciso|2023|p=209}}{{sfnp|Goes|Leston-Bandeira|2022|pp=[https://books.google.pt/books?id=_DeKEAAAQBAJ&pg=PA138 138-140]}}{{sfnp|Neto|2023|pp=131-132}} Deputetët përfaqësojnë të gjithë vendin dhe jo zonat zgjedhore nga të cilat zgjidhen.{{sfnp|Silva|Giovannetti|2022|p=69}} Asambleja e Republikës dominohet nga tri parti politike: {{ill|Partia Socialdemokrate|en|Social Democratic Party (Portugal)|lt=Partia Socialdemokrate}} (PSD), {{ill|Chega|en}} (CH) dhe {{ill|Partia Socialiste|en|Socialist Party (Portugal)|lt=Partia Socialiste}} (PS).{{sfnp|Mendes|2025|pp=469-494}}
+
+Si kryetar i qeverisë, kryeministri drejton politikën qeveritare, udhëheq {{ill|Këshilli i Ministrave|en|Council of Ministers (Portugal)|lt=Këshillin e Ministrave}}, i cili përfshin ministra dhe nënministra që zbatojnë politikën qeveritare, dhe emërohet nga presidenti në bazë të rezultateve zgjedhore, pas konsultimit me partitë që kanë ulëse në parlament.{{sfnp|Belchior|Silveira|2023|pp=310–329}}{{sfnp|Silveira|Silva|2023|p=150}}{{sfnp|Neto|2023|p=123}} Kryeministri aktual i Portugalisë është {{ill|Luís Montenegro|en}}, i cili mori detyrën pasi koalicioni AD – PSD/CDS fitoi mjaftueshëm ulëse për të formuar një qeveri pakicë pas {{ill|Zgjedhjet legjislative portugeze të vitit 2024|en|2024 Portuguese legislative election|lt=zgjedhjeve legjislative portugeze të vitit 2024}}.<ref>{{cite news |first1=Catarina |last1=Demony |first2=Sergio |last2=Goncalves |location=Lisbon |url=https://www.reuters.com/world/europe/portugals-minority-government-be-sworn-stability-doubtful-2024-04-02/ |title=Portugal's minority government sworn in, stability doubtful |publisher=Reuters |date=2024-04-02 |access-date=2026-04-29 |language=en}}</ref>
+
+Portugalia ka një {{ill|sistem të së drejtës civile|en|Civil law (legal system)}} të bazuar në [[E drejta romake|të drejtën romake]] dhe në të drejtën kanonike dhe të ndikuar nga [[Kodi civil i Gjermanisë|e drejta civile gjermane]].{{sfnp|Hamza|2012|pp=2–4}} Kushtetuta është ligji suprem i Portugalisë.{{sfnp|Violante|2023|pp=133-136}} Në sistemin ligjor portugez, e drejta civile private dhe [[E drejta penale|e drejta penale]] kodifikohen përkatësisht në {{lang|pt-PT|Código Civil}} dhe {{lang|pt-PT|Código Penal}}.{{sfnp|Mączyński|Moura Vicente|2017|p=2433}}{{sfnp|Líbano Monteiro|2024|pp=111–118}} Sistemi gjyqësor i Portugalisë është i organizuar në degë gjyqësore, administrative dhe fiskale me tri nivele jurisdiksioni dhe gjykata të veçanta të instancës së fundit, ndërsa {{ill|Gjykata Kushtetuese|en|Constitutional Court (Portugal)|lt=Gjykata Kushtetuese}} është përgjegjëse për rishikimin kushtetues dhe mbikëqyrjen e zgjedhjeve, referendumeve dhe partive politike.{{sfnp|Narciso|2023|p=211}}
+
+{{Reflist|group=sh}}
+=== Ndarjet administrative ===
+{{Hatnote|Artikulli kryesor: {{ill|Ndarjet administrative të Portugalisë|en|Administrative divisions of Portugal}}}}
+
+Portugalia është një [[Shteti unitar|shtet unitar]] shumë i centralizuar, i përbërë nga dy rajone autonome, si dhe nga shtatë {{ill|Rajonet statistikore NUTS të Portugalisë|en|NUTS statistical regions of Portugal|lt=rajone}} në {{ill|Portugalia kontinentale|en|Continental Portugal|lt=Portugalinë kontinentale}}. Qeverisja nënkombëtare në Portugali organizohet aktualisht përmes komunave (''concelhos''), famullive civile (''freguesias'') dhe bashkësive ndërkomunale (''comunidades intermunicipais''). Në tabelën vijuese, bashkësitë ndërkomunale janë grupuar sipas rajoneve:{{sfnp|Organisation for Economic Co-operation and Development|2020|pp=11,66–75}}{{sfnp|Szabó|Farkas|2024|pp=203-204}}
+{|
+|rowspan="2"|[[File:Regions and Intermunicipal Communities of Portugal.svg|alt=Hartë administrative e Portugalisë|center|upright=2|frameless]]
+|style="font-size: 85%; padding-right:1em; padding-left:2em; vertical-align:top;"|
+<div class="center"><span style="background:#EFE979; border:1px solid #aaa;">&nbsp;&nbsp;&nbsp;&nbsp;</span> {{ill|Rajoni i Veriut (Portugali)|en|North Region, Portugal|lt=Veriu}}</div>
+----
+1.&nbsp;Alto Minho<br />
+2.&nbsp;Cávado<br />
+3.&nbsp;Zona Metropolitane e Portos<br />
+4.&nbsp;Ave<br />
+5.&nbsp;Tâmega e Sousa<br />
+6.&nbsp;Alto Tâmega e Barroso<br />
+7.&nbsp;Douro<br />
+8.&nbsp;Terras de Trás-os-Montes
+|style="font-size: 85%;padding-right:1em; vertical-align:top;"|
+<div class="center"><span style="background:#EF7979; border:1px solid #aaa;">&nbsp;&nbsp;&nbsp;&nbsp;</span> {{ill|Rajoni i Qendrës (Portugali)|en|Central Region, Portugal|lt=Qendra}}</div>
+----
+9.&nbsp;Aveiro<br />
+10.&nbsp;Viseu Dão Lafões<br />
+11.&nbsp;Beiras e Serra da Estrela<br />
+12.&nbsp;Coimbra<br />
+13.&nbsp;Leiria<br />
+14.&nbsp;Beira Baixa
+|style="font-size: 85%;padding-right:1em; vertical-align:top;"|
+<div class="center"><span style="background:#EFB179; border:1px solid #aaa;">&nbsp;&nbsp;&nbsp;&nbsp;</span> Oeste e Vale do Tejo</div>
+----
+15.&nbsp;Oeste<br />
+16.&nbsp;Médio Tejo<br />
+17.&nbsp;Lezíria do Tejo
+|style="font-size: 85%;padding-right:1em; vertical-align:top;"|
+<div class="center"><span style="background:#9579EF; border:1px solid #aaa;">&nbsp;&nbsp;&nbsp;&nbsp;</span> Lisbona e Madhe</div>
+----
+18.&nbsp;Lisbona e Madhe<br />
+|-
+|style="font-size: 85%;padding-right:1em; padding-left:2em; vertical-align:top;"|
+<div class="center"><span style="background:#CC79EF; border:1px solid #aaa;">&nbsp;&nbsp;&nbsp;&nbsp;</span> Gadishulli i Setúbalit</div>
+----
+19.&nbsp;Gadishulli i Setúbalit<br />
+|style="font-size: 85%;padding-right:1em; vertical-align:top;"|
+<div class="center"><span style="background:#79EFDB; border:1px solid #aaa;">&nbsp;&nbsp;&nbsp;&nbsp;</span> {{ill|Alentejon|en|Alentejo}}</div>
+----
+20.&nbsp;Alto Alentejo<br />
+21.&nbsp;Alentejo Central<br />
+22.&nbsp;Alentejo Litoral<br />
+23.&nbsp;Baixo Alentejo
+|style="font-size: 85%;padding-right:1em; vertical-align:top;"|
+<div class="center"><span style="background:#87EF79; border:1px solid #aaa;">&nbsp;&nbsp;&nbsp;&nbsp;</span> {{ill|Algarven|en|Algarve}}</div>
+----
+24.&nbsp;Algarve<br />
+|style="font-size: 85%;padding-right:1em; vertical-align:top;"|
+<div class="center"><span style="background:#B4B4B4; border:1px solid #aaa;">&nbsp;&nbsp;&nbsp;&nbsp;</span> {{ill|Rajonet autonome të Portugalisë|en|Autonomous regions of Portugal|lt=Rajonet autonome}}</div>
+----
+25.&nbsp;[[Ishujt Madeira|Madeira]]<br />
+26.&nbsp;[[Ishujt Azore|Azore]]<br />
+|}
+{{Clear}}
+
+=== Marrëdhëniet e jashtme ===
+{{Hatnote|Artikulli kryesor: {{ill|Marrëdhëniet e jashtme të Portugalisë|en|Foreign relations of Portugal}}}}
+
+[[File:Diplomatic foreign relations of Portugal.svg|thumb|alt=Hartë e marrëdhënieve ndërkombëtare të Portugalisë|{{ill|Misionet diplomatike të Portugalisë|en|Diplomatic missions of Portugal}}<ref>{{cite web |url=https://portaldiplomatico.mne.gov.pt/en/bilateral-relations/countries |website=Diplomatic Portal |title=Countries |publisher=Ministry of Foreign Affairs |access-date=2026-05-06 |archive-url=https://web.archive.org/web/20260414062402/https://portaldiplomatico.mne.gov.pt/en/bilateral-relations/countries |archive-date=2026-04-14 |url-status=live |language=en}}</ref><div style="font-size:95%;">{{Legend|#377eb8|Vendet që kanë ambasadë ose konsullatë portugeze}}
+{{Legend|#c0c0c0|Vendet që nuk kanë misione diplomatike portugeze}}
+{{Legend|#4daf4a|Portugalia}}</div>|upright=1.2]]
+
+Anëtare e [[Organizata e Kombeve të Bashkuara|Kombeve të Bashkuara]] që nga viti 1955,{{sfnp|Castaño|2015|pp=9–38}} Portugalia është {{ill|Anëtarësimi i Portugalisë në organizata ndërkombëtare|en|International organization membership of Portugal|lt=anëtare e pothuajse të gjitha organizatave kryesore ndërkombëtare}},{{sfnp|Pereira|2018|p=281}} dhe është ndër vendet që themeluan [[NATO]]n në vitin 1949,{{sfnp|Teixeira|1999|pp=15–41}} [[Organizata për Bashkëpunim dhe Zhvillim Ekonomik|OECD]]-në në vitin 1961,<ref>{{cite web |url=https://www.oecd.org/en/about/legal/text-of-the-convention-on-the-organisation-for-economic-co-operation-and-development.html |archive-url=https://web.archive.org/web/20240701192433/https://www.oecd.org/en/about/legal/text-of-the-convention-on-the-organisation-for-economic-co-operation-and-development.html |archive-date=2024-07-01 |url-status=live |title=Convention on the Organisation for Economic Co-operation and Development |publisher=Organisation for Economic Co-operation and Development |access-date=2026-04-29 |language=en}}</ref> [[Shoqata Evropiane e Tregtisë së Lirë|EFTA]]-n në vitin 1960,{{sfnp|Andresen-Leitão|2004|pp=285–312}} si dhe {{ill|Komuniteti i Vendeve të Gjuhës Portugeze|en|Community of Portuguese Language Countries}} (CPLP) në vitin 1996, një organizatë ndërkombëtare e vendeve që kanë portugalishten si gjuhë zyrtare.{{sfnp|Freixo|2006|pp=35–54}}
+
+Portugalia ka një politikë të jashtme të qëndrueshme, që është rezultat i historisë, i gjeografisë dhe i zgjedhjeve të veçanta të politikës së jashtme të saj. Ajo është e strukturuar rreth gjashtë përparësive kryesore rajonale dhe politike: Evropës, NATO-s dhe marrëdhënieve me {{ill|Marrëdhëniet Portugali–Mbretëri e Bashkuar|en|Portugal–United Kingdom relations|lt=Mbretërinë e Bashkuar}} dhe me {{ill|Marrëdhëniet Portugali–Shtetet e Bashkuara|en|Portugal–United States relations|lt=Shtetet e Bashkuara}}, {{ill|Bota folëse e portugalishtes|en|Portuguese-speaking world|lt=botës folëse të portugalishtes}}, rëndësisë dhe mbështetjes për komunitetet portugeze jashtë vendit, ndërkombëtarizimit të ekonomisë kombëtare dhe forcimit të multilateralizmit. Portugalia e konsideron suksesin e [[Integrimi evropian|integrimit evropian]] si parësor dhe është e gatshme, aty ku ekziston konsensus midis shteteve anëtare të Bashkimit Evropian, të miratojë politika që bien ndesh me interesat kombëtare të vendit;{{sfnp|Pereira|2018|pp=269–283}} ajo mbështet gjithashtu çarmatimin e përgjithshëm, shpërbërjen e blloqeve politiko-ushtarake dhe krijimin e një sistemi të sigurisë kolektive që synon vendosjen e një rendi ndërkombëtar të bazuar në paqen dhe drejtësinë ndërmjet popujve.{{sfnp|Coutinho|Piçarra|2019|pp=629-632}}
+
+Portugalia ka dy mosmarrëveshje territoriale, që të dyja me Spanjën: qyteti spanjoll {{ill|Olivenza|en}}, i cili është kërkuar nga Portugalia që nga shekulli i 19-të ({{ill|Lufta e Portokalleve|en|War of the Oranges}}), dhe ujërat përreth Ishujve Selvagens (Savage Islands) të Portugalisë, të cilat janë kërkuar nga Spanja që nga shekulli i 15-të. Pavarësisht se ka shkaktuar momente tensioni midis dy vendeve, {{ill|Marrëdhëniet Portugali–Spanjë|en|Portugal–Spain relations|lt=marrëdhëniet midis tyre}} mbeten të shkëlqyera.{{sfnp|Gómez Adeva|2017|pp=752–765}}{{sfnp|Santos Sánchez|2022|pp=23–44}}<ref>{{Cite web |title=Spain |url=https://portaldiplomatico.mne.gov.pt/en/bilateral-relations/general-countries/spain |access-date=2026-04-29 |website=Diplomatic Portal |publisher=Ministry of Foreign Affairs |archive-url=https://web.archive.org/web/20260209132834/https://portaldiplomatico.mne.gov.pt/en/bilateral-relations/general-countries/spain |archive-date=2026-02-09 |url-status=live |language=en}}</ref>
+
+{{Reflist|group=sh}}
+=== Ushtria ===
+{{Kryesor|Forcat e Armatosura të Portugalisë}}
+
+[[File:NRP Bartolomeu Dias F333 in Hernesaari as seen from Verkkokauppa in Helsinki, Finland, 2023 April.jpg|thumb|Fregata NRP Bartolomeu Dias e Marinës Portugeze|alt=Fotografi e NRP Bartolomeu Dias (F333) të Marinës Portugeze të ankoruar pranë kalatave të Hernesaarit, Helsinki, Finlandë, me flamurin portugez që valëvitet në anën e pasme dhe ujë të qetë blu që shtrihet drejt detit të hapur.]]
+
+[[Forcat e Armatosura të Portugalisë]] përbëhen nga tri degë të komanduara nga {{lang|pt-PT|Estado-Maior-General das Forças Armadas}} (Shtabi i Përgjithshëm i Forcave të Armatosura): {{lang|pt-PT|Marinha}} (Marina), {{lang|pt-PT|Exército}} (Ushtria) dhe {{lang|pt-PT|Força Aérea}} (Forca Ajrore).{{Sfnp|Carreiras|2025|pp=185-186}} Përveç tri degëve të forcave të armatosura, ekziston {{lang|pt-PT|Guarda Nacional Republicana}} (Garda Kombëtare Republikane), një [[Xhandarmëria|xhandarmëri]], që përfshin 23.042&nbsp;persona në vitin 2025, nën autoritetin e ministrive të Mbrojtjes dhe të Punëve të Brendshme.{{Sfnp|Lloyd-Jones|Cerezales|2007|p=90}}{{Sfnp|Departamento de Informação da Organização do Estado e do Emprego Público|2025a}} Ushtria portugeze shërben si forcë vetëmbrojtëse, merr pjesë në misione humanitare dhe paqeruajtëse të ndërmarra nga organizatat ndërkombëtare të cilave u përket Portugalia dhe bashkëpunon në misione të mbrojtjes civile.{{Sfnp|Carreiras|2025|pp=183-197}} Në vitet e fundit, ushtria portugeze ka kryer disa misione të [[NATO]]-s dhe të [[Bashkimi Evropian|Bashkimit Evropian]] në mbarë botën.<ref>{{Cite web |title=Onde estamos missões no estrangeiro (Ku jemi: misionet jashtë vendit) |url=https://www.exercito.pt/pt/onde-estamos/no-mundo |publisher=Exército Português |access-date=2026-04-29 |language=pt-PT}}</ref> [[Lista e vendeve sipas shpenzimeve ushtarake|Buxheti ushtarak portugez]] në vitin 2025 vlerësohej në më shumë se 6&nbsp;miliardë dollarë amerikanë, që përbën 2% të PBB-së.{{Sfnp|''Defence expenditure of NATO countries (2014–2025)''|2025|pp=4,8}}
+
+Që nga viti 2025, tri degët numëronin 23.589&nbsp;persona ushtarakë.{{Sfnp|Departamento de Informação da Organização do Estado e do Emprego Público|2025b|p=7}} Para vitit 1999, shërbimi ushtarak ishte i detyrueshëm për meshkujt në moshën 18 vjeç. Ky detyrim u pezullua në vitin 1999 dhe u zëvendësua me një ditë të detyrueshme arsimimi mbi Forcat e Armatosura, e quajtur {{lang|pt-PT|{{ill|Dia da Defesa Nacional|pt|Dia da Defesa Nacional}}}} (Dita e Mbrojtjes Kombëtare).{{Sfnp|Resende|2009|pp=11–24}} Që nga viti 1992 gratë mund të shërbejnë në të gjitha degët e forcave të armatosura. Që nga viti 2004, ushtria përbëhet tërësisht nga vullnetarë dhe profesionistë.{{Sfnp|Committee on Women in the NATO Forces|2008|pp=1–3}}
+
+=== Zbatimi i ligjit ===
+{{Kryesor|Ligji i Portugalisë|Gjyqësori i Portugalisë|Zbatimi i ligjit në Portugali|Krimi në Portugali}}
+
+[[File:Polícia Judiciária (Portugal) headquarters, Lisbon 04.jpg|thumb|Selia e {{lang|pt-PT|Polícia Judiciária}} (Policisë Gjyqësore), në [[Lisbona|Lisbonë]]|alt=Fotografi e selisë së Policisë Gjyqësore (PJ). Një ndërtesë e madhe zyrash moderne në ngjyrë të bardhë e gri me dritare me model të parregullt qëndron në një kënd nën një qiell me re, me motoçikleta të parkuara, disa këmbësorë dhe një kalim këmbësorësh në plan të parë.]]
+
+Në Portugali, ndjekja penale ushtrohet nga {{ill|Prokuroria Publike|pt|Ministério Público (Portugal)|lt=Prokuroria Publike}}, e cila drejtohet nga {{ill|Prokurori i Përgjithshëm i Portugalisë|pt|Procurador-Geral da República (Portugal)|lt=prokurori i përgjithshëm}}.{{Sfnp|Narciso|2023|pp=208–212}} Organizatat kryesore policore të Portugalisë janë {{lang|pt-PT|Guarda Nacional Republicana}} (Garda Kombëtare Republikane), {{lang|pt-PT|Polícia de Segurança Pública}} (Policia e Sigurisë Publike), një forcë policore civile që vepron në zonat urbane; dhe {{lang|pt-PT|Polícia Judiciária}} (Policia Gjyqësore), një organ i lartë i policisë kriminale, nën autoritetin e Ministrit të Drejtësisë dhe e pajisur me autonomi administrative.{{Sfnp|Lloyd-Jones|Cerezales|2007|p=90}}{{Sfnp|Rocha Gonçalves|Durão|2017|p=4}}{{Sfnp|Cardoso|2020|pp=189–193}}
+
+Portugalia ka {{ill|Lista e burgjeve në Portugali|pt|Lista de prisões portuguesas|lt=49 institucione korrektuese}} që drejtohen nga {{ill|Drejtoria e Përgjithshme e Riintegrimit dhe e Shërbimeve Burgjeve|pt|Direção-Geral de Reinserção e Serviços Prisionais|lt=Drejtoria e Përgjithshme e Riintegrimit dhe e Shërbimeve Burgjeve}} (DGRSP).{{Sfnp|Conde|Sousa|Pita|Souto|2026|pp=678,680}} Institucionet klasifikohen sipas nivelit të sigurisë dhe sipas shkallës së kompleksitetit të menaxhimit, dhe shpesh strehojnë të burgosur me statuse të ndryshme ligjore, nivele rreziku dhe trajektore kriminale brenda të njëjtave institucione.{{Sfnp|Conde|Sousa|Pita|Souto|2026|p=678}} Pavarësisht ndjekjes së një modeli penal të orientuar drejt riintegrimit, Portugalia ruan një mbipopullim të lartë në burgje dhe një gjatësi mesatare dënimi prej 31,3&nbsp;muajsh, si dhe një nga shkallët më të larta në botë të vetëvrasjeve në burg, që përbëjnë rreth 30% të 60–70&nbsp;vdekjeve që ndodhin çdo vit.{{Sfnp|Conde|Sousa|Pita|Souto|2026|p=678}}{{Sfnp|Lança Pereira|2026|pp=181-197}}
+
+=== Të drejtat e njeriut ===
+{{Kryesor|Të drejtat e njeriut në Portugali}}
+
+Portugalia ka një traditë të drejtësisë penale humaniste.{{Sfnp|Miranda Rodrigues|João Antunes|Fidalgo|Horta Pinto|2021|p=1}} Kushtetuta portugeze e përcakton vendin si një shtet të bazuar në dinjitetin njerëzor.{{Sfnp|Martins|Roque|2013|pp=312-314}} Ajo shfuqizoi {{ill|Dënimi me vdekje në Portugali|pt|Pena de morte em Portugal|lt=dënimin me vdekje}} dhe [[Burgimi i përjetshëm|burgimin e përjetshëm]] në shekullin e 19-të,{{Sfnp|Miranda Rodrigues|João Antunes|Fidalgo|Horta Pinto|2021|p=1}} dhe ndalon [[Ekstradimi|ekstradimin]] në rastin kur mund të shqiptohet njëri nga këto dy dënime.{{Sfnp|Costa|Caeiro|2021|pp=281-283,299-304}} Kodi Penal portugez parashikon një gamë të gjerë dënimesh jo-burgimi, me synimin që dënimi me burg të mbetet masë e fundit.{{Sfnp|Miranda Rodrigues|João Antunes|Fidalgo|Horta Pinto|2021|p=1}} Ligjet penitenciare portugeze kanë qenë tradicionalisht progresive dhe të bazuara te rehabilitimi si qëllim kryesor i zbatimit të një dënimi të tillë.{{Sfnp|Miranda Rodrigues|João Antunes|Fidalgo|Horta Pinto|2021|p=1}}
+
+Që nga vitet 1980, Portugalia ka forcuar të drejtat e LGBTQ dhe është bërë një nga [[Evropa|vendet më të barabarta të Evropës]], megjithëse izolimi historik dhe autoritarizmi vazhdojnë të ndikojnë në pranimin shoqëror të {{ill|Personat LGBTQ në Portugali|pt|Homossexualidade em Portugal|lt=personave LGBTQ}}.{{Sfnp|Ramalho|2026|pp=203-232}}{{Sfnp|Gato|Portugal|Sotero|Seabra|2025|pp=146-149,161}}{{Sfnp|Neves|Borges|Ferreira|Correia|2025|pp=349-364}} Në vitin 2001, Portugalia [[Politika e drogës në Portugali|dekriminalizoi]] posedimin dhe konsumimin personal të të gjitha drogave.{{Sfnp|Rêgo|Oliveira|Lameira|Cruz|2021}} Portugalia përballet me probleme si [[Brutaliteti policor|përdorimi i pajustifikuar i forcës nga zbatuesit e ligjit]],{{Sfnp|''Visit report - Portugal - November 2024''|2025|pp=8–14}}{{Sfnp|Casquilho-Martins|Belchior-Rocha|Alves|2022|pp=1-19}} racizmi dhe diskriminimi ndaj pakicave,{{Sfnp|''Survey on living conditions, origins and trajectories of the resident population 2023''|2023}}{{Sfnp|Loza|2024|pp=29-37}} {{ill|Skllavëria moderne në Portugali|pt|Escravatura moderna em Portugal|lt=skllavëria e migrantëve}},<ref>{{Cite web |archive-url=https://web.archive.org/web/20260226071501/https://www.state.gov/reports/2025-trafficking-in-persons-report/portugal/ |archive-date=2026-02-26 |url-status=live |url=https://www.state.gov/reports/2025-trafficking-in-persons-report/portugal/ |title=2025 trafficking in persons report: Portugal |publisher=United States Department of State |date=2025-09-30 |access-date=2026-04-29 |language=en}}</ref> kufizime të [[lirisë së shoqërimit]] dhe të negociatave kolektive,{{Sfnp|United States Department of State - Bureau of Democracy, Human Rights, and Labor|2025|p=3}} shkelje të ligjeve mbi pagat, orarin dhe orët shtesë,{{Sfnp|United States Department of State - Bureau of Democracy, Human Rights, and Labor|2025|p=5}} dhe mangësi të vazhdueshme strukturore dhe institucionale në sistemin e burgjeve.{{Efn|Të tilla si burimet e kufizuara, kushtet e papërshtatshme, transparenca e pamjaftueshme dhe rreziku i mospërputhjes me [[Të drejtat e të burgosurve në të drejtën ndërkombëtare|standardet ndërkombëtare të të drejtave të njeriut]].{{Sfnp|Lança Pereira|2026|pp=181-197}}}}
+
+{{Reflist|group=sh}}
+== Ekonomia ==
+<!-- Nëse dëshironi ta zgjeroni këtë seksion, shtoni informacion të ri në artikullin kryesor: "Ekonomia e Portugalisë"; puna juaj atje do të çmohet. -->
+{{Hatnote|Artikulli kryesor: {{ill|Ekonomia e Portugalisë|en|Economy of Portugal}}}}
+
+[[File:Lisboa June 2014-14a.jpg|thumb|Parku i Kombeve (''Parque das Nações'') në [[Lisbona|Lisbonë]]; një qendër ekonomike në Portugali|alt=Fotografi e Parkut të Kombeve në Lisbonë. Ndërtesa moderne buzë ujit, përfshirë dy kulla të larta prej xhami dhe betoni me çati të bardha në formë velash, shihen përtej lumit Tejo nën një qiell të kaltër me pak re të holla të bardha. Pemë, një shëtitore buzë lumit, këmbësorë dhe ndërtesa tregtare aty pranë shtrihen përgjatë bregut.]]
+
+Portugalia është një vend me të ardhura të larta me një ekonomi të përparuar që ndjek modelin mesdhetar.<ref>{{cite web |url=https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups |title=World Bank country and lending groups |publisher=World Bank Group |website=World Bank Open Data |publication-place=Washington, D.C. |access-date=2026-04-29 |language=en}}</ref>{{sfnp|''World economic outlook: global economy in the shadow of war''|2026|p=99}}{{sfnp|Gentilucci|2020|p=181}} Politika ekonomike e vendit përcaktohet nga udhëzime strategjike të quajtura {{ill|Opsionet kryesore|pt|Grandes Opções do Plano|lt=Opsione kryesore}}, të cilat zbatohen më pas përmes buxhetit të shtetit.{{sfnp|Organisation for Economic Co-operation and Development|2023|p=64}} Portugalia ka ekonominë e 14-të më të madhe në BE sipas PBB-së nominale dhe ekonominë e 12-të më të madhe sipas PBB-së të përshtatur me PPP.{{sfnp|''World economic outlook: global economy in the shadow of war''|2026|pp=39,120,123,127-128,137-138}} PBB-ja e saj për frymë, e përshtatur me PPP, arriti në 81% të mesatares së BE-së në vitin 2025.<ref>{{cite web |doi=10.2908/PRC_PPP_IND_1 |doi-access=free |title=Purchasing power parities, price level indices, nominal and real expenditures by analytical categories - based on COICOP 2018 |url=https://ec.europa.eu/eurostat/databrowser/bookmark/ecfbff41-69cb-47d9-bb89-bdb52711fcd4?lang=en |publication-date=2026-03-25 |publisher=Eurostat |access-date=2026-04-30 |language=en}}</ref> Që nga viti 2024, sektori i shërbimeve të Portugalisë kontribuoi më shumë në prodhimin e saj ekonomik, i ndjekur nga sektori industrial dhe sektori primar i saj.<ref name="sectorsGDP">{{cite web |title=Statistics Portugal - data base - indicator 0006612 |publisher=Instituti Kombëtar i Statistikave (''Statistics Portugal'') |publication-date=2025-12-11 |access-date=2026-04-30 |url=https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0006612&contexto=bd&selTab=tab2&xlang=en |language=en}}</ref> Në vitin 2025, [[Lista e vendeve sipas shkallës së papunësisë|shkalla e papunësisë]] në Portugali ishte 5,8%.{{sfnp|''Employment statistics – 4th quarter of 2025''|2026}} Që nga viti 2024, shkalla e varfërisë pas transfertave sociale ishte 15,4% e popullsisë, ndërsa në vitin 2023 shkalla e rrezikut të varfërisë para transfertave sociale ishte 40,3%.{{sfnp|''Income and living conditions – 2025''|2025}}{{sfnp|Tavares|Carmo|2025|p=13}} Borxhi kombëtar i Portugalisë vlerësohej në 89,2% në raport me PBB-në që nga viti 2025.{{sfnp|''Excessive deficit procedure: 2nd notification 2026''|2026}}
+
+Portugalia është pjesë e tregut të përbashkët evropian, që përfshin mbi 450&nbsp;milionë&nbsp;konsumatorë.<ref>{{cite web |url=https://ec.europa.eu/growth/single-market_en |title=The European single market |date=2016-07-05 |publisher=European Commission |archive-url=https://web.archive.org/web/20200409110216/https://ec.europa.eu/growth/single-market_en |archive-date=2020-04-09 |url-status=live |access-date=2026-04-16 |language=en}}</ref> Portugalia e zëvendësoi eskudon me [[Euro|euron]] në vitin 2002.<ref>{{cite web |url=https://www.ecb.europa.eu/euro/changeover/2002/html/index.en.html |access-date=2026-04-16 |title=Initial changeover (2002) |date=2023-01-31 |publisher=European Central Bank |archive-url=https://web.archive.org/web/20260420131848/https://www.ecb.europa.eu/euro/changeover/2002/html/index.en.html |archive-date=2026-04-20 |url-status=live |language=en}}</ref> Politika e saj monetare përcaktohet nga [[Banka Qendrore Evropiane]].<ref>{{cite web |url=https://www.bportugal.pt/en/page/what-monetary-policy-and-what-it-used |publisher=Banco de Portugal |access-date=2026-04-16 |title=What is monetary policy and what is it used for? |archive-url=https://web.archive.org/web/20250831070832/https://www.bportugal.pt/en/page/what-monetary-policy-and-what-it-used |archive-date=2025-08-31 |url-status=live |language=en}}</ref> Vendi është pjesë e [[Eurozona|Eurozonës]] që nga fillimi i saj.<ref>{{cite web |url=https://economy-finance.ec.europa.eu/euro/what-euro-area_en |title=What is the euro area? |publisher=European Commission |access-date=2026-04-16 |website=Economy and Finance |archive-url=https://web.archive.org/web/20260331235803/https://web.archive.org/web/20260331235803/https://economy-finance.ec.europa.eu/euro/what-euro-area_en |archive-date=2026-03-31 |url-status=live |language=en}}</ref> Banka qendrore e Portugalisë është Banka e Portugalisë (''Banco de Portugal'') dhe ajo është pjesë e [[Sistemi Evropian i Bankave Qendrore|Sistemit Evropian të Bankave Qendrore]].<ref>{{cite web |url=https://www.bportugal.pt/en/page/eurosystemescb |title=Eurosystem/ESCB |publisher=Banco de Portugal |archive-url=https://web.archive.org/web/20250824125004/https://www.bportugal.pt/en/page/eurosystemescb |archive-date=2025-08-24 |url-status=live |access-date=2026-04-16 |language=en}}</ref> Në vitin 2024, shuma e eksporteve dhe importeve të Portugalisë arriti në 90% të PBB-së së saj totale.<ref>{{cite web |url=https://data.worldbank.org/indicator/NE.TRD.GNFS.ZS |title=Trade (% of GDP) |publisher=World Bank Group |publication-place=Washington, D.C. |access-date=2026-04-30 |archive-url=https://web.archive.org/web/20260425212634/https://data.worldbank.org/indicator/NE.TRD.GNFS.ZS |archive-date=2026-04-25 |url-status=live |language=en}}</ref>
+
+Në shkurt të vitit 2026, tregjet kryesore të eksportit të Portugalisë ishin Spanja me 26% dhe Gjermania me 13,9%. Eksportet e saj kryesore janë makineritë dhe pajisjet mekanike, automjetet dhe pajisje të tjera transporti, metalet bazë dhe plastika. Tregjet kryesore të importit të Portugalisë në vitin 2026 ishin Spanja me 32,9% dhe Gjermania me 11,9%. Importet kryesore të Portugalisë janë makineritë dhe pajisjet mekanike, produktet kimike, produktet bujqësore dhe lëndët djegëse minerale.{{sfnp|''International trade – March 2026''|2026}}
+
+Që nga vitet 1990, modeli ekonomik i Portugalisë është bazuar te konsumi publik dhe te [[Zhvillimi ekonomik|zhvillimi ekonomik]] i përqendruar në eksporte, te investimet private dhe te zhvillimi i sektorit të saj të teknologjisë së lartë. Si rrjedhojë, shërbimet e biznesit i kanë tejkaluar industritë më tradicionale, si vera dhe tapa, për sa i përket të ardhurave nga eksporti.{{sfnp|''Financial Times special report: investing in Portugal''|2014|p=4}} Bursa e Portugalisë, e menaxhuar nga {{ill|Euronext Lisbon|en|Euronext Lisbon}}, indeksi i së cilës PSI përfshin 16 kompani kryesore me bazë në vend, ndër to Sonae, Mota-Engil, Corticeira Amorim, The Navigator Company dhe EDP.<ref name="psi">{{cite web |url=https://live.euronext.com/en/markets/lisbon/equities-by-index/psi |title=PSI stocks |publisher=Euronext |archive-url=https://web.archive.org/web/20260130012145/https://live.euronext.com/en/markets/lisbon/equities-by-index/psi |archive-date=2026-01-30 |url-status=live |access-date=2026-04-16 |language=en}}</ref>
+
+Në vitin 2025, Portugalia u rendit e 16-ta mes shteteve anëtare të Bashkimit Evropian sipas Tabelës Evropiane të Inovacionit (''European Innovation Scoreboard''), ndërsa u rendit e 31-a në botë sipas Indeksit Global të Inovacionit (''Global Innovation Index'').{{sfnp|European Commission: Directorate-General for Research and Innovation|2025|p=71}}{{sfnp|''Global Innovation Index 2025: innovation at a crossroads''|2025|p=68}} Në vitin 2024, neuroshkenca përbënte 12,5% të prodhimit shkencor të Portugalisë, pjesa e dytë më e lartë kombëtare, dhe vendi u rendit i 23-i në botë për sa i përket prodhimit total në neuroshkencë.<ref>{{cite journal |title=High-performers and specialists in neuroscience research |journal=Nature |date=2024-10-03 |volume=634 |issue=8032 |pages=S7 |doi=10.1038/d41586-024-03045-6 |pmid=39358538 |bibcode=2024Natur.634S...7. |language=en}}</ref> Ndër institucionet kkërkimore me bazë në vend janë {{ill|Instituti Gulbenkian i Mjekësisë Molekulare|pt|Instituto Gulbenkian de Ciência}}, Laboratori Ndërkombëtar Ibero i Nanoteknologjisë (''International Iberian Nanotechnology Laboratory'') dhe Fondacioni Champalimaud (''Champalimaud Foundation''), i cili ishte institucioni jofitimprurës i 11-të në botë në kërkimin neuroshkencor midis viteve 2019 dhe 2023.<ref>{{Cite web |title=Leading 25 NPO/NGO institutions |publisher=Nature Portfolio |date=2024-10-02 |access-date=2026-04-30 |url=https://www.nature.com/nature-index/supplements/nature-index-2024-neuroscience/tables/npo-ngo |language=en}}</ref>
+<references group="sh"/>
+=== Bujqësia dhe peshkimi ===
+{{Hatnote|Artikujt kryesorë: {{ill|Bujqësia në Portugali|en|Agriculture in Portugal}}, {{ill|Industria e peshkimit në Portugali|en|Fishing industry in Portugal}}}}
+
+[[File:Ameixial - cork store (13532168205).jpg|alt=Një grumbull i gjatë lëvoresh tape të korrura, të vendosura në një fushë me bar.|thumb|Korrja e lëvores së tapës. Pjesa më e madhe e tapës në botë prodhohet në Portugali.{{sfnp|Rodrigues|Gevrek|Mota|2023|pp=19–20}}]]
+
+Sektori portugez i bujqësisë përbënte 2,9% të PBB-së totale të vendit në vitin 2024.<ref name="sectorsGDP" /> Tokat bujqësore të Portugalisë mbulonin një sipërfaqe prej afërsisht {{convert|3697000|ha|km2|0|abbr=on}} në vitin 2023, nga të cilat 17,4% i kushtoheshin [[Prodhimet organike|bujqësisë organike]], çka përfaqëson përqindjen e pestë më të lartë në botë.{{sfnp|''World food and agriculture – statistical yearbook 2025''|2025|pp=45,348,368}} Pavarësisht përmasave të tokave bujqësore të vendit, larmia e kushteve edafoklimatike dhe agroekologjike të Portugalisë lejon kultivimin e produkteve të ndryshme bujqësore, si gruri, misri dhe orizi, secili me rol të rëndësishëm në sektorin primar, çka rezulton në një nivel vetëmjaftueshmërie bujqësore prej 85% në vitin 2018.{{sfnp|Viana|Freire|Abrantes|Rocha|2021|p=2}}{{sfnp|Gabinete de Planeamento, Políticas e Administração Geral|2021|pp=75–76}}
+
+Portugalia renditet e gjashta në botë për konsumin e ushqimeve të detit për frymë, ku çdo portugez konsumonte mesatarisht {{convert|54|kg|lb|0|abbr=on}} peshk në vitin 2023.{{sfnp|''Fishery and aquaculture statistics – yearbook 2023''|2025|p=92}} Konsumi i lartë i peshkut në Portugali buron nga tradita dhe rrënjët kulturore, politikat, dinamikat e sistemit të tregut të peshkut dhe gjeografia.{{sfnp|Murthy|Galli|Madeira|Moreno Pires|2023|pp=2-3}} Kërkesa e fortë për ushqime deti e bën peshkimin një pasuri të çmuar kombëtare.{{sfnp|Murthy|Galli|Madeira|Moreno Pires|2023|p=3}} Ndërsa Portugalia kapi {{convert|185000|t|LT ST}} peshk në vitin 2019, nga {{convert|222000|t|LT ST|abbr=unit}} në vitin 2010, peshku dhe ushqimet e detit përbëjnë importin më të madh të biokapacitetit nga jashtë, me gjithsej 1.600.000&nbsp;hektarë globalë.{{sfnp|Murthy|Galli|Madeira|Moreno Pires|2023|p=2}}
+
+=== Industria dhe shërbimet ===
+{{Hatnote|Artikujt kryesorë: {{ill|Turizmi në Portugali|en|Tourism in Portugal}}, {{ill|Industria e automjeteve në Portugali|pt|Indústria automóvel em Portugal}}}}
+
+[[File:Vehículos en el puerto de Setúbal, Portugal, 2019-05-24, DD 01.jpg|alt=Rreshta makinash të sapoprodhuara të parkuara në një port, përpara një anijeje transportuese automjetesh të Grimaldi Lines.|thumb|Makina të Volkswagen Autoeuropa në Portin e Setúbalit]]
+
+Industria prodhuese e Portugalisë përbënte 21,2% të PBB-së totale të vendit në vitin 2024, nga një mesatare vjetore prej 26% gjatë periudhës 1953–1973.<ref name="sectorsGDP" />{{sfnp|Ferraz|2024|p=4}} Kontributi më i ulët i prodhimit në ekonominë e Portugalisë ka çuar në ritme më të ulëta të rritjes reale të PBB-së midis viteve 1974 dhe 2019 sesa gjatë periudhës 1950–1973.{{sfnp|Ferraz|2024|p=4}} Që nga viti 2025, industria e automjeteve e Portugalisë realizonte pjesën më të madhe të eksporteve të vendit.{{sfnp|''International trade – March 2026''|2026}} Industria e automjeteve përbën 20,2% të eksporteve prodhuese të vendit dhe 82,8% të vlerës totale të eksporteve, duke punësuar 43.247&nbsp;punëtorë në vitin 2020.{{sfnp|''Automotive industry in Portugal''|2022|p=4}}
+
+Sektori i shërbimeve të Portugalisë përbënte 76,5% të prodhimit total ekonomik të vendit në vitin 2024.<ref name="sectorsGDP" /> Turizmi, tregtia me pakicë dhe telekomunikacioni janë të gjitha industri të rëndësishme.<ref name="psi" /> Turizmi përfaqësonte 11,8% të PBB-së totale të Portugalisë në vitin 2025.{{sfnp|''Tourism satellite account – 2025''|2026}} Portugalia pranoi gati 30&nbsp;milionë&nbsp;turistë&nbsp;ndërkombëtarë në vitin 2025,{{sfnp|''Tourism statistics - 2025''|2026|p=2}} duke zënë vendin e 15-të në botë atë vit për turizmin ardhës.<ref>{{Cite web |title=Global and regional tourism performance |url=https://www.untourism.int/tourism-data/un-tourism-tourism-dashboard |access-date=2026-05-01 |publisher=UN Tourism |date=2026-04-22 |archive-date=2025-12-02 |archive-url=https://web.archive.org/web/20251202030537/https://www.untourism.int/tourism-data/un-tourism-tourism-dashboard |url-status=live |language=en}}</ref>
+
+=== Infrastruktura ===
+{{Hatnote|Artikujt kryesorë: {{ill|Transporti në Portugali|en|Transport in Portugal}}, {{ill|Energjia në Portugali|en|Energy in Portugal}}}}
+
+[[File:Alqueva dam.JPG|alt=Diga e Alquevës, me një rrugë mbi kreshtën e saj, mban një rezervuar në një peizazh rural.|thumb|Diga e Alquevës është një nga rezervat strategjike më të mëdha të ujit në Evropë.{{sfnp|Santos|Pais Dias|2021|p=4}}]]
+
+Rrjeti rrugor i Portugalisë përfshin një sistem prej {{ill|48 autostradash|pt|Autoestradas de Portugal|lt=48 autostradash}}, i cili, në vitin 2023, renditej i shtati më i madh ndër 42 vendet evropiane.{{sfnp|''Transport and communications statistics - 2024''|2025|p=12}}<ref>{{cite web|url=https://www.dgterritorio.gov.pt/recart/TRANSPORTES%20(Transporte%20rodovi%C3%A1rio)/CatalogoDasViasRodoviariasParte1.html|title=Catálogo das vias rodoviárias - parte 1 (Katalogu i rrugëve – pjesa 1)|language=pt-PT|date=2024-04-04|publisher=Direção-Geral do Território|publication-place=Lisbon|access-date=2026-07-01|archive-url=https://web.archive.org/web/20260606205531/https://www.dgterritorio.gov.pt/recart/TRANSPORTES%20(Transporte%20rodovi%C3%A1rio)/CatalogoDasViasRodoviariasParte1.html|archive-date=2026-06-06|url-status=live}}</ref><ref>{{cite web |url=https://ec.europa.eu/eurostat/databrowser/view/ttr00002/default/table |doi=10.2908/TTR00002 |doi-access=free |publisher=Eurostat |access-date=2026-04-17 |title=Total length of motorways |date=2026-04-16 |language=en}}</ref> Aeroportet më të frekuentuara portugeze janë Aeroporti i Lisbonës, Aeroporti i Portos, Aeroporti i Farit, Aeroporti i Madeiras dhe Aeroporti i Ponta Delgadës.{{Sfnp|''Civil aviation yearbook 2023''|2023|p=58}} Në vitin 2024, transporti hekurudhor i pasagjerëve dhe i mallrave në Portugali operonte në {{convert|2526|km|mi|0|abbr=on}} linja hekurudhore aktive, ku shërbimet e pasagjerëve ofroheshin kryesisht nga {{ill|Comboios de Portugal|en|Comboios de Portugal|lt=Comboios de Portugal}} (CP).{{sfnp|''Transport and communications statistics - 2024''|2025|p=11}}{{sfnp|Marques|Moro|Ramos|2025|pp=683–713}} {{ill|Porti i Sinesit|en|Port of Sines|lt=Porti i Sinesit}} shërben si porti kryesor i kontejnerëve i Portugalisë dhe prin vendin për nga [[Tonazhi|tonazhi]] i ngarkesave.{{sfnp|Kazmi|Rocha|Brochado|2025|p=5}}
+
+Në vitin 2023, dy të tretat e furnizimit me energji të Portugalisë importoheshin, çka përfaqëson nivelin e 11-të më të lartë të varësisë energjetike në [[Bashkimi Evropian]].{{sfnp|Observatório da Energia|Direção-Geral de Energia e Geologia: Direção de Serviços de Planeamento Energético e Estatística|Agência para a Energia: Direção de Formação, Informação e Educação|2025|pp=44–46}} Vendi po ndjek tranzicionin energjetik dhe ka investuar në zhvillimin e burimeve të rinovueshme të energjisë, si Ferma e Valëve e Aguçadoura-s.{{sfnp|Khatiwada|Vasudevan|Santos|2022|p=12}}{{sfnp|Silva|Rusu|Guedes Soares|2018}} Portugalia ka zgjeruar rolin e burimeve të rinovueshme në sektorin e saj energjetik, ku ato përbënin 35,2% të konsumit të energjisë në vitin 2023, nga 21,9% në vitin 2007, dhe 78,1% të [[Prodhimi i elektricitetit|kapacitetit të përgjithshëm të instaluar]], krahasuar me 59,3% në vitin 2014.{{sfnp|Observatório da Energia|Direção-Geral de Energia e Geologia: Direção de Serviços de Planeamento Energético e Estatística|Agência para a Energia: Direção de Formação, Informação e Educação|2025|pp=44,53-54,76}} Në vitin 2021, vendi e përfundoi heqjen graduale të prodhimit të energjisë me qymyr.{{sfnp|Moreira|2025}}{{sfnp|Martins|Moura|de Almeida|2022|p=18}}
+
+{{Reflist|group=sh}}
+== Demografia ==
+{{Kryesor|Demografia e Portugalisë}}
+
+{{Shiko gjithashtu|Portugezët}}
+
+[[File:Puente de Don Luis I, Oporto, Portugal, 2019-06-02, DD 29-31 HDR.jpg|alt=Pamje gjatë orës blu e Urës Luiz I dhe e qytetit të Portos.|thumb|upright 1.2|[[Porto]] është {{ill|qyteti i dytë më i madh|en|List of cities in Portugal|lt=qyteti i dytë më i madh}} në Portugali, ndërsa {{ill|zona e tij metropolitane|en|Porto metropolitan area|lt=zona e tij metropolitane}} është e dyta më e madhe në vend.]]
+
+Në vitin 2025, Portugalia kishte një popullsi prej 11.424.031 banorësh, nga të cilët 9.826.492 ishin shtetas portugezë. Pjesa tjetër përbëhej nga banorë të huaj, në shumën prej 1.597.539.{{sfnp|''Estimates of resident population in Portugal 2025''|2026}} Portugalia po plaket vazhdimisht dhe ka një nga përqindjet më të larta të qytetarëve të moshuar në botë, që përbëjnë gati një të katërtën e popullsisë së saj gjithsej,<ref>{{Cite web |title=Population ages 65 and above (% of total population) |url=https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS |access-date=2026-04-25 |publisher=World Bank |author=<!-- not stated --> |website=World Bank Open Data |archive-date=2026-03-23 |archive-url=https://web.archive.org/web/20260323030148/https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS |url-status=live |publication-place=Washington, D.C. |language=en}}</ref>{{sfnp|United Nations Department of Economic and Social Affairs|2023|p=23}} së bashku me një pjesëmarrje të femrave në popullsi prej 51,1%.<ref>{{Cite web |title=Population, female (% of total population) |url=https://data.worldbank.org/indicator/SP.POP.TOTL.FE.ZS |access-date=2026-04-25 |publisher=World Bank |author=<!-- not stated --> |publication-place=Washington, D.C. |website=World Bank Open Data |archive-date=2026-03-01 |archive-url=https://web.archive.org/web/20260301210058/https://data.worldbank.org/indicator/SP.POP.TOTL.FE.ZS |url-status=live |language=en}}</ref>{{sfnp|''Gender equality in Portugal: statistical bulletin 2025''|2025|pp=16–17}}
+
+Në vitin 2025, Portugalia kishte një shkallë të lindshmërisë prej 1,4, që është nën {{ill|nivelin e zëvendësimit|en|Sub-replacement fertility|lt=nivelin e zëvendësimit}} prej 2,1 dhe është një nga {{ill|më të ulëtat në botë|en|List of countries by total fertility rate|lt=më të ulëtat në botë}}.{{sfnp|''Estimates of resident population in Portugal 2025''|2026}}<ref>{{Cite web |title=Fertility rate, total (births per woman) |url=https://data.worldbank.org/indicator/SP.DYN.TFRT.IN?view=map |access-date=2026-08-17 |publisher=World Bank |author=<!-- not stated --> |publication-place=Washington, D.C. |website=World Bank Open Data |language=en}}</ref> Portugalia ka pasur një shkallë lindshmërie nën nivelin e zëvendësimit prej 2,1 që nga vitet 1980, gjë që ka çuar në një {{ill|moshë mesatare|en|Population pyramid|lt=moshë mesatare}} prej 45,8 vjeç, një nga {{ill|më të lartat në botë|en|List of countries by median age|lt=më të lartat në botë}}.{{sfnp|''Estimates of resident population in Portugal 2025''|2026}}<ref>{{Cite web |url=https://population.un.org/dataportal/data/indicators/67,49/locations/4,8,12,16,20,24,660,28,32,51,533,36,40,31,44,48,50,52,112,56,84,204,60,64,68,535,70,72,76,92,96,100,854,108,132,116,120,124,136,140,148,152,156,344,446,158,170,174,178,184,188,384,191,192,531,196,203,408,180,208,262,212,214,218,818,222,226,232,233,748,231,238,234,242,246,250,254,258,266,270,268,276,288,292,300,304,308,312,316,320,831,324,624,328,332,340,348,352,356,360,364,368,372,833,376,380,388,392,832,400,398,404,296,412,414,417,418,428,422,426,430,434,438,440,442,450,454,458,462,466,470,584,474,478,480,175,484,583,492,496,499,500,504,508,104,516,520,524,528,540,554,558,562,566,570,807,580,578,512,586,585,591,598,600,604,608,616,620,630,634,410,498,638,642,643,646,652,654,659,662,663,666,670,882,674,678,682,686,688,690,694,702,534,703,705,90,706,728,724,144,275,729,740,752,756,760,762,764,626,768,772,776,780,788,792,795,796,798,800,804,784,826,834,840,850,858,860,548,862,704,876,732,900,887,894,716/start/2024/end/2024/table/pivotbylocation?df=67e9fdb2-341a-4b63-8655-87fae18ae077 |author=United Nations Population Division |publisher=United Nations |website=Population Division Data Portal |title=World Population Prospects: The 2024 Revision |access-date=2026-05-01 |date=2024 |language=en}}</ref>{{sfnp|Surkyn|Lesthaeghe|2004|pp=45–86}} Që nga viti 2025, 23,3% e popullsisë ishte 65 vjeç ose më e vjetër.{{sfnp|''Estimates of resident population in Portugal 2025''|2026}} Pavarësisht efekteve të migrimit neto, për shkak të shkallës së ulët të lindshmërisë, popullsia e Portugalisë parashikohet të bjerë në 8,3 milionë deri në vitin 2100.{{sfnp|''Projections of resident population in Portugal 2025-2100''|2025}}
+
+Historikisht një vend emigrimi,{{sfnp|Federal Research Division, Library of Congress|1993|pp=[http://countrystudies.us/portugal/48.htm 75-79]}}
+{{Reflist|group=sh}}
+== Demografia ==
+Portugalia ka qenë marrëse neto e [[:en:Immigration to Portugal|imigrantëve]] që nga viti 1993, me përjashtim të periudhës 2011–2016, gjatë {{ill|krizës financiare portugeze|en|2010–2014 Portuguese financial crisis|lt=krizës financiare portugeze}}.{{sfnp|''Estimates of resident population in Portugal 2025''|2026}}{{sfnp|''30 years of 25 April: a statistical portrait''|2004|p=8}}{{sfnp|Pires|Vidigal|2020|pp=5,6}} Që nga viti 2016, Portugalia ka përjetuar një rritje të theksuar të imigrimit, me përqindjen e personave pa shtetësi portugeze në popullsinë totale që është rritur nga 3,5% në 14,0% deri në vitin 2025; ata jetojnë kryesisht në Algarve dhe në zonën metropolitane të Lisbonës, ndërsa 24,5% e të gjitha lindjeve të regjistruara në vitin 2024 ishin nga gra të lindura jashtë vendit.{{sfnp|''Survey on living conditions, origins and trajectories of the resident population 2023''|2023}}<ref>{{cite web |author=<!-- not stated --> |url=https://ec.europa.eu/eurostat/databrowser/bookmark/6b569dd8-b96c-4111-a727-8e49e1aad2c5?lang=en&createdAt=2026-04-25T18:59:34Z |title=Population on 1 January by age, sex and broad group of citizenship |doi=10.2908/MIGR_POP2CTZ |doi-access=free |publisher=[[Eurostati]] |access-date=2026-04-25 |date=2026-04-09 |language=en}}</ref><ref>{{Cite web |url=https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0012437&contexto=bd&selTab=tab2&xlang=en |title=Statistics Portugal - data base - indicator 0012437 |publisher=Statistics Portugal |author=<!-- not stated --> |access-date=2026-04-25 |date=2025-04-29 |language=en}}</ref> Në Portugali, portugezët e bardhë përbëjnë [[Raca (kategorizimi njerëzor)|grupin racor]] dhe etnik më të madh, duke përfaqësuar 84,2% të popullsisë, i ndjekur nga portugezët shumërracorë me 3,4%, portugezët e zinj me 2,2%, portugezët aziatikë me 0,7% dhe romët me 0,6%.{{sfnp|''Survey on living conditions, origins and trajectories of the resident population 2023''|2023}}
+
+Në vitin 2023, 88% e popullsisë portugeze jetonte në zona urbane.<ref>{{Cite web |url=https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0008856&contexto=bd&selTab=tab2&xlang=en |title=Statistics Portugal - data base - indicator 0008856 |publisher=Statistics Portugal |author=<!-- not stated --> |access-date=2026-04-25 |date=2024-08-09 |language=en}}</ref> Kryeqyteti, [[Lisbona]], kishte një popullsi prej 658.236 banorësh në vitin 2025. Ai është pjesë e zonës metropolitane të Lisbonës, zonës më të madhe metropolitane të Portugalisë me 3,4&nbsp;milionë&nbsp;banorë.<ref name="population2025">{{Cite web |url=https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0012917&contexto=bd&selTab=tab2 |title=Statistics Portugal - data base - indicator 0012917 |publisher=Statistics Portugal |author=<!-- not stated --> |access-date=2026-06-22 |date=2026-06-22 |language=en}}</ref>
+
+{{Largest cities
+| country      = Portugal
+| kind         = Komunat
+| stat_ref     = INE, vlerësim i vitit 2025<ref name="population2025" />
+| div_name     = Rajoni
+
+| city_1 = Lisbona
+| div_1 = Lisbona
+| pop_1 = 658,236
+
+| city_2 = Sintra
+| div_2 = Lisbona
+| pop_2 = 449,956
+
+| city_3 = Vila Nova de Gaia
+| div_3 = Veri
+| pop_3 = 323,202
+
+| city_4 = Porto
+| div_4 = Veri
+| pop_4 = 273,476
+
+| city_5 = Cascais
+| div_5 = Lisbona
+| pop_5 = 242,619
+| city_6 = Loures
+| div_6 = Lisbona
+| pop_6 = 236,988
+| city_7 = Braga
+| div_7 = Veri
+| pop_7 = 212,635
+
+| city_8 = Amadora
+| div_8 = Lisbona
+| pop_8 = 205,517
+
+| city_9 = Almada
+| div_9 = Gadishulli i Setúbalit
+| pop_9 = 202,896
+
+| city_10 = Seixal
+| div_10 = Gadishulli i Setúbalit
+| pop_10 = 198,254
+
+| city_11 = Oeiras
+| div_11 = Lisbona
+| pop_11 = 188,056
+
+| city_12 = Odivelas
+| div_12 = Lisbona
+| pop_12 = 185,736
+
+| city_13 = Matosinhos
+| div_13 = Veri
+| pop_13 = 181,930
+
+| city_14 = Gondomar
+| div_14 = Veri
+| pop_14 = 170,597
+
+| city_15 = Guimarães
+| div_15 = Veri
+| pop_15 = 165,554
+
+| city_16 = Coimbra
+| div_16 = Qendër
+| pop_16 = 156,359
+
+| city_17 = Vila Franca de Xira
+| div_17 = Lisbona
+| pop_17 = 152,007
+
+| city_18 = Leiria
+| div_18 = Qendër
+| pop_18 = 145,861
+
+| city_19 = Vila Nova de Famalicão
+| div_19 = Veri
+| pop_19 = 143,801
+
+| city_20 = Santa Maria da Feira
+| div_20 = Veri
+| pop_20 = 142,676
+
+}}
+{{Reflist|group=sh}}
+=== Feja ===
+{{Kryesor|Feja në Portugali}}
+
+[[File:Batalha September 2021-2.jpg|thumb|alt=Fasada kryesore gotike e Manastirit të Batalhës, Portugali|{{ill|Manastiri i Batalhës|en|Batalha Monastery}} është përdorur historikisht për të përcjellë një lidhje fetare me historinë e Portugalisë.{{sfnp|Lima|2018|pp=81–97}}]]
+
+Portugalia është një [[Shteti sekular|shtet sekular]] {{ill|Ligji për ndarjen e kishës nga shteti (Portugali)|pt|Lei da Separação do Estado das Igrejas|lt=që nga viti 1911}} dhe garanton lirinë fetare.{{sfnp|de Moura|2024}}{{sfnp|Botelho Moniz|2024|pp=85-99}}{{efn|[[Kushtetuta e Portugalisë|Kushtetuta e vitit 1976]] garantoi lirinë fetare pa dallim mes konfesioneve dhe pa kufizime specifike, duke u shkëputur nga regjimet e mëparshme të bashkimit, neutralitetit laicist dhe marrëdhënieve preferenciale me Kishën Katolike. Megjithatë, instrumentet ligjore të vitit 1940 u prekën në vitin 1975, kur u fut mundësia e zgjidhjes së martesës katolike, dhe mbetën në fuqi deri në vitin 2004, kur qeveria dhe [[Selia e Shenjtë]] ranë dakord për një Konkordat të ri.{{sfnp|Botelho Moniz|2024|pp=85-99}}}} Edhe pse Portugalia nuk ka [[Feja shtetërore|fe zyrtare]], {{ill|Kisha Katolike në Portugali|en|Catholic Church in Portugal|lt=Kisha Katolike}} ka një histori aty që i paraprin formimit të vendit dhe mund të gjurmohet deri në shekullin e 3.{{sfnp|Carneiro|2009|pp=205–220}} Sipas Regjistrimit të vitit 2021, 80,2% e popullsisë portugeze të moshës 15 vjeç e lart ishin katolikë, ndërsa 14,1% janë pa fe.<ref name="Censos2021" />{{efn|Megjithëse Portugalia është në masë dërrmuese katolike, shumica nuk e praktikojnë fenë, një mospërputhje që mund të ketë ekzistuar gjatë gjithë historisë së saj fetare.<ref name="Censos2021">{{cite web |url=https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0012311&contexto=bd&selTab=tab2&xlang=en |title=Statistics Portugal - data base - indicator 0012311 |publisher=Statistics Portugal |date=2022-11-23 |access-date=2026-02-25 |archive-url=https://web.archive.org/web/20250815222045/https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0012311&contexto=bd&xlang=en |archive-date=2025-08-15 |url-status=live |language=en}}</ref>{{sfnp|Coutinho|2023|pp=1-15}}{{sfnp|Dix|2025|p=20}}}}
+
+Vendi ka komunitete të vogla protestante, të shenjtorëve të ditëve të fundit, [[Islami në Portugali|myslimane]], hindu, sikhe, të Dëshmitarëve të Jehovait, bahai, budiste dhe çifute.<ref name="Censos2021" /> Ndikime nga feja tradicionale kineze janë gjithashtu të dukshme te shumë njerëz, veçanërisht në fushat që lidhen me mjekësinë tradicionale kineze.{{efn|Shkenca mjekësore kineze është e njohur mirë në Portugali dhe pranohet gjerësisht nga njerëzit. Portugalia është shteti i parë i Bashkimit Evropian që ka miratuar posaçërisht legjislacion për akupunkturën dhe shkencën mjekësore kineze.{{sfnp|Song|Gao|Jia|2021}}}} Edhe pse Portugalia ka lidhje të thella me krishterimin, që nga viti 2019 shumica e popullsisë së saj është treguar tolerante ndaj ndjekësve të feve të tjera, ku komuniteti mysliman e perceptonte veten si plotësisht të integruar në Portugali dhe besonte se vendi ofronte kushte të favorshme për një integrim të qetë.{{sfnp|de Carvalho|Neyroud|Pinto|Pinto|2025|pp=2-16}}
+
+=== Gjuhët ===
+{{Kryesor|Gjuhët e Portugalisë}}
+{{Shiko gjithashtu|Gjuha portugeze}}
+
+[[File:Genísio04.jpg|thumb|left|Një tabelë në {{ill|gjuhën mirandeze|en|Mirandese language}} në {{ill|Miranda do Douro|en|Miranda do Douro}}|alt=Fotografi e një tabele të bardhë rruge të montuar në një mur ngjyrë kafe të çelët, ku në mirandeze shkruhet «Rue de L Cruzeiro», me «Rua do Cruzeiro» të shkruar në portugalisht poshtë, dhe një logo e vogël me gjethe sipër.]]
+
+Portugalishtja është gjuha zyrtare dhe më e folura në Portugali.{{sfnp|Branco|Grilo|Silva|2023|p=195}}{{sfnp|European Commission: Directorate-General for Education, Youth, Sport and Culture and Verian|2024|p=11}} Ajo është një nga 24 [[Gjuhët e Bashkimit Evropian|gjuhët zyrtare dhe të punës të Bashkimit Evropian]].<ref>{{CELEX|01958R0001-20130701|text=Regulation No 1 determining the languages to be used by the European Economic Community}}</ref> Portugalishtja është gjuha e pestë më e folur në botë si gjuhë e parë, me rreth 250 milionë folës amtarë.{{sfnp|Branco|Grilo|Silva|2023|pp=195–198}}
+
+{{ill|Gjuha e shenjave portugeze|en|Portuguese Sign Language}} mbrohet zyrtarisht nga kushtetuta e vendit.{{sfnp|Figueira-Cardoso|Grzegorczy|Marçalo|2025|pp=9-36}} Gjuhët dhe dialektet rajonale të njohura përfshijnë mirandezen, që flitet në {{ill|Terra de Miranda|en|Terra de Miranda}}, dhe {{ill|barranquenhon|en|Barranquenho}}, në Barrancos.{{sfnp|Figueira-Cardoso|Grzegorczy|Marçalo|2025|pp=9-36}} Portugezët janë zakonisht dygjuhësh, me 67,5% që flasin të paktën dy gjuhë, dhe priren të jenë folës të aftë të anglishtes si gjuhë e huaj, me Portugalinë të renditur e gjashta globalisht për zotërimin e anglishtes në [[:en:EF English Proficiency Index|Indeksin EF të Aftësisë në Anglisht]] të vitit 2025.{{sfnp|''Adult education survey – 2022''|2023}}{{sfnp|EF Education First|2025|p=9}}
+
+{{Reflist|group=sh}}
+=== Arsimi ===
+{{Kryesor|Arsimi në Portugali}}
+
+[[File:Universidad de Coímbra, Portugal, 2012-05-10, DD 16.JPG|alt=Sheshi i Universitetit të Koimbrës|thumb|[[Universiteti i Koimbrës]] në [[Coimbra|Koimbrë]] është universiteti i parë në Portugali.]]
+
+Sistemi arsimor i Portugalisë është i organizuar në [[Arsimi parashkollor|arsimin parashkollor]]; arsimin shkollor, që përfshin arsimin {{ill|Arsimi bazë në Portugali|en|Basic education in Portugal|lt=bazë}}, arsimin {{ill|Arsimi i mesëm në Portugali|en|Secondary education in Portugal|lt=të mesëm}} dhe {{ill|Arsimi i lartë në Portugali|en|Higher education in Portugal|lt=arsimin e lartë}}; dhe {{ill|Arsimi jashtëshkollor në Portugali|pt|Educação extraescolar|lt=arsimin jashtëshkollor}}, që përfshin [[Arsimi i vazhdueshëm|arsimin e vazhdueshëm]].{{sfnp|Correia|2025|p=316}}{{sfnp|Barros|2025|pp=271–295}} Arsimi parashkollor opsional ofrohet për të gjithë fëmijët midis moshës tre dhe pesë vjeç,{{sfnp|European Commission: Directorate-General for Education, Youth, Sport and Culture|2025|p=10}}{{sfnp|Assembly of the Republic|2025}} pas së cilës ndjekja e shkollës është e detyrueshme për 12 vjet.{{sfnp|Cabrito|2023}} Arsimi bazë zgjat nëntë vjet dhe ndahet në tri cikle, ndërsa arsimi i mesëm është i organizuar në rrugë akademike dhe [[Arsimi profesional|profesionale]].{{sfnp|Cabrito|2023}}
+
+Arsimi i lartë ofrohet nga universitetet dhe {{ill|Institucionet politeknike|en|Polytechnic (Portugal)|lt=institucionet politeknike}} në përputhje me [[Procesi i Bolonjës|Procesin e Bolonjës]], ku {{ill|Universiteti i Lisbonës|en|University of Lisbon}} është universiteti më i madh i vendit sipas numrit të studentëve të regjistruar.{{sfnp|Urbano|2011|pp=95-115}} Një kusht i përgjithshëm për arsimin e lartë janë {{lang|pt-PT|{{ill|Exames Nacionais do Ensino Secundário|en|Exames Nacionais do Ensino Secundário|lt=exames finais nacionais do ensino secundário}}}}.{{sfnp|Coordinators and authors of the National Secondary Education Examinations|2024|p=11}} Shumica e nxënësve të shkollës së mesme vazhdojnë studimet në institucione publike të arsimit të lartë ose në {{ill|Akademia Ushtarake|en|Military Academy (Portugal)|lt=Akademinë Ushtarake}}, e cila jep gjithashtu diploma universitare.{{sfnp|''State of education 2024''|2025|p=79}}{{sfnp|Fonseca|Encarnação|2012|pp=31-32}}{{sfnp|''Main results of RAIDES25 – first stage – enrolled students and international mobility – 2025/2026''|2026}}
+
+Ndonëse vendet e tjera evropiane filluan të investojnë në arsim në shekullin e 19-të, identiteti kombëtar i konsoliduar prej kohësh i Portugalisë, kufijtë e qëndrueshëm dhe popullsia homogjene kontribuan në mungesën e angazhimit politik për zhvillimin e arsimit deri në Republikën e Parë në fillim të shekullit të 20-të;{{sfnp|Gomes|Machado|2021|pp=135-164}} shumë nga reformat e saj u zhbënë më vonë nën {{lang|pt-PT|{{ill|Estado Novo (Portugali)|en|Estado Novo (Portugal)}}}}, neglizhimi i qëllimshëm i arsimit nga i cili kontribuoi që Portugalia të regjistronte shkallën më të lartë të analfabetizmit në Evropë në vitin 1964;{{sfnp|Felgueiras|Amorim|2024}}{{sfnp|Alves|Lima|Pereira|2019|p=23}} pas demokratizimit në vitin 1974, arsimi u bë më i aksesueshëm dhe u modernizua.{{sfnp|Cabrito|2023}}
+
+Portugalia mbetet prapa shumicës së vendeve të OECD-së në treguesit arsimorë, kryesisht për shkak të brezit më të vjetër të moshës së punës.{{sfnp|''State of education 2024''|2025|pp=117-123}} Më pak se dy të tretat e popullsisë së Portugalisë kanë përfunduar arsimin e mesëm ose të lartë.{{sfnp|''State of education 2024''|2025|pp=117-123}} Popullsia e rritur e Portugalisë e moshës 16 deri në 65 vjeç regjistron nivelin e pestë më të ulët të njohurive dhe aftësive në OECD, ndërsa nxënësit e shkollave performojnë në nivele mesatare.{{sfnp|Organisation for Economic Co-operation and Development|2024a|p=2}}{{sfnp|Organisation for Economic Co-operation and Development|2024b}}{{sfnp|Rosa|Maia|Mascarenhas|Teodoro|2020|pp=94–120}} Në vitin 2021, shkalla kombëtare e analfabetizmit among personave të moshës 10 vjeç e lart ishte 3,1%, duke u ndryshuar nga 1,4% në 12,3% nëpër komunat e vendit.{{sfnp|''Census 2021 - 16th population census. 6th housing census''|2022|pp=44-45}} Portugalia shpenzoi 4,5% të PBB-së së saj totale për arsimin në vitin 2022.<ref>{{cite web |title=Public expenditure on education by education level and programme orientation - as % of GDP |doi=10.2908/EDUC_UOE_FINE06 |doi-access=free |date=2026-05-08 |publisher=Eurostat |url=https://ec.europa.eu/eurostat/databrowser/bookmark/a36b249b-5030-4681-b7c9-93fc139acae2?lang=en |access-date=2026-05-25 |author=<!-- not stated --> |language=en}}</ref>
+
+=== Shëndetësia ===
+
+{{Kryesor|Shëndetësia në Portugali|Kujdesi shëndetësor në Portugali}}
+[[File:Hospitais da Universidade de Coimbra em 2025 - Foto 02.jpg|alt=Spitali Universitar i Koimbrës, pjesë e Centro Hospitalar e Universitário de Coimbra, në Koimbër.|thumb|upright 0.8|{{ill|Centro Hospitalar e Universitário de Coimbra|en|Centro Hospitalar e Universitário de Coimbra}} në [[Coimbra|Koimbrë]] është kompleksi mjekësor më i madh në Portugali.<ref>{{cite web |url=https://benchmarking-acss.min-saude.pt/MH_CapacidadeUtilizadaDashboard |publisher={{ill|Ministria e Shëndetësisë (Portugali)|en|Ministry of Health (Portugal)|lt=Ministria e Shëndetësisë}} |author=<!-- not stated --> |publication-date=2026-04-27 |access-date=2026-05-08 |title=Monitorização mensal hospitais - capacidade utilizada |trans-title=Monitorimi mujor i spitaleve – kapaciteti i shfrytëzuar |language=pt-PT}}</ref>]]
+Portugalia ka një sistem kryesisht të [[:en:Universal health care|kujdesit shëndetësor universal të financuar nga taksat]], të quajtur {{lang|pt-PT|{{ill|Serviço Nacional de Saúde|pt|Serviço Nacional de Saúde}}}} (SNS), që vepron paralelisht me skemat e sigurimeve shëndetësore të sektorit publik, të quajtura nënsisteme shëndetësore, të financuara kryesisht përmes kontributeve të punonjësve dhe punëdhënësve, si dhe me sigurimin shëndetësor vullnetar privat.{{sfnp|Fronteira|Augusto|Maresso|2025|p=2}} Kujdesi parësor dhe spitalor ofrohet si nga subjekte publike, ashtu edhe private, ku sektori privat plotëson shërbimet e ofruara nga SNS-ja.{{sfnp|Fronteira|Augusto|Maresso|2025|p=3}} Në vitin 2023, Portugalia kishte pjesën e tretë më të ulët publike në shpenzimet shëndetësore në Bashkimin Evropian, dhe mbi gjysma e spitaleve publike ishin në [[:en:Insolvency|falimentim teknik]] në vitin 2020.{{sfnp|Organisation for Economic Co-operation and Development|European Observatory on Health Systems and Policies|2025|p=7}}{{sfnp|Dubas-Jakóbczyk|Ndayishimiye|Szetela|Sowada|2025|p=3}} Portugalia ka një nivel të lartë të pabarazisë në shëndetësi brenda OECD-së, e shkaktuar nga shpenzimet e kufizuara publike, shpërndarja e pabarabartë e shërbimeve, të ardhurat e ulëta të familjeve, pritjet e gjata dhe mangësitë e politikave.{{sfnp|Fernandes|Furtado|Pereira|2024|pp=104–111}}
+
+Portugalia [[:en:List of countries by life expectancy|renditet e 23-a]] në botë në vitin 2024 për jetëgjatësinë, me 85,4 vjet për gratë dhe 79,8 vjet për burrat, dhe kishte një shkallë të vdekshmërisë foshnjore prej 2,7 vdekjesh për 1.000 [[:en:Live birth (human)|lindje të gjalla]].{{sfnp|Organisation for Economic Co-operation and Development|European Observatory on Health Systems and Policies|2025|p=2}}{{sfnp|United Nations Inter-Agency Group for Child Mortality Estimation|2026|p=94}} Në vitin 2022, shkaku kryesor i vdekjes ishin sëmundjet kardiovaskulare, me 25,4%.{{sfnp|Organisation for Economic Co-operation and Development|European Observatory on Health Systems and Policies|2025|p=2}} Portugalia paraqet disa tregues të pafavorshëm të shëndetit publik, përfshirë pjesën e tretë më të ulët të njerëzve që raportojnë shëndet të mirë në Bashkimin Evropian, në vitin 2024, me 54%, konsumin më të lartë të alkoolit me {{convert|11.9|l|impgal usgal}} të konsumuara për person, në vitin 2020, dhe pjesën më të lartë të popullsisë së rritur që bën një jetë sedentare, në vitin 2022, me 73%, një model i përforcuar nga infrastruktura e kufizuar për transport aktiv dhe kushtet e pasigurta për këmbësorët dhe çiklistët.{{sfnp|European Commission: Directorate-General for Education, Youth, Sport and Culture|2022|p=9}}{{sfnp|Organisation for Economic Co-operation and Development|European Observatory on Health Systems and Policies|2025|pp=2-3,5-6}} Përqindja e popullsisë portugeze që vuan nga pasiguria ushqimore e moderuar ose e rëndë midis viteve 2022 dhe 2024 ishte mesatarisht 11,9%, çka e bën Portugalinë vendin e tretë më të lartë në [[Evropa Jugore|Evropën Jugore]] për këtë tregues, ku mesatarja është 5,9%.{{sfnp|''The state of food security and nutrition in the world 2025 – addressing high food price inflation for food security and nutrition''|2025|p=120}} Palët e interesuara kanë shprehur shqetësime për efektivitetin e politikave të sigurisë ushqimore.{{sfnp|Rodrigues|Saraiva|García-Díez|Castro|2025|pp=5-7,12-13}}
+
+{{Reflist|group=sh}}
+== Kultura ==
+{{Hatnote|Artikujt kryesorë: {{ill|Kultura e Portugalisë|en|Culture of Portugal}} dhe {{ill|Mediat në Portugali|en|Mass media in Portugal}}}}
+
+[[File:Desfile 12.jpg|alt=Gra me veshje tradicionale portugeze të kuqe, me përparëse të qëndisura dhe ststoli prej ari, në Romaria de Nossa Senhora da Agonia.|thumb|Gratë e Rajonit Verior praktikojnë artin tradicional të {{ill|Qëndisja me fije ari e Vianës|pt|Ouro de Viana|lt=qëndisjes me fije ari}}, siç shihet në këtë foto të Romaria de Nossa Senhora da Agonia në Viana do Castelo.{{sfnp|Maestrello|Favaro|2022|pp=261-264}}{{sfnp|dos Santos Mota|2016|pp=175-188}}]]
+
+Kultura e Portugalisë është zhvilluar nën ndikimin e qytetërimeve të ndryshme që kanë kaluar nëpër [[Evropa|Evropë]], sidomos nëpër Mesdhe.{{sfnp|Suisse|2026|pp=42–59}}{{sfnp|Arruda|2009|p=124}} Më vonë, gjatë periudhës së {{ill|Historia e Portugalisë (1415–1578)|en|History of Portugal (1415–1578)|lt=përfshirjes së Portugalisë në Epokën e Zbulimeve}}, elementë kulturorë nga jashtë Evropës u sollën dhe u bënë një element qendror i identitetit kombëtar portugez.{{sfnp|Casimiro|2020|pp=1–17}}{{sfnp|Peralta|2026|pp=341-364}}
+
+Portugalia është e njohur për {{ill|Arkitektura portugeze|en|Portuguese architecture|lt=trashëgiminë dhe arkitekturën e saj}},{{sfnp|Gholitabar|Alipour|Costa|2018|p=2}} {{ill|Shenjtërorja e Fatimës|en|Sanctuary of Fátima|lt=vendet e shenjta}},{{sfnp|Heidari|Yazdani|Saghafi|Jalilvand|2018|p=751}} festat,{{sfnp|Carvalho|Costa|2022|pp=73-82}}{{sfnp|Charzyński|Łyszkiewicz|Musiał|2017|pp=95-96}} poezinë,{{sfnp|Ladeira|2008|pp=43-72}} muzikën e saj (sidomos {{ill|Fado|en|Fado|lt=fadon}}),{{sfnp|Carvalho|Madeira|Monteiro|Lopes|2023|p=2}} dhe {{ill|Kuzhina portugeze|en|Portuguese cuisine|lt=kuzhinën}} (përfshirë {{ill|Vera portugeze|en|Portuguese wine|lt=verën e saj}}).{{sfnp|Costa e Silva|Elo|2017|pp=425–442}}{{sfnp|Charzyński|Łyszkiewicz|Musiał|2017|pp=85-100}} Që nga viti 2026, [[UNESCO]] ka regjistruar [[Lista e vendeve të Trashëgimisë Botërore në Portugali|17 prona në Portugali në Listën e Trashëgimisë Botërore]].<ref>{{cite web |title=World Heritage - List |url=https://www.unesco.org/en/world-heritage/list |publisher=UNESCO |access-date=2026-02-26 |url-status=live |archive-url=https://web.archive.org/web/20260206124451/https://www.unesco.org/en/world-heritage/list |archive-date=2026-02-06 |language=en}}</ref> [[Festa kombëtare]] e Portugalisë është më 10&nbsp;qershor, e festuar si {{lang|pt-PT|Dia de Portugal, de Camões e das Comunidades Portuguesas}} (Dita e Portugalisë, e Camões-it dhe e Bashkësive Portugeze).{{sfnp|João|2011|pp=19-34}}
+
+=== Arti dhe arkitektura ===
+{{Hatnote|Artikujt kryesorë: {{ill|Arti portugez|en|Portuguese art}} dhe {{ill|Arkitektura e Portugalisë|en|Architecture of Portugal}}}}
+
+[[File:Lagos40 kopie.jpg|alt=Gjashtë piktura që i atribuohen Nuno Gonçalves-it dhe paraqesin 58 persona të oborrit dhe grupe të ndryshme të shoqërisë portugeze të asaj kohe, të mbledhur rreth figurës së dyfishtë të Shën Vincentit, me shikim të përqendruar e shprehës, në një akt nderimi.|thumb|''Panelet e Shën Vincentit'' ({{Rreth|1470}}) nga {{ill|Nuno Gonçalves|en|Nuno Gonçalves}} janë ndër veprat më të rëndësishme të pikturës portugeze të shekullit të 15-të.{{sfnp|Vermeersch|Rousaki|Lycke|Valadas|2025|pp=1-2}}]]
+
+Historia e artit pamor në Portugali daton që në Paleolitik. Një dëshmi e hershme që tregon përpjekje për të paraqitur lëvizjen u gjet në vendet e artit shkëmbor parahistorik të Luginës së Côa-s dhe të Siega Verdes.{{sfnp|''Evaluation report of cultural properties - 1998''|1998|p=46}} Me kalimin e kohës, ndikimet e huaja e vendase, së bashku me përparimet në prodhim, krijuan stile të veçanta artistike, si {{ill|Stili manuelin|en|Manueline|lt=manuelini}} dhe stili pombalin,{{sfnp|Câmara|1999|pp=197-214}} si dhe një sërë zanatesh tipike të Portugalisë, përkatësisht {{lang|pt|{{ill|Azulejo|en|Azulejo}}}}, {{lang|pt|talha dourada}} (gdhendja e dekoruar me ar) dhe shtrimi portugez i rrugëve me gurë (''calçada portuguesa'').{{sfnp|Sandu|Murta|Neves|Pereira|2016|pp=47–71}}{{sfnp|Resende|2022|pp=206–227}}{{sfnp|Pereira|Conte|Esteves|Pais|2023|pp=3804–3815}}
+
+Historikisht, krishterimi ka luajtur një rol me ndikim në artin portugez dhe ka qenë temë e përsëritur në shumë forma arti, përfshirë pikturën.{{sfnp|Vermeersch|Rousaki|Lycke|Valadas|2025|pp=1-2}}{{sfnp|Serrão|2006|pp=53-57,68}} Gjatë historisë së vendit, veprat artistike në Portugali janë bërë zakonisht nga artistë vendas, të cilët, sipas vendndodhjes, ndiqnin variante të ndryshme stilistike, duke i dhënë Portugalisë një gamë të larmishme stilesh artistike në të gjithë vendin; një shembull i kësaj janë shtëpitë tipike me çati kashte të Santanës (''Casas típicas de Santana'') në Madeira.{{sfnp|Silva|da Silva|2024}}
+
+=== Letërsia ===
+{{Hatnote|Artikulli kryesor: {{ill|Letërsia portugeze|en|Portuguese literature}}}}
+
+[[File:Camões, por Fernão Gomes.jpg|thumb|alt=Vizatim i Luís Vaz de Camões-it|upright|right|Luís Vaz de Camões ishte autori i veprës ''{{ill|Os Lusíadas|en|Os Lusíadas}}''.]]
+
+Portugalia ka një traditë letrare që i paraprin gjuhës portugeze dhe shkon prapa në fillim të shekullit të 13-të.{{sfnp|Cohen|Parkinson|2009|pp=37–43}} Letërsia portugeze u zhvillua përmes këngës, si dhe përmes faqes së shkruar, të njohur si {{lang|pt-PT|cantigas}}.{{sfnp|Monteagudo|2007|pp=275-312}} {{lang|pt-PT|Cantigas}} tërhoqën autorë nga të gjitha shtresat shoqërore, nga Mbreti Dioniz I (Denis I) deri te {{ill|Martin Codax|en|Martin Codax}}, që ishte këngëtar endacak (''minstrel'').{{sfnp|Macedo|2009|p=2}} Vepra më e hershme e njohur letrare e prodhuar nga një portugez është ''Ora faz ost'o senhor de Navarra'', një {{lang|pt-PT|cantiga de escárnio e maldizer}} (këngë talljeje e shpifjeje) e shkruar në galisishten–portugezen mesjetare nga João Soares de Paiva rreth vitit 1200.{{sfnp|Castro|2015|p=120}}{{sfnp|Miranda|2012|p=2}}
+
+Letërsia portugeze u zhvillua nën ndikimin e zhvillimeve gjeopolitike evropiane dhe të traditave më të gjera letrare evropiane. [[Lufta njëqindvjeçare]] ndihmoi në nxitjen e zhvillimit të {{ill|Kronikat portugeze|en|Chronicle|lt=kronikave}} portugeze nga {{ill|Fernão Lopes|en|Fernão Lopes}}, të cilat përbëjnë një regjistër të çmuar të disa prej takimeve të hershme të Evropës me popuj përtej kontinentit.{{sfnp|Macedo|2009|pp=2–5}}{{sfnp|Parkinson|2009|pp=45–51}} Letërsia kalorësiake mesjetare evropiane, së bashku me letërsinë didaktike fetare të përcjellë përmes përshtatjeve dhe përkthimeve të pjesshme, kontribuoi në zhvillimin e poezisë portugeze në veprat e përkthyera të rrëfimeve arturiane në frëngjishten normane.{{sfnp|Macedo|2009|p=2}}{{sfnp|Parkinson|2009|pp=53–54}} Letërsia portugeze lulëzoi gjatë Epokës së Zbulimeve me shkrimtarë si Luís Vaz de Camões dhe António Ferreira.{{sfnp|Willis|2009|pp=72–83}}{{sfnp|Perkins|Earle|2009|p=68}} Letërsia moderne portugeze mori formë përmes veprës së {{ill|Almeida Garrett|en|Almeida Garrett|lt=Almeida Garrettit}}, një prej themeluesve të romantizmit portugez.{{sfnp|Carvalhão Buescu|2009|pp=109–111}} Portugalia ka një autor fitues të [[Çmimi Nobel për Letërsi|Çmimit Nobel për Letërsi]] — {{ill|José Saramago|en|José Saramago}} (1998).<ref>{{cite web |title=The Nobel Prize in Literature 1998 - NobelPrize.org |url=https://www.nobelprize.org/prizes/literature/1998/summary/ |access-date=2025-12-27 |publisher=Nobel Prize Outreach |date=2026 |archive-url=https://web.archive.org/web/20260424120342/https://web.archive.org/web/20260424120342/https://www.nobelprize.org/prizes/literature/1998/summary/ |archive-date=2026-04-24 |url-status=live |language=en}}</ref>
+{{Reflist|group=sh}}
+=== Muzika ===
+
+{{CSS image crop
+|Alt=Fotografi bardhezi e Amália Rodrigues duke kënduar në një mikrofon stativ, e veshur me fustan të gjatë të errët dhe shall, me njërën dorë të ngritur në shenjë shprehjeje dhe me një kitarist pjesërisht të dukshëm në sfond.
+|Image = Amalia Rodrigues, Bestanddeelnr 922-1813 (cropped).jpg
+|bSize = 280
+|cWidth = 190
+|cHeight = 200
+|oTop = 40
+|oLeft = 45
+|Location = right
+|Description = Amália Rodrigues njihej si «Mbretëresha e fadove».{{sfnp|Aguiar-Branco|2024|p=1}}
+}}
+
+Historia e dokumentuar e muzikës në Portugali daton që nga shekulli i 6-të. Dëshmia më e hershme për një këngëtar kishe në Portugali vjen nga viti 525 dhe i referohet një personi me emrin André. Fillimisht, muzika portugeze përbëhej kryesisht nga muzika liturgjike dhe tradita e trubadurëve.{{sfnp|Ferreira|2008|p=10}}{{sfnp|Ferreira|2014|pp=170–178}} Me kalimin e kohës, traditat e reja popullore, ndikimi i kulturave të huaja dhe krijimi i instrumenteve të reja, veçanërisht i kitarave, sollën një larmi të madhe të muzikës popullore rajonale, si fadoja, fadoja e Koimbrës dhe muzika popullore e Madeirës.{{sfnp|Ribeiro|2026|pp=1–18}}{{sfnp|Lã|Silva|Granqvist|2023|p=631.e7}}{{sfnp|dos Santos|2013|pp=147-153}}
+
+Muzika popullore në Portugali pas Revolucionit të Karafilave është ndikuar shumë nga prirjet amerikane, duke sjellë zhvillimin e hip-hopit tuga dhe përhapjen e rokut.{{sfnp|Alge|2013|pp=7–24}} Historikisht, Portugalia ka qenë vend emigrimi, gjë që ka ndikuar shumë në zhanrin pimba gjatë shekullit të 20-të dhe ka çuar në përhapjen e muzikës portugeze në kultura të tjera; një shembull është ukuleleja, e cila u përhap në Havai gjatë shekullit të 19-të.{{sfnp|Elliott|2010|p=[https://books.google.com/books?id=Sa-gR-P-pVEC&q=pimba+music&pg=PA135 135]}}{{sfnp|Nidel|2004|p=312}}
+
+=== Festat dhe kremtimet ===
+
+Festat zyrtare publike në Portugali rregullohen me Kodin Portugez të Punës.{{sfnp|Torgal|2026|pp=1-13}} Përveç festave kombëtare, ka festa rajonale që kremtohen vetëm në Madeira dhe në Azore, si dhe dy festa fakultative: Entrudoja dhe një festë bashkiake, të lejuara për çdo bashki.{{sfnp|Assembly of the Republic|2009}} Ndryshe nga disa festa zyrtare, kremtimet popullore të Portugalisë vazhdojnë të ndiqen gjerësisht dhe i kanë rrënjët në traditat vendore, si karnavali i Ovarit, Marchas Populares në Lisbonë dhe Festa de São João në Porto.{{sfnp|Torgal|2026|pp=1-13}}{{sfnp|Carvalho|Costa|2022|p=73}} Shumë kremtime popullore lidhen me {{lang|pt-PT|Santos Populares}}, festa të krishtera me origjinë të lashtë pagane, të lidhura me solsticin e verës.{{sfnp|Carvalho|Costa|2022|pp=74-78}} Këto kremtime zhvillohen në mbarë vendin, veçanërisht në zonat rurale, dhe zakonisht përfshijnë shfaqje muzikore, skena, arena të përkohshme dhe tezga me ushqime tradicionale.{{sfnp|Carvalho|Costa|2022|pp=79-82}}
+
+=== Kuzhina ===
+
+[[File:Funchal (Madeira, Portugal), Rua Dr. Fernão de Ornelas, Nata 7 - Fernão Ornelas -- 2025 -- 1205.jpg|thumb|{{lang|pt-PT|Pastéis de nata}}|alt=Fotografi e një vitrine pastiçerie të mbushur me pastéis de nata; përpara saj ndodhet një tabelë me mbishkrimin «Pastel de Nata», e cila në portugalisht dhe anglisht i përshkruan si recetë sekrete me pak sheqer.]]
+
+Kuzhina portugeze ndikohet si nga dieta mesdhetare, ashtu edhe nga ajo atlantike.{{sfnp|Guiné|Florença|Amaral|Costa|2025|pp=1–2}} Ushqimet e detit, perimet e familjes së lakrave, patatet, buka, bulmeti dhe [[Vaji i ullirit|vaji i ullirit]] janë ushqime bazë tradicionale.{{sfnp|Lorenzo|Izquierdo|Rodriguez-Carnero|Fernández-Pombo|2022|pp=1725–1747}} {{lang|pt-PT|Bacalhau}} është aq i përhapur në Portugali, saqë konsiderohet gjellë kombëtare, ashtu si edhe {{lang|pt|pastel de nata}}.{{sfnp|Sá|da Silva|2019|pp=4-19}}{{sfnp|Costa e Silva|Elo|2017|pp=425–442}} Ëmbëlsirat tradicionale portugeze njihen si ëmbëlsira të kuvendeve. Ato përgatiten me sasi të mëdha sheqeri dhe vezësh.{{sfnp|Barata Dias|2018|pp=275-299}}
+
+Ndër pijet e njohura portugeze janë verërat, prodhimi i të cilave ka qenë i konsoliduar që nga shekulli i 7-të; ndër shembujt janë vera e Portos dhe vera e Madeirës.{{sfnp|Cunha|Ibáñez|Teixeira-Santos|Brazão|2020}}{{sfnp|Charzyński|Łyszkiewicz|Musiał|2017|pp=85-100}} Birra është prodhuar në Portugali që nga Kalkoliti.{{sfnp|Estreicher|2025|p=40}} Në ishullin São Miguel prodhohet çaj që nga shekulli i 19-të.{{sfnp|Moura|2019|pp=112-130}}
+
+<references group="sh" />
+=== Sport ===
+{{Hatnote|Artikulli kryesor: [[:en:Sport in Portugal|Sporti në Portugali]]}}
+
+{{CSS image crop
+|Image =Cristiano Ronaldo Portugal.jpg
+|alt =Cristiano Ronaldo duke luajtur për Portugalinë gjatë një ndeshjeje futbolli.
+|bSize = 190
+|cWidth = 190
+|cHeight = 220
+|oTop = 0
+|oLeft = 0
+|Location = right
+|Description = [[Cristiano Ronaldo]] konsiderohet gjerësisht si një nga [[List of career achievements by Cristiano Ronaldo|futbollistët më të mëdhenj në histori]].
+}}
+
+Portugalia ka kontribuar në popullaritetin dhe globalizimin e sportit përmes atletëve të njohur ndërkombëtarisht, si [[Cristiano Ronaldo]], Ricardinho, Naide Gomes dhe Carlos Lopes, si edhe përmes popullaritetit të tri klubeve të saj më të mëdha të futbollit.{{Sfnp|García-Fernández|Grimaldi-Puyana|Bravo|2022|p=2}}{{Sfnp|Carvalho|García-Cirac|Sousa|2022|p=36}} [[Football in Portugal|Futbolli]] është sporti më popullor në Portugali.{{Sfnp|Almeida|2022|pp=75–88}} Ekipi kombëtar i meshkujve të Portugalisë në futboll fitoi [[UEFA Kampionati Evropian i Futbollit|Kampionatin Evropian të Futbollit të UEFA-s]] më [[UEFA Euro 2016|2016]] dhe [[UEFA Liga e Kombeve|Ligën e Kombeve të UEFA-s]] më [[UEFA Liga e Kombeve 2018–19|2019]] dhe 2025.{{Sfnp|''Full time report final - Sunday 10 July 2016 Stade de France - Saint-Denis''|2016}}{{Sfnp|''Full time report final - Sunday 9 June 2019 - Estádio do Dragão - Porto''|2019}}{{Sfnp|''Full time report final - Sunday 8 June 2025 - Munich Football Arena''|2025}}
+
+Portugalia është ndër vendet kryesore të botës në futsal,<ref>{{Cite web |url=https://inside.fifa.com/fifa-rankings |publisher=FIFA |access-date=2026-05-11 |date=2026-05-08 |archive-url=https://web.archive.org/web/20260511052247/https://inside.fifa.com/fifa-rankings |archive-date=2026-05-11 |url-status=live |title=FIFA rankings |language=en}}</ref> ndërsa ekipi i saj kombëtar i meshkujve ka fituar Kupën e Botës në Futsal të FIFA-s më [[2021 FIFA Futsal World Cup|2021]],<ref>{{Cite web |url=https://www.uefa.com/futsalworldcup/news/0257-0de805f9ebe1-fdf0b055945a-1000--2021-fifa-futsal-world-cup-portugal-beat-argentina-in-final/ |title=2021 FIFA Futsal World Cup: Portugal beat Argentina in final |publisher=FIFA |date=2021-09-30 |access-date=2026-05-11 |archive-url=https://web.archive.org/web/20211022183728/https://web.archive.org/web/20211022183728/https://www.uefa.com/futsalworldcup/news/0257-0de805f9ebe1-fdf0b055945a-1000--2021-fifa-futsal-world-cup-portugal-beat-argentina-in-final/ |archive-date=2021-10-22 |url-status=live |language=en}}</ref> Kampionatin Evropian të Futsalit të UEFA-s më [[UEFA Futsal Euro 2018|2018]] dhe [[UEFA Futsal Euro 2022|2022]],{{Sfnp|''UEFA Futsal EURO 2018 tournament review''|2018|p=23}}{{Sfnp|''UEFA Futsal EURO 2022 tournament review''|2022|p=27}} si dhe Finalissimën e Futsalit më [[2022 Futsal Finalissima|2022]].<ref>{{Cite web |url=https://www.uefa.com/futsalfinalissima/match/2036154--spain-vs-portugal/ |title=Spain-Portugal |publisher=UEFA |date=2022-09-18 |access-date=2026-05-11 |archive-url=https://web.archive.org/web/20260511063133/https://web.archive.org/web/20260511063133/https://www.uefa.com/futsalfinalissima/match/2036154--spain-vs-portugal/ |archive-date=2026-05-11 |url-status=live |language=en}}</ref> Në atletikë, vendi ka vendosur disa rekorde dhe ka fituar më shumë medalje në këtë sport se në cilindo sport tjetër, si në Lojërat Olimpike ashtu edhe në ato Paralimpike.{{Sfnp|''2024 activities and accounts report''|2025|pp=54–95}}<ref>{{Cite web |url=https://comiteolimpicoportugal.pt/atletas/atletas-olimpicos/resultados/ |title=Resultados |language=pt |trans-title=Rezultatet |publisher=Comité Olímpico de Portugal |publication-date=2024-11-01 |access-date=2026-05-11}}</ref>{{Sfnp|''Paralympic medals''|2026|pp=2-9}} Në sportet tradicionale, Portugalia shquhet për garat klasike të veshjes me kalë, si edhe për sporte vendase si jogo do pau dhe jogo da malha.{{Sfnp|Pickel-Chevalier|2020|pp=22–44}}{{Sfnp|Ramírez-Macías|Rodríguez-Sánchez|Lasaga-Rodríguez|2022|pp=199–208}} Portugalia ka disa qendra sportive të konsoliduara në mbarë vendin, përfshirë Algarve dhe Lisbonën, të cilat janë destinacione ndërkombëtare për golf dhe kanë pritur veprimtari të sporteve motorike, si Çmimin e Madh të Portugalisë në Formula 1 dhe Çmimin e Madh të Portugalisë për motoçikleta,{{Sfnp|Moreira|2018}}{{Sfnp|Castro|Menezes|2025|pp=29–47}}{{Sfnp|Mourão|Macedo|Sánchez-Carreira|2025|p=198}} si edhe Praia do Norte në Nazaré dhe Supertubos në Peniche, të njohura për sërf; ato presin çdo vit, përkatësisht, TUDOR Nazaré Big Wave Challenge dhe MEO Rip Curl Pro Portugal.{{Sfnp|Fernandes|Ribeiro|Ferreira|2017|pp=703–712}}<ref>{{Cite web |url=https://www.worldsurfleague.com/events/2025/bwt/472/tudor-nazar-big-wave-challenge/results |title=Results - TUDOR Nazaré Big Wave Challenge 2025 |publisher=World Surf League |publication-date=2026-03-31 |access-date=2026-05-11 |archive-url=https://web.archive.org/web/20260511161329/https://web.archive.org/web/20260511161329/https://www.worldsurfleague.com/events/2025/bwt/472/tudor-nazar-big-wave-challenge/results |archive-date=2026-05-11 |url-status=live |language=en}}</ref><ref>{{Cite web |url=https://www.worldsurfleague.com/events/2026/ct/445/meo-rip-curl-pro-portugal |publication-date=2026-02-04 |title=Main - MEO Rip Curl Pro Portugal 2026 |publisher=World Surf League |access-date=2026-05-11 |archive-url=https://web.archive.org/web/20260511162032/https://web.archive.org/web/20260511162032/https://www.worldsurfleague.com/events/2026/ct/445/meo-rip-curl-pro-portugal |archive-date=2026-05-11 |url-status=live |language=en}}</ref>
+
+{{Reflist|group=sh}}
+== Shih edhe ==
+{{clear}}
+
+== Shënime ==
+{{Listë shënimesh|30em}}
+{{Reflist|group=sh}}
+
+== Referime ==
+{{Reflist}}
+=== Burimet ===
+<!-- Çdo burim që nuk është faqe interneti duhet vendosur këtu sipas rendit alfabetik. Përdorni shkronja të vogla në tituj, viza në numrat ISBN dhe çdo parametër të përdorur nga citimet e tjera. -->
+{{refbegin|30em}}
+* {{cite book |ref={{SfnRef|''30 years of 25 April: a statistical portrait''|2004}} |isbn=972-673-728-1 |title=30 anos de 25 de Abril: um retrato estatístico |url=https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=142198&PUBLICACOESmodo=2&xlang=en |archive-date=20 May 2026 |archive-url=https://web.archive.org/web/20260520140043/https://www.ine.pt/ngt_server/attachfileu.jsp?look_parentBoui=5605212&att_display=n&att_download=y |url-status=live |access-date=22 April 2026 |publication-date=19 April 2004 |publication-place=Lisbon |language=pt-PT |publisher=Statistics Portugal |author=<!-- not stated --> |trans-title=30 years of 25 April: a statistical portrait|oclc=253947460}}
+* {{cite report |ref={{SfnRef|''Automotive industry in Portugal''|2022}} |url=https://dgeconomia.gov.pt/gestao-de-ficheiros-externos-dgae-ano-2022/20220208_caderno_tematico_automovel_div29-pdf.aspx |archive-url=https://web.archive.org/web/20260501135303/https://dgeconomia.gov.pt/gestao-de-ficheiros-externos-dgae-ano-2022/20220208_caderno_tematico_automovel_div29-pdf.aspx |archive-date=1 May 2026 |url-status=live |title=A indústria automóvel em Portugal |access-date=17 April 2026 |language=pt-PT |trans-title=Automotive industry in Portugal |publication-place=Lisbon |publication-date=February 2022 |publisher=Direção-Geral da Economia |author=<!-- not stated -->}}
+* {{cite journal |last1=Adinolfi |first1=Marianna |last2=Loprieno |first2=Leo Luca |last3=Demory |first3=Marie-Estelle |last4=Zeman |first4=Christian |last5=Schär |first5=Christoph |title=Km-scale climate simulations over Madeira and Canary Islands under present and future conditions: a model intercomparison study |volume=63 |issue=2 |article-number=89 |doi=10.1007/s00382-024-07563-x |doi-access=free |eissn=1432-0894 |issn=0930-7575 |journal=Climate Dynamics |publication-date=16 January 2025 |publisher=Springer |publication-place=Berlin |url=https://link.springer.com/content/pdf/10.1007/s00382-024-07563-x.pdf |access-date=19 June 2026 |archive-url=https://web.archive.org/web/20260619195601/https://link.springer.com/content/pdf/10.1007/s00382-024-07563-x.pdf |archive-date=19 June 2026 |url-status=live}}
+<!-- Referencat e tjera të këtij seksioni nuk janë përfshirë. -->
+{{refend}}
+{{Reflist|group=sh}}
+== Lexime të mëtejshme ==
+{{Refbegin}}
+* {{cite journal |title=De Pelayo a Belay: la batalla de Covadonga según los historiadores árabes (Nga Pelayo te Belay: beteja e Covadonga-s sipas historianëve arabë) |language=es |first=David |last=Arbesú |doi=10.1080/14753820.2011.574357 |volume=88 |issue=3 |journal=Bulletin of Spanish Studies |issn=1475-3820 |eissn=1478-3428 |publication-date=2011-05-01 |pages=321–340 |publisher=Taylor & Francis |publication-place=London}}
+* {{cite journal |last=Chalmeta Gendrón |first=Pedro |publication-date=2025-04-25 |doi=10.26754/ojs_aem/aem.2022337321 |doi-access=free |title=¿Asturias, Covadonga, Pelayo? (Asturias, Covadonga, Pelayo?) |language=es |url=https://papiro.unizar.es/ojs/index.php/aem/article/view/7321/9745 |access-date=2026-07-07 |journal=Aragón en la Edad Media |eissn=2387-1377 |issn=0213-2486 |publication-place=Zaragoza |publisher=Universidad de Zaragoza |archive-url=https://web.archive.org/web/20260707102145/https://papiro.unizar.es/ojs/index.php/aem/article/download/7321/9745 |archive-date=2026-07-07 |url-status=live |issue=33 |pages=1–49}}
+* {{cite book |title=Atlas das aves invernantes e migradoras de Portugal 2011-2013 (Atlasi i shpendëve dimërues dhe shtegtarë të Portugalisë, 2011–2013) |hdl=10174/26177 |last=Godinho |first=Carlos |date=September 2018 |publication-place=Lisbon |publisher=SPEA |url=https://dspace.uevora.pt/rdpc/bitstream/10174/26177/1/Atlas_das_aves_invernantes_e_migradoras_2012_2013.pdf |archive-url=https://web.archive.org/web/20250407100129/https://dspace.uevora.pt/rdpc/bitstream/10174/26177/1/Atlas_das_aves_invernantes_e_migradoras_2012_2013.pdf |archive-date=2025-04-07 |access-date=2026-04-22 |url-status=live |language=pt |trans-title=Atlas of the wintering and migratory birds of Portugal, 2011–2013}}
+* {{cite book |first=Gordon |last=Miller |title=Voyages: to the New World and beyond |publisher=Douglas & McIntyre; University of Washington Press |publication-place=Vancouver, British Columbia; Seattle, Washington |edition=1st |publication-date=2011-08-03 |isbn=978-0-295-99115-3 |url=https://books.google.com/books?id=k7H7tgAACAAJ |access-date=2026-04-28 |oclc=710044991 |language=en}}
+* {{cite book |url=https://www.gastronomias.com/Livro%20de%20Do%E7aria%20Conventual.pdf |isbn=978-972-37045-0-1 |title=Doçaria dos conventos de Portugal (Ëmbëlsira manastiresh të Portugalisë) |language=pt |publisher=Assírio & Alvim |year=1997 |last1=Saramago |last2=Fialho |first1=Alfredo |first2=Manuel |oclc=39724323 |publication-place=Lisbon |series=Coração, cabeça e estômago |volume=1 |access-date=2026-05-04 |archive-url=https://web.archive.org/web/20260428063339/https://www.gastronomias.com/Livro%20de%20Do%E7aria%20Conventual.pdf |archive-date=2026-04-28 |url-status=live}}
+{{Refend}}
+
+== Lidhje të jashtme ==
+{{Sisterlinks|auto=1|voy=Portugal|d=Q45}}
+* [https://www.openstreetmap.org/relation/295480 Portugalia në OpenStreetMap]
+* [http://www.theportugalnews.com/ Gazeta kombëtare në gjuhën angleze]
+* [http://www.winesofportugal.info/?market=2 Faqja kombëtare e verërave]
+* [http://portuguese-american-journal.com/?s=portugal&x=0&y=0 Lajme për Portugalinë] nga ''Portuguese American Journal''
+* [https://web.archive.org/web/20080727024243/http://ucblibraries.colorado.edu/govpubs/for/portugal.htm Portugalia] në ''UCB Libraries GovPubs''
+* [https://www.bbc.co.uk/news/world-europe-17758217 Profili i Portugalisë] nga {{ill|BBC News|en|BBC News}}
+* {{Cite EB1911|wstitle=Portugal |volume=22 |last1=Prestage |first1=Edgar |last2=Jayne |first2=Kingsley Garland |page=134–163 |short=1}}
+* [https://www.loc.gov/rr/rarebook/coll/portpam.html Koleksioni i pamfleteve portugeze] nga [https://www.loc.gov/rr/rarebook/ Divizioni i librave të rrallë dhe koleksioneve të veçanta në Bibliotekën e Kongresit]
+
+; Qeveria
+* [http://www.en.parlamento.pt/ Faqja zyrtare e Parlamentit]
+* [http://www.portugal.gov.pt/en.aspx Faqja zyrtare e Qeverisë së Portugalisë] {{In lang|en|pt}}
+; Tregtia
+* [http://wits.worldbank.org/CountryProfile/en/Country/PRT/Year/2012/Summary Statistikat përmbledhëse të tregtisë së Portugalisë nga Banka Botërore]
+; Udhëtimi
+* [https://web.archive.org/web/20220407215705/http://www.turismodeportugal.pt/Paginas/PageNotFoundError.aspx?requestUrl=http://www.turismodeportugal.pt/english/TurismodeportugalIP/Pages/TurismodePortugalIP.aspx Faqja zyrtare e Qeverisë portugeze për turizmin dhe mediat]
+* [https://www.visitportugal.com/en Zyra zyrtare e udhëtimeve dhe turizmit]
+
+{{Reflist|group=sh}}
+{{Authority control}}
+{{Coord|39|N|8|W|type:country|display=title}}
+
+[[Kategoria:Portugali| ]]<!--Lëreni hapësirën bosh siç është standard.-->
+[[Kategoria:Vende ku portugalishtja është gjuhë zyrtare]]
+[[Kategoria:Vende në Evropë]]
+[[Kategoria:Vende në Afrikën e Veriut]]
+[[Kategoria:Vendet e Gadishullit Iberik]]
+[[Kategoria:Shtete anëtare të NATO-s]]
+[[Kategoria:Shtete anëtare të Bashkësisë së Vendeve me Gjuhë Portugeze]]
+[[Kategoria:Shtete anëtare të Bashkimit Evropian]]
+[[Kategoria:Shtete anëtare të Bashkimit për Mesdheun]]
+[[Kategoria:Shtete anëtare të Kombeve të Bashkuara]]
+[[Kategoria:Anëtarë të OECD-së]]
+[[Kategoria:Republika]]
+[[Kategoria:Shtete dhe territore të themeluara në vitet 860]]
+[[Kategoria:Shtete dhe territore të themeluara në vitin 1640]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Portugal|3 tetor 2026|1378170945}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Portugal, versioni i datës 3 tetor 2026 (revizioni 1378170945).
+-->

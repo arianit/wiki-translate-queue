@@ -1,0 +1,670 @@
+{{Short description|Det midis Afrikës, Azisë dhe Evropës}}
+{{Infobox body of water
+| name               = Deti Mesdhe
+| image              = Mediterranean Sea 16.61811E 38.99124N.jpg
+| caption            = Deti Mesdhe
+| location           = {{Plainlist|
+* [[Afrika veriore]]
+* [[Evropa Jugore]]
+* [[Azia Jugperëndimore]]
+ }}
+| coordinates        = {{Coord|35|N|18|E|region:XZ_type:waterbody_scale:25000000|display=inline,title}}
+| type               = [[Det]]
+| inflow             = Gjiri i Kadizit, [[Deti Marmara]], [[Nili]], [[Lumi i Ebros|Ebro]], [[Lumi i Ronës|Rona]], Chelif, [[Lumi Po|Po]]
+| outflow            = [[Ngushtica e Gjibraltarit]], [[Dardanelet]]
+| countries          = [[Spanja]], [[Franca]], [[Monako]], [[Italia]], [[Sllovenia]], [[Kroacia]], [[Bosnja dhe Hercegovina]], [[Mali i Zi]], [[Shqipëria]], [[Greqia]], [[Turqia]], [[Siria]], [[Libani]], [[Izraeli]], [[Palestina (shtet)|Palestina]], [[Egjipti]], [[Libia]], [[Tunizi]], [[Algjeria]], [[Maroku]], [[Qipro]], [[Malta]]; gjithashtu ''[[Qiproja Veriore]]'' (shtet i njohur vetëm nga Turqia) dhe territoret britanike [[Akrotiri dhe Dhekelia]] e [[Gjibraltari]]
+| area               = 2.500.000 km<sup>2</sup>
+| depth              = 1.500 m
+| max_depth          = 5.109 m ±1 m
+| volume             = 3.750.000 km<sup>3</sup>
+| residence_time     = 80–100 vjet<ref name="pinet1996">{{cite periodical|title=Invitation to Oceanography |journal=Paleoceanography |volume=30 |issue=5 |first=Paul R. |last=Pinet |page=220 |publisher=Jones & Barlett Learning |year=2008 |isbn=978-0-7637-5993-3 |language=en}}</ref>
+| temperature_high   = 28 °C
+| temperature_low    = 12 °C
+| islands            = mbi 3.300
+| settlements        = qindra vendbanime bregdetare
+}}
+
+'''Deti Mesdhe''' (shpesh shkurtimisht '''Mesdheu'''; [[Gjuha latine|latinisht]] ''Mare Mediterraneum'') është një det ndërkontinental i vendosur mes Evropës, Azisë dhe Afrikës. Ai rrethohet nga pellgu mesdhetar dhe është pothuajse tërësisht i mbyllur nga toka: në lindje nga [[Levanti]] në [[Azia Jugperëndimore|Azinë Perëndimore]], në veri nga [[Anadolli]] në Azinë Perëndimore dhe [[Evropa Jugore]], dhe në jug nga [[Afrika veriore|Afrikën Veriore]]. Në perëndim ai lidhet me [[Oqeani Atlantik|Oqeanin Atlantik]] përmes [[Ngushtica e Gjibraltarit|Ngushticës së Gjibraltarit]], e cila ndan [[Gadishulli Iberik|Gadishullin Iberik]] në [[Evropa|Evropë]] nga [[Maroku]] në [[Afrika|Afrikë]] për vetëm 14 km; gjithashtu lidhet me [[Deti i Zi]] përmes ngushticës së [[Bosfori|Bosforit]], e cila kalon nëpër Turqinë në verilindje, si dhe me [[Deti i Kuq]] përmes [[Kanali i Suezit|Kanalit të Suezit]] në juglindje.
+
+Deti Mesdhe zë një sipërfaqe prej rreth 2.500.000 km<sup>2</sup>,<ref name="britannica">{{cite web|last=Boxer|first=Baruch|title=Mediterranean Sea|url=https://www.britannica.com/place/Mediterranean-Sea|website=Encyclopædia Britannica|language=en|access-date=2026-08-30}}</ref> që përfaqëson 0,7% të sipërfaqes botërore të [[Oqeani|oqeaneve]]; ai përfshin pesëmbëdhjetë dete anësore, mes tyre [[Deti Egje|Egjeun]], [[Deti Adriatik|Adriatikun]], [[Deti Tirren|Tirrenin]] dhe [[Deti Marmara|Marmaranë]]. Të dhëna gjeologjike tregojnë se rreth 5,9 milionë vjet më parë Mesdheu u nda nga Atlantiku dhe u tha pjesërisht ose plotësisht gjatë një periudhe prej rreth 600.000 vjetësh, në kohën e Krizës së kripshmërisë mesiniane, para se të mbushej sërish nga Përmbytja Zankleane rreth 5,3 milionë vjet më parë.
+
+Historia e rajonit mesdhetar është thelbësore për të kuptuar origjinën dhe zhvillimin e shumë shoqërive moderne; ndonjëherë përshkruhet si një "inkubator i qytetërimit perëndimor" dhe ishte djepi i disa prej qytetërimeve më të hershme dhe më të përparuara, si ato të [[Egjipti|Egjiptit]], [[Greqia|Greqisë]] dhe Gjysmëhënës Pjellore.<ref>{{cite web|date=2025-09-27|title=Mediterranean Sea {{!}} Facts, History, Islands, & Countries {{!}} Britannica|url=https://www.britannica.com/place/Mediterranean-Sea|access-date=2025-10-02|website=www.britannica.com|language=en}}</ref> Levanti, në Mesdheun Lindor, ishte një nga rajonet e para në botë ku u vendosën banorë të përhershëm, që në rreth 12.000 p.e.s. Deti Mesdhe ishte një rrugë e rëndësishme tregtare për tregtarët, udhëtarët dhe emigrantët e antikitetit, duke lehtësuar shkëmbimin tregtar dhe kulturor mes popujve të ndryshëm, si dhe kolonizimin dhe pushtimet. [[Perandoria Romake]] ruajti [[Mare Nostrum|hegjemoninë detare]] mbi detin për shekuj me radhë dhe është e vetmja shtet që ka kontrolluar ndonjëherë tërë bregdetin e tij.
+
+Deti Mesdhe ka një thellësi mesatare prej 1.500 m, ndërsa pika më e thellë e regjistruar është 5.109 ±1 m, në Thellësinë Kalipso të [[Deti Jon|Detit Jon]]. Ai shtrihet mes shkallëve 30° dhe 46° gjerësi veriore, dhe mes shkallëve 6° gjerësi perëndimore e 36° gjerësi lindore. Gjatësia e tij nga perëndimi në lindje, nga Ngushtica e Gjibraltarit deri te Gjiri i Aleksandretës, në bregun juglindor të Turqisë, është rreth 4.000 km. Gjatësia veri-jug ndryshon shumë sipas bregdetit dhe nëse merren parasysh vetëm rrugët e drejta. Duke përfshirë edhe ndryshimet gjatësore, rruga më e shkurtër detare mes Gjirit të Triestes dhe bregut libian të Gjirit të Sidrës është rreth 1.900 km. Temperaturat e ujit janë të buta në dimër dhe të ngrohta në verë, duke i dhënë emrin [[Klima mesdhetare|klimës mesdhetare]], për shkak se shumica e reshjeve bien në muajt më të freskët. Brigjet e tij jugore dhe lindore kufizohen me shkretëtira të nxehta jo shumë larg bregut, por vetë bregdeti, në të gjitha anët e Mesdheut, ka zakonisht një ndikim të fortë zbutës detar.
+
+Shtetet që rrethojnë Mesdheun dhe detet e tij anësore, në drejtim orar, janë [[Spanja]], [[Franca]], [[Monako]], [[Italia]], [[Sllovenia]], [[Kroacia]], [[Bosnja dhe Hercegovina]], [[Mali i Zi]], [[Shqipëria]], [[Greqia]], [[Turqia]], [[Siria]], [[Libani]], [[Izraeli]], [[Palestina (shtet)|Palestina]] ([[Rripi i Gazës]]), [[Egjipti]], [[Libia]], [[Tunizi]], [[Algjeria]] dhe [[Maroku]]; [[Qipro]] dhe [[Malta]] janë shtete ishullore në det. Përveç tyre, [[Qiproja Veriore]] (shtet ''[[De fakto|de facto]]'' i njohur vetëm nga Turqia) dhe dy territoret britanike ([[Akrotiri dhe Dhekelia]] dhe [[Gjibraltari]]) kanë gjithashtu bregdet mbi Detin Mesdhe. Pellgu ujëmbledhës përfshin edhe një numër tjetër vendesh, ndër to [[Nili]], lumi më i gjatë që derdhet në Detin Mesdhe.<ref>{{cite web|title=Nile River|url=https://education.nationalgeographic.org/resource/nile-river|access-date=2023-03-12|website=Education {{!}} National Geographic Society|language=en}}</ref> Deti Mesdhe përfshin një numër të madh ishujsh, disa prej tyre me origjinë vullkanike. Dy ishujt më të mëdhenj, si nga sipërfaqja ashtu edhe nga popullsia, janë [[Siçilia]] dhe [[Sardenja]].
+== Emërtimet dhe etimologjia ==
+[[File:Greece Orbit Photo 1989 by Atlas STS-34.jpg|thumb|Me bregdetin e saj tepër të dhëmbëzuar dhe numrin e madh të ishujve, [[Greqia]] ka bregdetin më të gjatë mesdhetar.]]
+[[File:Eastern Mediterranean in Katip Çelebi 1656 Mediterranean Sea map from Asfar il-bihar (cropped).jpg|thumb|Mesdheu Lindor në hartën e Katip Çelebiut ({{lang|ota|ﺁق دكز}})]]
+
+* [[Romakët]] e quanin Mesdheun ''Mare Magnum'' ("Deti i Madh") ose ''Mare Internum'' ("Deti i Brendshëm"), dhe, që nga [[Perandoria Romake]], ''[[Mare Nostrum]]'' ("Deti Ynë"). Termi ''Mare Mediterrāneum'' shfaqet më vonë: [[Gaius Julius Solinus|Solinus]] duket se e përdori në shekullin III, por dëshmia më e hershme e mbetur është nga shekulli VI,<ref name="Seirinidou2017">Vaso Seirinidou, "The Mediterranean" në Diana Mishkova, Balázs Trencsényi, ''European Regions and Boundaries: A Conceptual History'', seria ''European Conceptual History'' 3, {{isbn|1-78533-585-5}}, 2017, f. 80. (anglisht)</ref> në veprën e [[Isidori i Seviljes|Isidorit të Seviljes]].<ref>{{cite book|first=Geoffrey|last=Rickman|chapter=The creation of Mare Nostrum: 300 BC – 500 AD|editor=David Abulafia|title=The Mediterranean in History|isbn=978-1-60606-057-5|year=2011|page=133|publisher=Getty Publications|language=en}}</ref> Fjala do të thotë 'në mes të tokës, i brendshëm' në [[Gjuha latine|latinisht]], një përbërje e ''medius'' ('mes'), ''terra'' ('tokë') dhe ''-āneus'' ('me natyrën e'). Fjala latine është një [[gjurmim (gjuhësi)|gjurmim]] i greqishtes ''μεσόγειος'' (''mesógeios''; 'i brendshëm'), nga ''μέσος'' (''mésos'', 'në mes') dhe ''γήινος'' (''gḗinos'', 'i tokës'), nga ''γῆ'' (''gê'', 'tokë'). Kuptimi origjinal mund të ketë qenë 'deti në mes të tokës', më shumë sesa 'deti i rrethuar nga toka'.<ref>{{cite web|title=entry μεσόγαιος|url=http://old.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3D%2366422|publisher=Liddell & Scott|language=en}}</ref><ref>''Oxford English Dictionary'', bot. 3, 2001, s.v. (anglisht)</ref>
+* Në [[Gjuha arabe|arabishten]] moderne njihet si ''al-Baḥr [al-Abyaḍ] al-Mutawassiṭ'' ({{lang|ar|البحر [الأبيض] المتوسط}}) 'Deti i Mesëm [i Bardhë]'. Në letërsinë islame dhe atë arabe më të vjetër quhej ''Baḥr al-Rūm(ī)'' ({{lang|ar|بحر الروم}} ose {{lang|ar|بحر الرومي}}) 'Deti i Romakëve' ose 'Deti Roman'. Fillimisht, ky emër i referohej vetëm Mesdheut Lindor, por më vonë u shtri mbi tërë Mesdheun. Emra të tjerë arabë ishin ''Baḥr al-šām(ī)'' ({{lang|ar|بحر الشام}}) ("Deti i Sirisë") dhe ''Baḥr al-Maghrib'' ({{lang|ar|بحر المغرب}}) ("Deti i Perëndimit").<ref name="eoi">{{cite encyclopedia|title=Baḥr al-Rūm|encyclopedia=Encyclopaedia of Islam|edition=2|volume=1|language=en}}</ref><ref name="seirinidou">Vaso Seirinidou, "The Mediterranean" në Diana Mishkova, Balázs Trencsényi, ''European Regions and Boundaries: A Conceptual History'', seria ''European Conceptual History'' 3, {{isbn|1-78533-585-5}}, 2017, f. 80. (anglisht)</ref>
+* [[Egjiptianët e lashtë]] e quanin Mesdheun ''Wadj-wr''/''Wadj-Wer''/''Wadj-Ur''. Ky term (fjalë për fjalë "e gjelbra e madhe") ishte emri që egjiptianët e lashtë i vinin rajonit gjysmë-të-ngurtë e gjysmë-ujor, të mbuluar me pyje papiri, në veri të [[Delta e Nilit|Deltës së Nilit]] të kultivuar, dhe, në kuptim të zgjeruar, detit përtej saj.<ref>{{cite book|last1=Golvin|first1=Jean-Claude|title=L'Égypte restituée, Tome 3|year=1991|publisher=Éditions Errance|location=Paris|isbn=2-87772-148-5|page=273|language=fr}}</ref>
+* [[Kartagjenasit]] e quanin "Deti Sirian". Në tekstet e lashta siriake, epet fenikase dhe [[Bibla]] hebraike, njihej kryesisht si "Deti i Madh", {{lang|he|הים הגדול}} (''HaYam HaGadol''), (Numrat; Josia; Ezekieli) ose thjesht si "Deti" (1 Mbretërve). Megjithatë, është quajtur edhe "Deti i Pasmë", për shkak të pozitës së tij në bregun perëndimor të rajonit të Sirisë ose Tokës së Shenjtë (pra pas dikujt që shikon nga lindja), çka nganjëherë përkthehet si "Deti Perëndimor". Një emër tjetër ishte "Deti i Filistenjve" (Eksodi). Në [[Hebraishtja moderne|hebraishten moderne]] quhet {{lang|he|הים התיכון}} (''HaYam HaTikhon''), 'Deti i Mesëm'.<ref name="melitensia">{{cite journal|journal=Hyphen|last=Vella|first=Andrew P.|date=1985|title=Mediterranean Malta|volume=4|issue=5|pages=469–472|language=en}}</ref>
+* [[Greqia e lashtë|Grekët e lashtë]] e quanin Mesdheun thjesht ''ἡ θάλασσα'' ('Deti') ose ndonjëherë ''ἡ μεγάλη θάλασσα'' ('Deti i Madh'), ''ἡ ἡμετέρα θάλασσα'' ('Deti Ynë'), ose ''ἡ θάλασσα ἡ καθ'ἡμᾶς'' ('deti rreth nesh').<ref>{{cite book|last1=Slootjes|first1=Daniëlle|last2=Peachin|first2=M.|title=Rome and the Worlds beyond its Frontier|year=2016|publisher=Brill|isbn=978-9004325616|page=28|language=en}}</ref><ref>{{cite book|last1=Mishkova|first1=Diana|last2=Trencsényi|first2=Balázs|title=European Regions and Boundaries A Conceptual History|year=2017|publisher=Berghahn Books|isbn=978-1-78533-584-6|page=80|language=en}}</ref> Sipas Johann Knoblochit, në antikitetin klasik, kulturat e Levantit përdornin ngjyra për të treguar pikat kardinale: e zeza tregonte veriun (duke shpjeguar emrin [[Deti i Zi]]), e verdha apo blu lindjen, e kuqja jugun (p.sh. [[Deti i Kuq]]), dhe e bardha perëndimin. Kjo do të shpjegonte greqishten ''Áspri Thálassa'', bullgarishten ''Byalo More'', turqishten {{lang|tr|Akdeniz}}, dhe emërtimet arabe të përmendura më sipër, fjalë për fjalë "Deti i Bardhë".<ref>Johann Knoblock. ''Sprache und Religion'', vëll. 1 (Carl Winter Universitätsverlag, 1979), f. 18 (gjermanisht); krahaso {{cite encyclopedia|encyclopedia=Encyclopaedia Iranica|volume=4|title=Black Sea|first=Rüdiger|last=Schmitt|pages=310–313|language=en}}</ref>
+* Emri në [[Anglishtja e vjetër|anglishten e vjetër]] për Mesdheun ishte ''Wendel-sæ'', ose "Deti i Vandalëve", sipas [[Vandalët|Vandalëve]] që kishin pushtuar brigjet e Afrikës Veriore gjatë [[Periudha e migrimeve|Periudhës së Migrimeve]].<ref>{{cite web|title="Mediterranean" on Etymonline|url=https://www.etymonline.com/word/Mediterranean|access-date=2025-05-27|language=en}}</ref>
+* Një emër për Mesdheun në [[Norvegjishtja e vjetër|norvegjishten e vjetër]] (perëndimore) duket se ka qenë ''Jórsalahaf'', "Deti i Jerusalemit".<ref>{{cite web|title=Dictionary of the Old Norwegian Language|url=https://old-norwegian-dictionary.vercel.app/word/jorsalahaf|access-date=2025-05-27|language=en}}</ref> "Deti Hreið", ''Hreiðmarar'', i përmendur në gurin runik të [[Guri runik i Rökut|Rökut]], mund t'i referohet gjithashtu Mesdheut.
+* [[Popujt e lashtë iranianë]] e quanin "Deti Roman"; në tekstet perse klasike quhej ''Daryāy-e Rōm'' ({{lang|fa|دریای روم}}), formë që mund të vijë nga forma e persishtes së mesme, ''Zrēh ī Hrōm''. Në tekstet perse klasike quhej gjithashtu ''Daryāy-e Šām'' ({{lang|fa|دریای شام}}) "Deti Perëndimor" ose "Deti Sirian".<ref>{{cite web|last=Dehkhoda|first=Ali Akbar|title="دریای روم" entry|website=Parsi Wiki|access-date=2023-04-12|language=fa}}</ref><ref>{{cite web|last=Dehkhoda|first=Ali Akbar|title="دریای شام" entry|website=Parsi Wiki|access-date=2023-04-12|language=fa}}</ref>
+* Në [[Gjuha turke|turqishten]] quhet ''Akdeniz'' 'Deti i Bardhë'; në osmanisht, {{lang|ota|ﺁق دكز}}, që ndonjëherë do të thotë vetëm [[Deti Egje]].<ref>Diran Kélékian, ''Dictionnaire Turc-Français'', Kostandinopojë, 1911 (frëngjisht)</ref> Besohet se emri vjen nga ngjyrat e lidhura me pikat kardinale në traditën [[Popujt turq|turke]], ku "Ak" (e bardha) përfaqëson perëndimin. Mund të jetë edhe në kontrast me [[Deti i Zi|Detin e Zi]].<ref name="eoi"/> Sipas Özhan Öztürkut, në turqishten e vjetër ''ak'' do të thoshte gjithashtu "perëndim", pra ''Akdeniz'' do të thotë "Deti Perëndimor", ndërsa ''Karadeniz'' (Deti i Zi) do të thotë "Deti Verior".<ref>Özhan Öztürk, ''Pontus: Antik Çağ'dan Günümüze Karadeniz'in Etnik ve Siyasi Tarihi'', Genesis Yayınları, Ankara, 2011, f. 5–9. (turqisht)</ref> Në persisht, emri u përkthye si ''Baḥr-i Safīd'', i cili u përdor edhe në osmanishten e mëvonshme. Kjo është ndoshta origjina e shprehjes greke popullore ''Άσπρη Θάλασσα'' (''Áspri Thálassa'', "Deti i Bardhë").<ref name="eoi"/>
+
+== Historia ==
+{{Hatnote|Artikulli kryesor: {{ill|Historia e rajonit mesdhetar|en|History of the Mediterranean region}}}}
+
+=== Qytetërimet e lashta ===
+[[File:AntikeGriechen1.jpg|thumb|upright=1.75|Kolonitë greke (kuq) dhe fenikase (verdhë) të antikitetit, rreth shekullit VI p.e.s.]]
+[[File:Roman Empire Trajan 117AD.png|thumb|upright=1.75|Perandoria Romake në vitin 117 e.s., në fund të mbretërimit të [[Trajani|Trajanit]]]]
+
+Qytetërime të mëdha të lashta gjendeshin rreth Mesdheut. Deti siguroi rrugë për tregti, kolonizim dhe luftë, si dhe ushqim (nga peshkimi dhe mbledhja e ushqimeve të tjera detare) për shumë komunitete gjatë shekujve.<ref>{{cite book|author=David Abulafia|title=The Great Sea: A Human History of the Mediterranean|publisher=Oxford University Press|year=2011|language=en}}</ref> Qytetërimet e para të përparuara në Mesdhe ishin [[Egjipti i lashtë|egjiptianët]] dhe [[Qytetërimi minoan|minoasit]], të cilët tregtonin gjerësisht me njëri-tjetrin. Rreth vitit 1200 p.e.s. Mesdheu Lindor u prek rëndë nga kolapsi i epokës së bronzit, i cili solli shkatërrimin e shumë qyteteve dhe rrugëve tregtare.<ref>{{cite web|title=Late Bronze Age collapse|url=https://www.ebsco.com/research-starters/anthropology/late-bronze-age-collapse|access-date=2025-06-18|website=EBSCO Research Starters|language=en}}</ref>
+
+Dy qytetërime të tjera të rëndësishme mesdhetare të antikitetit klasik ishin [[Qytetshteti|qytet-shtetet]] greke dhe [[Fenikasit]], të cilët e kolonizuan gjerësisht bregdetin e Mesdheut.<ref name="viking">{{cite web|title=The Mediterranean Sea|url=https://issuu.com/vikingcruisesau/docs/vikingexplorersn_issue15_mar22_v2/s/15494487|access-date=2025-06-18|website=Issuu|language=en}}</ref>
+
+[[Dari i Madh|Dari I i Persisë]], i cili pushtoi Egjiptin e lashtë, ndërtoi një kanal që lidhte [[Deti i Kuq|Detin e Kuq]] me Nilin, dhe kështu edhe me Mesdheun. Kanali i Dariusit ishte aq i gjerë sa dy [[trireme]] mund të kalonin njëra-tjetrën me rremat të shtrira dhe kërkonte katër ditë për t'u kaluar.<ref>S. Rappoport, ''History of Egypt'', vëll. 12, pjesa B, kap. V: "The Waterways of Egypt", f. 248–257, Londër: The Grolier Society. (anglisht)</ref>
+
+Pas Luftërave Punike në shekujt III dhe II p.e.s., [[Republika Romake]] mundi kartagjenasit për t'u bërë fuqia mbizotëruese në Mesdheun Perëndimor. Kur [[Augusti]] themeloi Perandorinë Romake, romakët e quanin Mesdheun ''[[Mare Nostrum]]'' ("Deti Ynë"). Për 400 vjet të tjera, Perandoria Romake kontrolloi plotësisht Detin Mesdhe dhe pothuajse tërë rajonet bregdetare të tij, nga Gjibraltari deri në Levant,<ref name="viking"/> duke i dhënë detit nofkën "Liqeni Roman".
+
+=== Mesjeta dhe perandoritë ===
+[[Perandoria Romake Perëndimore]] u shpërbë rreth vitit 476 e.s. Lindja mbeti dominuese pasi fuqia romake vazhdoi të ekzistonte në [[Perandoria Bizantine|Perandorinë Bizantine]], e formuar në shekullin IV nga gjysma lindore e Perandorisë Romake. Gjatë asaj periudhe, në shekullin VII u ngrit një fuqi tjetër, bashkë me fenë e [[Islami|Islamit]], e cila shpejt u përhap nga lindja; në shtrirjen e saj më të madhe, arabët, nën [[Kalifati umajad|umajadët]], kontrolluan [[Gadishulli Iberik|Gadishullin Iberik]], duke sjellë një fazë të re arti dhe kulture në rajon.
+
+[[File:The port and fleet of Genoa, early 14th century.jpg|thumb|right|Porti dhe flota e Xhenovës në fillim të shekullit XIV, nga Quinto Cenni]]
+Gjatë sundimit arab, në Mesdheun Perëndimor, në Spanjë dhe Sicili, u prunë shumë ushqime, erëza dhe të mbjella përmes rrjeteve tregtare të botës islame. Ndër to: kallamsheqeri, orizi, pambuku, jonxha, portokallet, limonët, kajsitë, spinaqi, patëllxhanët, karotat, [[shafrani]] dhe bananet. Arabët vazhduan gjithashtu kultivimin dhe prodhimin intensiv të vajit të ullirit (fjalët spanjolle për 'vaj' dhe 'ullî' — ''aceite'' dhe ''aceituna'' — vijnë nga arabishtja ''al-zait'', që do të thotë 'lëng ulliri'), dhe të shegëve (simboli heraldik i Granadës) që nga koha klasike greko-romake.
+
+Pushtimet arabe ndërprenë marrëdhëniet tregtare mes Evropës Perëndimore dhe Lindore, duke prishur edhe rrugët tregtare me perandoritë e Azisë Lindore. Kjo, megjithatë, pati efektin e tërthortë të nxitjes së tregtisë përmes [[Liqeni Kaspik|Detit Kaspik]]. Eksporti i drithërave nga Egjipti u ridrejtua nga bota lindore. Produkte nga perandoritë e Azisë Lindore, si mëndafshi dhe erëzat, transportoheshin nga Egjipti drejt porteve si [[Republika e Venedikut|Venediku]] dhe [[Kostandinopoja]] nga detarë dhe tregtarë hebrenj. Sulmet vikinge prishën më tej tregtinë në Evropën Perëndimore. Megjithatë, normanët zhvilluan tregti nga Norvegjia deri te [[Deti i Bardhë]], duke tregtuar njëkohësisht mallra luksi nga [[Al-Andalus]] dhe Mesdheu. Bizantinët, në mesin e shekullit VIII, rimorën kontrollin e pjesës verilindore të Mesdheut. Anijet venedikase, që nga shekulli IX, u armatosën për t'u përballur me shqetësimet e krijuara nga arabët, duke përqendruar në Venedik tregtinë e mallrave aziatike.<ref>{{cite book|last=Couper|first=Alastair|title=The Geography of Sea Transport|year=2015|isbn=978-1-317-35150-4|pages=33–37|publisher=Routledge|language=en}}</ref>
+
+[[File:Battle of Lepanto 1571.jpg|thumb|left|[[Beteja e Lepantos]], 1571, përfundoi me fitore për Lidhjen e Shenjtë evropiane kundër osmanëve.]]
+[[Fatimitët]] mbanin marrëdhënie tregtare me qytet-shtetet italiane si Amalfi dhe Xhenova para Kryqëzatave, sipas dokumenteve të Genizës së Kajros. Një dokument i vitit 996 përmend tregtarë amalfianë që jetonin në [[Kajro]]. Një letër tjetër tregon se xhenovezët kishin tregtuar me [[Aleksandria|Aleksandrinë]]. Kalifi al-Mustensir i kishte lejuar tregtarët amalfianë të vendoseshin në [[Jeruzalemi|Jerusalem]] rreth vitit 1060, në vend të hospisit latin.<ref>{{cite book|last=Balard|first=Michel|title=The Experience of Crusading, Volume 2 – Defining the Crusader Kingdom|publisher=Cambridge University Press|year=2003|isbn=978-0-521-78151-0|pages=23–35|language=en}}</ref>
+
+[[Kryqëzatat]] sollën lulëzimin e tregtisë mes Evropës dhe rajonit ''outremer''. Xhenova, Venediku dhe Piza krijuan koloni në rajonet e kontrolluara nga kryqtarët dhe fituan kontrollin e tregtisë me Lindjen. Këto koloni u lejuan gjithashtu të tregtonin me botën lindore. Edhe pse rënia e shteteve kryqtare dhe përpjekjet e papëve për të ndaluar marrëdhëniet tregtare me shtetet myslimane e prishën përkohësisht tregtinë me Lindjen, ajo vazhdoi sërish. Evropa filloi të ripërtërihej kur pati një centralizim gradual të pushtetit shtetëror gjatë rilindjes së shekullit XII.
+
+[[File:De Engels-Nederlandse vloot in de Baai van Algiers ter ondersteuning van het ultimatum tot vrijlating van blanke slaven, 26 augustus 1816. Rijksmuseum SK-A-1377.jpeg|thumb|Bombardimi i Algjerit nga flota anglo-holandeze, në mbështetje të një ultimatumi për lirimin e skllevërve evropianë, gusht 1816]]
+
+Fuqia [[Perandoria Osmane|osmane]], me bazë në Anadoll, vazhdoi të rritej, dhe në 1453 zhduku Perandorinë Bizantine me [[Pushtimi i Kostandinopojës|pushtimin e Kostandinopojës]]. [[Hajredin Barbarosa]], kapiteni osman, është një simbol i kësaj mbizotërie, me fitoren e [[Beteja e Prevezës|Betejës së Prevezës]] (1538), duke hapur [[Tripoli|Tripolin]] dhe Mesdheun Lindor për sundimin osman. Ndërsa fuqia detare e vendeve evropiane u rrit, ato u përballën me zgjerimin osman në rajon kur [[Beteja e Lepantos]] (1571) dëmtoi fuqinë e flotës osmane. Kjo ishte beteja e fundit detare e luftuar kryesisht mes galerash.
+
+Piratët barbarë të Afrikës Veriperëndimore sulmonin anijet dhe brigjet e krishtera në Mesdheun Perëndimor. Sipas Robert Davis, nga shekulli XVI deri në XIX, piratët kapën 1 deri në 1,25 milionë evropianë si skllevër.
+
+Zhvillimi i lundrimit oqeanik filloi të prekë tërë Mesdheun. Dikur, pjesa më e madhe e tregtisë mes Evropës Perëndimore dhe Lindjes kalonte nëpër rajon, por pas viteve 1490 zhvillimi i një rruge detare drejt Oqeanit Indian bëri të mundur importimin e erëzave aziatike dhe mallrave të tjera përmes porteve atlantike të Evropës Perëndimore.
+
+[[File:Cena da Batalha do Nilo, 1 a 3 de Agosto de 1798 (escola europeia, séc. XIX).png|thumb|Beteja e Nilit gjatë fushatës franceze në Egjipt, gusht 1798]]
+Deti mbeti me rëndësi strategjike. Sundimi britanik mbi Gjibraltarin siguroi ndikimin e tyre në Afrikë dhe Azinë Juglindore. Sidomos pas betejave detare të Abukirit (1799, Beteja e Nilit) dhe Trafalgarit (1805), britanikët e forcuan për një kohë të gjatë sundimin e tyre në Mesdhe. Luftërat përfshinë veprime detare gjatë [[Lufta e Parë Botërore|Luftës së Parë Botërore]] dhe [[Lufta e Dytë Botërore|Luftës së Dytë Botërore]].
+
+Me hapjen e [[Kanali i Suezit|Kanalit të Suezit]] pa pendë, në 1869, rrjedha e tregtisë mes Evropës dhe Azisë ndryshoi rrënjësisht. Rruga më e shpejtë tani kalonte nëpër Mesdhe drejt Afrikës Lindore dhe Azisë. Kjo solli një përparësi për vendet mesdhetare dhe portet e tyre, si [[Triestia|Trieste]], me lidhje të drejtpërdrejta me Evropën Qendrore dhe Lindore, që përjetuan një ngritje të shpejtë ekonomike. Në shekullin XX, Lufta e Parë dhe e Dytë Botërore, si dhe [[Kriza e Suezit]] dhe [[Lufta e Ftohtë]], çuan në zhvendosjen e rrugëve tregtare drejt porteve veriore evropiane, të cilat më pas u zhvendosën sërish drejt porteve jugore, me integrimin evropian, aktivizimin e [[Rruga e Mëndafshit|Rrugës së Mëndafshit]] dhe tregtinë e lirë botërore.
+
+=== Shekulli XXI dhe migrimet ===
+Në 2013, presidenti maltez e përshkroi Detin Mesdhe si "varrezë" për shkak të numrit të madh të emigrantëve që u mbytën aty pasi u përmbysën varkat e tyre. Presidenti i [[Kuvendi Evropian|Parlamentit Evropian]], [[Martin Schulz]], tha në 2014 se politika evropiane e migracionit "e ktheu Mesdheun në varrezë", duke iu referuar numrit të refugjatëve të mbytur në rajon si pasojë e drejtpërdrejtë e politikave. Një zyrtar azerbajxhanez e përshkroi detin si "një varrezë ... ku njerëzit vdesin".
+
+Pas anijembytjes së Lampedusës në 2013, qeveria italiane vendosi të forconte sistemin kombëtar të patrullimit të Detit Mesdhe, duke autorizuar "Operacionin Mare Nostrum", një mision ushtarak dhe humanitar për të shpëtuar emigrantët dhe arrestuar trafikantët. Në 2015, mbi një milion emigrantë kaluan Detin Mesdhe drejt Evropës.
+
+Italia u prek veçanërisht nga kriza evropiane e emigrantëve. Mes viteve 2013 dhe 2018, mbi 700.000 emigrantë zbarkuan në Itali, kryesisht nga Afrika Subsahariane.
+== Gjeografia ==
+{{Hatnote|Artikulli kryesor: {{ill|Lista e ishujve në Detin Mesdhe|en|List of islands in the Mediterranean}}}}
+[[File:STS059-238-074 Strait of Gibraltar.jpg|thumb|Pamje satelitore e Detit Mesdhe. Ngushtica e Gjibraltarit shfaqet në pjesën e poshtme majtas (verilindje) të figurës; në të majtë të saj është Gadishulli Iberik në Evropë, dhe në të djathtë, [[Magrebi]] në Afrikë.]]
+[[File:Gallipoli peninsula from space.jpg|thumb|Ngushtica e Dardaneleve në Turqi. Ana veriore (sipër) është pjesë e Evropës (Gadishulli i Gelibolusë, në rajonin e Trakisë); në anën jugore (poshtë) është Anadolli, në Azi.]]
+
+Deti Mesdhe lidhet:
+* me [[Oqeani Atlantik|Oqeanin Atlantik]] përmes [[Ngushtica e Gjibraltarit|Ngushticës së Gjibraltarit]] (e njohur si "Shtyllat e Herkulit") në perëndim. Kjo ndan gjithashtu Evropën nga Afrika.
+* me [[Deti Marmara|Detin e Marmarasë]] dhe [[Deti i Zi]], përmes ngushticave të [[Dardanelet|Dardaneleve]] dhe [[Bosfori|Bosforit]] përkatësisht, në lindje. Kjo ndau Evropën nga Azia.
+
+Gjatësia e bregdetit është rreth 46.000 km.<ref name="britannica"/>
+
+[[Kanali i Suezit]] artificial, i gjatë 163 km, në juglindje, lidh Detin Mesdhe me Detin e Kuq pa ndonjë pendë anijesh, sepse niveli i ujit është pothuajse i njëjtë. Kjo ndau Afrikën nga Azia.
+
+=== Detet anësore ===
+[[File:Lopud island, Croatia (48612709613).jpg|thumb|Ishujt Elafit në bregun e Kroacisë; Deti Adriatik përmban mbi 1.200 ishuj e ishuj të vegjël.]]
+[[File:Illots d'Eivissa (Pitiüses) 12. Es Malvins.jpg|thumb|Es Malvins, në [[Deti Balear]]]]
+[[File:Ionian sea islands, pic1.JPG|thumb|Deti Jon, pamje nga ishulli Lefkada, Greqi]]
+
+Deti Mesdhe përfshin 15 dete anësore:
+
+{| class="wikitable sortable"
+!rowspan=2|Nr.
+!rowspan=2|Deti
+!colspan=2|Sipërfaqja
+!rowspan=2|Vendet dhe territoret kufizuese
+|-
+!km<sup>2</sup>
+!milje<sup>2</sup>
+|-
+| align=center|1 || '''Deti Libian''' || 350.000 || 135.000 || Libia, Greqia, Malta, Italia
+|-
+| align=center|2 || '''Deti Levantin''' || 320.000 || 124.000 || Turqia, Siria, Libani, Izraeli, Palestina, Egjipti, Greqia, Qipro, Akrotiri e Dhekelia
+|-
+| align=center|3 || '''[[Deti Tirren]]''' || 275.000 || 106.000 || Italia, Franca
+|-
+| align=center|4 || '''[[Deti Egje]]''' || 214.000 || 83.000 || Greqia, Turqia
+|-
+| align=center|5 || '''Deti Ikarian''' || colspan=2 align=center | (pjesë e Egjeut) || Greqia, Turqia
+|-
+| align=center|6 || '''Deti Mirtoan''' || colspan=2 align=center | (pjesë e Egjeut) || Greqia
+|-
+| align=center|7 || '''Deti Trakas''' || colspan=2 align=center | (pjesë e Egjeut) || Greqia, Turqia
+|-
+| align=center|8 || '''[[Deti Jon]]''' || 169.000 || 65.000 || Greqia, Shqipëria, Italia
+|-
+| align=center|9 || '''[[Deti Balearik|Deti Balear]]''' || 150.000 || 58.000 || Spanja
+|-
+| align=center|10 || '''[[Deti Adriatik]]''' || 138.000 || 53.000 || Shqipëria, Bosnja dhe Hercegovina, Kroacia, Italia, Mali i Zi, Sllovenia
+|-
+| align=center|11 || '''Deti i Sardenjës''' || 120.000 || 46.000 || Italia, Spanja
+|-
+| align=center|12 || '''Deti i Kretës''' || 95.000 <small>(pjesë e Egjeut)</small> || 37.000 || Greqia
+|-
+| align=center|13 || '''[[Deti Ligur]]''' || 80.000 || 31.000 || Italia, Franca
+|-
+| align=center|14 || '''[[Deti Albor|Deti Alboran]]''' || 53.000 || 20.000 || Spanja, Maroku, Algjeria, Gjibraltari
+|-
+| align=center|15 || '''[[Deti Marmara|Deti i Marmarasë]]''' || 11.500 || 4.400 || Turqia
+|-
+| align=center|– || '''Të tjera''' || ~500.000 || ~193.000 || Përbëhet nga gjire, ngushtica, kanale dhe pjesë të tjera pa emër deti të veçantë.
+|-
+!Gjithsej!!Deti Mesdhe!!~2.500.000!!~965.000
+!
+|}
+
+Shënim 1: Organizata Ndërkombëtare Hidrografike e cakton këtë sipërfaqe si Detin Mesdhe të përgjithshëm, në Pellgun Perëndimor, pa njohur emërtimin Deti i Sardenjës.
+
+Shënim 2: Deti Trakas, Deti Ikarian, Deti i Kretës dhe Deti Mirtoan janë dete që janë pjesë e Detit Egje.
+
+Shënim 3: Deti i Zi nuk konsiderohet pjesë e tij.
+
+=== Shtrirja ===
+[[File:Locatie Middellandse Zee.PNG|thumb|Kufijtë e Detit Mesdhe]]
+
+Organizata Ndërkombëtare Hidrografike (IHO) i cakton kështu kufijtë e Detit Mesdhe:<ref name="IHO">{{cite web|url=https://iho.int/uploads/user/pubs/standards/s-23/S-23_Ed3_1953_EN.pdf|title=Limits of Oceans and Seas, 3rd edition|year=1953|publisher=Organizata Ndërkombëtare Hidrografike|access-date=2020-12-28|language=en}}</ref> I shtrirë nga Ngushtica e Gjibraltarit në perëndim deri te hyrjet e Dardaneleve dhe Kanalit të Suezit në lindje, Deti Mesdhe kufizohet nga brigjet e Evropës, Afrikës dhe Azisë dhe ndahet në dy pellgje të thella:
+* Pellgu Perëndimor:
+** Në perëndim: një vijë që bashkon skajet e [[Kepi Trafalgar|Kepit Trafalgar]] (Spanjë) dhe Kepit Spartel (Afrikë)
+** Në verilindje: bregu perëndimor i Italisë. Në Ngushticën e Mesinës, një vijë që bashkon skajin verior të Kepit Paci (15°42′L) me Kepin Peloro, skajin lindor të ishullit të Sicilisë. Bregu verior i Sicilisë
+** Në lindje: një vijë që bashkon Kepin Lilibeo, pika perëndimore e Sicilisë ({{coord|37|47|N|12|22|E|display=inline}}), përmes Bankës së Aventurës, deri te Kepi Bon (Tunizi)
+* Pellgu Lindor:
+** Në perëndim: kufijtë verilindorë dhe lindorë të Pellgut Perëndimor
+** Në verilindje: një vijë që bashkon Kum Kalenë (26°11′L) dhe Kepin Helles, hyrja perëndimore e Dardaneleve
+** Në juglindje: hyrja e Kanalit të Suezit
+** Në lindje: brigjet e Libanit, Sirisë, Izraelit dhe Palestinës (përmes Rripit të Gazës)
+
+=== Hidrografia ===
+[[File:Mediterranean Basin.png|thumb|Shtrirja e përafërt e pellgut ujëmbledhës të Detit Mesdhe (jeshile e errët). Pellgu i Nilit është treguar vetëm pjesërisht]]
+
+Pellgu ujëmbledhës i Detit Mesdhe është veçanërisht heterogjen dhe shtrihet shumë përtej rajonit mesdhetar.<ref>{{cite book|url=https://books.google.com/books?id=a2u4HMfAMXoC|title=The Climate of the Mediterranean Region: From the Past to the Future|publisher=Elsevier|author=P. Lionello|year=2012|page=lxii|isbn=978-0-12-391477-4|language=en}}</ref> Madhësia e tij vlerësohet të jetë mes 4.000.000 dhe 5.500.000 km<sup>2</sup>,{{efn|Pa përfshirë sipërfaqen e vetë Detit Mesdhe.}} në varësi nëse përfshihen apo jo pjesët joaktive (shkretëtirat).<ref>{{cite book|url=https://www.researchgate.net/publication/226665381|title=Advances in the Research of Aquatic Environment|chapter=An insight to the fluvial characteristics of the Mediterranean and Black Sea watersheds|publisher=Springer Nature|author=S. Poulos|year=2011|language=en}}</ref><ref name="margat2004">{{cite book|url=https://books.google.com/books?id=n5CGAAAAIAAJ|title=Mediterranean Basin Water Atlas|publisher=UNESCO|author=J.F. Margat|year=2004|page=4|isbn=978-2-9517181-5-9|language=en}}</ref> Lumi më i gjatë që derdhet në Detin Mesdhe është Nili, i cili buron në Afrikën ekuatoriale. Pellgu i Nilit përbën rreth dy të tretat e pellgut ujëmbledhës mesdhetar<ref name="margat2004"/> dhe përfshin edhe zona aq të larta sa Malet Ruvenzori. Ndër lumenjtë e tjerë të rëndësishëm në Afrikë janë Moulouya dhe Chelif, të dy në anën veriore të [[Malet Atlas|Maleve Atlas]]. Në Azi janë Ceyhan dhe Seyhan, të dy në anën jugore të Maleve Taurus. Në Evropë, pellgjet më të mëdha janë ato të [[Lumi i Ronës|Ronës]], [[Lumi i Ebros|Ebros]], [[Lumi Po|Pos]] dhe Maritsas. Pellgu i Ronës është më i madhi dhe shtrihet deri në veri, te [[Jura (vargmal)|Malet Jura]], duke përfshirë edhe zona në anën veriore të [[Alpet|Alpeve]]. Pellgjet e Ebros, Pos dhe Maritsas ndodhen përkatësisht në jug të [[Pirenejtë|Pirenejve]], Alpeve dhe [[Malet e Ballkanit|Maleve Ballkanike]], vargmalet kryesore që kufizojnë Evropën Jugore.
+
+Reshjet totale vjetore janë dukshëm më të larta në pjesën evropiane të pellgut mesdhetar, sidomos pranë Alpeve ('kulla e ujit e Evropës') dhe vargmaleve të tjera të larta. Si pasojë, rrjedhjet lumore të Ronës dhe Pos janë të ngjashme me atë të Nilit, pavarësisht se ky i fundit ka një pellg shumë më të madh. Këta janë të vetmit tre lumenj me rrjedhje mesatare mbi 1.000 m<sup>3</sup>/s. Ndër trupat e mëdhenj natyrorë të ujit të ëmbël janë [[Liqeni Viktoria]] (pellgu i Nilit), [[Liqeni i Gjenevës]] (Rona) dhe liqenet italiane (Po). Ndërsa pellgu mesdhetar kufizohet nga pellgje të tjera lumore në Evropë, gjetkë kufizohet kryesisht nga pellgje endorreike apo shkretëtira.
+
+Vendet e mëposhtme ndodhen në pellgun ujëmbledhës mesdhetar pa pasur bregdet mbi Detin Mesdhe:
+* Në Evropë, përmes lumenjve të ndryshëm: [[Andorra]] (përmes Ebros), [[Bullgaria]] (përmes Strumës, Maritsas dhe Nestos), [[Kosova]] (përmes Drinit), [[Maqedonia e Veriut]] (përmes Drinit dhe [[Lumi i Vardarit|Vardarit]]), [[San Marino]] (përmes Marecchias), [[Serbia]] (përmes Strumës) dhe [[Zvicra]] (përmes Ronës, Pos dhe Adiges).
+* Në Afrikë, përmes Nilit: [[Republika Demokratike e Kongos|Kongo]], [[Burundi]], [[Eritrea]], [[Etiopia]], [[Kenia]], [[Ruanda]], [[Sudani i Jugut]], [[Sudani]], [[Tanzania]] dhe [[Uganda]].
+
+=== Shtetet bregdetare ===
+{{Hatnote|Artikulli kryesor: {{ill|Lista e vendeve mesdhetare|en|List of Mediterranean countries}}}}
+[[File:Area of the Mediterranean.jpg|thumb|Harta e Detit Mesdhe sipas të dhënave të hapura Natural Earth, 2020]]
+
+Vendet e mëposhtme kanë bregdet mbi Detin Mesdhe:
+* '''Evropiane''': Spanja, Franca, Italia, Malta, Monako, Sllovenia, Kroacia, Bosnja dhe Hercegovina, Mali i Zi, Shqipëria dhe Greqia
+* '''Azia Perëndimore''': Turqia, Siria, Libani, Izraeli, Palestina, dhe ishulli i Qipros
+* '''Afrika Veriore''': Maroku, Algjeria, Tunizi, Libia, Egjipti
+
+=== Zona ekonomike ekskluzive ===
+Zonat ekonomike ekskluzive në Detin Mesdhe:<ref name="seaaroundus">{{cite web|title=Sea Around Us {{!}} Fisheries, Ecosystems and Biodiversity|url=http://www.seaaroundus.org/data/#/eez|access-date=2020-09-15|website=seaaroundus.org|language=en}}</ref>
+
+{| class="wikitable sortable" style="font-size:100%"
+|-
+!rowspan=2 width=75|Nr.
+!rowspan=2 width=250|Vendi
+!colspan=2 width=200|Sipërfaqja
+|-
+!width=100|km<sup>2</sup>
+!width=100|milje<sup>2</sup>
+|-
+| align=center|1 || '''Italia''' || 541.915 || 209.000
+|-
+| align=center|2 || '''Greqia''' || 493.708 || 190.000
+|-
+| align=center|3 || '''Libia''' || 355.604 || 137.000
+|-
+| align=center|4 || '''Spanja''' || 260.000 || 100.000
+|-
+| align=center|5 || '''Egjipti''' || 169.125 || 65.000
+|-
+| align=center|6 || '''Algjeria''' || 128.843 || 49.700
+|-
+| align=center|7 || '''Tunizi''' || 102.047 || 39.400
+|-
+| align=center|8 || '''Franca''' || 88.389 || 34.100
+|-
+| align=center|9 || '''Qipro''' || 80.412 || 31.000
+|-
+| align=center|10 || '''Turqia''' || 72.195 || 27.900
+|-
+| align=center|11 || '''Kroacia''' || 59.032 || 22.800
+|-
+| align=center|12 || '''Malta''' || 55.542 || 21.400
+|-
+| align=center|13 || '''Izraeli''' || 25.139 || 9.700
+|-
+| align=center|14 || '''Libani''' || 19.265 || 7.400
+|-
+| align=center|15 || '''Maroku''' || 18.302 || 7.100
+|-
+| align=center|16 || '''Qiproja Veriore'''{{efn|Njihet vetëm nga Turqia.}} || 17.676 || 6.800
+|-
+| align=center|17 || '''Shqipëria''' || 13.691 || 5.300
+|-
+| align=center|18 || '''Siria''' || 10.189 || 3.900
+|-
+| align=center|19 || '''Mali i Zi''' || 7.745 || 3.000
+|-
+| align=center|20 || '''Palestina''' || 2.591 || 1.000
+|-
+| align=center|21 || '''Monako''' || 288 || 111
+|-
+| align=center|22 || '''Sllovenia''' || 220 || 85
+|-
+| align=center|23 || '''Bosnja dhe Hercegovina''' || 50 || 19
+|-
+| align=center|24 || '''Mbretëria e Bashkuar'''{{efn|Përmes Akrotirit dhe Dhekelias.}} || 6,8 || 2,6
+|- style="background:#9acdff;"
+!Gjithsej
+|'''Deti Mesdhe''' || 2.500.000 || 965.000
+|}
+
+=== Nënndarjet ===
+[[File:Bucht & Straße von Gibraltar.jpg|thumb|Afrika (majtas, në horizont) dhe Evropa (djathtas), pamje nga Gjibraltari]]
+
+Organizata Ndërkombëtare Hidrografike (IHO) e ndan Mesdheun në një numër trupash uji më të vegjël, secili me emërtimin e vet (nga perëndimi në lindje):
+* [[Ngushtica e Gjibraltarit]]
+* [[Deti Albor|Deti Alboran]], mes Spanjës dhe Marokut
+* [[Deti Balearik|Deti Balear]], mes Spanjës kontinentale dhe [[Ishujt Baleare]]
+* [[Deti Ligur]], mes Korsikës dhe Ligurisë (Itali)
+* [[Deti Tirren]], i rrethuar nga Sardenja, Korsika, [[Gadishulli Apenin|Gadishulli Italik]] dhe Siçilia
+* [[Deti Jon]], mes Italisë, Shqipërisë dhe Greqisë
+* Deti Adriatik, mes Italisë, Sllovenisë, Kroacisë, Bosnjës dhe Hercegovinës, Malit të Zi dhe Shqipërisë
+* Deti Egje, mes Greqisë dhe Turqisë
+
+=== Ishujt më të mëdhenj ===
+{{Hatnote|Artikulli kryesor: {{ill|Lista e ishujve në Detin Mesdhe|en|List of islands in the Mediterranean}}}}
+
+[[File:Tunisia - Sicily - South Italy.jpg|thumb|Dy ishujt më të mëdhenj të Mesdheut: Siçilia dhe Sardenja (Itali)]]
+[[File:The Tower of Porto Giunco Beach (Spiaggia Torre Porto Giunco) with a view to the beach and the lake Stagno di Notteri in Sardinia, Italy (48402759012).jpg|thumb|Kullë vrojtimi e shekullit XVI në bregun e Sardenjës]]
+
+Deti Mesdhe përfshin rreth 10.000 ishuj e ishuj të vegjël, prej të cilëve rreth 250 janë të banuar përgjithmonë. Në tabelën e mëposhtme janë renditur dhjetë ishujt më të mëdhenj sipas popullsisë.
+
+{| class="wikitable sortable"
+|- style="background:#efefef;"
+!rowspan=2|Vendi
+!rowspan=2|Ishulli
+!colspan=2|Sipërfaqja
+!rowspan=2|Popullsia
+|-
+!km<sup>2</sup>
+!milje<sup>2</sup>
+|-
+|Italia
+|[[Siçilia]]
+|25.460
+|9.830
+|5.048.995
+|-
+|Italia
+|Sardenja
+|23.821
+|9.200
+|1.672.804
+|-
+|Qipro
+|Qipro
+|9.251
+|3.570
+|1.088.503
+|-
+|Spanja
+|[[Majorka]]
+|3.640
+|1.410
+|869.067
+|-
+|Greqia
+|Kreta
+|8.336
+|3.220
+|623.666
+|-
+|Franca
+|Korsika
+|8.680
+|3.350
+|299.209
+|-
+|Greqia
+|[[Eubea]]
+|3.655
+|1.410
+|218.000
+|-
+|Tunizi
+|Xherba
+|514
+|198
+|182.911
+|-
+|Spanja
+|[[Ibiza]]
+|572
+|221
+|159.180
+|-
+|Greqia
+|[[Rodosi]]
+|1.400
+|541
+|117.007
+|-
+|Greqia
+|[[Korfuzi]]
+|641
+|247
+|101.600
+|-
+|Spanja
+|Menorka
+|696
+|269
+|99.005
+|-
+|Greqia
+|[[Lesbosi]]
+|1.632
+|630
+|90.643
+|-
+|Greqia
+|[[Hiosi]]
+|842
+|325
+|51.936
+|}
+=== Klima ===
+Pjesa më e madhe e bregdetit mesdhetar ka një [[Klima mesdhetare|klimë mesdhetare]] me verë të nxehtë. Pellgu mesdhetar karakterizohet nga dimra të buta e me lagështi, dhe verë të qetë, të thatë e të nxehtë. Edhe pse të rralla, ndonjëherë formohen ciklone tropikale-si në Detin Mesdhe, zakonisht nga shtatori deri në nëntor.
+
+[[File:Koppen World Map (Mediterranean Sea area only).png|thumb|upright=2|Harta e zonave klimatike rreth Detit Mesdhe, sipas klasifikimit klimatik Köppen]]
+
+==== Temperatura e ujit ====
+{|class="wikitable sortable"
+|+Temperatura mesatare e ujit të detit në °C
+|-
+!
+!Jan
+!Shk
+!Mar
+!Pri
+!Maj
+!Qer
+!Kor
+!Gus
+!Sht
+!Tet
+!Nën
+!Dhj
+!Vjetore
+|-
+|[[Malaga]]
+|16 ||15 ||16 ||16 ||18 ||20 ||22 ||23 ||22 ||20 ||18 ||16 ||18,5
+|-
+|[[Barcelona]]
+|13 ||13 ||14 ||15 ||17 ||21 ||24 ||25 ||23 ||19 ||16 ||14 ||17,8
+|-
+|[[Marseja]]
+|13 ||13 ||14 ||15 ||18 ||21 ||24 ||24 ||22 ||19 ||16 ||14 ||17,7
+|-
+|[[Napoli]]
+|14 ||13 ||14 ||16 ||19 ||23 ||25 ||26 ||24 ||21 ||18 ||15 ||19,0
+|-
+|[[Venediku]]
+|9 ||8 ||10 ||14 ||19 ||23 ||25 ||25 ||22 ||18 ||13 ||10 ||16,3
+|-
+|[[Athina]]
+|16 ||15 ||16 ||17 ||20 ||24 ||25 ||25 ||24 ||22 ||19 ||17 ||20,0
+|-
+|[[Split]]
+|13 ||12 ||13 ||16 ||19 ||23 ||26 ||26 ||23 ||19 ||16 ||14 ||18,3
+|-
+|[[Antalia]]
+|17 ||16 ||17 ||19 ||22 ||25 ||28 ||28 ||27 ||24 ||21 ||18 ||21,8
+|-
+|[[Mersini]]
+|18 ||17 ||17 ||18 ||21 ||25 ||28 ||29 ||28 ||25 ||22 ||19 ||22,3
+|-
+|[[Tel Aviv-Jafa|Tel Aviv]]
+|18 ||17 ||17 ||18 ||21 ||24 ||27 ||28 ||28 ||26 ||23 ||20 ||22,3
+|-
+|[[Aleksandria]]
+|18 ||17 ||17 ||18 ||20 ||23 ||25 ||26 ||26 ||25 ||22 ||20 ||21,4
+|}
+
+Ky rajon njihet gjithashtu, ndonjëherë, edhe si "Mesdheu Euroafrikan" apo "Mesdheu Evropian", për ta dalluar nga dete "mesdhetare" (dete gjysmë-të-mbyllura) të tjera në botë, si Deti Baltik dhe pjesa veriperëndimore e Oqeanit Atlantik.
+== Shtrati detar ==
+Deti Mesdhe ka shumë karakteristika gjeologjike nënujore, të formuara nga zhytja e Pllakës Afrikane nën Pllakën Euroaziatike.<ref>{{Cite journal |last1=Tugend |first1=J. |last2=Chamot-Rooke |first2=N. |last3=Arsenikos |first3=S. |last4=Blanpied |first4=C. |last5=Frizon de Lamotte |first5=D. |date=2019 |title=Geology of the Ionian Basin and Margins: A Key to the East Mediterranean Geodynamics |url=https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018TC005472 |journal=Tectonics |volume=38 |issue=8 |pages=2668–2702 |doi=10.1029/2018TC005472 |bibcode=2019Tecto..38.2668T |issn=1944-9194 |language=en}}</ref><ref>{{cite journal |url=https://www.researchgate.net/figure/A-Seismotectonic-map-of-the-Central-Mediterranean-area-Topography-and-bathymetry-are_fig1_234072715 |page=29, Figure 1 |first1=Flora |last1=Gallais |first2=Marc-Andre |last2=Gutscher |first3=Dirk |last3=Klaeschen |first4=David |last4=Graindorge |date=2012 |title=Two-stage growth of the Calabrian accretionary wedge in the Ionian Sea (Central Mediterranean): Constraints from depth-migrated multichannel seismic data |journal=Marine Geology |volume=326-328 |issue=28–45 |doi=10.1016/j.margeo.2012.08.006 |bibcode=2012MGeol.326...28G |language=en}}</ref> Deti ndahet natyrshëm në rajone perëndimore dhe lindore nga Shkalla e Maltës, e cila shtrihet nga ishulli i Siçilisë deri te bregu afrikan.<ref name=":0">{{Cite encyclopedia |date=2025-01-03 |title=Mediterranean Sea - Geology, Climate, Biodiversity {{!}} Britannica |url=https://www.britannica.com/place/Mediterranean-Sea/Physiographic-and-geologic-features |access-date=2025-01-05 |encyclopedia=Encyclopedia Britannica |edition=Online |language=en}}</ref><ref name=":1">{{cite book |last1=Vanney |first1=JR. |last2=Gennesseaux |first2=M. |date=1985 |chapter=Mediterranean Seafloor Features: Overview and Assessment |editor-last1=Stanley |editor-first1=D. J. |editor-last2=Wezel |editor-first2=FC |title=Geological Evolution of the Mediterranean Basin |publisher=Springer |location=New York, NY |url=https://www.vliz.be/imisdocs/publications/261914.pdf |pages=3–32 |language=en}}</ref><ref name=":2">{{cite journal |last1=Mascle |first1=Jean |last2=Chaumillon |first2=Eric |date=1998 |title=An overview of Mediterranean Ridge collisional accretionary complex as deduced from multichannel seismic data |journal=Geo-Marine Letters |volume=18 |issue=2 |pages=81–89 |doi=10.1007/s003670050056 |bibcode=1998GML....18...81M |url=https://www.researchgate.net/publication/225774193 |language=en}}</ref><ref>{{cite journal |url=https://www.researchgate.net/figure/Morpho-structural-map-of-the-Calabrian-accretionary-wedge-and-its-adjacent-regions-Black_fig11_234072715 |first1=Flora |last1=Gallais |first2=Marc-Andre |last2=Gutscher |first3=Dirk |last3=Klaeschen |first4=David |last4=Graindorge |date=2012 |title=Two-stage growth of the Calabrian accretionary wedge in the Ionian Sea (Central Mediterranean): Constraints from depth-migrated multichannel seismic data |journal=Marine Geology |volume=326-328 |issue=28–45 |page=31, Figure 3 |doi=10.1016/j.margeo.2012.08.006 |bibcode=2012MGeol.326...28G |language=en}}</ref>
+
+'''Rajoni perëndimor''' i Mesdheut mund të ndahet në tre pellgje kryesore nënujore:<ref>{{cite journal |url=https://www.researchgate.net/figure/Schematic-structural-map-of-the-western-Mediterranean-region-showing-the-main-orogenic_fig1_359801917 |title=Palaeostrait tectono-sedimentary facies during late Cenozoic microplate rifting and dispersal in the western Mediterranean |last1=Cavazza |first1=William |last2=Longhitano |first2=Sergio |date=2022 |journal=Geological Society Special Publications |volume=523 |issue=1 |page=2, Figure 1 |doi=10.1144/SP523-2021-95 |hdl=11563/196876 |hdl-access=free |language=en}}</ref>
+* '''Pellgu i Alboranit''' shtrihet mes brigjeve marokene dhe spanjolle, në lindje të Gjibraltarit, në perëndim të Sardenjës dhe Korsikës; ai vepron si portë mes Oqeanit Atlantik dhe Detit Mesdhe dhe është një zonë me biodiversitet të lartë.<ref>{{Cite web |title=Marine Protected Areas and key biodiversity areas of the Alboran Sea and adjacent areas |url=https://europe.oceana.org/reports/marine-protected-areas-and-key-biodiversity-areas-of-the-alboran-sea-and-adjacent-areas/ |access-date=2025-01-07 |website=Oceana Europe |language=en-US}}</ref>
+* '''Pellgu Algjerian''' shtrihet nga bregu algjerian deri te bregu francez, me thellësi deri në 2.800 m.<ref>{{Cite journal |last1=Bouyahiaoui |first1=B. |last2=Sage |first2=F. |last3=Abtout |first3=A. |last4=Klingelhoefer |first4=F. |last5=Yelles-Chaouche |first5=K. |last6=Schnürle |first6=P. |last7=Marok |first7=A. |last8=Déverchère |first8=J. |last9=Arab |first9=M. |last10=Galve |first10=A. |last11=Collot |first11=J.Y. |date=2015-06-01 |title=Crustal structure of the eastern Algerian continental margin and adjacent deep basin: implications for late Cenozoic geodynamic evolution of the western Mediterranean |url=https://academic.oup.com/gji/article/201/3/1912/771442 |journal=Geophysical Journal International |volume=201 |issue=3 |pages=1912–1938 |doi=10.1093/gji/ggv102 |doi-access=free |issn=0956-540X |language=en}}</ref> Ka pasur eksplorim të konsiderueshëm të hidrokarbureve, sidomos përgjatë brigjeve të Algjerisë, Libisë dhe Tunizisë.<ref>{{cite report |vauthors=Smith, CJ, Dailianis, T, Papadopoulou, K-N, Gerovasileiou, V, Sevastou, K, Grehan, A, Billett, B, McOwen, C, Amaro, T, Bakran-Petricioli, T, Bekkby, T, Bilan, M, Boström, C, Carriero-Silva, M, Carugati, L, Cebrian, E, Cerrano, C, Christie, H, Danovaro, R, Eronat, EGT, Fiorentino, D, Fraschetti, S, Gagnon, K, Gambi, C, Hereu, B, Kipson, S, Kotta, J, Linares, C, Morato, T, Ojaveer, H, Orav-Kotta, H, Pham, CK, Rinde, E, Sarà, A, Scrimgeour, R |date=2017 |title=Current marine pressures and mechanisms driving changes in marine habitats |page=64 |url=https://www.researchgate.net/publication/322226825 |language=en}}</ref> Fusha vullkanike nënujore e njohur si Campi Flegrei del Mar di Sicilia gjendet rreth 40 km në juglindje të Siçilisë, ku disa vullkane (si Ferdinandea, i njohur edhe si Graham Island, dhe Empedokli) dalin përkohësisht mbi nivelin e detit gjatë shpërthimeve të mëdha.<ref>{{Cite web |title=Global Volcanism Program {{!}} Campi Flegrei del Mar di Sicilia |url=https://volcano.si.edu/volcano.cfm?vn=211070 |access-date=2025-01-09 |publisher=Smithsonian Institution {{!}} Global Volcanism Program |language=en}}</ref>
+* '''Pellgu Tirren''', i njohur gjithashtu si Deti Tirren, mes Italisë dhe ishujve Sardenjë e Korsikë.<ref name=":0" /><ref name=":1" /> Ky pellg përfshin Marsilin, një vullkan i madh nënujor rreth 175 km në jug të Napolit, dhe Malin Palinuro, një nga malet nënujore më të mëdhenj në Detin Tirren, rreth 30 km në verilindje të Marsilit. Marsili është një nga vullkanet më të mëdhenj në Evropë, i gjatë 70 km dhe i gjerë 30 km, më i madh se Etna dhe pjesë e harkut vullkanik të Ishujve Eolianë.<ref>{{Cite web |title=Global Volcanism Program {{!}} Marsili |url=https://volcano.si.edu/volcano.cfm?vn=211080 |access-date=2025-01-09 |publisher=Smithsonian Institution {{!}} Global Volcanism Program |language=en}}</ref>
+
+'''Rajoni lindor''' i Mesdheut ndahet gjithashtu në disa pellgje nënujore:
+* '''Pellgu Jon''', pellg i thellë dhe i ngushtë oqeanik, që shtrihet në jug të Italisë, Shqipërisë dhe Greqisë, dhe përmban Thellësinë Kalipso (të njohur edhe si Thellësia Oinouses ose Vavilov), pikën më të thellë të Detit Mesdhe, në Rrafshirën Helenike, rreth 62,6 km në juglindje të Pylosit, Greqi, me thellësi maksimale rreth 4.900 metra.<ref name=":0" />
+* '''Pellgu Levantin''' në jug të Anadollit, i ndarë nga Pellgu Jon nga Kreshta Mesdhetare, një kreshtë detare e gjatë 1.300 km që shtrihet nga Kalabria, përgjatë jugut të Kretës, deri në qoshen juglindore të Turqisë, e njohur për vullkanet e baltës dhe strukturat e saj kupolore, si dhe si objekt studimi për Krizën e kripshmërisë mesiniane.<ref name=":2" /> Mali nënujor Eratostenis, një mal nënujor karbonati, gjendet në Pellgun Levantin rreth 100 km në jug të Qipros perëndimore.
+* Ishulli i Kretës ndan Pellgun Levantin nga '''Deti Egje''', pjesa e Detit Mesdhe në veri të Kretës, e kufizuar në lindje nga bregu i Turqisë e në perëndim dhe veri nga bregu i Greqisë. Në Detin Egje gjenden shumë ishuj grekë dhe male nënujorë.<ref name=":0" /><ref>{{cite book |last1=Sakellariou |first1=Dimitris |last2=Drakopoulou |first2=Paraskevi |last3=Rousakis |first3=Grigoris |last4=Livanos |first4=Isidoros |last5=Loukaidi |first5=Vassiliki |last6=Kyriakidou |first6=Chara |last7=Morfis |first7=Ioannis |last8=Panagiotopoulos |first8=Ioannis |last9=Tsampouraki-Kraounaki |first9=Konstantina |last10=Manta |first10=Kyriaki |last11=Leontopoulou |first11=Georgia |date=2022 |chapter=Geomorphological Features |url=https://www.researchgate.net/figure/Location-of-the-seamount-areas-in-the-South-Aegean-Sea-discussed-in-this-chapter_fig5_360554511 |title=Deep-sea Atlas of the Eastern Mediterranean Sea - Current Knowledge |publisher=IUCN |location=Gland, Switzerland |page=51, Figure 2.21 |language=en}}</ref>
+* '''Deti Adriatik''', në verilindje të trupit kryesor të Mesdheut Lindor, kufizohet në lindje nga Sllovenia, Kroacia, Bosnja dhe Hercegovina, Mali i Zi dhe Shqipëria, dhe në perëndim e veri nga Italia.<ref name=":0" /><ref name=":1" />
+
+Deri në vitet 1960 besohej se Mesdheu ishte pjesa kryesore e mbetur e Oqeanit Tetis (të hershëm mesozoik, rreth 200 milionë vjeç), i cili dikur rrethonte hemisferën lindore. Megjithatë, që nga fundi i shekullit XX, hulumtimet me teorinë e përhapjes së shtratit oqeanik kanë treguar se pjesa më e madhe e shtratit aktual mesdhetar nuk është pjesë e shtratit të Tetisit.<ref name=":0" /> Disa studiues e konsiderojnë Pellgun Jon, në lindje të Shkallës së Maltës, si mbetjen e Oqeanit Tetis.<ref>{{Cite journal |last1=Micallef |first1=Aaron |last2=Camerlenghi |first2=Angelo |last3=Georgiopoulou |first3=Aggeliki |last4=Garcia-Castellanos |first4=Daniel |last5=Gutscher |first5=Marc-André |last6=Lo Iacono |first6=Claudio |last7=AI Huvenne |first7=Veerle |last8=Mountjoy |first8=Joshu J. |last9=Paull |first9=Charles K. |last10=Le Bas |first10=Timothy |last11=Spatola |first11=Daniele |last12=Facchin |first12=Lorenzo |last13=Accettella |first13=Daniela |date=2019 |title=Geomorphic evolution of the Malta Escarpment and implications for the Messinian evaporative drawdown in the eastern Mediterranean Sea |url=https://oceanrep.geomar.de/48710/7/Micallef%20et%20al.%20preprint.pdf |journal=Geomorphology |language=en |volume=327 |issue=327 |pages=264–283 |doi=10.1016/j.geomorph.2018.11.012 |hdl=10261/172776}}</ref> Gjatë 44 milionë vjetëve të fundit, pllakat kontinentale të Afrikës dhe Euroazisë janë përafruar dhe janë tërhequr, duke krijuar pellgun aktual tektonikisht aktiv dhe vargmalet përreth tij.
+
+Bërthama sedimentare të nxjerra në vitet 1970 dhe 1975 çuan në teori se rreth 6 milionë vjet më parë, Mesdheu ishte rreth 3.000 m nën nivelin aktual të detit dhe përfshinte shkretëtira të thata të mbuluara me kripëra evaporitike. Besohej se kreshtat e larta të Gjibraltarit e pengonin ujin atlantik të hynte deri rreth 5,5 milionë vjet më parë, kur ai theu barrierën dhe përmbyti Mesdheun. Sipas hulumtimeve më të fundit sizmike dhe mikrofosileve, shtrati detar nuk ishte kurrë tërësisht i thatë. Përkundrazi, rreth 5 milionë vjet më parë, shtrati përbëhej nga shumë pellgje me topografi dhe madhësi të ndryshme, me thellësi nga 200 deri në 1.500 m. Kripërat ka të ngjarë të jenë grumbulluar në fund të ujërave shumë të kripura, në thellësi shumë të ndryshme.<ref name=":0" />
+
+=== Shkalla e Maltës ===
+Shkalla e Maltës është një shkëmb gëlqeror nënujor, i gjatë rreth 250 km, që shtrihet në jug nga bregu lindor i Siçilisë deri te bregu lindor i Ishujve të Maltës dhe përtej, i formuar kryesisht nga veprimtaria tektonike.<ref name=":0" /> Përgjatë shkëmbinjve ka më shumë se 500 kanione nënujore, disa prej të cilave arrijnë lartësi deri 3,5 km. Në këto kanione gjenden komunitete të pasura biologjike; ato shërbejnë gjithashtu si kanale për ndotësit dhe ushqyesit që transportohen nga rrymat nënujore. Këto lugina të thella janë të veçanta pasi nuk janë gërryer nga lumenj sipërfaqësorë. Rrëshqitjet nënujore janë ndër rreziqet natyrore që gjenden në Shkallën e Maltës.
+
+== Oqeanografia ==
+Avullimi tejkalon dukshëm reshjet dhe rrjedhjen lumore në Mesdhe, fakt qendror për qarkullimin e ujit brenda pellgut.<ref>{{cite book|last=Pinet|first=Paul R.|year=1996|title=Invitation to Oceanography|location=St Paul, Minnesota|publisher=West Publishing Co.|isbn=978-0-314-06339-7|edition=3rd|page=202|language=en}}</ref> Avullimi është veçanërisht i lartë në gjysmën lindore, duke shkaktuar rënien e nivelit të ujit dhe rritjen e kripshmërisë drejt lindjes.<ref>{{cite book|last=Pinet|first=Paul R.|year=1996|title=Invitation to Oceanography|location=St Paul, Minnesota|publisher=West Publishing Co.|isbn=978-0-314-06339-7|edition=3rd|page=206|language=en}}</ref> Kripshmëria mesatare në pellg është 38 PSU në thellësinë 5 m.<ref name="tempandsal">{{cite journal |year=2000 |title=Temperature and salinity variations of Mediterranean Sea surface waters over the last 16,000 years from records of planktonic stable oxygen isotopes and alkenone unsaturation ratios |citeseerx=10.1.1.378.4964 |journal=Palaeogeography, Palaeoclimatology, Palaeoecology |volume=158 |issue=3–4 |pages=259–280 |doi=10.1016/s0031-0182(00)00053-5 |last1=Emeis |first1=Kay-Christian |last2=Struck |first2=Ulrich |last3=Schulz |first3=Hans-Martin |last4=Rosenberg |first4=Reinhild |last5=Bernasconi |first5=Stefano |last6=Erlenkeuser |first6=Helmut |last7=Sakamoto |first7=Tatsuhiko |last8=Martinez-Ruiz |first8=Francisca |bibcode=2000PPP...158..259E |display-authors=4 |language=en}}</ref> Temperatura e ujit në pjesën më të thellë të Detit Mesdhe është 13,2 °C.<ref name="tempandsal" />
+
+Fluksi neto i ujit nga Atlantiku është rreth 70.000 m<sup>3</sup>/s.<ref>{{cite journal | last=Ellenberg | first=L. | title=Die Meerenge von Gibraltar : Küstenmorphologie zwischen Mittelmeer und Atlantik | journal=Geographica Helvetica | volume=36 | issue=3 | date=1981-09-30 | issn=2194-8798 | doi=10.5194/gh-36-109-1981 | doi-access=free | pages=109–120 | language=de}}</ref> Pa këtë ujë atlantik, niveli i detit të Mesdheut do të binte me rreth 1 m në vit.<ref>{{cite book | last=Hofrichter | first=R. | title=Das Mittelmeer: Geschichte und Zukunft eines ökologisch sensiblen Raums | publisher=Springer Berlin Heidelberg | year=2020 | isbn=978-3-662-58929-8 | url=https://books.google.com/books?id=u1vrDwAAQBAJ&pg=PA530 | language=de | page=530 | access-date=2024-05-01 | archive-date=2024-05-01 | archive-url=https://web.archive.org/web/20240501210608/https://books.google.com/books?id=u1vrDwAAQBAJ&pg=PA530 | url-status=live}}</ref>
+
+Në oqeanografi, ai quhet ndonjëherë "Deti Mesdhe Euroafrikan", "Deti Mesdhe Evropian" apo "Deti Mesdhe Afrikan", për ta dalluar nga detet mesdhetare të tjera gjetkë, si Deti Baltik dhe Oqeani Atlantik Verilindor.<ref>{{cite report|url=http://www.ifremer.fr/lobtln/OTHER/ext_abstr_East_Sea_workshop_TLM.pdf|title=Recent results and new ideas about the Eurafrican Mediterranean Sea. Outlook on the similarities and differences with the Asian Mediterranean Sea |first1=Isabelle |last1=TAUPIER-LETAGE |first2=Claude |last2=MILLOT|access-date=2010-04-23|archive-date=2011-05-11|archive-url=https://web.archive.org/web/20110511180948/http://www.ifremer.fr/lobtln/OTHER/ext_abstr_East_Sea_workshop_TLM.pdf|url-status=live|language=en}}</ref><ref>{{Cite web |date=October 2022 |title=Regional seas around Europe - version 2, Oct. 2022 |url=https://www.eea.europa.eu/data-and-maps/data/external/regional-seas-around-europe-version |access-date=2025-06-20 |website=EEA |language=en}}</ref>
+
+=== Qarkullimi i përgjithshëm ===
+Qarkullimi i ujit në Mesdhe i atribuohet ujërave sipërfaqësorë që hyjnë nga Atlantiku përmes Ngushticës së Gjibraltarit (si dhe ujit me kripshmëri të ulët që hyn nga Deti i Zi përmes Bosforit). Uji i freskët dhe me kripshmëri relativisht të ulët atlantik qarkullon drejt lindjes përgjatë brigjeve të Afrikës Veriore. Një pjesë e ujit sipërfaqësor nuk kalon Ngushticën e Siçilisë, por devijon drejt Korsikës para se të dalë nga Mesdheu. Ujërat sipërfaqësore që hyjnë në Pellgun Mesdhetar Lindor qarkullojnë përgjatë brigjeve libiane dhe izraelite. Kur arrin te Deti Levantin, uji sipërfaqësor, i ngrohur dhe me kripshmëri të rritur nga gjendja e tij fillestare atlantike, bëhet më i dendur dhe fundoset, duke formuar Ujërat e Ndërmjetme Levantine (LIW). Pjesa më e madhe e ujit që gjendet diku mes 50 dhe 600 m thellësi në Mesdhe vjen nga LIW.<ref>{{cite book |doi=10.1007/b107143 |chapter=Circulation in the Mediterranean Sea |title=The Mediterranean Sea |volume=5K |pages=29–66 |series=Handbook of Environmental Chemistry |year=2005 |last1=Millot |first1=Claude |last2=Taupier-Letage |first2=Isabelle |isbn=978-3-540-25018-0 |s2cid=55831361 |url=https://hal.science/hal-01191856 |chapter-url=https://hal.archives-ouvertes.fr/hal-01191856/file/Millot_Taupier-Letage_Circulation_Med_Handbook_2005_HAL%20%281%29.pdf |access-date=2019-07-05 |archive-date=2019-12-16 |archive-url=https://web.archive.org/web/20191216184420/https://hal.archives-ouvertes.fr/hal-01191856/file/Millot_Taupier-Letage_Circulation_Med_Handbook_2005_HAL%20%281%29.pdf |url-status=live |language=en}}</ref>
+
+LIW formohen përgjatë brigjeve të Turqisë dhe qarkullojnë drejt perëndimit përgjatë brigjeve greke e italiane jugore. LIW janë ujërat e vetme që kalojnë Ngushticën e Siçilisë drejt perëndimit. Pas kësaj, ato qarkullojnë përgjatë brigjeve italiane, franceze dhe spanjolle para se të dalin nga Mesdheu përmes thellësive të Ngushticës së Gjibraltarit. Uji i thellë në Mesdhe buron kryesisht nga tri zona: Deti Adriatik, prej nga vjen pjesa më e madhe e ujit të thellë të Mesdheut Lindor, Deti Egje, dhe Gjiri i Lionit. Formimi i ujit të thellë në Mesdhe shkaktohet nga konveksioni i fortë dimëror i nxitur nga erëra të ftohta të fuqishme si Bora dhe Mistrali. Kur formohet ujë i ri i thellë, ujërat e vjetra përzihen me ujërat e ndërmjetme mbi to dhe përfundimisht dalin nga Mesdheu. Koha e qëndrimit të ujit në Mesdhe është rreth 100 vjet, gjë që e bën Mesdheun veçanërisht të ndjeshëm ndaj ndryshimeve klimatike.<ref>{{cite journal |last1=Millot |first1=C. |year=1989 |title=La Circulation Générale En Méditerranée Occidentale : Aperçu De Nos Connaissances Et Projets D'études |trans-title=General Circulation in the Western Mediterranean: Overview of Our Knowledge and Study Projects |language=fr |journal=Annales de Géographie |volume=98 |issue=549 |pages=497–515 |jstor=23452851 |doi=10.3406/geo.1989.20925}}</ref>
+
+=== Ngjarje të tjera që ndikojnë qarkullimin e ujit ===
+Duke qenë një pellg gjysmë-i-mbyllur, Mesdheu përjeton ngjarje kalimtare që mund të ndikojnë qarkullimin e ujit në shkallë kohore të shkurtra. Në mesin e viteve 1990, Deti Egje u bë zona kryesore e formimit të ujit të thellë në Mesdheun Lindor pas dimrave veçanërisht të ftohtë. Ky ndryshim kalimtar i origjinës së ujërave të thella në Mesdheun Lindor u quajt "Kalimtarja e Mesdheut Lindor" (EMT) dhe pati pasoja të mëdha në qarkullimin e ujit të Mesdheut.<ref>{{cite journal |last1=Gasparini |first1=G.P. |last2=Ortona |first2=A. |last3=Budillon |first3=G. |last4=Astraldi |first4=M. |last5=Sansone |first5=E. |title=The effect of the Eastern Mediterranean Transient on the hydrographic characteristics in the Strait of Sicily and in the Tyrrhenian Sea |journal=Deep Sea Research Part I: Oceanographic Research Papers |date=June 2005 |volume=52 |issue=6 |pages=915–935 |doi=10.1016/j.dsr.2005.01.001 |bibcode=2005DSRI...52..915G |language=en}}</ref><ref>{{cite journal |last1=Lascaratos |first1=Alex |last2=Roether |first2=Wolfgang |last3=Nittis |first3=Kostas |last4=Klein |first4=Birgit |title=Recent changes in deep water formation and spreading in the eastern Mediterranean Sea: a review |journal=Progress in Oceanography |date=August 1999 |volume=44 |issue=1–3 |pages=5–36 |doi=10.1016/S0079-6611(99)00019-1 |bibcode=1999PrOce..44....5L |language=en}}</ref><ref>{{cite journal |last1=Theocharis |first1=Alexander |last2=Nittis |first2=Kostas |last3=Kontoyiannis |first3=Harilaos |last4=Papageorgiou |first4=Emanuel |last5=Balopoulos |first5=Efstathios |title=Climatic changes in the Aegean Sea influence the eastern Mediterranean thermohaline circulation (1986–1997) |journal=Geophysical Research Letters |date=1999-06-01 |volume=26 |issue=11 |pages=1617–1620 |doi=10.1029/1999GL900320 |bibcode=1999GeoRL..26.1617T |doi-access=free |language=en}}</ref>
+
+Një shembull tjetër i një ngjarjeje kalimtare që ndikon qarkullimin e Mesdheut është përmbysja periodike e Vorbullës së Jonit Verior, një vorbull oqeanik anticiklonik i vëzhguar në pjesën veriore të Detit Jon, pranë bregut grek. Kalimi nga rrotullimi anticiklonik në atë ciklonik të kësaj vorbulle ndryshon origjinën e ujërave që e ushqejnë atë; kur qarkullimi është anticiklonik (rasti më i zakonshëm), ujërat e vorbullës vijnë nga Deti Adriatik. Kur qarkullimi është ciklonik, ujërat vijnë nga Deti Levantin. Këto ujëra kanë karakteristika të ndryshme fizike e kimike, dhe përmbysja periodike e Vorbullës së Jonit Verior (e njohur si Sistemi Oshilues Bimodal, ose BiOS) ndryshon qarkullimin dhe biogjeokiminë e Mesdheut rreth rajoneve të Adriatikut dhe Levantit.<ref>{{cite journal | last1=Civitarese | first1=G. | last2=Gačić | first2=M. | last3=Lipizer | first3=M. | last4=Eusebi Borzelli | first4=G. L. | title=On the impact of the Bimodal Oscillating System (BiOS) on the biogeochemistry and biology of the Adriatic and Ionian Seas (Eastern Mediterranean) | journal=Biogeosciences | publisher=Copernicus GmbH | volume=7 | issue=12 | date=2010-12-15 | issn=1726-4189 | doi=10.5194/bg-7-3987-2010 | doi-access=free | pages=3987–3997| bibcode=2010BGeo....7.3987C | language=en}}</ref>
+
+=== Ndryshimet klimatike ===
+Për shkak të kohës së shkurtër të qëndrimit të ujërave të tij, Deti Mesdhe konsiderohet një pikë e nxehtë ("hot-spot") për regjistrimet e ndryshimit klimatik,<ref name="Giorgi, F. 2006">{{cite journal | last=Giorgi | first=F. | title=Climate change hot-spots | journal=Geophysical Research Letters | volume=33 | issue=8 | date=2006 | issn=0094-8276 | doi=10.1029/2006GL025734 | article-number=2006GL025734 | bibcode=2006GeoRL..33.8707G | language=en}}</ref> duke shënuar rritje të dukshme të temperaturës në të gjithë kolonën e ujit që nga vitet 1950.<ref>{{cite journal | last1=Bethoux | first1=J. P. | last2=Gentili | first2=B. | last3=Raunet | first3=J. | last4=Tailliez | first4=D. | title=Warming trend in the western Mediterranean deep water | journal=Nature | publisher=Springer Science and Business Media LLC | volume=347 | issue=6294 | year=1990 | issn=0028-0836 | doi=10.1038/347660a0 | pages=660–662| bibcode=1990Natur.347..660B | language=en}}</ref><ref>{{cite journal |title=Climate warming and related changes in Mediterranean marine biota - an overview |journal=CIESM Monographs |date=2008 |volume=35 |pages=5–21 |url=https://www.researchgate.net/publication/233883451 |language=en}}</ref> Sipas parashikimeve klimatike, ulja e reshjeve në rajon do të çojë në më shumë avullim, duke rritur përfundimisht kripshmërinë detare.<ref>{{cite journal | last1=Adloff | first1=Fanny | last2=Somot | first2=Samuel | last3=Sevault | first3=Florence | last4=Jordà | first4=Gabriel | last5=Aznar | first5=Roland | last6=Déqué | first6=Michel | last7=Herrmann | first7=Marine | last8=Marcos | first8=Marta | last9=Dubois | first9=Clotilde | last10=Padorno | first10=Elena | last11=Alvarez-Fanjul | first11=Enrique | last12=Gomis | first12=Damià | title=Mediterranean Sea response to climate change in an ensemble of twenty first century scenarios | journal=Climate Dynamics | volume=45 | issue=9–10 | date=2015 | issn=0930-7575 | doi=10.1007/s00382-015-2507-3 | pages=2775–2802 | bibcode=2015ClDy...45.2775A |display-authors=4| hdl=10261/132771 | hdl-access=free | language=en}}</ref> Si rezultat i rritjes së temperaturës dhe kripshmërisë, Mesdheu ka gjasa të bëhet më i shtresëzuar deri në fund të shekullit XXI, me pasoja të dukshme në qarkullimin e ujit dhe biogjeokiminë. Shtresëzimi dhe ngrohja e kanë kthyer tashmë Mesdheun Lindor në një burim neto CO<sub>2</sub> për atmosferën.<ref>{{cite journal |last1=Sisma-Ventura |first1=Guy |last2=Bialik |first2=Or M. |last3=Yam |first3=Ruth |last4=Herut |first4=Barak |last5=Silverman |first5=Jacob |title=p CO 2 variability in the surface waters of the ultra-oligotrophic Levantine Sea: Exploring the air–sea CO 2 fluxes in a fast warming region |journal=Marine Chemistry |date=November 2017 |volume=196 |pages=13–23 |doi=10.1016/j.marchem.2017.06.006|bibcode=2017MarCh.196...13S |language=en}}</ref><ref>{{cite journal |last1=Wimart-Rousseau |first1=Cathy |last2=Wagener |first2=Thibaut |last3=Álvarez |first3=Marta |last4=Moutin |first4=Thierry |last5=Fourrier |first5=Marine |last6=Coppola |first6=Laurent |last7=Niclas-Chirurgien |first7=Laure |last8=Raimbault |first8=Patrick |last9=D'Ortenzio |first9=Fabrizio |last10=Durrieu de Madron |first10=Xavier |last11=Taillandier |first11=Vincent |last12=Dumas |first12=Franck |last13=Conan |first13=Pascal |last14=Pujo-Pay |first14=Mireille |last15=Lefèvre |first15=Dominique |title=Seasonal and Interannual Variability of the CO2 System in the Eastern Mediterranean Sea: A Case Study in the North Western Levantine Basin |journal=Frontiers in Marine Science |date=2021 |volume=8 |doi=10.3389/fmars.2021.649246 |issn=2296-7745|doi-access=free|bibcode=2021FrMaS...849246W |display-authors=4 |article-number=649246 |language=en}}</ref>
+
+Ndryshimi klimatik i shkaktuar nga njeriu duket se po luan një rol në rritje në zhvillimin e valëve të nxehtësisë detare, të cilat janë bërë temë kërkimore e rëndësishme vitet e fundit, veçanërisht në Mesdhe, ku disa zona në nënpellgjet perëndimore e lindore po përjetojnë kulme temperaturash, si dhe ngjarje ngrohjeje më të shpeshta, më intensive dhe më të zgjatura se kurrë më parë. Këto ngjarje, të shkaktuara kryesisht nga një kombinim faktorësh oqeanikë dhe atmosferikë, shkaktohen shpesh nga sisteme presioni të lartë që zvogëlojnë mbulesën me re dhe rrisin thithjen e diellit nga sipërfaqja e detit. Pasojat e tyre në ekosistemet detare, si vdekshmëria masive në komunitetet bentike, zbardhja e koraleve, ndërprerjet në kapjet e peshkimit dhe zhvendosjet e shpërndarjes së llojeve, mund të jenë shkatërruese.<ref>Marine heatwaves in the Mediterranean Sea and beyond - an overview. 2024. pp. 5–24 in ''CIESM Monograph 51'' (F. Briand, Ed.) ISSN 1726-5886 [https://www.researchgate.net/publication/384727584] (anglisht)</ref> Ngrohja ekstreme mund të çojë në humbje biodiversiteti<ref>{{cite journal |last1=Verdura |first1=Jana |last2=Linares |first2=Cristina |last3=Ballesteros |first3=Enric |last4=Coma |first4=Rafel |last5=Uriz |first5=María J. |last6=Bensoussan |first6=Nathaniel |last7=Cebrian |first7=Emma |title=Biodiversity loss in a Mediterranean ecosystem due to an extreme warming event unveils the role of an engineering gorgonian species |journal=Scientific Reports |date=December 2019 |volume=9 |issue=1 |page=5911 |doi=10.1038/s41598-019-41929-0 |doi-access=free|pmid=30976028 |pmc=6459914 |bibcode=2019NatSR...9.5911V |s2cid=108292968|display-authors=4 |language=en}}</ref> dhe përbën një kërcënim ekzistencial për disa habitate,<ref>{{cite journal |last1=Jordà |first1=Gabriel |last2=Marbà |first2=Núria |last3=Duarte |first3=Carlos M. |title=Mediterranean seagrass vulnerable to regional climate warming |journal=Nature Climate Change |date=November 2012 |volume=2 |issue=11 |pages=821–824 |doi=10.1038/nclimate1533|bibcode=2012NatCC...2..821J |language=en}}</ref> duke i bërë kushtet njëkohësisht më të përshtatshme për llojet invazive tropikale.<ref>{{cite journal |last1=Grossowicz |first1=Michal |last2=Bialik |first2=Or M. |last3=Shemesh |first3=Eli |last4=Tchernov |first4=Dan |last5=Vonhof |first5=Hubert B. |last6=Sisma-Ventura |first6=Guy |title=Ocean warming is the key filter for successful colonization of the migrant octocoral Melithaea erythraea (Ehrenberg, 1834) in the Eastern Mediterranean Sea |journal=PeerJ |date=2020-06-24 |volume=8 |article-number=e9355 |doi=10.7717/peerj.9355|pmid=32612887 |pmc=7320722 |doi-access=free |display-authors=4 |language=en}}</ref>
+
+== Biogjeokimia ==
+Përkundër biodiversitetit të tij të madh, përqendrimet e klorofilit dhe lëndëve ushqyese në Detin Mesdhe janë shumë të ulëta, duke e bërë atë një nga rajonet më oligotrofike të oqeanit në botë. Deti Mesdhe përshtatet me përkufizimin e një shkretëtire, në kuptimin që përmbajtja e tij ushqyese është e ulët, çka e vështirëson zhvillimin e bimëve dhe kafshëve.
+
+Ka gradiente të thella në përqendrimet e lëndëve ushqyese, klorofilit dhe produktivitetit parësor në Mesdhe. Përqendrimet e lëndëve ushqyese në pjesën perëndimore të pellgut janë rreth dyfishi i atyre në pellgun lindor. Deti Albor, pranë Ngushticës së Gjibraltarit, ka një produktivitet parësor ditor prej rreth 0,25 g karbon/m<sup>2</sup>/ditë, ndërsa pellgu lindor ka një produktivitet mesatar ditor prej 0,16 g/m<sup>2</sup>/ditë.<ref name="Uitz Stramski Gentili DOrtenzio 2012 p.">{{cite journal | last1=Uitz | first1=Julia | last2=Stramski | first2=Dariusz | last3=Gentili | first3=Bernard | last4=D'Ortenzio | first4=Fabrizio | last5=Claustre | first5=Hervé | title=Estimates of phytoplankton class-specific and total primary production in the Mediterranean Sea from satellite ocean color observations | journal=Global Biogeochemical Cycles | volume=26 | issue=2 | date=2012 | issn=0886-6236 | doi=10.1029/2011GB004055 | article-number=2011GB004055 | bibcode=2012GBioC..26.2024U | language=en}}</ref> Për këtë arsye, pjesa lindore e Mesdheut quhet "ultraoligotrofike". Zonat produktive të Mesdheut janë të pakta dhe të vogla. Produktiviteti i lartë ndodh në zonat bregdetare, pranë grykëderdhjeve të lumenjve, të cilat janë furnizuesit kryesorë të lëndëve ushqyese të tretura. Gjiri i Lionit ka produktivitet relativisht të lartë sepse është një zonë me përzierje vertikale të lartë, që sjell lëndë ushqyese në sipërfaqe.<ref name="Bosc, E. 2004">{{cite journal | last1=Bosc | first1=E. | last2=Bricaud | first2=A. | last3=Antoine | first3=D. | title=Seasonal and interannual variability in algal biomass and primary production in the Mediterranean Sea, as derived from 4 years of SeaWiFS observations | journal=Global Biogeochemical Cycles | volume=18 | issue=1 | date=2004 | issn=0886-6236 | doi=10.1029/2003GB002034 | article-number=2003GB002034 | bibcode=2004GBioC..18.1005B | language=en}}</ref>
+
+Produktiviteti parësor në Mesdhe shënon gjithashtu një ndryshueshmëri të fortë sezonale. Në dimër, erërat dhe reshjet e forta mbi pellg krijojnë përzierje vertikale, duke sjellë lëndë ushqyese nga ujërat e thella në sipërfaqe.<ref>{{cite journal | last1=Lebeaupin Brossier | first1=Cindy | last2=Béranger | first2=Karine | last3=Deltel | first3=Charles | last4=Drobinski | first4=Philippe | title=The Mediterranean response to different space–time resolution atmospheric forcings using perpetual mode sensitivity simulations | journal=Ocean Modelling | publisher=Elsevier BV | volume=36 | issue=1–2 | year=2011 | issn=1463-5003 | doi=10.1016/j.ocemod.2010.10.008 | pages=1–25| bibcode=2011OcMod..36....1L | language=en}}</ref> Mes marsit dhe prillit, pranvera ofron kompromisin ideal mes intensitetit të dritës dhe përqendrimit të lëndëve ushqyese për "lulëzimin pranveror". Në verë, temperaturat e larta atmosferike ngrohin ujërat sipërfaqësore, duke izoluar praktikisht sipërfaqen nga pjesa tjetër e kolonës së ujit dhe duke kufizuar shkëmbimin e lëndëve ushqyese. Si pasojë, produktiviteti parësor është shumë i ulët mes qershorit dhe tetorit.<ref>{{cite journal | last1=D'Ortenzio | first1=F. | last2=Ribera d'Alcalà | first2=M. | title=On the trophic regimes of the Mediterranean Sea: a satellite analysis | journal=Biogeosciences | publisher=Copernicus GmbH | volume=6 | issue=2 | date=2009-02-05 | issn=1726-4189 | doi=10.5194/bg-6-139-2009 | doi-access=free | pages=139–148| bibcode=2009BGeo....6..139D | language=en}}</ref><ref name="Bosc, E. 2004" />
+
+Ekspeditat oqeanografike zbuluan një tipar karakteristik të biogjeokimisë së Detit Mesdhe: pjesa më e madhe e prodhimit të klorofilit nuk ndodh në sipërfaqe, por në ujëra nën-sipërfaqësorë mes 80 dhe 200 m thellësi.<ref>{{cite journal | last1=Moutin | first1=T. | last2=Van Wambeke | first2=F. | last3=Prieur | first3=L. | title=Introduction to the Biogeochemistry from the Oligotrophic to the Ultraoligotrophic Mediterranean (BOUM) experiment | journal=Biogeosciences | publisher=Copernicus GmbH | volume=9 | issue=10 | date=2012-10-08 | issn=1726-4189 | doi=10.5194/bg-9-3817-2012 | doi-access=free | pages=3817–3825| bibcode=2012BGeo....9.3817M | language=en}}</ref> Një tipar tjetër kryesor i Mesdheut është raporti i tij i lartë azot-fosfor (N:P). Redfield tregoi se shumica e oqeaneve të botës kanë një raport mesatar N:P rreth 16. Mesdheu, megjithatë, ka një raport mesatar N:P mes 24 dhe 29, çka nënkupton një kufizim të gjerë fosfori.<ref>{{cite journal | last1=Berland | first1=Br | last2=Bonin | first2=Dj | last3=Maestrini | first3=Sy | title=Azote ou phosphore ? Considérations sur le paradoxe nutritionnel de la mer méditerranée | journal=Oceanologica Acta | publisher=Gauthier-Villars | volume=3 | issue=1 | date=1980-01-01 | issn=0399-1784 | pages=135–141 | url=https://archimer.ifremer.fr/doc/00121/23257/ | language=fr | access-date=2024-05-01 | archive-date=2024-05-01 | archive-url=https://web.archive.org/web/20240501212014/https://archimer.ifremer.fr/doc/00121/23257/ | url-status=live}}</ref><ref>{{cite journal | last1=Bethoux | first1=J.P. | last2=Morin | first2=P. | last3=Madec | first3=C. | last4=Gentili | first4=B. | title=Phosphorus and nitrogen behaviour in the Mediterranean Sea | journal=Deep Sea Research Part A. Oceanographic Research Papers | publisher=Elsevier BV | volume=39 | issue=9 | year=1992 | issn=0198-0149 | doi=10.1016/0198-0149(92)90053-v | pages=1641–1654| bibcode=1992DSRA...39.1641B | language=en}}</ref><ref>{{cite journal | last1=Kress | first1=Nurit | last2=Herut | first2=Barak | title=Spatial and seasonal evolution of dissolved oxygen and nutrients in the Southern Levantine Basin (Eastern Mediterranean Sea): chemical characterization of the water masses and inferences on the N:P ratios | journal=Deep Sea Research Part I: Oceanographic Research Papers | publisher=Elsevier BV | volume=48 | issue=11 | year=2001 | issn=0967-0637 | doi=10.1016/s0967-0637(01)00022-x | pages=2347–2372| bibcode=2001DSRI...48.2347K | language=en}}</ref><ref>{{cite journal | last1=Krom | first1=M.D. | last2=Thingstad | first2=T.F. | last3=Brenner | first3=S. | last4=Carbo | first4=P. | last5=Drakopoulos | first5=P. | last6=Fileman | first6=T.W. | last7=Flaten | first7=G.A.F. | last8=Groom | first8=S. | last9=Herut | first9=B. | last10=Kitidis | first10=V. | last11=Kress | first11=N. | last12=Law | first12=C.S. | last13=Liddicoat | first13=M.I. | last14=Mantoura | first14=R.F.C. | last15=Pasternak | first15=A. | last16=Pitta | first16=P. | last17=Polychronaki | first17=T. | last18=Psarra | first18=S. | last19=Rassoulzadegan | first19=F. | last20=Skjoldal | first20=E.F. | last21=Spyres | first21=G. | last22=Tanaka | first22=T. | last23=Tselepides | first23=A. | last24=Wassmann | first24=P. | last25=Wexels Riser | first25=C. | last26=Woodward | first26=E.M.S. | last27=Zodiatis | first27=G. | last28=Zohary | first28=T. | title=Summary and overview of the CYCLOPS P addition Lagrangian experiment in the Eastern Mediterranean | journal=Deep Sea Research Part II: Topical Studies in Oceanography | publisher=Elsevier BV | volume=52 | issue=22–23 | year=2005 | issn=0967-0645 | doi=10.1016/j.dsr2.2005.08.018 | pages=3090–3108 | bibcode=2005DSRII..52.3090K |display-authors=4 | language=en}}</ref>
+
+Për shkak të produktivitetit të tij të ulët, grupimet e planktonit në Mesdhe dominohen nga organizma të vegjël si pikofitoplanktoni dhe bakteret.<ref>{{cite journal | last1=Sammartino | first1=M. | last2=Di Cicco | first2=A. | last3=Marullo | first3=S. | last4=Santoleri | first4=R. | title=Spatio-temporal variability of micro-, nano- and pico-phytoplankton in the Mediterranean Sea from satellite ocean colour data of SeaWiFS | journal=Ocean Science | publisher=Copernicus GmbH | volume=11 | issue=5 | date=2015-09-25 | issn=1812-0792 | doi=10.5194/os-11-759-2015 | doi-access=free | pages=759–778| bibcode=2015OcSci..11..759S | language=en}}</ref><ref name="Uitz Stramski Gentili DOrtenzio 2012 p." />
+
+== Gjeologjia ==
+Historia gjeologjike e Detit Mesdhe është komplekse. Me bazë kore oqeanike, pellgu i detit dikur mendohej të ishte një mbetje tektonike e Oqeanit të lashtë Tetis; tani dihet se është një pellg strukturalisht më i ri, i quajtur Neotetisi, i cili u formua fillimisht nga përafrimi i Pllakës Afrikane dhe Pllakës Euroaziatike gjatë fundit të Triasikut dhe fillimit të Jurasikut. Pasi është një trup uji pothuajse tërësisht i mbyllur nga toka në një klimë normalisht të thatë, Mesdheu i nënshtrohet avullimit intensiv dhe grumbullimit të evaporiteve. Kriza e kripshmërisë mesiniane filloi rreth gjashtë milionë vjet më parë kur Mesdheu u mbyll nga toka dhe më pas u tha pothuajse plotësisht. Në fund të pellgut janë grumbulluar depozita kripe prej më shumë se një milion kilometra kub, disa prej tyre me trashësi mbi tre kilometra.<ref>{{cite journal |doi=10.1111/j.1365-3091.2008.01031.x |title=Decoding the Mediterranean salinity crisis |journal=Sedimentology |volume=56 |issue=1 |pages=95–136 |year=2009 |last1=Ryan |first1=William B. F. |bibcode=2009Sedim..56...95R |s2cid=52266741 |language=en}}</ref><ref>{{cite journal|author1=William Ryan|title=Modeling the magnitude and timing of evaporative drawdown during the Messinian salinity crisis|journal=Stratigraphy|date=2008|volume=5|issue=3–4|page=229|doi=10.29041/strat.05.3.02 |bibcode=2008Strat...5..227R |url=http://eesc.ldeo.columbia.edu/courses/w4937/Readings/Ryan_Messinian_Stratigraphy_2008.pdf|access-date=2014-11-05|archive-date=2016-03-04|archive-url=https://web.archive.org/web/20160304093103/http://eesc.ldeo.columbia.edu/courses/w4937/Readings/Ryan_Messinian_Stratigraphy_2008.pdf|url-status=dead|language=en}}</ref>
+
+Shkencëtarët vlerësojnë se deti u mbush për herë të fundit rreth 5,3 milionë vjet më parë, në më pak se dy vjet, nga Përmbytja Zankleane. Uji hyri nga Oqeani Atlantik përmes një porte të re, sot e njohur si Ngushtica e Gjibraltarit, me një shkallë të vlerësuar rreth një mijë herë më të madhe se rrjedha aktuale e Lumit Amazonë.<ref name="GCetal2009">{{cite journal |doi=10.1038/nature08555 |pmid=20010684 |title=Catastrophic flood of the Mediterranean after the Messinian salinity crisis |journal=Nature |volume=462 |issue=7274 |pages=778–781 |year=2009 |last1=Garcia-Castellanos |first1=D. |last2=Estrada |first2=F. |last3=Jiménez-Munt |first3=I. |last4=Gorini |first4=C. |last5=Fernàndez |first5=M. |last6=Vergés |first6=J. |last7=De Vicente |first7=R. |bibcode=2009Natur.462..778G |s2cid=205218854|display-authors=4|hdl=10261/19509 |hdl-access=free |language=en}}</ref>
+
+Deti Mesdhe ka thellësi mesatare 1.500 m dhe pika më e thellë e regjistruar është 5.267 m, në Thellësinë Kalipso të Detit Jon. Bregdeti shtrihet për 46.000 km. Një kreshtë e cekët nënujore (Ngushtica e Siçilisë) mes ishullit të Siçilisë dhe bregut të Tunizisë e ndan detin në dy nënrajone kryesore: Mesdheu Perëndimor, me sipërfaqe rreth 850.000 km<sup>2</sup>, dhe Mesdheu Lindor, me rreth 1.650.000 km<sup>2</sup>. Zonat bregdetare kanë burime karstike nënujore, ose ''vrulja'', të cilat lëshojnë ujë nëntokësor të presuar nga poshtë sipërfaqes; uji i lëshuar zakonisht është i freskët, e ndonjëherë edhe termal.<ref name="LaMoreaux2001">{{cite book |chapter-url=https://books.google.com/books?id=sjEoBmfUka0C&pg=PA58 |chapter=Geologic/Hydrogeologic Setting and Classification of Springs |page=57 |title=Springs and Bottled Waters of the World: Ancient History, Source, Occurrence, Quality and Use |first=Philip |last=Elmer LaMoreaux |year=2001 |publisher=Springer |isbn=978-3-540-61841-6 |access-date=2020-09-28 |archive-date=2024-01-01 |archive-url=https://web.archive.org/web/20240101145303/https://books.google.com/books?id=sjEoBmfUka0C&pg=PA58#v=onepage&q&f=false |url-status=live |language=en}}</ref><ref>{{cite journal|url=http://zgs.zrc-sazu.si/Portals/8/Geografski_obzornik/go_2004_2.pdf|journal=Geografski Obzornik|year=2004|volume=51|issue=2|issn=0016-7274|language=sl|first=Jože|last=Žumer|title=Odkritje podmorskih termalnih izvirov|trans-title=Discovery of submarine thermal springs|pages=11–17|access-date=2012-05-04|archive-date=2016-03-04|archive-url=https://web.archive.org/web/20160304001643/http://zgs.zrc-sazu.si/Portals/8/Geografski_obzornik/go_2004_2.pdf|url-status=live}}</ref>
+
+=== Kriza e kripshmërisë mesiniane ===
+[[File:Etapa3muda.jpg|thumb|upright=1.2|Kriza e kripshmërisë mesiniane, para Përmbytjes Zankleane]]
+
+Gjatë kohërave mezozoike dhe kenozoike, ndërsa qoshja veriperëndimore e Afrikës konvergonte drejt Iberisë, ajo ngriti vargmalet Betik-Rif përgjatë Iberisë jugore dhe Afrikës veriperëndimore. Aty, zhvillimi i pellgjeve intramontane Betik dhe Rif krijoi dy porta detare paralele mes Oqeanit Atlantik dhe Detit Mesdhe. Të quajtura Korridoret Betik dhe Rifian, ato u mbyllën gradualisht gjatë miocenit të mesëm dhe të vonë, ndoshta disa herë.<ref>{{cite journal |last1=de la Vara |first1=Alba |last2=Topper |first2=Robin P.M. |last3=Meijer |first3=Paul Th. |last4=Kouwenhoven |first4=Tanja J. |year=2015 |title=Water exchange through the Betic and Rifian corridors prior to the Messinian Salinity Crisis: A model study |journal=Paleoceanography |volume=30 |issue=5 |pages=548–557 |doi=10.1002/2014PA002719 |bibcode=2015PalOc..30..548D |hdl=1874/326590 |s2cid=134905445 |hdl-access=free |language=en}}</ref> Në miocenin e vonë, mbyllja e Korridorit Betik shkaktoi të ashtuquajturën "Krizë e kripshmërisë mesiniane" (MSC), të karakterizuar nga depozitimi i një sekuence të trashë evaporitike — me depozita kripe deri 2 km të trasha në Detin Levantin — dhe nga një rënie masive e nivelit të ujit në pjesën më të madhe të pellgut. Kjo ngjarje ishte për një kohë të gjatë objekt polemikash shkencore të mprehta, tashmë shumë të qetësuara,<ref>Briand, F. (ed.) (2008). The Messinian Salinity Crisis Mega-Deposits to Microbiology – A consensus report. CIESM Publishers, Paris, Monaco. 168 p. [https://www.researchgate.net/publication/240612581] (anglisht)</ref> lidhur me sekuencën, shtrirjen gjeografike dhe proceset që çuan te faciet evaporitike e depozitat e kripës. Fillimi i MSC-së u vlerësua kohët e fundit astronomikisht në 5,96 milionë vjet më parë, dhe zgjati rreth 630.000 vjet, deri rreth 5,3 milionë vjet më parë.<ref>{{cite journal |title=Astrochronology for the Messinian Sorbas basin (SE Spain) and orbital (precessional) forcing for evaporite cyclicity |year=2001 |doi=10.1016/S0037-0738(00)00171-8 |first1=W. |last1=Krijgsman |first2=A.R. |last2=Fortuin |first3=F.J. |last3=Hilgen |first4=F.J. |last4=Sierro |journal=Sedimentary Geology |volume=140 |issue=1 |pages=43–60 |bibcode=2001SedG..140...43K |hdl=1874/1632 |url=https://dspace.library.uu.nl/bitstream/1874/1632/1/Krijgsman01.pdf |archive-date=2024-01-01 |access-date=2019-09-23 |archive-url=https://web.archive.org/web/20240101150300/https://dspace.library.uu.nl/bitstream/handle/1874/1632/Krijgsman01.pdf;jsessionid=EB9895C5447EC3BC0694C40094EE6BBE?sequence=1 |url-status=dead |language=en}}</ref>
+
+Pas tërheqjes fillestare të ujit dhe rimbushjes, ndodhën më shumë episode — numri total i të cilëve mbetet i diskutueshëm — tërheqjesh dhe rimbushjesh të detit gjatë MSC-së. Ajo mori fund kur Oqeani Atlantik rimbushi pellgun për herë të fundit — duke krijuar Ngushticën e Gjibraltarit dhe duke shkaktuar Përmbytjen Zankleane — në fund të miocenit (5,33 milionë vjet më parë). Disa kërkime kanë sugjeruar se një cikël tharje-përmbytje-tharje mund të jetë përsëritur disa herë, çka do të shpjegonte disa ngjarje të grumbullimit të mëdha sasish kripe.<ref>{{cite journal|author1=Gargani J., Rigollet C.|title=Mediterranean Sea level variations during the Messinian Salinity Crisis.|journal=Geophysical Research Letters|date=2007|volume=34|issue=L10405|page=L10405|article-number=2007GL029885 |doi=10.1029/2007GL029885|bibcode=2007GeoRL..3410405G|s2cid=128771539|doi-access=free|language=en}}</ref><ref>{{cite journal|author1=Gargani J.|author2=Moretti I.|author3=Letouzey J.|title=Evaporite accumulation during the Messinian Salinity Crisis: The Suez Rift Case.|journal=Geophysical Research Letters|date=2008|volume=35|issue=2|page=L02401|doi=10.1029/2007gl032494|bibcode=2008GeoRL..35.2401G|s2cid=129573384|url=https://hal.archives-ouvertes.fr/hal-00357241/file/2007GL032494.pdf|access-date=2021-05-19|archive-date=2021-05-07|archive-url=https://web.archive.org/web/20210507122326/https://hal.archives-ouvertes.fr/hal-00357241/file/2007GL032494.pdf|url-status=live|language=en}}</ref> Studime më të reja, megjithatë, tregojnë se tharja dhe rimbushja e përsëritur ka pak të ngjarë nga pikëpamja gjeodinamike.<ref>{{cite journal |last1=Govers |first1=Rob |title=Choking the Mediterranean to dehydration: The Messinian salinity crisis |journal=Geology |date=February 2009 |volume=37 |issue=2 |pages=167–170 |doi=10.1130/G25141A.1 |bibcode=2009Geo....37..167G |s2cid=34247931 |language=en}}</ref><ref name="GCV">{{cite journal |last1=Garcia-Castellanos |first1=D. |last2=Villaseñor |first2=A. |title=Messinian salinity crisis regulated by competing tectonics and erosion at the Gibraltar arc |journal=Nature |date=2011-12-15 |volume=480 |issue=7377 |pages=359–363 |doi=10.1038/nature10651 |pmid=22170684 |bibcode=2011Natur.480..359G |s2cid=205227033 |language=en}}</ref>
+
+=== Tharja dhe shkëmbimet e florës e faunës ===
+Porta aktuale drejt Atlantikut, Ngushtica e Gjibraltarit, u formua në pliocenin e hershëm përmes Përmbytjes Zankleane. Siç u përmend, ekzistonin dy porta më të hershme: Korridori Betik, përgjatë Spanjës jugore, dhe Korridori Rifian, përgjatë Marokut verior. Betiku u mbyll rreth 6 milionë vjet më parë, duke shkaktuar Krizën e kripshmërisë mesiniane (MSC); Rifiani, ose ndoshta të dyja portat, u mbyllën gjatë tortonianit të hershëm, duke shkaktuar një "krizë kripshmërie tortoniane" (nga 11,6 deri 7,2 milionë vjet më parë), shumë kohë para MSC-së dhe zgjatur shumë më gjatë. Të dyja "krizat" rezultuan në lidhje të gjera mes tokave kryesore të Afrikës dhe Evropës, çka lejoi migrimin e florës dhe faunës — sidomos gjitarëve të mëdhenj, përfshirë primatët — mes dy kontinenteve.
+
+Sot, avullimi i ujit të detit sipërfaqësor (dalja) është më i madh se furnizimi (hyrja) me ujë të freskët nga reshjet dhe sistemet bregdetare të drenazhimit, duke shkaktuar që kripshmëria e Mesdheut të jetë shumë më e lartë se ajo e Atlantikut — aq shumë sa ujërat më të kripura mesdhetare fundosen nën ujërat hyrëse nga Atlantiku, duke shkaktuar një rrjedhje me dy shtresa përmes Ngushticës së Gjibraltarit: pra, një rrymë nënujore dalëse uji të ngrohtë e të kripur mesdhetar, e balancuar nga një rrymë sipërfaqësore hyrëse uji oqeanik më të ftohtë e më pak të kripur nga Atlantiku. Në vitet 1920, Herman Sörgel propozoi ndërtimin e një dige hidroelektrike (projekti Atlantropa) përgjatë ngushticës, duke përdorur rrymën hyrëse për të siguruar një sasi të madhe energjie hidroelektrike.<ref>Politische Geographien Europas: Annäherungen an ein umstrittenes Konstrukt, Anke Strüver, LIT Verlag Münster, 2005, p. 43 (gjermanisht)</ref>
+
+== Paleoklima ==
+Për shkak të gjerësisë gjeografike dhe pozitës së tij tokë-brendshme, Mesdheu është veçanërisht i ndjeshëm ndaj ndryshimeve klimatike të shkaktuara astronomikisht, të cilat janë dokumentuar mirë në regjistrin e tij sedimentar. Meqenëse Mesdheu i nënshtrohet depozitimit të pluhurit eolian nga Sahara gjatë periudhave të thata, ndërsa hyrjet detritale lumore mbizotërojnë gjatë atyre të lagështa, sekuencat sapropel-mbajtëse mesdhetare ofrojnë informacion klimatik me rezolucion të lartë. Këto të dhëna janë përdorur për të rindërtuar shkallë kohore të kalibruara astronomikisht për 9 milionë vjetët e fundit të historisë së Tokës, duke ndihmuar në përcaktimin e kohës së përmbysjeve gjeomagnetike të kaluara.<ref>{{cite journal |author=F.J. Hilgen |title=Astronomical calibration of Gauss to Matuyama sapropels in the Mediterranean and implication for the Geomagnetic Polarity Time Scale |journal=Earth and Planetary Science Letters |volume=104 |year=1991 |issue=2–4 |pages=226–244 |doi=10.1016/0012-821X(91)90206-W |bibcode=1991E&PSL.104..226H |hdl=1874/19041 |url=http://igitur-archive.library.uu.nl/geo/2007-0119-200857/hilgen_91_astronomical.pdf |access-date=2009-12-04 |url-status=dead |archive-url=https://web.archive.org/web/20110724171928/http://igitur-archive.library.uu.nl/geo/2007-0119-200857/hilgen_91_astronomical.pdf |archive-date=2011-07-24 |language=en}}</ref>
+== Biodiversiteti ==
+Ndryshe nga rrymat oqeanike shumëdrejtimshe të oqeaneve të hapura, biodiversiteti në Detin Mesdhe është i qëndrueshëm për shkak të natyrës së mbyllur, të fortë e delikate të rrymave, e cila është e favorshme për jetën, madje edhe për format më të vogla makroskopike të jetës vullkanike. Ekosistemi detar i qëndrueshëm i Detit Mesdhe dhe temperatura e detit sigurojnë një mjedis ushqyes për jetën në det të thellë, duke garantuar njëkohësisht një ekosistem ujor të balancuar, të mbrojtur nga faktorë të jashtëm oqeanikë të thellë. Vlerësohet se ka mbi 17.000 specie detare në Detin Mesdhe, me biodiversitet detar përgjithësisht më të lartë në zonat bregdetare dhe shelfet kontinentale, i cili zvogëlohet me thellësinë.<ref>Coll, Marta, et al., "The biodiversity of the Mediterranean Sea: estimates, patterns, and threats". ''PLOS ONE'' 5.8, 2010. (anglisht)</ref>
+
+Si rezultat i tharjes së detit gjatë Krizës së kripshmërisë mesiniane,<ref>Hsu K.J., "When the Mediterranean Dried Up" ''Scientific American'', Vol. 227, December 1972, p. 32 (anglisht)</ref><ref name=":4">{{Cite web |date=2020-07-03 |title=7 Facts You Didn't Know About Mediterranean |url=https://www.maritimebusinessworld.com/7-facts-you-didnt-know-about-mediterranean-1462h.htm |access-date=2025-06-20 |website=Maritime Business World |language=tr}}</ref><ref name=":5">{{Cite web |title=Mediterranean Sea Ecosystem {{!}} EBSCO Research Starters |url=https://www.ebsco.com/research-starters/science/mediterranean-sea-ecosystem |access-date=2025-06-20 |website=www.ebsco.com |language=en}}</ref> biota detare e Mesdheut buron kryesisht nga Oqeani Atlantik. Atlantiku i Veriut është dukshëm më i ftohtë dhe më i pasur me lëndë ushqyese se Mesdheu,<ref name=":5" /><ref name=":4" /> dhe jeta detare e Mesdheut është dashur të përshtatet me kushtet e tij të ndryshme gjatë pesë milionë vjetëve që nga rimbushja e pellgut.<ref name=":4" />
+
+[[Deti Albor]] është një zonë kalimtare mes dy deteve, që përmban një përzierje speciesh mesdhetare dhe atlantike.<ref>{{Cite journal |last1=Cristina |first1=Ruiz |last2=Domingo |first2=Samo |last3=José Luís |first3=Ruiz |last4=Cristina |first4=Ciércoles |last5=Luís |first5=Simarro |title=Exploring diversity and distribution of demersal fish species from the Northern Alboran Sea and Gulf of Vera (Western Mediterranean Sea) |journal=Frontiers in Marine Science |date=2016 |volume=3 |page=107 |doi=10.3389/conf.fmars.2016.05.00107 |bibcode=2016FrMaS...3Q.107C |doi-access=free |language=en}}</ref> [[Foka e Mesdheut|Fokat e Mesdheut]] jetojnë në Detin Egje, në Greqi.<ref>{{Citation |last1=Dendrinos |first1=Panagiotis |chapter=The Mediterranean Monk Seal (Monachus monachus) in the Aegean Sea. "The Living Myth of the Sirens" |date=2024 |title=The Aegean Sea Environment: The Biodiversity of the Natural System |pages=211–233 |editor-last=Anagnostou |editor-first=Christos L. |chapter-url=https://doi.org/10.1007/698_2022_897 |access-date=2025-06-20 |place=Cham |publisher=Springer Nature Switzerland |language=en |doi=10.1007/698_2022_897 |isbn=978-3-031-59415-1 |last2=Adamantopoulou |first2=Styliani |last3=Tounta |first3=Eleni |last4=Koemtzopoulos |first4=Kimon |last5=Karamanlidis |first5=Alexandros A. |editor2-last=Kostianoy |editor2-first=Andrey G. |editor3-last=Mariolakos |editor3-first=Ilias D. |editor4-last=Panayotidis |editor4-first=Panayotis|chapter-url-access=subscription}}</ref>
+
+Deri në vitet 1980 ekzistonte një popullatë e qëndrueshme balenash vrasëse në Mesdhe, e cila u zhduk, ndoshta për shkak të ekspozimit afatgjatë ndaj PCB-ve. Ka ende vëzhgime vjetore të balenave vrasëse endacake.<ref>Carrington, Damian. [https://www.theguardian.com/environment/2016/jan/14/uks-last-resident-killer-whales-doomed-to-extinction "UK's last resident killer whales 'doomed to extinction'"] {{Webarchive|url=https://web.archive.org/web/20190220003210/https://www.theguardian.com/environment/2016/jan/14/uks-last-resident-killer-whales-doomed-to-extinction |date=2019-02-20}}, ''The Guardian'', London, 14 January 2016. Retrieved 17 February 2019. (anglisht)</ref>
+
+== Çështje mjedisore ==
+Për 4.000 vjet, veprimtaria njerëzore ka transformuar pjesën më të madhe të Mesdheut evropian, dhe "humanizimi i peizazhit" u përputh me shfaqjen e klimës aktuale mesdhetare. Imazhi i një nocioni të thjeshtëzuar, deterministik-mjedisor, të një parajse mesdhetare në lashtësi, e shkatërruar nga qytetërimet e mëvonshme, daton të paktën që në shekullin XVIII dhe ishte për shekuj me radhë modë në rrethet arkeologjike e historike. Bazuar në një shumëllojshmëri të gjerë metodash — dokumente historike, analizë të marrëdhënieve tregtare, sedimente të fushave përmbytëse, polen, unaza druri dhe analiza të tjera arkeometrike, si dhe studime popullsie — puna e Alfred Thomas Grove-it dhe Oliver Rackham-it mbi "Natyrën e Evropës Mesdhetare" e sfidon këtë bindje të përhapur se Evropa Mesdhetare ishte një "Eden i Humbur", një rajon dikur pjellor e i pyllëzuar, që ishte degraduar e shkretëzuar gradualisht nga keqmenaxhimi njerëzor. Bindja rrjedh më shumë nga fakti që peizazhi i sotëm nuk arrin nivelin e së kaluarës imagjinare klasike, të idealizuar nga artistë, poetë dhe shkencëtarë të Iluminizmit të hershëm modern.<ref name="Yale" />
+
+[[File:Palomares H-Bomb Incident.jpg|thumb|Bomba termonukleare që ra në det, rikuperuar pranë Palomares, Almeria, 1966]]
+Evolucioni historik i klimës, bimësisë dhe peizazhit në Evropën Jugore, nga kohët parahistorike deri sot, është shumë më kompleks dhe ka kaluar ndryshime të ndryshme. Për shembull, disa nga shpyllëzimet kishin ndodhur tashmë para epokës romake. Ndërsa në epokën romake ndërmarrjet e mëdha, si ''latifundia'', kujdeseshin në mënyrë efektive për pyjet dhe bujqësinë, efektet më të mëdha të shpopullimit erdhën me rënien e perandorisë. Shpyllëzimi më i madh mund të ketë ndodhur në kohët moderne — modelet e mëvonshme të përdorimit ishin gjithashtu mjaft të ndryshme, p.sh. në Italinë jugore dhe veriore. Gjithashtu, klima ka qenë zakonisht e paqëndrueshme dhe ka dëshmi për "epoka të vogla akulli" të ndryshme, të lashta e moderne,<ref>Jean M. Grove (2004). ''Little Ice Ages: Ancient and Modern''. Taylor & Francis. (anglisht)</ref> dhe mbulesa bimore u përshtat me ekstreme të ndryshme dhe u bë e qëndrueshme ndaj modeleve të ndryshme të veprimtarisë njerëzore.<ref name="Yale" />
+
+Vetë Grove e konsideroi që veprimtaria njerëzore mund të jetë shkaku i ndryshimit klimatik. Shkenca moderne ka qenë në gjendje të sigurojë dëshmi të qarta për këtë. Diversiteti i gjerë ekologjik tipik i Evropës Mesdhetare bazohet kryesisht në sjelljen njerëzore, pasi ka qenë dhe është i lidhur ngushtë me modelet e përdorimit njerëzor.<ref name="Yale" /> Diversiteti u forcua nga shkëmbimi dhe ndërveprimi i gjerë i bujqësisë vendase afatgjatë e shumë të larmishme, transporti e marrëdhëniet e intensifikuara tregtare, dhe ndërveprimi me vendbanimet, kullotat dhe përdorime të tjera të tokës. Ndryshimet më të mëdha të shkaktuara nga njeriu, megjithatë, erdhën pas Luftës së Dytë Botërore, në përputhje me "sindromën e viteve 1950",<ref>Christian Pfister (editor), ''Das 1950er Syndrom: Der Weg in die Konsumgesellschaft'', Berne 1995 (gjermanisht)</ref> pasi popullatat rurale në të gjithë rajonin braktisën ekonomitë tradicionale të mbijetesës. Grove dhe Rackham sugjerojnë se banorët vendas i braktisën modelet tradicionale bujqësore dhe u bënë në vend të tyre agjentë të krijimit të peizazhit turistik. Kjo rezultoi në formacione më uniforme, në shkallë të gjerë. Ndër kërcënimet e tjera aktuale kryesore për peizazhet mesdhetare janë mbizhvillimi i zonave bregdetare, braktisja e maleve dhe, siç u përmend, humbja e larmisë përmes reduktimit të veprimtarive tradicionale bujqësore.<ref name="Yale">The Nature of Mediterranean Europe: An Ecological History, by Alfred Thomas Grove, Oliver Rackham, Yale University Press, 2003, [http://yalepress.yale.edu/book.asp?isbn=9780300100556 review at Yale university press] {{Webarchive|url=https://web.archive.org/web/20141006140735/http://yalepress.yale.edu/book.asp?isbn=9780300100556 |date=2014-10-06}} [https://muse.jhu.edu/login?auth=0&type=summary&url=/journals/journal_of_interdisciplinary_history/v032/32.3fagan.pdfThe Nature of Mediterranean Europe: An Ecological History (review)] {{Webarchive|url=https://web.archive.org/web/20141006073018/https://muse.jhu.edu/login?auth=0&type=summary&url=%2Fjournals%2Fjournal_of_interdisciplinary_history%2Fv032%2F32.3fagan.pdfThe |date=2014-10-06}}, Brian M. Fagan, Journal of Interdisciplinary History, Volume 32, Number 3, Winter 2002, pp. 454–455 (anglisht)</ref>
+
+=== Rreziqet natyrore ===
+[[File:Aerial image of Stromboli (view from the northeast).jpg|thumb|upright=1.1|Vullkani Stromboli, në Itali]]
+Rajoni mesdhetar është një nga zonat detare gjeologjikisht më aktive në botë, duke u vendosur mbi një zonë kufitare tektonike komplekse mes pllakave evropiane dhe afrikane. Gjeologjia e rajonit, me praninë e kufijve të pllakave dhe faqeve aktive, e bën atë të prirur ndaj tërmeteve, cunameve dhe rrëshqitjeve nënujore mjaft të shpeshta, të cilat mund të kenë pasoja shkatërruese në zonat bregdetare të populluara dendur. Përveç kësaj, ndryshimi klimatik po intensifikon tani shpeshtësinë dhe pasojat e stuhive dhe përmbytjeve bregdetare, duke vënë në rrezik shtesë jetën dhe pronën njerëzore.<ref>Marine hazards and coastal vulnerabilities in the Mediterranean - realities and perceptions. 2024. pp. 5–25 in ''CIESM Monograph 52'' (F. Briand, Ed.) ISSN 1726-5886 [https://www.researchgate.net/publication/388029017] (anglisht)</ref>
+
+Tërmetet janë relativisht të shpeshtë në Pellgun Mesdhetar, duke filluar 70 milionë vjet më parë në Mesdhe. Ata vazhdojnë edhe sot. Nga kufiri i pllakave tektonike, territori mesdhetar ndahet në dy pjesë të dallueshme: Mesdheu Lindor (nga Italia deri në Turqi), i karakterizuar nga seizmicitet i lartë, me tërmete që mund të arrijnë magnitudën 7,5 sipas shkallës Rihter dhe me mbi 350 cunami të regjistruar, dhe Mesdheu Perëndimor. Gjatë shekullit XX u regjistruan 198.548 viktima tërmetesh.<ref>{{Cite web |title=Natural hazards in the Mediterranean Basin |url=https://www.mededuc.eu/en/resource-center/pedagogical-reference/22-natural-hazards-in-the-mediterranean-basin.html |access-date=2025-06-20 |website=www.mededuc.eu |archive-date=2025-08-23 |archive-url=https://web.archive.org/web/20250823071421/https://www.mededuc.eu/en/resource-center/pedagogical-reference/22-natural-hazards-in-the-mediterranean-basin.html |url-status=dead |language=en}}</ref>
+
+Shpërthimet vullkanike gjithashtu nuk janë të rralla dhe kanë lënë gjurmë në regjistrimet historike dhe arkeologjike. Ndër më të mëdhatë janë shpërthimi i Theras, i datuar rreth vitit 1600 p.e.s., dhe shpërthimet e [[Vezuvi|Vezuvit]] në vitin 217 p.e.s. dhe në vitin 79 e.s. — ky i fundit i njohur veçanërisht për shkatërrimin dhe varrosjen e qyteteve të lashta të Pompeit dhe Herkulanumit.<ref name="mcguire2003">{{cite news|first=Bill|last=McGuire|title=In the shadow of the volcano|date=2003-10-16 |newspaper=The Guardian|url=https://www.theguardian.com/education/2003/oct/16/research.highereducation2|access-date=2010-05-08|archive-date=2020-11-12|archive-url=https://web.archive.org/web/20201112041053/https://www.theguardian.com/education/2003/oct/16/research.highereducation2|url-status=live|language=en}}</ref> Në të njëjtin rajon, Fushat Flegree, në perëndim të Napolit, përbëjnë një nga sistemet vullkanike më të rëndësishme në botë, ende shumë aktiv. Në të njëjtën zonë të përgjithshme, vullkane si [[Etna]] dhe Stromboli konsiderohen në gjendje aktiviteti të përhershëm, me shpërthime dhe rrjedhje lave të shpeshta gjatë 1.500 vjetëve të fundit.
+
+Cunamet, të shkaktuara zakonisht nga tërmete, shpërthime vullkanike dhe rrëshqitje nënujore, kanë shkaktuar një numër fatkeqësish të dokumentuara në Pellgun Mesdhetar gjatë 2.500 vjetëve të fundit. Shembuj historikë përfshijnë cunamet e viteve 365 dhe 1303 në Harkun Helenik, më së fundmi ngjarjen shkatërruese të vitit 1908 që shkatërroi qytetet e Mesinës dhe Reggio Calabrias, si dhe cunamin e madh që ndodhi në bregun algjerian në 2003.
+
+Në aspektin diplomatik, përvoja e vendeve bregdetare dhe autoriteteve rajonale po çon në bashkëpunim në nivel ndërkombëtar, me kooperim mes OJQ-ve, shteteve, dhe autoriteteve rajonale e komunale.<ref name="evch">{{cite web|url=http://www.infopuntveiligheid.nl/Infopuntdocumenten/7._Eric_van_der_Horst.pdf|title=Alle kennisdossiers van het Instituut Fysieke Veiligheid|access-date=2014-09-20|archive-date=2015-02-05|archive-url=https://web.archive.org/web/20150205041217/http://www.infopuntveiligheid.nl/Infopuntdocumenten/7._Eric_van_der_Horst.pdf|url-status=dead|language=nl}}</ref> Diplomacia e tërmeteve greko-turke është një shembull mjaft pozitiv i rreziqeve natyrore që çuan në përmirësimin e marrëdhënieve mes rivalëve tradicionalë në rajon, pas tërmeteve në İzmit dhe Athinë në 1999. Fondi i Solidaritetit i Bashkimit Evropian (EUSF) u krijua për t'iu përgjigjur fatkeqësive të mëdha natyrore dhe për të shprehur solidaritetin evropian ndaj rajoneve të prekura nga fatkeqësi në të gjithë Evropën.<ref>{{Cite web|url=https://ec.europa.eu/commission/presscorner/home/en|title=Press corner|website=European Commission|access-date=2020-09-15|archive-date=2020-08-25|archive-url=https://web.archive.org/web/20200825095835/https://ec.europa.eu/commission/presscorner/home/en|url-status=live|language=en}}</ref> Sasia më e madhe e kërkesave për financim në BE lidhet me zjarret pyjore, të ndjekura nga përmbytjet dhe tërmetet. Zjarret pyjore, qoftë të shkaktuara nga njeriu apo natyrore, janë një rrezik i shpeshtë dhe i rrezikshëm në rajonin mesdhetar.<ref name="evch" /> Cunamet janë gjithashtu një rrezik shpesh i nënvlerësuar në rajon. Për shembull, tërmeti dhe cunami i Mesinës në 1908 morën më shumë se 123.000 jetë në Siçili dhe Kalabri dhe ishin ndër fatkeqësitë natyrore më vdekjeprurëse në Evropën moderne.
+
+=== Speciet invazive ===
+[[File:Himantura uarnak egypt.jpg|thumb|Rreza e retikuluar është një nga speciet që kolonizuan Mesdheun Lindor përmes Kanalit të Suezit, si pjesë e migrimit lesepsian në vazhdim.]]
+
+Speciet invazive janë bërë një përbërës kryesor i ekosistemit mesdhetar dhe kanë pasoja të rënda në ekologjinë mesdhetare, duke rrezikuar një numër speciesh vendase dhe endemike mesdhetare. Një vështrim i disa grupeve të specieve detare tregon se mbi 70% e dekapodëve ekzotikë<ref name="Briand">{{cite book |editor-last1=Briand |editor-first1=Frederic |last1=Galil |first1=Bella |last2=Froglia |first2=Carlo |last3=Noël |first3=Pierre |title=CIESM Atlas of Exotic Species in the Mediterranean: Vol 2 Crustaceans |date=2002 |publisher=CIESM Publishers |location=Paris, Monaco |isbn=978-92-990003-2-8 |page=192 |url=https://ciesm.org/catalog/index.php?article=2002 |access-date=2023-01-02 |archive-date=2022-12-23 |archive-url=https://web.archive.org/web/20221223120847/https://ciesm.org/catalog/index.php?article=2002 |url-status=live |language=en}}</ref> dhe rreth 2/3 e peshqve ekzotikë<ref>{{cite web|url=http://www.issg.org/infpaper_invasive.pdf |title=IUCN Guidelines for the Prevention of Biodiversity Loss Caused by Alien Invasive Species |access-date=2009-08-11 |year=2000 |publisher=International Union for Conservation of Nature |url-status=dead |archive-url=https://web.archive.org/web/20090115235640/http://www.issg.org/infpaper_invasive.pdf |archive-date=2009-01-15 |language=en}}</ref> të gjetur në Mesdhe janë me origjinë indo-paqësore, të futur nga Deti i Kuq përmes Kanalit të Suezit. Kjo e bën Kanalin rrugën e parë të mbërritjes së specieve të huaja në Mesdhe. Pasojat e disa specieve lesepsiane kanë dalë të konsiderueshme, kryesisht në pellgun levantin të Mesdheut, ku ato po zëvendësojnë speciet vendase dhe po bëhen një pamje e njohur.
+
+Sipas përkufizimeve të Komisionit Shkencor Mesdhetar dhe [[Bashkimi Ndërkombëtar për Ruajtjen e Natyrës|Bashkimit Ndërkombëtar për Ruajtjen e Natyrës]], si dhe terminologjive të Konventës mbi Diversitetin Biologjik (CBD) dhe [[Konventa Ramsar|Konventës Ramsar]], këto janë specie të huaja, pasi nuk janë vendase (jo-indigjene) të Detit Mesdhe dhe gjenden jashtë zonës së tyre normale, jo-fqinje, të shpërndarjes. Kur këto specie arrijnë të krijojnë popullata në Detin Mesdhe, konkurrojnë dhe fillojnë të zëvendësojnë speciet vendase, ato bëhen "Specie të Huaja Invazive", pasi janë agjentë ndryshimi dhe kërcënim për biodiversitetin vendas. Në kontekstin e CBD-së, "futje" i referohet lëvizjes, nga veprimtaria njerëzore, direkte a indirekte, e një specie të huaj jashtë zonës së saj natyrore (të kaluar apo aktuale). Kanali i Suezit, duke qenë një kanal artificial (i krijuar nga njeriu), përbën veprimtari njerëzore. Migrantët lesepsianë janë, pra, specie "të futura" (indirekt, e paqëllimshëm). Cilado qoftë terminologjia e zgjedhur, ato përfaqësojnë një kërcënim për biodiversitetin vendas mesdhetar, sepse janë jo-vendase për këtë det. Vitet e fundit, njoftimi i qeverisë egjiptiane për synimet e saj për të thelluar dhe zgjeruar Kanalin<ref>{{Cite web |title=Egypt to deepen, widen Suez Canal after blockage |website=Al-Monitor |date=2021-05-21 |url=https://www.al-monitor.com/originals/2021/05/egypt-deepen-widen-suez-canal-after-blockage |access-date=2022-07-12 |language=en |archive-date=2022-07-12 |archive-url=https://web.archive.org/web/20220712155837/https://www.al-monitor.com/originals/2021/05/egypt-deepen-widen-suez-canal-after-blockage |url-status=live}}</ref> ka ngritur shqetësime nga biologët detarë, të cilët frikësohen se një veprim i tillë do të përkeqësojë vetëm pushtimin e specieve nga Deti i Kuq drejt Mesdheut, dhe do të çojë në edhe më shumë specie që kalojnë përmes Kanalit.<ref>{{cite book | last1=Galil | first1=Bella S. | last2=Zenetos | first2=Argyro | title=Invasive Aquatic Species of Europe. Distribution, Impacts and Management | chapter=A Sea Change — Exotics in the Eastern Mediterranean Sea | publisher=Springer Netherlands | publication-place=Dordrecht | date=2002 | isbn=978-90-481-6111-9 | doi=10.1007/978-94-015-9956-6_33 | pages=325–336 | language=en}}</ref>
+
+==== Mbërritja e specieve të reja tropikale atlantike ====
+Vitet e fundit, mbërritja e specieve ekzotike nga Atlantiku tropikal ka filluar të vërehet. Në shumë raste, kjo pasqyron një zgjerim — të favorizuar nga një tendencë ngrohjeje e ujërave subtropikale atlantike, si dhe nga një trafik detar në rritje të shpejtë — të zonës natyrore të specieve që tani hyjnë në Mesdhe përmes Ngushticës së Gjibraltarit. Edhe pse jo aq intensiv sa migrimi lesepsian, procesi ka rëndësi dhe si i tillë po merr vëmendje të shtuar shkencore.<ref>{{cite book | last1=Golani | first1=Daniel | last2=Azzurro | first2=Ernesto | last3=Dulčić | first3=Jakov | last4=Massutí | first4=Enric | last5=Briand | first5=Frederic | title=Atlas of Exotic Fishes in the Mediterranean Sea |edition=2nd | publisher=CIESM publishers | series=CIESM Atlases | year=2021 | isbn=978-92-990003-5-9 | language=en}}</ref>
+
+=== Rritja e nivelit të detit ===
+Deri në vitin 2100, niveli i përgjithshëm i Mesdheut mund të rritet mes 3 dhe 61 cm si pasojë e ndryshimit klimatik.<ref>{{cite web|title=Mediterranean Sea Level Could Rise By Over Two Feet, Global Models Predict|url=https://www.sciencedaily.com/releases/2009/03/090303084057.htm|website=Science Daily|date=2009-03-03|access-date=2018-03-09|archive-date=2018-06-23|archive-url=https://web.archive.org/web/20180623133113/https://www.sciencedaily.com/releases/2009/03/090303084057.htm|url-status=live|language=en}}</ref> Kjo mund të ketë pasoja negative për popullatat në të gjithë Mesdheun:
+* Rritja e nivelit të detit do të përmbysë pjesë të Maltës. Rritja e nivelit të detit do të thotë gjithashtu rritje e nivelit të ujit të kripur në rezervat nëntokësore të Maltës dhe zvogëlim të disponueshmërisë së ujit të pijshëm.<ref>{{cite news|title=Briny future for vulnerable Malta|url=http://news.bbc.co.uk/2/hi/science/nature/6525069.stm|date=2007-04-04|work=BBC News|access-date=2011-11-23|archive-date=2021-05-23|archive-url=https://web.archive.org/web/20210523094353/http://news.bbc.co.uk/2/hi/science/nature/6525069.stm|url-status=live|language=en}}</ref>
+* Një rritje prej 30 cm në nivelin e detit do të përmbyste 200 km<sup>2</sup> të Deltës së Nilit, duke zhvendosur mbi 500.000 egjiptianë.<ref>{{cite web|title=Egypt fertile Nile Delta falls prey to climate change |url=http://news.egypt.com/en/201001288902/news/-egypt-news/egypt-fertile-nile-delta-falls-prey-to-climate-change.html |date=2010-01-28 |url-status=dead |archive-url=https://web.archive.org/web/20110209093815/http://news.egypt.com/en/201001288902/news/-egypt-news/egypt-fertile-nile-delta-falls-prey-to-climate-change.html |archive-date=2011-02-09 |language=en}}</ref>
+* Aigunat e Qipros janë gjithashtu në rrezik shkatërrimi nga rritja e temperaturave dhe nivelit të detit.<ref>{{cite web|title=Cyprus wetlands in danger of being destroyed by climate change|url=https://cyprus-mail.com/2019/11/08/cyprus-wetlands-in-danger-of-being-destroyed-by-climate-change/|website=cyprus-mail.com|date=2019-11-08|access-date=2019-11-08|archive-date=2021-02-24|archive-url=https://web.archive.org/web/20210224181517/https://cyprus-mail.com/2019/11/08/cyprus-wetlands-in-danger-of-being-destroyed-by-climate-change/|url-status=live|language=en}}</ref><ref>{{Cite journal |last1=Dawahidi |first1=Touria |last2=Ibarra Marinas |first2=Daniel |last3=Gomariz-Castillo |first3=Francisco |title=Estimación de la subida del nivel del mar por efecto del Cambio Climático mediante datos de mareógrafos y la serie de satélite NASA Topex-Poseidon/Jason. El caso de Valencia |journal=Anales de Geografía de la Universidad Complutense |issn=0211-9803 |volume=39 |issue=1 |pages=39–58 |year=2019 |language=es}}</ref>
+
+Ekosistemet bregdetare gjithashtu duket se rrezikohen nga rritja e nivelit të detit, sidomos detet e mbyllura si Baltiku, Mesdheu dhe Deti i Zi. Këto dete kanë vetëm korridorë të vegjël, kryesisht lindje-perëndim, të cilët mund të kufizojnë zhvendosjen drejt veriut të organizmave në këto zona.<ref>Nicholls, R.J.; Klein, R.J.T. (2005). Climate change and coastal management on Europe's coast, in: Vermaat, J.E. et al. (Ed.) (2005). Managing European coasts: past, present and future. pp. 199–226. (anglisht)</ref> Rritja e nivelit të detit për shekullin e ardhshëm (2100) mund të jetë mes 30 dhe 100 cm, dhe ndryshime temperature prej vetëm 0,05–0,1 °C në det të thellë mjaftojnë për të nxitur ndryshime të konsiderueshme në pasurinë e specieve dhe diversitetin funksional.<ref name="greenpeace.org">{{cite web|url=http://www.greenpeace.org/international/campaigns/oceans/marine-reserves/the-mediterranean/mediterranean-other-threats|title=Other threats in the Mediterranean {{!}} Greenpeace International|publisher=Greenpeace|access-date=2010-04-23|archive-url=https://web.archive.org/web/20100416071023/http://www.greenpeace.org/international/campaigns/oceans/marine-reserves/the-mediterranean/mediterranean-other-threats|archive-date=2010-04-16|url-status=dead|language=en}}</ref>
+
+=== Ndotja ===
+Ndotja në këtë rajon ka qenë jashtëzakonisht e lartë vitet e fundit. Programi i Kombeve të Bashkuara për Mjedisin ka vlerësuar se rreth 650.000.000 tonë ujëra të zeza, 129.000 tonë vaj mineral, 60.000 tonë zhivë, 3.800 tonë plumb dhe 36.000 tonë fosfate hidhen çdo vit në Mesdhe.<ref>{{cite web|url=http://www.explorecrete.com/nature/mediterranean.html|title=Pollution in the Mediterranean Sea. Environmental issues|publisher=Explore Crete|access-date=2010-04-23|archive-date=2010-01-13|archive-url=https://web.archive.org/web/20100113033738/http://explorecrete.com/nature/mediterranean.html|url-status=live|language=en}}</ref> Konventa e Barcelonës synon "të zvogëlojë ndotjen në Detin Mesdhe dhe të mbrojë e përmirësojë mjedisin detar në zonë, duke kontribuar kështu në zhvillimin e tij të qëndrueshëm."<ref>{{cite web|url=http://europa.eu/scadplus/leg/en/lvb/l28084.htm |title=EUROPA |publisher=Europa |access-date=2010-04-23 |url-status=dead |archive-url=https://web.archive.org/web/20090409220807/http://europa.eu/scadplus/leg/en/lvb/l28084.htm |archive-date=2009-04-09 |language=en}}</ref>
+
+Shumë specie detare janë zhdukur pothuajse plotësisht për shkak të ndotjes së detit. Njëra prej tyre është foka e Mesdheut, e cila konsiderohet ndër gjitarët detarë më të rrezikuar në botë.<ref>{{cite web|url=http://www.monachus-guardian.org/factfiles/medit01.htm|title=Mediterranean Monk Seal Fact Files: Overview|publisher=Monachus-guardian.org|date=1978-05-05|access-date=2010-04-23|archive-date=2019-09-12|archive-url=https://web.archive.org/web/20190912082329/https://www.monachus-guardian.org/factfiles/medit01.htm|url-status=live|language=en}}</ref>
+
+Mesdheu preket gjithashtu nga mbeturinat detare. Një studim i vitit 1994 i shtratit detar, duke përdorur rrjeta zvarritëse rreth brigjeve të Spanjës, Francës dhe Italisë, raportoi një përqendrim mesatar veçanërisht të lartë mbeturinash: mesatarisht 1.935 objekte për km<sup>2</sup>.<ref name="nep.org/regionalseas/ma">{{cite web |url=http://www.unep.org/regionalseas/marinelitter/publications/docs/anl_oview.pdf |title=Marine Litter: An Analytical Overview |access-date=2008-08-01 |year=2005 |publisher=United Nations Environment Programme |archive-date=2007-07-17 |archive-url=http://webarchive.loc.gov/all/20070717141400/http://www.unep.org/regionalseas/marinelitter/publications/docs/anl_oview.pdf |url-status=dead |language=en}}</ref>
+=== Transporti detar ===
+Portet më të mëdha të Detit Mesdhe, sipas trafikut total të anijeve në 2016, përfshijnë Valencian, Barcelonën, Genovën, Ambarlin, Pireun, Limasolin, portin Fos (pranë Marsejës), Marsaxlokun (Maltë), La Spezian, Algecirasin, Gioia Tauron, Tanger-Med-in (Marok), Livornon, Evyapin, Gemlikun, Gjirin Nemrut, Mersinin, Haifën, Ashdodin dhe Bejrutin.<ref>{{Cite book|url=http://documents1.worldbank.org/curated/en/508771540319329808/pdf/131217-PUB-PUBLIC-publication-date-is-10-23-18.pdf|last1=Arvis|first1=Jean-François|first2=Vincent|last2=Vesin|first3=Robin|last3=Carruthers|page=41|first4=César|last4=Ducruet|first5=Peter|last5=de Langen|year=2019|title=Maritime Networks, Port Efficiency, and Hinterland Connectivity in the Mediterranean. International Development in Focus|location=Washington, DC|publisher=World Bank|isbn=978-1-4648-1274-3|doi=10.1596/978-1-4648-1274-3|hdl=10398/08c83467-00f6-4f56-9833-1beda9f7734f|s2cid=134161640|access-date=2020-09-08|archive-date=2021-06-13|archive-url=https://web.archive.org/web/20210613085117/https://documents1.worldbank.org/curated/en/508771540319329808/pdf/131217-PUB-PUBLIC-publication-date-is-10-23-18.pdf|url-status=live|language=en}}</ref>
+
+Rreth 370.000.000 tonë naftë transportohen çdo vit në Detin Mesdhe (mbi 20% e totalit botëror), me rreth 250–300 tanke naftë që kalojnë detin çdo ditë. Një destinacion i rëndësishëm është porti i Triestes, pika fillestare e Naftësjellësit Transalpin, i cili mbulon 40% të kërkesës gjermane për naftë (100% të landeve federale të Bavarisë dhe Baden-Württembergut), 90% të Austrisë dhe 50% të Republikës Çeke.<ref>Thomas Fromm "Pipeline durch die Alpen: Alles im Fluss" in: Süddeutsche Zeitung, 2019-12-26. (gjermanisht)</ref> Derdhjet aksidentale të naftës ndodhin shpesh, me mesatarisht 10 derdhje në vit. Një derdhje e madhe nafte mund të ndodhë në çdo kohë, në çdo pjesë të Mesdheut.<ref name="greenpeace.org" />
+
+=== Turizmi ===
+[[File:Kemer beach, Antalya.jpg|thumb|Plazhi i Kemerit, në Antalia, në Rivierën Turke. Në 2019, Turqia u rendit e gjashta në botë për sa i përket numrit të vizitorëve ndërkombëtarë, me 51,2 milionë turistë të huaj.<ref name="WTO Tourism Highlights 2019 Edition">{{Cite book|title=UNWTO Tourism Highlights: 2019 Edition {{!}} World Tourism Organization|year=2019|doi=10.18111/9789284421152|isbn=978-92-844-2115-2|s2cid=240665765|language=en}}</ref>]]
+Bregdeti i Mesdheut është përdorur për turizëm që në kohët e lashta, siç dëshmojnë ndërtesat e vilave romake në Bregun Amalfi apo në Barkola. Që nga fundi i shekullit XIX, sidomos, plazhet u bënë vende ëndrre për shumë evropianë e udhëtarë. Që atëherë, dhe sidomos pas Luftës së Dytë Botërore, filloi turizmi masiv drejt Mesdheut, me të gjitha përparësitë dhe të metat e tij. Ndërsa fillimisht udhëtimi bëhej me tren e më vonë me autobus apo makinë, sot përdoret gjithnjë e më shumë avioni.<ref>Rüdiger Hachtmann "Tourismus-Geschichte". (2007); Attilio Brilli "Quando viaggiare era un'arte. Il romanzo del grand tour." (1995). (gjermanisht, italisht)</ref>
+
+Turizmi është sot një nga burimet më të rëndësishme të të ardhurave për shumë vende mesdhetare, pavarësisht konflikteve gjeopolitike të krijuara nga njeriu në rajon. Vendet janë përpjekur të shuajnë zonat kaotike në rritje, të krijuara nga njeriu, që mund të prekin ekonomitë dhe shoqëritë e vendeve fqinje bregdetare, si dhe rrugët detare. Komponentët detarë dhe të shpëtimit në Detin Mesdhe konsiderohen ndër më të mirët, falë bashkëpunimit të shpejtë mes flotave të ndryshme detare. Ndryshe nga oqeanet e hapura të gjera, pozicioni i mbyllur i detit lehtëson misione efektive detare e shpëtimi, të konsideruara ndër më të sigurtat, pavarësisht çdo fatkeqësie natyrore apo të shkaktuar nga njeriu.<ref>{{Cite web |url=https://cor.europa.eu/en/engage/studies/Documents/sustainable-tourism-mediterranean/sustainable-tourism-mediterranean.pdf#:~:text=Within%20the%20wider%20Mediterranean%20region%2C%20the%20Mediterranean%20countries,is%20likely%20to%20resume%20when%20the%20situation%20stabilises. |title=Sustainable tourism in the Mediterranean |access-date=2023-03-01 |archive-date=2023-03-01 |archive-url=https://web.archive.org/web/20230301224423/https://cor.europa.eu/en/engage/studies/Documents/sustainable-tourism-mediterranean/sustainable-tourism-mediterranean.pdf#:~:text=Within%20the%20wider%20Mediterranean%20region%2C%20the%20Mediterranean%20countries,is%20likely%20to%20resume%20when%20the%20situation%20stabilises. |url-status=live |language=en}}</ref>
+
+Turizmi është një burim të ardhurash për komunitetet e vogla bregdetare, përfshirë ishujt, të pavarur nga qendrat urbane. Megjithatë, turizmi ka luajtur gjithashtu një rol të madh në degradimin e mjedisit bregdetar e detar. Zhvillimi i shpejtë është nxitur nga qeveritë mesdhetare për të mbështetur numrin e madh të turistëve që vizitojnë rajonin, por kjo ka shkaktuar shqetësim serioz në habitatet detare, nga erozioni<ref>{{Cite thesis |last=Ibarra Marinas |first=Daniel |title=Análisis y evolución de las playas de la Región de Murcia (1956-2013) |year=2016 |publisher=University of Murcia |language=es |type=PhD thesis |url=https://digitum.um.es/digitum/handle/10201/128256}}</ref> dhe ndotja, në shumë vende përgjatë brigjeve mesdhetare.
+
+Turizmi shpesh përqendrohet në zona me pasuri të lartë natyrore, duke krijuar një kërcënim serioz për habitatet e specieve të rrezikuara, si breshkat e detit dhe fokat murgeshë. Zvogëlimi i pasurisë natyrore mund të ulë stimulin e turistëve për të vizituar.<ref name="greenpeace.org" />
+
+=== Peshkimi i tepërt ===
+Nivelet e stoqeve të peshkut në Detin Mesdhe janë shqetësueshëm të ulëta.<ref>{{Cite web |last=CORDIS |title=The worrying state of Mediterranean fish stocks |url=https://phys.org/news/2017-04-state-mediterranean-fish-stocks.html |access-date=2025-06-23 |website=phys.org |language=en}}</ref> Agjencia Evropiane e Mjedisit thotë se mbi 65% e të gjitha stoqeve të peshkut në rajon janë jashtë kufijve biologjikë të sigurt. Disa nga peshkoret më të rëndësishme janë të kërcënuara. Ka tregues të qartë se madhësia dhe cilësia e kapjeve kanë rënë, shpesh në mënyrë dramatike, dhe në shumë zona, speciet më të mëdha e afatgjata kanë zhdukur plotësisht nga kapjet komerciale.<ref>{{Cite journal |date=April 2014 |title=Factors affecting the fishing impact on cartilaginous fishes in southeastern Spain (western Mediterranean Sea) |doi=10.3989/SCIMAR.04025.21A |s2cid=39347699 |last1=Mendoza |first1=Manuel |last2=Garrido |first2=Diego |last3=Bellido |first3=Jose M. |journal=Scientia Marina |volume=78 |issue=S1 |pages=67–76 |bibcode=2014ScMar..78S..67M |doi-access=free |language=en}}</ref>
+
+=== Valët e nxehtësisë detare ===
+Një studim tregoi se valët e jashtëzakonshme të nxehtësisë detare, të lidhura me ndryshimin klimatik, në Detin Mesdhe gjatë 2015–2019, shkaktuan vdekje masive të jetës detare në pesë vite radhazi.<ref>{{cite news |title=Marine heatwave: Record sea temperatures seen in the Mediterranean could devastate marine life |url=https://interestingengineering.com/science/marine-heatwave-sea-temperaturesmediterranean |access-date=2022-08-21 |work=interestingengineering.com |date=2022-08-20 |archive-date=2022-08-20 |archive-url=https://web.archive.org/web/20220820164944/https://interestingengineering.com/science/marine-heatwave-sea-temperaturesmediterranean |url-status=live |language=en}}</ref><ref>{{cite journal |last1=Garrabou |first1=Joaquim |last2=Gómez-Gras |first2=Daniel |last3=Medrano |first3=Alba |last4=Cerrano |first4=Carlo |last5=Ponti |first5=Massimo |last6=Schlegel |first6=Robert |last7=Bensoussan |first7=Nathaniel |last8=Turicchia |first8=Eva |last9=Sini |first9=Maria |last10=Gerovasileiou |first10=Vasilis |title=Marine heatwaves drive recurrent mass mortalities in the Mediterranean Sea |journal=Global Change Biology |date=2022-07-18 |volume=28 |issue=19 |pages=5708–5725 |doi=10.1111/gcb.16301 |pmid=35848527 |pmc=9543131 |bibcode=2022GCBio..28.5708G |hdl=10754/679702 |s2cid=250622761 |language=en |issn=1354-1013|display-authors=4}}</ref>
+== Galeria ==
+<gallery mode="packed" heights="120px" style="text-align:center">
+File:Gibraltar-Europa-Point-LH-from-the-sea.jpg|[[Gjibraltari]], Europa Point
+File:ForbysIbizaTown 02.jpg|Qyteti i vjetër i [[Ibiza]]s, Spanjë
+File:Monaco City 001.jpg|Pamje panoramike e La Condamine-s, Monako
+File:Plage-de-la-courtade.jpg|Plazhi La Courtade, Îles d'Hyères, Francë
+File:Chia beach, Sardinia, Italy.jpg|Bregu jugor i Sardenjës, Itali
+File:Panagiotis wreck.jpg|Navagio, Greqi
+File:Malta - Birzebbuga - Triq il-Bajja s-Sabiha + Pretty Bay + Gnien Mons. Guzeppi Minuti 03 ies.jpg|Pretty Bay, Birżebbuġa, Maltë
+File:Piran Stadtpanorama.jpg|Pamje panoramike e Piranit, Slloveni
+File:Cavtat Croatia 2008-10-07.JPG|Pamje panoramike e Cavtatit, Kroaci
+File:Neum02451.JPG|Pamje e Neumit, Bosnjë dhe Hercegovinë
+File:svetistefan1756.JPG|Pamje e Sveti Stefanit, Mali i Zi
+File:Ksamill-1.jpg|Ishujt e Ksamilit, Shqipëri
+File:Blue_Lagoon_-_2014.10_-_panoramio.jpg|Ölüdeniz, Bregu Turkuaz, Turqi
+File:Petra tou romiou beach.jpg|Pafos, Qipro
+File:Burjeslam.jpg|Plazhi Burj Islam, [[Latakia]], Siri
+File:BeirutRaouche1.jpg|Pamje e Raouché-së, pranë [[Bejruti|Bejrutit]], Liban
+File:Bat Galim neighborhood and Haifa Bay.jpg|Pamje e Haifës, Izrael
+File:شاطئ دير البلح horizon adjusted.jpg|Perëndim dielli te plazhi Deir al-Balah, Rripi i Gazës, Palestinë
+File:Coast of Alexandria, A view From Bibliotheca Alexandrina, Egypt.jpg|Bregu i Aleksandrisë, pamje nga Biblioteka e Aleksandrisë, Egjipt
+File:Ras Elhilal Coast Sea Cave's.jpg|Shpellat detare të Ras El Hilalit, Libi
+File:Hammametgolf.jpg|Plazhi i Hamametit, Tunizi
+File:Les Aiguades.jpg|Les Aiguades, pranë Bejaisë, Algjeri
+File:EL Jebha1.jpg|El Jebha, qytet portual në Marok
+</gallery>
+
+== Shiko edhe ==
+{{Div col}}
+* {{ill|Mosmarrëveshja e Egjeut|en|Aegean dispute}}
+* {{ill|Atlantropa|en|Atlantropa}}
+* {{ill|Babelmed|en|Babelmed}}, faqja e kulturave mesdhetare
+* {{ill|Mosmarrëveshja e Qipros|en|Cyprus dispute}}
+* {{ill|Mosmarrëveshja detare Qipro–Turqi|en|Cyprus–Turkey maritime zones dispute}}
+* {{ill|Mesdheu Lindor|en|Eastern Mediterranean}}
+* {{ill|Asambleja Parlamentare Euro-Mesdhetare|en|Euro-Mediterranean Parliamentary Assembly}}
+* {{ill|Zona ekskluzive ekonomike e Greqisë|en|Exclusive economic zone of Greece}}
+* {{ill|Ethet familjare mesdhetare|en|Familial Mediterranean fever}}
+* {{ill|Historia e rajonit mesdhetar|en|History of the Mediterranean region}}
+* {{ill|Lidhja e Shenjtë (1571)|en|Holy League (1571)}}
+* {{ill|Marrëveshja detare Libi–Turqi|en|Libya–Turkey maritime deal}}
+* {{ill|Lista e ishujve në Detin Mesdhe|en|List of islands in the Mediterranean}}
+* {{ill|Lista e vendeve mesdhetare|en|List of Mediterranean countries}}
+* {{ill|Dieta mesdhetare|en|Mediterranean diet}}
+* {{ill|Pyjet, hapësirat e gjelbra dhe shkurret mesdhetare|en|Mediterranean forests, woodlands, and scrub}}
+* [[Lojrat e Mesdheut]]
+* {{ill|Raca mesdhetare|en|Mediterranean race}}
+* {{ill|Deti mesdhe (oqeanografi)|en|Mediterranean sea (oceanography)}}
+* [[Piri Reisi]] — hartograf i hershëm i Mesdheut
+* {{ill|Projekti i Depresionit Qattara|en|Qattara Depression Project}}
+* {{ill|Deti i Brendshëm Seto|en|Seto Inland Sea}} — i njohur edhe si "Mesdheu Japonez"
+* [[Deti Tirren|Pellgu Tirren]]
+* [[Bashkimi për Mesdheun]]
+{{Div col end}}
+
+== Shënime ==
+{{Notelist}}
+
+== Referime ==
+{{Reflist}}
+
+== Lidhje të jashtme ==
+{{Commons|Mediterranean Sea|Deti Mesdhe}}
+* {{cite encyclopedia|wstitle=Mediterranean Sea|encyclopedia=Encyclopædia Britannica|edition=11|volume=18|last1=Dickson|first1=Henry Newton|pages=67–69|language=en}}
+* [http://www.foraminifera.eu/querydb.php?area=Mediterranean+Sea&aktion=suche Foraminiferat e Detit Mesdhe: mbi 180 imazhe] (anglisht)
+* [http://med-lter.haifa.ac.il/index.php/about Stacioni i Hulumtimit Ekologjik Afatgjatë të Mesdheut Lindor] (anglisht)
+* [https://www.gutenberg.org/ebooks/73849 The Mediterranean: Seaports and sea routes] — udhëzues udhëtimi nga Karl Baedeker, botuar në Lajpcig në 1911 (anglisht)
+
+[[Kategoria:Deti Mesdhe| ]]
+[[Kategoria:Dete]]
+[[Kategoria:Dete në Evropë]]
+[[Kategoria:Dete në Azi]]
+[[Kategoria:Gjeografia e Shqipërisë]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Mediterranean Sea|28 gusht 2026|1371813366}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Mediterranean Sea, versioni i datës 28 gusht 2026 (revizioni 1371813366)
+-->

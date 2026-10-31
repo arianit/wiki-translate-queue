@@ -1,0 +1,1305 @@
+Ekziston një numër në rritje projektesh Wikipedia, disa shumë aktive dhe të tjera mjaft të ngecura. Kjo listë synohet si udhëzues për këto projekte, në mënyrë që ato të përmbajnë një sasi minimale informacioni bazë dhe të dobishëm. Kështu, njerëzit inkurajohen t'i përdorin këto projekte dhe të ndihmojnë në rritjen e tyre. Artikujt duhet të përmbajnë të paktën informacion bazë mbi temat që përshkruajnë, duke ofruar kështu një pikënisje për zhvillim, si dhe një referencë të dobishme për lexuesit. Kjo listë ofron lidhje me objektet përkatëse në [[Wikidata]], që përmbajnë lidhje me artikuj në Wikipedi të ndryshme, të cilat mund të përdoren si burim i përkthyeshëm.
+
+Ekziston një listë e ngjashme artikujsh, e përshtatur për Wikipedian anglisht, e quajtur [[:en:Wikipedia:Vital articles|Vital articles]].
+
+Kjo listë kufizohet në 1000 artikuj, por një listë më e madhe prej 10.000 artikujsh është e disponueshme më poshtë.
+{{center|{{Clickable button 2|m:List of articles every Wikipedia should have/Expanded|Lista e zgjeruar}}}}
+
+{| class="wikitable"
+|+
+|-
+!Seksioni!!Numri aktual!!Numri i synuar (konsensusi ende i pacaktuar)
+|-
+|[[#Biografi|Biografi]]||204||''200''
+|-
+|[[#Filozofi|Filozofi]]||13||''15''
+|-
+|[[#Feja|Feja]]||22||''25''
+|-
+|[[#Shkencat sociale|Shkencat sociale]]||77||''75''
+|-
+|[[#Gjuha dhe letërsia|Gjuha dhe letërsia]]||46||''45''
+|-
+|[[#Artet dhe argëtimi|Artet dhe argëtimi]]||75||''75''
+|-
+|[[#Matjet|Matjet]]||12||''10''
+|-
+|[[#Shkenca|Shkenca]]||258||''255''
+|-
+|* Astronomia||22||''20''
+|-
+|* Biologjia||84||''85''
+|-
+|* Shëndeti dhe mjekësia||38||''40''
+|-
+|* Kimia||26||''25''
+|-
+|* Shkencat e Tokës||21||''20''
+|-
+|* Fizika||39||''40''
+|-
+|* Matematika||26||''25''
+|-
+|[[#Ushqimi dhe bujqësia|Ushqimi dhe bujqësia]]||34||''35''
+|-
+|[[#Teknologjia|Teknologjia]]||67||''70''
+|-
+|[[#Historia|Historia]]||46||''45''
+|-
+|[[#Gjeografia|Gjeografia]]||146||''150''
+|-
+|'''Total'''||'''1000'''||'''1000'''
+|}<small>Numri i verifikuar: 16:20, 7 korrik 2025 (UTC)</small>
+
+{{TOCright}}
+
+== Si të përdoret kjo listë ==
+
+Ka disa mënyra të ndryshme për ta përdorur këtë listë. E para është ta përktheni në gjuhën e Wikipedisë suaj dhe të shihni nëse keni artikuj për të gjitha këto tema. Temat këtu janë të lidhura me objektet përkatëse në projektin Wikidata. Nëse Wikipedia juaj nuk ka një artikull, ose nëse po filloni një gjuhë të re, mund të dëshironi t'i përktheni këto artikuj bazë nga një gjuhë tjetër që njihni (për shembull, anglishtja). Lidhje gjuhësore me Wikipedi ku tema është e mbuluar jepen në fund të çdo faqeje të objektit Wikidata.
+
+Përveç thjesht listimit të artikujve, ky projekt shpreson të krijojë përfundimisht versione lehtësisht të përkthyeshme të këtyre artikujve, ndoshta duke përmbajtur informacion thelbësor te [[simple:Wikipedia:List of articles all languages should have]].
+
+Kjo listë përdoret gjithashtu për të nxjerrë [[m:List of Wikipedias by sample of articles|List of Wikipedias by sample of articles]]-in. Artikujt që mungojnë në një Wikipedi shfaqen te [[m:List of Wikipedias by sample of articles/Absent Articles|List of Wikipedias by sample of articles/Absent Articles]].
+
+Është e mundur të renditen 1000 faqet më të përkthyera (të lidhura) në disa gjuhë, te [[toollabs:wikidata-terminator|Wikidata Terminator]]; ose madje të krahasohen çdo dy wiki, me [[toollabs:not-in-the-other-language/|Not in the other language]].
+
+Meqenëse kjo listë (origjinali në meta-wiki) është e plotë, është e rëndësishme që të '''diskutoni çdo ndryshim''' (shtime apo fshirje) fillimisht te [[m:Talk:List of articles every Wikipedia should have|faqja e diskutimit për këtë listë]]. Nëse shtoni një hyrje në këtë pikë, do të jetë e nevojshme të justifikoni fshirjen e diçkaje tjetër.
+
+Gjashtë versione nga historiku i kësaj faqeje mund të gjenden te [[m:List of articles every Wikipedia should have/Version 1.0|Versioni 1.0]] (14 gusht 2006), [[m:List of articles every Wikipedia should have/Version 1.1|Versioni 1.1]] (15 nëntor 2008), [[m:List of articles every Wikipedia should have/Version 1.2|Versioni 1.2]] (3 shkurt 2010), [[m:List of articles every Wikipedia should have/Version 1.3|Versioni 1.3]] (24 qershor 2012), [[m:List of articles every Wikipedia should have/Version 1.4|Versioni 1.4]] (1 qershor 2014), dhe [[m:List of articles every Wikipedia should have/Version 1.5|Versioni 1.5]] (6 shkurt 2022).
+== Biografi ==
+
+=== Filozofë dhe shkencëtarë social ===
+{{div col|colwidth=16em}}
+# [[d:Q868|Aristoteli]]
+# [[d:Q7197|Simone de Bovuar]]
+# [[d:Q9045|Chanakya]]
+# [[d:Q4604|Konfuci]]
+# [[d:Q9191|René Dekarti]]
+# [[d:Q9215|Sigmund Frojd]]
+# [[d:Q9235|Georg Vilhelm Fridrih Hegel]]
+# [[d:Q48301|Martin Hajdeger]]
+# [[d:Q9294|Ibn Halduni]]
+# [[d:Q9312|Imanuel Kanti]]
+# [[d:Q9317|John Maynard Keynes]]
+# [[d:Q9333|Laodzi]]
+# [[d:Q9353|John Locke]]
+# [[d:Q1399|Niccolò Makiaveli]]
+# [[d:Q9061|Karl Marks]]
+# [[d:Q9358|Friedrich Niçe]]
+# [[d:Q859|Platoni]]
+# [[d:Q6527|Jean-Jacques Ruso]]
+# [[d:Q9364|Jean-Paul Sartri]]
+# [[d:Q9372|Sima Qian]]
+# [[d:Q9381|Adam Smith]]
+# [[d:Q913|Sokrati]]
+# [[d:Q9068|Volteri]]
+# [[d:Q9387|Max Veber]]
+# [[d:Q9391|Ludwig Vitgenshtajn]]
+# [[d:Q9397|Zhu Xi]]
+{{div col end}}
+
+=== Figura fetare dhe teologë ===
+{{div col|colwidth=16em}}
+# [[d:Q9181|Abrahami]]
+# [[d:Q9438|Thoma Akuini]]
+# [[d:Q8018|Shën Augustini i Hiponës]]
+# [[d:Q9441|Buda]]
+# [[d:Q9546|Al-Gazali]]
+# [[d:Q302|Jezusi]]
+# [[d:Q9554|Martin Luteri]]
+# [[d:Q9077|Moisiu]]
+# [[d:Q9458|Muhamedi]]
+# [[d:Q171195|Nagarxhuna]]
+{{div col end}}
+
+=== Udhëheqës politikë ===
+{{div col|colwidth=16em}}
+# [[d:Q8597|Akbari]]
+# [[d:Q8409|Aleksandri i Madh]]
+# [[d:Q8589|Ashoka]] <!-- Monark i madh indian i antikitetit; përhapi budizmin -->
+# [[d:Q5152|Mustafa Qemal Ataturku]]
+# [[d:Q1405|Augusti]]
+# [[d:Q8442|Otto von Bismarku]]
+# [[d:Q8605|Simón Bolívar]]
+# [[d:Q1048|Jul Çezari]]
+# [[d:Q3044|Karli i Madh]]
+# [[d:Q8016|Winston Churchill]]
+# [[d:Q8413|Konstandini i Madh]]
+# [[d:Q8423|Kyros i Madh]]
+# [[d:Q2042|Charles de Gaulle]]
+# [[d:Q7207|Elizabeta I]]
+# [[d:Q1001|Mahatma Gandi]]
+# [[d:Q720|Xhingis Kani]]
+# [[d:Q5809|Che Guevara]]
+# [[d:Q352|Adolf Hitleri]]
+# [[d:Q7226|Zhana d'Ark]]
+# [[d:Q8027|Martin Luther King, Jr.]]
+# [[d:Q1394|Vladimir Lenini]]
+# [[d:Q91|Abraham Lincolni]]
+# [[d:Q7742|Louis XIV]]
+# [[d:Q7231|Rosa Luksemburg]]
+# [[d:Q517|Napoleoni]]
+# [[d:Q8023|Nelson Mandela]]
+# [[d:Q5816|Mao Ce Duni]]
+# [[d:Q1047|Xhavaharlal Neru]]
+# [[d:Q8620|Kwame Nkrumah]]
+# [[d:Q8479|Pjetri i Madh]]
+# [[d:Q7192|Qin Shi Huang]]<!-- Krijoi shtetin dhe dinastinë e parë kineze -->
+# [[d:Q8007|Franklin D. Roosevelt]]
+# [[d:Q8581|Saladini]]
+# [[d:Q855|Josif Stalini]]
+# [[d:Q8474|Sulejmani i Madhërishëm]] <!-- Sulltani më i madh osman -->
+# [[d:Q8573|Sun Jat-seni]]
+# [[d:Q8462|Timuri (Tamerlani)]]
+# [[d:Q8467|Umari]] <!-- Pushtoi Persinë, Sirinë, Palestinën dhe Egjiptin për Islamin -->
+# [[d:Q23|George Washingtoni]]
+{{div col end}}
+
+=== Shpikës, shkencëtarë dhe matematikanë ===
+{{div col|colwidth=16em}}
+# [[d:Q8739|Arkimedi]]
+# [[d:Q8011|Avicena (Ibn Sina)]]
+# [[d:Q80|Tim Berners-Lee]]
+# [[d:Q202943|Brahmagupta]]
+# [[d:Q619|Nikolla Kopernik]]
+# [[d:Q7186|Marie Curie]]
+# [[d:Q1035|Charles Darwin]]
+# [[d:Q8743|Thomas Edison]]
+# [[d:Q937|Albert Ajnshtajn]]
+# [[d:Q8747|Euklidi]]
+# [[d:Q7604|Leonhard Euler]]
+# [[d:Q8750|Michael Faraday]]
+# [[d:Q8753|Enrico Fermi]]
+# [[d:Q8768|Henry Ford]]
+# [[d:Q8778|Galeni]]
+# [[d:Q307|Galileo Galilei]]
+# [[d:Q6722|Carl Friedrich Gauss]]
+# [[d:Q8958|Johannes Gutenberg]]
+# [[d:Q41585|David Hilbert]]
+# [[d:Q8962|James Prescott Joule]]
+# [[d:Q8963|Johannes Kepler]]
+# [[d:Q9038|Al-Khuarizmi]]
+# [[d:Q9047|Gottfried Wilhelm Leibniz]]
+# [[d:Q1043|Karl Lineu]]
+# [[d:Q9095|James Clerk Maxwell]]
+# [[d:Q9106|Dimitri Mendelejevi]]
+# [[d:Q935|Isaac Newton]]
+# [[d:Q529|Louis Pasteur]]
+# [[d:Q9021|Max Planck]]
+# [[d:Q9123|Ernest Rutherford]]
+# [[d:Q9130|Erwin Schrödinger]]
+# [[d:Q9036|Nikola Tesla]]
+# [[d:Q7251|Alan Turing]]
+# [[d:Q9041|James Watt]]
+{{div col end}}
+
+=== Artistë dhe arkitektë ===
+{{div col|colwidth=16em}}
+# [[d:Q4724|Le Corbusier]]
+# [[d:Q5577|Salvador Dalí]]
+# [[d:Q5580|Albrecht Dürer]]
+# [[d:Q5582|Vincent van Gogh]]
+# [[d:Q5432|Francisco Goya]]
+# [[d:Q5586|Hokusai]]
+# [[d:Q5588|Frida Kahlo]]
+# [[d:Q762|Leonardo da Vinçi]]
+# [[d:Q5589|Henri Matisse]]
+# [[d:Q5592|Mikelanxheloja]]
+# [[d:Q5593|Pablo Picasso]]
+# [[d:Q5597|Rafaeli]]
+# [[d:Q5598|Rembrandti]]
+# [[d:Q5599|Peter Paul Rubens]]
+# [[d:Q5600|Mimar Sinani]]
+# [[d:Q297|Diego Velázquez]]
+# [[d:Q5603|Andy Warhol]]
+# [[d:Q5604|Frank Lloyd Wright]]
+{{div col end}}
+
+=== Kompozitorë dhe muzikantë ===
+{{div col|colwidth=16em}}
+# [[d:Q1779|Louis Armstrong]]
+# [[d:Q1339|Johann Sebastian Bach]]
+# [[d:Q1299|The Beatles]]
+# [[d:Q255|Ludwig van Beethoven]]
+# [[d:Q7294|Johannes Brahms]]
+# [[d:Q1268|Frédéric Chopin]]
+# [[d:Q7298|Antonín Dvořák]]
+# [[d:Q7302|George Frideric Handel]]
+# [[d:Q7349|Joseph Haydn]]
+# [[d:Q2831|Michael Jackson]]
+# [[d:Q1110560|Umm Kulthum]]
+# [[d:Q7304|Gustav Mahler]]
+# [[d:Q254|Wolfgang Amadeus Mozart]]
+# [[d:Q179277|Giovanni Pierluigi da Palestrina]]
+# [[d:Q7311|Giacomo Puccini]]
+# [[d:Q7312|Franz Schubert]]
+# [[d:Q7314|Igor Stravinsky]]
+# [[d:Q7315|Pyotr Ilyich Tchaikovsky]]
+# [[d:Q7317|Giuseppe Verdi]]
+# [[d:Q1340|Antonio Vivaldi]]
+# [[d:Q1511|Richard Wagner]]
+{{div col end}}
+
+=== Regjisorë, skenaristë dhe aktorë filmi ===
+{{div col|colwidth=16em}}
+# [[d:Q7546|Ingmar Bergman]]
+# [[d:Q4605|Sarah Bernhardt]]
+# [[d:Q882|Charlie Chaplin]]
+# [[d:Q4612|Marlene Dietrich]]
+# [[d:Q8704|Walt Disney]]
+# [[d:Q8003|Sergei Eisenstein]]
+# [[d:Q7371|Federico Fellini]]
+# [[d:Q7374|Alfred Hitchcock]]
+# [[d:Q2001|Stanley Kubrick]]
+# [[d:Q8006|Akira Kurosawa]]
+# [[d:Q4616|Marilyn Monroe]]
+# [[d:Q8873|Satyajit Ray]]
+{{div col end}}
+
+=== Autorë, dramaturgë dhe poetë ===
+{{div col|colwidth=16em}}
+# [[d:Q5670|Abu Nuvasi]]
+# [[d:Q5673|Hans Christian Andersen]]
+# [[d:Q36322|Jane Austen]]
+# [[d:Q5676|Bashō]]
+# [[d:Q909|Jorge Luis Borges]]
+# [[d:Q5679|George Byron]]
+# [[d:Q5682|Miguel de Cervantes]]
+# [[d:Q5683|Geoffrey Chaucer]]
+# [[d:Q5685|Anton Çehov]]
+# [[d:Q1067|Dante Aligieri]]
+# [[d:Q5686|Charles Dickens]]
+# [[d:Q991|Fjodor Dostojevski]]
+# [[d:Q5878|Gabriel García Márquez]]
+# [[d:Q5879|Johann Wolfgang von Goethe]]
+# [[d:Q6240|Hafezi]]
+# [[d:Q6691|Homeri]]
+# [[d:Q535|Victor Hugo]]
+# [[d:Q6882|James Joyce]]
+# [[d:Q905|Franz Kafka]]
+# [[d:Q7011|Kalidasa]]
+# [[d:Q7071|Li Bai]]
+# [[d:Q7176|Nagib Mahfuz]]
+# [[d:Q687|Molière]]
+# [[d:Q7198|Ovidi]]
+# [[d:Q7199|Marcel Proust]]
+# [[d:Q7200|Aleksandër Pushkin]]
+# [[d:Q692|William Shakespeare]]
+# [[d:Q7235|Sofokliu]]
+# [[d:Q7241|Rabindranath Tagore]]
+# [[d:Q7243|Leo Tolstoi]]
+# [[d:Q7245|Mark Twain]]
+# [[d:Q1398|Virgjili]]
+{{div col end}}
+
+=== Eksplorues dhe udhëtarë ===
+{{div col|colwidth=16em}}
+# [[d:Q926|Roald Amundsen]]
+# [[d:Q1615|Neil Armstrong]]
+# [[d:Q7321|Jacques Cartier]]
+# [[d:Q7322|Kristofor Kolombi]]
+# [[d:Q7324|James Cook]]
+# [[d:Q7326|Hernán Cortés]]
+# [[d:Q7327|Yuri Gagarin]]
+# [[d:Q7328|Vasco da Gama]]
+# [[d:Q7331|Ibn Batuta]]
+# [[d:Q1496|Ferdinand Magelani]]
+# [[d:Q6101|Marco Polo]]
+# [[d:Q7333|Zheng He]]
+{{div col end}}
+== Filozofi ==
+{{div col|colwidth=16em}}
+# [[d:Q7066|Ateizmi]]
+# [[d:Q7242|Bukuria]]
+# [[d:Q9581|Konfucianizmi]]
+# [[d:Q9453|Dialektika]]
+# [[d:Q9465|Etika]]
+# [[d:Q9471|Epistemologjia]]
+# [[d:Q9476|Vullneti i lirë]]
+# [[d:Q9081|Njohuria]]
+# [[d:Q8078|Logjika]]
+# [[d:Q7081|Materializmi]]
+# [[d:Q5891|Filozofia]]
+# [[d:Q9510|Realiteti]]
+# [[d:Q7949|E vërteta]]
+{{div col end}}
+
+== Feja ==
+{{div col|colwidth=16em}}
+# [[d:Q9149|Fundamentalizmi]]
+# [[d:Q190|Perëndia]]
+## [[d:Q9159|Monoteizmi]]
+## [[d:Q9163|Politeizmi]]
+# [[d:Q9134|Mitologjia]]
+# [[d:Q128593|Rimishërimi]]
+# [[d:Q9174|Feja]]
+# [[d:Q9165|Shpirti]]
+# Fe specifike
+## [[d:Q748|Budizmi]]
+## [[d:Q5043|Krishterimi]]
+### [[d:Q9592|Kisha Katolike]]
+### [[d:Q23540|Protestantizmi]]
+## [[d:Q9089|Hinduizmi]]
+## [[d:Q432|Islami]]
+### [[d:Q9585|Islami shiit]]
+### [[d:Q483654|Islami sunit]]
+## [[d:Q9232|Xhainizmi]]
+## [[d:Q9268|Judaizmi]]
+## [[d:Q812767|Shintoizmi]]
+## [[d:Q9316|Sikizmi]]
+## [[d:Q9598|Taoizmi]]
+## [[d:Q9601|Zoroastrianizmi]]
+{{div col end}}
+
+== Shkencat sociale ==
+{{div col|colwidth=16em}}
+# [[d:Q8425|Shoqëria]]
+# [[d:Q8432|Qytetërimi]]
+# [[d:Q8434|Arsimi]]
+
+=== Psikologjia ===
+# [[d:Q9332|Sjellja]]
+# [[d:Q9415|Emocioni]]
+# [[d:Q316|Dashuria]]
+# [[d:Q450|Mendja]]
+# [[d:Q9418|Psikologjia]]
+# [[d:Q9420|Mendimi]]
+
+=== Familja dhe marrëdhëniet ===
+
+# [[d:Q8436|Familja]]
+# [[d:Q7569|Fëmija]]
+# [[d:Q8441|Burri]]
+# [[d:Q8445|Martesa]]
+# [[d:Q467|Gruaja]]
+
+=== Politika ===
+
+# [[d:Q7163|Politika]]
+# [[d:Q7167|Kolonializmi]]
+# [[d:Q1889|Diplomacia]]
+# [[d:Q7188|Qeveria]]
+## [[d:Q7174|Demokracia]]
+## [[d:Q317|Diktatura]]
+## [[d:Q7269|Monarkia]]
+## [[d:Q7270|Republika]]
+# [[d:Q7257|Ideologjia]]
+## [[d:Q6199|Anarkizmi]]
+## [[d:Q6206|Kapitalizmi]]
+## [[d:Q6186|Komunizmi]]
+## [[d:Q7169|Konservatorizmi]]
+## [[d:Q6223|Fashizmi]]
+## [[d:Q6216|Liberalizmi]]
+## [[d:Q7264|Marksizmi]]
+## [[d:Q6235|Nacionalizmi]]
+## [[d:Q7272|Socializmi]]
+# [[d:Q7260|Imperializmi]]
+# [[d:Q7275|Shteti (formë politike)]]
+# [[d:Q7278|Partia politike]]
+# [[d:Q7281|Propaganda]]
+
+=== Biznesi dhe ekonomia ===
+
+# [[d:Q8134|Ekonomia]]
+# [[d:Q8137|Kapitali]]
+# [[d:Q8142|Monedha]]
+## [[d:Q4916|Euro]]
+## [[d:Q4917|Dollari amerikan]]
+# [[d:Q8148|Sektori industrial]]
+# [[d:Q1368|Paraja]]
+# [[d:Q8161|Taksa]]
+# [[d:Q601401|Tregtia]]
+
+=== E drejta ===
+
+# [[d:Q7748|E drejta (ligji)]]
+# [[d:Q7755|Kushtetuta]]
+
+=== Organizatat ndërkombëtare ===
+
+# [[d:Q7159|Bashkimi Afrikan]]
+# [[d:Q7172|Liga Arabe]]
+# [[d:Q7768|ASEAN]]
+# [[d:Q7785|Komonuelthi i Kombeve]]
+# [[d:Q458|Bashkimi Evropian]]
+# [[d:Q7178|Lëvizja Ndërkombëtare e Kryqit të Kuq dhe Gjysmëhënës së Kuqe]]
+# [[d:Q7184|NATO]]
+# [[d:Q7191|Çmimi Nobel]]
+# [[d:Q7795|OPEC]]
+# [[d:Q1065|Kombet e Bashkuara]]
+## [[d:Q7801|Gjykata Ndërkombëtare e Drejtësisë]]
+## [[d:Q7804|Fondi Monetar Ndërkombëtar]]
+## [[d:Q7809|UNESCO]]
+## [[d:Q7817|Organizata Botërore e Shëndetësisë]]
+# [[d:Q7164|Banka Botërore]]
+# [[d:Q7825|Organizata Botërore e Tregtisë]]
+
+=== Lufta dhe ushtria ===
+
+# [[d:Q8473|Ushtria]]
+# [[d:Q454|Paqja]]
+# [[d:Q7283|Terrorizmi]]
+# [[d:Q198|Lufta]]
+## [[d:Q8465|Lufta civile]]
+
+=== Çështje sociale ===
+
+# [[d:Q8452|Aborti]]
+# [[d:Q8454|Dënimi me vdekje]]
+# [[d:Q169207|Diskriminimi]]
+## [[d:Q8461|Racizmi]]
+# [[d:Q7252|Feminizmi]]
+# [[d:Q7181|Globalizimi]]
+# [[d:Q8458|Të drejtat e njeriut]]
+# [[d:Q10294|Varfëria]]
+# [[d:Q8463|Skllavëria]]
+{{div col end}}
+== Gjuha dhe letërsia ==
+{{div col|colwidth=16em}}
+# [[d:Q315|Gjuha]]
+# Gjuhë specifike
+## [[d:Q13955|Arabishtja]]
+## [[d:Q9610|Bengalishtja]]
+## [[d:Q7850|Kinezishtja]] <!--Me sqarimin se, gjuhësisht, nuk është një gjuhë e vetme.-->
+## [[d:Q1860|Anglishtja]]
+## [[d:Q150|Frëngjishtja]]
+## [[d:Q188|Gjermanishtja]]
+## [[d:Q9129|Greqishtja]]
+## [[d:Q9288|Hebraishtja]]
+## [[d:Q11051|Hindi-Urduja]]
+## [[d:Q9176|Koreanishtja]]
+## [[d:Q5287|Japonishtja]]
+## [[d:Q397|Latinishtja]]
+## [[d:Q9168|Persishtja]]
+## [[d:Q5146|Portugalishtja]]
+## [[d:Q7737|Rusishtja]]
+## [[d:Q11059|Sanskritishtja]]
+## [[d:Q1321|Spanjishtja]]
+## [[d:Q7838|Suahilishtja]]
+## [[d:Q256|Turqishtja]]
+# [[d:Q8162|Gjuhësia]]
+# [[d:Q8091|Gramatika]]
+# [[d:Q8171|Fjala]]
+## [[d:Q8183|Fonema]]
+## [[d:Q8188|Rrokja]]
+# [[d:Q8192|Sistemi i shkrimit]]
+## [[d:Q1828555|Alfabeti arab]]
+## [[d:Q8201|Karakteret kineze]]
+## [[d:Q8209|Alfabeti cirilik]]
+## [[d:Q8216|Alfabeti grek]]
+## [[d:Q8229|Alfabeti latin]]
+# [[d:Q8236|Alfabetizmi]]
+# [[d:Q7553|Përkthimi]]
+# [[d:Q8242|Letërsia]]
+## [[d:Q676|Proza]]
+### ''[[d:Q8251|Arti i Luftës]]''
+## [[d:Q8253|Trillimi]]
+### ''[[d:Q8258|Njëmijë e një net]]''
+## [[d:Q8261|Romani]]
+### ''[[d:Q8269|Përralla e Genjit]]''
+## [[d:Q482|Poezia]]
+### ''[[d:Q8272|Epi i Gilgameshit]]''
+### ''[[d:Q8275|Iliada]]''
+### ''[[d:Q8279|Shahnameja]]''
+## Tekste fetare
+### ''[[d:Q1845|Bibla]]''
+### ''[[d:Q8276|Mahabharata]]''
+{{div col end}}
+
+== Matjet ==
+{{div col|2}}
+# [[d:Q12453|Matja]]
+# [[d:Q12457|Sistemi Ndërkombëtar i Njësive]]
+
+=== Pesha, vëllimi dhe distanca ===
+# [[d:Q11570|Kilogrami]]
+# [[d:Q11582|Litri]]
+# [[d:Q11573|Metri]]
+
+=== Koha ===
+# [[d:Q12132|Kalendari]]
+## [[d:Q12138|Kalendari gregorian]]
+# [[d:Q376|Ora (pajisja)]]
+# [[d:Q11574|Sekonda]]
+# [[d:Q573|Dita]]
+# [[d:Q577|Viti]]
+# [[d:Q12143|Zona kohore]]
+{{div col end}}
+== Shkenca ==
+# [[d:Q336|Shkenca]]
+# [[d:Q7860|Natyra]]
+
+=== Astronomia ===
+{{div col|2}}
+# [[d:Q333|Astronomia]]
+# [[d:Q3863|Asteroidi]]
+# [[d:Q323|Big Bang-u]]
+# [[d:Q589|Vrima e zezë]]
+# [[d:Q3559|Kometa]]
+# [[d:Q318|Galaktika]]
+## [[d:Q321|Rruga e Qumështit]]
+# [[d:Q405|Hëna]]
+# [[d:Q634|Planeti]]
+## [[d:Q308|Merkuri]]
+## [[d:Q313|Venusi]]
+## [[d:Q2|Toka]]
+## [[d:Q111|Marsi]]
+## [[d:Q319|Jupiteri]]
+## [[d:Q193|Saturni]]
+## [[d:Q324|Urani]]
+## [[d:Q332|Neptuni]]
+# [[d:Q544|Sistemi Diellor]]
+# [[d:Q5916|Fluturimi hapësinor]]
+# [[d:Q523|Ylli]]
+## [[d:Q525|Dielli]]
+# [[d:Q1|Universi]]
+{{div col end}}
+
+=== Biologjia ===
+{{div col|2}}
+# [[d:Q420|Biologjia]]
+# Materiale biologjike
+## [[d:Q7430|ADN-ja]]
+## [[d:Q8047|Enzima]]
+## [[d:Q11364|Hormoni]]
+## [[d:Q8054|Proteina]]
+# [[d:Q441|Botanika]]
+# [[d:Q4|Vdekja]]
+## [[d:Q10737|Vetëvrasja]]
+# [[d:Q7150|Ekologjia]]
+## [[d:Q11394|Specie e rrezikuar]]
+# [[d:Q3|Jeta]]
+# [[d:Q11398|Klasifikimi biologjik]]
+## [[d:Q7432|Specia]]
+{{div col end}}
+
+==== Proceset biologjike ====
+{{div col|2}}
+# [[d:Q1057|Metabolizmi]]
+## [[d:Q11978|Tretja]]
+## [[d:Q11982|Fotosinteza]]
+## [[d:Q472287|Frymëmarrja]]
+# [[d:Q1063|Evolucioni]]
+# [[d:Q11990|Riprodhimi]]
+## [[d:Q11995|Shtatzënia]]
+## [[d:Q290|Seksi]]
+{{div col end}}
+
+==== Organizmat ====
+{{div col|2}}
+# [[d:Q7239|Organizmi]]
+# [[d:Q729|Kafsha]]
+## [[d:Q5185|Nematoda]]
+## [[d:Q25326|Molusqet]]
+## [[d:Q1360|Artropodi]]
+### [[d:Q1390|Insekti]]
+#### [[d:Q7386|Milingona]]
+#### [[d:Q7391|Bleta]]
+#### [[d:Q7367|Mushkonja]]
+### [[d:Q1357|Merimanga]]
+## Kordatët
+### [[d:Q10908|Amfibi]]
+### [[d:Q5113|Zogu]]
+#### [[d:Q780|Pula]]
+#### [[d:Q10856|Pëllumbat]]
+### [[d:Q152|Peshku]]
+#### [[d:Q7372|Peshkaqeni]]
+### [[d:Q7377|Gjitari]]
+#### [[d:Q7375|Deveja]]
+#### [[d:Q146|Macja]]
+#### [[d:Q830|Gjedhi]]
+#### [[d:Q160|Balenat (Cetacea)]]
+#### [[d:Q144|Qeni]]
+#### [[d:Q726|Kali]]
+#### [[d:Q7368|Delja]]
+#### [[d:Q10850|Brejtësi]]
+#### [[d:Q787|Derri shtëpiak]]
+#### [[d:Q7380|Primati]]
+##### [[d:Q5|Njeriu]]
+### [[d:Q10811|Zvarraniku]]
+#### [[d:Q430|Dinosauri]]
+#### [[d:Q2102|Gjarpri]]
+# [[d:Q37868|Algat]]
+# [[d:Q10872|Arkete]]
+# [[d:Q10876|Bakteret]]
+# [[d:Q764|Kërpudha]]
+# [[d:Q756|Bima]]
+## [[d:Q506|Lulja]]
+## [[d:Q1364|Fruti]]
+## [[d:Q10884|Pema]]
+# [[d:Q10892|Protisti]]
+{{div col end}}
+
+==== Anatomia ====
+{{div col|2}}
+# [[d:Q514|Anatomia]]
+# [[d:Q7868|Qeliza]]
+# [[d:Q11068|Sistemi qarkullues]]
+## [[d:Q7873|Gjaku]]
+## [[d:Q1072|Zemra]]
+# [[d:Q11078|Sistemi endokrin]]
+# [[d:Q9649|Trakti gastrointestinal]]
+## [[d:Q11083|Zorra e trashë]]
+## [[d:Q11090|Zorra e hollë]]
+## [[d:Q9368|Mëlçia]]
+# [[d:Q7365|Muskuli]]
+# [[d:Q9404|Sistemi nervor]]
+## [[d:Q1073|Truri]]
+## [[d:Q9620|Nervi]]
+## [[d:Q11101|Sistemi shqisor]]
+### [[d:Q7362|Veshi]]
+### [[d:Q7363|Hunda]]
+### [[d:Q7364|Syri]]
+### [[d:Q124794|Shija]]
+# [[d:Q7895|Sistemi riprodhues]]
+# [[d:Q7891|Sistemi i frymëmarrjes]]
+# [[d:Q7881|Skeleti]]
+# [[d:Q1074|Lëkura]]
+{{div col end}}
+
+=== Shëndeti dhe mjekësia ===
+{{div col|2}}
+# [[d:Q11190|Mjekësia]]
+# [[d:Q12128|Stomatologjia]]
+# [[d:Q12136|Sëmundja]]
+# [[d:Q12140|Medikamenti]]
+## [[d:Q12187|Antibiotiku]]
+# [[d:Q12147|Shëndeti]]
+# [[d:Q1059|Sistemi imunitar]]
+# [[d:Q12171|Menstruacioni]]
+# [[d:Q12184|Pandemia]]
+# [[d:Q134808|Vaksina]]
+# [[d:Q808|Virusi]]
+
+==== Sëmundje/Kushte specifike ====
+# [[d:Q12029|Varësia]]
+## [[d:Q153|Etanoli]]
+## [[d:Q1566|Duhani]]
+# [[d:Q11081|Sëmundja e Alzheimerit]]
+# [[d:Q12078|Kanceri]]
+# [[d:Q199804|Sëmundja pulmonare obstruktive kronike]]
+# [[d:Q12125|Ftohja e zakonshme]]
+# [[d:Q12131|Aftësia e kufizuar]]
+## [[d:Q10874|Verbëria]]
+## [[d:Q12133|Shurdhimi]]
+# [[d:Q12135|Çrregullimi mendor]]
+# [[d:Q41571|Epilepsia]]
+# [[d:Q156103|Gastroenteriti]]
+# [[d:Q86|Dhimbja e kokës]]
+# [[d:Q12152|Ataku në zemër]]
+# [[d:Q2840|Gripi]]
+# [[d:Q12156|Malaria]]
+# [[d:Q12167|Kequshqyerja]]
+# [[d:Q12174|Obeziteti]]
+# [[d:Q12192|Pneumonia]]
+# [[d:Q12195|Poliomieliti]]
+# [[d:Q12198|Sëmundja seksualisht e transmetueshme]]
+## [[d:Q12199|SIDA]]
+# [[d:Q12214|Lia e Madhe]]
+# [[d:Q12202|Aksidenti vaskular cerebral]]
+# [[d:Q12204|Tuberkulozi]]
+# [[d:Q12206|Diabeti]]
+{{div col end}}
+
+=== Kimia ===
+{{div col|colwidth=16em}}
+# [[d:Q2329|Kimia]]
+# [[d:Q11165|Kimia inorganike]]
+# [[d:Q7094|Biokimia]]
+# [[d:Q11173|Përbërja kimike]]
+## [[d:Q11158|Acidi]]
+## [[d:Q11193|Baza (kimi)]]
+## [[d:Q12370|Kripa]]
+# [[d:Q11344|Elementi kimik]]
+## [[d:Q10693|Tabela periodike]]
+## [[d:Q663|Alumini]]
+## [[d:Q623|Karboni]]
+## [[d:Q753|Bakri]]
+## [[d:Q897|Ari]]
+## [[d:Q556|Hidrogjeni]]
+## [[d:Q677|Hekuri]]
+## [[d:Q627|Azoti]]
+## [[d:Q629|Oksigjeni]]
+## [[d:Q1090|Argjendi]]
+## [[d:Q1096|Kallaji]]
+# [[d:Q11351|Kimia organike]]
+## [[d:Q156|Alkooli]]
+## [[d:Q11358|Karbohidrati]]
+## [[d:Q11367|Lipidi]]
+# [[d:Q11369|Molekula]]
+# [[d:Q2346|Kimia analitike]]
+# [[d:Q11372|Kimia fizike]]
+{{div col end}}
+
+=== Shkencat e Tokës ===
+{{div col|colwidth=16em}}
+# [[d:Q7937|Klima]]
+# [[d:Q81041|Cikli i ujit të Tokës]]
+# [[d:Q7939|El Niño]]
+# [[d:Q7942|Ngrohja globale]]
+# [[d:Q7944|Tërmeti]]
+# [[d:Q1069|Gjeologjia]]
+## [[d:Q7946|Mineral]]
+### [[d:Q5283|Diamanti]]
+## [[d:Q7950|Tektonika e pllakave]]
+## [[d:Q8063|Shkëmbi]]
+# [[d:Q8065|Fatkeqësia natyrore]]
+## [[d:Q8068|Përmbytja]]
+## [[d:Q8070|Cunami]]
+# [[d:Q8072|Vullkani]]
+# [[d:Q11663|Moti]]
+## [[d:Q8074|Reja]]
+## [[d:Q7925|Shiu]]
+## [[d:Q7561|Bora]]
+## [[d:Q8081|Tornado]]
+## [[d:Q8092|Cikloni tropikal]]
+## [[d:Q8094|Era]]
+{{div col end}}
+
+=== Fizika ===
+{{div col|colwidth=16em}}
+# [[d:Q413|Fizika]]
+# [[d:Q11376|Nxitimi]]
+# [[d:Q9121|Atomi]]
+# [[d:Q11379|Energjia]]
+## [[d:Q11382|Ruajtja e energjisë]]
+# [[d:Q12969754|Rrezatimi elektromagnetik]]
+## [[d:Q11388|Infra e kuqe]]
+## [[d:Q11391|Ultravjollcë]]
+## [[d:Q9128|Drita]]
+### [[d:Q1075|Ngjyra]]
+# [[d:Q11397|Mekanika klasike]]
+# [[d:Q11402|Forca]]
+## [[d:Q849919|Forca elektromagnetike]]
+### [[d:Q11408|Fusha magnetike]]
+## [[d:Q11412|Gravitacioni]]
+## [[d:Q11415|Ndërveprimi i fortë]]
+## [[d:Q11418|Ndërveprimi i dobët]]
+# [[d:Q11421|Magneti]]
+# [[d:Q11423|Masa]]
+# [[d:Q11426|Metali]]
+## [[d:Q11427|Çeliku]]
+# [[d:Q11429|Fisioni bërthamor]]
+# [[d:Q11430|Gjendja e lëndës]]
+## [[d:Q11432|Gazi]]
+## [[d:Q11435|Lëngu]]
+## [[d:Q10251|Plazma]]
+## [[d:Q11438|Trupi i ngurtë]]
+# [[d:Q944|Mekanika kuantike]]
+# [[d:Q11448|Zbërthimi radioaktiv]]
+# [[d:Q11452|Relativiteti i përgjithshëm]]
+# [[d:Q11455|Relativiteti special]]
+# [[d:Q11456|Gjysmëpërçuesi]]
+# [[d:Q11461|Zëri]]
+# [[d:Q11465|Shpejtësia]]
+## [[d:Q2111|Shpejtësia e dritës]]
+# [[d:Q11466|Temperatura]]
+# [[d:Q11471|Koha]]
+# [[d:Q11473|Termodinamika]]
+# [[d:Q11475|Vakumi]]
+{{div col end}}
+
+=== Matematika ===
+{{div col|colwidth=16em}}
+# [[d:Q395|Matematika]]
+# [[d:Q11205|Aritmetika]]
+## [[d:Q11197|Logaritmi]]
+## [[d:Q11563|Numri]]
+## [[d:Q12479|Teoria e numrave]]
+# [[d:Q3968|Algjebra]]
+## [[d:Q11567|Numri kompleks]]
+## [[d:Q11345|Ekuacioni]]
+## [[d:Q82571|Algjebra lineare]]
+# [[d:Q8087|Gjeometria]]
+## [[d:Q11352|Këndi]]
+## [[d:Q11500|Sipërfaqja]]
+## [[d:Q11210|Sistemi i koordinatave]]
+## [[d:Q167|Pi (numri)]]
+## [[d:Q11518|Teorema e Pitagorës]]
+## [[d:Q12485|Simetria]]
+## [[d:Q8084|Trigonometria]]
+# [[d:Q7754|Analiza matematike]]
+## [[d:Q11214|Ekuacioni diferencial]]
+## [[d:Q11216|Analiza numerike]]
+# Probabiliteti dhe statistika
+## [[d:Q9492|Probabiliteti]]
+## [[d:Q12483|Statistika]]
+# Logjika dhe themelet
+## [[d:Q11348|Funksioni (matematikë)]]
+## [[d:Q205|Pafundësia]]
+## [[d:Q11538|Vërtetimi matematik]]
+## [[d:Q12482|Teoria e bashkësive]]
+{{div col end}}
+== Ushqimi dhe bujqësia ==
+
+=== Bujqësia ===
+# [[d:Q11451|Bujqësia]]
+## [[d:Q11453|Ujitja]]
+## [[d:Q11464|Plugu]]
+## [[d:Q11395|Zbutja]]
+
+=== Ushqimi ===
+{{div col|colwidth=16em}}
+# [[d:Q2095|Ushqimi]]
+# [[d:Q7802|Buka]]
+# [[d:Q12117|Drithi]]
+## [[d:Q11577|Elbi]]
+## [[d:Q11575|Misri]]
+## [[d:Q5090|Orizi]]
+## [[d:Q332062|Sorgo]]
+## [[d:Q15645384|Gruri]]
+# [[d:Q10943|Djathi]]
+# [[d:Q195|Çokollata]]
+# [[d:Q10987|Mjalti]]
+# [[d:Q89|Molla]]
+# [[d:Q503|Banania]]
+# [[d:Q81513|Agrumet]]
+# [[d:Q10978|Rrushi]]
+# [[d:Q11009|Arra]]
+# [[d:Q11006|Soja]]
+# [[d:Q10990|Mishi]]
+# [[d:Q11002|Sheqeri]]
+# [[d:Q42527|Erëza]]
+# [[d:Q11254|Kripa e tryezës]]
+# [[d:Q11004|Perimja]]
+## [[d:Q10998|Patatja]]
+{{div col end}}
+
+=== Pijet ===
+{{div col|colwidth=16em}}
+# [[d:Q44|Birra]]
+# [[d:Q8486|Kafja]]
+# [[d:Q8492|Lëngu (fresku)]]
+# [[d:Q8495|Qumështi]]
+# [[d:Q6097|Çaji]]
+# [[d:Q283|Uji]]
+# [[d:Q282|Vera]]
+{{div col end}}
+
+== Teknologjia ==
+{{div col|2}}
+# [[d:Q11016|Teknologjia]]
+# [[d:Q7108|Bioteknologjia]]
+# [[d:Q11460|Veshja]]
+## [[d:Q11457|Pambuku]]
+# [[d:Q11023|Inxhinieria]]
+## [[d:Q11019|Makina]]
+## [[d:Q11012|Roboti]]
+## [[d:Q11022|Vida]]
+## [[d:Q446|Rrota]]
+# [[d:Q11467|Metalurgjia]]
+# [[d:Q11468|Nanoteknologjia]]
+
+=== Komunikimi ===
+# [[d:Q11024|Komunikimi]]
+# [[d:Q11028|Informacioni]]
+## [[d:Q5292|Enciklopedia]]
+# [[d:Q11030|Gazetaria]]
+## [[d:Q11032|Gazeta]]
+# [[d:Q7075|Biblioteka]]
+## [[d:Q571|Libri]]
+# [[d:Q11034|Shtypja]]
+# [[d:Q11035|Telefoni]]
+
+=== Elektronika ===
+# [[d:Q11650|Elektronika]]
+## [[d:Q11651|Rryma elektrike]]
+## [[d:Q11652|Frekuenca]]
+# Përbërës
+## [[d:Q5322|Kondensatori]]
+## [[d:Q5325|Induktori]]
+## [[d:Q5339|Transistori]]
+## [[d:Q11656|Dioda]]
+## [[d:Q5321|Rezistori]]
+## [[d:Q11658|Transformatori]]
+
+==== Kompjuterët dhe Interneti ====
+# [[d:Q68|Kompjuteri]]
+## [[d:Q4439|Disku i ngurtë]]
+## [[d:Q5300|Njësia qendrore e përpunimit]]
+# [[d:Q11660|Inteligjenca artificiale]]
+# [[d:Q11661|Teknologjia e informacionit]]
+## [[d:Q8366|Algoritmi]]
+# [[d:Q75|Interneti]]
+## [[d:Q9158|Posta elektronike]]
+## [[d:Q466|World Wide Web-i]]
+# [[d:Q9135|Sistemi operativ]]
+# [[d:Q9143|Gjuha e programimit]]
+# [[d:Q7397|Softueri]]
+
+=== Energjia dhe lëndët djegëse ===
+# [[d:Q12705|Energjia e rinovueshme]]
+# [[d:Q12725|Elektriciteti]]
+## [[d:Q12739|Energjia bërthamore]]
+# [[d:Q12748|Lëndët djegëse fosile]]
+# Motori
+## [[d:Q12757|Motori me djegie të brendshme]]
+## [[d:Q12760|Motori me avull]]
+# [[d:Q3196|Zjarri]]
+
+=== Materialet ===
+# [[d:Q11469|Qelqi]]
+# [[d:Q11472|Letra]]
+# [[d:Q11474|Plastika]]
+# [[d:Q287|Druri]]
+
+=== Transporti ===
+# [[d:Q7590|Transporti]]
+# [[d:Q11436|Aeroplani]]
+# [[d:Q11442|Biçikleta]]
+# [[d:Q1420|Automobili]]
+# [[d:Q2811|Nëndetësja]]
+# [[d:Q11446|Anija]]
+# [[d:Q870|Treni]]
+
+=== Armët ===
+# [[d:Q728|Arma]]
+## [[d:Q12791|Shpata]]
+## [[d:Q12796|Arma zjarri]]
+### [[d:Q12800|Mitraloza]]
+## [[d:Q12802|Arma bërthamore]]
+# [[d:Q12876|Tanku]]
+# [[d:Q12870|Lënda plasëse]]
+## [[d:Q12861|Baruti]]
+{{div col end}}
+== Artet dhe argëtimi ==
+{{div col|colwidth=16em}}
+# [[d:Q11042|Kultura]]
+# [[d:Q735|Arti]]
+## [[d:Q1004|Komiket]]
+## [[d:Q11629|Piktura]]
+## [[d:Q11633|Fotografia]]
+## [[d:Q11634|Skulptura]]
+## [[d:Q11642|Qeramika]]
+# [[d:Q11639|Vallëzimi]]
+# [[d:Q12684|Moda]]
+# [[d:Q11635|Teatri]]
+# [[d:Q12681|Kaligrafia]]
+
+=== Arkitektura dhe inxhinieria civile ===
+# [[d:Q12271|Arkitektura]]
+# [[d:Q12277|Harku]]
+# [[d:Q12280|Ura]]
+# [[d:Q12284|Kanali]]
+# [[d:Q12323|Diga]]
+# [[d:Q12493|Kupola]]
+# [[d:Q3947|Shtëpia]]
+# Struktura specifike
+## [[d:Q43473|Angkor Wat]]
+## [[d:Q10285|Koloseu]]
+## [[d:Q12501|Muri i Madh Kinez]]
+## [[d:Q243|Kulla Eifel]]
+## [[d:Q9188|Empire State Building]]
+## [[d:Q12506|Hagia Sofia]]
+## [[d:Q10288|Partenoni]]
+## [[d:Q13217298|Kompleksi Piramidal i Gizës]]
+## [[d:Q12512|Bazilika e Shën Pjetrit]]
+## [[d:Q9202|Statuja e Lirisë]]
+## [[d:Q9141|Taxh Mahali]]
+## [[d:Q12514|Diga e Tri Gryka]]
+# [[d:Q12516|Piramida]]
+# [[d:Q12518|Kulla]]
+
+=== Filmi, radioja dhe televizioni ===
+# [[d:Q11424|Filmi]]
+## [[d:Q11425|Animacioni]]
+# [[d:Q872|Radioja]]
+# [[d:Q289|Televizioni]]
+
+=== Muzika ===
+# [[d:Q638|Muzika]]
+# [[d:Q7366|Kënga]]
+# Zhanre muzikore specifike
+## [[d:Q9759|Bluz]]
+## [[d:Q9730|Muzika klasike]]
+### [[d:Q1344|Opera]]
+### [[d:Q9734|Simfonia]]
+## [[d:Q9778|Muzika elektronike]]
+## [[d:Q9764|Flamenko]]
+## [[d:Q11401|Hip-hop]]
+## [[d:Q8341|Xhez]]
+## [[d:Q9794|Regge]]
+## [[d:Q11399|Muzika rok]]
+## [[d:Q11403|Samba]]
+# Instrumente muzikore specifike
+## [[d:Q11404|Daulle]]
+## [[d:Q11405|Fyelli]]
+## [[d:Q6607|Kitara]]
+## [[d:Q5994|Piano]]
+## [[d:Q8338|Trumbeta]]
+## [[d:Q8355|Violina]]
+
+=== Argëtimi ===
+# [[d:Q11410|Loja]]
+## [[d:Q11411|Bakgamon]]
+## [[d:Q718|Shahu]]
+## [[d:Q11413|Go (lojë)]]
+## [[d:Q7889|Videoloja]]
+# [[d:Q11416|Bixhozi]]
+# [[d:Q11417|Artet marciale]]
+## [[d:Q11420|Xhudo]]
+# [[d:Q5389|Lojërat Olimpike]]
+# [[d:Q349|Sporti]]
+## [[d:Q542|Atletika]]
+## Lojëra me top
+### [[d:Q5369|Bejsbolli]]
+### [[d:Q5372|Basketbolli]]
+### [[d:Q5375|Kriketi]]
+### [[d:Q2736|Futbolli]]
+### [[d:Q5377|Golfi]]
+### [[d:Q5378|Ragbi]]
+### [[d:Q847|Tenisi]]
+## [[d:Q6388|Notimi]]
+# [[d:Q11422|Lodra]]
+{{div col end}}
+
+== Historia ==
+# [[d:Q309|Historia]]
+
+==== Historia parahistorike dhe e lashtë ====
+{{div col|colwidth=16em}}
+# [[d:Q11768|Egjipti i Lashtë]]
+# [[d:Q11772|Greqia e Lashtë]]
+# [[d:Q11761|Epoka e Bronzit]]
+# [[d:Q11774|Perandoria Gupta]]
+# [[d:Q7209|Dinastia Han]]
+# [[d:Q11764|Epoka e Hekurit]]
+# [[d:Q28567|Qytetërimi Maja]]
+# [[d:Q11767|Mesopotamia]]
+# [[d:Q11756|Parahistoria]]
+# [[d:Q2277|Perandoria Romake]]
+# [[d:Q35355|Sumeri]]
+# [[d:Q11759|Epoka e Gurit]]
+# [[d:Q9683|Dinastia Tang]]
+{{div col end}}
+
+==== Mesjeta dhe Rilindja ====
+{{div col|colwidth=16em}}
+# [[d:Q12536|Kalifati Abasid]]
+# [[d:Q12542|Aztekët]]
+# [[d:Q12544|Perandoria Bizantine]]
+# [[d:Q12546|Kryqëzatat]]
+# [[d:Q12548|Perandoria e Shenjtë Romake]]
+# [[d:Q28573|Inkat]]
+# [[d:Q184536|Perandoria e Malit]]
+# [[d:Q12554|Mesjeta]]
+# [[d:Q9903|Dinastia Ming]]
+# [[d:Q12557|Perandoria Mongole]]
+# [[d:Q12560|Perandoria Osmane]]
+# [[d:Q4692|Rilindja]]
+# [[d:Q12567|Vikingët]]
+{{div col end}}
+
+==== Periudha e hershme moderne dhe moderne ====
+{{div col|colwidth=16em}}
+# [[d:Q12539|Epoka e Iluminizmit]]
+# [[d:Q8676|Lufta Civile Amerikane]]
+# [[d:Q8669|Konflikti arabo-izraelit]]
+# [[d:Q11409|Aparteidi]]
+# [[d:Q8680|Perandoria Britanike]]
+# [[d:Q8683|Lufta e Ftohtë]]
+# [[d:Q6534|Revolucioni Francez]]
+# [[d:Q8698|Depresioni i Madh]]
+# [[d:Q2763|Holokausti]]
+# [[d:Q2269|Revolucioni Industrial]]
+# [[d:Q7318|Gjermania Naziste]]
+# [[d:Q8707|Restaurimi Meiji]] <!-- ngjarja më e rëndësishme në historinë japoneze -->
+# [[d:Q12562|Reforma (fetare)]]
+# [[d:Q8729|Revolucioni Rus]]
+# [[d:Q8733|Dinastia Qing]]
+# [[d:Q15180|Bashkimi Sovjetik]]
+# [[d:Q8740|Lufta e Vietnamit]]
+# [[d:Q361|Lufta e Parë Botërore]]
+# [[d:Q362|Lufta e Dytë Botërore]]
+{{div col end}}
+== Gjeografia ==
+{{div col|colwidth=16em}}
+# [[d:Q1071|Gjeografia]]
+# [[d:Q515|Qyteti]]
+# [[d:Q5107|Kontinenti]]
+# [[d:Q4421|Pylli]]
+# [[d:Q8502|Mali]]
+# [[d:Q8514|Shkretëtira]]
+# [[d:Q934|Poli Verior]]
+# [[d:Q9430|Oqeani]]
+# [[d:Q4022|Lumi]]
+# [[d:Q165|Deti]]
+# [[d:Q933|Poli Jugor]]
+
+=== Kontinentet dhe rajonet kryesore ===
+# [[d:Q15|Afrika]]
+# [[d:Q51|Antarktiku]]
+# [[d:Q48|Azia]]
+# [[d:Q46|Evropa]]
+# [[d:Q7204|Lindja e Mesme]]
+# [[d:Q49|Amerika Veriore]]
+# [[d:Q55643|Oqeania]]
+# [[d:Q18|Amerika Jugore]]
+{{div col end}}
+
+=== Vendet ===
+{{div col|colwidth=16em}}
+Përfundimisht, duhet të ketë artikuj për shumicën ose të gjitha vendet e listuara te [[:w:en:List of sovereign states|Lista e vendeve]]. Sidoqoftë, për Wikipeditë më të vogla, disa nga vendet me prioritet më të lartë për të pasur artikuj janë:
+
+==== Afrika ====
+# [[d:Q262|Algjeria]]
+# [[d:Q974|Republika Demokratike e Kongos]]
+# [[d:Q79|Egjipti]]
+# [[d:Q115|Etiopia]]
+# [[d:Q1033|Nigeria]]
+# [[d:Q258|Afrika e Jugut]]
+# [[d:Q1049|Sudani]]
+# [[d:Q924|Tanzania]]
+
+==== Azia ====
+# [[d:Q889|Afganistani]]
+# [[d:Q902|Bangladeshi]]
+# [[d:Q148|Kina]]
+# [[d:Q668|India]]
+# [[d:Q252|Indonezia]]
+# [[d:Q794|Irani]]
+# [[d:Q796|Iraku]]
+# [[d:Q801|Izraeli]]
+# [[d:Q17|Japonia]]
+# [[d:Q843|Pakistani]]
+# [[d:Q928|Filipinet]]
+# [[d:Q851|Arabia Saudite]]
+# [[d:Q884|Koreja e Jugut]]
+# [[d:Q869|Tajlanda]]
+# [[d:Q43|Turqia]]
+# [[d:Q881|Vietnami]]
+
+==== Evropa ====
+# [[d:Q40|Austria]]
+# [[d:Q142|Franca]]
+# [[d:Q183|Gjermania]]
+# [[d:Q38|Italia]]
+# [[d:Q55|Holanda]]
+# [[d:Q36|Polonia]]
+# [[d:Q45|Portugalia]]
+# [[d:Q159|Rusia]]
+# [[d:Q29|Spanja]]
+# [[d:Q39|Zvicra]]
+# [[d:Q212|Ukraina]]
+# [[d:Q145|Mbretëria e Bashkuar]]
+# [[d:Q237|Qyteti i Vatikanit]]
+
+==== Amerika Veriore ====
+# [[d:Q16|Kanadaja]]
+# [[d:Q241|Kuba]]
+# [[d:Q96|Meksika]]
+# [[d:Q30|Shtetet e Bashkuara]]
+
+==== Amerika Jugore ====
+# [[d:Q414|Argjentina]]
+# [[d:Q155|Brazili]]
+# [[d:Q739|Kolumbia]]
+
+==== Oqeania ====
+# [[d:Q408|Australia]]
+{{div col end}}
+
+=== Qytetet ===
+{{div col|colwidth=16em}}
+
+==== Afrika ====
+# [[d:Q85|Kajro]]
+# [[d:Q5465|Cape Town]]
+# [[d:Q3838|Kinshasa]]
+# [[d:Q8673|Lagos]]
+# [[d:Q3870|Nairobi]]
+
+==== Azia ====
+# [[d:Q1530|Bagdadi]]
+# [[d:Q1861|Bangkoku]]
+# [[d:Q956|Pekini]]
+# [[d:Q3766|Damasku]]
+# [[d:Q1353|Delhi]]
+# [[d:Q1354|Daka]]
+# [[d:Q612|Dubai]]
+# [[d:Q8646|Hong Kongu]]
+# [[d:Q3630|Xhakarta]]
+# [[d:Q1218|Jerusalemi]]
+# [[d:Q8660|Karaçi]]
+# [[d:Q1348|Kolkata]]
+# [[d:Q5806|Meka]]
+# [[d:Q1156|Mumbai]]
+# [[d:Q8684|Seuli]]
+# [[d:Q8686|Shangai]]
+# [[d:Q334|Singapori]]
+# [[d:Q3616|Teherani]]
+# [[d:Q1490|Tokio]]
+
+==== Evropa ====
+# [[d:Q727|Amsterdami]]
+# [[d:Q1524|Athina]]
+# [[d:Q64|Berlini]]
+# [[d:Q239|Brukseli]]
+# [[d:Q406|Stambolli]]
+# [[d:Q84|Londra]]
+# [[d:Q2807|Madridi]]
+# [[d:Q649|Moska]]
+# [[d:Q90|Parisi]]
+# [[d:Q220|Roma]]
+# [[d:Q656|Shën Petersburgu]]
+# [[d:Q1741|Vjena]]
+
+==== Amerika Veriore ====
+# [[d:Q65|Los Anxhelosi]]
+# [[d:Q1489|Meksiko Siti]]
+# [[d:Q60|Nju Jorku]]
+# [[d:Q61|Uashingtoni]]
+
+==== Amerika Jugore ====
+# [[d:Q2841|Bogota]]
+# [[d:Q1486|Buenos Airesi]]
+# [[d:Q8678|Rio de Zhaneiro]]
+# [[d:Q174|San Paulo]]
+
+==== Oqeania ====
+# [[d:Q3130|Sidnei]]
+{{div col end}}
+
+=== Ujëra ===
+{{div col|colwidth=16em}}
+# [[d:Q3783|Lumi Amazonë]]
+# [[d:Q788|Oqeani Arktik]]
+# [[d:Q97|Oqeani Atlantik]]
+# [[d:Q545|Deti Balltik]]
+# [[d:Q166|Deti i Zi]]
+# [[d:Q1247|Deti Karaibik]]
+# [[d:Q5484|Deti Kaspik]]
+# [[d:Q3503|Lumi Kongo]]
+# [[d:Q1653|Danubi]]
+# [[d:Q5089|Gangu]]
+# [[d:Q7343|Barriera e Madhe Koralore]]
+# [[d:Q7347|Liqenet e Mëdha]]
+# [[d:Q1239|Oqeani Indian]]
+# [[d:Q7348|Lumi Indus]]
+# [[d:Q5513|Liqeni Bajkal]]
+# [[d:Q5505|Liqeni Viktoria]]
+# [[d:Q4918|Deti Mesdhe]]
+# [[d:Q1497|Lumi Misisipi]]
+# [[d:Q3542|Lumi Niger]]
+# [[d:Q3392|Nili]]
+# [[d:Q1693|Deti i Veriut]]
+# [[d:Q98|Oqeani Paqësor]]
+# [[d:Q7350|Kanali i Panamasë]]
+# [[d:Q584|Rini]]
+# [[d:Q37660|Deti Kinez Jugor]]
+# [[d:Q899|Kanali i Suezit]]
+# [[d:Q7354|Oqeani Jugor]]
+# [[d:Q626|Lumi Vollga]]
+# [[d:Q5413|Lumi Jangce]]
+# [[d:Q7355|Lumi i Verdhë]]
+{{div col end}}
+
+=== Malet dhe shkretëtirat ===
+# [[d:Q1286|Alpet]]
+# [[d:Q5456|Andet]]
+# [[d:Q5451|Himalajet]]
+## [[d:Q513|Everesti]]
+# [[d:Q7296|Kilimanxharo]]
+# [[d:Q5463|Malet Rocky]]
+# [[d:Q6583|Sahara]]
+

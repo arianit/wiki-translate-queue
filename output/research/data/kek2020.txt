@@ -1,0 +1,1888 @@
+        RAPORT VJETOR 2020
+Korporata Energjetike e Kosovës
+                            ShA
+Përmbajtja e Raportit
+PËRMBLEDHJE EKZEKUTIVE...................................................................................................... 4
+RAPORTI I BORDIT TË DREJTORËVE .......................................................................................... 6
+  Aktivitetet dhe Performanca e Ndërmarrjes ................................................................................ 6
+  Informacion lidhur me Kapitalin dhe Devidendën........................................................................ 7
+  Të dhënat për Drejtorët Jo-Ekzekutiv ........................................................................................... 8
+RAPORTI I DREJTORIT MENAXHUES ....................................................................................... 10
+  Ngjarjet Kryesore të vitit 2020 .................................................................................................... 10
+  Burimet Njerëzore....................................................................................................................... 13
+  Departamenti i Mjedisit .............................................................................................................. 14
+  Siguria Fizike................................................................................................................................ 14
+  Performanca Operative dhe Indikatorët kyç të Performancës .................................................. 15
+     Indikatorët kyç të Performancës për vitin 2020 ..................................................................... 15
+  Divizioni i Mihjeve ....................................................................................................................... 15
+  Divizioni i Gjenerimit ................................................................................................................... 17
+PERFORMANCA FINANCIARE ................................................................................................. 18
+     Pasqyra e të ardhurave ........................................................................................................... 19
+  Faktorë tjerë që ndikojnë në të hyrat ......................................................................................... 21
+  Pasqyra e shpenzimeve............................................................................................................... 22
+  Gjendja e Kompanisë .................................................................................................................. 24
+  Progresi i Projekteve Kapitale ..................................................................................................... 25
+     Shpenzimet kapitale dhe projektet ........................................................................................ 25
+  Divizioni i Mihjeve ....................................................................................................................... 26
+  Divizioni i Gjenerimit te Energjisë ............................................................................................... 26
+  Divizioni i Shërbimeve të Korporatës.......................................................................................... 27
+PLANI I BIZNESIT DHE PERSPEKTIVA PËR VITIN E ARDHSHËM ................................................. 28
+  Ambienti...................................................................................................................................... 30
+  Plani i Divizionit të Mihjeve ........................................................................................................ 31
+  Plani i Divizioneve të Gjenerimit te Energjisë ............................................................................. 31
+  Ndikimet e Jashtme në Planin e Biznesit .................................................................................... 32
+MENAXHIMI I RREZIQEVE TË KORPORATËS ............................................................................ 34
+  Identifikimi i rreziqeve ................................................................................................................ 35
+  Ekspozimi i ndërmarrjes ndaj rreziqeve të çmimeve .................................................................. 38
+  Ekspozimi i ndërmarrjes ndaj rreziqeve të kreditimit................................................................. 39
+  Ekspozimi i ndërmarrjes ndaj rreziqeve të likuiditetit ................................................................ 39
+RAPORTIMET SHTESË PËR AKSIONARIN ................................................................................. 40
+  Qeverisja korporative ................................................................................................................. 40
+  Funksionimi i kontrolleve të brendshme .................................................................................... 41
+  Zyra e Auditimit te Brendshëm ................................................................................................... 42
+  Përmbledhja e të gjitha procedurave gjyqësore ........................................................................ 44
+  Transaksionet e Konsiderueshme ............................................................................................... 45
+  Raportet me KPMM dhe Institucionet tjera ............................................................................... 45
+SFIDAT DHE MUNDËSITË PËR TË ARDHMEN ........................................................................... 46
+STRUKTURA ORGANIZATIVE KEK SH. A 2020 ......................................................................... 49
+PASQYRAT FINANCIARE ......................................................................................................... 50
+Përmbledhje ekzekutive
+
+Viti 2020 do të mbahet mend si vit i pandemisë dhe aktiviteteve për menaxhimin e saj, me fokus
+drejt mbrojtjes të shëndetit të punonjësve. Ishtë një sfidë unike me të cilë u përball vendi dhe i
+gjithë globi, pasojat e së cilës ishin të rënda edhe pse ende jo totalisht të njohura. Kjo bëri që,
+krahas nevojës së domosdoshme të realizimit të prodhimit, qëllimi kryesor i menaxhmentit të jetë
+mbrojtja e shëndetit të punëtorëve. Ende më të vështirë e bëri mbyllja totale e vendit për disa
+muaj, kufizimi në lëvizje, rreziqet për shëndetin e punëtorëve dhe të tjera, që dhanë efekte në
+vonesat në realizimin e projekteve strategjike dhe rritje të shpenzimeve. Megjithatë, viti 2020 për
+KEK, fal angazhimit të madh të punëtorëve, u mbyll me një performancë të mirë operative dhe
+financiare. Prodhimi u realizua pa probleme të theksuara, dhe me rezultate rekorde duke kapur
+shifrën bruto 6.62 milion MWh energji elektrike, më e larta e prodhuar ndonjëherë nga
+termocentralet e KEK-ut, përgjatë operimit të tyre që nga viti 1962. Ndërsa, prodhimi i thëngjillit
+poashtu është rritur si rrjedhojë e rritjes së kërkesës për konsum të brendshëm/lëndë të parë në
+8.54 milion ton në vitin 2020.
+
+E gjithë kjo u pasqyrua në një performancë të jashtëzakonshme financiare, duke arritur fitimin
+vjetor, pas tatimit, në shumë €23.78 milion. Kjo përbën një arritje të madhe për qëndrueshmërinë
+afatgjatë financiare, dhe një shtysë e mirë që investimet e planifikuara të mund të realizohen
+konsiderueshëm nga burime të brendshme financimi.
+
+Korporata Energjetike e Kosovës, si prodhuesi kryesor i energjisë elektrike në vend, vazhdon të
+jetë kontribues në zhvillimin ekonomik të vendit. Në fund të vitit 2020 kishte të angazhuar 3,887
+punëtorë, të cilëve, përkundër vështirësive dhe moshës së shtyer (mosha mesatare e punëtorëve
+arrin 53 vjeç) KEK ua atribuon suksesin e vet. Prandaj, KEK në vazhdimësi është duke u punuar për
+përmirësimin e kushteve të punës dhe mirëqenies së punëtorëve në bashkëpunim me sindikatat
+dhe në përputhje me mundësitë ligjore.
+
+KEK krahas qëllimit të vet për stabilitet të prodhimit të energjisë vazhdon ta ketë në fokus
+komunitetin, ku përmes projekteve të veta afatgjata synon që të ndihmoj ruajtjen dhe
+përmirësimin e ambientit dhe cilësisë së ajrit, ujit dhe tokës. Megjithatë, pandemia goditi këto
+objektiva të korporatës, duke shtyer në kohë realizimin e projekteve të BE për elektrofiltrat vitet
+2022/2023, bashkë me të cilat u shtyen edhe disa investime të KEK-ut për zgjatjen e jetëgjatësisë
+Raporti I Bordit të Drejtorëve
+Aktivitetet dhe Performanca e Ndërmarrjes
+
+Përcjellja dhe mbikëqyrja e realizimit të planeve operative dhe kapitale të ndërmarrjes ishin aktivitetet
+kryesore të Bordit të Drejtorëve. Poashtu, bordi është marrë në vazhdimësi me shqyrtimin e performacës
+financiare dhe operative të korporatës, kryesisht gjatë takimeve të rregullta. Në këtë drejtim, është
+përkrahur edhe nga puna e komisioneve të ndryshme në nivel të bordit dhe kryesisht nga Komisioni i
+Auditimit. Performanca operative dhe financiare gjatë vitit 2020 ka shënuar ngritje në krahasim me vitin
+paraprak.
+
+Rezultate të mira të arritura për vitin e kaluar janë shoqëruar edhe me adresimin e çështjeve të ngritura
+nga auditorët në Letër Menaxhmentin e vitit paraprak, në mënyrë që pritjet për një opinion të pakualifikuar
+për Pasqyrat Financiare për vitin 2020, të jenë realiste. Edhe raportet tremujore dhe vjetore janë miratuar
+gjatë vitit, sipas kërkesës se ligjit për ndërmarrjet publike dhe janë përcjellë për informim tek Aksionari.
+
+Paralelisht me këto rezultate, Bordi i Drejtorëve (BtD) është angazhuar në zbatimin e vendimeve të
+aksionarit për Projektin Kosova e Re, për ndërtimin e kapacitetit të ri të gjenerimit, ashtu si parashihet në
+strategjinë kombëtare të zhvillimit, që është në fuqi nga viti 2016. Megjithatë, me tërheqjen e Contour
+Global nga procesi i ndërtimit të kapaciteteve të reja gjeneruese, për KEK u krijua një situatë e re ku
+kërkohej rishikimi i prioriteteve dhe kohës së investimeve, në mënyrë që të mund të arrijë qëllimin e vet,
+prodhimin e energjisë me kosto efektive dhe stabilitet në prodhim të energjisë. Si përgjigje ndaj kësaj
+situate, në pritje edhe të ndryshimit të strategjisë së Qeverisës ë Kosovës për Energjinë, gjatë vitit 2020 me
+kërkesë të BtD u themelua grupi për rishikimin e planeve zhvillimore të KEK për 2021-2025 si dhe u mor
+vendim për fillimin e procedurave për studimin e fizibilitetit për TC Kosova A. Në kuadër të aktiviteteve të
+tjera që lidhen me performancën e ndërmarrjes dhe me aktivitet e BtD gjatë vitit 2020 u nënshkrua kontrata
+për angazhimin e një kompanie konsulente për rishikimin funksional të skemës organizative e cila ndër të
+tjera ka për qëllim rritjen e efikasitetit dhe efektivitetit të kompanisë.
+
+Ne këtë drejtim, Bordi i drejtoreve ka qenë i përfshirë në takime me nivele të ndryshme të Qeverise së
+Kosovës, përfshirë kryeministrin, si dhe me institucione ndërkombëtare, si Banka Botërore dhe USAID.
+Lidhur me projektin e shthurjes, i iniciuar konform strategjisë energjetike 2005 – 2015, i vazhduar me vonë
+edhe me vendimet e Qeverisë se Kosovës dhe rekomandimeve të NjMNP, dhe Vendimit te Bordi të
+Drejtorëve të vitit 2017, nuk ka patur vazhdim të procesit duke qenë se projekti i ndërtimit të kapacitetit
+të ri gjenerues nga qymyri ka ngecur pas tërheqjes së kompanisë të përzgjedhur nga Qeveria.
+
+
+
+                                                 Faqe 6 e 53
+Informacion lidhur me Kapitalin dhe Dividendën
+Gjatë vitit 2020 si rezultat i rritjes së performancës financiare, kompania ka rrit kapitalin e vet në kuadër të
+rritjes së vlerës për investimet e realizuara dhe nga operimet e saj. Kapitali i kompanisë ka shënuar rritje
+nga 153.4 në 2019 në 177.41 milion € në vitin 2020, duke reflektuar edhe në përqindjen e strukturës së
+kapitalit/detyrime 37% me 63% në 2019, në 58% detyrime dhe 42 % kapital në 2020.
+
+
+
+
+Megjithëse ka një strukturë të madhe financimi me borxh, ndërmarrja ka treguar aftësi financiare për të
+shlyer detyrimet e veta financiare ndaj kreditorit të vet, i cili në rastin e KEK është vet aksionari i saj.
+Ndërmarrja nuk ka nënshkruar kredi të re për këtë vit, kurse për kreditë e marra në vitet 2008-2012 është
+arritur marrëveshja me Ministrinë e Financave gjatë vitit 2015, për ri-programin e tyre dhe është duke
+vazhduar edhe këtë vit pagesat në bazë të marrëveshjes. Gjatë vitit 2020 janë shlyer kësti i huamarrjes
+€11.39 milion dhe interesi i kalkuluar prej € 664 mijë.
+
+                                                                                2020                    2019
+                                                                          (në €’ 000)             (në €’ 000)
+ Pjesa afatgjatë
+ Kredia e MF që bart interes                                                 138,154                 149,541
+                                                                             138,154                 149,541
+ Pjesa afatshkurtër
+ Remonti dhe Rehabilitimi i Kosova A dhe B                                                                 -
+ Hapja dhe operacionalizimi i Minierës së Sibovci JP.                                                      -
+ Kredia Interes bartëse nga MF –Pjesa afatshkurtër                            11,387                  11,387
+ Interesi Akrual (jo i vonuar)                                                   664                     622
+                                                                              12,051                  12,009
+ Total huazimet                                                              150,205                 161,550
+
+Përkundër konsolidimit të pozitës financiare, edhe këtë vit korporata nuk ka planifikuar të ndaj dividendë
+për Aksionarin, për shkak të planeve për zgjerim dhe për rritjen e stabilitetit të prodhimit të energjisë
+elektrike, si obligime që burojnë nga Strategjia për energji e Qeverisë së Republikës së Kosovës.
+
+                                                 Faqe 7 e 53
+Gjatë kësaj periudhe ndërmarrja ka paguar për realizimin e investimeve kapitale në vlerën prej €36.9
+milionë. Ndër këto investime, të rëndësishme janë ato në përmirësimin e ndikimit mjedisor nga
+termocentralet, investimet në TC Kosova A, në Divizionin e Mihjeve si dhe në TC Kosova B .
+
+
+Të dhënat për Drejtorët Jo-Ekzekutiv
+Në pajtim me nenin 15 te Ligjit 03/L-87 për Ndërmarrjet Publike, aksionari në këtë rast Qeveria e Republikës
+të Kosovës emëron dhe shkarkon anëtarët e bordeve të ndërmarrjeve publike qëndrore. Mbi këtë bazë,
+me vendimin nr. 10/13, te dt 10.11.2017, Aksionari ka emëruar:
+
+   1.   z. Faruk Hajrizi, drejtor jo-ekzekutiv dhe Kryesues;
+   2.   znj. Fllanza Beqiri-Hoxha drejtoreshë jo-ekzekutive;
+   3.   z. Izet Ibrahimi, drejtor jo-ekzekutiv;
+   4.   z. Mehdi Pllashniku, drejtor jo-ekzekutiv;
+   5.   z. Gjelosh Vataj, drejtor jo-ekzekutiv.
+
+Ndërsa, Komisionin e Auditimi me këtë përbërje:
+
+   1.   znj. Fllanza Beqiri-Hoxha, Kryesues;
+   2.   z. Izet Ibrahimi, Anëtar;
+   3.   z. Gjelosh Vataj, Anëtar.
+
+Pastaj, me vendimin e Qeverisë të Republikës së Kosovës nr.01/26, dt 23.04. 2020 është emëruar Bordi i ri
+i përkohshëm me këtë përbërje:
+
+   1.   Znj Rrezarta Pllana, drejtor jo-ekzekutiv dhe Kryesues
+   2.   Z. Arbnor Pula drejtor jo-ekzekutiv
+   3.   Z. Merita Kasapolli drejtor jo-ekzekutiv
+   4.   Z. Bezad Halilaj drejtor jo-ekzekutiv
+Ndërsa, Komisionin e Auditimi me këtë përbërje:
+   1.   z. Bezad Halilaj, Kryesues;
+   2.   Znj. Merita Kasapolli, Anëtar;
+   3.   z. Arbnor Pula, Anëtar.
+
+Pastaj, me vendimin e Qeveria se Kosovës nr.04/19, dt 3.08.2020 është emëruar Bordi i ri i përkohshëm me
+kete përbërje:
+
+   1.   Z. Hysen Fazliu, drejtor jo-ekzekutiv dhe Kryesues;
+   2.   Znj. Fatime Grajqevci, drejtor jo-ekzekutiv;
+   3.   Z. Petrit Ibraj, drejtor jo-ekzekutiv;
+   4.   Z. Egzon Berisha drejtor jo-ekzekutiv.
+
+
+                                               Faqe 8 e 53
+Ndërsa, Komisionin e Auditimi me këtë përbërje:
+   1.   z. Petrit Ibraj, Kryesues;
+   2.   Znj. Fatime Grajqevci, Anëtar;
+   3.   Z. Egzon Berisha Anëtar.
+
+Pastaj, me vendimin e Qeverise se Kosovës nr.01/37, dt 24.10.2020 është emëruar Bordi i ri i përkohshëm
+me këtë përbërje:
+
+   1.   Z. Musa Misini - drejtor jo-ekzekutiv, Kryesues;
+   2.   Z. Petrit Ibraj - drejtor jo-ekzekutiv;
+   3.   Znj. Fatime Grajcevci - drejtor jo-ekzekutiv;
+   4.   Z. Fadil Hoxha - drejtor jo-ekzekutiv.
+Ndërsa, Komisionin e Auditimi me këtë përbërje:
+   1.   z. Petrit Ibraj, Kryesues;
+   2.   Znj. Fatime Grajqevci, Anëtar;
+   3.   Z. Fadil Hoxha, anëtar.
+
+Pas skadimit të mandatit të bordit të përkohshëm dt 24.04.2021, me vendimin e Qeverise se Kosovës
+nr.09/12, dt 21.05.2021 është emëruar Bordi i ri i përkohshëm me këtë përbërje:
+
+   1.   Znj Rrezarta Pllana, drejtor jo-ekzekutiv dhe Kryesuese
+   2.   Z. Bezad Halilaj drejtor jo-ekzekutiv
+   3.   Z. Arbnor Pula drejtor jo-ekzekutiv
+   4.   Z. Merita Kasapolli drejtor jo-ekzekutiv
+
+
+Gjatë vitit 2020, janë mbajtur 21 takime të Bordit dhe 10 takime të Komisionit të Auditimit. Mbledhja e
+përgjithshëm vjetore e Aksionarit është mbajtur me dt. 23.09.2020. Në kuadër të Bordit të Drejtorëve gjatë
+2020 nuk kanë vepruar komitete te përkohshme.
+Kompensimi i anëtarëve jo-ekzekutiv është realizuar konform ligjit për ndërmarrjet publike (ligji 03/L-87,
+neni 20) dhe vendimit të Aksionarit nr. 07/81, dt 23-03-2016. Gjatë këtij viti nuk është paguar kompensim
+për stimulimin e efektshmërisë në përputhje me deklaratën për politikën e kompensimin e cila përgatitet
+dhe zbulohet nga Komisioni i Auditimit i Bordit të Drejtorëve, në përputhje me paragrafin 4 të nenit 20, të
+ligjit të lartë apostrofuar.
+
+
+
+
+                                               Faqe 9 e 53
+RAPORTI I DREJTORIT MENAXHUES
+
+
+Ngjarjet Kryesore të vitit 2020
+KEK–u ka një mision specifik që të ofrojë shërbime të sigurta, të besueshme dhe me çmime të arsyeshme
+të energjisë elektrike, por gjithashtu edhe të jetë e përgjegjshme ndaj ambientit dhe financiarisht e
+qëndrueshme. Gjatë vitit 2020, Korporata Energjetike e Kosovës ka funksionuar në përputhje me planet e
+saja duke arritur një performancë të mirë dhe në tejkalimin e planifikimit të prodhimit te energjisë elektrike
+sipas Bilancin Vjetor të Energjisë Elektrike (BVEE), duke rritur të hyrat e përgjithshme financiare për
+korporatën dhe përtej saj duke regjistruar një rekord të prodhimit të energjisë elektrike në histori të KEK-
+ut.
+
+Si vit i karakterizuar pandemia globale COVID 19, e cila ka sfiduar edhe funksionimin e Korporatës
+Energjetike të Kosovës. Mirëpo, me anë të profesionalizmit dhe përkushtimit të punëtoreve dhe veprimeve
+të ndërmarra nga Menaxhmenti i kompanisë kjo situatë është menaxhuar mirë, sipas udhëzimeve të
+IKSHPK dhe vendimeve të nxjerra nga Qeveria e Republikës së Kosovës. Për fat te keq, 5 punonjës të
+ndërmarrjes kanë humbur jetën nga COVID-19.
+
+Në aspektin e realizimit të projekteve kapitale, pandemia COVID 19 ka pasur efekt negativ, siç janë remonti
+kapital i njësisë A4 po ashtu shtyja e shumë projekteve të tjera duke përfshirë edhe projektin e financuar
+nga BE nëpërmjet fondeve IPA për ndërrimin e ESP dhe zvogëlimin e DE-NoX-it në TC Kosova B.
+
+Gjatë viti 2020, jemi përballur edhe me shpronësime të tokave dhe pronave që i hapin rrugë eksploatimit
+të qymyrit për furnizim të Termocentraleve. Ky proces është menaxhuar në mënyrën me të mirë të
+mundshme krahasuar me të kaluarën, duke përmbyllur projektin 52ha dhe realizimin rreth 60% të projektit
+129ha.
+
+Janë marrë masa në funksionimin e mirë të kontrolleve të brendshme ku janë lëshuar tridhjete (30)
+Urdhëresa Ekzekutive me qëllim rregullimin e aktiviteteve të brendshme të funksionimit të korporatës ose
+edhe për respektimin e kërkesave ligjore ose vendime të institucioneve të ndryshme. Poashtu, Zyra
+Ekzekutive për Përputhshmëri Institucionale dhe Organizative ka iniciuar 27 lëndë të natyrës së kontrolleve
+të brendshme dhe nga to 25 raporte janë publikuar dhe janë duke u trajtuar së bashku me menaxhmentin,
+në rritjen e cilësisë dhe mirë funksionimin e kontrolleve të brendshme.
+
+Gjatë vitit 2020, me kërkesë të KOSTT, KEK ka asistuar në pavarësimin e sektorit të energjisë, ku me
+anëtarësimin në ENTSO-E, KOSTT luan rolin e vet në bllokun rregullues të pavarur energjetik.
+
+
+                                               Faqe 10 e 53
+Gjatë këtij viti janë realizuar një sërë marrëveshjesh bilaterale si:
+       Amendamenti nr.1. i marrëveshjes se inkasimit me KEDS/KESCO për borxhet e vjetra (para
+        05/2013);
+       Amendamenti i marrëveshjes për furnizim me shumicë për çmimet e furnizimit me shumicë për
+        KEDS dhe KESCO për periudhën 01 Prill 2020 deri 31 Mars 2021;
+       Marrëveshja për çmimet e furnizimit me shumicë për KOSTT për periudhën 01 Prill 2020 deri 31
+        Mars 2021;
+       Marrëveshja mes KEK-ut dhe KOSTT-it për shërbimet ndihmese për periudhën Tetor - Dhjetor 2020;
+       Është arritur marrëveshje miqësore për zgjidhjen e kontestit KEK - EthosEnergy, vlera e kontestit të
+        bartur që nga viti 2014 ishte €1.3 milion;
+       Është nënshkruar marrëveshja për çmime për furnizimin me energji termike të TERMOKOS për
+        periudhën Tetor 2020- Prill 2021.
+
+Edhe për kundër sfidave të përmendura viti 2020 ishte vit i realizimit të objektivave të parapara në planin
+e biznesit si dhe përmirësimit të parametrave kyç të korporatës. KEK vazhdon të jetë një korporatë
+financiarisht e vet-qëndrueshme, kompani likuide dhe ka vazhduar të investojë në projekte kapitale me
+mjete vetanake, në kapacitetet e saja prodhuese dhe gjeneruese të energjisë elektrike, si dhe investime
+kapitale në përmirësimin e ambientit për të cilat synohet që të vazhdohet edhe në vitet në vijim. Janë
+nënshkruar kontrata për investime në divizionin e mihjeve dhe njësitë gjeneruese.
+
+Është eksportuar energji në shume prej €37.1milion, si dhe bilanci i depozitimeve të energjisë në KESH në
+fund vit është 4,643 MWh.
+
+Sfidë kryesore e KEK-ut, për vitin 2020 ka qenë përqendrimi në realizimin e planit të prodhimit të energjisë
+dhe në vazhdimin e investimeve për ngritjen e kapaciteteve të prodhimit duke rritur disponueshmerinë e
+pajisjeve që do të zvogëlojnë kostot e operimit. Po ashtu, KEK-u vazhdon të investojë në zvogëlimin e
+ndotjes së ambientit për shkak të vjetërsisë së Blloqeve të TCA-ve, stafit të shtyrë në moshë dhe
+zëvendësimin e tyre me kuadro të reja, investimin në kultivimin e sipërfaqeve të mbuluara me djerrinë me
+depozitë të mbyllura dhe pyllëzimi i tyre për ta kthyer tokën në gjendje të mëparshme, të cilat investime
+do të vazhdojnë edhe gjatë viteve në vazhdim.
+
+Në lidhje me projektin e ndërtimit të termocentralit Kosova e Re, edhe gjatë vitit 2020 KEK ka ofruar
+dokumentacione dhe shënime tjera Aksionarit përmes Ministrisë së Ekonomisë, me të cilën është në
+koordinim për aktivitetet e mëtejme lidhur me këtë rast. Kontrata me kompaninë e përzgjedhur nga
+aksionari është nënshkruar me dt. 20 dhjetor 2017. Në kuadër te marrëveshjet për TCKR kanë qenë tri
+
+
+                                                 Faqe 11 e 53
+marrëveshje që kanë prekur operimet e KEK (i) marrëveshja për furnizim me Linjit, (ii) Marrëveshja për
+deponim të hirit dhe grupe dhe (iii) marrëveshja për transfer të lokacioni. Aktualisht ky proces është në
+vonese për shkak të tërheqjes së kompanisë të përzgjedhur për ndërtimit e kapacitetit te ri.
+
+Pavarësisht ecurisë së këtij projekti, për tu përkujdesur për mirëqenien dhe te ardhmen ndërmarrjes, KEK
+duhet të investoj në Divizionin e Mihjeve siç është përcaktuar në planin e detajuar investiv për hapjen e
+Minierës se re (Raporti i MIBRAG-ut).
+Përveç aktiviteteve të veta të rregullta operative dhe financiare, gjatë vitit 2020 KEK ka pasur edhe një
+komunikim të intensiv me publikun.
+
+       Me të gjitha mediat janë mbajtur kontaktet e vazhdueshme, janë dërguar të gjitha përgjigjet në
+        pyetjet e parashtruara si dhe ishin lëshuar rregullisht njoftime për publik për aktivitetet kryesore
+        të korporatës. Gjate vitit 2020, kanë qenë rreth 900 përgjigje ne pyetje, prononcime mediatike si
+        dhe paraqitje publike.
+
+       Gjatë vitit të kaluar, fokus mediatik vazhdoi të ishte ballafaqimi i KEK-ut me situatën e pandemisë,
+        me theks të veçantë tek paraqitja e rasteve Covid pozitive në KEK. Është transmetuar mesazhi se
+        përkundër faktit se KEK është duke punuar me kapacitet të plotë, sfidave të kufizimit të lëvizjes dhe
+        reduktimit të stafit, janë zbatuar me sukses të gjitha masat mbrojtëse sipas rekomandimeve të
+        IKSHP dhe vendimeve të ndërlidhura të Qeverisë. Gjithashtu, në të gjitha mediat janë reflektuar
+        deklarimet rreth menaxhimit të mire të situatës në KEK për sa i përket gjurmimit dhe izolimit të
+        rasteve me Covid. Ndërlidhur me këtë, gjatë muajve të parë të paraqitjes së pandemisë. teme
+        mediale ishte edhe furnizimi i KEK-ut me pajisje mbrojtëse (maska dhe dezinfektues).
+
+       Teme mediatike gjatë kësaj periudhe ishte çështja e mungesës së punëtorëve me fokus në efektet
+        nga pandemia. Gjate shtjellimit të kësaj teme nga ana mediave, u be u qartë fakti se përkundër
+        vështirësive për shkak të pandemisë dhe moshës së shtyre të punëtorëve, prodhimi dhe operimet
+        në KEK nuk kishin asnjë ndërprerje apo ngecje nga plani. N; këtë rast u qartësua dhe u transmetua
+        fakti se KEK është duke prodhuar në përputhje të plote me planin ( si dhe duke tejkaluar atë)
+        ndërsa, mungesat në furnizim të konsumatorëve kishte të bënte me subjekte tjera nga KEK-u.
+
+       Teme mediale me fokus të lartë gjatë viti 2020 ishte finalizimi i Planit të Veprimit të Zhvendosjes
+        (PVZH) si dhe aprovimi tij nga ana e Ministrisë, për pjesën përfundimtareve (prej 129 ha) të Mihjes
+        Sibovc Jug-Perëndim. Gjate raportimit medial të kësaj, teme fokusi ishte rëndësia e kësaj zone për
+        prodhim stabil të qymyrit dhe energjisë si dhe tek bashkëpunim i shkëlqyeshëm në mes të gjitha
+        palëve ( KEK-ut, Ministrisë, Komunës dhe banoreve) në këtë proces jo të lehtë.
+
+
+                                               Faqe 12 e 53
+       Gjate disa muajve të vitit 2020 jehonë mediale kishin deklarimet publike nga Bordi rreth situatës
+        që kishte gjetur në KEK për sa i përket operimeve, mungesës së stafit si dhe detyrimeve ligjore për
+        shkak të padive. Ne këtë rast, u potencua fakti rreth zotimit të Bordit për një rishikim të integruar
+        funksional të skemave dhe operimeve të KEK-ut.
+
+
+
+Burimet Njerëzore
+
+
+Si një vit me rrezik për shëndetin e njerëzve, viti 2020 kishte pikërisht vështirësitë e veta në menaxhimin e
+burimeve njerëzore. KEK ka filluar vitin me 4033 punëtorë për ta mbyllur me 3884. Edhe gjatë vitit 2020
+kishte lëvizje të punësuarve, ku me konkurset e shpallura u punësuan, 153 punonjës të ri, ndërsa
+ndërprerjet e marrëdhënies së punës ishin më të mëdha. Gjate vitit janë pensionuar 229 punonjës ndërsa
+28 kanë ndërruar jetë (para moshës 65 vjeçare) nga shkaqe të ndryshme natyrore përfshirë edhe Covid-19.
+27 punonjës të tjerë kanë ndërprerë marrëdhënien e punës për arsye të ndryshme, nga ta 12 punëmarrës
+me marrëveshje (SMO) kane shkëputur kontratën e punës.
+       Gjate muajit tetor kishin filluar procedurat e përzgjedhjes rreth konkursit publike të shpallur me
+        14.09.2020. Në këtë rast, pas filtrimit fillestar, kishin përfunduar testimet me shkrim të mbi 8000
+        kandidatëve që kishin aplikuar për 171 pozita të shpallura. Për momentin të gjitha procedurat rreth
+        kësaj shpallje, sipas rekomandimit të Bordit, janë pezulluar deri në njoftimin e radhës.
+       Gjatë kësaj periudhe 12 mujore gjithashtu janë dhënë 12 vërejtje dhe vërejtje të fundit me shkrim,
+        9 suspendime të përkohshme, dhe kemi pas 2 shkëputje të kontratës së punës për shkak të
+        shkeljeve të detyrave të punës.
+Aktivitetet e trajnimeve gjate vitit 2020 ishin të limituara kryesisht për shkak të kufizimeve lidhur me masat
+për parandalimin e përhapjes së virusit. Megjithatë, gjatë vitit 2020 janë organizuar trajnime në masë të
+konsiderueshme, ku 914 sa ishte planifikuar, numri i të trajnuarve ishte 328 persona nga të cilët 95 ishin
+nga jashtë KEK sipas shpalljeve publike për organizimin e trajnimeve profesionale nga qendra trajnuese e
+KEK. Numri i ditëve të trajnimeve ishte 1,196 ditë trajnime për modulet: teknologji mekanike, teknologji e
+saldimit, teknologji elektrike, siguria në punë dhe menaxhim dhe administrim.
+
+
+
+
+                                               Faqe 13 e 53
+Departamenti i Mjedisit
+
+       Janë përgatitur dhe dërguar rregullisht raportet periodike mujore për gjatë tërë vitit 2020, në
+        MMPH dhe Komune te Obiliqit, si dhe është përgatitur dhe është publikuar raporti vjetor i gjendjes
+        mjedisore në KEK për vitin 2019, ku janë përfshirë të dhënat bazë që rezultojnë nga monitorimi i
+        mjedisit, si dhe janë paraqitur çështjet që kanë të bëjnë me mjedisin në KEK. Me këtë rast, aty janë
+        paraqitur shënimet monitoruese integrale të tërë sistemit, duke filluar nga lënda e parë, prodhimi
+        dhe shfrytëzimi i qymyrit, prodhimi i energjisë elektrike dhe efektet në mjedis.
+       Është përgatitë dhe dorëzuar në Gjykatë, ankesa ndaj gjobës së lëshuar nga Inspektorati Mjedisit
+        (të Ministrisë) për ndotje të pretenduar të ujerave të lumit Llap nga TCB.
+       Edhe pse me një dinamike më të vogël për shkak të pandemisë, gjatë këtij viti kanë vazhduar disa
+        aktivitete në terren dhe inspektimet e rregullta që kanë të bëjnë me çështje mjedisore në njësi
+        prodhuese brenda KEK-ut; si dhe
+       Gjatë tërë vitit ka vazhduar komunikimi dhe koordinimi rregullt me institucionet relevante
+        shtetërore për mbrojtje të mjedisit.
+
+
+Siguria Fizike
+
+
+Siguria fizike e objekteve dhe hapësirës se KEK-ut që nga prilli i vitit 2004 sigurohet nga kompanitë private
+të licencuara për ketë lëmi. Hapësira dhe objektet që sigurohen janë në një sipërfaqe prej më shumë se
+4,500 hektar. Në ketë hapësirë përfshihet Mihja sipërfaqësore, me të gjitha objektet dhe infrastrukturën
+tjetër (shiritat transportues, mekanizimi ndihmës, sistemi shiritave, rrejti elektrik dhe ekskavatorët),
+Termocentralet Kosova A dhe Kosova B, si dhe hapësira të mëdha të objekteve që nuk janë tashmë në
+funksion. Bashkëpunimi me operatorin ka vazhduar edhe gjatë 2020 si dhe ka pas raste bashkëpunim të
+mirë me Policinë e Kosovës, ku vetëm në tre muajt e fundit (tetor-dhjetor) ka pasur 52 thirrje për Policinë
+për asistim nga ana e rojeve dhe në këto thirrje Policia e Kosovës është përgjigjur pozitivisht në 50 sosh. Ky
+bashkëpunim ka rezultuar edhe në identifikimin dhe kapjen e hajnave nga ana e Policisë. Në bazë të këtyre
+bashkëpunimeve ka pasur edhe arrestime dhe dërgim në paraburgim.
+
+
+
+
+                                               Faqe 14 e 53
+Performanca Operative dhe Indikatorët kyç të Performancës
+
+Indikatorët kyç të Performancës për vitin 2020
+Viti 2020 ka qenë një vit i mirë është një nga vitet më të mira për sa i përket prodhimit dhe mbulimit të
+kërkesave për energji elektrike. Indikatorët Kyç të Performancës tregojnë se divizionet kanë shënuar
+progres, duke realizuar panin e prodhimit të qymyrit dhe të prodhimit të energjisë. Në raport me vitin
+paraprak, prodhimi i energjisë ishte më i lartë për 11%.
+
+Indikatorët Kyç të Performancës të cilët janë raportuar nga divizionet shërbyese brenda korporatës siç janë:
+financat, zyra ligjore, burimet njerëzore dhe shërbimet e korporatës, ofrojnë të dhëna në bazë të
+aktiviteteve për raportim në baza periodike. Informatat janë të rëndësishme për ecurinë e gjendjes
+financiare apo raportimin e gjendjes së të punësuarve që i shërbejnë Menaxhmentit dhe Bordit lidhur me
+marrjen e vendimeve të tanishme dhe vendime strategjike për të ardhmen e Korporatës.
+
+
+Divizioni i Mihjeve
+Roli i Divizionit të prodhimit të qymyrit është furnizimi në kontinuitet i Termocentraleve me qymyr në sasi
+dhe cilësi në bazë të kapaciteteve të pajisjeve ekzistuese, duke synuar kosto sa më të ulët të operimit dhe
+në ngritje të produktivitetit të prodhimit, në respektimin e bazës ligjore dhe rregulloreve në fuqi për
+sigurinë e minierës, personelit dhe pajisjeve të DPQ-it.
+Dy Indikatorët kyç të performancës së DPQ-it janë zhvendosja e djerrinës si dhe prodhimi i qymyrit të cilët
+janë treguesit kryesor matës dhe monitorues të krahasimit mes planit dhe realizimit të Planit Energjetik të
+aprovuar për vitin 2020 .
+Për prodhimin e Qymyrit, matja e performancës bëhet me kapacitetin dhe gjendjes e pajisjeve nga 18,000-
+36,000 ton ditor.
+Për IKP-së, të zhvendosjes së Djerrinës, treguesi matës për këtë IKP-së, bëhet në bazë të kapacitetit dhe
+gjendjes së pajisjeve nga (25,000-50,000) ton ditor të prodhimit të djerrinë me të cilën vijmë deri tek
+mesatarja vjetore për zhvendosjen e djerrinës në ditë.
+Rol më rëndësi për DPQ-it ,është mbajta e nivelit të rezervave të thëngjillit brenda kufirit, për TCA- 80,000-
+250,000 ton ,ndërsa për TCB-130,000-360,000 ton rezerva në depo.
+
+Divizioni i Mihjeve kishte për objektiv, si pjesë e Planit të Biznesit 2020, prodhimin e 8.55 milionë ton
+thëngjill dhe 13.0 milionë m³ djerrinë. Për implementimin e këtij plani në shërbim ishin lokacionet si Sibovci
+Jug- Perëndimor. Secila nga këto departamente kishte planet operative vjetore.
+
+                                               Faqe 15 e 53
+Siç shihet në Tabelën 1, prodhimi i Thëngjillit për vitin 2020 ka qene 8,537,948 ton apo 0.02% me e ultë se
+sa ishte planifikuar. Kurse, në segmentin e Djerrinës janë prodhuar 11,621,493 m³ apo 11.60% është më
+pak se plani vjetor i 2020.
+
+
+     Indikatori Kyç i                   2019           %e           2020           %e
+      Performancës      Njësia    Plani     Realizimi Realiz. Plani     Realizimi Realiz.
+ Sibovci Jug-Perëndimor
+   Prodhimi i Qymyrit    ton   7,970,000 8,063,051 101.17 8,552,170 8,537,948 99.83
+   Prodhimi i Djerrinës  m³    12,250,000 11,139,541 89.12 13,000,000 11,621,493 89.40
+                          Tabela 1 - Plani dhe Realizimi Divizioni i Mihjeve 2019-2020
+
+
+
+
+Në tabelën e lart paraqitur (Tabela 1) vërehen disa shmangie në realizim. Ky realizim dhe përafrim i planit
+të prodhimit të Qymyrit në raport me atë të parashikuar, është për shkak të ngritjes së efikasitetit dhe
+produktivitetit në punë dhe investimeve të vazhdueshme në pajisje dhe kapacitete prodhuese.
+
+Prodhimi i Djerrinës (nga Tabela 1) në total kishte realizueshmëri prej 89.40%, dhe qëllimi i Divizionit të
+Mihjeve ishte që të zhvendoset sa më shumë djerrinë nga Sibovci Jug-Perëndimor dhe të zbulohen rezerva
+të mjaftueshme në atë pjesë, mirëpo mos arritja e planit të paraparë është për shkak të pengesave nga
+vitet e kaluara në zhvendosjen e banorëve të fshatin Shipitullë, si dhe sanimi i shpatit perëndimor në S.J-
+P, ndërsa prodhimi i qymyrit ishte në vije me planin dhe e mjaftueshme për kërkesat e njësive gjeneruese.
+
+Investimet kapitale këto dy vitet e fundit që kapin shifrën e më shumë se €35.44 milionë kanë pasur efekt
+konstruktiv në efikasitetin e Divizionit të Mihjeve. Realizimi i shpronësimeve gjatë vitit 2020 kishte një ecuri
+të mirë me € 13.17 milion të realizuar çka e ulë ndjeshëm rrezikun për pengesa në prodhim dhe në zhvillimin
+e mëtejmë të planit ekzistues xehetar për avancimin e minierës ekzistuese. Pas shterimit të rezervave në
+sektorin e Sitnicës është mbyllur ky sektor dhe trajtimi ambiental të këtij sektori është bërë sipas planit
+duke hedhur mbetjet e hirit nga Termocentralet.
+
+
+                                                Faqe 16 e 53
+Divizioni i Gjenerimit
+Divizioni i Gjenerimit për vitin 2020 ka arritur rezultate të mira. Tek indikatori i Disponueshmërisë shihet se
+blloqet e kanë arritur përafërsisht planin dhe Performanca efektive e blloqeve si tërësi ka mundësuar të
+përmbushet plani i prodhimit bruto dhe neto.
+
+                                Njësia           Viti 2019          (%) e            Viti 2020          (%) e
+                                                                   realiz.                             realiz.
+                                         Plani        Realizimi              Plani        Realizimi
+ Disponueshmëria kohore
+             A3                   %        53.25         56.48      1.06       58.56         61.75      1.05
+             A4                   %        55.27         96.31      1.74       51.64         81.98      1.59
+             A5                   %        52.50         86.48      1.65       58.61         63.35      1.08
+             B1                   %        87.99         87.06      0.99       90.50         94.81      1.05
+             B2                   %        87.21         89.72      1.03       82.35         87.49      1.06
+ Gjenerimi Bruto
+          Kosova A              MW/h     2,111,014     2,366,471    1.12     2,134,197     2,395,776    1.12
+          Kosova B              MW/h     3,711,212     3,670,103    0.99     4,071,736     4,267,190    1.05
+ TOTALI (Kosova A + B)          MW/h     5,822,226     6,036,574    1.04     6,205,934     6,662,965    1.07
+ Gjenerimi Neto
+          Kosova A              MW/h     1,857,601     2,072,285    1.12     1,878,000     2,113,892    1.13
+          Kosova B              MW/h     3,354,635     3,325,467    0.99     3,641,132     3,869,299    1.05
+ TOTALI (Kosova A + B)          MW/h     5,212,236     5,403,752    1.04     5,558,832     5,983,192    1.08
+
+                                Tabela 2 - Divizioni TCA dhe TCB 2019-2020
+
+Siç shihet në tabelën 2, gjenerimi bruto dhe neto kanë arritur të përmbushin planin e prodhimit në shkallë
+1.07 % (bruto) apo më tepër për 7 % me atë të planifikuar, respektivisht 1.08% (neto) apo më tepër për 8
+% me atë të planifikuar.
+
+
+
+
+Krahasuar me vitin 2019, viti 2020 (shiko Tabelën më lart) ka më shumë prodhimtari bruto dhe neto, diku
+përreth 11.0 % më shumë se prodhim të energjisë elektrike në raport me vitin paraprak. Sipas Diagramës
+
+                                                 Faqe 17 e 53
+shihet se KEK ka shënuar rekord historik të prodhimit më i larti ndonjëherë që nga viti 1962. Kjo pasqyron
+faktin se investimet e vazhdueshme kapitale kanë luajtur rol kyç në rritjen e efikasitetit të divizionit.
+investimet kapitale në Divizionin e Gjenerimit që për vitin 2020 ishin €12.2 milionë.
+
+
+
+
+Performanca Financiare
+Megjithëse vit i ndikuar nga pandemia, performanca e përgjithshme e KEK-ut për vitin 2020 shfaqet më së
+miri përmes rezultateve financiare. Tashmë KEK ka vazhduar rezultatet e mira financiare. Viti 2020 rezulton
+me një ngritje të fitimit neto për 23.73% krahasuar me vitin 2019. Ky fitim ishte kryesisht si rezultat i rritjes
+së shitjeve të energjisë elektrike. KEK ka pasur rritje të ndjeshme edhe në kapitalin e vet punues si rezultat
+i ndryshimit të planeve investive nga shtyrja e projekteve të ndërlidhura me investimet e BE si dhe për
+shkak të pandemisë. Megjithatë kualiteti i fitimeve vazhdon të jetë i lartë.
+
+ Raportet e performacës                                     2020            2019           2018            2017
+
+ Qarkullimi i aseteve                                        0.46           0.44            0.39            0.41
+
+ Margjina e fitimit neto                                                                                  11.76
+                                                            12.32          10.38           10.32
+
+
+
+
+EBITDA shpesh i referohemi si një indikator i performacës financiare i cili mat fitimin me bazë të parasë së
+gatshme nga operacionet e vazhdueshme. Ajo është edhe një tregues i mirë i aftësisë së korporatës për të
+investuar në zëvendësimin e aseteve dhe në zgjerim biznesi. Gjatë vitit 2020 është përllogaritur € 67.44
+milion krahasuar me € 60.11 milion sa ishte në 2019.
+
+Në vijim, edhe efikasiteti i përdorimit të aseteve është rritur gjatë vitit 2020. Përkundër faktit se një numër
+i konsiderueshëm i punëtoreve nuk ka qenë në punë gjatë vitit si rrjedhojë e masave parandaluese për
+                                                 Faqe 18 e 53
+përhapjen e pandemisë, KEK ka rritur aftësinë e gjenerimit të hyrave nga viti në vit duke rritur qarkullimin
+mesatare aseteve nga viti 0.44 sa ishte në 2019 në 0.46 në vitin 2020. Po ashtu marxhina e fitimit neto
+është rritur në 12.32 % nga 10.38% sa ishte në vitin 2019. Kjo kryesisht si rezultat i gjenerimit të më shumë
+
+
+
+
+flukseve hyrëse të parasë me përdorimin e të njëjtave burimeve, si dhe me të njëjtat operacione në
+dispozicion. Megjithëse rezultatet e përfshira në analizë injorojnë faktorët rastësor ose të shpenzimeve jo
+të vazhdueshme të cilat për shkak të natyrës së biznesit, moshës së punonjësve, vjetërsisë së aseteve apo
+ndryshimeve të herë pas hershme në rregulloret e ZRRE për tarifat krijojnë ngarkesa financiare që
+zvogëlojnë fitimin e periudhës.
+
+
+
+
+Pasqyra e të ardhurave
+Siç shihet në draft pasqyrat financiare, korporata ka regjistruar një rezultat neto pozitiv për vitin që ka
+përfunduar më 31 dhjetor 2020 në shumë prej €23,78 milionë. Fitimi i realizuar për vitin i atribuohet
+kryesisht rritjes së të hyrave nga shitja e energjisë ku me shpenzime përafërsisht të njëjta me vitin paraprak,
+rritja e të hyrave ka ndikuar në rritjen e fitimit neto.
+
+Grantet e prezantuara në PA për 2020 janë grante të shtyra në vlerë € 5.22 milion. Kompania për vitin 2020
+nuk ka marrë grante nga Qeveria apo forma të tjera.
+
+Të hyrat operative totale të realizuara për vitin 2020 janë në shumë prej €193,02 milionë dhe janë me të
+larta për €7.89 milionë krahasuar me vitin 2019 ose shprehur në përqindje 4.2 % më e lartë krahasuar me
+vitin paraprak. Kjo rritje e të hyrave i atribuohet kryesisht shitjes së energjisë elektrike.
+
+
+
+
+                                                 Faqe 19 e 53
+Duke analizuar më në detaje, të hyrat nga veprimtaria janë këto:
+
+                                                         31 Dhjetor 2020                     31 Dhjetor2019       ndryshimi në
+                                                             (in EUR 000)                       (in EUR 000)                 %
+Shitja e energjisë
+Të hyra nga shitja e energjisë                                    141,001                            135,867                   4
+Të hyra nga jo-balanca                                              3,836                              3,318                  16
+Të hyrat nga ko gjenerimi                                           1,286                              1,131                  14
+Eksporti I Energjisë *                                             37,071                             32,544                  14
+                                                                  183,194                            172,860                   6
+Shitjet tjera
+Shitja e thëngjillit                                                1,994                              3,230                (38)
+tjera                                                                 656                                772                (15)
+                                                                    2,650                              4,002                (34)
+Gjithsej të hyra nga veprimtaria                                  185,844                            176,862                   5
+*Tek eksporti i energjisë përfshihet edhe shkëmbimi i energjisë me KESH SHA. KEK ka filluar eksportin e energjisë më 31 maj 2019.
+Para kësaj date eksporti është realizuar nga KESCO për llogari të KEK.
+
+       Të hyrat nga veprimtaria për këtë vit janë realizuar në shumë prej € 185,84 milionë kundrejt
+        €176.86 milionë një vit më parë me një rritje prej 5.1% ose € 8,98 milionë më shumë. Megjithëse
+        kemi pas një rritje të të hyrave, ndikim në shkallën e rritjes (përkundër rritjes së sasisë së energjisë
+        së shitur për 11.8 % krahasuar me vitin paraprak 2020: 5.78 GWh me 2019: 5.17 GWh energji
+        elektrike neto) kanë pasur edhe çmimi për energjinë e eksportuar, i cili si mesatare e vitit 2020 ishte
+        më i ulët krahasuar me vitin 2019 për 8.9 €/MWh.
+
+       Po ashtu, efekt kishte edhe rritja e kërkesës së energjisë për USS në raport me energjinë për
+        mbulimin e humbjeve. Përkundër nevojës së KEK për reflektimin e kostove të shpenzimeve dhe
+        nevojave për investime për të ardhmen, çmimet e energjisë për furnizim me shumicë për shërbim
+        universal (USS) si dhe ato për mbulimin e humbjeve u mbajtën të pandryshuara: 29.5€/MWh dhe
+        36€/MWh respektivisht, për të mos ndikuar në çmimet e konsumatorëve fundor në kohën kur
+        vendi po ballafaqohet me probleme ekonomike si rrjedhojë e pandemisë.
+
+       Të hyrat nga grantet janë realizuar këtë vit në shumë prej € 5,22 milionë kundrejt një viti me parë
+        me një ulje prej 10% ose € 0.6 milionë sipas shkallës së zhvlerësimit të aseteve me të cilat janë të
+        lidhura grantet e dhëna nga viti 2010, viti i fundit kur KEK ka përfituar grantet nga qeveria.
+
+       Të hyrat tjera janë realizuar këtë vit në shumë prej € 1,96 milionë kundrejt një viti me parë me një
+        uljeje prej 19.2% ose me të ultë prej € 0.466 milionë. Shitja e thëngjillit me kontratën ekzistuese
+        me Kosova Thëngjillin nuk është realizuar sipas planifikimeve për shkak të humbjes së një pjese të
+        tregut nga ana blerësit të KEK kryesisht për shkak të pandemisë.
+
+
+
+                                                      Faqe 20 e 53
+Faktorë tjerë që ndikojnë në të hyrat
+
+KEK ka marrëveshje për shitjen me shumicë të energjisë tek KESCO dhe KEDS të cilat rregullojnë detyrimet
+e palëve. Këto marrëveshje obligojnë KEK për nominimin e sasisë së prodhuar tek këta dy Operator dhe
+pjesën e mbetur nga energjia e eksporton. Si rrjedhojë e këtyre raporteve me blerësit kryesorë, e ndikuar
+nga presioni i mbajtjes së balancës sociale në vend ku synohet ofrimi i energjisë me kosto sa më të ulët,
+KEK nuk ka fleksibilitet në negocimin e çmimeve të energjisë. Si rrjedhojë edhe e pandemisë COVID -19,
+KEK ka marr vendim në BtD për mbajtjen e çmimeve të pandryshuara me të vetmin qëllim që të mos
+reflektohet në rritjen e kostos së jetesës për konsumatorët fundor. Nevoja për rritjen e çmimit të energjisë
+vjen si rezultat i obligimeve që KEK ka karshi strategjisë së Qeverisë së Kosovës dhe objektivave të veta për
+stabilitetin e prodhimit të energjisë, e cila mund të garantohet vetëm me realizimin e investimeve të
+domosdoshme. Figurat më poshtë japin një pasqyrë të aftësisë negociuese në përcaktimin e çmimit nën
+kushtet e numrit të vogël të blerësve dhe specifikave të korporatës në shitjen e energjisë si dhe rrjedhimisht
+ndikimi në realizimin e të hyrave:
+
+
+
+
+Pamundësia e arritjes së marrëveshjeve individuale për shitjen e energjisë për blerësit deri në 35kV
+(kryesisht për shkak të kufizimeve të cilat ekzistojnë në Marrëveshjet për Furnizim me Shumicë), dhe
+pamundësia e operatorëve për tu përgatitur për liberalizimin e tregut të energjisë është një sfidë për të
+ardhmen dhe e cila mund të ketë ndikim pozitiv në të hyrat e korporatës.
+
+
+
+
+                                               Faqe 21 e 53
+Pasqyra e shpenzimeve
+
+Gjithsej, shpenzimet operative për vitin 2020 janë realizuar në shumë prej €162.55 milionë e që krahasuar
+me € 160.27 milionë të vitit paraprak, janë më të larta për €2.3 milion. Ndikimin më të madh në këtë rritje
+e kishin shpenzimet e tantiemës të lidhura me prodhimin e thëngjillit si dhe shpenzimet për materialet e
+mirëmbajtje të cilat po ashtu janë të lidhura me pamundësinë e realizimit të investimeve kapitale sipas
+planit për shkak të pandemisë.
+
+Më poshtë, paraqitet në mënyrë grafike struktura e shpenzimeve sipas pjesëmarrjes si dhe krahasuar me
+vitin paraprak:
+
+
+
+
+    -   Shpenzimet e zhvlerësimit janë më të larta se viti paraprak me € 3.85 milion. Këtu kanë ndikuar
+        ndryshimet në vlerësimet kontabël si rrjedhojë e rivlerësimi të jetës së mbetur të dobishme të
+        aseteve i cili ka rezultuar me ndryshim në shumën e amortizimit të aseteve. Gjatë vitit 2020 KEK ka
+        formuar komisionet profesionale për vlerësimin e jetës së dobishme të mbetur të aseteve. Si
+        rezultat i këtij aktiviteti ka rezultuar me ndryshime në vlerësimet kontabël për zërin e zhvlerësimit
+        dhe e njëjta ka reflektuar në pasqyrën e të ardhurave për 2020.
+
+    -   Shpenzimet e personelit, arrin në € 54.17 milionë në vitin 2020, nga € 56.33 milionë të vitit 2019,
+        pra janë më të vogla për rreth €2.16 milionë. Në Shpenzimet e personelit për vitin 2020, janë
+        përfshirë edhe pagesa për punëtorë për rrezikun e pandemisë sipas vendimeve të BtD, tre muaj
+        (Mars, Prill dhe Dhjetor) nga 300 € për punëtorë, që në total për vitin 2020 kapin shumën e € 3
+        milion.
+
+    -   Shpenzimet e energjisë ku përfshihet importi dhe lëndët djegëse në vitin 2020 arritën në € 16.63
+        milionë dhe janë më të ulëta krahasuar me vitin paraprak për €1.29 milionë. Zërat kryesor në këto
+        shpenzime ishin shpenzimet e transmisionit me 7.4 milion që reflektojnë ndryshimin e vendimit
+                                               Faqe 22 e 53
+        ZRRE për shkallën e tarifës për çasje në rrjet të transmisionit të KOSTT.
+
+  SHPENZIMET E ENERGJISË (në EUR’ 000)                                     2020                      2019
+
+  Derivatet                                                               4,840                     5,632
+  Transmisioni                                                            7,404                     8,186
+  Shpenzime për mbulimin e humbjeve (Vendimi
+                                                                          3,052                     2,744
+  909_2017 i ZRRE)
+  Uji dhe Gazi                                                              718                       826
+  Shkëmbimi I energjisë                                                     616                       535
+  Të tjera                                                                                              -
+                                                                         16,630                    17,923
+
+
+    -   Shpenzimet tjera operative në tabelën e mëposhtme, janë realizuar në shumë prej €11.41 milionë
+        apo rreth €1.74 milionë me të ulëta se në vitin paraprak. Në këto shpenzime përfshihen edhe
+        shpenzime jo të vijueshme si shpenzimet për burimet minerale, shlyerja e parapagimeve tatimore.
+
+ SHPENZIME TË TJERA (në EUR’ 000)                                                 2020               2019
+
+ Shpenzime për burime minerale                                                 2,371                    -
+ Shpenzime të sigurimit                                                        1,713                1,828
+ Rastet gjyqësorë                                                              2,518                1,683
+ Licenca                                                                       1,183                1,216
+ Shpenzime jo të prodhimit                                                       600                  811
+ Shpenzime për mbledhjen e borxheve të vjetra –(KESCO)                            86                  261
+ Shlyerje të PPE dhe Stoqeve                                                     392                  401
+ Komunali                                                                        252                  294
+ Shpenzimet e taksave                                                            190                  185
+ Shpenzime e çështjeve gjyqësore dhe konsulencë                                  235                  147
+ Shërbime transportit                                                             52                   94
+ Dogana                                                                           94                    -
+ Dënime tatimore                                                                   -                5,874
+ Shlyerje e të arkëtueshmeve dhe aseteve tjera                                   835                  214
+ Të tjera                                                                        889                  143
+                                                                              11,410               13,151
+
+
+Si përfundim, në përgjithësi shpenzimet operative kryesisht kanë pozitë të krahasueshme me vitin paraprak
+sa i përket shpenzimeve të vijueshme. Ndërsa ka pas rritje të shpenzimeve jo të vijueshme, si rasti i
+shpenzimeve minerare, e korrigjimeve në pasqyra apo shlyerje të aseteve (parapagimeve për tatimet 2011)
+apo edhe shpenzimeve zhvlerësimit të cilat kanë ndodhur si rrjedhojë e vlerësimit të jetës së dobishme të
+mbetur të aseteve etj. Rritja e shpenzimeve ka pas edhe për kategoritë e shpenzimeve që lidhen me
+procesin e prodhimit, dhe që kanë një korrelacion të drejt me trendin e prodhimit si rasti i tantiemës; ose
+rritja shpenzimet e derivateve të cilat janë në lidhje me numrin e ndalesave të paplanifikuara
+
+                                               Faqe 23 e 53
+Gjendja e Kompanisë
+
+
+Kompania vazhdon të jetë në gjendje të mirë dhe me aktivitetin e vet ka rritur vlerën e aksionarit në
+kompani. Vlera e aseteve është rritur në vitin 2020 në €425.21 milion krahasuar me 417.04 në 2019.
+
+Paraja e gatshme në llogari është rritur si rezultat i performancës së mirë gjatë vitit, përkundër rrjedhjeve
+të paplanifikuara të parasë së gatshme gjatë vitit 2020. Ndërsa, zvogëlimi i stoqeve ka ndodhur si rezultat i
+rritjes së sasisë së stoqeve të futura në përdorim, kryesisht gjatë remontit të rregullt të realizuar në TCA
+dhe TCB, por edhe për aktivitete të mirëmbajtjes.
+Tek ndryshimi i vlerës së aseteve, rritja më e ndjeshme u shkaktua nga rritja e llogarive të arkëtueshme dhe
+parapagimet ndaj furnitorëve të cilat shkaktar kryesor kanë gjendjen e pandemisë.
+KEDS dhe KESCO gjatë vitit 2020 kanë deklaruar vështirësi në inkasimin e mjeteve nga konsumatorët e tyre,
+duke u vonuar në pagesën e faturave sipas marrëveshjes. Marrëveshja parasheh aplikimin kamatave
+ndëshkuese për rastet e vonesave në pagesë dhe si të tilla e ka rritur vlerën e Llogarive të arkëtueshme.
+
+Po ashtu parapagimet ndaj kontraktorëve të KEK të cilët janë pamundësuar të vijojnë punën për shkak të
+ndryshimeve në Bilancin Vjetor të Energjisë Elektrike (BVEE), pe ndërlidhur me shtyrjes për vitet në vijim
+(2022/2023) të projekteve të BE për Elektrofiltra dhe DeNx.
+
+Llogaritë e Arkëtueshme tregtare neto janë €40.85 milion krahasuar me €22.61 milion në vitin 2019.
+
+  Llogaritë e arkëtueshme tregtare në euro’ 000                             2020                     2019
+ Të arkëtueshmet tregtare:
+ Konsumator vendor                                                         42,763                  30,049
+ Konsumatorë të jashtëm                                                     4,510                   4,927
+ Interesi akrual                                                              883
+                                                                           48,156                  34,976
+ Lejimet (shënimi 27.B në PF)                                            (13,873)                (16,706)
+                                                                           34,283                  18,270
+ Të arkëtueshme tjera dhe parapagime:
+ Parapagime furnitorëve                                                     5,616                   4,361
+ TVSH e arkëtueshme                                                             -                     372
+ Garancione bankare                                                            10                     316
+ Të arkëtueshme të tjera                                                    1,584                     991
+                                                                            7,210                   6,040
+ Lejimet për humbjet nga të arkëtueshmet dhe
+                                                                            (643)                 (1,696)
+ parapagimet (shënimi 27.B në PF)
+ Total të arkëtueshme tjera                                                6,567                    4,344
+ Total                                                                    40,850                   22,614
+
+
+                                               Faqe 24 e 53
+Detyrimet janë zvogëluar krahasuar me vitin paraprak për vlerën e detyrimeve të shlyera për pjesën e
+kredisë dhe për detyrimet rrjedhëse për furnitorët të shlyera gjatë periudhës
+
+Llogaritë e pagueshme tregtare dhe të tjera janë zvogëluar për €1.5 milion respektivisht nga € 15.26 milion
+sa ishin në 2019 në € 13.79 milion në vitin 2020.
+
+
+
+
+  Llogaritë e pagueshme tregtare dhe te tjera (Në €’ 000)                    2020                  2019
+  Furnitorët:
+  Vendor                                                                    6,991                 8,321
+  Të jashtëm                                                                2,174                 2,512
+  Total furnitorët                                                          9,165                10,833
+  Të tjera (pagat, tatimet dhe kontributet pensionale, etj)                 4,634                 4,426
+  Total Llogaritë e pagueshme tregtare dhe të tera                         13,799                15,259
+
+
+
+
+Progresi i Projekteve Kapitale
+Investimet kapitale nuk kane pas një realizim sipas planit përfshirë edhe disa nga faktorët e përmendur në
+këtë raport të ndërlidhur me Covid-19. Dinamika e punës rreth kompletimit të projekteve mund të mos
+përfundojë brenda vitit dhe të vazhdojë në vitin vijues. Në fakt, disa projekte pritet të përfundojnë gjatë
+vitit 2021 dhe 2022 si projekte afat-mesme të kontraktuara nga ana e KEK-ut me operatorët ekonomik.
+
+
+
+
+Shpenzimet kapitale dhe projektet
+Projektet kanë vazhduar me dinamikë racionale. Investimet kapitale për vitin 2020 kanë shënuar rritje prej
+€2.46 milionë në krahasim me vitin paraprak. Te gjitha investimet në këtë periudhe janë realizuar nga
+mjetet vetanake te KEK-ut, dhe nuk ka pasur financim nga huat. Shpenzimet për investime kapitale të
+financuara nga KEK-u sipas divizioneve për periudhën raportuese janë realizuar në shumë prej € 36.91
+milionë .
+
+ Investimet kapitale në ‘000€                                                2020                    2019
+ Mihje                                                                      24,072                 13,250
+ Gjenerimi                                                                  12,200                 20,836
+ Te tjera                                                                      637                    401
+ Totali                                                                     36,910                 34,453
+
+
+
+
+                                              Faqe 25 e 53
+Divizioni i Mihjeve
+Shuma e shpenzimeve kapitale për divizionin e mihjeve për vitin 2020 arrin në €24.07 milionë.
+
+Lista e shpenzimeve kryesore për këtë divizion është si vijon:
+
+    -   Përvetësimi i tokave, €13.17 milionë.
+    -   Shpime Hulumtuese fusha e Jugut , €2.80 milionë.
+    -   Riparimi kapital elektromekanik i Ekskavatorit E9B SRs-1300, €2.23 milionë.
+    -   Riparimi elektromekanik i një shirit vetëlëvizës BRs 1200, €0.94 milionë.
+    -   Riparimi elektromekanik i Ekskavatorit E4M SRs-470, €0.32 milionë.
+    -   Ekskavator hidraulik me vemëza , €0.27 milionë.
+    -   Riparimi i shiritave Magjistral te qymyrit drejtimi TCB (TMLa1, b1, a2, b2, 9a, 9b, 4a, 4b, 14a dhe
+        14b) ,€ 0.14 milionë.
+    -   Ekskavator hidraulik teleskopik me rrota (2 copa) , € 0.48 milionë.
+    -   Automjete Tereni 4 cope, € 0.13 milionë.
+    -   Detektor për metale dhe Seperator elektromagnetik, € 0.28 milionë.
+    -   Vendosja e murit mbrojtës përgjatë rrugës se asfaltuar Separacioni ,A''(projekt I ndaljes se zhurmës
+        dhe mbrojtjes se banoreve nga pluhuri), € 0.19 milionë.
+    -   Gypa plastik Ø 300 ,L=3000M , € 0.13 milionë.
+    -   Riparim kapital u urës së pjerrtë B=1600), € 0.27 milionë.
+    -   Rrethimi i punëtorisë në Bardh, € 0.10 milionë.
+    -   Remontimi i stacionit veprues B=1800 mm, €2.56 milionë.
+    -   Projektet tjera të realizuara dhe realizimi te cilat priten gjatë vitit 2021, €0.15 milionë.
+
+Dinamika e punës rreth përfundimit të disa projekteve mund të mos përfundojë brenda vitit dhe të
+vazhdojë në vitin vijues.
+
+Divizioni i Gjenerimit te Energjisë
+
+Shuma e shpenzimeve kapitale për divizionin e gjenerimit (TC Kosova dhe TC Kosova B) për vitin 2020 arrinë
+në €12.2 milionë. Lista e shpenzimeve kryesore për ketë divizion është si vijon:
+
+    -   Riparimi i sinjalizimit dhe mbrojtjes ne bllokun A4, €0.14 milionë.
+    -   Furnizim me elektromotor te mullinjve, trafoja T5A dhe elektromotor për pompa furnizuese Lot 2
+        Furnizim me trafo T5A 15.75 6.3, €0.25 milionë
+    -   Demontimi, modernizimi dhe instalimi i pompave furnizuese ekzistuese, €0.59 milionë
+    -   Furnizim me elektromotor te mullinjve, trafoja T5A dhe elektromotor për pompa furnizuese Lot 2
+        Furnizim me elektromotor te mullinjve, €0.18 milionë
+    -   Liferimi dhe montimi i rampës te hidrogjenit CO2 ne bllk. A3. , €0.38 milionë
+    -   Riparimi kapital i turbinës dhe gjeneratorit të bllokut A3, €1.11 milionë
+    -   Demontimi, liferimi dhe montimi i shpërndarësve 0.4 kV, €0.15 milionë
+    -   Furnizimi me rotor te zgjueses, €0.10 milionë
+    -   Projekte tjera të realizuara në TCA, €0.24 milionë
+    -   Liferimi dhe ndërrimi i gypave te avullit përcjellës te mazutit dhe armaturës dhe valvave, brylave,
+                                               Faqe 26 e 53
+       prej stacionit te mazutit brenda blloqeve B1-B2 deri te brenerat, €0.18 milionë.
+   -   Ndërrimi i rezervuarëve të acidit në PKU, €0.11 milionë.
+   -   Furnizim me reduktor te skarës, €0.28 milionë.
+   -   Rehabilitimi i sistemit të ngasjes së mullinjve në TC Kosova B, €0.90 milionë.
+   -   Furnizim me valva për salle te makinave dhe PKU, €0.38 milionë.
+   -   Blerja e dy rotorëve të Mullirit të tipit VENTILATORIK, €0.40 milionë.
+   -   Liferimi, instalimi dhe komisionimi i teknologjisë “Smart” të fryrëseve të blozës në zonën e vatrës
+       së kaldajës B1 & B2, €1.71 milionë.
+   -   Ndërrimi i këmbyesve te nxehtësisë si dhe ndërrimi i hojeve te nxehësve te ajrit ne B1 dhe B2 ne
+       TC Kosova B, €2.86 milionë.
+   -   Furnizim me Valvat për armaturën e kaldajës B1 & B2, €0.24 milionë.
+   -   Prodhimi , instalimi dhe komisionimi i ashensorit elektrik industrial, €0.19 milionë.
+   -   Riparimi i katër xhuntave hidrodinamike VOITH të pompës furnizuese, €0.92 milionë.
+   -   Liferimi dhe montim i ritejnxemsave RBT dhe RHT në TC “Kosova B” ne njesin B2, €0.77 milionë.
+   -   Ndërtimi i deponisë së re të hirit ne fushën e Sitnices, €0.12 milionë.
+   -   Prodhimi dhe liferimi i një reduktori të skarës, €0.18 milionë.
+   -   Demontimi , blerja dhe montimi i zbarave të statorit si dhe komisionimi gjeneratorëve G1dhe G2
+       në TC Kosova B, €0.97 milionë.
+   -   Rehabilitimi i ndërtesës se mensës ne TC Kosova B, €0.30 milionë.
+   -   Përmirësimi i sistemit të kontrollit, pjesa HMI në PKU, €0.13 milionë.
+   -   Riparimi I kades së neutralizimit në PKU-së në TCB, €0.10 milionë.
+   -   Projektet tjera kapitale ne TCB, €0.99 milionë.
+
+Një pjesë e projekteve kapitale për Divizionin e Gjenerimit do të vazhdojnë edhe në vitin tjetër, sidomos
+ato në mbrojtjen e mjedisit dhe në kapacitetet gjeneruese.
+
+
+
+
+Divizioni i Shërbimeve të Korporatës
+Shuma e shpenzimeve kapitale për divizionin e shërbimeve të korporatës (që përfshin sektorin e IT-së) për
+vitin 2020 arrin në €637 mijë, që përfshinë furnizime me pajisje elektronike.
+
+
+
+
+                                             Faqe 27 e 53
+PLANI I BIZNESIT DHE PERSPEKTIVA PËR VITIN E ARDHSHËM
+
+Plani i Biznesit 2021 identifikon synimet e korporatës, plotësimi i të cilave do t’ia mundësonte KEK-ut të
+arrijë objektivat strategjike, të cilat kanë për qëllim përmirësimin e performancës financiare të kompanisë,
+duke rritur inkasimin e të ardhurave potenciale, përgatitjen e shthurjes funksionale (miniera e thëngjillit
+dhe gjenerimi), drejt qëllimit të afarizmit të qëndrueshëm, të cilat zotërohen, menaxhohen dhe operohen
+në pajtim me praktikat më të mira ndërkombëtare.
+
+Synimet e korporatës janë zbërthyer në një numër objektivash dhe qëllimesh numerike, të cilat duhet t’i
+arrijnë KEK-u dhe divizionet e saj. Plani afarist do t’i mundësojë KEK-ut që të gjurmojë, monitorojë dhe
+vlerësojë performancën e tij në nivel qendror dhe të divizioneve, dhe të përgatisë plane të detajuara
+veprimi për implementimin e suksesshëm të strategjisë zhvillimore të Korporatës Energjetike të Kosovës
+për vitet 2021-2025 e cila përfshinë projektet kryesore kapitale:
+
+    a. Plani Zhvillimor dhe Investiv ne Minierat Sipërfaqësore
+Plani zhvillimor dhe investiv i minierës është përgatit duke shfrytëzuar dokumentin nga plani i detajuar i
+prodhimit dhe investimeve për Minierën e Re. Në këtë planë të punuar nga Konsorciumi Mibrag, janë
+paraparë riparimi dhe shfrytëzimi i pajisjeve ekzistuese dhe aktualisht janë në proces të riparimit E4 M në
+pllaton qendrore, E9B në platon në shpatin lindor, S.V. B=1800mm dhe hartimi i specifikimit teknik për
+blerjen e ekskavatorëve të rijë.
+Gjate vitit 2021 është paraparë të fillohen procedurat për riparimin e P2B në platon qëndrore dhe E8B që
+aktualisht është në operim, me planifikimin që projekti të përmbyllet në vitin 2022.
+Për më tepër, në 2021 do të fillojë zëvendësimi i shiritave të gjatë 1400 mm që shkojnë në drejtim të
+termocentraleve, duke instaluar një linjë të re 1800 mm.
+Në vitin 2022 do të fillohet me riparimi dhe shfrytëzimi i pajisjeve dhe ne program është që të vazhdoj
+riparimi i ekskavatorin E5M. Shiritat e dytë magjistral për në Kosova B duhet të zëvendësohen me 1,800
+mm si edhe shiritat e qymyrit të sistemit i (1,600 mm në 1,800 mm) dhe III (1,400 mm në 1,800 mm).
+Gjithashtu, zëvendësimi i shiritave me sisteme 1,800 mm duhet të përfundojë me shiritat e sistemit të
+djerrinës IV. Do të futet në punë ekskavatori i ri i dytë i qymyrit, i pasuar nga nxjerrja nga përdorimi i
+ekskavatorëve të vjetër E1B dhe E1M me shiritat vetëlëvizës përkatës.
+
+
+
+
+                                              Faqe 28 e 53
+    b. Plani Zhvillimor dhe Investiv i TC Kosova A
+
+De-Komisionimi i pjesëve jothelbësore:
+Sipas Strategjisë së Energjisë të Kosovës 2017 - 2026 parashikon ndërtimin e kapaciteteve të reja
+gjeneruese dhe de Komisionimi e TC Kosova A, për arsye të ndryshme dhe procesit tashmë të deklaruar të
+dështimit për ndërtimin e TC Kosova e Re, pritet të ri shkruhet një strategji e re në këto rrethana të reja, ku
+duhet bazuar në resurse vendore dhe vendimmarrja për të ardhmen e TC Kosova A është mëse jetike.
+Tashme të gjitha njësive te këtij TC i kane kaluar jetëgjatësinë e tyre, gjithashtu është në proces e sipër de-
+komisionimi dhe çmontimi i objekteve të gazifikimit, azotikut, ngrohtores dhe objekteve tjera që nuk e
+pengojnë operimin normal të njësive aktive të TC Kosova A, në përputhje me vendimin e Qeverisë së
+Republikës së Kosovës Nr. 04/156 “Shfrytëzimi i linjitit në pajtim me të gjitha kërkesat të mbrojtjes
+mjedisore (ndërtimi, rehabilitimi dhe rindërtimi i kapaciteteve gjeneruese) duhet të plotësoj kriteret
+mjedisore siç është përcaktuar në komunitetit e energjisë e që janë pasqyruar në kriteret e BE-së: 04/156.”
+Zgjatjen e jetës së operimit të TC Kosova A për një periudhe se paku 25 vjeçare apo një operim nga 10 deri
+15 vjet si faze tranzitore deri në adresimin e sigurisë se furnizimit për vendin tonë. Kësaj zgjatje është duke
+i paraprijë një studim i fizibilitetit, që është në proces.
+
+
+
+
+    c. Plani Zhvillimor dhe Investiv i TC Kosova B
+
+Investimet ne TC Kosova B kryesisht bazohen në Studimin e Fizibilitetit për rindërtimin e këtij TC. Gjithashtu,
+duhet të kryhen edhe investime të tjera të cilat duhet të realizohen paralelisht. Si investimet në kaldaja,
+turbinat, gjeneratorin elektrik, instalimet elektrike, kondensator, sistemin e ujit furnizues dhe në strukturat
+ndërtimore. Plani i investimeve për ndikimet ambientale përfshinë:
+    -   Implementimi i projektit të DeNOX-it, Elektrofiltrave dhe transportit të brendshëm të hirit;
+    -   Trajtimi i ujërave shkarkuese nga TC Kosova B;
+    -   Zvogëlimi i grimcave të pluhurit – Filtrat Elektrostatik (ESP);
+    -   Masat për zvogëlimin e emisionit të pluhurit;
+    -   Masat për zvogëlimin i NOx;
+    -   Masat për zvogëlimin e SO2 (FGD);
+    -   Masat për trajtimin e ujërave të ndotura.
+
+
+
+
+                                                  Faqe 29 e 53
+    d. Burimet e Ripërtrishme
+Prodhimi i energjisë nga burimet e ripërtëritshme dhe plani i ndërtimit të parkut solar prej 100 MW me
+mundësi zgjerime për pjesët tjera në hapësirat e pashfrytëzuara për qëllime operative.
+
+
+
+
+Ambienti
+
+KEK mbetet i përkushtuar në realizimin e investimeve në ambient dhe në përmirësimin e mjedisit ku zhvillon
+aktivitetin e vet. Gjatë vitit janë zhvilluar projektet e mbjelljes së plantacioneve me fidanë dhe mirëmbajtjen
+e tyre. Në këtë drejtim janë zhvilluar edhe disa projekte të cilat kanë pas për qëllim rritjen e
+mbulueshmërisë me zona të gjelbërta, si investimet në shiritin e gjelbër përreth TC Kosova A, që do të
+ndikoj në përmirësimin e ajrit.
+
+
+Në bazë të matjeve të evidentuara në gjashtë stacionet monitoruese përreth ish deponisë së hirit të
+Kosovës A, gjatë periudhës se kaluar, trendi i rënies së nivelit të pluhurit total të depozituar në ajër ka
+vazhduar, duke qenë gjithnjë brenda nivelit të kufijve të lejuar. Gjatë vitit 2020 janë vazhduar kontaktet me
+BE për projektet e filluara për qëllime ambientale dhe mjedisore, të cilat pritet të realizohet përmes
+fondeve IPA2019.
+
+
+KEK gjatë vitit 2020 me vlerësimet e bëra për njohjen dhe matjen e provizioneve të ambientit, ka planifikuar
+që me buxhetin e vet të shlyej këto detyrime vit pas viti dhe të kryej investime në ku në bazë të vlerësimeve
+të arsyeshme, duke marr parasysh edhe vlerën në kohë të parasë, në rreth 10 vitet e ardhshme KEK pret
+që të ketë një dalje të parasë në vlerë €28.73 milion për çështje që lidhen me ambientin. Këto përfshijnë
+pastrimin dhe përmirësimin e tokës, ri kultivimin e tokave pyllëzimin e djerrinave, trajtimin e materieve të
+rrezikshme, asbestit, vajrave, trajtimin e ujërave etj.
+
+
+
+
+                                                Faqe 30 e 53
+Plani i Divizionit të Mihjeve
+Gjatë vitit 2021 Divizioni i Mihjeve planifikon 8.5 milionë ton prodhim të qymyrit dhe 13.0 milionë ton të
+djerrinës, duke furnizuar termocentralet me qymyr në sasi të duhur dhe në kohë, si dhe mbajtjen e
+rezervave të qymyrit në sasinë e planifikuar .
+
+Tabela e planit të biznesit 2021 për këtë divizion është si vijon:
+
+   Nr.           TREGUESIT KRYESORË TË PËRFORMANCËS                  Njësia           Plani për vitin 2021
+    1       Sibovci Jug-perëndimor
+                            Prodhimi i qymyrit                        ton                  8.500.000
+                          Zhvendosja e djerrinës                      m³                  13.000.000
+                               Tabela: Plani i Biznesit 2021 Divizioni i Mihjeve
+
+Sasia dhe cilësia e thëngjillit planifikohet duke u bazuar në bilancin energjetik, dhe sasia e djerrinës
+përcaktohet bazuar në konfigurimin e terrenit.
+
+
+
+
+Plani i Divizioneve të Gjenerimit te Energjisë
+Plani për prodhimin e energjisë elektrike është zhvilluar në bazë të Bilancit Vjetor Energjetik të KEK-ut. Për
+realizimin e planit, kusht kryesor është furnizimi i vazhdueshëm i thëngjillit në sasitë e duhura dhe me
+cilësinë e duhur, në përputhshmëri me planin e pajtuar edhe me Divizionin e Mihjeve.
+
+Tabela e planit të biznesit 2021 për Divizionin e Gjenerimit është si vijon:
+
+     Nr.           TREGUESIT KRYESORË TË               Njësia        Plani për vitin 2021 (MESATARJA/TOTALI)
+                      PËRFORMANCËS
+        1      DISPONUESHMËRIA                           %
+                             A3                          %                                                   58.0
+                             A4                          %                                                   58.0
+                             A5                          %                                                   64.0
+                             B1                          %                                                   95.0
+                             B2                          %                                                   95.0
+        2      GJENERIMI BRUTO                          MWh
+                          Kosova A                      MWh                                            2,163,744
+                          Kosova B                      MWh                                            3,045,068
+        3      GJENERIMI NETO                           MWh
+                          Kosova A                      MWh                                            1,904,000
+                          Kosova B                      MWh                                            2,752,728
+                              Tabela: Plani i Biznesit 2021 Divizioni i Gjenerimit
+
+
+
+
+                                                   Faqe 31 e 53
+Ndikimet e Jashtme në Planin e Biznesit
+
+Viti 2020 është shoqëruar me sfida të ndryshme që kanë pasur një ndikim në planin e biznesit, dhe sidomos
+në realizimin e projekteve kapitale, të cilat cila gjatë 2020 është realizuar me €36.9 milion krahasuar me
+34,45 në 2019. Edhe pas 2020 për korporatën sfidat kryesore vazhdon të mbetet:
+
+
+     Për shkak të vjetërsisë se kapaciteteve aktuale gjeneruese, sfidë mbetet mbajtja e prodhimit të
+        energjisë në sasinë e planifikuar për ta mbuluar gjithë kërkesën vendore. Gjatë vitit 2020 me vonesa
+        të theksuara dhe me impakt në ndalesat e paplanifikuara dhe në bilancin energjetik, është bërë
+        pranimi teknik i remontit kapital të bllokut A3. Po ashtu, për shkak të procedurave të prokurimit,
+        ka pas vonesa të theksuara në realizimin e remontit kapital të Bllokut A4, i cili gjatë 2020 nuk është
+        kontraktuar edhe për shkak të ankesave të shumta sipas LPP.
+
+
+     Aktualisht KEK ballafaqohet me konteste të shumta gjyqësorë të cilat bazohen kryesisht në
+        interpretime të kaluara ligjore dhe zbatimin praktik të ligjit të punës ose me konteste të ndrysmë
+        në zbatimin e tij. Rastet përfshijnë edhe ish/punëtorëve të KEK, kryesisht raste të vjetra të cilat
+        datojnë nga ndarja e distribucionit por edhe konteste të tilla për pagesat e orëve jashtë orarit dhe
+        të vikendeve.
+
+
+     Pensionimet e kuadrove me përvojë dhe vonesat në zëvendësimin e tyre ka ndikuar në arritjen në
+        kohë dhe me cilësi të objektivave, duke shkaktuar vonesa në realizimin projekteve.
+
+
+     Më 30 Qershor 2020, Gjykata Kushtetuese e Kosovës mori vendim për shpalljen jo kushtetues të
+        Ligjin 06/L-111 për Pagat në Sektorin Publik, me çka ndryshon edhe rrjedhën e pritshme të daljeve
+        të parasë së gatshme sipas planeve të aprovuara.
+
+
+     Ndryshimet e njëanshme të taksave/tarifave nga autoritet rregullatorë që ZRRE me aplikimin e
+        tarifave për çasje në rrjetin e KOSTT –it e të tjera.
+
+
+     Megjithëse, Pandemia shkaktoi çrregullime të mëdha në të të gjithë ekonomie e vendit, sektori i
+        minierave dhe ai i energjisë ku operon KEK ka mbajtur një nivel të lartë të realizimit të planit të
+        prodhimit. Megjithëse kërkesat për zvogëlimin e stafit dhe mbajtjen e distancës kishin efekt në
+        organizimin punës, efektet e tyre në realizimin e planit ishin minimale.
+
+                                                Faqe 32 e 53
+ Efektet tatimore të KEK në ekonominë e vendit janë të rëndësishme, gjatë vitit 2020 ka paguar
+    €3,08 milion krahasuar me € 2,75 milion në 2019.
+
+
+ Një ngjarje me ndikim pozitiv për KEK, që erdhi si rezultat i pandemisë ishte aprovimi i ligjit nr.07/L-
+    016 për rimëkëmbje ekonomike- Covid 19, në nenin 14 të tij, i liron nga detyrimi për pagesë të
+    rentës minerare të gjitha subjektet që obligohen ta paguajnë këtë rentë sipas nenit 58 të ligjit për
+    Miniera dhe minerale nr.03/L163 i plotësuar /ndryshuar me ligjin nr.04/L-158, për periudhën 01
+    Janar- 31 Maj 2021. Kjo do të jetë një masë e rëndësishme stimuluese për objektivat afatgjata të
+    KEK në realizimin e projekteve si Hapja e Minierës së Re dhe Revitalizimi i TCB. Sipas përllogaritjeve
+    10.6 milion do të jenë shkurtimet në shpenzimet e tantiemës për pesë muaj 2021.
+
+
+ Realizimi i investimeve strategjike në ndërrimin e elektro-filtrave në TCB të planifikuara të
+    realizohen sipas planit të paraparë për vitin 2020 fillimisht janë shtyrë fillimisht për vitin 2021,
+    pastaj në shkurt të këtij viti janë shtyrë sërish për vitin 2022. Kjo ka bërë që bilancet energjetike të
+    ndryshojnë dhe rrjedhimisht edhe planet buxhetore për vitet respektive.
+
+
+ Vështirësi në realizimin e projekteve kapitale edhe në divizionet të tjera të cilët kanë qenë të
+    planifikuara të realizohen gjatë 2020.
+
+
+ Përkundër që minierat e KEK qëllim primar kanë prodhimin e thëngjillit për nevoja të
+    termocentraleve të veta KEK e ka pas të planifikuar shitjen e thëngjillit. Rënia e kërkesës për
+    thëngjill si rezultat i pengesave në qarkullim gjatë vitit 2020 dhe vështirësitë në inkasimin nga ana
+    e Kosova thëngjillit kanë pas efektet e veta në mosrealizimin e planeve për shitjen e thëngjillit tek
+    palët e treta.
+
+
+
+
+                                             Faqe 33 e 53
+Menaxhimi i rreziqeve të Korporatës
+
+Rreziqet e korporatës janë ato ngjarje që ndikojnë në arritjen e objektivave të paracaktuara të KEK. Sipas
+kërkesave të ligjit 06/L-021 për Kontrollin e Brendshëm të Financave Publike, rregulloren e MF Nr. 01/2019
+për Menaxhimin Financiar dhe Kontrollin dhe rregulloreve të brendshme për menaxhimin e rreziqeve, KEK
+ka identifikuar rreziqet e veta sa i përket njësive të biznesit dhe njësive mbështetëse duke mbajtur fokusin
+në minimizimin e tyre dhe në menaxhimin sa më të mirë që të ketë mundësi të ruaj kursin drejt realizimit
+të objektivave pa kosto të paparashikuara ose me kosto sa më minimale.
+Palët e interesuara duhet ti kushtojnë vëmendje këtyre treguesve të rrezikut të identifikuar nga burime
+të brendshme të vlerësimit dhe mbi këto informata dhe të dhënat historike mund të ndikojnë në
+opinionin e tyre lidhur me ecurinë e KEK-ut në të ardhmen, dhe përpjekjeve që KEK është duke bërë për
+ruajtjen e vazhdimësisë në rritjen e vlerës për aksionarin, nën vëmendjen e ekzistimit të rreziqeve të
+cilat bartin pasiguri dhe ngjarje që mund të afektojnë arritjen e synimeve.
+
+
+Viti 2020 karakterizohet tashmë nga pandemia e Covid 19 si dhe e përcjellë me një ndryshime të
+vazhdueshme politike në vend të cilat kanë ndikuar në strategjinë afatgjatë të korporatës.
+
+
+Covid-19 – gjatë periudhës mars-qershor 2020 kur vendi ishte i mbyllur si rrjedhojë e pandemisë, u
+dhanë efektet e para në raporte partneriteti me palët e tjera. Efektet e pandemisë së virusit covid-19,
+në ekonominë vendore edhe si rezultat i masave të marra për parandalimin e përhapjes së pandemisë,
+kanë dhëne efekt që vazhdojnë të ndjehen edhe gjatë vitit 2021 në realizimin e planeve financiare të
+KEK në vitin 2020. KEK ka themeluar Komitetin e Sigurisë për të menaxhuar dhe përcjell nga afër
+rreziqet e situatës së pandemisë, duke marr masat mbrojtëse për parandalimin e përhapjes së
+sëmundjes tek punëtorët e korporatës. Disa nga aktivitetet e shtuara si rrjedhoje e rekomandimeve të
+IKSHP, ishin dezinfektimi i hapësirave, testimi i punonjësve për infektim, etj. Megjithatë, disa nga
+efektet e para që janë vërejtur nga pandemia që në fillim:
+    a) Pamundësia e realizimit të projekteve të rëndësishme strategjike për KEK të parapara të
+        realizohen nga Prill 2020 si projekti Eletro-filtrave donacion nga BE me fondet IPA 2018.
+        Zhvendosur për vitin 2022-23.
+
+    b) Rritja e numrit të problemeve në projektet afatgjata kryesisht me ato të ndërlidhura me
+        Pandeminë.
+
+    c) Projekte të ndërlidhura me revitalizimin e TCB furnizimet dhe prodhimet e materialeve dhe
+        pajisjeve për këtë qëllim.
+
+
+
+                                              Faqe 34 e 53
+   d) Rreziku i kreditimit- realizimi i të hyrave të faturuara me kohën. KEK gjatë vitit 2020 ka pasur
+       një prodhim stabil dhe për shkak të natyrës së tregut e tërë energjia është shitur në vend me
+       përjashtim të tepricave-energji e natës, të cilat janë eksportuar. KEK ka pas vonesa në
+       realizimin e të hyrave nga shitjet për USS dhe Mbulimin e Humbjeve e cila ka ardhë si rezultat
+       i vonesës së pagesave nga konsumatorët, e ardhur po ashtu nga mbyllja e ekonomisë si masë
+       e ndërmarrë nga Qeveria e Republikës së Kosovës për menaxhimin e pandemisë në muajt
+       Mars-Qershor 2020.
+
+   e) Ndryshime në strukturën e të konsumit të energjisë elektrike, duke zvogëluar konsumin e
+       energjisë elektrike për mbulimin e humbjeve dhe rritja e kërkesës për energji për USS.
+
+   f) Rritje e kostove operative për kategori të identifikueshme dhe që i atribuohen kryesisht
+       pandemisë: të tilla si shpenzimet e personelit, desinfektimi i hapsirave, masat mbrojtëse për
+       punëtorë, testimet e punëtorëve etj.
+
+Ndikimet e COVID-19 në aspektin e menaxhimit dhe kryerjes së punëve nga distanca përmes rritjes së
+komunikimeve dhe marrjes së vendimeve përmes platformave online, ka shkaktuar një ndryshim të
+madh në kulturën e punës brenda organizatës. Gjatë vitit 2020 sidomos në muajt Mars-Prill 2020 KEK
+kishte rreth 830 punëtorë më pak në punë si rezultat i vendimeve të Qeverisë për mbrojtje ndaj
+pandemisë si kufizimet e numrit të personave për hapësirë të caktuar, kujdesit ndaj fëmijëve/familjes,
+rastet personave të rrezikuar nga infektimi e që janë me sëmundje kronike, staf tjetër i kategorizuar si
+jo-esencial dhe punë nga shtëpia, etj.
+
+Gjatë muajit Dhjetor 2020 KEK ka filluar me procesin e menaxhimit të rreziqeve. Kjo procedurë ka
+filluar me vlerësimin e rreziqeve aktuale dhe identifikimin e rreziqeve të reja të mundshme. KEK ka pas
+për synim identifikimin dhe menaxhimin e rreziqeve aktuale dhe të ardhshme si dhe krijimin e një
+kulture për përgjigje ndaj situatave ku rreziqet e ndryshme mund të ndikojnë në realizimin e
+objektivave afatgjata të ndërmarrjes:
+
+
+Identifikimi i rreziqeve
+
+Sipas rregullores, organizata obligohet fillimisht të njoh rreziqet e mundshme që më pas të merret me to.
+Kjo arrihet përmes shtjellimit të situatave në nivele të ndryshme të vendimmarrjes ose zbatuese lidhur me
+atë se se çfarë mund të ndodh? Ku, kur dhe si mund të ndodh?
+
+
+
+
+                                             Faqe 35 e 53
+Organizata përgjithësisht përballet me disa lloje të rreziqeve të cilat janë të grupuara në listën e rreziqeve
+në aneks të raportit. Në vijim, në mënyrë të përmbledhur sipas kategorizimit të rreziqeve, përshkruajmë
+këto gjetje:
+
+    a) Rreziqet Strategjike si: këto janë rreziqe për të cilat niveli i vendimmarrjes është në nivel të Bordit
+        të Drejtorëve. Prandaj në këtë kategori hyjnë: kultura dhe qeverisja korporative, planifikimi jo
+        adekuat/ tejkalimi buxhetit, konkurrenca e jashtme, vendimmarrja për ndryshimet në politikën e
+        çmimeve, transparenca dhe informimi i aksionarit, përgjegjësia shoqërore e organizatës etj. Gjatë
+        vitit 2020 si rrjedhojë edhe e ndryshimeve politike në nivel vendi, KEK kishte ndryshime të shpeshta
+        në organin mbikëqyrës dhe vendimmarrës për strategjinë e KEK. Problematike në aspektin
+        strategjik mbetet e ardhmja e TCA dhe në këtë pikë realizimi sa më i shpejtë i projektit të studimit
+        të fizibilitetit të saj do të ndikoj në biznesin e KEK në përcaktimin dhe realizimin e objektivave të
+        korporatës. Blerja e pajisjeve për Minierën e Re ka pas një ecuri të mirë gjatë vitit 2020 e cila ka
+        kulmuar me hartimin e specifikacionit teknik për blerjen e dy ekskavatorëve nga ana e konsulentëve
+        të angazhuar përmes USAID, nga marrëveshja e mirëkuptimit me MZHE. Si rrjedhojë edhe e
+        orientimeve të KEK për rritjen e efikasitetit dhe performancës, Bordi i Drejtoreve së bashku me
+        menaxhmentin ka vendosur të realizoj rishikimin funksional të skemës organizative të KEK sha e
+        cila është në proces dhe vazhdon të realizohet gjatë 2021.
+
+
+    b) Rreziqet financiare si: gjendja e përgjithshme ekonomike në vend reflekton në biznesin e
+        korporatës në disa aspekte si: realizimi i të hyrave, likuiditeti/paraja e gatshme, raportimi dhe
+        kontrolli financiar, çmimet e karburanteve, ndryshimet në rregullat e industrisë zbatuar nga ZRRE,
+        kostot e prodhimit jo-konkurruese/mos pranimi i kostove të prodhimit në çmimet e energjisë,
+        ndryshimi në normat e interesit, etj. Niveli i vendimmarrjes është i menaxhmentit /BtD.
+
+
+    c) Rreziqet operative si: probleme me mungesën e burimeve njerëzore si dhe mosha mesatare e lartë
+        e punëtorëve, probleme në rrjetin e furnizimeve dhe në menaxhimin e kontraktimeve, dështime
+        në realizimin e kontratave, mosfunksionim i pajisjeve kryesore, gabime të operatorëve /dëme
+        aksidentale, probleme në funksionimin e kontrolleve të brendshme, vjedhja dhe mashtrimet, etj.
+        Niveli i vendimmarrjes është i menaxhmentit.
+
+
+    d) Rreziqet e përputhshmërisë si: detyrimet e drejtorëve dhe zyrtarëve lartë të korporatës për
+        përputhshmërinë e rregulloret dhe ligjet e aplikueshme si dhe funksionimin e mirë të kontrolleve
+        të brendshme, mbrojtja e shëndetit dhe siguria e punëtorëve ishin rreziqe të theksuara dhe kritike
+
+                                               Faqe 36 e 53
+        gjatë 2020, detyrimet ndaj palëve të treta për rastet e arbitrazhit, detyrimet për kontestet ligjore
+        nga punëtorët e cila përkundër trajtimeve të vazhdueshme në 2020 ka pas një rritje nga 2019,
+        detyrimet për trajtimin e asbestit, detyrimet për mbrojtjen nga ndotja atmosferike e tokës/ujit dhe
+        ajrit, rreziqet e katastrofave natyrore, raportimi rregullativ etj.
+
+       Në Nëntor 2020 KEK ka pranuar raportin përfundimtar për vlerësim te riskut, nga kompania
+        konsulentë e angazhuar për të siguruar informata dhe specifika lidhur me tregjet ekzistuese të
+        sigurimeve dhe mundësitë e sigurimit të aseteve qenësore te KEK-ut nën kushtet e tyre fizike. Ky
+        raport bazohet në kushtet dhe praktikat e vëzhguara dhe informacionin e vënë në dispozicion në
+        kohën e studimit vlerësues. Ky studim përfshiu një rishikim të gjendjes së ndërtesave,
+        operacioneve, rreziqeve natyrore dhe sistemeve të mbrojtjes nga zjarri duke përjashtuar sigurinë
+        e jetës. Studimi gjithashtu përfshiu një rishikim të kontrolleve administrative të tilla: si inspektimi,
+        testimi dhe mirëmbajtja e sistemeve dhe pajisjeve të mbrojtjes nga zjarri, dëmtimet e këtyre
+        sistemeve dhe planifikimi i emergjencave te mbrojtjes nga zjarri.
+
+
+       Gjatë studimit në terren, rreziqet janë konstatuar të janë brenda konceptit të zbutjes së rrezikut.
+        Objektet e shqyrtuara gjatë studimit konsiderohen në gjendje mesatare të krahasuar me impiante
+        shtetërore që përdorin teknologji dhe kane moshë të ngjashme. Megjithatë, për shkak të moshës,
+        këshillohet fuqimisht që një rehabilitim gjithëpërfshirës me domethënës duhet të planifikohen
+        investime në të gjithë impiantet kyqe.
+
+
+       Ne këtë raport jenë dhënë edhe rekomandimet specifike për formulimin (ose përmirësimin
+        ekzistues) të Programeve të Menaxhimit si dhe sigurimin (ose rritjen) e masave mbrojtëse fizike
+        për të kontrolluar rreziqet specifike kryesisht të analizuara nga pikëpamja dhe fushëveprimi i këtij
+        raporti.
+
+Për shkak të riskut, vlerës së lartë të parashikuar të primit dhe kufizimeve të tregut të sigurimeve, deri tani
+nuk kemi arritur te bëjmë sigurimin e aseteve. Për këtë arsye, me kërkesë të Aksionarit, me qellim të dhënies
+së informacioneve që do të mundësojnë re-siguruesit kredibil të ofertojnë për shitje të polices së sigurimit,
+kemi kontraktuar shërbimet për vlerësim te riskut në KEK. KEK është në proces te shqyrtimit të opsioneve
+për arsyeshmërinë dhe mundësinë e blerjes se polices së sigurimit nën kushtet e kostos së lartë në raport
+me përfitimet e pritshme.
+
+
+
+
+                                                 Faqe 37 e 53
+Ekspozimi i ndërmarrjes ndaj rreziqeve të çmimeve
+
+Ndjeshmëria e ndërmarrjes ndaj rrezikut të ndryshimit të çmimeve i ka të bëjë me shkallën e ndryshimit në
+kërkesën e konsumatorit si rezultat i ndryshimit të çmimit të produktit.
+
+Gjatë vitit 2020 përkundër kërkesave fillestare për rritjen çmimit me fokus në reflektimin e kërkesave të
+brendshme për investime si dhe me qëllim reflektimin e kostove të KEK, me vendim të BtD dhe me qëllim
+reflektimin e sugjerimeve të ZRRE për mos ndryshim të çmimeve për të mos ngarkuar konsumatorët me
+kosto shtesë, si rrjedhojë edhe e rënies ekonomike nga COVID -19, janë aprovuar çmimet e shitjes së
+energjisë elektrike, të njëjta me ato të vitit paraprak, respektivisht për USS 29,5 €/MWh, për mbulimin e
+humbjeve 36 €/MWh.
+
+Megjithatë efektet e ndryshimeve në çmimin e energjisë në tregjet ndërkombëtare si refleksion i rënies
+ekonomike globale të shkaktuar nga pandemia, janë vërejtur në çmimin e energjisë së eksportit i cili si
+mesatare në vitin 2020 ishte 30.7 €/MWh krahasuar me atë të 39.63 €/MWh në vitin 2019.
+
+Kërkesa për produktit të energjisë elektrike si produkt i domosdoshëm nuk është i ndjeshëm ndaj
+ndryshimit të çmimit. Duke qenë se e gjithë sasia e prodhuar shitet, dhe mbi 85 % e energjisë së prodhuar
+shitet në vend, sasia e kërkuar pritet të rritet në varësi të rritjes ekonomike. Të hyrat e korporatës janë të
+ndikuara nga kapacitetet prodhuese, stabiliteti i tyre dhe nga niveli i çmimit. Gjatë vitit 2020 çmimi mesatar
+i energjisë ishte 30.8 € për MWh, ndryshimi në çmimin mesatar të energjisë elektrike me ±1€ do të kishte
+një lidhje pozitive lineare me një efekt konstant të ndryshimit prej ±3.3% në të hyrat e realizuara për vitin
+nën supozimin se prodhimi realizohet sipas plani për vitin 2021.
+
+
+
+
+Nga Maji i vitit 2013, KEK nuk importon energji elektrike për të mbuluar deficitin në bilancin energjetik të
+Kosovës, prandaj, ekspozimi ndaj rrezikut të mallit është i kufizuar vetëm në çmimet e eksportit të
+energjisë.
+
+
+                                               Faqe 38 e 53
+Ekspozimi i ndërmarrjes ndaj rreziqeve të kreditimit
+
+KEK –u gjatë viti 2020 është i ekspozuar ndaj rrezikut të kreditimit si rrjedhojë e aktiviteteve të veta të
+shitjes. Vonesat në mbledhjen e detyrimeve nga ana e konsumatorëve nga ana e KESCO si rrjedhojë e
+kufizimit të lëvizjes, mbylljes së ekonomisë në periudhën Mars- Qershor 2020 ka shkaktuar vonesa në
+pagesën e faturave ndaj KEK. Rreziku është i mundshëm nga rritja e gjasave për mos shlyerje të detyrimeve
+kontraktuale sipas marrëveshjeve dhe afateve të pagesës së paraparë me faturim. Sipas gjendjes më 31
+Dhjetor 2020 llogaritë e arkëtueshme nga konsumatorët vendor, konsumatorët e huaj dhe llogaritë e tjera
+të arkëtueshme, janë rritur në € 40.85 milion nga € 22,61 milion sa ishte në vitin 2019. Kryesisht janë borxhe
+të prapambetura nga KESCO, KEDS, Kosova Thëngjilli.
+
+Shitjet vendore, kompania merr garanci kur është e përshtatshme për të zbutur rrezikun e kreditimit.
+Politika e kompanisë është që të operoj me kushte të kredisë që variojnë nga 30 deri në 90 ditë.
+
+Të arkëtueshmet tregtare përbëhen nga një numër i vogël i konsumatorëve, prandaj edhe kushtet e kredisë
+menaxhohen me monitorim individual të blerësve për çdo muaj.
+
+Ndërsa sa i përket eksportit të energjisë, kompania ka marr masa për transferin e rrezikut të kreditimit të
+shitjes së eksporteve përmes mbulimit të shitjeve me garancione të përmbushjes. Po ashtu shitjet
+realizohen strikt sipas rregullave të aprovuara nga ZRRE dhe me operatorë të licencuar.
+
+Megjithatë rreziku i kredisë për para dhe ekuivalentë të saj konsiderohet i papërfillshëm, pasi palët janë
+banka me reputacion dhe në përgjithësi sektori bankar në Kosovë konsiderohet me stabilitet të lartë.
+Ekspozimi maksimal i kompanisë ndaj rrezikut të kredisë pasqyrohet nga vlera kontabël e secilës pasuri
+financiare në Pasqyrën e Pozicionit Financiar.
+
+
+
+
+Ekspozimi i ndërmarrjes ndaj rreziqeve të likuiditetit
+
+Rreziku i likuiditetit dhe rrjedhës së parasë ka të bëjë me aftësinë e kompanisë për të gjeneruar mjete të
+mjaftueshme për të shlyer detyrimet e veta afatshkurtër. Këta tregues financiar monitorohet në mënyrë të
+kujdesshme dhe raportohen në baza periodike tek organet mbikëqyrëse dhe tek aksionari. Gjatë vitit 2020,
+përkundër rritjes së llogarive të arkëtueshme nga vonesat në pagesën e faturave rrjedhëse, kryesisht nga
+konsumatorët e vet kryesor KESCO dhe KEDS, KEK ka pasur një nivel të lartë likuiditetit, kjo edhe si rrjedhojë
+e mos realizimit të disa nga projektet kryesore investive të cilat janë shtyer për vitet vijuese për shkak të
+
+
+                                                 Faqe 39 e 53
+pandemisë, duke ulur nivelin e kërkesave për daljen e parasë së gatshme por edhe si rrjedhojë e rritjes së
+shitjeve.
+
+Niveli i kapitalit punues neto sipas gjendjes më 31 Dhjetor 2020 si normë e paraqitur nga ndryshimi i
+pasurive rrjedhëse me detyrimet rrjedhëse është € 94.51 milion, si dhe acid test ratio = 3.19, çka e bënë
+kompaninë të pa ekspozuar ndaj rrezikut të likuiditetit dhe të aftë të shlyej shpejt detyrimet e veta
+afatshkurtra. Kompania po ashtu ka flukse të rregullta hyrëse të parave nga aktivitetet e veta dhe nuk pritet
+në periudhë afatshkurtër ndonjë ndërprerje a rrezik nga rrjedha e parasë së gatshme brenda vitit. EBITDA
+si tregues i aftësisë për të investuar në rritjen e vlerës dhe likuiditetit, kap vlerën € 67.44 milion në vitin
+2020, krahasuar me € 60.1 në vitin 2019. Më poshtë tregues tjerë të likuiditetit:
+
+ Raportet/normat likuiditetit                    2020         2019          2018         2017           2016
+ Paraja e gatshme në €’000                      67,929       67,207        62,715       89,609         63,305
+ Neto kapitali punues në €’000                  94,511       77,364        69,668       97,608         76,489
+ Borxh/ekuitet                                    0.85         1.05          1.28         1.55           2.02
+ Norma rrjedhëse                                  3.77         3.27          2.80         3.62           3.17
+ Acid test                                        3.19         2.66           2.3          3.1            2.5
+
+
+
+
+RAPORTIMET SHTESË PËR AKSIONARIN
+
+
+Qeverisja korporative
+
+KEK Sha operon në tregun e energjisë si ofrues i të mirave publike nën rregullat e qeverisjes korporative në
+përputhje me ligjet dhe aktet tjera ligjore për realizimin e qëllimit të vet afatgjatë që është misioni dhe
+vizioni i kompanisë. Përgjegjës për caktimin e strategjisë së organizatës është Bordi i Drejtorëve i caktuar
+nga aksionari. Bordi vendos për strategjinë e biznesit si dhe merret me zgjedhjen dhe monitorimin e
+menaxhmentit të lartë të kompanisë, i cili është i pavarur nga bordi dhe aksionari. Bordi luan rol mbikëqyrës
+për menaxhmentin përmes mekanizmave të ndryshëm. Për këtë qëllim kompania ka të themeluar
+komitetin e Auditimit i cili vepron në kuadër të Bordit të Drejtorëve në përputhje me kërkesat ligjore të
+ligjit për NP dhe me praktikat më të mira të qeverisjes korporative.
+
+Gjatë vitit 2020, me kërkesë të Bordit të Përkohshëm, KEK inicion rishikimin e planeve të veta afatmesme
+zhvillimore duke synuar të përgjigjet rrethanave të reja të krijuara në tregun e energjisë me tërheqjen nga
+investimi në projekti i Kosovës së Re, të Contour Global.
+
+
+
+
+                                                Faqe 40 e 53
+Për të qenë në përputhje me të gjitha rregulloret dhe për të vendosur dhe promovuar rregullat etike
+përmes procedurave të qarta të ofroj transparencë dhe të kërkoj llogaridhënien në aktivitetet e veta për
+realizimin e objektivave të biznesit, korporata ka të aprovuar dhe zbaton: Kodin e Qeverisjes Korporative,
+Kodin e Sjelljes dhe Etikës si dhe Kodin e Punës, të aprovuar nga viti 2015 dhe të obligueshme për zbatim
+nga të gjithë punonjësit e organizatës.
+
+Së fundmi, ekzistojnë rregullore dhe procedura, që kanë të bëjnë me Financat dhe TI në veçanti, që
+rregullojnë procedurat organizative brenda korporatës. Gjatë vitit 2020 janë hartuar, rishikuar ose kanë
+filluar te zbatohen:
+
+                       Rregullorja Qëllimi
+         Rregullorja për testimin e Rregullimi i procedurave për testimin aseteve për dëmtim sipas
+               Aseteve për dëmtim SNRF. Është hartuar dhe konsultuar gjatë 2020 dhe është
+                                    aprovuar në 2021 me efekt nga viti 2020.
+     Rregullorja për menaxhimin e Rregullon procedurat e menaxhimit te aseteve te KEK sipas
+                mjeteve Themelore ligjeve te zbatueshme ne Kosove dhe sipas SNRF aprovuar në
+                                    2020
+       Procedura për menaxhimin Rregullimi i procedurave për njohjen dhe vlerësimin provizioneve
+                      provizioneve të ambientit, ligjore dhe të stafit sipas SNK. Është hartuar dhe
+                                    konsultuar gjatë 2020 dhe është aprovuar në 2021 me efekt nga
+                                    viti 2020.
+         Procedura për operimin e Qëllimi i kësaj procedure është të përcaktojë procedurën e
+                           blloqeve operimit të blloqeve, është draftuar në 2020
+
+        Procedura për vlerësimin e Qëllimi i kësaj procedure është rregullimi i procesit të rishikimit
+           jetëgjatësisë së aseteve të vlerës së mbetur të aseteve/jetës së dobishme të tyre. Është
+                                    aprovuar gjatë 2020 dhe janë kryer aktivitet nga komisionet
+                                    përkatëse
+     Procedura për menaxhimin e Procedura synon te rregulloj procesin e menaxhimit te rreziqeve
+                    rreziqeve 2020 ne mënyrë qe kompania te shmang ose minimizoj humbjet nga
+                                    ngjarjet e ardhshme –Aprovuar në 2020
+  Procedura për shitjen e energjisë Procedura synon te rregulloj procesin e shitjeve (kryesisht
+                                    eksportin e energjisë) korporatës e draftuar gjatë 2020-në
+                                    proces
+
+
+
+Funksionimi i kontrolleve të brendshme
+Sistemi kontrollit të brendshëm dhe menaxhimi i rrezikut nga raportimi financiar
+
+KEK ka të implementuara sisteme të kontrollit të brendshëm që mundësojnë shmangien e konfliktit të
+interesit dhe ndarjen e detyrave në atë mënyrë që ekzekutuesi i një aktiviteti dhe aprovuesi nuk mund të
+jenë i njëjti person. Këto janë të rregulluara me kodin e punës, rregulloren për aprovim buxheti dhe kontroll
+të shpenzimeve, rregulloren për menaxhim të rrezikut dhe rregullore të tjera operative të impelementuar
+
+                                               Faqe 41 e 53
+në përputhje me ligjet e aplikueshme në vend, dhe vazhdimisht mbahen nën monitorim nga vet drejtuesit
+që të shmangin e rasteve për tu ndodhur në situatë të tillë.
+
+Megjithatë, disa nga procedurat e kontrolleve dhe monitorimeve sipas Ligjit për Kontrollin e Brendshëm të
+Financave Publike nuk kanë funksionuar mirë gjatë vitit 2020 dhe si të tilla janë në proces shqyrtimi. Po
+ashtu aktivitete të zhvilluara për përgjegjësinë sociale nuk janë zhvilluar mjaftueshëm për të përmbushur
+kërkesat ligjore lidhur me qëllimin e donacioneve / sponsorimeve në funksion të interesit publik duke mos
+e shfrytëzuar kategorinë e buxhetit të dedikuar për këto aktivitete. Për vitin 2020, kompania ka identifikuar
+gabimin në procesimin e lëndëve për pagesë ose në proces të regjistrimeve kontabël dhe është futur në
+proces të rishikimit të disa e proceseve për përmirësim dhe për të arritur vlerën më të mirë për paratë, në
+funksion të arritjes së objektivave të korporatës duke respektuar kërkesat ligjore dhe me nivel të
+përshtatshëm të etikës profesionale.
+
+Korporata Energjetike e Kosovës është e ekspozuar ndaj mundësisë së gabimeve të procesimit dhe të
+raportimit financiar, e varur nga shumë faktorë. KEK ka kaluar në sistem të ri të menaxhimit financiar- ERP
+tek i cili kanë përfunduar konfigurimet financiare dhe është në proces të migrimit të të dhënave.
+Implementimi i suksesshëm i të cilit, ndër të tjera, pritet edhe zvogëlimi i gjasave të gabimeve të procesimit
+si dhe rritjen e transparencës përmes ofrimit të informatave të sakta, si dhe në kohë reale mundësojnë
+edhe kontroll efikas dhe gjithëpërfshirës të regjistrimeve, transaksioneve dhe raportimeve financiare.
+Ndërkohë, sfidë në implementimin e suksesshëm dhe të plotë të këtij sistemi mbetet mungesa e burimeve
+njerëzore.
+
+
+
+
+Zyra e Auditimit te Brendshëm
+
+Divizioni i Auditimit te Brendshëm ne KEK është e themeluar ne baze te Ligjit 06/L-021 dhe Ligjit te
+Ndërmarrjeve Publike 03/L-087 si njësi e pavarur e auditimit të brendshëm në vartësi të drejtpërdrejt të
+udhëheqësit të subjektit të sektorit publik. Auditimi i Brendshëm ka pavarësi funksionale nga menaxhmenti
+pasi që i përgjigjet Komisionit te Auditimit te Bordit te Drejtoreve të emëruar nga Ministria e Ekonomisë
+dhe Ambientit.
+Duke pasur parasysh organizimin e ndërmarrjes (KEK-ut) dhe kompleksitetin e saj si njësi prodhuese dhe
+administrative, Auditimit i Brendshëm është e organizuar në tri departamente dhe atë:
+       Auditimin e Brendshëm Financiar,
+       Auditimin e Brendshëm Operativ dhe
+
+
+                                               Faqe 42 e 53
+         Auditimin e Brendshëm te Përputhshmërisë.
+Sipas skemës organizative të Auditimit te Brendshëm, janë te paraparë 16 auditor të brendshëm duke
+përfshirë edhe Drejtorin, të cilët kryejnë auditime duke u bazuar në Planin vjetor të aprovuar nga Komisioni
+i Auditimit te Brendshëm dhe me disa raste edhe me kërkesa të veçanta qe mund te vijnë nga Komisioni i
+Auditimit, Bordi i Drejtoreve apo Menaxhmenti. Skema e aprovuar nuk është plotësuar dhe mungojnë 5
+Auditor, arsyeja e mos plotësimit të skemës ka qene Pandemia ku nuk kemi arritur që të rekrutojmë staf të
+ri si rezultat i rrethanave të krijuara nga virusi COVID-19.
+
+Auditimit i Brendshëm gjatë vitit 2020 si të gjitha Divizionet në KEK dhe gjithë shoqëria në Republikën e
+Kosovës dhe mbarë boten, si rezultat i Pandemisë dhe virusit Covid-19, ka qene i përballur me pandeminë
+ku thuajse te gjithë auditorët e kane kaluar COVID-19 dhe një kohe te gjate kane qene ne vete izolim, si
+rezultat i personave te kontaktit apo edhe kur kane qene vete te infektuar. Po ashtu një kohe është punuar
+edhe me rrotacion sipas vendimeve te Qeverise dhe rekomandimeve te IKSHP-se. Pavarësisht kësaj ne kemi
+arritur qe te realizojmë angazhimet te parapara ne kuadër te planit vjetor te aprovuar te cilin plan e kemi
+rishikuar ne gjashte mujorin e dyte. Për me shume do i paraqesim ne pika te shkurta ne vijim aktivitetet e
+kryera gjate vitit 2020: Janë hapur gjithsej 44 raste, prej të cilave 25 kanë qenë të bazuara në planin vjetor
+kurse 19 janë kryer në bazë të kërkesës, ku kërkesat kanë qenë nga Komisioni i Auditimit, BD dhe
+menaxhmenti. Të paraqitura në mënyrë tabelore si më poshtë:
+
+ Rastet      Raste    te   Plan Vjetor   Me         Rekomandime              për   Rekomandime për Masa
+             hapura                      kërkese    përmirësim te Procesit         disiplinore
+ 2020        44            25            19         97                             3
+
+
+
+Ne ketë vit për shkak te pandemisë kemi pate shume kërkesa nga Komisioni i Auditimit me qellim te
+menaxhimit sa me te mire te kësaj situate. Janë bere vizita ne teren ne mënyre qe te verifikohet se a janë
+duke u respektuar masat dhe për ketë janë përpiluar raporte për Komisionin e Auditimit dhe menaxhmentin
+ku janë rekomanduar veprime për menaxhmentin ne mënyre te menaxhimit sa me te mire te situatës se
+Pandemisë.
+
+Auditimit i Brendshëm përveç detyrave të lartcekura ka përpiluar dhe dhëne Opinione profesionale për
+Komisionin e Auditimit ne lidhje me: Pasqyrat Financiare, Regjistrimin, Elaboratin, Draft Buxhetin, Opinion
+mbi procedurat e Operimit te Blloqeve, Tregtimit te energjisë, Përpilimi dhe aprovimi i procedurave te
+brendshme, etj. Po ashtu ka vazhduar aktivitetin në hetimin dhe parandalimin e mashtrimeve ku në vitin
+2020 kishte rezultate në lidhje me në rast konkret.
+
+
+
+                                                   Faqe 43 e 53
+Përmbledhja e të gjitha procedurave gjyqësore
+
+Në Zyrën Ligjore gjatë vitit 2020 janë regjistruar gjithsejtë 279 padi (civile dhe penale) shuma e
+përgjithshme e të cilave sillet rreth €6.50 milionë. KEK-u ka qenë palë paditëse me lëndë. Numri i padive të
+palëve kundër KEK-ut arrin në 238 lëndë.
+Në segmentin e aktgjykimeve gjatë vitit 2020 janë regjistruar gjithsejtë 416 të tilla (të shkallës së parë, dytë
+dhe supreme) prej tyre 114 kanë rezultuar në favor të KEK-ut kurse 302 në favor të palëve.
+Gjatë vitit 2020 është zgjidhur rasti i arbitrazhit me Ethos Energy, rasti i kontestit për pagesën e
+prapambetur për riparimin kapital të Bllokut A5 nga viti 2014. KEK ka vlerësuar se me arritjen e
+marrëveshjes jashtë jashtëgjyqësorë arrin të realizoj kursime nga procedurat e arbitrazhit. Për këtë rast
+është marr mendim dhe ka qenë e angazhuar edhe zyra e Avokatit Shtetëror, dhe me vendim të BtD është
+arritur marrëveshje ndërmjet palëve.
+
+                                                                          2020                            2019
+ KEK si palë e paditur ((në €’ 000)
+ Kontestet lidhur me Punësimin dhe shkëputjen e
+                                                                         8,727                           8,820
+ marrëdhënies së punës
+ Kontestet me furnizuesit                                                1,760                           4,378
+ Kërkesa për kompensim për dëmtim prone                                  4,740                           4,483
+ Kërkesa për shkëmbimin e energjisë                                      1,957                               -
+ Të tjera                                                                  466                             242
+ Total provizione ligjore                                               17,650                          17,923
+
+KEK-sha si pale paditëse ne vitin 2020 Janë ne procedurë këto raste :
+Në segmentin e arbitrazhit, për vitin 2020 kemi një lëndë në procedurë kontesti në vlerë € 4.34 milion në
+mes të KEK sh.a dhe KECSO-sh.a për inkasimin e shitjeve për 8 ditët e Majit 2013 (1-8 Maj) që lidhen me
+ndarjen e Distribucionit nga KEK. Në bazë të vlerësimit të menaxhmentit vlera e kontestit mundë të shkojë
+deri në € 4.5 milion përfshirë shpenzimet e procedurës. Sipas vlerësimit ato i takojnë KEK-ut, dhe për këtë
+është proceduar me procedurë përmbarimore, e cila pas prapësimit nga KESCO, rasti ka kaluar në gjykatë,
+të cilën KEK e ka fituar. Pas kësaj KESCO ka dorëzuar ankesë në Gjykatën e Apelit, dhe gjatë 2020 pretendimi
+i KEK-ut është refuzuar, procesi pritet të vazhdoj gjatë 2021.
+     Padi në bazë të aktgjykimit penal janë gjithsej 17 raste në vlerë 51,251.00 €.
+     Civile janë gjithsej 33 raste të cilat arrijnë vlerën 6,476,144.00 €.
+     Administrative janë gjithsej 11 raste të cilat arrijnë vlerën 11,629,639.42 €.
+     Përmbarimore janë gjithsej 10 raste të cilat arrijnë vlerën 4,747,934.00 €.
+     Ekonomike janë gjithsej 5 raste të cilat arrijnë vlerën 2,155,942.32 €.
+     Lendet sipas ligjit mbi faljen e Borxheve te rrymës, përfaqësohen sipas MiM 2018 nga KESCO: Nr i
+        rasteve aktuale 2834, me vlerë 7,080,121.00€ .
+Siç shihet ndryshon vetëm ne piken 4 pasi që të dhënat nga pika 4 i janë marr nga KESCO.
+                                                  Faqe 44 e 53
+Transaksionet e Konsiderueshme
+Në kuadër të këtyre transaksioneve ne tabelën e mëposhtme janë përfshire 5 (pesë) transaksionet më të
+rëndësishme, me vlerë mbi €1.0 milionë, të cilat janë nënshkruar gjatë gjithë vitit kalendarik 2020, pa
+marrë parasysh realizimin e tyre.
+
+ Kontratat e Nënshkruara gjatë vitit 2020                                                   Vlera e Publikuar
+ Demontimi ,blerja dhe montimi i zbarrave të statorit si dhe Komisionimi i gjeneratorëve           6,472,991
+ G1 dhe G2 në TC Kosova B
+ Furnizim me shirit transportues gomë-pëlhurë                                                      4,482,903
+ Remonti kapital i kaldajës për bllokun A4                                                         2,736,140
+ Ndërtimi i deponise së re të hirit në fushën e Sitnices                                           1,158,674
+ Furnizim me pjesë ndërrimi të konstruksionit për mekanizmin e rëndë                               1,099,995
+                 Tabela: Transaksionet kryesore gjatë vitit 2020
+
+
+Raportet me KPMM dhe Institucionet tjera
+
+KEK gëzon një gjendje të mirë financiare dhe vazhdon të paguaj detyrimet e veta sipas maturimit. Sipas
+nenit 58 të ligjit për Miniera dhe minerale nr.03/L163 i plotësuar /ndryshuar me ligjin nr.04/L-158, KEK
+obligohet ta paguajnë rentën minerare në vlerë 3€/Ton thëngjill të eksploator. Gjatë vitit 2020, si rezultat i
+prodhimit më të lartë KEK ka krijuar shpenzime për rentën minerare në vlerë prej €25,62 milion, krahasuar
+me € 24,2 milion në vitin 2019. KEK bën matjet gjeodezike dhe në bazë të tyre e raporton eksploatimin e
+thëngjillit në Komisionin e Pavarur për Miniera dhe Minerale (KPMM). Poashtu, KEK dorëzon raporte të
+rregullta sipas kërkesave ligjore në KPMM, përfshirë pasqyrat financiare.
+
+KEK ka kredi ndaj Ministrisë së Financave të cilën e paguan në dy këste vjetore sipas marrëveshjes së ri
+programimit të borxhit me MF të vitit 2015. Po ashtu gjatë vitit 2020 KEK ka gjeneruar të ardhura neto prej
+€ 23.78 milion të cilat rezultojnë me shpenzime për tatime në vlerë prej € 4.7 milion.
+
+Gjithsej, në raport me institucionet shtetërore detyrime të drejtpërdrejta të njohura dhe të shlyera gjatë
+vitit 2020 kapin vlerën € 46.42 milion (2019: € 41.9 milion).
+
+ Institucioni       Lloji i shpenzimit/detyrimit                  31 Dhjetor 2020            31 Dhjetor 2019
+
+ KPMM               Tantiema/ taksa e linjitit                            (25,623)                   (24,200)
+ MF                 Interesi                                               (3,006)                    (2,661)
+ MF                 Kthimi Huazimit                                       (11,387)                   (10,876)
+ ATK                Tatimet ne te ardhura                                  (4,707)                    (3,073)
+ ZRRE               Taksa vjetore e licencës                               (1,244)                    (1,204)
+                                                   Gjithsej               (46,417)                   (41,937)
+
+                                                   Faqe 45 e 53
+SFIDAT DHE MUNDËSITË PËR TË ARDHMEN
+Korporata energjetike e Kosovës si ndërmarrje publike ballafaqohet me sfida të natyrave të ndryshme në
+përballje me të cilat, përkundër performancës së mirë financiare në vitet e fundit, do ti duhet përkrahja e
+aksionarit. KEK ka një nivel të lartë të parasë së gatshme në dispozicion për projektet e veta afatgjata, të
+cilat janë edhe të zotuara për realizimin e projekteve për të rritur sasinë dhe stabilitetin e prodhimit të
+energjisë elektrike.
+
+Sfidat e korporatës mund të jenë të ndryshme dhe ato ndikohen nga faktorët natyror (kushtet e ndryshme
+atmosferike), planifikimi jo i mirë, dhe pamjaftueshmëria buxhetore, pamundësia e çasjes në burime të
+jashtme financimi, etj. Disa nga sfidat kryesore me të cilat KEK do të ballafaqohet në të ardhmen e afërt
+mund të listohen si vijon:
+
+      Tërheqja e Contour Global nga investimi në projektin e Kosovës së Re, ka ndikuar në planet e
+         akterëve të tregut energjetik të Kosovës. Nevoja për një vizion qartë të KEK dhe Aksionarit për
+         fatin e TC Kosova A, për sigurimin e kapaciteteve të reja afatgjata të nevojshme për mbulimin e
+         tërë kërkesës vendore për energji përbën një sfidë.
+
+      KEK ka pranuar gjatë vitit 2019 projektin e Minierës së Re, hartuar nga Consorciumi Mibrag Gmbh,
+         Gjermani. Për realizimin e së cilës, për shkak të vlerës së madhe (rreth 400 milion €në 5 vitet e
+         ardhshme) KEK iu është drejtuar Aksionarit me kërkesë për përkrahje financiare gjatë 2019 dhe
+         2020. Realizimi i investimeve në kohë dhe me cilësi përbën sfidë për zhvillimin e minierave të KEK.
+         Miniera ekzistuese bazuar në planin xehetar ka rezerva dhe teknikisht është e mundshme që të
+         operoj me kapacitetet ekzistuese deri në vitin 2027. Çka e bën të domosdoshme rishikimin e
+         investimeve dhe burimeve financuese në drejtim të hapjes së Minierës së Re.
+
+      Mos-implementimi ne tërësi i planit plotësues xehetar në divizionin e mihjeve për minierën Sibovci
+         Jug-Perëndim mbetet çështje për t’u adresuar, edhe pse vazhdimisht investohet në këtë drejtim.
+
+      Gjatë vitit 2020 KEK ka filluar procesin e rishikimit funksional të skemës organizative ku me
+         angazhimin e një konsulenti të pavarur synon të implementoj një skemë funksionale të
+         përshtatshme për rrethanat e KEK dhe sipas praktikave më të mira ndërkombëtare. Kjo do ti hapte
+         rrugë edhe zhvillimit dhe rritjes së KEK me kuadro të reja dhe adekuate. Përkundër pritshmërisë,
+         rishikimi funksional është duke vazhduar edhe gjatë vitit 2021, vonesat e përmbylljes së projektit
+         u shkaktuan si rezultat i Pandemisë covid-19 si dhe të ndikuara edhe nga ndryshimet e shumta në
+         Menaxhment dhe Bord të Drejtorëve të ndodhura gjate vitit. Propozimet dhe implementimi i
+                                              Faqe 46 e 53
+        skemave të reja sfidohen nga raporti i Mibrag për Minierën e Re, i cili rekomandon uljen e
+        ndjeshëm të numrit të punëtorëve në DPQ nga 2700 në kohën e raportit (2563 më 31.12.2019),
+        përmes ndryshimit të proceseve të punës dhe modernizimit gradual të tyre, të ulet në rreth në
+        1609 punëtorë, deri në vitin 2030. Megjithatë, problem mbetet ripërtërija e stafit në pikat kyçe,
+        apo mungesa e programeve zhvillimore specifike për ato profesione, për të cilat punëtorët janë
+        në prag të pensionimit.
+
+
+
+        Një mundësi për korporatën që në sektorin e minierave por edhe në të tjerat të shikoj
+        mundësinë të ul kostot e stafit si dhe njëherësh të përmirësoj proceset duke u angazhuar
+        edhe në uljen e moshës mesatare të të punësuarve
+
+
+     Megjithëse, gjatë vitit 2020 nuk kishte probleme të theksuara në këtë drejtim Sfide mbetet ende
+        marrja e tokës për qellim te zgjerimit te minierave, zhvendosja e pronareve te tokave në ato zona
+        dhe kostoja e pritur e projektit të shpronësimeve, probleme me komunitetit, ndotjen e ambientit,
+        etj.
+
+Në divizionet e gjenerimit sfidë është pamundësia e rrumbullakimit të investimeve të nevojshme të
+blloqeve punuese me qëllim të rritjes së gatishmërisë punuese dhe zgjatës së jetës së Termocentraleve.
+
+
+
+     Përkundër aktiviteteve për përmirësimin e ambientit, për KEK mbetet sfidë financimi i
+        vazhdueshëm në përmirësimin (zvogëlimin) e ndotjes minimale të ambientit, ku nevojiten
+        përmirësime dhe ndërrime të pajisjeve në Termocentrale, që do të ulnin në minimum ndotjen e
+        ambientin.
+
+     për shkak të vjetërsisë se kapaciteteve aktuale gjeneruese, sfidë mbetet mbajtja e prodhimit të
+        energjisë në sasinë e planifikuar për ta mbuluar gjithë kërkesën vendore me një operim stabil të
+        blloqeve, duke operuar edhe me kosto efektive. Kjo bëhet e mundur me remontet e planifikuara
+        të TC-ve, sipas planit operativ kur kërkesa për energji elektrike është e ulët, dhe kthimi në punë i
+        blloqeve operuese sipas kohës së planifikuar.
+
+     Mosrealizimi i projektit të BE –së në vitin 2020 paraqet sfidë për KEK për vonesën në realizimin e
+        investimit të madh për ambientin por në aspektin financiar do të thotë një mundësi për konsolidim
+        të mëtutjeshëm për zbatimin e projekteve të KEK që ndërlidhen me projektin e zgjatjes së
+        jetëgjatësisë së TCB për shkak se ky investim ka 1 vit më shumë në kohë dhe mundësi e akumulimit
+
+
+                                              Faqe 47 e 53
+         të rezervave për të realizuar projektin pa fonde të jashtme.
+
+Investimet financiare në riparimet e blloqeve në TC A dhe TC B si dhe investimet në blerjen apo riparimin e
+teknologjisë punuese në Mihje janë të domosdoshme për një funksionalitet të mirë. Realizimi i investimeve
+të planifikuara nga konsulenti i angazhuar nga BE, Konsorciumi Eptisa për investime në Re-vitalizimin e
+Termocentralit Kosova B si dhe investimet e projektuara nga konsulenti Mibrag i angazhuar nga KEK-u për
+hartimin e projektit për hapjen e Minierës së Re, për shkak të vlerës së madhe të tyre nuk mund të
+mendohet pa përkrahjen e Qeverisës së Republikës së Kosovës përmes huadhënies afatgjatë për mbulimin
+e një pjese të projektit. Po ashtu në të ardhmen e afërt KEK synon përshtatjen graduale të çmimeve të
+energjisë elektrike për të mbuluar kostot e korporatës.
+
+Fare në fund, pavarësisht sfidave, menaxhmenti i KEK-ut i mbetet besnik vizionit të korporatës që të realizoj
+prodhimi i energjisë elektrike i me kosto sa më të ulët dhe me ndikim minimal në ndotjen e ambientit.
+
+
+
+
+                                               Faqe 48 e 53
+Struktura Organizative KEK Sh. A 2020
+Pasqyrat Financiare
+të audituara për vitin që përfundon më 31 Dhjetor 2020
+
+
+
+                                               Shënimet      Më 31 Dhjetor, 2020    Më 31 Dhjetor, 2019
+                                                                   (në EUR’ 000)          (në EUR’ 000)
+ASETET
+Asetet jo-qarkulluese
+Prona, impiantet dhe pajisjet                      4                    296,365                 305,555
+Asetet e paprekshme                                5                        221                      44
+                                                                        296,586                 305,599
+Asetet qarkulluese
+Stoqet                                             6                     19,841                  20,725
+Të arkëtueshmet tregtare dhe të tjera, neto        7                     40,850                  22,614
+Tatimi në fitim i arkëtueshëm                                                 -                     899
+Paraja në dorë dhe në bankë                        8                     67,928                  67,207
+                                                                        128,619                 111,445
+GJITHSEJ ASETET                                                         425,205                 417,044
+
+EKUITETI DHE DETYRIMET
+Ekuiteti i aksionarëve
+Kapitali aksionar                                  9                          25                     25
+Rezervat                                          10                     568,784                568,538
+(Humbjet) e akumuluara                                                 (391,403)              (415,187)
+Gjithsej ekuiteti i aksionarëve                                          177,406                153,376
+Detyrimet
+Detyrimet jo -qarkulluese
+Huazimet pjesa jo - rrjedhëse                     11                    138,154                 149,541
+Grantet e shtyera                                 12                     16,156                  21,373
+Provizionet                                       13                     48,561                  48,502
+Detyrimet e tatimit të shtyrë                     24                     10,820                  10,171
+                                                                        213,691                 229,587
+Detyrimet rrjedhëse
+Huazimet pjesa rrjedhëse                          11                     12,051                  12,009
+Të pagueshmet tregtare dhe të tjera               14                     13,799                  15,259
+Tatime në të ardhura të pagueshme                                           613                       -
+Shpenzimet akruale                                15                      7,645                   6,813
+                                                                         34,108                  34,081
+Gjithsej detyrimet                                                      247,799                 263,668
+GJITHSEJ EKUITETI DHE DETYRIMET                                         425,205                 417,044
+
+
+Tabela: Bilanci i gjendjes, nga Pasqyrat Financiare të KEK ShA për vitin që përfundon më 31.12.2020 të
+                                               Audituara
+                                                                                              Për vitin e
+                                                             Për vitin e përfunduar
+                                                  Shënimet                            përfunduar më 31
+                                                               më 31 dhjetor 2020
+                                                                                           dhjetor 2019
+                                                                      (in EUR’ 000)        (in EUR’ 000)
+
+Shitjet                                              16                    185,844              176,862
+Të hyrat nga grantet                                 17                      5,217                5,847
+Të hyrat tjera                                       18                      1,960                2,426
+                                                                           193,021              185,135
+SHPENZIMET OPERATIVE
+Zhvlerësimi dhe amortizimi                           4,5                  (45,662)              (41,816)
+Shpenzimet e personelit                              19                   (54,169)              (56,332)
+Energjia elektrike dhe komunalitë                    20                   (16,630)              (17,923)
+Kostot e mirëmbajtjes                                                      (4,753)               (4,016)
+Materialet dhe furnizimet                                                  (7,780)               (3,557)
+Shpenzimet e linjitit                                15                   (25,623)              (24,200)
+Provizionimet për shlyerjen e inventarit              6                        567                 1,210
+Humbjet nga zhvlerësimi i të arkëtueshmeve          27.B                     1,012               (2,945)
+Ndryshimet në provizione                             13                      1,898                 2,474
+Shpenzimet e tjera operative                         21                   (11,410)              (13,151)
+                                                                         (162,550)             (160,256)
+Fitimi nga operacionet                                                      30,471                24,879
+Të hyrat financiare (Shpenzimet), neto               22                    (1,980)               (2,584)
+Fitimi para tatimit                                                         28,491                22,295
+
+Shpenzimet e tatimit në fitim                         23                    (4,707)              (3,073)
+Fitimi neto për vitin                                                       23,784               19,222
+Të ardhurat tjera gjithëpërfshirëse për vitin
+Zërat që nuk do të ri klasifikohen në fitim dhe humbje
+Efekti i tatimit të shtyrë ne rivlerësimin
+                                                      24                       246                 (493)
+e pronës, impianteve dhe pajisjeve
+Gjithsej të ardhurat gjithëpërfshirëse për vitin                            24,030               18,729
+
+
+      Tabela: Pasqyra e të ardhurave, nga Pasqyrat Financiare të KEK ShA, për vitin që përfundon
+
+                                         më 31.12.2020 të Audituara
+                                                                            2020           2019
+                                                          Shënimet   (në EUR 000)   (në EUR 000)
+Rrjedha e parasë nga aktivitetet operative
+Fitimi neto para tatimit                                                  28,491         22,295
+Rregullimet për zërat jo monetar:
+Zhvlerësimi dhe amortizimi                                  4,5           45,662         41,816
+Amortizimi i granteve                                       17            (5,217)        (5,847)
+Të hyart nga interesi                                       22            (1,026)            (77)
+Shpenzimet e interesit                                      22              3,006          2,661
+
+Provizionimi i borxheve të këqija                            7                             2945
+                                                                          (1,012)
+ Provizionimi për kostot e mjedisit dhe pensioneve          13            (1,898)         (2474)
+ Provizionimi për shlyerjet/kthimet e stoqeve               6               (567)         (1210)
+ Shlyerja direkt e aseteve                                                    785              -
+ Shlyerja e pronës, impianteve dhe paisjeve                  4,5              261             17
+Fitimi para ndryshimeve ne asetet dhe detyrimet
+                                                                          68,485         60,126
+operative
+Zvogëlimi / (Rritja) në Stoqe                                              1,451           (319)
+Zvogëlimi / (Rritja) në të arkëtueshmet tregtare dhe të
+                                                                         (16,341)           404
+tjera
+Rritja /(Zvogëlimi) në të pagueshmet tregtare dhe të
+                                                                           1,329         (5,049)
+tjera
+Paraja e gjeneruar nga aktivitetet operative                              54,924         55,162
+Interesi i arkëtuar                                                           143             77
+Interesi i paguar                                                         (2,964)        (2,668)
+Tatimi në fitim i paguar                                                  (3,085)        (2,750)
+Paraja neto e gjeneruar nga aktivitetet operative                         49,018         49,821
+Paraja nga aktivitetet investive
+Blerja e pronës, impianteve dhe pajisjeve dhe pasurive
+                                                             4           (36,910)       (34,453)
+të paprekshme
+Paraja e përdorur në aktivitetet investive                               (36,910)       (34,453)
+Paraja nga aktivitetet financiare
+Pagesa e huazimeve                                          11           (11,387)       (10,876)
+Paraja e gjeneruar nga aktivitetet financiare                            (11,387)       (10,876)
+Rritja / Zvogëlimi neto i ekuivalenteve te parasë                            721          4,492
+Paraja dhe ekuivalentet e saj në fillim të vitit                          67,207         62,715
+Paraja dhe ekuivalentet e saj në fund të vitit               8            67,928         67,207
+
+
+ Tabela: Bilanci i rrjedhjes së parasë nga Pasqyrat Financiare të KEK ShA, për vitin që përfundon më
+                                       31.12.2020 të Audituara
+                                                     Kapitali                  Humbjet e
+                                                                Rezervat                       Gjithsej
+                                                    aksionar                  akumuluara
+                                                  (në EUR’      (në EUR’                     (në EUR’
+                                                                           (në EUR’ 000)
+                                                     000)         000)                         000)
+Balanca më 1 Janar 2020
+Transaksionet me Pronarët                                 25     568,538         (415,187)    153,376
+Transaksionet me Pronarët                                  -           -                 -          -
+Fitimi për Vitin                                           -                        23,784     23,784
+Të ardhura tjera gjithëpërfshirëse                         -         246                          246
+Total të ardhura tjera gjithëpërfshirëse                   -         246            23,784     24,030
+Balanca më 31 Dhjetor 2020                                25     568,784         (391,403)    177,406
+
+Balanca më 1 Janar 2019                                   25     569,031         (434,409)    134,647
+Transaksione me pronarët                                   -           -                 -          -
+Transaksione me Pronarët                                   -           -                 -          -
+Fitimi për Vitin                                           -           -            19,222     19,222
+Të ardhura tjera gjithëpërfshirëse                         -       (493)                 -      (493)
+Gjithsej të ardhurat tjera gjithëpërfshirëse               -       (493)            19,222     18,729
+Balanca më 31 Dhjetor 2019                                25     568,538         (415,187)    153,376
+
+
+
+
+  Tabela: Kapitali, nga Pasqyrat Financiare të KEK ShA, për vitin që përfundon më 31.12.2020
+
+                                               të Audituara
+
+
+
+
+                                               Faqe 53 e 53
+

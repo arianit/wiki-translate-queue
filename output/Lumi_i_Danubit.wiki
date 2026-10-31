@@ -1,0 +1,1324 @@
+{{Short description|Lumi i dytë më i gjatë në Evropë}}
+{{About|lumin}}
+{{Use dmy dates|date=November 2023}}
+{{Infobox river
+| name               = Danubi
+| native_name        = {{native name list |tag1=de |name1=Donau |tag2=sk |name2=Dunaj |tag3=hu |name3=Duna |tag4=hr |name4=Dunav |tag5=sr |name5={{lang|sr-Cyrl|Дунав}} / {{lang|sr-Latn|Dunav}} |tag6=bg |name6=Дунав |tag7=ro |name7=Dunărea |tag8=uk |name8=Дунай}}
+<!-- FOTO & HARTA -->
+| image              = View from Gellért Hill to the Danube, Hungary - Budapest (28493220635).jpg
+| image_caption      = Danubi në [[Budapesti|Budapestin]]
+| mapframe = yes
+| mapframe-wikidata = yes
+| mapframe-stroke-color = #4287f5
+| map_caption        = Rrjedha e Danubit
+<!-- VENDNDODHJA -->
+| subdivision_type1  = Shtetet
+| subdivision_name1  = {{hlist|[[Gjermania]]|[[Austria]]|[[Sllovakia]]|[[Hungaria]]|[[Kroacia]]|[[Serbia]]|[[Bullgaria]]|[[Rumania]]|[[Moldavia]]|[[Ukraina]]}}
+| subdivision_type5  = Qytetet
+| subdivision_name5  = {{hlist|Ulm|Ingolstadt|Regensburg|Passau|[[Linc|Linz]]|[[Vjena]]|[[Bratisllava|Bratislava]]|Győr|Komárno/Komárom|[[Budapesti]]|Dunaújváros||Mohács|Apatin|[[Vukovar]]||Ilok|Bačka Palanka||[[Novi Sadi|Novi Sad]]||Sremski Karlovci|[[Beogradi]]|Pançevë|[[Smedereva|Smederevo]]|Drobeta-Turnu Severin|Vidin|Calafat|Giurgiu|Ruse|Silistra|Călărași|Brăila|[[Galaci|Galați]]|[[Tulcea]]|Reni|Izmail|Kiliia|Sulina}}
+<!-- KARAKTERISTIKAT FIZIKE -->
+| length_km = 2.850
+| length_ref = <ref>{{cite encyclopedia|url=https://www.britannica.com/place/Danube-River|title=Danube River|encyclopedia=Encyclopædia Britannica|edition=Online|access-date=30 prill 2022|language=en}}</ref>
+| width_min          = Danubi i mesëm (Portat e Hekurit) {{cvt|150|m|abbr=on}}; Danubi i poshtëm (Brăila) {{cvt|400|m|abbr=on}}<ref name="LongTermMorph"/>
+| width_avg          = Danubi i sipërm {{cvt|300|m|abbr=on}}; Danubi i mesëm {{cvt|400-800|m|abbr=on}}; Danubi i poshtëm {{cvt|900-1,000|m|abbr=on}}<ref name="Hydromorphological balance">{{cite web|url=https://www.osce.org/files/f/documents/0/8/32944.pdf|title=Hydromorphological balance of the Danube River Channel on the Sector between Bazias (km 1072.2) and Danube Delta Inlet (km 80.5)|last=Bondar|first=Constantin|publisher=osce.org|access-date=30 prill 2022|language=en}}</ref><ref name="LongTermMorph"/><ref name="ICPDR">{{cite web|url=http://www.icpdr.org|title=ICPDR|language=en}}</ref>
+| width_max          = Danubi i mesëm {{cvt|1,500|m|abbr=on}}; Danubi i poshtëm {{cvt|1,700|m|abbr=on}}<ref name="ICPDR"/><ref name="LongTermMorph">{{cite web|url=https://www.interreg.eu|title=Long-term Morphological Development of the Danube in Relation to the Sediment Balance|language=en}}</ref>
+| depth_min          = {{cvt|1|m|abbr=on}} (Danubi i sipërm)<ref name="ICPDR"/>
+| depth_avg          = Danubi i sipërm {{cvt|8|m|abbr=on}}; Danubi i mesëm {{cvt|6-10|m|abbr=on}}, {{cvt|53|m|abbr=on}} (Portat e Hekurit); Danubi i poshtëm {{cvt|9|m|abbr=on}}<ref name="Hydromorphological balance"/><ref name="LongTermMorph"/><ref name="ICPDR"/><ref name="Republic Hydrometeorological Service of Serbia">{{cite web|url=http://www.hidmet.gov.rs|title=Republic Hydrometeorological Service of Serbia|language=en, sr}}</ref>
+| depth_max          = Danubi i mesëm (Portat e Hekurit) {{cvt|90|m|abbr=on}}; Danubi i poshtëm {{cvt|34|m|abbr=on}}<ref name="LongTermMorph"/>
+| river_system       = Danubi
+| progression        = [[Deti i Zi]]
+| discharge1_location= Delta e Danubit
+| discharge1_min     = {{convert|1,790|m3/s|cuft/s|abbr=on}}<ref name="hidrogycal">{{citation|chapter-url=https://www.limnology.ro/water2012/Proceedings/001.pdf|chapter=The Danube River in the Pontic Sector – Hidrologycal Regime|last1=Gâştescu|first1=Petre|last2=Țuchiu|first2=Elena|title=Water resources and wetlands: Conference Proceedings|location=Tulcea, Rumani|editor-first1=Petre|editor-last1=Gâştescu|editor-first2=William|editor-last2=Lewis William Jr|editor-first3=Petre|editor-last3=Breţcan|date=2012|isbn=978-606-605-038-8|page=18|language=en}}</ref><ref name="hidrogeog">{{cite web|url=https://www.limnology.ro/wrw2023/proceedings.html|title=THE DANUBE RIVER AND ITS DELTA, HYDROGEOGRAPHYC CHARACTERISTICS-ACTUAL SYNTHESIS|language=en}}</ref>
+| discharge1_avg     = (Periudha: 1931–2020) {{cvt|6,452|m3/s|cuft/s|abbr=on}}<ref name="hidrogeog"/><ref name="auto">{{cite web|url=https://unece.org/DAM/env/documents/2019/ece/Restart/Ukraine_S1/Points_of_view_expressed_by_the_Romanian_authorutues_and_scientific_research_institute.pdf|title=Points of view expressed by the Romanian authorities and scientific research on the Ukraine's document "Annotated Report on Scientific Research – Complex Environmental Monitoring for the Danube – Black Sea Deep Water Navigation Canal operation in 2017–2018. The Sea Approach Canal Zone"|publisher=unece.org|access-date=30 prill 2022|language=en}}</ref>
+| discharge1_max     = {{convert|15,900|m3/s|cuft/s|abbr=on}}<ref name="hidrogycal"/><ref name="hidrogeog"/>
+| discharge5_location= Passau ([[Bavaria|Bavari]], 30&nbsp;km para qytetit)
+| discharge5_avg     = (Periudha: 1931–2020) {{convert|580|m3/s|cuft/s|abbr=on}}<ref name="hidrogeog"/>
+| discharge4_location= [[Vjena]]
+| discharge4_avg     = (Periudha: 1931–2020) {{convert|1,920|m3/s|cuft/s|abbr=on}}<ref name="hidrogeog"/>
+| discharge3_location= [[Budapesti]]
+| discharge3_avg     = (Periudha: 1931–2020) {{convert|2,350|m3/s|cuft/s|abbr=on}}<ref name="hidrogeog"/>
+| discharge2_location= [[Beogradi]]
+| discharge2_avg     = (Periudha: 1931–2020) {{convert|5,300|m3/s|cuft/s|abbr=on}}<ref name="hidrogeog"/>
+<!-- TIPARET E PELLGUT -->
+| source1            = [[Breg (lumë)|Breg]]
+| source1_location   = Furtwangen im Schwarzwald, [[Baden-Vyrtemberg|Baden-Württemberg]], Gjermani
+| source1_coordinates= {{coord|48|05|44|N|08|09|18|E|display=inline}}
+| source1_elevation  = {{convert|1,078|m|abbr=on}}
+| source2            = Brigach
+| source2_location   = St. Georgen im Schwarzwald, [[Baden-Vyrtemberg|Baden-Württemberg]], Gjermani
+| source2_coordinates= {{coord|48|06|24|N|08|16|51|E|display=inline}}
+| source2_elevation  = {{convert|940|m|abbr=on}}
+| source_confluence_location   = Donaueschingen, [[Baden-Vyrtemberg|Baden-Württemberg]], Gjermani
+| source_confluence_coordinates= {{coord|47|57|03|N|08|31|13|E|display=inline}}
+| mouth              = Delta e Danubit
+| mouth_location     = Rumani
+| mouth_coordinates  = {{coord|45|13|3|N|29|45|41|E|display=inline,title}}
+| basin_size_km2 = 801.463
+| basin_size_ref = <ref name="ICPDR"/>
+}}
+
+'''Danubi''' ({{IPAc-en|ˈ|d|æ|n|.|j|uː|b}} {{respell|DAN|jub}}; shih edhe [[#Emrat dhe etimologjia|emrat e tjerë]]) është një [[lumë]] në Evropë, i dyti më i gjati pas [[Lumi i Vollgës|Vollgës]].<ref>{{Cite web|last=Water|first=Connor Brighton|date=2023-02-01|title=10 Longest Rivers In Europe|url=https://www.worldatlas.com/rivers/10-longest-rivers-in-europe.html|access-date=2026-03-30|website=WorldAtlas|language=en}}</ref> Ai rrjedh nëpër Evropën Qendrore dhe Juglindore, nga Shvarcvalldi (Pylli i Zi) i Gjermanisë<ref name=":0">{{Cite news|title=Danube River {{!}} Map, Cities, Countries, & Facts {{!}} Britannica|url=https://www.britannica.com/place/Danube-River|archive-url=https://web.archive.org/web/20251230221834/https://www.britannica.com/place/Danube-River|archive-date=2025-12-30|access-date=2026-03-30|work=Encyclopedia Britannica|language=en}}</ref> në jug, përmes {{ill|Deltës së Danubit|en|Danube Delta}} në Rumani, derisa derdhet në [[Deti i Zi|Detin e Zi]].<ref name=":0"/> I madh dhe me rëndësi të thellë historike, Danubi ka qenë dikur kufi i [[Perandoria Romake|Perandorisë Romake]]. Në shekullin e 21-të, ai lidh dhjetë vende evropiane, duke kaluar nëpër territoret e tyre ose duke shënuar kufirin mes tyre. Me origjinë në Gjermani, Danubi rrjedh drejt juglindjes për {{convert|2850|km|mi|sp=us|abbr=on}}, duke kaluar nëpër ose duke kufizuar me Austrinë, Sllovakinë, Hungarinë, Kroacinë, Serbinë, Rumaninë, Bullgarinë, Moldavinë dhe Ukrainën.<ref>{{Cite web|last=yakubova@upenn.edu|date=2017-09-01|title=Danube River|url=https://rees.sas.upenn.edu/about/spotlight/danube-river|access-date=2026-03-30|website=Russian and East European Studies|language=en}}</ref> Mes shumë qyteteve në bregun e tij gjenden katër kryeqytete kombëtare: [[Vjena]], [[Bratisllava|Bratislava]],<ref>{{Cite web|title=Danube River in Bratislava {{!}} bratislava-city.sk|url=https://bratislava-city.sk/danube-river/|access-date=2026-03-30|language=cs}}</ref> [[Budapesti]]<ref>{{Cite web|last=Péter|first=László|date=23 mars 2026|title=Budapest|url=https://www.britannica.com/place/Budapest/People|url-status=live|language=en}}</ref> dhe [[Beogradi]]. Pellgu i tij lëndëmbledhës arrin {{Convert|817000|km2|abbr=on}} dhe shtrihet edhe në nëntë vende të tjera.
+
+Rrjedha e parë e Danubit, [[Breg (lumë)|Bregu]], buron në Furtwangen im Schwarzwald, ndërsa lumi merr emrin nga pika e bashkimit të burimeve, në parkun e pallatit të Donaueschingen-it. Që nga kohët e lashta, Danubi ka qenë rrugë tregtare tradicionale në Evropë. Sot, {{convert|2415|km|mi|abbr=on}} të gjatësisë së tij totale janë të lundrueshme. Danubi lidhet me [[Deti i Veriut|Detin e Veriut]] përmes {{ill|Kanalit Rajn–Main–Danub|en|Rhine–Main–Danube Canal}}, duke e bashkuar Danubin te Kelheim me [[Lumi i Majnit|Majnin]] te Bamberg. Lumi është gjithashtu burim i rëndësishëm [[hidroenergjia|hidroenergjie]] dhe uji të pijshëm.
+
+Pellgu i lumit Danub është vendbanim për lloje peshqish si mizoreshë (''Esox lucius''), sandër (''Sander lucioperca''), hukja (''Hucho hucho''), sominat (''Silurus glanis''), mustak (''Lota lota'') dhe temblat (''Tinca tinca''). Ai është gjithashtu vendbanim i llojeve të shumta të [[Blini|blinit]] dhe krapit, si dhe i [[Salmoni|salmonit]] dhe [[Trofta|troftës]]. Disa lloje peshqish euryhalinë, si levreku evropian i detit, qefulli dhe ngjala evropiane, banojnë në Deltën e Danubit dhe në pjesën e poshtme të lumit.
+== Emrat dhe etimologjia ==
+Sot lumi e mban emrin e tij nga bashkimi i burimeve në [[Donaueschingen]], Gjermani, e deri te derdhja në [[Deti i Zi|Detin e Zi]] përmes [[Delta e Danubit|Deltës së Danubit]] në Rumani dhe Ukrainë. Në gjuhët e vendeve që përshkon, lumi njihet si {{native name list |tag1=de |name1=Donau |tag2=sk |name2=Dunaj |tag3=hu |name3=Duna |tag4=hr |name4=Dunav |tag5=sr |name5={{lang|sr-Cyrl|Дунав}} / {{lang|sr-Latn|Dunav}} |tag6=bg |name6=Дунав |tag7=ro |name7=Dunărea |tag8=uk |name8=Дунай}}.
+
+Lumi ishte i njohur për [[Greqia e lashtë|grekët e lashtë]] si ''Istros'' ({{lang|grc|Ἴστρος}})<ref>{{Cite web|url=https://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:4.48|title=Herodotus, The Histories, book 4, chapter 48|website=www.perseus.tufts.edu|language=en}}</ref>, nga një rrënjë e cila gjendet ndoshta edhe në emrin e lashtë të Dniestrit (''Danaster'' në latinisht, ''Tiras'' në greqisht) dhe që lidhet me gjuhët iranike (iranishten) ''turos'' "i shpejtë" dhe [[sanskritishtja|sanskritishten]] ''iṣiras'' ({{lang|sa|इषिरस्}}) "i shpejtë", nga rrënja [[Gjuha proto-indo-evropiane|proto-indoevropiane]] ''isro-'', ''sreu'' "të rrjedhësh".<ref name="Felecan">{{cite journal|title=Straturi etimologice reflectate în hidronimia românească|first1=Oliviu|last1=Felecan|first2=Nicolae|last2=Felecan|page=254|journal=Quaderns de Filologia: Estudis Lingüístics|volume=20|year=2015|issue=1|publisher=Universitat de València|doi=10.7203/qfilologia.20.7521|url=http://roderic.uv.es/bitstream/10550/49693/1/5283423.pdf|doi-access=free|language=ro}}</ref>
+
+Në Mesjetë, greqishtja ''Tiras'' u huazua në italisht si ''Tyrlo'' dhe në gjuhët turke si ''Tyrla''; kjo e fundit u huazua më tej në rumanisht si rajonalizëm (''Turlă'').<ref name="Felecan"/>
+
+Emri trako-[[gjuha frigase|frigas]] ishte ''Matoas''<ref>{{cite journal|title=Matoas, the Thraco-Phrygian name for the Danube, and the IE root *madų|first=Robert|last=Dyer|journal=Glotta|volume=52|year=1974|issue=1/2|pages=91–95|publisher=Vandenhoeck & Ruprecht (GmbH & Co. KG)|jstor=40266286|language=en}}</ref>, "sjellësi i fatit".<ref name="Sasel2009">{{cite book|first=Marjeta|last=Šašel Kos|language=sl, en|url=http://iza.zrc-sazu.si/pdf/Sasel_Kos_Ukrocena_lepotica.pdf|pages=42–50|chapter=Reka kot božanstvo — Sava v antiki|trans-chapter=Lumi si hyjni — Sava në antikitet|editor-first=Jožef|editor-last=Barachini|title=Ukročena lepotica: Sava in njene zgodbe|trans-title=Bukuroshja e zbutur: Sava dhe historitë e saj|isbn=978-961-92735-0-0|year=2009|place=Sevnica|publisher=Javni zavod za kulturo, šport, turizem in mladinske dejavnosti|archive-url=https://web.archive.org/web/20160304041135/http://iza.zrc-sazu.si/pdf/Sasel_Kos_Ukrocena_lepotica.pdf|archive-date=4 mars 2016}}</ref>
+
+Emri [[gjuha mongole e mesme|mongolisht e mesme]] për Danubin u transliterua si ''Tho-na'' në vitin 1829 nga [[Jean-Pierre Abel-Rémusat]].<ref name="Abel-Remusat">{{cite book|last=Abel-Rémusat|first=Jean-Pierre|title=Nouveaus Mélanges Asiatiques|volume=2|location=Paris|publisher=Schubart and Heidelhoff|year=1829|pages=96–97|language=fr}}</ref>
+
+Gjuhët moderne të folura në pellgun e Danubit e përdorin të gjitha emra të prejardhur nga emri latin ''Danubius'':
+
+{| class="wikitable sortable" style="border-collapse: collapse;"
+!style="text-align:left"|Gjuha
+!style="text-align:left"|Emri
+!style="text-align:left"|Shqiptimi ([[Alfabeti fonetik ndërkombëtar|IPA]])
+!style="text-align:left" data-sort-type=text|Rendi i rrjedhjes{{efn|Rendi i rrjedhjes nga bashkimi i burimeve në [[Gjermania|Gjermani]] deri te derdhja përfundimtare në [[Deti i Zi|Detin e Zi]] përmes [[Delta e Danubit|Deltës së Danubit]] në [[Rumania|Rumani]] dhe [[Ukraina|Ukrainë]].<br>Shih edhe seksionin [[#Gjeografia|Gjeografia]].}}
+
+|-
+|[[Gjuha latine|Latinisht]]
+|Danubius, Dānuvius
+|
+|N/A
+
+|-
+|[[Gjuha gjermane|Gjermanisht]]
+|Donau
+|{{IPA|de|ˈdoːnaʊ}}
+| 1 [[Gjermania]]<br> 2 [[Austria]]
+
+|-
+|[[Gjuha bavareze|Bavarezisht]]
+|Doana
+|
+|N/A
+
+|-
+|[[Gjuha silesiane|Silesianisht]]
+|Dōnaj
+|
+|N/A
+
+|-
+|[[Sorbishtja e sipërme|Sorbishtja e sipërme]]
+|Dunaj
+|{{IPA|hsb|ˈdunaj}}
+|N/A
+
+|-
+|[[Gjuha çeke|Çekisht]]
+|Dunaj
+|{{IPA|cs|ˈdunaj}}
+|N/A
+
+|-
+|[[Gjuha sllovake|Sllovakisht]]
+|Dunaj
+|{{IPA|sk|ˈdunaj}}
+| 3 [[Sllovakia]]
+
+|-
+|[[Gjuha polake|Polonisht]]
+|Dunaj
+|{{IPA|pl|ˈdunaj}}
+|N/A
+
+|-
+|[[Gjuha hungareze|Hungarisht]]
+|Duna
+|{{IPA|hu|ˈdunɒ}}
+| 4 [[Hungaria]]
+
+|-
+|[[Gjuha sllovene|Sllovenisht]]
+|Donava
+|{{IPA|sl|ˈdóːnaʋa}}
+|N/A
+
+|-
+|[[Gjuha serbokroate|Serbokroatisht]]
+|Dunav / Дунав
+|{{IPA|sh|dǔna(ː)v}}
+| 5 [[Kroacia]]<br>6 [[Serbia]]
+
+|-
+|[[Gjuha maqedonase|Maqedonisht]]
+|Дунав
+|{{IPA|mk|ˈdunaf}}
+|N/A
+
+|-
+|[[Gjuha rumune|Rumanisht]]
+|Dunăre,<br/>forma e shquar Dunărea
+|{{IPA|ro|ˈdunəre}}, {{IPA|ro|ˈdunəre̯a|label=forma e shquar}}<ref name="Vekony">{{Cite book|last=Vékony|first=Gábor|year=2000|title=Dacians, Romans, Romanians|publisher=Matthias Corvinus Publishing|isbn=978-1-882785-13-1|page=210|url-access=registration|url=https://archive.org/details/daciansromansrom0000veko/page/210|language=en}}</ref>
+|7 [[Rumania]]<br>9 [[Moldavia]]
+
+|-
+|[[Gjuha bullgare|Bullgarisht]]
+|Дунав (Dúnav)
+|{{IPA|bg|ˈdunɐf}}
+| 8 [[Bullgaria]]
+
+|-
+|[[Gjuha ukrainase|Ukrainisht]]
+|Дунай (Dunáy)
+|{{IPA|uk|dʊˈnɑj}}
+|10 [[Ukraina]]
+
+|-
+|[[Gjuha greke|Greqisht]]
+|Δούναβης (Doúnavis)
+|{{IPA|el|ˈðunavis}}
+|N/A
+
+|-
+|[[Gjuha frënge|Frëngjisht]]
+|Danube
+|{{IPA|fr|danyb}}
+|N/A
+
+|-
+|[[Gjuha italiane|Italisht]]
+|Danubio
+|{{IPA|it|daˈnuːbjo}}
+|N/A
+
+|-
+|[[Gjuha portugeze|Portugalisht]]
+|Danúbio
+|{{IPA|pt-PT|dɐˈnuβju}}
+|N/A
+
+|-
+|[[Gjuha spanjolle|Spanjisht]]
+|Danubio
+|{{IPA|es|daˈnuβjo}}
+|N/A
+
+|-
+|[[Gjuha ruse|Rusisht]]
+|Дунай (Dunáy)
+|{{IPA|ru|dʊˈnaj}}
+|N/A
+
+|-
+|[[Gjuha turke|Turqisht]]
+|Tuna
+|{{IPA|tr|tuˈna}}
+|N/A
+
+|-
+|[[Gjuha retoromane|Retoromanisht]]
+|Danubi
+|
+|N/A
+
+|-
+|[[Gjuha shqipe|Shqip]]
+|Danub,<br/>forma e shquar: Danubi<ref>{{citation|page=624|publisher=Akademia e Shkencave e RPS të Shqipërisë, Instituti i Kulturës Popullore, Sektori i Prozës dhe Poezisë|editor1=Kozma Vasili|editor2=Arsen Mustaqi|title=Lirika popullore|trans-title=Folk lyrics|series=Folklor Shqiptar|volume=4|language=sq|issue=3 – Kenge per nizamet dhe kurbetin|year=1981|location=Tirana|quote=Tunë-a lumi i Danubit}}</ref>
+|
+|N/A
+
+|}
+
+=== Etimologjia ===
+''Danube'' është një emër lumi [[Hidronimia e Evropës së vjetër|i Evropës së vjetër]] i prejardhur nga [[gjuhët keltike|keltishtja]] ''Danu'' ose ''Don''<ref name="Bromwich">Triad 35. Bromwich, ''Trioedd Ynys Prydein'', f. 280–285.</ref> (të dyja hyjni [[hyjnitë keltike|keltike]]), e cila vetë rrjedh nga [[Gjuha proto-indo-evropiane|proto-indo-evropianishtja]] ''*deh₂nu''. Emra të tjerë lumenjsh evropianë nga e njëjta rrënjë përfshijnë Dunajec-in, Dzvina/Daugava-n, Donin, Donetsin, [[Dniepri|Dnieprin]], [[Lumi Dniestri|Dniestrin]], Dysna-n dhe Tana/Deatnu-në. Në sanskritishten [[Rigveda|rigvedike]], ''Danu'' (दनु) do të thotë "lëng, pikë vese" (edhe emër i një perëndeshe [[Feja vedike historike|vedike]]) dhe ''Danuja'' (दनुज) do të thotë "i lindur nga Danu" ose "i lindur nga pikat e vesës". Në [[gjuha avestane|avestanisht]], fjala ''Dānu'' do të thotë "lumë". Fjala [[gjuha finlandeze|finlandeze]] për Danubin është ''Tonava'', e cila me shumë gjasë vjen nga emri i lumit në gjermanisht, ''Donau''. Emri i tij [[gjuhët samike|sami]], ''Deatnu'', do të thotë "Lumi i Madh". Është e mundur që ''Dānu'' në [[gjuha skitase|skitisht]] të ketë qenë, si në avestanisht, një fjalë e përgjithshme për "lumë": ''Dnieper'' dhe ''Dniestr'', nga ''Danapris'' dhe ''Danastius'', supozohet të vazhdojnë skitishten ''*dānu apara'' "lumi i largët" dhe ''*dānu nazdya-'' "lumi i afërt", përkatësisht.<ref name="Mallory">{{cite book|author-link1=J. P. Mallory|last1=Mallory|first1=J.P|author-link2=Victor H. Mair|first2=Victor H.|last2=Mair|title=The Tarim Mummies: Ancient China and the Mystery of the Earliest Peoples from the West|url=https://archive.org/details/tarimmummiesanci00mall|url-access=registration|location=London|publisher=Thames and Hudson|year=2000|page=106|isbn=978-0-500-05101-6|language=en}}. {{cite book|url=http://i.ironau.ru/pdf/osjazfolk1949.pdf|script-title=ru:Осетинский язык и фольклор|trans-title=Ossetian language and folklore|author=V. I. Abaev|location=Moscow|publisher=Publishing house of Soviet Academy of Sciences|year=1949|page=236|language=ru}}</ref>
+
+Në latinisht, Danubi njihej ndryshe si ''Danubius'', ''Danuvius'', ''Ister''<ref>{{cite book|title=Ancient Languages of the Balkans, Part One|location=Paris|publisher=Mouton|year=1976|page=144|language=en}}</ref> ose ''Hister''. Emri latin është mashkullor, ashtu siç janë të gjithë emrat e tij [[gjuhët sllave|sllave]], me përjashtim të sllovenishtes (edhe emri i [[Lumi i Rinit|Rinit]] (Rajnit) është mashkullor në latinisht, në shumicën e gjuhëve sllave, si dhe në gjermanisht). Gjermanishtja ''Donau'' (gjermanishtja e hershme moderne ''Donaw'', ''Tonaw''<ref>''Tonaw'' te {{cite book|author=Sebastian Franck|title=Weltbuch|year=1542|url=https://books.google.com/books?id=dk9QLBxWmxcC&q=tonach&pg=PT167|page=81|language=de}} ''Donaw'' p.sh. te {{cite book|author=Leonhard Thurneisser zum Thurn|title=Pison|year=1572|url=https://books.google.com/books?id=PWhWAAAAcAAJ&pg=PR186|page=186|language=de}} Drejtshkrimi ''Donau'' që nga shekulli 17.</ref>, gjermanishtja e lartë e mesme ''Tuonowe'')<ref>{{cite book|author=Grimm|title=Deutsche Grammatik|page=407|title-link=Deutsche Grammatik|language=de}}</ref> është femërore, pasi është ripërdorur si duke përmbajtur prapashtesën ''-ouwe'' "moçal, tokë e lagësht".
+
+[[Gjuha rumune|Rumanishtja]] dallon nga gjuhët e tjera përreth në caktimin e lumit me një term femëror, ''Dunărea'' ({{IPA|ro|ˈdunəre̯a}}).<ref name="Felecan"/> Kjo formë nuk u trashëgua nga latinishtja, megjithëse rumanishtja është gjuhë romane.<ref name="Vekony"/> Për të shpjeguar humbjen e emrit latin, studiuesit që supozojnë se rumanishtja u zhvillua pranë lumit të madh propozojnë<ref name="Vekony"/> që emri rumun rrjedh nga një trakishte e hipotetizuar ''*Donaris''. Rrënja proto-indo-evropiane e këtij emri të supozuar lidhet me fjalën iranike "don-"/"dan-", ndërsa prapashtesa e supozuar ''-aris'' gjendet në emrin e lashtë të lumit Ialomița, ''Naparis'', dhe në lumin e paidentifikuar ''Miliare'' të përmendur nga Jordanes në ''Getica''-n e tij.<ref name="Felecan"/> Gábor Vékony thotë se kjo hipotezë nuk është e besueshme, sepse grekët e huazuan formën ''Istros'' nga [[Trakët]] vendas.<ref name="Vekony"/> Ai propozon që emri rumun është huazim nga një [[gjuhët turke|gjuhë turke]] ([[gjuha kumane|kumanishtja]] ose [[gjuha peçenege|peçenegishtja]]).<ref name="Vekony"/>
+== Gjeografia ==
+[[File:Danube basin.png|thumb|[[Pellgu i Danubit]]]]
+[[File:Bregquelle 01.jpg|thumb|Burimi hidrogjeografik i Danubit te Kisha e Shën Martinit në Furtwangen im Schwarzwald, Gjermani: ''Bregquelle'', burimi i rrjedhës më të gjatë të Danubit, [[Breg (lumë)|Breg]], ku Danubi simbolizohet nga alegoria romake e lumit, ''Danuvius''.]]
+[[File:Donauquelle Donaueschingen im Sommer.jpg|thumb|Burimi simbolik i Danubit në [[Donaueschingen]]: burimi i ''Donaubach''-ut (''Përroi i Danubit''), i cili derdhet në Brigach.]]
+
+I klasifikuar si [[rrugë ndërkombëtare ujore]], ai buron në qytetin e [[Donaueschingen]], në [[Pylli i Zi|Pyllin e Zi]] të Gjermanisë, te bashkimi i lumenjve Brigach dhe [[Breg (lumë)|Breg]]. Danubi më pas rrjedh drejt juglindjes për rreth {{cvt|2730|km}}, duke kaluar nëpër katër kryeqytete ([[Vjena]], [[Bratislava]], [[Budapesti]] dhe [[Beogradi]]) para se të derdhet në [[Deti i Zi|Detin e Zi]] përmes [[Delta e Danubit|Deltës së Danubit]] në [[Rumania|Rumani]] dhe [[Ukraina|Ukrainë]].
+
+=== Statusi ndërkombëtar ===
+Dikur kufi i qëndrueshëm i [[Perandoria Romake|Perandorisë Romake]], lumi kalon nëpër ose prek kufijtë e 10 vendeve. [[Pellgu lëndëmbledhës|Pellgu]] i tij shtrihet edhe në nëntë vende të tjera (dhjetë nëse përfshihet [[Kosova]]).<ref name="icpdr">{{cite web|url=http://www.icpdr.org/icpdr-pages/countries.htm|title=Countries of the Danube River Basin|publisher=International Commission for the protection of the Danube River|access-date=13 nëntor 2010|language=en}}</ref>
+
+{| class="wikitable sortable" style="border-collapse: collapse;"
+!style="text-align:left"|Nr.<br>rendor
+!style="text-align:left"|Shteti
+!style="text-align:left"|Pjesa e<br>pellgut<ref name=icpdr/>
+!style="text-align:left"|Emri<br>vendas
+!style="text-align:left"|Pika interesi
+
+|-
+|style="text-align:center"|1
+|[[Gjermania]]
+|style="text-align:right"|7%
+| rowspan="2" |Donau
+|[[Donaueschingen]] – burimi
+
+|-
+|style="text-align:center"|2
+|[[Austria]]
+|style="text-align:right"|10%
+|[[Vjena]] – kryeqyteti
+
+|-
+|style="text-align:center"|3
+|[[Sllovakia]]
+|style="text-align:right"|5,9%
+|Dunaj
+|[[Bratislava]] – kryeqyteti
+
+|-
+|style="text-align:center"|4
+|[[Hungaria]]
+|style="text-align:right"|11,6%
+|Duna
+|[[Budapesti]] – kryeqyteti
+
+|-
+|style="text-align:center"|5
+|[[Kroacia]]
+|style="text-align:right"|4,4%
+| rowspan="2" |Dunav
+|
+|-
+|style="text-align:center"|6
+|[[Serbia]]
+|style="text-align:right"|10,2%
+|[[Beogradi]] – kryeqyteti
+
+|-
+|style="text-align:center"|7
+|[[Rumania]]
+|style="text-align:right"|29%
+|Dunărea
+|[[Delta e Danubit]] – [[Deti i Zi]]
+
+|-
+|style="text-align:center"|8
+|[[Bullgaria]]{{efn|name="sequence_8"|Qyteti-port [[Vidin]] në Bullgari ndodhet poshtë rrjedhës në raport me qytetin [[Moldova Nouă]] në Rumani.}}
+|style="text-align:right"|5,9%
+|Дунав
+|
+|-
+|style="text-align:center"|9
+|[[Moldavia]]
+|style="text-align:right"|1,6%
+|Dunărea
+|
+|-
+|style="text-align:center"|10
+|[[Ukraina]]
+|style="text-align:right"|3,8%
+|Дунай
+|[[Delta e Danubit]] – [[Deti i Zi]]
+
+|}
+
+=== Pellgu lëndëmbledhës ===
+Përveç shteteve kufitare (shih më lart), [[pellgu lëndëmbledhës]] përfshin pjesë të nëntë vendeve të tjera: [[Bosnja dhe Hercegovina]] (4,6% e sipërfaqes së pellgut), [[Republika Çeke]] (2,9%), [[Sllovenia]] (2,0%), [[Mali i Zi]] (0,9%), [[Zvicra]] (0,2%), [[Italia]] (<0,15%), [[Polonia]] (<0,1%), [[Maqedonia e Veriut]] (<0,1%) dhe [[Shqipëria]] (<0,1%).<ref name=icpdr/> Pellgu total lëndëmbledhës ka sipërfaqe {{convert|801463|km2|abbr=on}} dhe është vendbanim për 83 milionë njerëz.<ref name="ICPDR-Basin"/> Pika më e lartë e pellgut lëndëmbledhës është maja e ''[[Piz Bernina]]'' në kufirin [[Itali]]–[[Zvicër]], me {{convert|4049|m|sp=us|abbr=on}}.<ref>{{cite book|url=http://www.unece.org/fileadmin//DAM/env/water/publications/pub76.htm|title=Our Waters: Joining Hands Across Borders. First Assessment of Transboundary Rivers, Lakes and Groundwaters|year=2007|chapter=Drainage basin of the Black Sea|chapter-url=http://www.unece.org/fileadmin/DAM/env/water/blanks/assessment/black.pdf|publisher=United Nations Economic Commission for Europe|language=en}}</ref> Pellgu i lumit Danub ndahet në tre pjesë kryesore, të ndara nga "portat" ku lumi detyrohet të presë përmes seksioneve malore:<ref name="ICPDR-Basin">{{Cite web|url=https://www.icpdr.org/main/danube-basin/river-basin|title=River Basin — ICPDR – International Commission for the Protection of the Danube River|website=www.icpdr.org|language=en}}</ref>
+* '''Pellgu i sipërm''', nga burimet deri te [[Porta e Devinit]].
+* '''Pellgu i mesëm''', zakonisht i quajtur [[Pellgu Panonik]] ose Pellgu Karpatik, mes [[Porta e Devinit|Portës së Devinit]] dhe [[Portat e Hekurit|Portave të Hekurit]]. Përfshin fushat hungareze [[Kisalföld]] dhe [[Alföld]].
+* '''Pellgu i poshtëm''', nga [[Portat e Hekurit]] deri te [[grykëderdhja]], duke përfshirë [[Delta e Danubit|Deltën e Danubit]].
+== Rrjedha ==
+
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|+{{nowrap|Rrjedha mesatare vjetore në stacionet hidrologjike (periudha 2000–2025)}}
+! rowspan="2" |Viti
+! colspan="7" |Rrjedha mesatare vjetore në m<sup>3</sup>/s (cu ft/s)
+|-
+!Reni<br/>Isaccea
+!Silistra
+!Pristol
+!Batina<br/>Bezdan
+!Nagymaros<br/>Szob
+!Bratislava<br/>Wolfsthal
+!Untergriesbach
+|-
+|2000
+|{{convert|6,580.6|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|6,198.1|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,585.9|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,669.4|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,627.2|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,337.9|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,667.2|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2001
+|{{convert|6,304.3|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,919.4|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,421.8|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,432.5|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,382.3|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,231.3|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,627.6|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2002
+|{{convert|6,837.1|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|6,100.1|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,392|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,824.9|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,855.6|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,683|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,803.9|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2003
+|{{convert|5,021|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|4,571|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|3,825|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,786|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,722|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,647|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,153|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2004
+|{{convert|6,524|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|6,088|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,233|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,025|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,013|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,852|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,213|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2005
+|{{convert|8,711|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|7,659|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|6,396|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,420|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,329|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,115|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,359|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2006
+|{{convert|8,428|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|7,370|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|6,616|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,110|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,503|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,186|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,396|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2007
+|{{convert|5,626|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,195|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|4,512|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,182|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,136|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,916|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,287|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2008
+|{{convert|5,909|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,358|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|4,736|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,163|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,079|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,876|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,339|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2009
+|{{convert|6,492|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,990|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,412|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,607|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,441|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,186|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,433|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2010
+|{{convert|9,598|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|8,515|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|7,424|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,879|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,615|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,130|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,420|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2011
+|{{convert|5,303|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|4,827|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|4,182|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,000|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,882|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,700|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,218|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2012
+|{{convert|5,053|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|4,665|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|4,321|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,240|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,216|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,120|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,517|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2013
+|{{convert|7,164|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|6,558|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,946|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,863|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,684|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,417|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,671|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2014
+|{{convert|7,446|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|6,901|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,756|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,198|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,036|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,788|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,237|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2015
+|{{convert|6,138|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,722|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|4,971|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,030|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,903|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,629|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,240|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2016
+|{{convert|6,465|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,993|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,339|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,261|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,196|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,944|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,412|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2017
+|{{convert|5,202|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|4,813|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|4,270|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,143|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,041|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,844|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,307|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2018
+|{{convert|6,487.8|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,875.5|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|4,891|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,906.3|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,808.1|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,644.1|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,227.8|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2019
+|{{convert|5,579|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,168|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|4,593|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,253|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,114|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,962|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,446|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2020
+|{{convert|4,893.5|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|4,659|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|4,095|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,215|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,026|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,841|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,285|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2021
+|{{convert|5,998|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,505|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|4,696|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,178|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,028|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,838|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,304|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2022
+|{{convert|4,373|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|4,107|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|3,633|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,180|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,751|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,557|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,134|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2023
+|{{convert|6,665|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|6,267|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|5,534|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,240|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|2,264|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,968|m3/s|cuft/s|sortable=on|abbr=values}}
+|{{convert|1,443|m3/s|cuft/s|sortable=on|abbr=values}}
+|-
+|2024
+|{{convert|5,776.4|m3/s|cuft/s|sortable=on|abbr=values}}
+|
+|
+|{{convert|2,690|m3/s|cuft/s|sortable=on|abbr=values}}
+|
+|
+|
+|-
+|2025
+|{{convert|4,091.4|m3/s|cuft/s|sortable=on|abbr=values}}
+|
+|
+|
+|
+|
+|
+|-
+| colspan="8" |Burimi:<ref name="ICPDR"/><ref name="RHZSrb">{{cite web|url=https://www.hidmet.gov.rs|title=Republički hidrometeorološki zavod|language=sr}}</ref><ref name="ICPDR-pub">{{cite web|url=https://www.icpdr.org/library/publications?f%5B0%5D=category%3A233|title=ICPDR-International Commission for the Protection of the Danube River|language=en}}</ref><ref name="hidroRo">{{cite web|url=https://www.hidro.ro/bulletin_type/diagnoza-si-prognoza-pentru-dunare|title=DIAGNOZA ŞI PROGNOZA PENTRU DUNĂRE|language=ro}}</ref><ref name="TNMN">{{cite report|url=https://www.icpdr.org/library/publications/tnmn-yearbooks|title=TNMN Yearbooks|docket=Water Quality in the Danube River Basin|last=Igor|first=Liska|publisher=International Commission for the Protection of the Danube River (ICPDR)|location=Vjenë (Austri)|website=www.icpdr.org|language=en}}</ref>
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|+{{nowrap|Rrjedha mesatare, minimale dhe maksimale shumëvjeçare (periudha ujore 1876–2010)}}
+! rowspan="2" |Stacioni
+! colspan="3" |Rrjedha (m<sup>3</sup>/s)
+! colspan="3" |Rrjedha (cu ft/s)
+|-
+!Min.
+!Mes.
+!Maks.
+!Min.
+!Mes.
+!Maks.
+|-
+|Ceatal Izmail
+|1.889
+|6.489
+|14.673
+|{{convert|1,889|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|6,489|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|14,673|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+|Reni, Isaccea
+|1.805
+|6.564
+|14.820
+|{{convert|1,805|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|6,564|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|14,820|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+|Zimnicea, Svishtov
+|1.411
+|6.018
+|14.510
+|{{convert|1,411|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|6,018|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|14,510|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+|Orșova
+|1.672
+|5.572
+|13.324
+|{{convert|1,672|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|5,572|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|13,324|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+|Veliko Gradište
+|1.461
+|5.550
+|14.152
+|{{convert|1,461|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|5,550|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|14,152|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+|Pančevo
+|1.454
+|5.310
+|13.080
+|{{convert|1,454|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|5,310|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|13,080|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+|Bogojevo
+|959
+|2.889
+|8.153
+|{{convert|959|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|2,889|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|8,153|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+|Bezdan, Batina
+|749
+|2.353
+|7.043
+|{{convert|749|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|2,353|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|7,043|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+|Mohács
+|667
+|2.336
+|7.227
+|{{convert|667|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|2,336|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|7,227|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+|Nagymaros, Szob
+|628
+|2.333
+|7.057
+|{{convert|628|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|2,333|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|7,057|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+|[[Bratislava]]
+|633
+|2.059
+|7.324
+|{{convert|633|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|2,059|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|7,324|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+|[[Vjena]]
+|506
+|1.917
+|6.062
+|{{convert|506|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|1,917|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|6,062|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+|Krems an der Donau
+|596
+|1.845
+|5.986
+|{{convert|596|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|1,845|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|5,986|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+|Linz
+|468
+|1.451
+|4.783
+|{{convert|468|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|1,451|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|4,783|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+|Hofkirchen
+|211
+|638
+|1.943
+|{{convert|211|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|638|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|1,943|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+|Regensburg
+|128
+|444
+|1.330
+|{{convert|128|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|444|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|1,330|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+|Ingolstadt
+|83
+|312
+|965
+|{{convert|83|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|312|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|965|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+|Ulm
+|6
+|38
+|153
+|{{convert|6|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|38|m3/s|cuft/s|sortable=on|disp=number}}
+|{{convert|153|m3/s|cuft/s|sortable=on|disp=number}}
+|-
+| colspan="7" |Burimi:<ref name="Pekarova">{{cite book|title=Flood Regime of Rivers in the Danube River Basin|year=2019|doi=10.31577/2019.9788089139460|last1=Pekárová|first1=Pavla|last2=Miklánek|first2=Pavol|isbn=978-80-89139-46-0|s2cid=131234947|language=en}}</ref><ref name="auto"/>
+|}
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|+{{nowrap|Rezultate të simuluara të ujit dhe ngarkesës së sedimenteve pezull nga një studim dekadal me bazë klimatike (me devijim standard nëpër dekadën përkatëse)}}
+ !rowspan=2|Periudha ([[Era jonë|EJ]])
+ !rowspan=2|Skenari
+ !colspan=2|P
+ !colspan=2|T
+ !colspan=2|Rr
+ !colspan=2|S
+ |-
+ !mm
+ !in
+ !°C
+ !°F
+ !m<sup>3</sup>/s
+ !cu ft/s
+ !ton metrik<br />(milionë)
+ !ton amerikan<br />(milionë)
+ |-
+ | colspan="10" |'''[[Epoka e Vogël e Akullit]]'''
+ |-
+ |1530–1540
+ |I ftohtë/i thatë
+ |{{convert|794|mm|in|disp=table|sortable=on}}
+ |{{convert|9.0|C|F|disp=table|sortable=on}}
+ |{{convert|6,207|m3/s|cuft/s|disp=table|sortable=on}}
+ |{{convert|72.9|t|ST|disp=table|sortable=on}}
+ |-
+ |1650–1660
+ |I ftohtë/i lagësht
+ |{{convert|885|mm|in|disp=table|sortable=on}}
+ |{{convert|8.4|C|F|disp=table|sortable=on}}
+ |{{convert|7,929|m3/s|cuft/s|disp=table|sortable=on}}
+ |{{convert|67.3|t|ST|disp=table|sortable=on}}
+ |-
+ |1709–1719
+ |I ngrohtë/i lagësht
+ |{{convert|861|mm|in|disp=table|sortable=on}}
+ |{{convert|8.3|C|F|disp=table|sortable=on}}
+ |{{convert|7,616|m3/s|cuft/s|disp=table|sortable=on}}
+ |{{convert|52.9|t|ST|disp=table|sortable=on}}
+ |-
+ |1770–1780
+ |I ngrohtë/i thatë
+ |{{convert|865|mm|in|disp=table|sortable=on}}
+ |{{convert|8.9|C|F|disp=table|sortable=on}}
+ |{{convert|7,728|m3/s|cuft/s|disp=table|sortable=on}}
+ |{{convert|74.1|t|ST|disp=table|sortable=on}}
+ |-
+ | colspan="10" |'''Epoka moderne'''
+ |-
+ |1940–1950
+ |I ftohtë/i thatë
+ |{{convert|778|mm|in|disp=table|sortable=on}}
+ |{{convert|8.9|C|F|disp=table|sortable=on}}
+ |{{convert|7,209|m3/s|cuft/s|disp=table|sortable=on}}
+ |{{convert|55.0|t|ST|disp=table|sortable=on}}
+ |-
+ |1960–1970
+ |I ftohtë/i lagësht
+ |{{convert|850|mm|in|disp=table|sortable=on}}
+ |{{convert|8.8|C|F|disp=table|sortable=on}}
+ |{{convert|7,399|m3/s|cuft/s|disp=table|sortable=on}}
+ |{{convert|73.0|t|ST|disp=table|sortable=on}}
+ |-
+ |1975–1985
+ |I ngrohtë/i lagësht
+ |{{convert|818|mm|in|disp=table|sortable=on}}
+ |{{convert|9.0|C|F|disp=table|sortable=on}}
+ |{{convert|7,186|m3/s|cuft/s|disp=table|sortable=on}}
+ |{{convert|77.8|t|ST|disp=table|sortable=on}}
+ |-
+ |1990–2000
+ |I ngrohtë/i thatë
+ |{{convert|790|mm|in|disp=table|sortable=on}}
+ |{{convert|9.5|C|F|disp=table|sortable=on}}
+ |{{convert|5,068|m3/s|cuft/s|disp=table|sortable=on}}
+ |{{convert|73.8|t|ST|disp=table|sortable=on}}
+|-
+| colspan="10" |'''P''' – Reshjet mesatare të simuluara në pellgun e Danubit; '''T''' – Temperatura mesatare e simuluar në pellgun e Danubit; '''Rr''' – Rrjedha mesatare e simuluar e lumit Danub te delta; '''S''' – Ngarkesa e sedimenteve e simuluar e lumit Danub te [[Delta e Danubit|delta]];
+|-
+| colspan="10" |Burimi:<ref>{{cite journal|title=Simulating fluvial fluxes in the Danube watershed: The "Little Ice Age" versus modern day|date=2021|doi=10.1177/0959683611409778|last1=McCarney-Castle|first1=K.|last2=Voulgaris|first2=G.|last3=Kettner|first3=A.J.|last4=Giosan|first4=L.|journal=The Holocene|volume=22|pages=91–105|s2cid=129864432|language=en}}</ref>
+|}
+
+<!-- SHËNIM PËR REDAKTORËT: Në artikullin origjinal anglisht ekziston edhe një tabelë shumë e madhe ("Discharge chronology") me të dhëna rrjedhe vjetore të rindërtuara/matura nga viti 1742 deri më 2025 (rreth 280 vlera vjetore, ~700 rreshta wikitext) për stacionin Ceatal Izmail. Për shkak të gjatësisë së saj ekstreme dhe vlerës informative shtesë të kufizuar përtej tabelave më sipër, kjo tabelë NUK është përfshirë në këtë përkthim. Mund të shtohet si punë vijuese nëse kërkohet — shih en:Danube#Discharge_chronology. -->
+== Degët ==
+{{Hatnote|Artikulli kryesor: {{ill|Lista e degëve të Danubit|en|List of tributaries of the Danube}}}}
+[[File:Szeged-tisza3.jpg|thumb|[[Lumi Tisa|Tisa]] është dega më e gjatë e Danubit.]]Toka e ujëmbledhur nga Danubi shtrihet edhe në shumë vende të tjera. Shumë nga degët e Danubit janë lumenj të rëndësishëm në vetvete, të lundrueshëm nga barka dhe anije të tjera me zhytje të vogël. Nga burimi i tij deri te derdhja në Detin e Zi, degët kryesore janë (sipas rendit të hyrjes):
+
+{{Div col|colwidth=20em}}
+# Iller (hyn te Ulm)
+# Lech (lumë)
+# Altmühl (hyn te Kelheim)
+# Naab (hyn te Regensburg)
+# Regen (lumë) (hyn te Regensburg)
+# Isar
+# Inn (lumë) (hyn te Passau)
+# Ilz (hyn te Passau)
+# Enns (hyn te qyteti Enns)
+# Morava (lumë) (hyn afër Kështjellës së Devinit)
+# Rába (hyn te Győr)
+# Váh (hyn te Komárno)
+# Hron (hyn te Štúrovo)
+# Ipeľ
+# Sió
+# Drava (hyn afër Osijekut)
+# Vuka (lumë) (hyn te Vukovar)
+# [[Lumi Tisa|Tisa]] (hyn afër Titelit)
+# [[Lumi i Savës|Sava]] (hyn te Beogradi)
+# Timiș (lumë) (hyn te Pançevë)
+# Morava e Madhe (hyn afër Smederevës)
+# Mlava (hyn afër Kostolacit)
+# Karaš (hyn afër Banatska Palankës)
+# Jiu (lumë) (hyn te Bechet)
+# Iskar (lumë) (hyn afër Gigenit)
+# Olt (lumë) (hyn te Turnu Măgurele)
+# Osam (hyn afër Nikopolit të Bullgarisë)
+# Yantra (lumë) (hyn afër Svishtovit)
+# Argeș (lumë) (hyn te Oltenița)
+# Ialomița
+# Siret (lumë) (hyn afër Galacit)
+# Prut (hyn afër Galacit)
+{{Div col end}}
+
+== Galeria ==
+<gallery>
+File:Donaueschingen Donauzusammenfluss 20080714.jpg|Bashkimi i burimeve të Danubit në [[Donaueschingen]]: ''Donauzusammenfluss'', bashkimi i Breg-ut dhe Brigach-ut.
+File:Háros-Szigetcsúcs.ogg|Danubi në Budapest – maja e Ishullit Háros në Budafok
+File:Дунайський біосферний заповідник 2.JPG|0&nbsp;km, Delta e Danubit, Ukraina
+File:Danube Delta ESA23450088.jpeg|Ku Danubi takon Detin e Zi (foto satelitore [[Sentinel-2]] e [[Agjencia Kozmike Evropiane|Agjencisë Kozmike Evropiane]])
+File:The Danube Spills into the Black Sea.jpg|Danubi derdhet në Detin e Zi (trupi i sipërm i ujit në foto).
+</gallery>
+
+== Qytetet dhe qytezat ==
+{{Hatnote|Artikulli kryesor: {{ill|Lista e qyteteve në lumin Danub|en|List of cities and towns on the river Danube}}}}
+[[File:Aerial image of Passau.jpg|thumb|Bashkimi trengjyrësh (nga e majta në të djathtë) i lumenjve Inn, Danub dhe Ilz në Passau]]
+
+Danubi kalon nëpër shumë qytete, përfshirë katër kryeqytete kombëtare (të shënuar me shkronja të trasha më poshtë), më shumë se çdo lumë tjetër në botë. Sipas rendit nga burimi te grykëderdhja, ato janë:
+*Gjermania
+**[[Donaueschingen]] në landin [[Baden-Vyrtemberg|Baden-Württemberg]] – lumenjtë Brigach dhe [[Breg (lumë)|Breg]] bashkohen për të formuar Danubin
+**Möhringen an der Donau në Baden-Württemberg
+**Tuttlingen në Baden-Württemberg
+**Sigmaringen në Baden-Württemberg
+**Riedlingen në Baden-Württemberg
+**Munderkingen në Baden-Württemberg
+**Ehingen në Baden-Württemberg
+**Erbach në Baden-Württemberg
+**Ulm në Baden-Württemberg
+**Neu-Ulm në [[Bavaria|Bavari]]
+**Günzburg në Bavari
+**Dillingen an der Donau në Bavari
+**Donauwörth në Bavari
+**Neuburg an der Donau në Bavari
+**Ingolstadt në Bavari
+**Kelheim në Bavari
+**Regensburg në Bavari
+**Straubing në Bavari
+**Deggendorf në Bavari
+**Passau në Bavari
+[[File:Linz Ars electronica center lila DL.jpg|thumb|Danubi në Linz, Austri]]
+*Austria
+**Linz, kryeqyteti i Austrisë së Sipërme
+**Krems an der Donau, në Austrinë e Poshtme
+**Tulln an der Donau, në Austrinë e Poshtme
+**'''[[Vjena]]'''&nbsp;– kryeqyteti i [[Austria|Austrisë]] dhe qyteti më i populluar në bregun e Danubit, ku fusha përmbytëse e lumit njihet si ''Lobau'', ndonëse ''Innere Stadt'' (qendra historike) sot ndodhet larg rrjedhës kryesore të Danubit (megjithatë kufizohet ende nga ''Donaukanal'' – "kanali i Danubit").
+[[File:Danube Bratislava 6.jpg|thumb|Danubi në Bratislavë, Sllovaki]]
+*Sllovakia
+**'''[[Bratisllava|Bratislava]]'''&nbsp;– kryeqyteti i [[Sllovakia|Sllovakisë]]
+**Komárno
+**Štúrovo
+[[File:Várhegy2.JPG|thumb|Bazilika e Esztergomit, Hungari]]
+*Hungaria
+**Mosonmagyaróvár
+**Győr
+**Komárom
+**Esztergom
+**Visegrád&nbsp;– kjo pjesë e lumit njihet edhe si ''Ana e Danubit'' (Danube Bend).
+**Vác
+**Szentendre
+**Göd
+**Dunakeszi
+**'''[[Budapesti]]'''&nbsp;– kryeqyteti i [[Hungaria|Hungarisë]], qyteti dhe aglomerimi më i madh në Danub (rreth 3.300.000 banorë).
+**Szigetszentmiklós
+**Százhalombatta
+**Ráckeve
+**Adony
+**Dunaújváros
+**Dunaföldvár
+**Paks
+**Kalocsa
+**Baja
+**Mohács
+*Kroacia
+**Vukovar
+**Ilok
+[[File:Petrovaradinska tvrđava, 12.jpg|thumb|Kalaja e Petrovaradinit mbi Danub dhe Novi Sadin, kryeqytetin rajonal të Vojvodinës në Serbi]]
+[[File:Kalemegdanska_terasa_Apr_2011.jpg|thumb|Bashkimi i lumit Sava me Danubin nën kalanë e Beogradit, kryeqytetin e Serbisë]]
+*Serbia
+**Apatin
+**Bačka Palanka
+**Čerević
+**Futog
+**Veternik
+**[[Novi Sadi|Novi Sad]]&nbsp;– kryeqyteti rajonal i Vojvodinës
+**Sremski Karlovci
+**Zemun
+**'''[[Beogradi]]'''&nbsp;– kryeqyteti i [[Serbia|Serbisë]]
+**Pançevë
+**[[Smedereva|Smederevo]]
+**Kovin
+**Veliko Gradište
+**Golubac
+**Donji Milanovac
+**Kladovo
+[[File:Nikopol-danube.jpg|thumb|Danubi te Nikopoli i Bullgarisë, në dimër]]
+*Bullgaria
+**Vidin
+**Lom
+**Kozloduy
+**Oryahovo
+**Nikopol
+**Belene
+**Svishtov
+**Ruse
+**Tutrakan
+**Silistra
+[[File:Cazaresulinaoras2.jpg|thumb|Danubi në Sulina, Rumani]]
+*Rumania
+**Moldova Nouă
+**Orșova
+**Drobeta-Turnu Severin
+**Calafat
+**Bechet
+**Dăbuleni
+**Corabia
+**Turnu Măgurele
+**Zimnicea
+**Giurgiu
+**Oltenița
+**Călărași
+**Fetești
+**Cernavodă
+**Hârșova
+**Brăila&nbsp;– kufiri i sektorit detar të Danubit
+**[[Galaci|Galați]]&nbsp;– porti më i madh në Danub
+**Isaccea
+**Tulcea
+**Sulina
+*Moldavia
+**Giurgiulești
+*Ukraina
+**Reni
+**Izmail
+**Kiliia
+**Vylkove
+
+{{wide image|Panorama of Danube in Vienna.jpg|1000px|Panoramë e Danubit në Vjenë}}
+{{wide image|DonauknieVisegrad_2.jpg|1000px|Ana e Danubit (Danube Bend) është një kthesë e Danubit në Hungari, pranë qytetit Visegrád. Malet Transdanubiane ndodhen në bregun e djathtë (ana e majtë e fotos), ndërsa Malet e Hungarisë Veriore në bregun e majtë (ana e djathtë e fotos).}}
+{{wide image|Budapest view with Parliament.jpg|1000px|Panoramë e Danubit në Budapest, me Parlamentin Hungarez (majtas)}}
+{{wide image|Budapest from Gellert Hill MC.jpg|1000px|Budapesti natën}}
+{{wide image|Novi Sad - Gigapixelna panorama2.jpg|1000px|Panoramë e Danubit në Novi Sad, nga Kalaja e Petrovaradinit, Serbi}}
+{{wide image|The confluence of the Sava into the Danube at Belgrade.jpg|900px|Bashkimi i Savës me Danubin te Beogradi, fotografuar nga Kalaja e Beogradit, Serbi}}
+{{Wide image|Belgrade Panorama.jpg|1000px|Panoramë e lumenjve Danub dhe Sava, nga Kalemegdani, Beograd, Serbi}}
+{{wide image|Pano-Donau-Danube.jpg|1000px|Danubi duke hyrë te Portat e Hekurit, në Malet Karpate. Rumania në të majtë, Kalaja e Golubacit dhe Serbia në të djathtë.}}
+
+== Ishujt ==
+{{Hatnote|Shih edhe: {{ill|Lista e ishujve në Danub|en|List of islands in the Danube}}}}
+[[File:Budapest by air.jpg|thumb|Pamje ajrore e Ishullit Margaret, Budapest, Hungari. Në Budapest ka 15 ura mbi Danub.]]
+[[File:Belgrade_Aerial_K1.jpg|thumb|Ishulli i Madh i Luftës (Great War Island) në Beograd, Serbi. Ndodhet te bashkimi i Savës me Danubin.]]
+[[File:Ada Kaleh.jpg|thumb|Ishulli Ada Kaleh, sot në Rumani, u harrua gjatë bisedimeve për paqe në Kongresin e Berlinit më 1878. U përmbyt gjatë ndërtimit të hidrocentralit të Portave të Hekurit më 1970.]]
+
+* Ada Kaleh
+* Ostrovul Mare, Gogoșu
+* Balta Ialomiței
+* Belene Island
+* Ishulli Csepel
+* Čakljanac Island
+* Donauinsel
+* Forkontumac Island
+* Great Brăila Island
+* Ishulli i Madh i Luftës (Great War Island)
+* Ishulli i Mohaçit
+* Koh Chang Island, Sremski Karlovci
+* Kozloduy Island
+* Ishulli Margaret
+* Ostrovo (Kostolac)
+* Ostrovul Ciocănești
+* Ostrovul Mare, Islaz
+* Paradajz Island
+* {{ill|Ribarsko Ostrvo|sr|Споменик природе Рибарско острво}}, Novi Sad
+* Ishulli i Šarengradit
+* Szigetköz
+* Ishulli i Szentendres
+* Vardim Island
+* Ishulli i Vukovarit
+* Žitný ostrov
+
+== Ndarja në seksione ==
+* Seksioni i sipërm: Nga burimi deri te Porta e Devinit, në kufirin e Austrisë me Sllovakinë. Danubi mbetet lumë malor karakteristik deri te Passau, me pjerrësi mesatare të shtratit 0,12% (1200 ppm); nga Passau deri te Porta e Devinit pjerrësia zbutet në 0,06% (600 ppm).
+* Seksioni i mesëm: Nga Porta e Devinit deri te Portat e Hekurit, në kufirin e Serbisë me Rumaninë. Shtrati i lumit zgjerohet dhe pjerrësia mesatare e shtratit bëhet vetëm 0,006% (60 ppm).
+* Seksioni i poshtëm: Nga Portat e Hekurit deri te Pătlăgeanca, me pjerrësi mesatare vetëm 0,003% (30 ppm).
+* Delta: Nga Pătlăgeanca deri te Sulina, ku Danubi takon Detin e Zi. Lumi ndahet në tre degë kryesore.<ref>{{Cite journal|last1=Strat|first1=Daniela|last2=Gheorghe|first2=Iuliana|date=2023-04-17|title=Conservation Status and Effectiveness of the National and International Policies for the Protection and Conservation of Sturgeons in the Danube River and Black Sea Basin|journal=Diversity|volume=15|issue=4|pages=568|doi=10.3390/d15040568|doi-access=free|bibcode=2023Diver..15..568S|issn=1424-2818|language=en}}</ref>
+
+== Lundrimi modern ==
+[[File:Parliament Budapest Hungary.jpg|thumb|Danubi në Budapest]]
+[[File:DanubedeltaSulinaarm2.jpg|thumb|Peshkatar në Deltën e Danubit]]
+[[File:Freight-ship-danube-320x240.ogg|thumb|Anije transporti (barkë) e shtyrë në Danub, pranë Vjenës]]
+
+Danubi është i lundrueshëm nga anije detare, nga Deti i Zi deri te Brăila në Rumani (sektori detar i lumit), dhe më tej nga anije lumore deri te Kelheim, Bavari, Gjermani; mjete më të vogla mund të lundrojnë edhe më lart, deri te Ulm, Vyrtemberg, Gjermani. Rreth 60 nga degët e tij janë gjithashtu të lundrueshme.
+
+Që nga përfundimi i {{ill|Kanalit Rajn–Main–Danub|en|Rhine–Main–Danube Canal}} gjerman më 1992, lumi është pjesë e një rruge ujore trans-evropiane nga Roterdami në Detin e Veriut deri te Sulina në Detin e Zi, në një distancë prej {{convert|3500|km|sp=us|abbr=on}}. Më 1994, Danubi u shpall një nga dhjetë [[Korridori Pan-Evropian|korridoret pan-evropiane]], rrugë në Evropën Qendrore dhe Lindore që kërkonin investime të mëdha gjatë dhjetë deri pesëmbëdhjetë viteve në vijim. Sasia e mallrave të transportuara në Danub u rrit në rreth 100 milionë tonë më 1987. Më 1999, transporti në lumë u vështirësua nga bombardimi i NATO-s i tri urave në Serbi gjatë [[Lufta e Kosovës|Luftës së Kosovës]]. Pastrimi i rrënojave përfundoi më 2002, kurse një urë ponton e përkohshme që pengonte lundrimin u hoq më 2005.
+
+Te {{ill|Portat e Hekurit|en|Iron Gate (Danube)}}, Danubi kalon nëpër një gryk që formon pjesë të kufirit mes Serbisë dhe Rumanisë; aty ndodhet {{ill|Hidrocentrali Portat e Hekurit I|en|Iron Gate I Hydroelectric Power Station}}, i pasuar rreth {{convert|60|km|sp=us|abbr=on}} më poshtë rrjedhës (jashtë gryke) nga {{ill|Hidrocentrali Portat e Hekurit II|en|Iron Gate II Hydroelectric Power Station}}. Më 13 prill 2006, u regjistrua një rrjedhje maksimale rekord te Diga e Portave të Hekurit, që arriti {{convert|15400|m3/s|sp=us|abbr=on}}.
+
+Ekzistojnë tri kanale artificiale të ndërtuara në Danub: Kanali Danub-Tisa-Danub (DTD) në rajonet e Banatit dhe Bačkës (Vojvodinë, provincë veriore e Serbisë); Kanali Danub–Deti i Zi, i gjatë {{convert|64|km|sp=us|abbr=on}}, mes Cernavodës dhe Konstancës (Rumani), i përfunduar më 1984, i cili shkurton distancën deri në Detin e Zi me {{convert|400|km|sp=us|abbr=on}}; dhe Kanali Rajn–Main–Danub, rreth {{convert|171|km|sp=us|abbr=on}}, i përfunduar më 1992, që lidh Detin e Veriut me Detin e Zi.<ref>{{Cite web|url=http://ines-danube.info/goto.php?target=file_1442_download&client_id=viailias4|title=Danube navigation at a glance|website=INeS Danube|archive-url=https://web.archive.org/web/20210226160839/http://ines-danube.info/goto.php?target=file_1442_download&client_id=viailias4|archive-date=26 shkurt 2021|language=en}}</ref> Është propozuar edhe një kanal Danub-Egje.<ref>{{Cite web|last=Tzimas|first=Stavros|title=Chinese interests could make plan to link Danube and Aegean a reality|url=https://www.ekathimerini.com/economy/221159/chinese-interests-could-make-plan-to-link-danube-and-aegean-a-reality/|access-date=11 korrik 2022|website=eKathimerini.com|date=28 gusht 2017|language=en}}</ref>
+
+Kryqëzimi (river cruising) në Danub është aktivitet popullor turistik, sidomos mes Passaut, Gjermani, dhe Budapestit, Hungari.<ref>{{Cite web|last=Sarna|first=Heidi|date=15 gusht 2019|title=10 Best River Cruises|url=https://www.frommers.com/slideshows/818945-10-best-river-cruises|url-status=live|archive-url=https://web.archive.org/web/20230921093944/https://www.frommers.com/slideshows/818945-10-best-river-cruises|archive-date=21 shtator 2023|website=Frommer's|language=en}}</ref>
+
+== Piratëria ==
+Në periudhën 2010–2012, kompani anijesh, sidomos nga Ukraina, pretenduan se anijet e tyre pësonin "sulme të rregullta pirate" në sektorët serbë dhe rumunë të Danubit.<ref>{{cite web|url=http://www.jutarnji.hr/rijecni-gusari-u-srbiji-pljackaju-hrvatske-brodove--zadnja-zrtva-brod--quot-sloga-quot--sisackog--quot-dunavskog-lloyda-quot-/980402/|title=Riječni gusari u Srbiji pljačkaju hrvatske brodove|first=Mate|last=Piškor|date=12 tetor 2011|website=Jutarnji list|archive-url=https://web.archive.org/web/20200301213528/https://www.jutarnji.hr/vijesti/crna-kronika/rijecni-gusari-u-srbiji-pljackaju-hrvatske-brodove-sa-sloge-ukrali-opremu-vrijednu-60-tisuca-eura/1724961/|archive-date=1 mars 2020|language=hr}}</ref><ref>{{cite web|url=http://un.ua/eng/article/369989.html|title=Ukrainian Danube Shipping Company Says Its Ships Are Being Attacked Frequently in Romanian Part Of River Danube|publisher=Ukrainian News|date=13 janar 2012|access-date=11 qershor 2012|archive-url=https://web.archive.org/web/20120114032713/http://un.ua/eng/article/369989.html|archive-date=14 janar 2012|language=en}}</ref><ref>{{cite web|url=https://gazeta.ua/articles/np/_ukrajinski-korabli-vse-chastishe-stayut-zhertvami-rumunskih-pirativ/419063|title=Українські кораблі все частіше стають жертвами румунських піратів|trans-title=Romanian Pirates Attack Ukrainian Ships More Frequently|website=Gazeta.ua|date=20 janar 2012|first=Олена|last=Гордієва|url-status=live|archive-url=https://web.archive.org/web/20230405202115/https://gazeta.ua/articles/np/_ukrayinski-korabli-vse-chastishe-stayut-zhertvami-rumunskih-pirativ/419063|archive-date=5 prill 2023|language=uk}}</ref> Megjithatë, shkeljet mund të mos konsiderohen akte piraterie, siç përcaktohen sipas Konventës së Kombeve të Bashkuara mbi të Drejtën e Detit, por më tepër raste "vjedhjeje lumore".<ref>{{cite web|url=http://www.rivercruiseinfo.com/content/pirates-lower-danube|title=Pirates on the lower Danube|archive-url=https://web.archive.org/web/20131214175158/http://www.rivercruiseinfo.com/content/pirates-lower-danube|archive-date=14 dhjetor 2013|website=rivercruiseinfo|author=Ingo_Eigen|date=27 shkurt 2012|language=en}}</ref>
+
+Raportime mediatike sugjerojnë se ekuipazhet e transportit shpesh përvetësojnë ngarkesën, duke e shitur atë për përfitim personal e duke ia atribuar humbjet sulmeve pirate. Këto incidente shpesh nuk karakterizohen si piraterie, por si vjedhje oportuniste dhe kontrabandë përgjatë lumit.<ref>{{Cite news|last=Tomiuc|first=Eugen|date=2012-02-05|title=Reports Of 'Pirates Of The Danube' Get The Old Heave-Ho|work=Radio Free Europe/Radio Liberty|url=https://www.rferl.org/a/romania_danube_river_pirates_ukraine/24474067.html|url-status=live|archive-url=https://web.archive.org/web/20230909064917/https://www.rferl.org/a/romania_danube_river_pirates_ukraine/24474067.html|archive-date=9 shtator 2023|language=en}}</ref>
+
+== Delta e Danubit ==
+{{Hatnote|Artikulli kryesor: {{ill|Delta e Danubit|en|Danube Delta}}}}
+
+[[File:Вилково, Дунайские плавни 1962 г.JPG|thumb|Lipovanë rusishtfolës në Deltën e Danubit]]
+{{ill|Delta e Danubit|en|Danube Delta}} ({{lang|ro|Delta Dunării}}; ukrainisht: Дельта Дунаю, ''Del'ta Dunayu'') është delta lumore më e madhe në [[Bashkimi Evropian|Bashkimin Evropian]]. Pjesa më e madhe e Deltës së Danubit ndodhet në Rumani (rrethi i Tulcesë), ndërsa pjesa veriore e saj, në bregun e majtë të degës Kilia, ndodhet në Ukrainë (Oblasti i Odesës). Sipërfaqja e përafërt është {{convert|4152|km2|sp=us|abbr=on}}, prej të cilave {{convert|3446|km2|sp=us|abbr=on}} ndodhen në Rumani. Nëse përfshihen edhe lagunat e Razim-Sinoesë ({{convert|1015|km2|sp=us|abbr=on}}, prej të cilave {{convert|865|km2|sp=us|abbr=on}} sipërfaqe uji), të cilat ndodhen në jug të deltës së mirëfilltë, por lidhen me të gjeologjikisht dhe ekologjikisht (territori i tyre i bashkuar është pjesë e Vendit të Trashëgimisë Botërore), sipërfaqja totale e Deltës së Danubit arrin {{convert|5165|km2|sp=us|abbr=on}}.
+
+Delta e Danubit është gjithashtu delta lumore më e mirëruajtur në Evropë, [[Vende të trashëgimisë botërore|Vend i Trashëgimisë Botërore të UNESCO-s]] (që nga 1991) dhe [[Konventa Ramsar|Vend Ramsar]]. Liqenet dhe kënetat e saj mbështesin 45 lloje peshqish të ujërave të ëmbla. Zonat e saj të lagëta mbështesin tufa të mëdha shpendësh migrues nga mbi 300 lloje, përfshirë kormoranin xhuxh (''Microcarbo pygmaeus'') të rrezikuar. Këto kërcënohen nga skemat rivale të kanalizimit dhe kullimit, si Kanali Bystroye.<ref>{{cite book|url=https://www.unece.org/fileadmin/DAM/env/eia/documents/inquiry/Rom.1.pdf|title=Documentation on the likely significant transboundary impact of the Ukrainian deep-water navigation canal Danube-black sea in the context of Espoo Convention, 1991|year=2005|author=Staras, Mircea|publisher=Danube Delta National Institute|publication-date=shkurt 2005|location=Tulcea, Rumani|archive-date=3 gusht 2020|archive-url=https://web.archive.org/web/20200803080734/https://www.unece.org/fileadmin/DAM/env/eia/documents/inquiry/Rom.1.pdf|access-date=20 shtator 2020|url-status=live|language=en}}</ref>
+
+== Bashkëpunimi ndërkombëtar ==
+=== Ekologjia dhe mjedisi ===
+{{Hatnote|Artikulli kryesor: {{ill|Komisioni Ndërkombëtar për Mbrojtjen e Lumit Danub|en|International Commission for the Protection of the Danube River}}}}
+
+[[File:Pelicani din Delta Dunarii.PNG|thumb|right|Pelikanë në Deltën e Danubit, Rumani]]
+
+Komisioni Ndërkombëtar për Mbrojtjen e Lumit Danub (ICPDR) është një organizatë e përbërë nga 14 shtete anëtare (Gjermania, Austria, Republika Çeke, Sllovakia, Sllovenia, Hungaria, Kroacia, Bosnja dhe Hercegovina, Serbia, Bullgaria, Rumania, Moldavia, Mali i Zi dhe Ukraina) dhe Bashkimi Evropian. Komisioni, i themeluar më 1998, merret me të gjithë pellgun e lumit Danub, i cili përfshin degët dhe burimet e ujërave nëntokësore. Qëllimi i tij është zbatimi i Konventës për Mbrojtjen e Lumit Danub, duke promovuar dhe koordinuar menaxhimin e qëndrueshëm dhe të drejtë të ujërave, përfshirë ruajtjen, përmirësimin dhe përdorimin racional të ujërave, si dhe zbatimin e Direktivës Kuadër të BE-së për Ujërat dhe Strategjisë së Danubit.
+
+=== Lundrimi ===
+{{Hatnote|Artikulli kryesor: {{ill|Komisioni i Danubit|en|Danube Commission}}}}
+
+Komisioni i Danubit merret me mirëmbajtjen dhe përmirësimin e kushteve të lundrimit në lumë. U themelua më 1948 nga shtatë shtete kufitare me lumin. Anëtarët përfshijnë përfaqësues nga Austria, Bullgaria, Kroacia, Gjermania, Hungaria, Moldavia, Sllovakia, Rumania, Rusia, Ukraina dhe Serbia; mblidhet rregullisht dy herë në vit. Gjithashtu thërret grupe ekspertësh për të shqyrtuar çështje të parapara në planet e punës së komisionit.
+
+Komisioni daton nga Konferencat e Parisit të viteve 1856 dhe 1921, të cilat vendosën për herë të parë një regjim ndërkombëtar për të garantuar lundrimin e lirë në Danub. Sot Komisioni përfshin shtete bregdetare (riparian) dhe joriparian.
+
+== Gjeologjia ==
+[[File:Evening at Danube gorge.jpg|thumb|right|Portat e Hekurit, kufiri Serbi-Rumani]]
+[[File:Dam Serbia Djerdap 2.jpg|thumb|right|Hidrocentrali Portat e Hekurit II, Rumani-Serbi]]
+Megjithëse burimet e sotme të Danubit janë relativisht të vogla, gjeologjikisht Danubi është shumë më i vjetër se [[Lumi i Rinit|Rajni]], me të cilin pellgu i tij ujëmbledhës konkurron sot në Gjermaninë jugore. Kjo sjell disa ndërlikime gjeologjike interesante. Meqë Rajni rrjedh drejt veriut, drejt Detit të Veriut, një ndarje kontinentale që fillon te Piz Lunghin ndan pjesë të mëdha të Gjermanisë jugore, e cila ndonjëherë quhet Ndarja Evropiane e Ujërave.
+[[File:Danube Iron Gorge La Cazane.JPG|thumb|Portat e Hekurit, në kufirin serbo-rumun (Parku Natyror Portat e Hekurit dhe Parku Kombëtar Đerdap)]]
+
+Para akullnajës së fundit në Pleistocen, Rajni fillonte në skajin juglindor të Pyllit të Zi, ndërsa ujërat nga Alpet që sot ushqejnë Rajnin bartéshin nga i ashtuquajturi ''Urdonau'' (Danubi i lashtë). Pjesë të shtratit të këtij lumi të lashtë, i cili ishte shumë më i madh se Danubi i sotëm, mund të shihen ende në kanione (sot pa ujë) në peizazhin e sotëm të Alb-it Shvabian. Erozioni i luginës së Rajnit të Sipërm shpuri në "kapjen e rrjedhës" (stream capture); ujërat nga Alpet e ndryshuan drejtimin dhe filluan të ushqenin Rajnin. Danubi i sipërm i sotëm është kështu një rrjedhë e nën-përshtatur (underfit stream).
+
+Meqë Alb-i Shvabian është kryesisht i formuar nga gëlqeror poroz, dhe meqë niveli i Rajnit është shumë më i ulët se ai i Danubit, sot lumenj nëntokësorë bartin shumë ujë nga Danubi drejt Rajnit. Në shumë ditë vere, kur Danubi bart pak ujë, ai fundoset plotësisht në këto kanale nëntokësore në dy vende në Alb-in Shvabian, të njohura si ''Donauversickerung'' (Fundosja e Danubit). Shumica e këtij uji del sërish në sipërfaqe vetëm {{convert|12|km|mi|sp=us|abbr=on}} në jug, te Aachtopf, burimi me rrjedhjen më të lartë në Gjermani, me mesatare {{convert|8500|L/s|cuft/s|sp=us|abbr=on}}, në veri të Liqenit të Bodenit — duke ushqyer kështu Rajnin. Ndarja Evropiane e Ujërave vlen vetëm për ato ujëra që kalojnë përtej kësaj pike, gjë që ndodh vetëm në ditët e vitit kur Danubi bart ujë të mjaftueshëm për t'i mbijetuar gropave në Donauversickerung.
+
+Meqë sasi kaq të mëdha uji nëntokësor gërryejnë shumë nga gëlqerori përreth, parashikohet se rrjedha e sipërme e Danubit do të zhduket një ditë tërësisht në favor të Rajnit, ngjarje e quajtur "kapje e rrjedhës".
+
+Parametrat hidrologjikë të Danubit monitorohen rregullisht në Kroaci te Batina, Dalj, Vukovar dhe Ilok.<ref>{{cite web|url=http://hidro.hr/hidro_e.php?id=hidro&param=Podaci_e|title=Daily hydrological report|publisher=State Hydrometeorological Bureau of the Republic of Croatia|access-date=9 shtator 2010|archive-date=30 maj 2010|archive-url=https://web.archive.org/web/20100530062812/http://hidro.hr/hidro_e.php?id=hidro&param=Podaci_e|language=en}}</ref>
+== Historia ==
+[[File:Guerre d'orient, combat sur le Danube.jpg|thumb|Betejë mes forcave ruse dhe osmane në Danub më 1854, gjatë [[Lufta e Krimesë|Luftës së Krimesë]] (1853–1856)]]
+Pellgu i Danubit ishte vendngjarja e disa prej kulturave më të hershme njerëzore. Kulturat Neolitike Danubiane përfshijnë kulturat e Qeramikës Vijëzuese (Linear Pottery) të pellgut të mesëm të Danubit. Shumë vendbanime të Kulturës së Vinçës (Vinça, Serbi), të mijëvjeçarit të gjashtë deri të tretë p.e.s., ndodhen përgjatë Danubit. {{ill|Kultura e Vučedolit|en|Vučedol culture}} e mijëvjeçarit të tretë p.e.s. (nga vendbanimi i Vučedolit pranë Vukovarit, Kroaci) njihet për qeramikën e saj.
+
+[[Dari i Madh]], mbreti i Persisë, e kaloi lumin në fund të shekullit të 6-të p.e.s. për të pushtuar Skitinë Evropiane dhe për t'i nënshtruar [[Skithët]].
+
+[[Aleksandri i Madh]] i mundi mbretin triball Sirmus dhe fiset e veriut trake e ilire, duke përparuar nga Maqedonia deri te Danubi, më 336 p.e.s.
+
+Nën romakët, Danubi formoi kufirin e Perandorisë me fiset në veri, pothuajse nga burimi deri te grykëderdhja. Njëkohësisht, ishte rrugë për transportin e trupave dhe furnizimin e vendbanimeve poshtë rrjedhës. Nga viti 37 e.s. deri në kohën e perandorit [[Valentiniani I]] (364–375), Limesi Danubian ishte kufiri verilindor i Perandorisë, me ndërprerje të rastësishme, siç ishte rënia e Limesit Danubian më 259. Kalimi i Danubit drejt Dakisë nga ''Imperium Romanum'' u arrit fillimisht në dy beteja më 102 dhe pastaj më 106, pas ndërtimit të një ure më 101 pranë qytetit garnizon të Drobetës, te Portat e Hekurit. Kjo fitore mbi Dakinë e [[Decebali|Decebalit]] mundësoi krijimin e Provincës së Dakisë, e cila megjithatë u braktis nga perandori [[Aureliani]] më 271.
+
+Avarët e përdorën lumin si kufirin e tyre juglindor në shekullin e 6-të.
+
+<gallery widths="200px" heights="160px">
+File:Trajan's Bridge Across the Danube, Modern Reconstruction.jpg|Ilustrim i Urës së Trajanit, hapësira e parë e Danubit të Poshtëm (mes Serbisë dhe Rumanisë së sotme). E ndërtuar nga Apollodori i Damaskut mes viteve 103–105 e.s., u shkatërrua më 270 e.s.
+File:Mária Valéria´s bridge.jpg|Te Esztergomi dhe Štúrovo, Danubi ndan Hungarinë nga Sllovakia.
+File:Vena 06.jpg|Danubi në Vjenë
+File:Danube at belene.jpg|Danubi mes Belenes dhe Ishullit Belene, Bullgari
+File:Frozen Danube Reichsbrücke.JPG|Pamje nga rrjedha e sipërme, nga Donauinsel-i në Vjenë, Austri, gjatë një dimri jashtëzakonisht të ftohtë (shkurt 2006), pasi lumi ngrin rrallë atje<ref name="ORFDonau2006">{{cite news|date=2 shkurt 2006|title=Eis auf der Donau nicht betreten|url=https://wiev1.orf.at/stories/87132|work=wien.ORF.at|publisher=ORF|access-date=31 maj 2026|language=de}}</ref>
+File:Bratislavaminorflood.jpg|Bratislava zakonisht nuk pëson përmbytje të mëdha, por Danubi ndonjëherë del nga bregu i djathtë.
+</gallery>
+
+=== Perspektiva kulturore të lashta mbi Danubin e poshtëm ===
+Pjesa e lumenjve Danubius apo Istros njihej gjithashtu (së bashku me Detin e Zi) si ''Okeanos'' në kohët e lashta, e quajtur ''Okeanos Potamos'' (Lumi Okeanos). Danubi i poshtëm quhej edhe ''Keras Okeanoio'' (Gjiri ose Briri i Okeanos-it) në ''Argonautikën'' e Apolonit të Rodosit (Argon. IV. 282).
+
+Në fund të ''Okeanos Potamos'', ndodhet ishulli i shenjtë i Albës (Leuke, Pytho Nisi, Ishulli i Gjarpërinjve), i shenjtë për Apollonin pellazgjik (e më vonë, grek), duke përshëndetur diellin që ngrihet në lindje. Hekateu Abderiti i referohet ishullit të Apollonit nga rajoni i Hiperboreanëve, në Okeanos. Sipas njërës version të legjendës, ishte në Leuke ku u varros heroi Akili (deri më sot, njëra nga grykëderdhjet e Danubit quhet Kilia). Këngë të vjetra popullore rumune tregojnë për një manastir të bardhë në një ishull të bardhë me nëntë priftërinj.<ref name="Densusianu">[http://www.pelasgians.org/ Dacia Preistorica] {{Webarchive|url=https://web.archive.org/web/20080707015920/http://www.pelasgians.org/|date=7 korrik 2008}}, Nicolae Densusianu (1913).</ref>
+
+=== Rivaliteti dhe tregtia përgjatë Danubit ===
+[[File:Reprise Buda 1686.jpg|thumb|Liga e Shenjtë (1684) e mori Budën osmane pas një rrethimi të gjatë më 1686.]]
+Mes fundit të shekullit 14 dhe fundit të shekullit 19, Perandoria Osmane u përball fillimisht me Mbretërinë e Serbisë, Perandorinë e Dytë Bullgare, Mbretërinë e Hungarisë, Principatën e Vllahisë, Principatën e Moldavisë, e më vonë me monarkinë Habsburge, Bashkësinë Polako-Lituaneze dhe Perandorinë Ruse, për kontrollin e Danubit (طونه, ''Tuna'' në turqisht), i cili u bë kufi verior i Perandorisë Osmane për shekuj me radhë. Shumë nga Luftërat Osmano-Hungareze (1366–1526) dhe Luftërat Osmano-Habsburge (1526–1791) u zhvilluan përgjatë lumit.
+
+Ndër luftërat më të rëndësishme të Perandorisë Osmane përgjatë Danubit përfshihen Beteja e Nikopojës (1396), Rrethimi i Beogradit (1456), Beteja e Mohaçit (1526), rrethimi i parë turk i Vjenës (1529), Rrethimi i Esztergomit (1543), Lufta e Gjatë (1591–1606), Beteja e Vjenës (1683), Lufta e Madhe Turke (1683–1699), Lufta e Krimesë (1853–1856) dhe Lufta Ruso-Turke (1877–1878).
+
+Në shekullin e 19-të, kastori u gjuajt deri në zhdukje përgjatë Danubit në Bavari.<ref>{{Cite web|url=https://www.economist.com/1843/2015/09/17/dam-it|title=Dam it!|author1=Isabella Tree|date=17 shtator 2015|publisher=The Economist|language=en}}</ref> Popullata e blinit beluga gjithashtu u shemb; blinjtë e Danubit ishin shfrytëzuar tregtarisht për mish dhe havjar që nga shekulli i 5-të p.e.s. Skemat e rregullimit të lumit filluan në shekullin e 19-të dhe vazhduan në shekullin e 20-të. Lumi Danub ka gjithsej 18 diga kryesore, përfshirë Melkun dhe Freudenau-në në Vjenë.<ref>{{Cite book|title=Rivers of Europe|editor1=Klement Tockner|editor2=Urs Uehlinger|editor3=Christopher T. Robinson|date=2009|publisher=Academic Press|isbn=9780080919089|language=en}}</ref>
+
+=== Lufta e Dytë Botërore ===
+Gjatë rinovimit të vitit 2011 të Urës Margaret, Budapest, u zbuluan mbetje njerëzore. Mbetjet, kryesisht hebreje, ishin viktima të Partisë së Kryqit të Shigjetave, e djathta ekstreme, e cila qeverisi shkurtimisht Hungarinë që nga viti 1944.<ref>{{cite news|agency=The Associated Press|title=Hungary buries remains of Holocaust victims executed by Nazis on banks of the Danube River|url=https://nationalpost.com/news/world/hungary-buries-remains-of-holocaust-victims-executed-by-nazis-on-banks-of-the-danube-river|website=National Post|access-date=16 shkurt 2022|date=15 prill 2016|language=en}}</ref>
+
+=== Nivelet rekord të ulëta dhe zbulimi i mbetjeve ===
+Në korrik dhe gusht 2026, një valë e zgjatur nxehtësie dhe thatësire në Evropë shkaktoi rënien e niveleve të ujit përgjatë Danubit dhe lumenjve të tjerë të mëdhenj, përfshirë Rajnin, në nivele rekord të ulëta në disa zona. Pranë Ryahovos, në veri të Bullgarisë, tërheqja e ujit zbuloi mbetjet e një mamuthi, përfshirë nofullën, dy fildisha dhe eshtra brinjësh, që besohet t'i kenë përkitur një individi të ri. Zyrtarë vendorë thanë se zona konsiderohej prej kohësh një moçal ku mamuthët kishin ngordhur mijëra vjet më parë.<ref>{{Cite web|date=2026-08-01|title=Danube dries in heat: skeleton of giant mammoth uncovered in Bulgaria|url=https://www.euronews.com/2026/08/01/danube-dries-in-heat-skeleton-of-giant-mammoth-uncovered-in-bulgaria|access-date=2026-08-03|website=euronews|language=en}}</ref>
+
+Pranë Prahovos, Serbi, u zbuluan mbi 20 anije gjermane të fundosura, të cilat ishin fundosur qëllimisht më 1944 gjatë tërheqjes gjermane në Luftën e Dytë Botërore.<ref>{{cite web|last=Drobnjakovic|first=Marko|url=https://apnews.com/article/serbia-danube-river-drought-ships-7f938261b92ebbc88330d5f1b892fb2e|title=The Danube River's water is dropping so low that World War II ships are emerging|publisher=AP News|date=7 gusht 2026|language=en}}</ref> Pranë Gigenit, Bullgari, uji i ulët zbuloi pjesë të themeleve të Urës së Konstantinit, një urë romake mbi Danub.<ref>{{cite web|url=https://www.reuters.com/business/environment/low-danube-water-levels-bulgaria-expose-roman-era-bridge-2026-08-06/|title=Low Danube water levels in Bulgaria expose Roman-era bridge|publisher=Reuters|date=6 gusht 2026|language=en}}</ref> Pranë Virtit, Sllovaki, doli në sipërfaqe edhe një bombë tjetër e madhe britanike e Luftës së Dytë Botërore, e shkatërruar më pas në një shpërthim të kontrolluar; ajo lidhej ndoshta me fushatën e minimit lumor të Forcave Ajrore Mbretërore Britanike (RAF) të vitit 1944, {{ill|Operacioni Gardening|de|Gardening (RAF-Deckname)}}.<ref>{{cite web|last=Dawson|first=Neve|url=https://www.independent.co.uk/bulletin/news/slovakia-bomb-detonated-danube-river-water-levels-b3029446.html|title=Gigantic WW2 bomb detonated in Slovakia after surfacing in Danube River|publisher=The Independent|date=7 gusht 2026|language=en}}</ref>
+
+Në Budapest, pjesë të ish-Urës Franz Joseph, të shkatërruar më 1945, gjithashtu u bënë të dukshme nën Urën e Lirisë.<ref name="hungarytoday"/> Pranë Budapestit, shtrati i zbuluar i lumit nxori në pah një motoçikletë gjermane {{ill|DKW NZ 350-1|de|DKW NZ 250/350}}, mbetjet e dy ushtarëve të ''Wehrmachtit'', dhe disa lëndë plasëse të Luftës së Dytë Botërore, përfshirë mina kundërtank.<ref>{{cite web|last=Müller|first=Franziska|url=https://www.euronews.com/my-europe/2026/08/07/danube-wehrmacht-soldiers-and-wwii-motorbike-recovered-after-80-years|title=Danube: Wehrmacht soldiers and WWII motorbike recovered after 80 years|publisher=Euronews|date=7 gusht 2026|language=en}}</ref> Pranë Kisoroszit, Hungari, u zbulua një minë detare britanike e Luftës së Dytë Botërore prej 460 kilogramësh, e cila u hoq në mënyrë të sigurt nga ekspertë të çminimit.<ref name="hungarytoday">{{cite web|url=https://hungarytoday.hu/low-danube-reveals-460-kilogram-wwii-naval-mine/|title=Receding Danube Reveals 460-Kilogram WWII Naval Mine|publisher=Hungary Today|date=9 gusht 2026|language=en}}</ref> Përveç kësaj, mbetje anijesh luftarake të Luftës së Dytë Botërore u zbuluan pranë Mohaçit dhe Bajës.<ref>{{cite web|url=https://www.euronews.com/my-europe/2026/08/10/historic-drought-rivers-reveal-hunger-stones-warships-and-mammoth-remains|title=Historic drought: rivers reveal hunger stones, warships and mammoth remains|publisher=Euronews|date=10 gusht 2026|language=en}}</ref><ref>{{cite web|url=https://www.reutersconnect.com/item/remains-of-an-old-world-war-ii-era-ship-in-hungary/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwRkhOT1JG|title=Remains of an old World War II-era ship in Hungary|publisher=Reuters Connect|date=8 gusht 2026|language=en}}</ref>
+
+Centrali Bërthamor i Paksit, centrali bërthamor më i madh i Hungarisë, ka qenë duke ulur prodhimin, pasi nivelet rekord të ulëta të Danubit reduktuan disponueshmërinë e ujit ftohës, i cili normalisht furnizon gati gjysmën e energjisë elektrike të vendit.<ref>{{cite web|url=https://www.theguardian.com/environment/2026/aug/01/eastern-europe-dried-up-rivers-tourism-energy-mammoth|title=Lost income, energy fears and a woolly mammoth: what Europe's dried-up rivers have yielded|publisher=The Guardian|date=1 gusht 2026|language=en}}</ref> Autoritetet hungareze planifikuan të ndërtonin një prag shkëmbor pranë Paksit për të ngritur nivelin e Danubit deri në {{convert|1|m}}, me dy pontonë që potencialisht mund të shtonin edhe {{convert|20|cm}} te pompat ftohëse të centralit.<ref>{{cite web|last=Spike|first=Justin|url=https://apnews.com/article/hungary-nuclear-plant-danube-low-water-levels-b77673cd90df9cd7435726fc9c5f2c9e|title=Hungary's government plans interventions on Danube River to keep nuclear plant running|publisher=AP News|date=12 gusht 2026|language=en}}</ref>
+
+Në Rumani, u prek nga thatësira edhe Centrali Bërthamor i Cernavodës. Forcat detare rumune përdorën 180&nbsp;kg lëndë plasëse në një shpërthim të kontrolluar për të zhvendosur një gur të madh që kufizonte rrjedhën e ujit të Danubit drejt sistemit ftohës të centralit.<ref>{{cite web|last=Tondo|first=Lorenzo|url=https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary|title=Romania blasts rock to divert water from drought-hit Danube to nuclear reactor|publisher=The Guardian|date=3 gusht 2026|language=en}}</ref> Edhe Serbia vuajti nga thatësira e rëndë dhe nivelet e ulëta të ujit të Danubit. Me rreth 65% të energjisë elektrike të prodhuar nga qymyri dhe 25% nga hidroenergjia, periudhat e zgjatura të thatësirës paraqitën një sfidë madhore. Hidrocentralet e Portave të Hekurit I dhe II prodhonin shumë nën mesataren, ndërsa centralet me qymyr Kostolac A dhe B duhej të ulnin prodhimin për shkak të ujit të kufizuar ftohës.<ref>{{cite web|last=Verseck|first=Keno|url=https://www.dw.com/en/drought-europe-electricity-supplies-danube/a-78269916|title=How drought threatens Europe's electricity supplies|publisher=DW|date=6 gusht 2026|language=en}}</ref>
+
+== Ekonomia ==
+=== Uji i pijshëm ===
+Përgjatë rrjedhës së tij, Danubi është burim uji të pijshëm për rreth 20 milionë njerëz.<ref>{{Cite web|title=About Us|url=https://www.icpdr.org/main/icpdr/about-us|access-date=5 shkurt 2021|website=International Commission for the Protection of the Danube River|language=en}}</ref><ref>{{Cite web|title=Blue River|url=https://wwf.panda.org/discover/knowledge_hub/where_we_work/black_sea_basin/danube_carpathian/our_solutions/freshwater/danube_river_basin/?|url-status=live|archive-url=https://web.archive.org/web/20210412152545/https://wwf.panda.org/discover/knowledge_hub/where_we_work/black_sea_basin/danube_carpathian/our_solutions/freshwater/danube_river_basin/?|archive-date=12 prill 2021|access-date=5 shkurt 2021|website=wwf.panda.org|language=en}}</ref> Në Baden-Württemberg, Gjermani, pothuajse 30 përqind (të dhëna 2004) e ujit për zonën mes Shtutgartit, Bad Mergentheimit, Aalenit dhe rrethit Alb-Donau vjen nga uji i pastruar i Danubit. Qytete të tjera si Ulm dhe Passau gjithashtu përdorin ujë nga Danubi.
+
+Në Austri dhe Hungari, shumica e ujit merret nga burime nëntokësore dhe malore, dhe vetëm rrallë përdoret ujë nga Danubi. Shumica e shteteve e konsiderojnë gjithashtu shumë të vështirë pastrimin e ujit për shkak të ndotjes së madhe; vetëm pjesë të Rumanisë, ku uji është më i pastër, vazhdojnë të marrin rregullisht ujë të pijshëm nga Danubi.<ref>{{cite web|url=http://www.iawd.at/cms/pages/en/the-danube.php|title=The Danube|publisher=International Association of Water Supply Companies in the Danube River Catchment Area|access-date=28 korrik 2012|archive-url=https://web.archive.org/web/20120519200631/http://www.iawd.at/cms/pages/en/the-danube.php|archive-date=19 maj 2012|language=en}}</ref>
+
+=== Lundrimi dhe transporti ===
+[[File:Fischerzille LüA 10 m Donau bei Greifenstein Niederösterreich.jpg|thumb|right|Peshkim nga një ''Zille'' në Danub, në Austrinë e Poshtme, 1982]]
+
+Në shekullin e 19-të, Danubi ishte një rrugë ujore e rëndësishme, por, siç e shprehu ''The Times'' i Londrës, "çdo vit fshihej nga akulli që mund të ngrinte një anije të madhe jashtë ujit ose ta priste më dysh sikur të ishte karotë."<ref>{{Cite web|url=https://www.thetimes.com/|title=The Times & The Sunday Times|website=The Times|language=en}}</ref>
+
+Sot, si "Korridori VII" i Bashkimit Evropian, Danubi është një rrugë e rëndësishme transporti. Që nga hapja e {{ill|Kanalit Rajn–Main–Danub|en|Rhine–Main–Danube Canal}}, lumi lidh Portin e Roterdamit dhe qendrat industriale të Evropës Perëndimore me Detin e Zi, si dhe, përmes Kanalit Danub–Deti i Zi, me Portin e Konstancës.
+
+Rruga ujore është projektuar për anije të mëdha lumore (110&nbsp;× 11,45&nbsp;m), por mund të bartë anije shumë më të mëdha në pjesën më të madhe të rrjedhës së saj. Danubi është kanalizuar pjesërisht në Gjermani (5 gjirize) dhe Austri (10 gjirize). Propozimet për ndërtimin e disa gjirizeve të reja për të përmirësuar lundrimin nuk kanë përparuar, pjesërisht për shkak të shqetësimeve mjedisore.
+
+Poshtë rrjedhës nga gjirizet e Freudenau-së në Vjenë, kanalizimi i Danubit u kufizua te diga dhe gjirizet e Gabčíkovës pranë Bratislavës, si dhe te dy gjirizet e dyfishta të Portave të Hekurit, në sektorin kufitar të Danubit mes Serbisë dhe Rumanisë. Këto gjiriza kanë dimensione më të mëdha. Poshtë Portave të Hekurit, lumi rrjedh lirshëm deri në Detin e Zi, në një distancë prej mbi {{convert|860|km|mi}}.
+
+Danubi lidhet me Kanalin Rajn–Main–Danub te Kelheim, me ''Donaukanal''-in në Vjenë, dhe me Kanalin Danub–Deti i Zi te Cernavodë.
+
+Përveç disa degëve dytësore të lundrueshme, lumenjtë e vetëm të mëdhenj të lundrueshëm të lidhur me Danubin janë Drava, [[Lumi i Savës|Sava]] dhe [[Lumi Tisa|Tisa]]. Në Serbi, një rrjet kanalesh lidhet gjithashtu me lumin; rrjeti, i njohur si Kanalet Danub–Tisa–Danub, lidh seksione poshtë rrjedhës.
+
+Në seksionet austriake dhe gjermane të Danubit, u zhvillua një lloj i veçantë barke me fund të sheshtë, i quajtur ''Zille'', për përdorim përgjatë lumit. ''Zillen'' përdoren ende sot për peshkim, transport pasagjerësh dhe mallrash në këtë zonë.
+
+=== Peshkimi ===
+Rëndësia e peshkimit në Danub, i cili ishte thelbësor në Mesjetë, ka rënë ndjeshëm. Disa peshkatarë janë ende aktivë në pika të caktuara të lumit, dhe Delta e Danubit ka ende një industri të rëndësishme. Megjithatë, disa nga burimet e lumit janë menaxhuar në mënyrë të paqëndrueshme mjedisore në të kaluarën, duke çuar në dëmtime nga ndotja, ndryshimet e shtratit dhe zhvillimi i infrastrukturës së madhe, përfshirë digat e mëdha hidroenergjetike.<ref>{{cite book|last=Holcik|first=Juraj|date=1989|title=The freshwater fishes of Europe Vol.I Part II General introduction to fishes|location=Wiesbaden|publisher=Aula Verlag|language=en}}</ref>
+
+Popullatat e blinit të lidhura me pellgun e lumit Danub kanë formuar, gjatë shekujve, bazën e një peshkimi tregtar të madh dhe të rëndësishëm, të njohur në mbarë botën. Ndërtimi i digave, përveç mbipeshkimit dhe ndotjes së lumit, ka luajtur rol të rëndësishëm në rënien e popullatës së blinit, sepse krijon pengesë për llojet migratore të peshqve që zakonisht shumohen në pjesët e sipërme të lumit.<ref>{{cite book|last1=Hensel|first1=K|last2=Holcik|first2=J|date=1997|title=Past and current status of sturgeons in the upper and middle Danube River.|url=https://www.researchgate.net/publication/226596320|language=en}}</ref> Zonat e shumimit të llojeve migratore të peshqve janë reduktuar ndjeshëm nga ndërtimi i sistemeve hidroenergjetike dhe lundrimore te Portat e Hekurit I (1974) dhe Portat e Hekurit II (1984).<ref>{{cite web|author=Corda|date=1988|title=Iron gates II design and performance of dams- geotechnical considerations|url=https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1503&context=icchge|publisher=International Conference on Case Histories in Geotechnical Engineering|language=en}}</ref> Projektimi fillestar i këtyre digave nuk ka përfshirë asnjë kalim për peshqit.<ref>{{cite conference|url=https://www.danube-iad.eu/docs/IAD39_Proceeding_Book_lores.pdf|title=Have sturgeons a future in the Danube River?|author=Suciu Radu, Guti Gabor|year=2012|conference=39th IAD Conference: Living Danube|location=Szentendre, Hungari|language=en}}</ref> Mundësia e ndërtimit të një kalimi artificial peshqish që mundëson migrimin për llojet e peshqve, përfshirë blinin, është aktualisht në shqyrtim nga projekte të tilla si We Pass.<ref>{{cite AV media|date=11 nëntor 2019|title=We Pass – Facilitating Fish Migration and Conservation at the Iron Gates|language=en|url=https://www.youtube.com/watch?v=81i25THmBws|archive-url=https://ghostarchive.org/varchive/youtube/20211215/81i25THmBws|archive-date=15 dhjetor 2021|url-status=live|publisher=ICPDR}}</ref>
+
+Ekoregjioni i Danubit të Sipërm ka vetëm rreth 60 lloje peshqish, ndërsa ekoregjioni i Danubit të Poshtëm–Dniestrit ka afërsisht dyfishin.<ref name=FEW>Hales, J. (2013). [http://www.feow.org/ecoregions/details/417 Upper Danube]. Freshwater Ecoregions of the World. Marrë më 25 shkurt 2013.</ref> Mes tyre gjendet një larmi jashtëzakonisht e lartë blinjsh, gjithsej gjashtë lloje (blini beluga, blini rus, blini bastard, sterleti, blini me yje dhe blini evropian i detit), por të gjithë këto janë të kërcënuar dhe kanë kryesisht — ose tërësisht, në rastin e blinit evropian të detit — zhdukur nga lumi.<ref name=FEW/> Hukja, një nga llojet më të mëdha të salmonit, është endemike në pellgun e Danubit, por është përhapur edhe në vende të tjera nga njeriu.<ref>{{cite web|title=Hucho hucho|publisher=FishBase|date=February 2013|language=en}}</ref>
+
+=== Turizmi ===
+[[File:Ruine Aggstein 03.JPG|thumb|right|Rrënojat e Kalasë Aggstein mbi Danub]]
+[[File:Wachau (3).JPG|thumb|Lugina e {{ill|Wachau|en|Wachau}}, pranë Spitz, Austri]]
+Vende të rëndësishme turistike dhe natyrore përgjatë Danubit përfshijnë luginën e {{ill|Wachau|en|Wachau}}, Parkun Kombëtar Donau-Auen në Austri, Gemenc në Hungari, Naturpark Obere Donau në Gjermani, Kopački rit në Kroaci, Portat e Hekurit në Serbi dhe Rumani, Deltën e Danubit në Rumani, dhe Rezervatin Natyror Srebarna në Bullgari.
+
+Gjithashtu, kryqëzimet e argëtimit dhe udhëtimit në lumë kanë rëndësi të konsiderueshme. Përveç rrugës shpesh të ndjekur mes Vjenës dhe Budapestit, disa anije shkojnë madje nga Passau, Gjermani, deri te Delta e Danubit, e mbrapsht. Gjatë sezonit të lartë, mbi 70 anije kryqëzimi përdoren në lumë, ndërsa pjesët e sipërme, pa trafik, mund të eksplorohen vetëm me kanoe apo barka.
+
+Në vetëm Austri, ka mbi 14 milionë netë qëndrimi dhe rreth 6,5 milionë mbërritje në vit.<ref name="kaiserundkoenige">{{cite web|url=http://www.strassederkaiserundkoenige.at/fileadmin/user_upload/Brosch%C3%BCren/ARGE_Donau_%C3%96sterreich2013.pdf|title=Press release of the "ARGE Donau Österreich"|access-date=1 prill 2014|archive-url=https://web.archive.org/web/20140313154833/http://www.strassederkaiserundkoenige.at/fileadmin/user_upload/Brosch%C3%BCren/ARGE_Donau_%C3%96sterreich2013.pdf|archive-date=13 mars 2014|language=de}}</ref>
+
+Bregdeti i Danubit në Budapest është pjesë e vendeve të Trashëgimisë Botërore të UNESCO-s, dhe mund të shihen nga disa kryqëzime turistike të ofruara në qytet.
+
+Ana e Danubit (Danube Bend) është gjithashtu një destinacion turistik popullor.
+
+==== Shtegu me biçikletë i Danubit ====
+[[File:Donauradweg Schloegener Schlinge - Aschach.jpg|thumb|Shtegu me biçikletë i Danubit përgjatë ''Schlögener Schlinge'', një gryk lumor në Masivin Boheman]]
+[[File:LinzDonaulaende.jpg|thumb|Shtegu me biçikletë i Danubit që kalon nëpër qytetin e Linzit]]
+''Donauradweg'' (Shtegu ose Rruga me Biçikletë e Danubit) është një shteg biçiklete përgjatë lumit. Sidomos pjesët nëpër Gjermani dhe Austri janë shumë të popullarizuara, gjë që e bën një nga 10 shtigjet më të njohura me biçikletë në Gjermani.<ref>{{cite web|title=''Die ADFC-Radreiseanalyse 2013'' – Zahlen, Daten und Fakten|url=http://www.adfc.de/radreiseanalyse/die-adfc-radreiseanalyse-2013|access-date=12 mars 2014|archive-url=https://web.archive.org/web/20170618233337/http://www.adfc.de/radreiseanalyse/die-adfc-radreiseanalyse-2013|archive-date=18 qershor 2017|language=de}}</ref>
+
+Shtegu me biçikletë i Danubit fillon te burimi i Danubit dhe përfundon aty ku lumi derdhet në Detin e Zi. Ndahet në katër seksione:
+# Donaueschingen–Passau ({{Convert|559|km|mi|abbr=on|disp=or}})
+# Passau–Vjenë ({{Convert|340|km|mi|abbr=on|disp=or}})
+# Vjenë–Budapest ({{Convert|306|km|mi|abbr=on|disp=or}})
+# Budapest–Deti i Zi ({{Convert|1670|km|mi|abbr=on|disp=or}})
+
+==== Shtegu i Sulltanëve ====
+{{ill|Shtegu i Sulltanëve|en|Sultans Trail}} është një shteg këmbësor që përshkon lumin mes Vjenës dhe Smederevës në Serbi. Që andej, shtegu largohet nga Danubi, duke përfunduar në Stamboll. Seksionet përgjatë lumit janë si më poshtë.
+# Vjenë–Budapest ({{Convert|323|km|mi|abbr=on|disp=or}})
+# Budapest–Smederevë ({{Convert|595|km|mi|abbr=on|disp=or}})
+
+==== Donausteig ====
+[[File:Donausteig Rastplatz.jpg|thumb|Zonë pushimi përgjatë shtegut këmbësor ''Donausteig'', pranë Bad Kreuzen]]
+Më 2010, u hap ''Donausteig''-u, një shteg këmbësor nga Passau deri te Grein. Është i gjatë {{convert|450|km|mi|sp=us|abbr=on}} dhe ndahet në 23 etapa. Rruga kalon nëpër pesë komuna bavareze dhe 40 austriake. Peizazhi dhe pikat panoramike përgjatë lumit janë pikat kryesore të ''Donausteig''-ut.<ref>{{cite web|title=Donausteig|url=http://www.traildino.com/trace/continents-Europe/countries-Austria/trails-Donausteig|website=Traildino.com|access-date=1 prill 2014|archive-date=7 prill 2014|archive-url=https://web.archive.org/web/20140407064821/http://www.traildino.com/trace/continents-Europe/countries-Austria/trails-Donausteig|url-status=dead|language=en}}</ref>
+
+==== Rruga e Perandorëve dhe Mbretërve ====
+Rruga e Perandorëve dhe Mbretërve është një rrugë ndërkombëtare turistike që shkon nga Regensburg deri në Budapest, duke kaluar nëpër Passau, Linz dhe Vjenë.<ref>{{Cite web|url=https://www.routeofemperorsandkings.com/|title=Welcome|website=Straße der Kaiser und Könige|language=de}}</ref> Konsorciumi ndërkombëtar ''ARGE Die Donau-Straße der Kaiser und Könige'', i përbërë nga dhjetë organizata turistike, kompani lundrimi dhe qytete, punon për ruajtjen dhe zhvillimin turistik të rajonit të Danubit.<ref name="kaiserundkoenige"/>
+
+Në Regensburgun mesjetar, me qendrën e tij të vjetër të ruajtur, urën prej guri dhe katedralen, fillon Rruga e Perandorëve dhe Mbretërve. Vazhdon deri te Engelhartszell, me manastirin e vetëm trapist në Austri. Ndalesa të tjera të rëndësishme përgjatë Danubit përfshijnë "Schlögener Schlinge"-n, qytetin e Linzit, i cili ishte Kryeqyteti Evropian i Kulturës më 2009 me pasurinë e tij të artit bashkëkohor, Manastirin e Melkut, qytetin universitar të Krems-it, dhe qytetin kozmopolit të Vjenës. Para se Rruga e Perandorëve dhe Mbretërve të përfundojë, kalohet nëpër Bratislavë dhe Budapest, ky i fundit i konsideruar dikur si qyteti binjak i Vjenës gjatë kohës së Perandorisë Austro-Hungareze.
+Që nga koha e Romës së lashtë, perandorë të famshëm dhe suita e tyre udhëtuan në dhe përgjatë Danubit, duke e përdorur lumin për udhëtim dhe transport. Ndërsa udhëtimi tokësor ishte mjaft lodhës, shumica e njerëzve preferonin të udhëtonin me anije në Danub. Kështu, Rruga e Perandorëve dhe Mbretërve ishte skena e shumë ngjarjeve historike të rëndësishme, që e karakterizojnë Danubin deri më sot.
+
+Rruga e mori emrin nga Perandori i Shenjtë Romak Frederiku I Barbarossa dhe kryqtarët, si dhe nga Riçardi I i Anglisë, i cili ishte burgosur në Kështjellën e Dürnsteinit, e vendosur mbi Danub. Udhëtimet më madhështore perandorake ndër shekuj ishin ato të familjes Habsburge. Pasi kurorëzoheshin në Frankfurt, perandorët sundonin nga Vjena dhe mbanin gjithashtu në Regensburg Dietën e Përhershme të Regensburgut. Shumë kështjella, pallate, rezidenca dhe manastire shtetërore u ndërtuan nga Habsburgët përgjatë lumit. Sot, ato ende u kujtojnë njerëzve që jetojnë pranë Danubit arkitekturën e guximshme të "Donaubarock"-ut.
+
+Sot, njerëzit mund të udhëtojnë në Danub jo vetëm me anije, por edhe me tren, me biçikletë përgjatë Shtegut me Biçikletë të Danubit, ose në këmbë përgjatë "Donausteig"-ut, dhe të vizitojnë qytetet e Vendit të Trashëgimisë Botërore të UNESCO-s: Regensburg, {{ill|Wachau|en|Wachau}} dhe Vjenën.<ref>{{cite web|title=The Route of Emperors and Kings|url=https://www.bavaria.by/the-route-of-emperors-and-kings|access-date=29 mars 2014|website=bavaria.by|language=en}}</ref>
+
+== Parqe kombëtare të rëndësishme ==
+* Naturpark Obere Donau (Gjermani)
+* Donauauen zwischen Neuburg und Ingolstadt (Gjermani) – [https://web.archive.org/web/20111023161527/http://danubemap.eu/donauauwald hartë]
+* Zona e mbrojtjes së natyrës Donauleiten (Gjermani)
+* Parku Kombëtar Donau-Auen (Austri) – [https://web.archive.org/web/20111023161522/http://danubemap.eu/donauauen hartë]
+* Chránená krajinná oblasť Dunajské luhy (Sllovaki) – [https://web.archive.org/web/20111021055315/http://danubemap.eu/dunajskeluhy hartë]
+* Parku Kombëtar Danub-Ipoly (Hungari) – [https://web.archive.org/web/20111021055252/http://danubemap.eu/dunaipoly hartë]
+* Parku Kombëtar Danub-Drava (Hungari) – [https://web.archive.org/web/20111023101801/http://danubemap.eu/dunadrava hartë]
+* Parku Natyror Kopački Rit (Kroaci) – [https://web.archive.org/web/20111023110151/http://danubemap.eu/kopackirit hartë]
+* Rezervati Natyror Gornje Podunavlje (Serbi) – [https://web.archive.org/web/20111024011005/http://danubemap.eu/podunavlje hartë]
+* Parku Kombëtar Fruška Gora (Serbi)
+* Rezervati Natyror Koviljsko-petrovaradinski rit (Serbi)
+* Rezervati Natyror i Ishullit të Madh të Luftës (Serbi)
+* Parku Kombëtar Đerdap (Serbi)
+* Parku Natyror Portat e Hekurit (Rumani)
+* Parku Natyror Persina (Bullgari) – [https://web.archive.org/web/20111023161537/http://danubemap.eu/persina hartë]
+* Vendi i Mbrojtur Kalimok-Brushlen (Bullgari) – [https://web.archive.org/web/20111023110144/http://danubemap.eu/kalimok hartë]
+* Rezervati Natyror Srebarna (Bullgari) – [https://web.archive.org/web/20111024012109/http://danubemap.eu/srebarna hartë]
+* Parku Natyror Malet Măcin (Rumani)
+* Parku Natyror Balta Mică a Brăilei (Rumani)
+* Rezervati i Biosferës Delta e Danubit (Rumani) – [https://web.archive.org/web/20111023101756/http://danubemap.eu/delta hartë]
+* Rezervati i Biosferës së Danubit në Ukrainë
+
+<gallery widths="200px" heights="160px">
+File:Gornje Podunavlje.jpg|Rezervati Special Natyror Gornje Podunavlje, në Serbi
+File:Golubac Fortress (град Голубац).jpg|Kalaja e Golubacit, në Parkun Kombëtar Đerdap, Serbi
+</gallery>
+
+== Në folklor dhe letërsi ==
+[[File:Albrecht Altdorfer 007.jpg|thumb|right|Peizazh i shekullit të 16-të i Danubit, pranë Regensburgut, nga Albrecht Altdorfer – anëtar i shkollës së Danubit]]
+
+* Danubi përmendet në titullin e një valsi të famshëm nga kompozitori austriak {{ill|Johann Strauss II|en|Johann Strauss II}}, ''Valsi i Bukur Danubi Blu'' (''Mbi Danubin e Bukur Blu''). Ky vepër njihet mirë në mbarë botën dhe përdoret gjerësisht edhe si ninullë. ''Valët e Danubit'' ({{lang|ro|Valurile Dunării}}) është një vals nga kompozitori rumun Iosif Ivanovici (1845–1902); si "Anniversary Song", është interpretuar nga shumë këngëtarë, si Al Jolson, Rosemary Clooney, Vera Lynn, Tom Jones, dhe shumë të tjerë. Njihet më së shumti si "Anniversary Waltz", megjithëse ai është në fakt një këngë dhe melodi tjetër. Joe Zawinul shkroi një simfoni për Danubin, të quajtur ''Stories of the Danube''. U interpretua për herë të parë në festivalin Bruckner të vitit 1993, në Linz.
+* Danubi zë vend të rëndësishëm në himnin kombëtar bullgar (''Mila Rodino''), si përfaqësim simbolik i bukurisë natyrore të vendit. Në këngët popullore lituaneze, shfaqja e Danubit (Dunojus, Dunojėlis) është më e zakonshme se shfaqja e lumit më të gjatë lituanez, Neman.
+* Tradita gjermane dhe austriake e pikturës së peizazhit, {{ill|Shkolla e Danubit|en|Danube school}}, u zhvillua në shekullin e 16-të në luginën e Danubit, nga artistë që punonin në mënyrë autonome.<ref>{{cite web|title=Danube School|url=https://www.oxfordreference.com/display/10.1093/oi/authority.20110810104721532|access-date=2025-06-07|publisher=Oxford Reference|language=en}}</ref>
+* Njëri nga kryeveprat e Claudio Magrisit quhet ''Danubio'' ({{ISBN|1-86046-823-3}}). Libri, i botuar më 1986, është një ese e madhe kulturore-historike, në të cilën Magris udhëton përgjatë Danubit nga burimet e para deri te delta, duke ndjekur trashëgiminë etnike dhe kulturore evropiane, historinë letrare dhe ideologjike.
+* ''The Great Danube Adventure'' u botua më 1838 si ditar udhëtimi epik.
+* ''Piloti i Danubit'' (1908) (''Le Pilote du Danube'') i Jules Verne-it përshkruan aventurat e peshkatarit Serge Ladko ndërsa udhëton përgjatë lumit.
+* Tregimi i shkurtër "The Willows" i Algernon Blackwood-it zhvillohet kryesisht në lumë.
+
+== Shih edhe ==
+* {{ill|Përmbytjet evropiane të vitit 2006|en|2006 European floods}}
+* {{ill|Pellgu lëndëmbledhës i Detit të Zi|en|Black Sea drainage basin}}
+* {{ill|Between the Woods and the Water|en|Between the Woods and the Water}}, libër udhëtimi që tregon për një udhëtim danubian më 1934
+* [[Monarkia Habsburge|Monarkia Danubiane]]
+* {{ill|Principatat Danubiane|en|Danubian Principalities}}
+* {{ill|Agjencia Ekzekutive për Eksplorimin dhe Mirëmbajtjen e Lumit Danub|en|Executive Agency for Exploration and Maintenance of the Danube River}}
+* {{ill|The Ister|en|The Ister (film)}}, film i vitit 2004
+* {{ill|Lista e qyteteve në lumin Danub|en|List of cities and towns on the river Danube}}
+* {{ill|Lista e kalimeve të Danubit|en|List of crossings of the Danube}}
+== Lexime shtesë ==
+* Lóczy, Dénes. The Danube: Morphology, Evolution, and Environmental Issues. Në Avijit Gupta, red., Large Rivers: Geomorphology and Management. Botimi i dytë. Hoboken, N.J.: Wiley-Blackwell, 2022, f.&nbsp;335–367. ISBN 9781119412601
+* Sommerwerk, Nike, Jurg Bloesch, Christian Baumgartner, Thomas Bittl, Dubravka Cerba, Bela Csanyi, Grigore Davideanu, Martin Dokulil, Georg Frank, Iulia Grecu, Thomas Hein, Vladimir Kovac, Ilulian Nichersu, Tibor Mikuska, Karin Pall, Momir Paunovic, Carmen Postolache, Maja Rakovic, Cristina Sandu, Martin Schneider-Jacoby, Katharina Stefke, Klement Tockner, Ion Toderas, dhe Laurentia Ungureanu. The Danube River Basin. Në Klement Tockner, Christiane Zarfl, dhe Christopher T. Robinson (red.), Rivers of Europe, botimi i dytë. Cambridge, MA: Elsevier, 2022, f.&nbsp;83–181. ISBN 978-0-08-102612-0
+
+== Referime ==
+{{Reflist}}
+
+=== Shënime ===
+{{notelist}}
+
+=== Burimet ===
+*{{cite web|last1=James|first1=Alan G.|year=2020|title=The Brittonic Language in the Old North, A Guide to the Place-Name Evidence, Volume 2|url=https://spns.org.uk/wp-content/uploads/2020/05/Alan_James_Brittonic_Language_in_the_Old_North_BLITON_Volume_II_Dictionary_2020_Edition.pdf|publisher=Scottish Place-Name Society|access-date=3 mars 2024|language=en}}
+
+*{{cite book|last1=MacKillop|first1=James|year=2004|title=Oxford Dictionary of Celtic Mythology|publisher=Oxford University Press|isbn=978-0198609674|language=en}}
+
+*{{cite book|last1=Noble|first1=Gordon|last2=Evans|first2=Nicholas|year=2022|title=The Picts: Scourge of Rome, Rulers of the North|publisher=Birlinn|isbn=978-1780277783|language=en}}
+
+*{{cite book|last1=Roberts|first1=Alice|year=2015|title=The Celts: Search for a Civilisation|publisher=Heron Books|isbn=978-1784293321|language=en}}
+
+== Lexime shtesë ==
+* Mevissen, Robert Shields. ''The Danube Empire: An Environmental History of Habsburg State Building and Civic Engagement'' (2025)
+
+== Lidhje të jashtme ==
+{{Commons}}
+* [https://www.openstreetmap.org/relation/89652 Danubi] në OpenStreetMap (relacioni 89652)
+* [http://pdf.wri.org/watersheds_2000/watersheds_europe_p2_38.pdf Harta dhe informacione mbi pellgun e Danubit, nga World Resources Institute]
+* [http://danubepanorama.net/en/ Danube Panorama Project] {{Webarchive|url=https://web.archive.org/web/20110723073711/http://danubepanorama.net/en/|date=23 korrik 2011}}
+* [http://danube.at.ua/ сайт о Дунае] ({{in lang|ru}})
+* [https://www.flickr.com/groups/danube_river/pool/ Koleksion fotografish të Danubit, në Flickr]
+* [http://www.danube-river.org/ Danube Tourist Commission] {{Webarchive|url=https://web.archive.org/web/20220206024032/http://www.danube-river.org/|date=6 shkurt 2022}} ({{in lang|de}})
+* [https://www.icpdr.org/ Komisioni Ndërkombëtar për Mbrojtjen e Lumit Danub (ICPDR)]
+* [https://archive.today/20121209023104/http://www.bridgesofbudapest.com/ Urat e Budapestit mbi lumin Danub]
+* [https://merhav.nli.org.il/primo-explore/search?query=any,contains,danube%20river&tab=default_tab&search_scope=Local&sortby=lso01&vid=NLI&mfacet=rtype,include,Maps,1&mfacet=tlevel,include,online_resources,1&mfacet=topic,include,Danube%20River,2&lang=en_US Harta të vjetra të Danubit], Koleksioni Kartografik Eran Laor, Biblioteka Kombëtare e Izraelit
+
+{{Authority control}}
+
+[[Kategoria:Pellgu i Detit të Zi]]
+[[Kategoria:Lumenj ndërkombëtarë në Evropë]]
+[[Kategoria:Lumenj në Gjermani]]
+[[Kategoria:Lumenj në Austri]]
+[[Kategoria:Lumenj në Sllovaki]]
+[[Kategoria:Lumenj në Hungari]]
+[[Kategoria:Lumenj në Kroaci]]
+[[Kategoria:Lumenj në Serbi]]
+[[Kategoria:Lumenj në Bullgari]]
+[[Kategoria:Lumenj në Rumani]]
+[[Kategoria:Lumenj në Ukrainë]]
+
+<!--
+SHËNIM PËR REDAKTORËT (jo pjesë e artikullit): Kategoritë e mëposhtme të enwiki NUK u përfshinë sepse janë shumë specifike/rajonale dhe ekzistenca e tyre në sqwiki nuk u verifikua: Geography of Bács-Kiskun County, Geography of Vojvodina, Rivers of Moldova (Kategoria:Lumenj në Moldavi nuk ekziston), Rivers of Odesa Oblast, Rivers of Baden-Württemberg, Rivers of Upper/Lower Austria, Rivers of Vienna, Rivers of Bavaria (Kategoria:Lumenj në Bavari nuk ekziston), Bačka, Banat, Syrmia, Border rivers, Bulgaria–Romania border, Croatia–Serbia border, Hungary–Slovakia border, Romania–Ukraine border, Romania–Serbia border, Federal waterways in Germany, Articles containing video clips (kategori mirëmbajtjeje e enwiki). Nëse ndonjë prej tyre ekziston në sqwiki nën një emër tjetër, mund të shtohet.
+-->
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Danube|19 gusht 2026|1370139182}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Danube, versioni i datës 19 gusht 2026 (revizioni 1370139182)
+-->

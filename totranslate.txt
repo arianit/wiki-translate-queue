@@ -652,6 +652,8 @@ https://en.wikipedia.org/wiki/Shahnameh
 https://en.wikipedia.org/wiki/Bible	
 https://en.wikipedia.org/wiki/Mahabharata	
 https://en.wikipedia.org/wiki/military
+
+
 https://en.wikipedia.org/wiki/Abortion
 https://en.wikipedia.org/wiki/Rrespiration
 https://en.wikipedia.org/wiki/Sex
@@ -689,7 +691,12 @@ https://en.wikipedia.org/wiki/Osteoarthritis
 https://en.wikipedia.org/wiki/Esophageal_cancer
 https://en.wikipedia.org/wiki/Myocarditis
 https://en.wikipedia.org/wiki/Asthma
-
+https://en.wikipedia.org/wiki/Breast_cancer
+https://en.wikipedia.org/wiki/Colorectal_cancer
+https://en.wikipedia.org/wiki/Stomach_cancer
+https://en.wikipedia.org/wiki/Liver_cancer
+https://en.wikipedia.org/wiki/Thyroid_cancer
+https://en.wikipedia.org/wiki/Leukemia
 
 #STATES
 https://en.wikipedia.org/wiki/Germany
@@ -705,3 +712,4 @@ https://en.wikipedia.org/wiki/Sweden
 https://en.wikipedia.org/wiki/Greece
 https://en.wikipedia.org/wiki/Slovenia
 https://en.wikipedia.org/wiki/Croatia
+

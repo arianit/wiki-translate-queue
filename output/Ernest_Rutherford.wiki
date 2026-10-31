@@ -1,0 +1,384 @@
+{{Short description|Fizikant dhe kimist neozelandez (1871–1937)}}
+
+{{Infobox scientist
+| name              = Ernest Rutherford, Baroni i parë Rutherford i Nelsonit
+| image             = Sir Ernest Rutherford LCCN2014716719 - restoration1.jpg
+| caption           = Rutherford, rreth viteve 1920
+| birth_date        = {{Birth date|1871|08|30|df=yes}}
+| birth_place       = Brightwater, Krahina e Nelsonit, Koloni e Zelandës së Re
+| death_date        = {{Death date and age|1937|10|19|1871|08|30|df=yes}}
+| death_place       = [[Kembrixhi]], [[Anglia]], MB
+| resting_place     = {{ill|Abacia e Uestminsterit|en|Westminster Abbey}}, [[Londra]]
+| spouse            = {{Marriage|Mary Georgina Newton|1900}}
+| children          = 1 (vajzë)
+| relatives         = [[Ralph Fowler]] (dhëndër)
+| education         = Nelson College
+| alma_mater        = {{Indented plainlist|
+* Canterbury College (BA, MA, BSc)
+* Trinity College, Cambridge (BA)}}
+| known_for         = {{Indented plainlist|
+* Zbulimi i [[Bërthama e atomit|bërthamës atomike]]
+* Zbulimi i [[Protoni|protonit]]
+* Zbulimi i [[Radoni|radonit]]
+* Teoria e [[Neutroni|neutronit]]}}
+| field             = {{Indented plainlist|
+* Fizika atomike
+* [[Fizika bërthamore]]
+* Radiokimia}}
+| work_institutions = {{Indented plainlist|
+* {{ill|McGill University|en|McGill University}} (1898–1907)
+* Victoria University of Manchester (1907–1919)
+* [[Universiteti i Kembrixhit]] (1919–1937)}}
+| awards            = {{Indented plainlist|
+* Medalja Rumford (1904)
+* {{ill|Çmimi Nobel për Kimi|en|Nobel Prize in Chemistry}} (1908)
+* Medalja Elliott Cresson (1910)
+* Medalja Matteucci (1913)
+* Medalja Përkujtimore Hector (1916)
+* Medalja Copley (1922)
+* Medalja Franklin (1924)
+* Medalja Albert (1928)
+* Medalja Faraday (1930)
+* Çmimi i Leksionit Faraday (1936)
+* Medalja Wilhelm Exner (1936)}}
+| doctoral_students = {{Collapsible list|title={{Nobold|''Shiko listën''}}
+ | [[James Chadwick]] (1921)
+ | Henry DeWolf Smyth (1923)
+ | Nazir Ahmed (1925)
+ | Leslie H. Martin (1926)
+ | Cecil Powell (1927)
+ | John Cockcroft (1928)
+ | Mark Oliphant (1929)
+ | Norman Feather (1931)
+ | Ernest Walton (1931)
+ | Rafi Chaudhry (1932)
+ | Zhang Wenyu (1938)
+ }}
+| notable_students  = {{Collapsible list|title={{Nobold|''Shiko listën''}}
+ | Kenneth Bainbridge
+ | Patrick Blackett
+ | [[Niels Bohr]]
+ | Charles Galton Darwin
+ | Maria Goeppert Mayer
+ | Charles Drummond Ellis
+ | Kazimierz Fajans
+ | George Gamow
+ | Hans Geiger
+ | [[Otto Hahn]]
+ | George de Hevesy
+ | Ernest Marsden
+ | Philip Burton Moon
+ | Henry Moseley
+ | [[Frederick Soddy]]}}
+| signature         = Ernest-Rutherford-signature.svg
+}}
+
+'''Ernest Rutherford, Baroni i parë Rutherford i Nelsonit''' (30 gusht 1871 – 19 tetor 1937),<ref>{{cite news | title=LORD RUTHERFORD, PHYSICIST, IS DEAD; British Nobel Winner, 66, Famous As Atom-Smasher, Dies After Operation | date=October 20, 1937 | last=Laurence | first=William | work=[[The New York Times]]| url=https://www.nytimes.com/1937/10/20/archives/lord-rutherford-physicist-is-dead-british-nobel-prize-winner-66.html|language=en}}</ref> ishte fizikant dhe kimist neozelandez, studiues pionier si në fizikën atomike ashtu edhe në fizikën bërthamore. Është përshkruar si "ati i fizikës bërthamore"<ref name=Father>{{cite web |title=Ernest Rutherford |url=https://ehs.msu.edu/lab-clinic/rad/hist-figures/rutherford.html |website=Environmental Health and Safety Office of Research Regulatory Support |publisher=Michigan State University |access-date=23 June 2023 |language=en}}</ref> dhe "eksperimentuesi më i madh që nga [[Michael Faraday]]".<ref name="eb">{{cite web |last1=Badash |first1=Lawrence |title=Ernest Rutherford {{!}} Accomplishments, Atomic Theory, & Facts {{!}} Britannica |url=https://www.britannica.com/biography/Ernest-Rutherford |website=Encyclopedia Britannica |access-date=23 June 2023 |language=en}}</ref> Në vitin 1908 ai u nderua me {{ill|Çmimi Nobel për Kimi|en|Nobel Prize in Chemistry|lt=Çmimin Nobel për Kimi}} "për hulumtimet e tij mbi zbërthimin e elementeve dhe kiminë e substancave radioaktive."<ref name="Nobel Prize">{{Cite web|title=Nobel Prize in Chemistry 1908|url=https://www.nobelprize.org/prizes/chemistry/1908/summary/|publisher=Nobel Foundation|access-date=2008-10-06|language=en}}</ref>
+
+Ndër zbulimet e Rutherfordit është koncepti i gjysmëjetës radioaktive, elementi radioaktiv [[Radoni|radoni]], si dhe dallimi dhe emërtimi i rrezatimit alfa dhe beta. Së bashku me Thomas Roydsin, Rutherfordit i njihet merita e vërtetimit se rrezatimi alfa përbëhet nga bërthama [[Heliumi|heliumi]].<ref name=rutherford.org.nz>{{cite web|last=Campbell|first=John|title=Rutherford – A Brief Biography|url=http://www.rutherford.org.nz/biography.htm|website=Rutherford.org.nz|access-date=4 March 2013|language=en}}</ref><ref>{{Cite journal| doi = 10.1080/14786440808636511| title = Spectrum of the radium emanation| journal = Philosophical Magazine| series = Series 6| volume = 16| issue = 92| pages = 313| year = 1908| last1 = Rutherford| first1 = E.| last2 = Royds| first2 = T.| url = https://zenodo.org/record/1430840| access-date = 28 June 2019|language=en}}</ref> Në vitin 1911, ai teorizoi se [[Atomi|atomet]] e kanë [[Ngarkesa elektrike|ngarkesën elektrike]] të përqendruar në një [[Bërthama e atomit|bërthamë]] shumë të vogël.<ref>{{cite book |title = Theoretical concepts in physics: an alternative view of theoretical reasoning in physics |last = Longair |first = M. S. |publisher = Cambridge University Press |year = 2003 |isbn = 978-0-521-52878-8 |pages = 377–378 |language=en}}</ref> Ai arriti në këtë teori nëpërmjet zbulimit dhe interpretimit të tij të shpërndarjes Rutherford gjatë eksperimentit të fletës së artë, kryer nga Hans Geiger dhe Ernest Marsden. Në vitin 1912, ai e ftoi [[Niels Bohr]]in të bashkohej me laboratorin e tij, çka çoi te modeli Bohr i atomit. Në vitin 1917, ai kreu reaksionin e parë bërthamor të shkaktuar artificialisht, duke bombarduar bërthama azoti me grimca alfa. Këto eksperimente e çuan në zbulimin e emetimit të një grimce nënatomike, të cilën fillimisht e quajti "atom hidrogjeni", por më vonë (më saktësisht) e riemërtoi [[Protoni|protonin]].<ref>{{Cite journal|doi = 10.1080/14786440608635919|title = Collision of α particles with light atoms. IV. An anomalous effect in nitrogen|journal = The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science|series = Series 6|volume = 37|issue = 222|pages = 581–587|year = 1919|last1 = Rutherford|first1 = E.|url = https://zenodo.org/record/1430800|access-date = 2 November 2019|language=en}}</ref><ref>{{Cite journal |doi = 10.1098/rspa.1920.0040|title = Bakerian Lecture. Nuclear Constitution of Atoms|journal = Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences|volume = 97|issue = 686|pages = 374–400|year = 1920|last1 = Rutherford|first1 = E.|bibcode = 1920RSPSA..97..374R|doi-access = free|language=en}}</ref> Atij i njihet gjithashtu merita e zhvillimit të sistemit të numërimit atomik, së bashku me Henry Moseleyn. Arritjet e tij të tjera përfshijnë përparimin e fushave të komunikimeve radio dhe teknologjisë së ultratingullit.
+
+Rutherfordi u bë Drejtor i {{ill|Laboratori Cavendish|en|Cavendish Laboratory|lt=Laboratorit Cavendish}} në [[Universiteti i Kembrixhit|Universitetin e Kembrixhit]] në vitin 1919. Nën udhëheqjen e tij, [[Neutroni|neutroni]] u zbulua nga [[James Chadwick]] në vitin 1932. Po atë vit, eksperimenti i parë i kontrolluar për të ndarë bërthamën u krye nga John Cockcroft dhe Ernest Walton, duke punuar nën drejtimin e tij. Në nderim të përparimeve të tij shkencore, Rutherfordi u nderua me titullin baron të Mbretërisë së Bashkuar. Pas vdekjes së tij në 1937, ai u varros në {{ill|Abacia e Uestminsterit|en|Westminster Abbey|lt=Abacinë e Uestminsterit}} pranë [[Charles Darwin|Çarls Darvinit]] dhe [[Isak Njutoni]]t. Elementi kimik [[Rutherfordiumi]] (<sub>104</sub>Rf) u emërtua në nder të tij në vitin 1997. Në 1999, ai u shpall fizikanti i dhjetë më i madh i të gjitha kohërave.<ref>{{cite news| title=Physics: past, present, future| work=Physics World| date=December 6, 1999| url=https://physicsworld.com/a/physics-past-present-future/|language=en}}</ref> Portreti i tij ndodhet në kartëmonedhën prej njëqind dollarësh të Zelandës së Re që nga viti 1999.<ref name=":1">{{Cite web |date=6 August 2024 |title=$100 banknote |url=https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/100-banknote |access-date=8 May 2026 |website=Reserve Bank of New Zealand|language=en}}</ref>
+
+== Fëmijëria dhe arsimimi ==
+Ernest Rutherford lindi më 30 gusht 1871 në Brightwater, Zelanda e Re,<ref name=McLintock>{{cite encyclopedia|author=A.H. McLintock|encyclopedia=An Encyclopaedia of New Zealand|title=Rutherford, Sir Ernest (Baron Rutherford of Nelson, O.M., F.R.S.)|edition=1966|date=18 September 2007|url=http://www.teara.govt.nz/en/1966/rutherford-sir-ernest/1|publisher=Te Ara – The Encyclopedia of New Zealand|isbn=978-0-478-18451-8|access-date=2 April 2008|language=en}}</ref> i katërti nga dymbëdhjetë fëmijë të James Rutherfordit, emigrant, fermer dhe mekanik nga Perth, Skoci, dhe Martha Thompsonit, mësuese nga Hornchurch, Angli.<ref>{{cite book|url=https://books.google.com/books?id=_vNW1wg9npgC&pg=PA12|page=12|author=J.L. Heilbron|title=Ernest Rutherford And the Explosion of Atoms|date=12 June 2003|publisher=Oxford University Press|isbn=0-19-512378-6|access-date=22 February 2016|language=en}}</ref><ref name=":0">{{Cite web|title=Rutherford, Ernest 1871–1937|url=https://teara.govt.nz/en/biographies/3r37/rutherford-ernest|access-date=4 April 2011|website=Dictionary of New Zealand Biography|language=en}}</ref> Certifikata e lindjes së Rutherfordit u shkrua gabimisht si 'Earnest'. Familja e njihte me nofkën Ern.<ref name=McLintock/><ref name=":0"/>
+
+Kur Rutherfordi ishte 5 vjeç, familja u zhvendos në Foxhill, Tasman, Zelanda e Re, ku ai ndoqi shkollën Foxhill. Në moshën 11-vjeçare, në 1883, familja Rutherford u zhvendos në Havelock, në Marlborough Sounds, ku Ernesti ndoqi shkollën Havelock.<ref>{{Cite news |date=7 October 1886 |title=Local and General News. |volume=22 |page=2 |work=Marlborough Express |issue=186 |url=https://paperspast.natlib.govt.nz/newspapers/MEX18861007.2.8? |access-date=October 1, 2023 |language=en}}</ref> Zhvendosja u bë për t'u afruar me mullirin e lirit që drejtonte i ati i Rutherfordit.<ref name=":0"/>
+
+Në 1887, në përpjekjen e tij të dytë, ai fitoi një bursë për të studiuar në Nelson College.<ref name=":0"/> Në përpjekjen e parë të provimit, ai kishte notën më të lartë të çdokujt nga Nelsoni.<ref>{{Cite web |title=The Marlborough Express. Published Every Evening. Monday, December 28, 1885. Local and General News. |url=https://paperspast.natlib.govt.nz/newspapers/MEX18851228.2.5 |access-date=8 August 2023 |website=paperspast.natlib.govt.nz |language=en}}</ref> Kur iu dha bursa, ai kishte marrë 580 nga 600 pikë të mundshme.<ref>{{Cite web |title=The Marlborough Express. Published Every Evening Wednesday, January 5, 1887. Local and General News. |url=https://paperspast.natlib.govt.nz/newspapers/MEX18870105.2.6 |access-date=8 August 2023 |website=paperspast.natlib.govt.nz |language=en}}</ref> Pas dhënies së bursës, shkolla Havelock i dhuroi një koleksion prej pesë vëllimesh me titullin ''The Peoples of the World''.<ref>{{Cite web |title=Papers Past {{!}} Newspapers {{!}} Marlborough Express {{!}} 25 January 1887 {{!}} Local and General News. |url=https://paperspast.natlib.govt.nz/newspapers/MEX18870125.2.6 |access-date=8 August 2023 |website=paperspast.natlib.govt.nz |language=en}}</ref> Ai studioi në Nelson College nga 1887 deri në 1889, dhe ishte kryenxënës në 1889. Luajti gjithashtu në ekipin e ragbit të shkollës.<ref name=":0"/> Iu ofrua një vend pune në shërbimin qeveritar, por e refuzoi pasi i mbeteshin edhe 15 muaj shkollë.<ref>{{Cite web |title=Papers Past {{!}} Newspapers {{!}} Marlborough Express {{!}} 4 October 1887 {{!}} Marlborough Express. Published Every Evening.... |url=https://paperspast.natlib.govt.nz/newspapers/MEX18871004.2.7 |access-date=8 August 2023 |website=paperspast.natlib.govt.nz |language=en}}</ref>
+
+Në 1889, në përpjekjen e tij të dytë, fitoi një bursë për të studiuar në Canterbury College, Universiteti i Zelandës së Re, midis 1890 dhe 1894. Mori pjesë në shoqërinë e debatit dhe në Shoqërinë e Shkencës.<ref name=":0"/> Në Canterbury, ai u nderua me një B.A. në latinisht, anglisht dhe matematikë në 1892, një M.A. në matematikë dhe shkencë fizike në 1893, dhe një B.Sc. në kimi dhe gjeologji në 1894.<ref name="Nobel Rutherford Biography">{{cite web |title=Ernest Rutherford Biographical |url=https://www.nobelprize.org/prizes/chemistry/1908/rutherford/biographical/ |website=The Nobel Prize |publisher=Nobel Prize Outreach AB |access-date=5 October 2023|language=en}}</ref><ref>{{cite web |title=Famous Canterbury graduate Ernest Rutherford turns 150 |url=https://www.canterbury.ac.nz/news/2021/famous-canterbury-graduate-ernest-rutherford-turns-150.html |website=The University of Canterbury |access-date=3 July 2023 |language=en-nz |date=27 August 2021}}</ref>
+
+Më pas, Rutherfordi shpiku një lloj të ri marrësi radioje, dhe në 1895 iu dha një Bursë Kërkimore 1851 nga Komisioni Mbretëror për Ekspozitën e 1851-shit, për të udhëtuar në Angli për studime pasuniversitare në {{ill|Laboratori Cavendish|en|Cavendish Laboratory|lt=Laboratorin Cavendish}} të [[Universiteti i Kembrixhit|Universitetit të Kembrixhit]].<ref name="Venn">{{Cite web|title=Rutherford, Ernest|url=https://venn.lib.cam.ac.uk/cgi-bin/search-2018.pl?sur=&suro=w&fir=&firo=c&cit=&cito=c&c=all&z=all&tex=RTRT895E&sye=&eye=&col=all&maxcount=50|website=A Cambridge Alumni Database|language=en}}</ref> Në 1897, iu dha një gradë kërkimore B.A. dhe Bursa Coutts-Trotter nga Trinity College, Cambridge.<ref name="Nobel Rutherford Biography"/>
+
+== Karriera dhe kërkimi ==
+[[File:Ernest Rutherford 1892.jpg|thumb|right|Rutherfordi në 1892]]
+
+Kur Rutherfordi filloi studimet në Kembrixh, ishte ndër të parët 'të huaj' (pa diplomë nga Kembrixhi) të lejuar të bënin kërkim në universitet, dhe pati gjithashtu nderin të studionte nën J. J. Thomson.<ref name="aps">{{Cite web|url=https://www.aps.org/programs/outreach/history/historicsites/rutherfordsoddy.cfm |title=Ernest Rutherford and Frederick Soddy |language=en}}</ref>
+
+Me inkurajimin e Thomsonit, Rutherfordi zbuloi valë radioje në një distancë prej rreth 800 metrash, dhe për një kohë të shkurtër mbajti rekordin botëror për distancën në të cilën mund të zbuloheshin valët elektromagnetike, megjithëse kur i paraqiti rezultatet e tij në takimin e British Association në 1896, zbuloi se ishte tejkaluar nga Guglielmo Marconi, valët radio të të cilit kishin dërguar një mesazh në një distancë prej gati 16 kilometrash.<ref>{{cite news |last1=Holmes |first1=Jonathan |title=Marconi's first radio broadcast made 125 years ago |url=https://www.bbc.com/news/uk-england-somerset-61327062 |access-date=16 June 2023 |work=BBC News |date=13 May 2022 |language=en}}</ref>
+
+=== Radioaktiviteti ===
+Përsëri nën drejtimin e Thomsonit, Rutherfordi punoi mbi efektet përcjellëse të rrezeve X mbi gazrat, çka çoi në zbulimin e [[Elektroni|elektronit]], rezultatet e të cilit u paraqitën së pari nga Thomsoni në 1897.<ref>{{cite book |last1=Buchwald |first1=Jed Z. |last2=Warwick |first2=Andrew |title=Histories of the electron: the birth of microphysics |date=30 January 2004 |publisher=MIT Press |location=Cambridge, Mass. |isbn=0262524244 |pages=21–30 |language=en}}</ref> Duke dëgjuar për përvojën e Henri Becquerelit me uranin, Rutherfordi filloi të eksploronte radioaktivitetin e tij, duke zbuluar dy lloje që dallonin nga rrezet X në fuqinë e tyre depërtuese. Duke vazhduar kërkimin e tij në Kanada, në 1899 ai i shpiku termat "rreze alfa" dhe "rreze beta" për të përshkruar këto dy lloje të dallueshme rrezatimi.<ref name=abg>{{Cite journal|last=Trenn|first=Thaddeus J.|date=1976|title=Rutherford on the Alpha-Beta-Gamma Classification of Radioactive Rays|journal=Isis|volume=67|issue=1|pages=61–75|jstor=231134|doi=10.1086/351545|language=en}}</ref>
+
+Në 1898, Rutherfordi pranoi Katedrën e Fizikës Macdonald në {{ill|McGill University|en|McGill University}} në Montreal të Kanadasë, me rekomandimin e Thomsonit.<ref>{{cite book| first=Robin| last=McKown|title=Giant of the Atom, Ernest Rutherford|year=1962|publisher=Julian Messner Inc, New York|page=57|language=en}}</ref> Nga 1900 deri në 1903, iu bashkua në McGill kimisti i ri Frederick Soddy ([[Çmimi Nobel|Çmimi Nobel për Kimi]], 1921), të cilit i vuri problemin e identifikimit të gazit inert të emetuar nga elementi radioaktiv toriumi, substancë që ishte vetë radioaktive dhe mbulonte substanca të tjera. Pasi eliminoi të gjitha reaksionet e zakonshme kimike, Soddy sugjeroi se duhej të ishte një nga gazrat inertë, të cilin e quajtën thoron. Kjo substancë u gjet më vonë të ishte <sup>220</sup>Rn, një izotop i [[Radoni|radonit]].<ref name="Kragh">{{Cite arXiv|last=Kragh|first=Helge|date=5 February 2012|title=Rutherford, Radioactivity, and the Atomic Nucleus|eprint=1202.0954|class=physics.hist-ph|language=en}}</ref><ref name="Nobel Rutherford Biography"/> Ata gjetën gjithashtu një substancë tjetër, të cilën e quajtën Thorium X, identifikuar më vonë si <sup>224</sup>Rn, dhe vazhduan të gjenin gjurmë heliumi. Punuan gjithashtu me mostra të "Uranium X" (protaktini), nga William Crookes, dhe radium, nga Marie Curie. Rutherfordi hetoi më tej thoronin së bashku me R.B. Owensin dhe zbuloi se një mostër e çfarëdo madhësie e materialit radioaktiv merrte gjithnjë të njëjtën kohë që gjysma e mostrës të dezintegrohej (në këtë rast, 11 minuta e gjysmë), dukuri për të cilën shpiku termin "gjysmëjetë".<ref name="Kragh"/> Rutherfordi dhe Soddy botuan punimin e tyre "Ligji i Ndryshimit Radioaktiv" për të shpjeguar të gjitha eksperimentet e tyre. Deri atëherë, atomet supozoheshin të ishin baza e pashkatërrueshme e çdo lënde; dhe megjithëse Curie kishte sugjeruar se radioaktiviteti ishte dukuri atomike, ideja se atomet e substancave radioaktive po shpërbëheshin ishte një ide krejt e re. Rutherfordi dhe Soddy treguan se radioaktiviteti përfshinte dezintegrimin spontan të atomeve në lëndë tjetër, ende të paidentifikuar.<ref name="Nobel Rutherford Biography"/>
+
+Në 1903, Rutherfordi konsideroi një lloj rrezatimi, të zbuluar (por të paemërtuar) nga kimisti francez Paul Villard në 1900, si emetim nga radiumi, dhe kuptoi se ky vëzhgim duhej të përfaqësonte diçka të ndryshme nga rrezet e tij alfa dhe beta, për shkak të fuqisë së tij shumë më të madhe depërtuese. Rutherfordi ia dha kështu këtij lloji të tretë rrezatimi emrin "rreze gama".<ref name=abg/> Të tri termat e Rutherfordit janë ende në përdorim standard sot — lloje të tjera të dezintegrimit radioaktiv janë zbuluar që atëherë, por tri llojet e Rutherfordit mbeten ndër më të zakonshmet. Në 1904, Rutherfordi sugjeroi se radioaktiviteti siguron një burim energjie të mjaftueshëm për të shpjeguar ekzistencën e Diellit gjatë miliona viteve të nevojshme për evolucionin e ngadaltë biologjik në Tokë, siç propozohej nga biologë si Charles Darvini. Fizikani Lord Kelvin kishte argumentuar më herët për një Tokë shumë më të re, bazuar në pamjaftueshmërinë e burimeve të njohura të energjisë, por Rutherfordi tregoi, në një leksion ku ishte i pranishëm Kelvini, se radioaktiviteti mund ta zgjidhte këtë problem.<ref>{{cite journal |author1=England, P. |author2=Molnar, P. |author3=Righter, F. | title=John Perry's neglected critique of Kelvin's age for the Earth: A missed opportunity in geodynamics |journal=GSA Today |date=January 2007 |volume=17 |issue=1 |pages=4–9 |doi=10.1130/GSAT01701A.1 |language=en}}</ref> Në 1907, u kthye në Britani për të marrë katedrën Langworthy në Victoria University of Manchester.<ref>{{cite web |title=Ernest Rutherford: Heritage Heroes at The University of Manchester |url=https://www.manchester.ac.uk/discover/history-heritage/history/heroes/ernest-rutherford/ |website=The University of Manchester |access-date=27 June 2023 |language=en}}</ref>
+
+Në Mançester, Rutherfordi vazhdoi punën me rrezatimin alfa. Së bashku me Hans Geigerin, zhvilloi ekrane szintiluese sulfuri zinku dhe dhoma jonizimi për të numëruar grimcat alfa. Duke pjesëtuar ngarkesën totale të grumbulluar në ekran me numrin e numëruar, Rutherfordi përcaktoi se ngarkesa e grimcës alfa ishte dy.<ref>{{Cite journal |date=1908-08-27 |title=The charge and nature of the α-particle |journal=Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character |language=en |volume=81 |issue=546 |pages=162–173 |doi=10.1098/rspa.1908.0066 |last1=Rutherford |first1=E. |last2=Geiger |first2=Hans}}</ref><ref name=PaisInwardBound>{{Cite book |last=Pais |first=Abraham |title=Inward bound: of matter and forces in the physical world |date=2002 |publisher=Clarendon Press |isbn=978-0-19-851997-3 |edition=Reprint |location=Oxford|language=en}}</ref> Në fund të 1907-s, Ernest Rutherford dhe Thomas Royds lejuan grimca alfa të depërtonin nëpër një dritare shumë të hollë në një tub të zbrazët. Ndërsa e shkarkonin tubin me elektricitet, spektri i marrë prej tij ndryshoi, ndërsa grimcat alfa grumbulloheshin në tub. Përfundimisht, u shfaq spektri i qartë i gazit të heliumit, duke provuar se grimcat alfa ishin të paktën atome heliumi të jonizuara, dhe ndoshta bërthama heliumi.<ref>{{cite journal |last1=Rutherford |first1=E. |last2=Royds |first2=T. |title=XXI. The nature of the α particle from radioactive substances |journal=The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science |date=February 1909 |volume=17 |issue=98 |pages=281–286 |doi=10.1080/14786440208636599 |language=en}}</ref> Në 1910 Rutherfordi, me Geigerin dhe matematicienin Harry Bateman, botuan<ref>{{cite journal |last1=Rutherford |first1=E. |last2=Geiger |first2=H. |last3=Bateman |first3=H. |title=LXXVI. The probability variations in the distribution of α particles |journal=The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science |date=October 1910 |volume=20 |issue=118 |pages=698–707 |doi=10.1080/14786441008636955 |language=en}}</ref> punimin e tyre klasik<ref>Bulmer, M. G. (1979). Principles of Statistics. United Kingdom: Dover Publications.</ref> që përshkruante analizën e parë të shpërndarjes në kohë të emetimit radioaktiv, shpërndarje e njohur sot si [[Shpërndarja Poisson]].
+
+=== Modeli i atomit ===
+[[File:Gold foil experiment conclusions.svg|right|thumb|''Sipër:'' Rezultatet e pritura: grimcat alfa duke kaluar pa u penguar nëpër modelin e "pudingut me kumbulla" të atomit.<br />
+''Poshtë:'' Rezultatet e vëzhguara: një pjesë e vogël e grimcave u devijuan, çka tregonte një ngarkesë të vogël dhe të përqendruar. Diagrami nuk është në shkallë; në realitet bërthama është shumë më e vogël se guaska elektronike.]]
+
+Rutherfordi vazhdoi të bënte zbulime revolucionare shumë kohë pas marrjes së Çmimit Nobel në 1908.<ref name=PaisInwardBound/> Nën drejtimin e tij, në 1909, Hans Geiger dhe Ernest Marsden kryen eksperimentin Geiger–Marsden, i cili demonstroi natyrën bërthamore të atomeve duke matur devijimin e grimcave alfa që kalonin nëpër një fletë të hollë ari.<ref>{{cite web |last1=Pestka |first1=Jessica |title=About Rutherford's Gold Foil Experiment |url=https://sciencing.com/rutherfords-gold-foil-experiment-4569065.html |website=Sciencing |access-date=27 June 2023 |language=en |date=25 April 2017}}</ref> Rutherfordi i frymëzoi Geigerin dhe Marsdenin që në këtë eksperiment të kërkonin grimca alfa me kënde shumë të larta devijimi, çka nuk pritej sipas asnjë teorie të lëndës në atë kohë.<ref>{{cite book |last1=Dragovich |first1=Branko |title=Ernest Rutherford and the Discovery of the Atomic Nucleus |publisher=Institute of Physics |location=Belgrade |language=en}}</ref><ref>{{cite journal |last1=Davidson |first1=Michael W. |title=Pioneers in Optics: Johann Wilhelm Ritter and Ernest Rutherford |journal=Microscopy Today |date=March 2014 |volume=22 |issue=2 |pages=48–51 |doi=10.1017/S1551929514000029 |publisher=Cambridge University Press |language=en}}</ref> Kënde të tilla devijimi, edhe pse të rralla, u gjetën. Duke reflektuar mbi këto rezultate në një nga leksionet e tij të fundit, Rutherfordi u citua duke thënë: "Ishte ngjarja më e pabesueshme që më ka ndodhur ndonjëherë në jetë. Ishte pothuajse aq e pabesueshme sikur të gjuaje një predhë 15-inç mbi një copë letre mëndafshi dhe ajo të kthehej e të të godiste." Ishte interpretimi i Rutherfordit i këtyre të dhënave që e çoi të propozonte [[Bërthama e atomit|bërthamën]], një rajon shumë të vogël dhe të ngarkuar që përmban pjesën më të madhe të masës së atomit.<ref name=charge>{{Cite journal |last1=Rutherford |first1=E. |year=1911 |title=The scattering of α and β particles by matter and the structure of the atom |journal=The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science |series=Series 6 |volume=21 |issue=125 |pages=669–688 |doi=10.1080/14786440508637080 |language=en}}</ref>
+
+Në 1912, Rutherfordit iu bashkua Niels Bohr (i cili postuloi se elektronet lëviznin në orbita specifike rreth bërthamës kompakte). Bohri e përshtati strukturën bërthamore të Rutherfordit që të përputhej me hipotezën kuantike të Max Planckut. Modeli Bohr rezultues u bë baza për fizikën atomike kuantike-mekanike të Heisenbergut, që mbetet i vlefshëm edhe sot.<ref name="Nobel Rutherford Biography"/>
+
+=== Piezoelektriciteti ===
+Gjatë Luftës së Parë Botërore, Rutherfordi punoi në një projekt tepër sekret për të zgjidhur problemet praktike të zbulimit të nëndetëseve. Si Rutherfordi ashtu edhe Paul Langevin sugjeruan përdorimin e piezoelektricitetit, dhe Rutherfordi zhvilloi me sukses një pajisje që matte prodhimin e tij. Përdorimi i piezoelektricitetit u bë më pas thelbësor për zhvillimin e [[Ultratingulli|ultratingullit]] siç njihet sot. Pretendimi se Rutherfordi zhvilloi sonarin, megjithatë, është keqkuptim, pasi teknologjitë e zbulimit nënujor përdorin transduktorin e Langevinit.<ref>{{cite journal |last1=Katzir |first1=Shaul |title=Who knew piezoelectricity? Rutherford and Langevin on submarine detection and the invention of sonar |journal=Notes and Records of the Royal Society |date=20 June 2012 |volume=66 |issue=2 |pages=141–157 |doi=10.1098/rsnr.2011.0049 |language=en}}</ref><ref>{{cite journal |last1=Duck |first1=Francis |title=Paul Langevin, U-boats, and ultrasonics |journal=Physics Today |date=1 November 2022 |volume=75 |issue=11 |pages=42–48 |doi=10.1063/PT.3.5122 |language=en}}</ref>
+
+=== Zbulimi i protonit ===
+Së bashku me H.G. Moseleyn, Rutherfordi zhvilloi sistemin e numërimit atomik në 1913. Eksperimentet e Rutherfordit dhe Moseleyt përdorën rreze katodike për të bombarduar elemente të ndryshme me rrjedha elektronesh dhe vunë re se çdo element përgjigjej në mënyrë të qëndrueshme dhe të dallueshme. Kërkimi i tyre ishte i pari që pohoi se çdo element mund të përkufizohej nga vetitë e strukturave të tij të brendshme — vëzhgim që më vonë çoi në zbulimin e [[Bërthama e atomit|bërthamës atomike]].<ref name="Nobel Rutherford Biography"/> Ky kërkim e çoi Rutherfordin të teorizonte se atomi i hidrogjenit (në atë kohë entiteti më i lehtë i njohur që mbante ngarkesë pozitive) ishte një lloj "elektroni pozitiv" — përbërës i çdo elementi atomik.<ref>{{cite journal |last1=Rutherford |first1=Ernest |title=The structure of the atom |journal=Philosophical Magazine |date=1914 |volume=27 |pages=488–498 |language=en}}</ref><ref>{{cite book |last1=Whittaker |first1=Edmund |title=A History of the Theories of Aether and Electricity |date=1989 |volume=2 |publisher=Courier Dover Publications |isbn=0-486-26126-3 |page=87|language=en}}</ref>
+
+Vetëm në 1919 Rutherfordi e zgjeroi teorinë e tij të "elektronit pozitiv" me një seri eksperimentesh që filluan pak para përfundimit të kohës së tij në Mançester. Zbuloi se azoti, dhe elemente të tjera të lehta, nxirrnin një proton, të cilin e quajti "atom hidrogjeni", kur goditeshin me grimca alfa (α).<ref name="Nobel Rutherford Biography"/> Në veçanti, ai tregoi se grimcat e nxjerra nga përplasja e grimcave alfa me hidrogjenin kishin ngarkesë njësi dhe 1/4 e vrullit të grimcave alfa.<ref>{{cite journal |last1=Rutherford |first1=Ernest |title=LII. Collision of α particles with light atoms II. Velocity of the hydrogen atom |journal=The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science |date=8 April 2009 |volume=37 |issue=222 |pages=562–571 |doi=10.1080/14786440608635917 |series=6 |language=en}}</ref>
+
+Rutherfordi u kthye në {{ill|Laboratori Cavendish|en|Cavendish Laboratory|lt=Laboratorin Cavendish}} në 1919, duke e pasuar J. J. Thomsonin si Profesor Cavendish i Fizikës, pozicion që e mbajti deri në vdekjen e tij në 1937.<ref name=cam>{{cite web |url=http://www.phy.cam.ac.uk/history/cavprof.php |title=The Cavendish Professorship of Physics |publisher=University of Cambridge |language=en}}</ref> Gjatë periudhës së tij, çmime Nobel iu dhanë James Chadwickut për zbulimin e neutronit (në 1932), John Cockcroftit dhe Ernest Waltonit për një eksperiment që do të njihej si "ndarja e atomit" duke përdorur një përshpejtues grimcash, dhe Edward Appletonit për demonstrimin e ekzistencës së jonosferës.
+
+=== Zhvillimi i teorisë së protonit dhe neutronit ===
+Në 1919–1920, Rutherfordi vazhdoi kërkimin mbi "atomin e hidrogjenit" për të konfirmuar se grimcat alfa i thyenin bërthamat e azotit dhe për të vërtetuar natyrën e produkteve. Ky rezultat i tregoi Rutherfordit se bërthamat e hidrogjenit ishin pjesë e bërthamave të azotit (dhe, me përfundim logjik, ndoshta edhe e bërthamave të tjera). Një ndërtim i tillë ishte dyshuar prej vitesh, bazuar në peshat atomike që ishin shumëfisha të plotë të asaj të hidrogjenit; shih hipotezën e Proutit. Hidrogjeni njihej si elementi më i lehtë, dhe bërthamat e tij supozoheshin bërthamat më të lehta. Tani, për shkak të gjithë këtyre konsideratave, Rutherfordi vendosi se një bërthamë hidrogjeni ishte ndoshta një bllok themelor ndërtimi për çdo bërthamë, dhe gjithashtu ndoshta një grimcë e re themelore, pasi asgjë nuk njihej si më e lehtë se ajo bërthamë. Kështu, duke konfirmuar dhe zgjeruar punën e Wilhelm Wienit, i cili në 1898 zbuloi protonin në rrjedha gazi të jonizuar,<ref>{{Cite journal|doi = 10.1002/andp.18943180404|title = Über positive Elektronen und die Existenz hoher Atomgewichte|journal = Annalen der Physik|volume = 318|issue = 4|pages = 669–677|year = 1904|last1 = Wien|first1 = W.|language=de}}</ref> në 1920 Rutherfordi postuloi se bërthama e hidrogjenit ishte një grimcë e re, të cilën e pagëzoi ''protoni''.<ref>{{cite journal |author=Orme Masson |date=1921 |title=The Constitution of Atoms |journal=The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science |volume=41 |issue=242 |pages=281–285 |doi=10.1080/14786442108636219 |language=en}}</ref>
+
+Në 1921, ndërsa punonte me Niels Bohrin, Rutherfordi teorizoi mbi ekzistencën e neutroneve (të cilat i pagëzoi në Leksionin e tij Bakerian të vitit 1920), të cilat mund të kompensonin disi efektin zmbrapsës të ngarkesave pozitive të protoneve, duke shkaktuar një forcë bërthamore tërheqëse dhe kështu duke i mbajtur bërthamat nga shpërbërja, për shkak të zmbrapsjes mes protoneve. Alternativa e vetme ndaj neutroneve ishte ekzistenca e "elektroneve bërthamore", që do të neutralizonin një pjesë të ngarkesave protonike në bërthamë, pasi tashmë dihej se bërthamat kishin rreth dyfishin e masës që mund të shpjegohej nëse do të ishin thjesht të përbëra nga bërthama hidrogjeni (protone). Por si mund të kapeshin këto elektrone bërthamore brenda bërthamës, mbetej mister.
+
+Në 1932, teoria e Rutherfordit për neutronet u vërtetua nga bashkëpunëtori i tij James Chadwick, i cili i njohu neutronet menjëherë kur ato u prodhuan nga shkencëtarë të tjerë dhe më vonë nga vetë ai, duke bombarduar berilium me grimca alfa. Në 1935, Chadwick u nderua me Çmimin Nobel në Fizikë për këtë zbulim.<ref>{{cite web |title=James Chadwick – Facts |url=https://www.nobelprize.org/prizes/physics/1935/chadwick/facts/ |website=The Nobel Prize |publisher=Nobel Prize Outreach AB |access-date=16 June 2023 |language=en}}</ref>
+
+=== Reaksioni bërthamor i shkaktuar dhe hetimi i bërthamës ===
+Në artikullin katërpjesësh të Rutherfordit mbi "Përplasjen e grimcave α me atome të lehta" ai raportoi dy zbulime shtesë, themelore dhe me pasoja të gjera.<ref name=PaisInwardBound/> Së pari, ai tregoi se në kënde të larta shpërndarja e grimcave alfa nga hidrogjeni ndryshonte nga rezultatet teorike që ai vetë kishte botuar në 1911. Këto ishin rezultatet e para që hetuan ndërveprimet që e mbajnë bërthamën të bashkuar. Së dyti, ai tregoi se grimcat α që përplaseshin me bërthama azoti reagonin në vend që thjesht të kërcenin mënjanë. Njëri produkt i reaksionit ishte protoni; produkti tjetër u tregua nga Patrick Blackett, koleg dhe ish-student i Rutherfordit, se ishte oksigjeni:
+:<sup>14</sup>N + α → <sup>17</sup>O + p.
+Rutherfordi kështu njohu "se bërthama mund të rritet në masë, në vend që të zvogëlohet, si rezultat i përplasjeve në të cilat nxirret protoni".<ref>{{cite journal |last1=Rutherford |first1=Sir Ernest |title=Studies of Atomic Nuclei |date=27 March 1925 |journal=Science |volume=62 |issue=1601 |pages=73–76 |publisher=The Royal Institution Library of Sciences |doi=10.1126/science.62.1601.209 |language=en}}</ref>
+Blackett u nderua me Çmimin Nobel në 1948 për punën e tij në përsosjen e dhomës së resë me shpejtësi të lartë, aparat i përdorur për të bërë atë zbulim dhe shumë të tjerë.<ref>{{cite journal |title=Nobel Prize for Physics : Prof. P. M. S. Blackett, F.R.S |journal=Nature |volume=162 |issue=4126 |year=1948 |pages=841 |doi=10.1038/162841b0|language=en}}</ref>
+
+== Jeta personale dhe vdekja ==
+Në 1900, në kishën anglikane St Paul's në Papanui, Christchurch, Rutherfordi u martua me Mary Georgina Newton (1876–1954),<ref>{{Cite web| last=Intergen| title=General| url=https://www.bdmhistoricalrecords.dia.govt.nz/| access-date=8 February 2023| website=www.bdmhistoricalrecords.dia.govt.nz|language=en}}</ref> me të cilën ishte fejuar para se të largohej nga Zelanda e Re.<ref>{{cite web |url=http://www.stuff.co.nz/the-press/christchurch-life/560019/Family-history-in-from-the-cold |title=Family history in from the cold |date=18 March 2009 |access-date=3 July 2017 |language=en}}</ref><ref>{{cite web| first=Fiona| last=Summerfield| url=http://anglicantaonga.org.nz/news/tikanga_pakeha/new_lease_of_life_for_historic_chch_church| title=Historic St Paul's Church in the Christchurch suburb of Papanui is being fully restored| website=Anglican Taonga| date=9 November 2012| access-date=5 February 2019|language=en}}</ref> Patën një vajzë, Eileen Mary (1901–1930); ajo u martua me fizikantin Ralph Fowler, dhe vdiq gjatë lindjes së fëmijës së saj të katërt. Hobet e Rutherfordit përfshinin golfin dhe ngasjen e automjeteve.<ref name="Nobel Rutherford Biography" />
+
+Ndërsa punonte në Mançester, Rutherfordi jetoi në lagjen Withington, në Wilmslow Road. Shtëpia njihet sot si Rutherford Lodge dhe mori një pllakë përkujtimore blu në 2012.<ref>{{cite web| title=Famous Withingtonians | publisher=Withington Civic Society | location=UK | url=https://withingtoncivicsociety.co.uk/famous-withingtonians.html |language=en}}</ref> Ka gjithashtu një përmendore të vendosur në trotuar përpara Bibliotekës Withington.
+
+Për ca kohë para vdekjes së tij, Rutherfordi kishte një hernie të vogël, të cilën e la pa operuar, dhe përfundimisht u strangulua, duke e sëmurur rëndë. Iu bë një operacion urgjent në Londër, por vdiq në Kembrixh katër ditë më vonë, më 19 tetor 1937, në moshën 66-vjeçare, nga ajo që mjekët e quajtën "paralizë intestinale".<ref name=compeerage>{{cite book|title=The Complete Peerage, Volume XIII – Peerage Creations, 1901–1938|year=1949|publisher=St Catherine's Press|page=495|language=en}}</ref> Pas kremacionit në Golders Green Crematorium,<ref name=compeerage/> iu dha nderi i lartë i varrimit në {{ill|Abacia e Uestminsterit|en|Westminster Abbey|lt=Abacinë e Uestminsterit}}, pranë Isak Njutonit, Çarls Darvinit, dhe shkencëtarëve të tjerë të shquar britanikë.<ref name="Nobel Rutherford Biography"/><ref>{{Cite book|last=Heilbron|first=J. L.|title=Ernest Rutherford: And the Explosion of Atoms|date=2003-06-12|publisher=Oxford University Press|pages=123–124|isbn=978-0-19-512378-4|language=en}}</ref>
+
+== Njohja ==
+=== Anëtarësimet ===
+{| class="wikitable"
+! Viti
+! Organizata
+! Lloji
+! Referimi
+|-
+| 1903
+| {{Flagicon|UK}} {{ill|Royal Society|en|Royal Society}}
+| Anëtar (''Fellow'')
+| <ref>{{Cite web|title=Search Results|url=https://catalogues.royalsociety.org/CalmView/Record.aspx?src=CalmView.Persons&id=NA8278&pos=1|website=catalogues.royalsociety.org|access-date=2025-11-11|language=en}}</ref>
+|-
+| 1904
+| {{Flagicon|US|1896}} American Philosophical Society
+| Anëtar ndërkombëtar
+| <ref>{{Cite web|title=APS Member History|url=https://search.amphilsoc.org/memhist/search?creator=ernest+rutherford&title=&subject=&subdiv=&mem=&year=1904&year-max=&dead=&keyword=&smode=advanced|website=search.amphilsoc.org|access-date=2025-11-16|language=en}}</ref>
+|-
+| 1921
+| {{Flagicon|UK}} Royal Society of Edinburgh
+| Anëtar nderi
+| <ref>{{Cite book|title=Biographical Index of Former Fellows of the Royal Society of Edinburgh 1783 – 2002|publisher=Royal Society of Edinburgh|date=July 2006|page=325|language=en}}</ref>
+|}
+
+=== Çmimet ===
+{| class="wikitable"
+! Viti
+! Organizata
+! Çmimi
+! Arsyetimi
+! Referimi
+|-
+| 1904
+| {{Flagicon|UK}} {{ill|Royal Society|en|Royal Society}}
+| Medalja Rumford
+| "Për kërkimet e tij mbi radioaktivitetin, veçanërisht për zbulimin e ekzistencës dhe vetive të emanacioneve gazore nga trupat radioaktivë."
+| <ref>{{Cite web|title=Rumford Medal|url=https://royalsociety.org/medals-and-prizes/rumford-medal/|website=royalsociety.org|access-date=2024-06-19|language=en}}</ref>
+|-
+| 1908
+| {{Flagicon|Sweden}} Royal Swedish Academy of Sciences
+| {{ill|Çmimi Nobel për Kimi|en|Nobel Prize in Chemistry}}
+| "Për hulumtimet e tij mbi zbërthimin e elementeve dhe kiminë e substancave radioaktive."
+| <ref name="Nobel Prize"/>
+|-
+| 1910
+| {{Flagicon|US|1908}} Franklin Institute
+| Medalja Elliott Cresson
+| "Për punë të shquar në teorinë elektrike."
+| <ref>{{Cite web|title=Ernest Rutherford|url=https://fi.edu/en/awards/laureates/ernest-rutherford|publisher=Franklin Institute|access-date=2025-11-11|language=en}}</ref>
+|-
+| 1913
+| {{Flagicon|Kingdom of Italy}} Accademia dei XL
+| Medalja Matteucci
+| align=center | —
+| <ref>{{Cite web|title=Medaglie|url=https://www.accademiaxl.it/attivita/medaglie/|website=www.accademiaxl.it|language=it|access-date=2025-11-04}}</ref>
+|-
+| 1916
+| {{Flagicon|New Zealand}} Royal Society of New Zealand
+| Medalja Përkujtimore Hector
+| align=center | —
+| <ref>{{Cite web|title=Recipients|url=https://www.royalsociety.org.nz/what-we-do/medals-and-awards/hector-medal/recipients-3/|publisher=Royal Society of New Zealand|access-date=2021-02-16|language=en}}</ref>
+|-
+| 1922
+| {{Flagicon|UK}} {{ill|Royal Society|en|Royal Society}}
+| Medalja Copley
+| "Për kërkimet e tij në radioaktivitet dhe strukturën atomike."
+| <ref>{{Cite web|title=Copley Medal|url=https://royalsociety.org/medals-and-prizes/copley-medal/|website=royalsociety.org|access-date=2016-10-19|language=en}}</ref>
+|-
+| 1924
+| {{Flagicon|US|1912}} Franklin Institute
+| Medalja Franklin
+| "Për njohuritë mbi elementet kimike, përbërjen dhe marrëdhëniet e tyre."
+| <ref>{{Cite web|title=Ernest Rutherford|url=https://fi.edu/en/awards/laureates/ernest-rutherford-0|publisher=Franklin Institute|access-date=2025-11-11|language=en}}</ref>
+|-
+| 1928
+| {{Flagicon|UK}} Royal Society of Arts
+| Medalja Albert
+| align=center | —
+| <ref>{{Cite web|title=The Albert Medal| publisher=Royal Society of Arts|url=http://www.thersa.org/about-us/history-and-archive/medals/albert-medal|access-date=2011-03-09|language=en}}</ref>
+|-
+| 1930
+| {{Flagicon|UK}} Institution of Electrical Engineers
+| Medalja Faraday
+| align=center | —
+| <ref>{{Cite web|title=The Faraday Medallists|url=https://www.theiet.org/membership/library-and-archives/the-iet-archives/iet-history/awards-and-prizes-index/the-faraday-medallists|website=www.theiet.org|access-date=2025-10-31|language=en}}</ref>
+|-
+| 1936
+| {{Flagicon|UK}} Royal Society of Chemistry
+| Çmimi i Leksionit Faraday
+| align=center | —
+| <ref>{{Cite web|title=Faraday Lectureship Prize - previous winners|url=http://www.rsc.org/ScienceAndTechnology/Awards/FaradayLectureshipPrize/PreviousWinners.asp|url-status=dead|publisher=Royal Society of Chemistry|archive-url=https://web.archive.org/web/20241108220123/https://www.rsc.org/prizes-funding/prizes/find-a-prize/faraday-division-open-award-faraday-lectureship-prize/previous-winners/|archive-date=2024-11-08|access-date=2010-03-05|language=en}}</ref>
+|-
+| 1936
+| {{Flagicon|Austria}} Shoqata Tregtare Austriake
+| Medalja Wilhelm Exner
+| align=center | —
+| <ref>{{Cite web|title=Lord Ernest Rutherford of Nelson|url=https://www.wilhelmexner.org/en/medalists/lord-ernest-rutherford-of-nelson/|publisher=Austrian Trade Association|access-date=2025-11-11|language=en}}</ref>
+|}
+
+=== Kalorësia ===
+{| class="wikitable"
+! Viti
+! Kreu i shtetit
+! Titulli/Urdhri
+! Referimi
+|-
+| 1914
+| {{Flagicon|UK}} George V
+| Kalorës (''Knight Bachelor'')
+| <ref>{{Cite magazine |title=No. 12647 |url=https://www.thegazette.co.uk/Edinburgh/issue/12647/page/269 |magazine=The Edinburgh Gazette |date=1914-02-27 |page=269 |language=en}}</ref>
+|-
+| 1925
+| {{Flagicon|UK}} George V
+| Urdhri i Meritës
+| <ref>{{Cite magazine |title=No. 14089 |url=https://www.thegazette.co.uk/Edinburgh/issue/14089/page/4 |magazine=The Edinburgh Gazette |date=1925-01-02 |page=4 |language=en}}</ref>
+|-
+| 1931
+| {{Flagicon|UK}} George V
+| [[Baroni]]
+| <ref>{{Cite magazine |title=No. 33683 |url=https://www.thegazette.co.uk/London/issue/33683/page/533 |magazine=The London Gazette |date=1931-01-23 |page=533 |language=en}}</ref>
+|}
+
+== Trashëgimia ==
+[[File:Statue of Ernest Rutherford.JPG|right|thumb|Statujë e Ernest Rutherfordit të ri, pranë përmendores së tij në Brightwater, Zelanda e Re.]]
+
+Në sesionin hapës të Kongresit Indian të Shkencës të vitit 1938, ku Rutherfordi pritej të kryesonte para vdekjes së tij, astrofizikani James Jeans foli në vend të tij dhe e vlerësoi si "një nga shkencëtarët më të mëdhenj të të gjitha kohërave", duke thënë:
+
+{{blockquote|Në aftësinë e tij për të gjetur linjën e duhur të qasjes ndaj një problemi, si dhe në thjeshtësinë e drejtpërdrejtë të metodave të tij të sulmit, [Rutherfordi] shpesh na kujton Faradayn, por kishte dy avantazhe të mëdha që Faradayi nuk i kishte: së pari, shëndet dhe energji të bollshme trupore, dhe së dyti, mundësinë dhe kapacitetin për të drejtuar një grup bashkëpunëtorësh entuziastë. Sado i madh të ketë qenë prodhimi i punës së Faradayt, më duket se për ta barazuar punën e Rutherfordit në sasi po aq sa në cilësi, duhet të kthehemi te Njutoni. Në disa aspekte ai qe më me fat se Njutoni. Rutherfordi ishte gjithnjë luftëtari i lumtur — i lumtur në punën e tij, i lumtur në rezultatin e saj, dhe i lumtur në kontaktet e saj njerëzore.<ref>{{cite news |title=Viceroy Opens The Congress – Sir James Jeans's Address|work=The Times |location=Calcutta |date=3 January 1938 |language=en}}</ref>}}
+Rutherfordi ka qenë i paraqitur në pulla postare nga të paktën katër vende.<ref name="McLintock" /> Që nga viti 1999 shfaqet në kartëmonedhën prej njëqind dollarësh të Zelandës së Re.<ref name=":1" />
+
+=== Fizika bërthamore ===
+Rutherfordi njihet si "ati i fizikës bërthamore" sepse kërkimi i tij, dhe puna e kryer nën të si drejtor laboratori, vendosën strukturën bërthamore të atomit dhe natyrën thelbësore bërthamore të dezintegrimit radioaktiv.<ref name=Father/><ref>{{cite web |title=Ernest Rutherford: father of nuclear science |url=https://media.newzealand.com/en/story-ideas/ernest-rutherford-father-of-nuclear-science/ |website=New Zealand Media Resources |language=en}}</ref><ref name=Hindu>{{cite web |title=Know the scientist: Ernest Rutherford |url=https://www.thehindu.com/children/know-the-scientist-ernest-rutherford/article34837002.ece |website=The Hindu |access-date=23 June 2023 |language=en-IN |date=17 June 2021}}</ref> Patrick Blackett, bashkëpunëtor kërkimor nën Rutherfordin, duke përdorur grimca alfa natyrore, demonstroi transmutacionin bërthamor ''të shkaktuar''. Më vonë, ekipi i Rutherfordit, duke përdorur protone nga një përshpejtues, demonstroi reaksione bërthamore dhe transmutacion ''të shkaktuar artificialisht''.<ref>{{cite web |last1=Giunta |first1=Carmen |title=Rutherford and Blackett artificial transmutation |url=https://web.lemoyne.edu/giunta/classicalcs/ruthblack.html |website=web.lemoyne.edu |access-date=27 June 2023 |date=2019 |language=en}}</ref>
+
+Rutherfordi vdiq shumë herët për të parë realizimin e idesë së Leó Szilárdit për reaksione zinxhir bërthamore të kontrolluara. Megjithatë, një fjalim i Rutherfordit mbi transmutacionin e shkaktuar artificialisht të litiumit, botuar në numrin e 12 shtatorit 1933 të ''The Times'', u raportua nga Szilárdi si frymëzimi i tij për të menduar mbi mundësinë e një reaksioni zinxhir bërthamor, energji-prodhues dhe të kontrolluar.<ref>{{cite web |title=September 12, 1933 – Leó Szilárd conceives the idea of the nuclear chain reaction |url=https://rinconeducativo.org/en/anniversaries/september-12-1933-leo-szilard-conceives-the-idea-of-the-nuclear-chain-reaction/ |website=Rincón educativo |access-date=27 June 2023 |language=es, en}}</ref>
+
+Fjalimi i Rutherfordit prekte punën e vitit 1932 të studentëve të tij John Cockcroft dhe Ernest Walton në "ndarjen" e litiumit në grimca alfa nëpërmjet bombardimit me protone nga një përshpejtues grimcash që kishin ndërtuar vetë. Rutherfordi e kuptoi se energjia e çliruar nga atomet e ndara të litiumit ishte e jashtëzakonshme, por kuptoi gjithashtu se energjia e nevojshme për përshpejtuesin, dhe joefikasiteti i tij thelbësor në ndarjen e atomeve në këtë mënyrë, e bënin projektin një pamundësi si burim praktik energjie (fisioni i shkaktuar nga përshpejtuesi i elementeve të lehta mbetet shumë joefikas për t'u përdorur në këtë mënyrë, edhe sot). Fjalimi i Rutherfordit, pjesërisht, thoshte:
+
+{{blockquote|Në këto procese mund të merrnim shumë më tepër energji sesa ajo e siguruar nga protoni, por mesatarisht nuk mund të prisnim të merrnim energji në këtë mënyrë. Ishte një mënyrë shumë e dobët dhe joefikase e prodhimit të energjisë, dhe kushdo që kërkonte një burim fuqie në transformimin e atomeve po fliste marrëzi. Por tema ishte shkencërisht interesante sepse jepte njohuri mbi atomet.<ref>{{Cite news|work=The Times |title=The British association – breaking down the atom |date=12 September 1933|language=en}}</ref><ref>{{cite book|last=Rhodes |first=Richard |title=The Making of the Atomic Bomb |location=New York |publisher=Simon and Schuster |year=1986 |page=27 |isbn=0-671-44133-7|language=en}}</ref>}}
+
+Elementi [[Rutherfordiumi]], Rf, Z=104, u emërtua në nder të Rutherfordit në 1997.<ref>{{cite news|author=Freemantle, Michael|title=ACS Article on Rutherfordium|url=http://pubs.acs.org/cen/80th/print/rutherfordium.html|work=Chemical & Engineering News|publisher=American Chemical Society|year=2003|access-date=2 April 2008|language=en}}</ref>
+
+== Në kulturën popullore ==
+Andrew Hodwitz e portretizon Rutherfordin në episodin 11 të sezonit 13 të serisë detektive kanadeze ''Murdoch Mysteries'' (13 janar 2020).
+
+== Botime ==
+
+=== Libra ===
+* [https://archive.org/details/radioactivity00ruthgoog ''Radio-activity''] (1904),<ref>{{cite journal|url=https://books.google.com/books?id=WTPmAAAAMAAJ&pg=PA347|page=347|volume=23|title=Review of ''Radio-activity'' by Ernest Rutherford|journal=The Oxford Magazine|date=January 25, 1905|publisher=The Proprietors|access-date=22 March 2023|language=en}}</ref> botimi i 2-të (1905), {{ISBN|978-1-60355-058-1}}
+* [https://archive.org/details/radioactivetran02ruthgoog ''Radioactive Transformations'' (1906)], {{ISBN|978-1-60355-054-3}}
+* {{Cite book|title=Radioaktive Substanzen und ihre Strahlungen|publisher=University press|location=Cambridge|year=1933|language=en|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=11020002}}
+* {{Cite book|title=Radioaktive Substanzen und ihre Strahlungen|publisher=Akademische Verlaggesellschaft|location=Leipzig|year=1913|language=de|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=6739518}}
+* [https://archive.org/details/radioactivesubst00ruthuoft ''Radioactive Substances and their Radiations'' (1913)]<ref>{{cite journal|author=Carmichael, R. D.|title=Book Review: Radioactive Substances and their Radiations|journal=Bulletin of the American Mathematical Society|year=1916|volume=22|issue=4|page=200|url=https://www.ams.org/journals/bull/1916-22-04/S0002-9904-1916-02762-5/S0002-9904-1916-02762-5.pdf|doi=10.1090/s0002-9904-1916-02762-5|doi-access=free|access-date=28 April 2021|language=en}}</ref>
+* ''The Electrical Structure of Matter'' (1926)
+* ''The Artificial Transmutation of the Elements'' (1933)
+* ''The Newer Alchemy'' (1937)
+
+=== Artikuj ===
+* {{cite journal |author=Ernest Rutherford |year=1899 |title=Uranium Radiation and the Electrical conduction Produced by it |journal=Philosophical Magazine |volume=47 |issue=284 |pages=109–163|url=https://archive.org/details/londonedinburgh5471899lon/page/108/mode/2up|language=en}}
+* {{cite journal |author=Ernest Rutherford |date=1903 |title=XV. The Magnetic and Electric Deviation of the easily absorbed Rays from Radium |journal=Philosophical Magazine |series=6 |volume=5 |page=177-187 |url=https://archive.org/details/londonedinburgh651903lond/page/176/mode/2up|language=en}}
+* {{cite journal |author1=Ernest Rutherford |year=1906 |title=The Mass and Velocity of the α particles expelled from Radium and Actinium |journal=Philosophical Magazine |series=Series 6 |volume=12 |issue=70 |pages=348–371 |doi=10.1080/14786440609463549 |url=https://zenodo.org/record/1430814 |ref=refRutherford1906 |language=en}}
+* {{Cite journal |author1=Ernest Rutherford |author2=Thomas Royds |date=1909 |title=XXI. The nature of the α particle from radioactive substances |url=https://archive.org/details/londonedinburg6171909lond/page/280/mode/2up |journal=The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science |language=en |volume=17 |issue=98 |pages=281–286 |doi=10.1080/14786440208636599 |issn=1941-5982}}
+* {{cite journal |author1=Ernest Rutherford |year=1911 |title=The Scattering of α and β Particles by Matter and the Structure of the Atom |url=https://web.mit.edu/8.13/8.13c/references-fall/rutherford/rutherford-scattering-of-alpha-and-beta-particles.pdf |journal=Philosophical Magazine |series=Series 6 |volume=21 |issue=125 |pages=669–688 |doi=10.1080/14786440508637080 |ref=refRutherford1911 |language=en}}
+* {{cite journal |author1=Ernest Rutherford |year=1912 |title=The origin of β and γ rays from radioactive substances |url=https://zenodo.org/record/1430890 |journal=Philosophical Magazine |series=Series 6 |volume=24 |issue=142 |pages=453–462 |doi=10.1080/14786441008637351 |ref=refRutherford1912 |language=en}}
+* {{cite journal |author1=Ernest Rutherford |author2=John Mitchell Nuttal |year=1913 |title=Scattering of α-Particles by Gases |url=https://archive.org/details/ClassicalScientificPapersPhysics |journal=Philosophical Magazine |series=Series 6 |volume=26 |issue=154 |pages=702–712 |doi=10.1080/14786441308635014 |ref=refRutherfordNuttal1913 |language=en}}
+* {{cite journal |author1=Ernest Rutherford |year=1914 |title=The Structure of the Atom |url=http://www.chemteam.info/Chem-History/Rutherford-1914.html |journal=Philosophical Magazine |series=Series 6 |volume=27 |issue=159 |pages=488–498 |doi=10.1080/14786440308635117 |language=en}}
+* {{cite book |author1=Ernest Rutherford |year=1938 |chapter=Forty Years of Physics |editor-last1=Needham |editor-first1=Joseph |editor-last2=Pagel |editor-first2=Walter |title=Background to Modern Science: Ten Lectures at Cambridge arranged by the History of Science Committee 1936 |chapter-url=https://archive.org/details/backgroundtomode032734mbp/page/n85/mode/2up |publisher=Cambridge University Press |language=en}}
+* {{cite book |author1=Ernest Rutherford |year=1913 |title=Radioactive Substances and their Radiations |url=https://archive.org/details/radioactivesubst00ruthuoft |publisher=Cambridge University Press |language=en}}
+* {{cite journal |author1=Ernest Rutherford |year=1936 |title=Radioactivity and Atomic Structure |journal=Journal of the Chemical Society |volume=1936 |pages=508–516 |doi=10.1039/JR9360000508 |ref=refRutherford1936 |language=en}}
+* "Disintegration of the Radioactive Elements" ''Harper's Monthly Magazine,'' janar 1904, faqe 279–284.
+
+== Shiko edhe ==
+* {{ill|Ekuacioni Bateman|en|Bateman equation}}
+* {{ill|Hidrofoni|en|Hydrophone}}
+* {{ill|Detektori magnetik|en|Magnetic detector}}
+* {{ill|Gjeneratori i neutroneve|en|Neutron generator}}
+* {{ill|Royal Society of New Zealand|en|Royal Society of New Zealand}}
+* {{ill|Rutherford (njësi)|en|Rutherford (unit)}}
+* {{ill|Rutherfordina|en|Rutherfordine}}
+* ''{{ill|The Rutherford Journal|en|The Rutherford Journal}}''
+* {{ill|Lista e presidentëve të Royal Society|en|List of presidents of the Royal Society}}
+
+== Referime ==
+{{Reflist}}
+
+== Lexime shtesë ==
+* {{Cite journal | last1 = Cragg | first1 = R. H. | title = Lord Ernest Rutherford of Nelson (1871–1937) | doi = 10.1039/RR9710400129 | journal = Royal Institute of Chemistry, Reviews | volume = 4 | issue = 2 | page = 129| year = 1971 |language=en}}
+* Campbell, John. (1999) [http://www.rutherford.org.nz/bkcamrss.htm ''Rutherford: Scientist Supreme''], AAS Publications, Christchurch, {{ISBN|0-4730-5700-X}}
+* {{Cite journal | last1 = Marsden | first1 = E. | year = 1954 | title = The Rutherford Memorial Lecture, 1954. Rutherford-His Life and Work, 1871–1937 | journal = Proceedings of the Royal Society A | volume = 226 | issue = 1166 | pages = 283–305| doi = 10.1098/rspa.1954.0254 |language=en}}
+* Reeves, Richard (2008). ''A Force of Nature: The Frontier Genius of Ernest Rutherford''. New York: W. W. Norton. {{ISBN|0-393-33369-8}}
+* Rhodes, Richard (1986). ''The Making of the Atomic Bomb''. New York: Simon & Schuster. {{ISBN|0-671-44133-7}}
+* Wilson, David (1983). ''Rutherford. Simple Genius'', Hodder & Stoughton, {{ISBN|0-340-23805-4}}
+* Wright, Matthew (2025). ''Ernest Rutherford and the Birth of Modern Physics'', Scribe, {{ISBN|978-1-915590-96-1}}
+
+== Lidhje të jashtme ==
+* [https://history.aip.org/exhibits/rutherford/ Biografi dhe ekspozitë web] American Institute of Physics
+* [https://www.nobelprize.org/laureate/167 Ernest Rutherford] në NobelPrize.org — përfshirë Leksionin Nobel, 11 dhjetor 1908, ''The Chemical Nature of the Alpha Particles from Radioactive Substances''
+* [http://www.physics.mcgill.ca/museum/rutherford_museum.htm The Rutherford Museum]
+* [http://www.rutherford.org.nz/ Rutherford Scientist Supreme]
+* {{Cite web |title=Ernest Rutherford, 150th anniversary |url=https://sebastienfritsch.wixsite.com/ernestrutherford150?lang=en |access-date=2024-06-29 |language=en}} — Faqe e mirëdokumentuar me detaje mbi jetën e Rutherfordit.
+
+{{S-start}}
+{{S-aca}}
+{{S-bef|before=Arthur Schuster}}
+{{S-ttl|title=Profesor Langworthy<br />në University of Manchester| years=1907–1919}}
+{{S-aft|after=Lawrence Bragg}}
+{{S-bef|before=J. J. Thomson}}
+{{S-ttl|title=Profesor Cavendish i Fizikës Eksperimentale, [[Universiteti i Kembrixhit]]|years=1919–1937}}
+{{S-aft|after=Lawrence Bragg}}
+{{S-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rutherford, Ernest}}
+[[Kategoria:Ernest Rutherford| ]]
+[[Kategoria:Lindje 1871]]
+[[Kategoria:Vdekje 1937]]
+[[Kategoria:Fizikanë eksperimentalë]]
+[[Kategoria:Fizikanë bërthamorë neozelandezë]]
+[[Kategoria:Pionierë të radios]]
+[[Kategoria:Nobelistë të Kimisë]]
+[[Kategoria:Marrës të Medaljes Copley]]
+[[Kategoria:Presidentë të Royal Society]]
+[[Kategoria:Baronë në Kryelordësinë e Mbretërisë së Bashkuar]]
+[[Kategoria:Njerëz nga Brightwater]]
+[[Kategoria:Nobelistë britanikë]]
+[[Kategoria:Nobelistë neozelandezë]]
+[[Kategoria:Varrime në Abacinë e Uestminsterit]]
+[[Kategoria:Zbulues të elementeve kimike]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Ernest Rutherford|27 gusht 2026|1371151409}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Ernest Rutherford, versioni i datës 27 gusht 2026 (revizioni 1371151409)
+-->

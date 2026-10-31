@@ -1,0 +1,132 @@
+{{Short description|Softuer i simulimit të raketave me burim të hapur}}
+
+{{Use dmy dates|date=August 2026}}
+
+{{Infobox software
+| name = OpenRocket
+| logo = OpenRocket logo.png
+| screenshot = OpenRocket 22.02 home screen.png
+| caption = Ekrani kryesor i OpenRocket 22.02
+| author = Sampo Niskanen
+| developer = Ekipi i zhvillimit të OpenRocket
+| released = {{Start date and age|2009|df=yes}}
+| latest_release_version = 24.12
+| latest_release_date = {{Start date|2025|7|27|df=yes}}
+| repo = {{URL|https://github.com/openrocket/openrocket}}
+| programming_language = [[Java (gjuhë programimi)|Java]]
+| operating_system = [[Linux]], [[MacOS]], [[Microsoft Windows|Windows]]
+| genre = Dizajni dhe simulimi i fluturimit të raketave model
+| license = [[Licenca Publike e Përgjithshme GNU|GPL-3.0]]
+| website = {{URL|https://openrocket.info/}}
+}}
+
+'''OpenRocket''' është një aplikacion falas dhe me burim të hapur për dizajnimin e {{ill|Raketa model|en|Model rocket|lt=raketave model}} dhe simulimin e fluturimit të tyre. Programi ofron një mjedis dizajni të bazuar në komponentë, së bashku me analizën aerodinamike, llogaritjet e qëndrueshmërisë dhe simulimin e fluturimit.<ref name="Bernard2013">{{Cite magazine
+|last=Bernard
+|first=Joey
+|title=Design Your Own Rocket
+|magazine=Linux Journal
+|date=2013-03-18
+|language=en
+}}</ref> Është shkruar në [[Java (gjuhë programimi)|Java]] dhe është i disponueshëm për Windows, macOS dhe Linux.<ref name="Bernard2013" />
+
+OpenRocket u zhvillua fillimisht nga Sampo Niskanen si pjesë e tezës së tij të masterit në vitin 2009 në {{ill|Universiteti Teknologjik i Helsinkit|en|Helsinki University of Technology|lt=Universitetin Teknologjik të Helsinkit}}.<ref name="Niskanen2009">{{Cite thesis
+|last=Niskanen
+|first=Sampo
+|title=Development of an Open Source model rocket simulation software
+|type=Tezë masteri
+|publisher=Helsinki University of Technology
+|year=2009
+|language=en
+}}</ref>
+
+== Historia ==
+
+OpenRocket e ka origjinën në tezën e masterit të Niskanen, e cila hulumtoi metodat për llogaritjen e vetive aerodinamike dhe të trajektoreve të fluturimit të raketave model dhe i zbatoi këto metoda në një aplikacion softuerik me burim të hapur.<ref name="Niskanen2009" /> Puna u bazua pjesërisht në metodat aerodinamike të zhvilluara nga James Barrowman, me zgjerime për efekte si këndet e mëdha të sulmit dhe fletët me formë të lirë. Teza përshkruante gjithashtu modelimin atmosferik dhe një simulim fluturimi me gjashtë shkallë lirie.<ref name="Niskanen2009" />
+
+Zhvillimi ka vazhduar si një projekt me burim të hapur. Programi aktualisht publikohet nën [[Licenca Publike e Përgjithshme GNU|Licencën Publike të Përgjithshme GNU]].<ref>{{Cite journal|last=Eerland|first=Willem J.|last2=Box|first2=Simon|last3=Sóbester|first3=András|date=2017-02-21|title=Cambridge Rocketry Simulator – A Stochastic Six-Degrees-of-Freedom Rocket Flight Simulator|journal=Journal of Open Research Software|volume=5|issue=5|doi=10.5334/jors.137|doi-access=free|issn=2049-9647|language=en}}</ref>
+
+== Dizajni dhe simulimi ==
+
+OpenRocket lejon ndërtimin e raketave nga komponentë, duke përfshirë konuset e hundës, tubat e trupit, fletët, komponentët e brendshëm, pajisjet e rikuperimit dhe motorët e raketës. Ndërsa një dizajn modifikohet, programi llogarit madhësi të tilla si {{ill|Qendra e gravitetit|en|Center of gravity|lt=qendra e gravitetit}} dhe {{ill|Qendra e presionit|en|Center of pressure|lt=qendra e presionit}} e raketës.<ref name="Bernard2013" />
+
+Programi mund të analizojë kontributin e komponentëve individualë në vetitë aerodinamike, duke përfshirë qëndrueshmërinë, rezistencën dhe rrotullimin. Ai mund të simulojë gjithashtu një fluturim të plotë nën kushte atmosferike dhe kushte lëshimi të përcaktuara nga përdoruesi.<ref name="Bernard2013" /> Modeli i tij i simulimit përdor metoda aerodinamike empirike të bazuara në gjeometrinë e raketës.<ref name="Brown2019">{{Cite journal
+|last1=Brown
+|first1=William
+|last2=Wiesneth
+|first2=Michael
+|last3=Faust
+|first3=Thomas
+|last4=Huynh
+|first4=Nghia
+|last5=Montalvo
+|first5=Carlos
+|last6=Lino
+|first6=Kent
+|last7=Tindell
+|first7=Andrew
+|title=Measured and simulated analysis of a model rocket
+|journal=Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering
+|volume=233
+|issue=4
+|pages=1397–1411
+|year=2019
+|doi=10.1177/0954410017752730
+|language=en
+}}</ref>
+
+== Mbulimi dhe përdorimi ==
+
+Në vitin 2013, ''Linux Journal'' botoi një artikull të detajuar nga Joey Bernard që demonstronte përdorimin e OpenRocket për dizajnimin, analizimin, optimizimin dhe simulimin e raketave model.<ref name="Bernard2013" /> Në vitin 2018, numri 12 i revistës ''HackSpace'' përfshinte një tutorial nga Jo Hinchliffe mbi dizajnimin dhe simulimin e një rakete model duke përdorur OpenRocket.<ref name="Hinchliffe2018">{{Cite magazine
+|last=Hinchliffe
+|first=Jo
+|title=Design your own rocket
+|magazine=HackSpace
+|issue=12
+|publisher=Raspberry Pi Ltd
+|date=November 2018
+|language=en
+}}</ref>
+
+OpenRocket është shqyrtuar edhe në kërkimin inxhinierik. Brown dhe bashkëautorët krahasuan një simulim me OpenRocket të një rakete të ndërtuar nga studentë me të dhëna fluturimi të matura dhe me një simulim të dinamikës së trupit të ngurtë që përdorte koeficientë aerodinamikë të nxjerrë nga testimet në tunel me erë dhe nga dinamika llogaritëse e lëngjeve.<ref name="Brown2019" />
+
+Në vitin 2025, Jacob Schrum dhe Cody Crosby përdorën OpenRocket si mjedisin e simulimit në një studim që zbatonte algoritme të diversitetit të cilësisë për dizajnimin e raketave model. Dizajnet e gjeneruara në studim u prodhuan dhe u lëshuan më pas, duke u mundësuar hulumtuesve të shqyrtojnë dallimet midis sjelljes së simuluar dhe asaj në botën reale.<ref name="Schrum2025">{{Cite conference
+|last1=Schrum
+|first1=Jacob
+|last2=Crosby
+|first2=Cody
+|title=A Quality Diversity Approach to Evolving Model Rockets
+|book-title=Proceedings of the Genetic and Evolutionary Computation Conference
+|series=GECCO '25
+|year=2025
+|pages=1471–1479
+|doi=10.1145/3712256.3726338
+|arxiv=2504.02177
+|language=en
+}}</ref>
+
+== Shiko edhe ==
+
+* {{ill|Raketat model|en|Model rocketry}}
+* {{ill|Dinamika e fluturimit|en|Flight dynamics}}
+
+== Referime ==
+
+{{Reflist}}
+
+== Lidhje të jashtme ==
+
+* [http://openrocket.info/ Faqja zyrtare]
+* [https://github.com/openrocket/openrocket Repozitori i burimit të OpenRocket]
+
+[[Kategoria:Softuer i Projektit GNU]]
+[[Kategoria:Softuer falas i dizajnit të ndihmuar nga kompjuteri]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|OpenRocket|24 gusht 2026|1371039698}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:OpenRocket, versioni i datës 24 gusht 2026 (revizioni 1371039698).
+-->

@@ -1,0 +1,235 @@
+{{Pa referenca|qendrat e banuara të Pulias|qershor 2024}}
+{{Infobox settlement
+| name = Casalvecchio di Puglia
+| image_skyline = Casalvecchio di Puglia.jpg
+| image_shield = Casalvecchio di Puglia-Stemma.png
+| leader_title = Kryetar bashkie
+| leader_name = Noè Andreano
+| leader_party = {{ill|listë qytetare|it|lista civica}}
+| image_map = Map of comune of Casalvecchio di Puglia (province of Foggia, region Apulia, Italy).svg
+| map_caption = Vendndodhja e komunës së Casalvecchio di Puglia në provincën e Foxhës
+| subdivision_type = Shteti
+| subdivision_name = [[Italia]]
+| subdivision_type1 = Rajoni
+| subdivision_name1 = [[Pulia]]
+| subdivision_type2 = Provinca
+| subdivision_name2 = [[Foxha]]
+| population_total = 1&nbsp;612
+| blank_name_sec1 = Emri i banorëve
+| blank_info_sec1 = casalvecchiesi (në [[Gjuha arbëreshe (Itali)|arbëreshisht]] ''Kazallveqotra'')
+| blank1_name_sec1 = Komunat fqinje
+| blank1_info_sec1 = {{ill|Casalnuovo Monterotaro|it}}, {{ill|Castelnuovo della Daunia|it}}, Pietramontecorvino, Torremaggiore
+| blank2_name_sec1 = Zona sizmike
+| blank2_info_sec1 = 2
+| blank3_name_sec1 = Gradi-ditë
+| blank3_info_sec1 = 1851
+| blank4_name_sec1 = Pajtorët
+| blank4_info_sec1 = {{ill|Zoja e Hireve|it|Madonna delle Grazie}}, [[Shën Nikolla i Barit]] (bashkëpajtor)
+| blank5_name_sec1 = Ditët festive
+| blank5_info_sec1 = e diela e tretë e majit, e hëna e tretë e majit
+}}
+
+'''Casalvecchio di Puglia''' (''Kazallveqi'' në [[Gjuha arbëreshe (Itali)|arbëreshisht]]; deri më [[1862]] quhej ''Casalvecchio'') është një [[Komuna (Itali)|komunë italiane]] me 1&nbsp;612 banorë në [[Provinca e Foxhës|provincën e Foxhës]], në [[Pulia]].
+
+Ai ka ruajtur pjesërisht kulturën [[Arbëreshët në Itali|arbëreshe]] dhe përdorimin e [[Gjuha arbëreshe (Itali)|gjuhës arbëreshe]].
+
+== Gjeografia fizike ==
+Komuna ndodhet në lartësinë {{Val|465|u=m slm}} në pjesën veriore të Subappennino dauno, mes qendrave fqinje {{ill|Casalnuovo Monterotaro|it}} dhe {{ill|Castelnuovo della Daunia|it}}.<ref>{{Cite web|url=http://www.comune.casalvecchiodipuglia.fg.it/web/guest/la-citta|title=La città - Comune di Casalvecchio di Puglia|access-date=2020-03-01|archive-url=https://web.archive.org/web/20190829124130/http://www.comune.casalvecchiodipuglia.fg.it/web/guest/la-citta|dead-url=yes|language=it}}</ref>
+
+== Origjina e emrit ==
+Emri i parë i Casalvecchio di Puglia ishte «Casale». Meqë «Casale» në fillesat e ekzistencës së vet përbënte ''unum corpus'' me Castelluccio degli Schiavi (sot Castelnuovo della Daunia), për një kohë jo të papërfillshme mbeti në errësirë.<ref>Mario Massaro, Giovanna Fratta, Rosa Ferrucci (red.), ''Gli Arbëreshë di Casalvecchio'', f. 69</ref> Nga fundi i shekullit XVI shfaqet me emrin «Casale di Castelluccio degli Schiavi»,<ref name=":71">Mario Massaro, Giovanna Fratta, Rosa Ferrucci (red.), ''Gli Arbëreshë di Casalvecchio'', f. 71</ref> «Sanctus Petrus de Castelluccio».<ref>{{Cite book|author=Pasquale Corsi|title=Castelnuovo della Daunia nel Medioevo: testimonianze ed ipotesi per una storia da riscoprire|year=2000|location=Foggia|language=it}}</ref> Në literaturë njihet edhe si «Casalvecchio degli Albanesi».<ref name=":71" />
+
+Pas [[Bashkimi i Italisë|bashkimit të Italisë]] (1861), me një dekret mbretëror, kryetarëve të komunave të [[Mbretëria e Italisë|Mbretërisë së Italisë]] me emra të njëjtë iu kërkua t’i shtonin emrit të vendbanimit një prapashtesë që identifikonte jetën e popullsisë. Më 26 tetor 1862, kryetari i bashkisë së Casalvecchio vendosi t’i shtonte emrit «di Puglia», që të dallohej nga [[Casalvecchio Siculo]].<ref>Statistica del Regno d'Italia - Popolazione Censimento Generale, f. 255.</ref>
+
+== Historia ==
+Për historinë e Casalvecchio ka të dhëna vetëm deri në shekullin XIII, kur ai ishte pjesë e baronisë së familjes De Parisio dhe, më pas, e Jean Britaud; për dy shekujt pasues nuk ka mbetur asnjë kujtim.
+
+Pasi u rrafshua me tokën më 1461 nga [[Skënderbeu|Gjergj Kastrioti Skënderbeu]], vendbanimi u rithemelua nga një grup refugjatësh [[Arbëreshët në Itali|greko-shqiptarë]], të cilët, për t’i shpëtuar pushtimit osman të Ballkanit, u shpërngulën masivisht në Italinë e Jugut.
+
+Fillimisht ata u vendosën rreth tre kilometra larg Casalvecchio, në komunën e [[Castelnuovo della Daunia|Castelnuovo della Daunia]], ku jetuan afërsisht nga viti 1468 deri më 1476. Megjithatë, bashkëjetesa ishte e vështirë që në fillim dhe mosmarrëveshjet mes refugjatëve dhe komunitetit të Castelnuovos vazhduan edhe përtej dekadave të para të shekullit XVI. Atëherë greko-shqiptarët i braktisën banesat e tyre dhe u vendosën në fshatin e afërt që varej prej tij, i cili, sipas dokumenteve të lashta, deri atëherë quhej Sanctus Petrus de Castelluccio dhe më pas mori emrin Casalvecchio di Puglia.<ref>{{Cite web|url=http://www.comune.casalvecchiodipuglia.fg.it/web/guest/la-storia|title=La storia - Comune di Casalvecchio di Puglia|access-date=2020-03-01|archive-url=https://web.archive.org/web/20190829124247/http://www.comune.casalvecchiodipuglia.fg.it/web/guest/la-storia|dead-url=yes|language=it}}</ref>
+
+Banorët e tij janë [[Arbëreshët në Itali|arbëreshë]]. Megjithëse e kanë braktisur [[Liturgjia bizantine|ritin bizantin]], ata ruajnë gjuhën arbëreshe dhe traditat e paraardhësve të tyre ''greko-shqiptarë''. Casalvecchio përbën një nga të ashtuquajturat «ishuj gjuhësorë», ku banorët e moshuar flasin ende dialektin me origjinë të huaj.
+=== Simbolet ===
+Stema dhe flamuri ceremonial u miratuan me dekret presidencial më 30 maj 1974.<ref>{{cite web|url=http://dati.acs.beniculturali.it/comuni/comuni.printDetail.html?1301|title=Casalvecchio di Puglia|access-date=2026-03-15|publisher=Archivio Centrale dello Stato|website=Ufficio araldico - Fascicoli comunali|language=it}}</ref>
+Stema komunale përbëhet nga një mburojë samnite me sfond argjendi, ku paraqitet një shenjtor me aureolë të artë, i veshur me të gjelbër, që mban në dorën e majtë një shpatë të së njëjtës ngjyrë, të vendosur vertikalisht, dhe në të djathtën një fener në ngjyrat natyrore.<ref>{{Cite journal|url=https://burp.regione.puglia.it/documents/20135/205063/COMUNE+DI+CASALVECCHIO+DI+PUGLIA+%28Foggia%29+%28id+5277739%29.pdf/a86dd58b-2d4e-f23d-310d-0ced026430b8?t=1622220222794|journal=Bollettino ufficiale della Regione Puglia|issue=74|date=2005-05-17|author=Comune di Casalvecchio di Puglia|title=Statuto Comunale|language=it}}</ref>
+Flamuri ceremonial është një pëlhurë e ndarë horizontalisht, me ngjyrë të verdhë sipër dhe të bardhë poshtë.
+
+== Monumente dhe vende me interes ==
+Kisha famullitare, kushtuar shenjtorëve Pjetër dhe Pal, u ndërtua në shekullin XVI dhe u shugurua më 1717 nga kardinali Orsini, i cili më vonë u bë [[Benedikti XIII|papa Benedikti XIII]]. Brenda saj ruhet një pikturë vaji e Michelangelo Sammarco-s, që paraqet [[Zojja e Malit Karmel|Zojën e Malit Karmel]], së bashku me shenjtorët të cilëve u kushtohet famullia.
+
+Nga pikëpamja artistike dhe arkitekturore janë interesante disa ndërtesa të periudhës mesjetare, si «Kulla e banditëve», pranë varrezave, dhe «Casone della Sgurgola», një kullë me planimetri katrore që ndodhet në rrugën provinciale që lidh Casalnuovo Monterotaro me Torremaggiore.<ref name=":0">{{Cita web|url=http://www.comune.casalvecchiodipuglia.fg.it/web/guest/la-citta|titolo=La città - Comune di Casalvecchio di Puglia|accesso=2020-03-01|urlarchivio=https://web.archive.org/web/20190829124130/http://www.comune.casalvecchiodipuglia.fg.it/web/guest/la-citta|urlmorto=sì}}</ref>
+
+== Shoqëria ==
+=== Ecuria demografike ===
+{| class="wikitable"
+! Viti !! Banorë
+|-
+| 1861 || 2&nbsp;245
+|-
+| 1871 || 2&nbsp;158
+|-
+| 1881 || 2&nbsp;441
+|-
+| 1901 || 2&nbsp;410
+|-
+| 1911 || 2&nbsp;379
+|-
+| 1921 || 2&nbsp;312
+|-
+| 1931 || 2&nbsp;512
+|-
+| 1936 || 2&nbsp;632
+|-
+| 1951 || 3&nbsp;181
+|-
+| 1961 || 2&nbsp;862
+|-
+| 1971 || 2&nbsp;472
+|-
+| 1981 || 2&nbsp;602
+|-
+| 1991 || 2&nbsp;410
+|-
+| 2001 || 2&nbsp;167
+|-
+| 2011 || 1&nbsp;939
+|-
+| 2021 || 1&nbsp;704
+|}
+<ref>Të dhënat nga: {{cite web|url=https://ebiblio.istat.it/digibib/Censimenti%20popolazione/Censimentipopolazioneresidentedal1861/RML0050288Pop_res_cens_1861_1991.pdf|title=Popolazione residente dei comuni. Censimenti dal 1861 al 1991|publisher=ISTAT|language=it}}; {{cite web|url=https://esploradati.istat.it/databrowser/#/it/censpop/categories/IT1,Z1200CPA,1.0/CPA_POP/IT1,DF_DCSS_POPRES_SERIES_TV_1,1.0|title=Popolazione residente - Serie storica|publisher=ISTAT|language=it}}</ref>
+
+=== Përkatësia etnike dhe pakicat e huaja ===
+Sipas të dhënave të ISTAT-it më 1 janar 2019, popullsia e huaj banuese ishte 76 persona.<ref>{{cite web|url=http://dati.istat.it/|title=Statistiche Istat|website=dati.istat.it|access-date=2020-03-01|language=it}}</ref>
+
+Shtetësitë më të përfaqësuara, sipas përqindjes së tyre në popullsinë e përgjithshme banuese, ishin:
+
+* [[Rumania]]: 38
+* [[Maroku]]: 23
+
+=== Gjuhët dhe dialektet ===
+Kazallveqi është një vendbanim dygjuhësh: krahas [[Italisht|italishtes]], flitet edhe [[Gjuha arbëreshe (Itali)|arbëreshja]]. Aktet publike të komunës hartohen në të dyja gjuhët dhe rrugët kanë emërtime në të dyja gjuhët; për shembull, rruga kryesore mban emrin e [[Skënderbeu|Gjergj Kastriotit Skënderbeut]], heroit kombëtar të [[Shqipëria|Shqipërisë]], ndërsa shkolla e mesme mban emrin e Jeronim De Radës, një prej shkrimtarëve më të mëdhenj me prejardhje shqiptare. Në hyrje të vendbanimit, edhe tabela rrugore e mirëseardhjes është në gjuhën shqipe.
+
+Për shkak të rritjes së lëvizshmërisë së popullsisë, përdorimi i arbërishtes ka filluar të zbehet, sidomos ndër të rinjtë; tashmë vetëm banorët e moshuar e flasin rrjedhshëm. Për të luftuar këtë dukuri, u krijua zyra gjuhësore shqiptare, e cila u ofron qytetarëve shërbime informimi dhe orientimi. Ndër nismat e para të zyrës ishte hartimi i një fjalori krahasues të të folmeve arbëreshe të Kazallveqit dhe [[Chieuti|Chieuti-t]], një tjetër komunë në Foxha ku flitet dialekti shqiptar.
+
+Në të kaluarën, gjatë varrimeve praktikohej një rit i lashtë me prejardhje shqiptare, «[[Vajtimi (zakon shqiptar)|vajtimi]]», një këngë mortore ose vajtim për të vdekurit në gjuhën shqipe, e kënduar nga një grua ose një grup grash.
+=== Traditat dhe folklori ===
+Ndër kremtimet e fshatit janë kënga e vezëve, që këndohet natën e [[Pashkët|Pashkëve]], dhe ndezja e zjarreve në lagjet e ndryshme të fshatit, më 19 mars, për nder të Shën Jozefit.
+
+Në muajin maj kremtohet festa e shenjtorëve mbrojtës, për nder të Zojës së Hireve dhe Shën Nikollës. Të dielën e fundit të shtatorit mbahet një panair tregtar dhe blegtoral, me rastin e festës së Shën Mateut.
+
+== Kultura ==
+=== Arsimi ===
+==== Shkollat ====
+Në vitin shkollor 2000–2001 u themelua Instituti Gjithëpërfshirës «G. Mandes», me seli në Casalnuovo Monterotaro. Ai përfshin shkollat parashkollore, fillore dhe të mesme të ciklit të ulët në Kazallveqi, Casalnuovo Monterotaro dhe Castelnuovo della Daunia.
+
+Ndërtesa shkollore e Kazallveqit, në rrugën Corso Skanderbeg, strehon shkollën parashkollore «S. Giovanni Bosco», shkollën fillore «Attilio Celozzi» dhe shkollën e mesme të ciklit të ulët «Jeronim de Rada».
+
+== Ekonomia ==
+Fshati është kryesisht bujqësor, pasi ka toka pjellore ku kultivohen kryesisht drithëra, ullinj dhe hardhi.
+
+== Administrimi ==
+Më poshtë paraqitet një tabelë e administratave që kanë drejtuar këtë komunë me radhë.
+
+{| class="wikitable"
+! Emri
+! Fillimi
+! Mbarimi
+! Partia
+! Shënime
+|-
+| Giuseppe Guglielmo Beccia
+| 24 qershor 1985
+| 18 qershor 1990
+| [[Democrazia Cristiana]]
+| <ref name="interno">https://elezionistorico.interno.gov.it/</ref>
+|-
+| Matteo Tosches
+| 18 qershor 1990
+| 13 janar 1993
+| Partito Comunista Italiano
+| <ref name="interno" />
+|-
+| Orazio Ciliberti
+| 13 janar 1993
+| 22 nëntor 1993
+| Komisioner prefektural
+| <ref name="interno" />
+|-
+| Matteo Calzone
+| 22 nëntor 1993
+| 17 nëntor 1997
+| Partito Democratico della Sinistra
+| <ref name="interno" />
+|-
+| Matteo Tosches
+| 17 nëntor 1997
+| 26 tetor 1999
+| L'Ulivo
+| <ref name="interno" />
+|-
+| Gerardina D'Addesio
+| 26 tetor 1999
+| 17 prill 2000
+| Komisionere prefekturale
+| <ref name="interno" />
+|-
+| Michele Boccamazzo
+| 17 prill 2000
+| 5 prill 2005
+| Qendra e djathtë
+| <ref name="interno" />
+|-
+| Michele Boccamazzo
+| 5 prill 2005
+| 30 mars 2010
+| Qendra
+| <ref name="interno" />
+|-
+| Mauro Piccirilli
+| 30 mars 2010
+| 1 qershor 2015
+| Listë qytetare
+| <ref name="interno" />
+|-
+| Noè Andreano
+| 1 qershor 2015
+| 20 shtator 2020
+| Listë qytetare
+| <ref name="interno" />
+|-
+| Noè Andreano
+| 20 shtator 2020
+| ''në detyrë''
+| Listë qytetare
+| <ref name="interno" />
+|}
+
+=== Binjakëzimet ===
+Në qershor 2006, administrata komunale e Kazallveqit, së bashku me një delegacion banorësh, vizitoi komunën e Mariano Comenses për të takuar banorët e Kazallveqit që ishin vendosur në qytetin e Lombardisë prej disa brezash.
+
+Në shtator 2008, një delegacion nga qyteti Zhur në [[Kosova|Kosovë]] vizitoi komunitetin e Kazallveqit për një shkëmbim ndërkulturor.
+
+== Shënime ==
+<references/>
+
+== Bibliografia ==
+* {{Cite book |author=Ministro d'Agricoltura e Commercio (a cura di) |title=[https://books.google.it/books?id=Qh5RAAAAYAAJ&printsec=frontcover&hl=it#v=onepage&q&f=false Statistica del Regno d'Italia - Popolazione Censimento Generale] (31 dicembre 1861), Volume III |year=1866 |publisher=Tipografia Letteraria e degli Ingegneri |location=Firenze |language=it}}
+* {{Cite book |author=Mario Massaro, Giovanna Fratta, Rosa Ferrucci (a cura di) |title=Gli Arbëreshë di Casalvecchio |year=2016 |publisher=Malatesta Editrice |location=Apricena |isbn=978-889593953-7 |language=it}}
+
+== Shih edhe ==
+* [[Arbëreshët në Itali]]
+* {{ill|Monti della Daunia|it|Monti della Daunia}}
+
+== Projekte të tjera ==
+{{Sisterlinks}}
+
+== Lidhje të jashtme ==
+* {{Collegamenti esterni}}
+
+{{Portale|Puglia}}
+{{Comuni della comunità arbëreshë}}
+{{Comuni della provincia di Foggia}}
+
+[[Kategoria:Komunat e Foxhias]]
+[[Kategoria:Vendbanime arbëreshe në Itali]]
+[[Kategoria:Komuna shqipfolëse në Itali]]

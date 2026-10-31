@@ -1,0 +1,431 @@
+{{Infobox royalty
+| name              = Timuri
+| title             = {{plainlist|
+* ''[[Beu|Beg]]''
+* ''[[Sulltani|Sulltan]]''<ref>{{cite encyclopedia|publisher=Royal Asiatic Society of Great Britain and Ireland|year=1847|title=Journal of the Royal Asiatic Society of Great Britain and Ireland|volume=9|language=en|page=377}}</ref>
+* ''Güregen'' (dhëndër mbretëror)<ref>{{cite book |last=Chann |first=Naindeep Singh |date=2008 |title=Intellectual Movements during Timuri and Safavid Periods (1500-1700 A.D.) |journal=Iran and the Caucasus |volume=12 |issue=2 |pages=413–415 |doi=10.1163/157338408x406182 |language=en}}</ref>
+* ''[[Gaziu|Gazi]]''<ref name="sahibqiran">{{Cite journal |last=Chann |first=Naindeep Singh |date=2009 |title=Lord of the Auspicious Conjunction: Origins of the Ṣāḥib-Qirān |journal=Iran & the Caucasus |volume=13 |issue=1 |pages=93–110 |doi=10.1163/160984909X12476379007927 |language=en}}</ref>
+* ''Sahib-e-Qiran'' (Zoti i Bashkimit të Yjeve)
+}}
+| image             = Timur reconstruction03.jpg
+| caption           = Rindërtimi i fytyrës së Timurit nga kafka, nga [[Mikhail Mikhaylovich Gerasimov]]
+| succession        = [[Emiri]] i [[Perandoria Timuride|Perandorisë Timuride]]
+| reign             = 9 prill 1370 – 17/18 shkurt 1405
+| coronation        = 9 prill 1370, [[Balkh]]<ref name="Muntakhab">''Muntakhab-al Lubab'', Khafi Khan Nizam-ul-Mulki, Vëll. I, f. 49. Botuar në Lahore, 1985. (anglisht)</ref>
+| predecessor       = Amir Husajn (si sundimtar i [[Transoksiana|Transoksianës]])
+| successor         = [[Khalil Sultan]]
+| queen             = [[Saray Mulk Khanum]]
+| spouses           = {{Plainlist}}
+* Chulpan Mulk Agha
+* Aljaz Turkhan Agha
+* Tukal Khanum
+* Dil Shad Agha
+* Touman Agha
+* Gra të tjera
+{{Endplainlist}}
+| spouses_type      = Gratë
+| issue             = {{Plainlist}}
+* [[Umar Shaikh Mirza I]]
+* [[Jahangir Mirza (princ timurid)|Jahangir Mirza]]
+* [[Miran Shah]]
+* [[Shah Rukh|Shah Rukh Mirza]]
+{{Endplainlist}}
+| full_name         = Shuja-ud-din Timur<ref>W. M. Thackston, ''A Century of Princes: Sources on Timurid History and Art'' (1989), f. 239. (anglisht)</ref>
+| house             = [[Dinastia Timuride|Timuride]]
+| house_type        = Dinastia
+| father            = Amir Taraghai
+| mother            = Tekina Khatun
+| birth_date        = vitet 1320
+| birth_place       = afër [[Shahrisabz|Keshit]], [[Hanati Çagatai]] (sot [[Shahrisabz]], [[Uzbekistan]])
+| death_date        = 17/18 shkurt 1405
+| death_place       = [[Farab]], Perandoria Timuride (sot [[Otrar]], [[Kazakistan]])
+| burial_place      = [[Gur-e-Amir]], [[Samarkand]], Uzbekistan
+| religion          = [[Islami Synit]]
+}}
+'''Timuri'''{{efn|Çagataisht: ''Temür'', "hekur". Ndonjëherë transliterohet edhe '''Taimur''' ose '''Temur'''.}} (vitet 1320 – 17/18 shkurt 1405), i njohur gjithashtu si '''Tamerlani''',{{efn|Nga Persishtja ''Temūr(-i) Lang'', "Timuri Çalamani", nga plagët e tij në këmbë dhe dorë.<ref>{{cite book |last=Johanson |first=Lars |title=The Turkic Languages |date=1998 |publisher=Routledge |isbn=0415082005 |page=27 |language=en}}</ref>}} njohur historikisht edhe si '''Amir Timur''' ose me epitetin '''''Sahib-i-Qiran''''' (fjalë për fjalë "Zoti i Bashkimit të Favorshëm").<ref>{{cite book|title=The Shah Jahan Nama of 'Inayat Khan|author1=ʻInāyat Khān |publisher=Oxford University Press|year=1990|pages=11–17|language=en}}</ref> ishte një pushtues [[Tradita turko-mongole|turko-mongol]], sundimtari i parë i [[Dinastia Timuride|dinastisë Timuride]] dhe themeluesi i [[Perandoria Timuride|Perandorisë Timuride]], e cila sundoi mbi territoret e sotme të [[Afganistani]]t, [[Iran]]it dhe [[Azia Qendrore|Azisë Qendrore]]. Ishte i pamposhtur në betejë dhe konsiderohet gjerësisht një nga udhëheqësit dhe taktikët ushtarakë më të mëdhenj në histori, si dhe një nga më brutalët dhe më vdekjeprurësit.{{sfn|Marozzi|2004}}<ref>{{cite book |author=Meri |first=Josef W. |title=Medieval Islamic Civilization |publisher=Routledge |year=2005 |isbn=978-0415966900 |page=812 |language=en}}</ref><ref>{{cite encyclopedia |title=Timur |url=https://www.britannica.com/biography/Timur |access-date=28 shtator 2022 |encyclopedia=Encyclopædia Britannica |language=en}}</ref> Timuri konsiderohet gjithashtu një mbrojtës i madh i arteve, pasi bashkëvepronte me dijetarë e poetë si [[Ibn Halduni]], [[Hafizi]] dhe [[Hafiz-i Abru]]. Sundimi i tij solli [[Rilindja Timuride|Rilindjen Timuride]].{{sfn|Marozzi|2004|pp=341–342}}
+
+I lindur në konfederatën e turqizuar mongole [[Barlas]] në [[Transoksiana]] (sot në [[Uzbekistan]]) në vitet 1320, Timuri fitoi kontrollin e pjesës perëndimore të [[Hanati Çagatai|Hanatit Çagatai]] deri në vitin 1370, dhe që andej udhëhoqi një seri fushatash ushtarake duke mposhtur hanët e [[Hordha e Artë|Hordhës së Artë]], [[Sulltanati Mamluk|Sulltanatin Mamluk]] të Egjiptit e Sirisë, [[Perandoria Osmane|Perandorinë Osmane]] në zhvillim e sipër, si dhe [[Sulltanati i Delhiut|Sulltanatin e Delhiut]] në [[Nënkontinenti indian|nënkontinentin indian]], duke u bërë kështu sundimtari më i fuqishëm në [[Bota myslimane|botën myslimane]].<ref>{{cite web|url=https://scroll.in/article/825287/counterview-taimurs-actions-were-uniquely-horrific-in-indian-history|title=Counterview: Taimur's actions were uniquely horrific in Indian history|first=Girish|last=Shahane|date=28 dhjetor 2016|website=Scroll.in|language=en}}</ref> Këto pushtime çuan në krijimin e Perandorisë Timuride, e cila u copëtua menjëherë pas vdekjes së tij. Fliste disa gjuhë, përfshirë [[Gjuha çagataisht|çagataishten]] (paraardhëse e [[Gjuha uzbeke|uzbekishtes]] dhe [[Gjuha ujgure|ujgurishtes]] moderne), si dhe [[Mongolishtja klasike|mongolishten klasike]] dhe [[Persishtja e re|persishten e re]], të cilën e përdorte për korrespondencën diplomatike.
+
+Timuri ishte i fundit prej pushtuesve të mëdhenj nomadë të [[Stepa euroaziatike|Stepës Euroaziatike]], dhe perandoria e tij përgatiti terrenin për ngritjen e perandorive myslimane të [[Perandoritë e barutit|barutit]], më të organizuara dhe të qëndrueshme, të shekujve XVI dhe XVII.<ref>{{Cite book |last=Darwin |first=John |title=After Tamerlane: the rise and fall of global empires, 1400–2000 |publisher=Bloomsbury Press |year=2008 |isbn=978-1596917606 |pages=29, 92 |language=en}}</ref>{{sfn|Manz|1999|p=1}}<ref>{{cite book |last=Marozzi |first=Justin |title=Tamerlane: Sword of Islam, Conqueror of the World |publisher=Da Capo Press |year=2006 |isbn=978-0306814655 |language=en}}</ref> Timuri ishte me origjinë njëkohësisht turke dhe mongole, dhe, ndonëse me siguri jo pasardhës i drejtpërdrejtë nga asnjëra anë, ndante një paraardhës të përbashkët me [[Xhingis Han]]in në linjën atërore.<ref>{{cite book |last1=Seekins |first1=Donald M. |last2=Nyrop |first2=Richard F. |title=Afghanistan A Country Study |publisher=The Studies |date=1986 |page=11 |language=en}}</ref> Ai kërkoi qartazi të ringjallte trashëgiminë e Xhingis Hanit dhe e shihte veten si rikthyesin e [[Perandoria Mongole|Perandorisë Mongole]]. Sipas [[Gérard Chaliand|Gérard Chaliand-it]], Timuri e konsideronte veten trashëgimtarin e Xhingis Hanit.<ref name="Chaliand">Gérard Chaliand, ''Nomadic Empires: From Mongolia to the Danube'', përkth. A. M. Berrett, Transaction Publishers, 2004, f. 75. (anglisht)</ref>
+
+Timuri e quante veten "Shpata e Islamit". Ishte mbrojtës i fesë dhe i arteve, por në vitet e fundit të jetës e quajti veten ''[[Gaziu|gazi]]'' (luftëtar fetar).<ref name="sahibqiran"/> Deri në fund të sundimit të tij, Timuri kishte fituar kontroll të plotë mbi të gjitha mbetjet e Hanatit Çagatai, [[Ilhanati]]t dhe Hordhës së Artë, madje kishte tentuar të rivendoste [[Dinastia Juan|Dinastinë Juan]] në Kinë. Ushtritë e Timurit ishin shumetnike dhe të frikësuara gjerësisht, dhe shkretuan pjesë të mëdha të Azisë, Afrikës dhe Evropës.{{sfn|Marozzi|2004}}<ref>Matthew White: ''Atrocitology: Humanity's 100 Deadliest Achievements'', Canongate Books, 2011. (anglisht)</ref> Studiuesit vlerësojnë se fushatat e tij ushtarake shkaktuan vdekjen e miliona njerëzve.<ref>{{cite news |url=https://www.chicagotribune.com/1999/01/17/the-rehabilitation-of-tamerlane/ |work=Chicago Tribune |title=The Rehabilitation of Tamerlane |date=17 janar 1999 |language=en}}</ref> Nga të gjitha zonat që pushtoi, [[Horezmi]] vuajti më së shumti, pasi ngrihej vazhdimisht kundër tij.<ref>{{cite book |last1=Barthold |first1=V. V. |title=Four studies on the History of Central Asia |date=1962 |publisher=E. J. Brill |volume=1 |page=61 |language=en}}</ref>
+
+Ishte gjyshi i sulltanit timurid, astronomit dhe matematikanit [[Ulug Begu|Ulug Begut]], i cili sundoi Azinë Qendrore nga 1411 deri 1449, dhe stërgjyshi i katërt i [[Baburi|Baburit]] (1483–1530), themeluesi i [[Perandoria Mogule|Perandorisë Mogule]].<ref>{{cite web |url=http://search.eb.com/eb/article-9072544 |title=Timur |publisher=Encyclopædia Britannica |year=2007 |language=en}}</ref><ref>{{cite encyclopedia |year=2000 |title=Tīmūr Lang |encyclopedia=Encyclopaedia of Islam |publisher=Brill |last=Manz |first=Beatrice F. |edition=2nd |volume=10 |language=en}}</ref>
+
+== Prejardhja ==
+[[Skeda:Genealogical Relationship between Timur and Genghis Khan.png|parapamje|majtas|Marrëdhënia gjenealogjike mes Timurit dhe Xhingis Hanit, sipas burimeve timuride]]
+Historiani [[Peter Jackson (historian)|Peter Jackson]] e konsideron të pranuar gjerësisht se Timuri kishte "prejardhje mongole të pakontestueshme". Historitë timuride, si ''[[Zafarnama (biografia e Jazdit)|Zafarnama]]'' e [[Sherefudin Ali Jazdi|Jazdit]], ''Zubdat at-tavarih'' e [[Hafiz-i Abru]]-t, dhe ''Muiz al-Ansab'', e gjurmojnë prejardhjen atërore të Timurit deri te [[Tumbinai Han]]i, paraardhës në linjë mashkullore i Xhingis Hanit.<ref name="woods">{{cite book|last=Woods|first=John E.|title=Timur and Chinggis Khan|year=2002|publisher=OUMSKh-ny Nariĭn bichgiĭn darga naryn gazar|location=Ulaanbaatar|page=377|language=en}}</ref><ref name="Jackson">{{cite book | last=Jackson | first=Peter | title=From Genghis Khan to Tamerlane: The Reawakening of Mongol Asia | publisher=Yale University Press | year=2023 | isbn=978-0-300-27504-9 | pages=225–27 |language=en}}</ref> Megjithatë, ndërsa ''[[Jami al-tavarih|Jami' al-tawarikh]]'' e [[Rashidudin Hamadani|Rashid al-Din-it]] dhe ''[[Historia e Fshehtë e Mongolëve]]'' i japin një prejardhje të përbashkët me Xhingis Hanin fisit të Timurit, Barlasit, si i tërë, asnjë dëshmi e shkruar nga koha e Timurit apo më herët nuk e lidh atë drejtpërdrejt me këtë prejardhje.<ref name="Jackson"/>{{rp|227}}
+
+[[Skeda:Original location of the Mongol Barlas tribe.jpg|parapamje|Vendndodhja origjinale e fisit mongol [[Barlas]] të Timurit]]
+Paraardhësi i Timurit, [[Karaçar Nojan]]i, i quajtur në veprat timuride stërmbesnjeri i Tumanait, ishte komandant ushtarak nën Xhingis Hanin, dhe më vonë iu caktua djalit të këtij të fundit, [[Çagataj Han|Çagatajt]], në Transoksiana.<ref name="woods1990">{{cite journal|first=John E.|last=Woods|title=Timur's Genealogy|journal=Intellectual Studies on Islam: Essays Written in Honor of Martin B. Dickson|year=1990|publisher=University of Utah Press|isbn=978-0874803426|page=97|language=en}}</ref> Ndonëse Karaçari nuk përmendet shpesh në dokumentet e shekujve XIII–XIV, burimet e mëvonshme timuride e theksuan shumë rolin e tij në historinë e hershme të Perandorisë Mongole.<ref name="woods1990"/>{{rp|90}} Këto histori pohojnë gjithashtu se Xhingis Hani e vendosi "lidhjen e atësisë dhe birësisë" duke e martuar vajzën e Çagatajt me Karaçarin.<ref>{{cite book|last=Haidar|first=Mansura|title=Indo-Central Asian Relations: From Early Times to Medieval Period|year=2004|publisher=Manohar |isbn=978-8173045080|page=126|language=en}}</ref> Përmes kësaj prejardhjeje të pretenduar nga ky martesë, Timuri mund të pretendonte farefisni me [[Hanati Çagatai|Hanët Çagatai]].<ref>{{cite book |last=Keene |first=Henry George |title=The Turks in India |publisher=University Press of the Pacific |location=Honolulu, HI |year=2001 |page=20 |isbn=978-0898755343 |language=en}}</ref>
+
+Origjina e nënës së Timurit, Tekina Hatun, është më pak e qartë. ''Zafarnama'' vetëm e përmend emrin e saj pa dhënë informacion mbi prejardhjen. Duke shkruar në 1403, [[Gjoni III i Soltanijes|Gjoni III]], [[Kryepeshkopi|kryepeshkop]] i [[Soltanije|Soltanijes]], pohoi se ajo ishte me prejardhje të ulët.<ref name="woods"/> ''Mu'izz al-Ansab'', shkruar dekada më vonë, thotë se ajo ishte e lidhur me fisin [[Jasauri]], territoret e të cilit kufizoheshin me ato të Barlasit.{{sfn|Manz|1999|pages=164–165}} [[Ibn Halduni]] rrëfeu se vetë Timuri i kishte përshkruar prejardhjen e nënës së tij nga heroi legjendar persian [[Manuçehri]].<ref name="Khaldun">{{cite book |last=Fischel |first=Walter J.|title=Ibn Khaldun and Tamerlane |year=1952 |publisher=University of California Press |location=Berkeley, CA / Los Angeles|page=37 |language=en}}</ref> [[Ahmed ibn Arabshah|Ibn Arabshah]] sugjeroi se ajo ishte pasardhëse e Xhingis Hanit.<ref name="Arabshah2017">{{cite book |author1=Ahmad ibn Arabshah |last2=McChesney |first2=Robert D. |title=Tamerlane: The Life of the Great Amir |publisher=Bloomsbury Academic |year=2017 |page=4 |isbn=978-1784531706 |language=en}}</ref>
+
+Pothuajse të gjithë bashkëkohësit e Timurit e identifikonin si mongol, përfshirë Ibn Haldunin, i cili u takua personalisht me të në Damask në 1401, historianin arab [[Ibn Arabshah]], dhe të dërguarin kastilian [[Ruy González de Clavijo]], i cili u takua me Timurin në 1404. Në veprën e tij që përshkruan takimin me Timurin, Ibn Halduni e quan atë "sulltan i mongolëve (''Mughul'') dhe tatarëve (''Ṭaṭar'')", dhe e përshkruan gjuhën e oborrit të tij si "gjuha mongole (''al-lisān al-Mughulī'')".{{sfn|Lee|2021|pp=203-204}} Megjithatë, edhe pse Timuri dhe pasardhësit e tij (Timuridët) e konsideronin veten pjesë e ''ulus''-it mongol dhe kështu perceptoheshin edhe nga bashkëkohësit, identiteti mongol i Timurit nuk ishte një ndërtim për të legjitimuar sundimin e tij, por pasqyronte prejardhjen e tij etnike.{{sfn|Lee|2021|p=205, 215}}
+
+== Jeta e hershme ==
+[[Skeda:Timur seated (earliest known portrait), Timurid genealogy, 1405-1409, Samarkand (TSMK, H2152).jpg|parapamje|Portreti më i hershëm i njohur i Timurit, porositur menjëherë pas vdekjes së tij (1405–1409) nga nipi i tij [[Khalil Sultan]] për një gjenealogji timuride të ilustruar.]]
+Timuri lindi në Transoksiana pranë qytetit të Keshit (sot [[Shahrisabz]], Uzbekistan), rreth 80&nbsp;km në jug të [[Samarkand]]it, pjesë e asaj që atëherë ishte Hanati Çagatai. Emri i tij, ''Temur'', do të thotë "hekur" në çagataishten, gjuha e tij amtare (krahaso uzbekishten ''Temir'', [[turqishtja|turqisht]] ''Demir'').<ref>Richard Peters, ''The Story of the Turks: From Empire to Democracy'' (1959), f. 24. (anglisht)</ref> Me shumë gjasa ka të njëjtën rrënjë me emrin e lindjes së Xhingis Hanit, ''Temüjin'', huazim nga turqishtja e përbashkët *''temürči(n)'' "farkëtar".<ref>{{cite book |last=Glassé |first=Cyril |title=The new encyclopedia of Islam |date=2001 |publisher=AltaMira Press |isbn=0759101892 |language=en}}</ref>
+
+Historitë e mëvonshme dinastike timuride pohojnë se Timuri ka lindur më 8 prill 1336, por shumica e burimeve nga koha e tij japin mosha të përputhshme me një datëlindje në fund të viteve 1320. Disa studiues dyshojnë se data 1336 synonte ta lidhte Timurin me trashëgiminë e [[Ebu Said Bahadur Han]]it, sundimtarit të fundit të Ilhanatit dhe pasardhës i [[Hulagu Han]]it, i cili vdiq atë vit.<ref>{{cite encyclopedia |title=Tīmūr Lang |encyclopedia=Encyclopaedia of Islam, Second Edition |last=Manz |first=Beatrice F. |date=24 prill 2012 |language=en}}</ref><ref name="manz1988">{{cite journal |last=Manz |first=Beatrice Forbes |title=Tamerlane and the Symbolism of Sovereignty |journal=Iranian Studies |volume=21 |issue=1–2 |pages=105–122 |date=1988 |doi=10.1080/00210868808701711 |language=en}}</ref>
+
+Timuri ishte pjesëtar i Barlasit, një fis mongol<ref>"Central Asia, history of Timur", në Encyclopædia Britannica, botim online, 2007. (anglisht)</ref> që ishte turqizuar në shumë aspekte.<ref>Carter V. Findley, ''The Turks in World History'', Oxford University Press, 2005, f. 101. (anglisht)</ref> Babai i tij, [[Taraghai]], përshkruhet si fisnik i vogël i këtij fisi. Megjithatë, Manz argumenton se Timuri mund të ketë nënvlerësuar më vonë pozitën shoqërore të babait të tij, në mënyrë që sukseset e veta të dukeshin më të jashtëzakonshme. Ajo thotë se, ndonëse nuk besohet të ketë qenë veçanërisht i fuqishëm, Taraghai ishte relativisht i pasur dhe me ndikim.<ref name="manz1988"/>{{rp|116}} Kjo shihet edhe në ''Zafarnama''-n, e cila thotë se Timuri u kthye më vonë në vendlindjen e tij pas vdekjes së babait të tij më 12 mars 1360, çka sugjeron shqetësim për pasurinë e trashëguar.<ref>Sherefudin Ali Jazdi, ''Zafarnama'' (1424–1428), f. 35. (anglisht)</ref>
+
+Në fëmijëri, Timuri dhe një grup i vogël ndjekësish sulmonin udhëtarë për të vjedhur mallra, sidomos kafshë si dele, kuaj dhe lopë.<ref name="manz1988"/>{{rp|116}} Rreth vitit 1363, besohet se Timuri u përpoq të vidhte një dele nga një bari, por u qëllua me dy shigjeta, njëra në këmbën e djathtë e tjetra në dorën e djathtë, ku humbi dy gishta. Të dyja plagët e paaftësuan përgjithmonë. Plagët dhe paaftësia e Timurit i dhanë nofkën "Timuri Çalamani" ose ''Temūr(-i) Lang'' në persisht, prej nga rrjedh edhe emri "Tamerlan", me të cilin njihet përgjithësisht në Perëndim.{{sfn|Marozzi|2004|p=31}}
+
+== Udhëheqës ushtarak ==
+[[Skeda:Timur on horse. Battle between Timur and Toqtamish Khan (left portion), 1420-1440, possibly Herat. Topkapi H.2153, folio 2a.jpg|parapamje|majtas|Timuri mbi kalë në betejë me [[Tohtamishin]], han i Hordhës së Artë. Dorëshkrim i viteve 1420–1440, ndoshta nga Herati.]]
+Rreth vitit 1360, Timuri kishte fituar tashmë njëfarë njohjeje si udhëheqës ushtarak, trupat e të cilit ishin kryesisht fisnorë turq të rajonit.<ref name="Chaliand"/> Mori pjesë në fushata në Transoksiana me hanin e Hanatit Çagatai. Duke u aleuar, si në qëllim ashtu edhe në lidhje familjare, me [[Amir Qazaghan]]-in, rrëzuesin dhe shkatërruesin e [[Bullgaria Vollgane|Bullgarisë Vollgane]], pushtoi [[Horasani]]n<ref>{{cite book |author=Hannah |first=Ian C. |title=A brief history of eastern Asia |date=1900 |publisher=T. F. Unwin |page=92 |language=en}}</ref> në krye të një mijë kalorësish. Kjo ishte fushata e dytë ushtarake që udhëhoqi, dhe suksesi i saj çoi në operacione të mëtejshme, ndër to nënshtrimi i Horezmit dhe i Urgençit gjatë [[Rrethimi i Urgençit (1379)|Rrethimit të Urgençit]].{{sfn|Goldsmid|1911|p=994}}
+
+Pas vrasjes së Qazaganit, lindën mosmarrëveshje mes shumë pretendentëve për pushtetin sovran. [[Tuglug Timuri]] i [[Kashgar]]it, hani i Hanatit Lindor Çagatai, një tjetër pasardhës i Xhingis Hanit, pushtoi, duke ndërprerë këto grindje. Timuri u dërgua për të negociuar me pushtuesin, por në vend të kësaj iu bashkua atij dhe u shpërblye me Transoksianën. Rreth kësaj kohe, babai i tij vdiq, dhe Timuri u bë gjithashtu kreu i Barlasit. Tuglugu u përpoq më pas ta vendoste djalin e tij [[Iljas Hoxha]] mbi Transoksianën, por Timuri e përzuri këtë pushtim me një forcë më të vogël.
+
+== Ngritja në pushtet ==
+Në këtë periudhë, Timuri i reduktoi hanët çagatai në figura simbolike, ndërkohë që sundonte në emrin e tyre. Gjithashtu gjatë kësaj periudhe, Timuri dhe kunati i tij [[Amir Husajn]], fillimisht bashkë-arratisur e endacakë, u bënë rivalë dhe kundërshtarë.{{sfn|Goldsmid|1911|p=994}} Marrëdhënia mes tyre u tendos pasi Husajni braktisi përpjekjet për të zbatuar urdhrat e Timurit për ta çuar deri në fund Iljas Hoxhën (ish-guvernator i Mavarannahrit) pranë [[Tashkenti]]t.{{sfn|Marozzi|2004|p=40}}
+
+Timuri fitoi ndjekës në Balkh, përfshi tregtarë, fisnorë, klerikë myslimanë, aristokratë dhe fshatarë, falë bujarisë së tij në ndarjen e pasurisë me ta. Kjo kontrastonte me sjelljen e Husajnit, i cili i largoi këta njerëz, u mori shumë pasuri përmes ligjeve të rënda tatimore dhe shpenzoi vetjakisht të hollat e tatimeve për ndërtesa të stolisura.{{sfn|Marozzi|2004|pp=41–42}} Rreth vitit 1370, Husajni iu dorëzua Timurit dhe u vra më vonë, çka i mundësoi Timurit të shpallej zyrtarisht sovran në Balkh. Ai u martua me gruan e Husajnit, [[Saray Mulk Khanum]], pasardhëse e Xhingis Hanit, gjë që i lejoi të bëhej sundimtar perandorak i fisit Çagatai.{{sfn|Marozzi|2004}}
+
+== Legjitimimi i sundimit të Timurit ==
+[[Skeda:Depiction of Timur granting audience on the occasion of his accession, in the near contemporary Zafarnama (1424-1428), 1467 edition.jpg|parapamje|Timuri duke dhënë audiencë me rastin e ngjitjes në fron, në Balkh më 1370. ''Zafarnama'' (1467), porositur nga [[Sulltan Husajn Bajkara]]i.]]
+Trashëgimia turko-mongole e Timurit i solli mundësi dhe sfida, ndërkohë që kërkonte të sundonte Perandorinë Mongole dhe botën myslimane.<ref name="manz1988"/> Sipas traditave mongole, Timuri nuk mund të pretendonte titullin ''han'' apo të sundonte Perandorinë Mongole, sepse nuk ishte pasardhës i Xhingis Hanit. Prandaj, Timuri vendosi si han kukull çagataid, [[Sujurgatmishin]], si sundimtar nominal të Balkhut, ndërsa vetë shtirej si "mbrojtës i një pjesëtari të linjës çingizide", asaj të djalit të parë të Xhingis Hanit, [[Xhoçi]]t.<ref name="manz2002">{{cite journal|last=Manz |first=Beatrice Forbes |title=Tamerlane's Career and Its Uses|journal=Journal of World History |year=2002|volume=13|page=3 |doi=10.1353/jwh.2002.0017 |language=en}}</ref> Timuri përdori në vend të kësaj titullin [[Emiri]], që do të thotë gjeneral, duke vepruar në emër të sundimtarit çagatai të Transoksianës.<ref name="manz1988"/>{{Rp|106}} Për ta forcuar këtë pozitë, Timuri mori titullin ''güregen'' (dhëndër mbretëror) i një princeshe të linjës çingizide.{{sfn|Manz|1999|p=14}}
+
+Ashtu si me titullin Han, Timuri po ashtu nuk mund të pretendonte titullin suprem të botës islame, [[Kalif]], sepse "posti u kufizua vetëm te [[Kurejshët]], fisi i Profetit Muhamed". Prandaj, Timuri iu përgjigj kësaj sfide duke krijuar mitin dhe imazhin e vetes si një "fuqi personale mbinatyrore" e caktuar nga Zoti.<ref name="manz2002"/> Titulli më i famshëm i Timurit ishte ''Sahib Kiran'' ("Zoti i Bashkimit të Yjeve"), me rrënjë në [[astrologji]],<ref name=":1">{{Cite book |last=Moin |first=A. Azfar |title=The Millennial Sovereign: Sacred Kingship and Sainthood in Islam |publisher=Columbia University Press |year=2012 |isbn=978-0231504713 |location=New York |pages=40–43 |language=en}}</ref> titull i përdorur para tij për të përcaktuar [[Hamza ibn Abdulmutalib]]in, xhaxhain e Muhamedit,<ref name="sahibqiran"/> dhe i marrë nga sulltani mamluk [[Bajbarsi]] dhe nga sundimtarë të ndryshëm të Ilhanatit për t'u vetëpërcaktuar. Në këtë kuptim, ai thjesht vazhdoi një traditë ekzistuese në botën myslimane për të përcaktuar pushtuesit.<ref name="sahibqiran"/>
+
+Titulli i referohej bashkimit të dy "planetëve superiorë", Saturnit dhe Jupiterit, çka konsiderohej shenjë e favorshme dhe simbol i një ere të re.<ref name=":1"/> Sipas A. Azfar Moin-it, ''Sahib Kiran'' ishte një titull mesianik, që nënkuptonte se Timuri mund të ishte "mesia i pritur, i zbritur nga linja profetike", i cili do të "inauguronte një erë të re, ndoshta të fundit para fundit të kohës."<ref name=":1"/> Përndryshe e paraqiste veten si pasardhës shpirtëror i Aliut, duke pretenduar kështu prejardhjen si nga Xhingis Hani ashtu edhe nga Kurejshët.<ref>{{cite book |last=Aigle |first=Denise |title=The Mongol Empire between Myth and Reality : Studies in Anthropological History |publisher=Brill |publication-place=Leiden |year=2014 |isbn=978-90-04-27749-6 |page=132 |language=en}}</ref>
+== Periudha e zgjerimit ==
+Timuri kaloi 35 vitet e ardhshme në lufta e ekspedita të ndryshme. Jo vetëm që e konsolidoi sundimin në shtëpi duke nënshtruar armiqtë, por kërkoi edhe zgjerim territorial duke pushtuar tokat e sundimtarëve të huaj. Pushtimet e tij në perëndim e verilindje e çuan deri te [[Deti Kaspik]] dhe brigjet e [[Urali (lumë)|Uralit]] dhe [[Vollga|Vollgës]]. Pushtimet në jug e jugperëndim përfshinë pothuajse çdo krahinë të [[Persia|Persisë]], përfshi [[Bagdad]]in, [[Karbala]]në dhe Irakun Verior.{{sfn|Goldsmid|1911|p=994}}
+
+[[Skeda:Timur's army, commanded by Umar Shaykh, attacks Urgench in 1379. Garrett Zafarnama, painted in 1480.jpg|parapamje|Ushtria e Timurit, e komanduar nga i biri, [[Umar Shaikh Mirza I|Umar Shajkh]]-u, në Rrethimin e Urgençit (1379). ''Garrett Zafarnama'' (1480)]]
+Një nga kundërshtarët më të fuqishëm të Timurit ishte një tjetër sundimtar mongol, pasardhës i Xhingis Hanit, i quajtur [[Tohtamishi]]. Pasi ishte refugjat në oborrin e Timurit, Tohtamishi u bë sundimtar i [[Horda e Bardhë|Hordhës së Bardhë]] kipçake në lindje dhe i Hordhës së Artë. Pas ngjitjes në fron, ai u konfliktua me Timurin për zotërimin e Horezmit dhe [[Azerbajxhani]]t.{{sfn|Goldsmid|1911|p=994}} Sidoqoftë, Timuri vazhdoi ta mbështeste kundër rusëve, dhe në 1382, Tohtamishi pushtoi zotërimet e Moskovisë dhe [[Rrethimi i Moskvës (1382)|dogji Moskën]].{{sfn|Riasanovsky|Steinberg|2005|page=93}}
+
+Tradita e [[Kisha Ortodokse Ruse|Kishës Ortodokse Ruse]] thotë se më vonë, në 1395, pasi arriti kufirin e Principatës së Rjazanit, Timuri kishte marrë Jelecin dhe kishte nisur të përparonte drejt Moskës. [[Vasili I i Moskës]] doli me ushtri drejt [[Kolomna|Kolomnës]] dhe u ndal në brigjet e lumit Oka. Kleri solli ikonën e famshme të [[Ikona e Vladimirit|Hyjlindëses së Vladimirit]] nga Vladimiri në Moskë.{{sfn|Crummey|2014|page=64}} Timuri e ndaloi përparimin dhe u tërhoq nga territori rus, ndërsa kronistët rusë pohonin se një vegim i Virgjëreshës që mbronte Moskën, i shoqëruar nga një ushtri qiellore, e bindi të kthehej mbrapsht.{{sfn|Crummey|2014|page=64}}
+
+== Pushtimi i Persisë ==
+Pas vdekjes së [[Ebu Said (Ilhanati)|Ebu Saidit]], sundimtar i Ilhanatit, në 1335, u krijua një vakum pushteti në Persi. Në fund, Persia u nda mes [[Muzafaridët|Muzafaridëve]], [[Kartidët|Kartidëve]], [[Ertenidët|Ertenidëve]], [[Çobanidët|Çobanidëve]], [[Injuidët|Injuidëve]], [[Xhelajiridët|Xhelajiridëve]] dhe [[Sarbadarët|Sarbadarëve]]. Në 1383, Timuri filloi pushtimin e tij të gjatë ushtarak të Persisë, ndonëse tashmë sundonte mbi pjesën më të madhe të Horasanit persian që nga 1381, pasi Hoxha Mesudi, i dinastisë Sarbadare, u dorëzua. Timuri e filloi fushatën e tij persiane me [[Herati]]n, kryeqytetin e dinastisë Kartide. Kur Herati nuk u dorëzua, ai e ktheu qytetin në rrënoja dhe masakroi shumicën e banorëve; qyteti mbeti në gërmadha derisa Shah Rukhu urdhëroi rindërtimin e tij rreth vitit 1415.<ref>{{cite book |title=Mughal Gardens|isbn=978-0884022350 |last1=Wescoat|first1=James L. |last2=Wolschke-Bulmahn|first2=Joachim|year=1996 |publisher=Dumbarton Oaks |language=en}}</ref> Timuri dërgoi më pas një gjeneral për të pushtuar [[Kandahari]]n rebel. Me pushtimin e Heratit, mbretëria Kartide u dorëzua dhe u bë vasale e Timurit; ajo u aneksua plotësisht më pak se një dekadë më vonë, në 1389, nga i biri i Timurit, [[Miran Shah]].{{Sfn|Melville|2020|p=32}}
+
+[[Skeda:Empire of Timur and his Campaigns.png|parapamje|Perandoria e Timurit dhe fushatat e tij ushtarake]]
+Timuri u drejtua më pas nga perëndimi për të pushtuar [[Malet Zagros]], duke kaluar nëpër [[Mazanderani]]n. Gjatë udhëtimit të tij nëpër veriun e Persisë, pushtoi qytetin e atëhershëm të [[Teherani]]t, i cili u dorëzua dhe kështu u trajtua me mëshirë. Rrethoi [[Soltanijen]] në 1384. Horasani u ngrit në kryengritje një vit më vonë, prandaj Timuri shkatërroi Isfizarin, dhe të burgosurit u çimentuan gjallë në mure. Vitin tjetër u shkretua mbretëria e Sistanit, nën dinastinë Mihrabanide, dhe kryeqyteti i saj, [[Zarangu]], u shkatërrua. Timuri u kthye pastaj në kryeqytetin e tij, Samarkand, ku filloi të planifikonte fushatën e tij në Gjeorgji dhe pushtimin e Hordhës së Artë. Në 1386, Timuri kaloi përsëri nëpër Mazanderan, siç kishte bërë kur u përpoq të pushtonte Zagrosin. Shkoi pranë qytetit të Soltanijes, të cilin e kishte pushtuar më parë, por në vend të kësaj u kthye nga veriu dhe pushtoi [[Tabrizi]]n me pak rezistencë, bashkë me [[Maraga|Maragan]].<ref>{{Cite book|title=The Mulfuzat Timury, Or, Autobiographical Memoirs of the Moghul Emperor Timur |year=2013|publisher=Cambridge University Press |isbn=978-1108056021 |language=en}}</ref> Urdhëroi taksim të rëndë të popullit, të mbledhur nga Adil Aka, të cilit iu dha edhe kontrolli i Soltanijes. Adili u ekzekutua më vonë, pasi Timuri e dyshoi për korrupsion.{{Sfn|Melville|2020|p=56}}
+
+Timuri u drejtua pastaj në veri për t'i nisur fushatat e tij në Gjeorgji dhe kundër Hordhës së Artë, duke ndërprerë pushtimin e tij të plotë të Persisë. Kur u kthye, gjeti se gjeneralët e tij kishin mbrojtur mirë qytetet dhe tokat që kishte pushtuar në Persi.{{Sfn|Manz|1999|pp=67–71}} Ndonëse shumë u ngritën në kryengritje, dhe i biri, Miran Shahu, i cili mund të ketë qenë regjent, u detyrua të aneksonte dinasti vasale rebele, zotërimet e tij mbetën të qëndrueshme. Kështu vazhdoi të pushtonte pjesën tjetër të Persisë, konkretisht dy qytetet e mëdha jugore, [[Isfahani]] dhe [[Shirazi]]. Kur mbërriti me ushtrinë e tij në Isfahan në 1387, qyteti u dorëzua menjëherë; ai e trajtoi me mëshirë relative, siç bënte zakonisht me qytetet që dorëzoheshin (ndryshe nga Herati).{{Sfn|Melville|2020|pp=97–100}} Megjithatë, pasi Isfahani u ngrit kundër taksave të Timurit duke vrarë mbledhësit e taksave dhe disa nga ushtarët e Timurit, ai urdhëroi masakrimin e qytetarëve; numri i të vrarëve vlerësohet mes 100.000 dhe 200.000.<ref name="ChaliandBlin">{{cite book |last1=Chaliand |first1=Gerard |title=The History of Terrorism: From Antiquity to Al Qaeda |last2=Blin |first2=Arnaud |publisher=University of California Press |year=2007 |isbn=978-0520247093 |page=87 |language=en}}</ref> Një dëshmitar okular numëroi më shumë se 28 kulla të ndërtuara me rreth 1.500 koka secila.<ref>Fisher, W. B.; Jackson, P.; Lockhart, L.; Boyle, J. A.: ''The Cambridge History of Iran'', f. 55. (anglisht)</ref> Kjo është përshkruar si "përdorim sistematik i terrorit ndaj qyteteve... element strategjik thelbësor i Tamerlanit", të cilin ai e shihte si mënyrë për të parandaluar gjakderdhjen duke dekurajuar rezistencën. Masakrat e tij ishin selektive dhe i kurseu artistët e të mësuarit.<ref name="ChaliandBlin"/> Kjo do të ndikonte më vonë te pushtuesi i madh i ardhshëm persian, [[Nadir Shahu]].<ref name="strange1905"/>{{rp|267–287}}
+
+[[Skeda:Timur coin. Citing Chagatai khan Mahmud. Baghdad mint. Dated AH 795 (AD 1393).jpg|parapamje|Monedhë e rrallë e Timurit nga koha kur ishte në Bagdadin xhelajirid, pas Rrethimit të Bagdadit (1393), duke cituar hanin çagatai Mahmudin.]]
+Timuri filloi pastaj një fushatë pesëvjeçare drejt perëndimit në 1392, duke sulmuar Kurdistanin persian.{{Sfn|Manz|1999|pp=123–125}} Në 1393, Shirazi u pushtua pasi u dorëzua, dhe muzafaridët u bënë vasalë të Timurit, ndonëse princi [[Shah Mansuri (Persia)|Shah Mansuri]] u rebelua por u mund në Betejën e Shirazit (1393), dhe muzafaridët u aneksuan. Menjëherë pas kësaj, Gjeorgjia u shkretua në mënyrë që Hordha e Artë të mos mund ta përdorte për të kërcënuar veriun e Iranit.<ref name="strange1905">{{Cite book|last=Strange|first=Guy Le|title=The Lands of the Eastern Caliphate: Mesopotamia, Persia, and Central Asia, from the Moslem Conquest to the Time of Timur |date=1905|publisher=University Press|page=235 |language=en}}</ref> Po atë vit, Timuri e zuri në befasi Bagdadin në gusht, duke marshuar deri atje vetëm në tetë ditë nga Shirazi. Sulltan [[Ahmed Xhelajiri]] iku në Siri, ku sulltani mamluk [[Barkuku]] e mbrojti dhe vrau të dërguarit e Timurit. Timuri la princin sarbadar Hoxha Mesud për të qeverisur Bagdadin, por ky u dëbua kur Ahmed Xhelajiri u kthye. Ahmedi ishte i papopullarizuar, por mori ndihmë nga [[Kara Jusufi]] i [[Kara Kojunlu]]-t; iku përsëri në 1399, këtë herë tek osmanët.
+
+== Lufta Tohtamish–Timur ==
+[[Skeda:Battle between Timur and Toqtamish Khan, 1420-1440, possibly Herat. Topkapi H.2153.jpg|parapamje|Beteja mes Timurit (majtas) dhe Tohtamishit (djathtas), 1420–1440, ndoshta nga Herati.]]
+Ndërkohë, Tohtamishi, tashmë han i Hordhës së Artë, u kthye kundër patronit të tij dhe në 1385 pushtoi Azerbajxhanin. Përgjigjja e pashmangshme e Timurit rezultoi në Luftën Tohtamish–Timur. Në fazën fillestare të luftës, Timuri fitoi një venitje në Betejën e Lumit Kondurça. Pas betejës, Tohtamishit dhe pjesës së ushtrisë së tij iu lejua të iknin. Pas humbjes së parë të Tohtamishit, Timuri pushtoi Moskovinë në veri të zotërimeve të Tohtamishit. Ushtria e Timurit dogji Rjazanin dhe përparoi drejt Moskës. U tërhoq para se të arrinte lumin Oka, për shkak të fushatës së rinovuar të Tohtamishit në jug.{{sfn|Riasanovsky|Steinberg|2005|page=94}}
+
+Në fazën e parë të konfliktit me Tohtamishin, Timuri udhëhoqi një ushtri prej mbi 100.000 burrash në veri, për më shumë se 700 milje në stepë. Pastaj eci nga perëndimi rreth 1.000 milje, duke përparuar në një front më të gjerë se 10 milje. Gjatë këtij përparimi, ushtria e Timurit arriti aq në veri sa u gjend në një rajon me ditë vere shumë të gjata, gjë që shkaktoi ankesa nga ushtarët e tij myslimanë për mbajtjen e një orari të gjatë namazesh. Ishte pikërisht atëherë që ushtria e Tohtamishit u ngujua kundër brigjeve lindore të lumit Vollga, në rajonin e [[Orenburgu|Orenburgut]], dhe u shkatërrua në Betejën e Lumit Kondurça, në 1391.
+
+Në fazën e dytë të konfliktit, Timuri ndoqi një rrugë tjetër kundër armikut, duke pushtuar zotërimet e Tohtamishit përmes rajonit të Kaukazit. Në 1395, Timuri e mundi Tohtamishin në Betejën e Lumit Terek, duke përfunduar përleshjen mes dy monarkëve. Tohtamishi nuk arriti të rivendoste pushtetin apo prestigjin, dhe u vra rreth një dekadë më vonë, në zonën e [[Tjumeni]]t të sotëm. Gjatë fushatave të Timurit, ushtria e tij shkatërroi [[Sarai (qytet)|Sarain]], kryeqytetin e Hordhës së Artë, dhe [[Astrakhani]]n, duke prishur kështu Rrugën e Mëndafshit të Hordhës së Artë. Hordha e Artë nuk u rimëkëmb kurrë nga humbjet ndaj Timurit dhe përfundimisht u shpërbë në disa hanate më të vogla brenda gjysmë shekulli, çka i mundësoi Moskës të vazhdonte "mbledhjen e tokave ruse" dhe të dilte si shteti rus dominues.{{sfn|Galeotti|2024|p=93}}
+
+=== Ismailitët ===
+Në maj 1393, ushtria e Timurit pushtoi Anxhudanin, duke goditur rëndë fshatin ismailit vetëm një vit pas sulmit ndaj ismailitëve në Mazanderan. Fshati ishte përgatitur për sulmin, siç dëshmohej nga kalaja dhe sistemi i tuneleve. I papengueshëm, ushtarët e Timurit i përmbytën tunelet duke prerë një kanal sipër tyre. Arsyet e Timurit për sulmin ndaj këtij fshati nuk kuptohen ende mirë. Megjithatë, është sugjeruar se bindjet e tij fetare dhe pikëpamja e vetes si zbatues i vullnetit hyjnor mund të kenë kontribuar në motivet e tij.<ref name="Virani116">Virani, Shafique N. ''The Ismailis in the Middle Ages: A History of Survival, A Search for Salvation'' (New York: Oxford University Press), 2007, f. 116. (anglisht)</ref> Historiani persian [[Hvandamir]] shpjegon se prania ismailite po bëhej gjithnjë e më e fuqishme politikisht në Irakun persian. Një grup vendasish në rajon ishin të pakënaqur me këtë dhe, sipas Hvandamirit, u mblodhën dhe ia paraqitën ankesën Timurit, duke provokuar ndoshta sulmin e tij ndaj ismailitëve atje.<ref name="Virani116"/>
+
+== Fushata kundër Sulltanatit të Delhiut ==
+Në fund të shekullit XIV, dinastia Tuglak, e cila kishte sunduar Sulltanatin e Delhiut që nga 1320, kishte rënë. Shumica e guvernatorëve krahinorë kishin pretenduar pavarësinë, dhe Sulltanati ishte reduktuar në një fraksion të shtrirjes së tij të mëparshme.<ref name="rene">{{Cite book |last=Grousset |first=René |title=The Empire of the Steppes: A History of Central Asia |date=1970 |publisher=Rutgers University Press |isbn=978-0-8135-1304-1 |language=en|page=444}}</ref> Kjo anarki tërhoqi vëmendjen e Timurit, i cili në 1398 pushtoi nënkontinentin indian gjatë sundimit të sulltan [[Mahmud Shahu II]]. Pasi kaloi [[Lumi Indus]] më 30 shtator 1398 me një forcë prej 90.000 vetash, plaçkiti [[Tulamba]]n dhe masakroi banorët e saj.<ref name="rene"/> Dërgoi një avangardë nën udhëheqjen e nipit të tij, [[Pir Muhammed (djali i Umar Shajkhut)|Pir Muhammedit]], i cili pushtoi Multanin pas një rrethimi gjashtëmujor.<ref name="rene"/> Pushtimi i tij nuk u kundërshtua, pasi shumica e fisnikërisë u dorëzua pa luftuar. Hasi në rezistencë nga një forcë prej 2.000 vetash nën Malik [[Xhasrat]] pranë [[Sutlej]]it, mes Tulambës dhe Dipalpurit. Xhasrati u mund dhe u zu rob.<ref name="rene"/> Më pas pushtoi kalanë e Bhatnerit, të mbrojtur nga kreu rajput Rai Dul Çand, dhe e shembi.<ref name="RD">{{cite book |title=The History of India |publisher=The Rosen Publishing Group |year=2010 |isbn=978-1615301225 |page=131 |language=en}}</ref>
+
+Gjatë marshimit drejt Delhiut, Timuri u kundërshtua nga fshatarësia xhat, e cila plaçkiste karvanet dhe pastaj zhdukej në pyje. Vrau mijëra xhatë dhe zuri rob shumë të tjerë. Por Sulltanati i Delhiut nuk bëri asgjë për të ndaluar përparimin e tij.
+
+=== Pushtimi i Delhiut (1398) ===
+Beteja u zhvillua më 17 dhjetor 1398. Para betejës, Timuri masakroi rreth 100.000 skllevër që ishin zënë më parë gjatë fushatës indiane, nga frika se ata mund të ngriteshin në kryengritje.<ref>{{Cite web |url=https://www.britannica.com/event/Battle-of-Delhi-1398 |title=Battle of Delhi |website=www.britannica.com |last=Phillips |first=Charles |date=10 dhjetor 2023 |language=en}}</ref>
+
+Sulltani Nasir-ud-Din Mahmud Shah Tuglak dhe ushtria e Malu Ikbalit kishin elefantë lufte të mbrojtur me armaturë zinxhirore dhe helm në lëkurat. Meqë forcat tatare të Timurit kishin frikë nga elefantët, Timuri urdhëroi njerëzit e tij të hapnin një llogore para pozicioneve të tyre. Timuri i ngarkoi devetë e tij me sa më shumë dru e sanë të mund të mbanin. Kur elefantët e luftës sulmuan, Timuri i ndezi zjarr sanës dhe i shtyu devetë me shkopinj hekuri, duke i bërë të vraponin drejt elefantëve, duke ulëritur nga dhimbja: Timuri e kishte kuptuar se elefantët trembeshin lehtësisht. Të përballur me pamjen e çuditshme të deveve që vraponin drejt tyre me flakë që dilnin nga shpina, elefantët u kthyen dhe u tërhoqën drejt vijave të tyre. Timuri e shfrytëzoi rrëmujën që pasoi në forcat e Nasir-ud-Din Mahmud Shah Tuglakut, duke siguruar një fitore të lehtë. Nasir-ud-Din Mahmud Shah Tuglaku iku me mbetjet e forcave të tij.
+
+Pushtimi i Sulltanatit të Delhiut ishte një nga fitoret më të mëdha dhe më shkatërrimtare të Timurit, pasi në atë kohë Delhiu ishte një nga qytetet më të pasura në botë. Qyteti i Delhiut u plaçkit dhe u shndërrua në rrënoja, me popullsinë e robëruar.<ref>{{Cite web |title=Battle of Delhi |url=https://historyonthisday.com/events/mongolian-empire/timur-battle-of-delhi/ |website=History on this day |language=en}}</ref> Pas rënies së qytetit, filluan kryengritje të banorëve kundër turko-mongolëve, duke shkaktuar një masakër hakmarrëse brenda mureve të qytetit. Pas tri ditësh kryengritjeje brenda Delhiut, thuhet se qyteti kishte erë të keqe nga kufomat e banorëve në zbërthim, me kokat e tyre të ngritura si struktura dhe trupat e lëna si ushqim për zogjtë nga ushtarët e Timurit. Pushtimi dhe shkatërrimi i Delhiut nga Timuri e vazhdoi kaosin që po e mbulonte ende Indinë, dhe qyteti nuk do të arrinte të rimëkëmbej nga humbja e madhe që pësoi për gati një shekull.{{sfn|Marozzi|2004|pp=269–274}}
+
+== Fushatat në Kaukaz dhe Levant ==
+[[Skeda:Timur's army attacks Nerges, Georgia.jpg|parapamje|Ushtria e emirit Timur sulmon të mbijetuarit e qytetit të Nergesit, në Gjeorgji, në pranverën e 1396-s. ''Garrett Zafarnama'' (rreth 1480)]]
+Para fundit të 1399-s, Timuri nisi një luftë me [[Bajaziti I|Bajazitin I]], sulltan i Perandorisë Osmane, dhe me sulltanin mamluk të Egjiptit, [[Nasir-ad-Din Faraxh]]. Bajaziti kishte nisur të aneksonte territoret e sundimtarëve turkmenë e myslimanë në Anadoll. Meqë Timuri pretendonte sovranitet mbi sundimtarët turkmenë, ata u strehuan pas tij.
+
+[[Skeda:Jalayirids in 1400.png|parapamje|majtas|Territoret xhelajiride dhe timuride në 1400.]]
+Në 1400, Timuri pushtoi Armeninë dhe Gjeorgjinë. Mes 1386 dhe 1404, forcat turko-mongole të Timurit sulmuan disa herë vendet e Transkaukazisë nga bazat e tyre në veri të Iranit. Tifllisi u pushtua përfundimisht nga Timuri në 1404, dhe [[Gjergji VII i Gjeorgjisë|mbreti Gjergj VII]] u detyrua ta njihte sovranitetin timurid. Edhe Armenia, e cila ishte nën kontrollin mongol xhelajirid, u përfshi në mbretërinë timuride. Nga popullsia e mbijetuar, më shumë se 60.000 njerëz vendas u zunë skllevër, dhe shumë krahina u shpopulluan. Sulmoi gjithashtu [[Sivasi]]n në Azinë e Vogël.{{sfn|Nicol|1993|p=314}}
+
+Timuri u drejtua pastaj nga Siria, duke plaçkitur Halepin dhe Damaskun. Banorët e qytetit u masakruan, përveç artizanëve, të cilët u deportuan në Samarkand.
+
+Timuri pushtoi Bagdadin në qershor 1401. Pas pushtimit të qytetit, 20.000 qytetarë u masakruan. Timuri urdhëroi çdo ushtar të kthehej me së paku dy koka të prera njerëzore për t'ia treguar. Kur mbaruan njerëzit për të vrarë, shumë luftëtarë vranë të burgosur të zënë më herët gjatë fushatës, dhe kur mbaruan edhe të burgosurit, shumë iu drejtuan therjes së grave të veta.<ref>{{Cite book |last=ʻArabshāh |first=Aḥmad ibn Muḥammad Ibn |title=Tamerlane: Or, Timur, the Great Amir |date=1976 |publisher=Progressive Books |page=168 |language=en}}</ref> Historiani britanik [[David Nicolle]], në veprën e tij "The Mongol Warlords", citon një historian anonim bashkëkohor që e krahasoi ushtrinë e Timurit me "milingona dhe karkaleca që mbulojnë krejt fshatin, duke plaçkitur e shkretuar."<ref>{{cite book |last1=Nicolle |first1=David |last2=Hook |first2=Richard |title=The Mongol Warlords Genghis Khan, Kublai Khan, Hulegu, Tamerlane |date=1998 |publisher=Brockhampton Press |isbn=1860194079 |page=161 |language=en}}</ref>
+
+== Pushtimi i Anadollit ==
+{{Kryesor|Beteja e Ankarasë}}
+Ndërkohë, kishin kaluar vite letrash fyese mes Timurit dhe Bajazitit. Të dy sundimtarët e fyenin njëri-tjetrin secili në mënyrën e vet, ndërsa Timuri preferonte të minonte pozitën e Bajazitit si sundimtar dhe të zvogëlonte rëndësinë e sukseseve të tij ushtarake.
+
+Ky është një fragment nga një prej letrave të Timurit drejtuar sulltanit osman:
+
+{{blockquote|Më beso, ti nuk je gjë tjetër veçse një milingonë: mos kërko të luftosh elefantët, se do të të shkelin nën këmbë. A do të përballet me ne një princ i vogël si ti? Por mburrjet e tua nuk janë asgjë e jashtëzakonshme, sepse një turkoman kurrë nuk foli me gjykim. Nëse nuk i ndjek këshillat tona, do ta pendosh.|autor=Timuri<ref>Rhoads Murphey, ''Exploring Ottoman Sovereignty: Tradition, Image and Practice in the Ottoman Imperial Household 1400–1800''; Continium, 2008, f. 58. (anglisht)</ref>}}
+
+[[Skeda:Festivities with Bayezid as prisoner, after conquering Rum territories. Zafarnama, 1528 (Golestan, MS 708).jpg|parapamje|Festë me Bajazitin I si i burgosur, pas pushtimit të territoreve të Rumit. ''Zafarnama'', 1528 (Golestan, DS 708).]]
+Së fundi, Timuri pushtoi Anadollin dhe e mundi Bajazitin në Betejën e Ankarasë, më 20 korrik 1402. Bajaziti u zu rob në betejë dhe vdiq më pas në robëri, duke nisur periudhën dymbëdhjetëvjeçare të [[Qeverimi i ndërmjetshëm osman|Qeverimit të Ndërmjetshëm Osman]]. Motivimi i deklaruar i Timurit për sulmin ndaj Bajazitit dhe Perandorisë Osmane ishte rivendosja e autoritetit selxhuk. Timuri i shihte selxhukët si sundimtarë të ligjshëm të Anadollit, pasi u ishte dhënë sundimi nga pushtuesit mongolë, çka ilustron interesimin e Timurit për legjitimitetin çingizid.
+
+Në dhjetor 1402, Timuri rrethoi dhe pushtoi Smirnën, një kështjellë të kalorësve të krishterë hospitalierë; kështu e quajti veten ''gazi'', ose "Luftëtar i Islamit". Në Smirnë u krye një prerje masive kokash nga ushtarët e Timurit.<ref name="Reilly2012">{{cite book|author=Kevin Reilly|title=The Human Journey: A Concise Introduction to World History|year=2012|publisher=Rowman & Littlefield|isbn=978-1442213845|pages=164|language=en}}</ref>
+
+Me [[Traktati i Galipolit|Traktatin e Galipolit]] në shkurt 1403, Timuri u zemërua me gjenovezët dhe venedikasit, pasi anijet e tyre e transportuan ushtrinë osmane në siguri, në Trakë. Siç raportoi [[Lord Kinross]] në ''The Ottoman Centuries'', italianët preferonin armikun që mund ta përballonin, sesa atë që nuk mund ta përballonin.
+
+Gjatë fillimit të periudhës së ndërmjetme, i biri i Bajazitit I, [[Mehmet I|Mehmet Çelebiu]], veproi si vasal i Timurit. Ndryshe nga princat e tjerë, Mehmeti prente monedha ku emri i Timurit ishte gdhendur si "Demur han Gürgân", krahas emrit të vet, "Mehmed bin Bayezid han".<ref name="ottomancivilwar">{{cite book |author=Kastritsis |first=Dimitris J. |title=The Sons of Bayezid: Empire Building and Representation in the Ottoman Civil War of 1402–1413 |publisher=Brill |year=2007 |page=49 |language=en}}</ref> Kjo ishte ndoshta një përpjekje e Mehmetit për t'ia arsyetuar Timurit pushtimin e Bursës pas Betejës së Ulubadit. Pasi Mehmeti u vendos në "Rum", Timuri kishte filluar tashmë përgatitjet për kthimin në Azinë Qendrore, dhe nuk ndërmori hapa të mëtejshëm për të ndërhyrë në ''status quo''-n në Anadoll.<ref name="ottomancivilwar"/>
+
+Ndërsa Timuri ishte ende në Anadoll, [[Kara Jusufi]] sulmoi Bagdadin dhe e pushtoi në 1402. Timuri u kthye në Persi dhe dërgoi nipin e tij, Ebu Bekr ibn Miran Shahun, për ta rimarrë Bagdadin, gjë që ai e bëri. Timuri kaloi më pas njëfarë kohe në [[Ardebili]], ku i dha [[Ali Safeviut]], udhëheqësi i [[Safavia|Safaviyes]], disa robër. Më pas marshoi drejt Horasanit e pastaj Samarkandit, ku kaloi nëntë muaj duke festuar dhe përgatitur pushtimin e Mongolisë e Kinës.
+
+== Përpjekjet për sulm mbi Dinastinë Ming ==
+[[Skeda:The campaign against China. Shah Rukh leads the Timurid army towards China on 19 February 1405, after Timur's death. Facing folios 414r, 413v.jpg|parapamje|Fushata kundër Kinës. Shah Rukhu (djathtas) e udhëheq ushtrinë timuride drejt Kinës më 19 shkurt 1405, pas vdekjes së Timurit. ''Zafarnama'' (1436)]]
+Në 1368, [[Dinastia Juan]] u shpërbë dhe u pasua nga [[Dinastia Ming]]. Dinastia Ming, gjatë sundimit të themeluesit të saj, [[Perandori Hongwu]], dhe të birit të tij, [[Perandori Yongle]], krijoi shtete vasale në shumë vende të Azisë Qendrore. Në 1394, ambasadorët e Perandorit Hongwu i paraqitën Timurit një letër që e adresonte si nënshtetas. Timuri i mbajti të burgosur ambasadorët Fu An, Guo Xhi dhe Liu Vei.{{sfn|Tsai|2002|pp=188–189}} As ambasadori tjetër i Perandorit Hongwu, Çen Devën (1397), as delegacioni që shpalli ngjitjen në fron të Perandorit Yongle, nuk patën fat më të mirë.{{sfn|Tsai|2002|pp=188–189}}
+
+Timuri planifikoi përfundimisht të pushtonte Kinën. Për këtë qëllim, bëri aleancë me fiset mongole të mbijetuara në [[Platoja Mongole|Platonë Mongole]], dhe u përgatit deri në Bukhara. [[Engke Han]]i dërgoi nipin e tij, [[Öljei Temür Han]]in, njohur edhe si "Buyanshir Han" pasi u konvertua në Islam në oborrin e Timurit në Samarkand.
+
+== Vdekja ==
+Timuri preferonte t'i zhvillonte betejat në pranverë. Megjithatë, u zhvendos nga lindja përmes Portave të Timurit dhe vdiq gjatë rrugës, në një fushatë të pazakontë dimërore. Në dhjetor 1404, Timuri filloi fushata ushtarake kundër Kinës Ming dhe mbajti të burgosur një të dërguar Ming. U sëmur ndërsa ishte kampuar në anën tjetër të Sirdaries dhe vdiq në [[Farab]] më 17 ose 18 shkurt 1405,<ref name="silk">{{cite web |author=Lee |first=Adela C. Y. |title=Tamerlane (1336–1405) – The Last Great Nomad Power |url=http://www.silk-road.com/artl/timur.shtml |publisher=Silkroad Foundation |language=en}}</ref> pa arritur kurrë kufirin kinez.{{sfn|Tsai|2002|p=161}} Pas vdekjes së tij, të dërguarit Ming, si Fu Ani, dhe pjesa tjetër e shoqërisë u lëshuan{{sfn|Tsai|2002|pp=188–189}} nga nipi i tij, Khalil Sultan.
+
+Gjeografi [[Clements Markham]], në hyrjen e tij mbi rrëfimin e ambasadës së Klavihos, thotë se, pasi vdiq Timuri, trupi i tij "u balsamos me mushk dhe ujë trëndafili, u mbështoll në liri, u vendos në një arkivol prej abanozi dhe u dërgua në Samarkand, ku u varros".<ref>James Louis Garvin, Franklin Henry Hooper, Warren E. Cox, ''Encyclopædia Britannica'', Vëll. 22 (1929), f. 233. (anglisht)</ref> Varri i tij, [[Gur-e-Amir]]i, qëndron ende në Samarkand, ndonëse është restauruar shumë vitet e fundit.
+
+== Pasardhësia në fron ==
+{{Hatnote|Artikulli kryesor: {{ill|Perandoria Timuride|en|Timurid Empire}}}}
+[[Skeda:ShrineofAmirTimur.jpg|parapamje|Mauzoleu i Timurit ndodhet në Samarkand, Uzbekistan.]]
+Timuri kishte caktuar dy herë më parë një trashëgimtar për ta pasuar, të dy të cilëve u mbijetoi. I pari, i biri [[Jahangir Mirza (princ timurid)|Jahangir]]i, vdiq nga sëmundja në 1376. I dyti, nipi [[Muhamed Sulltan Mirza|Muhamed Sulltani]], vdiq nga plagët e betejës në 1403. Pas vdekjes së këtij të fundit, Timuri nuk bëri asgjë për ta zëvendësuar. Vetëm kur ishte në shtratin e vdekjes caktoi vëllain e vogël të Muhamed Sulltanit, [[Pir Muhamed ibn Jahangir|Pir Muhamedin]], si trashëgimtar.
+
+Pir Muhamedi nuk arriti të fitonte mbështetje të mjaftueshme nga të afërmit e tij dhe shpërtheu një luftë civile e ashpër mes pasardhësve të Timurit, me shumë princa që ndiqnin pretendimet e tyre. Vetëm në 1409 djali më i vogël i Timurit, [[Shah Rukh]]u, arriti t'i mposhtte rivalët e tij dhe të merrte fronin si trashëgimtar i Timurit.
+== Pikëpamjet fetare ==
+[[Skeda:Timur at the funerals of his grandson Muhammad Sultan Mirza ibn Jahangir in 1403. Zafarnama of 1436.jpg|parapamje|upright=.8|Timuri në funeralin e nipit të tij, Muhamed Sulltan Mirza ibn Jahangiri, në 1403. ''Zafarnama'' (1436)]]
+Timuri ishte mysliman sunit praktikues, ndoshta i lidhur me [[Urdhri Naksibendi|Urdhrin Naksibendi]] të [[Sufizmi|sufizmit]], i cili kishte ndikim në Transoksiana.{{sfn|Manz|1999|page=17}} Këshilltari e mentori i tij kryesor fetar ishte dijetari hanefi Abd al-Xhabar Hvarezmi. Në [[Termezi]], ra nën ndikimin e mentorit shpirtëror [[Sejjid Baraka]], një udhëheqës nga Balkh, i cili varroset krah Timurit në Gur-e-Amir.
+
+Timuri njihej për respektin që kishte për [[Aliu]]n dhe [[Ehli Bejti]]n, dhe është vënë re nga studiues të ndryshëm për qëndrimin e tij "pro-shiit". Megjithatë, ai dënoi shiitë edhe për shpërfilljen e kujtimit të [[Sahabët|sahabëve]]. Timuri u vu re gjithashtu duke sulmuar shiitët me apologji sunite, ndërkohë që herë të tjera sulmoi edhe sunitët për arsye fetare.<ref name="Virani114">Virani, Shafique N. ''The Ismailis in the Middle Ages: A History of Survival, A Search for Salvation'' (New York: Oxford University Press), 2007, f. 114. (anglisht)</ref> Në kontrast, Timuri e vlerësonte lart sulltanin selxhuk [[Ahmed Sanxheri]] për sulmin ndaj ismailitëve në [[Alamuti]], ndërkohë që sulmi i vetë Timurit ndaj ismailitëve në Anxhudan ishte po aq brutal.<ref name="Virani114"/>
+
+Arkeologë kazakë studiuan një tumë varrimi rituali në Ulitaun, ndërtuar nga Timuri gjatë fushatës kundër Hordhës së Artë, me ndihmën e specialistëve të kimisë dhe gjeologjisë. Ata konkluduan se vendi kishte një rëndësi të shenjtë për Timurin, i cili synonte t'u drejtohej shpirtrave të paraardhësve të tij dhe të kërkonte mbështetjen e tyre në luftën kundër Tohtamishit. Kjo interpretim i lidh praktikat e atribuara Timurit me besime të rrënjosura në traditat fetare të mongolëve të shekullit XIII dhe [[Shamanizmi|shamanizmin]], duke ngritur pyetje mbi shkallën në të cilën ai respektonte normat e së drejtës islame (sheriatit). Edhe bashkëkohësit e Timurit vunë në dyshim përkushtimin e tij ndaj Islamit dhe nuk e njihnin si mysliman.{{sfn|Mirgaleev et al.|2022|p=79}} Sipas Ibn Arabshahut: "Ai u jepte përparësi ligjeve të Xhingis Hanit, duke i konsideruar themelore. Prandaj, një numër i madh teologësh lëshuan një fetva që e shpallte të pafe, ndonëse ritet islame praktikoheshin hapur në mbretërinë e tij".{{sfn|Mirgaleev et al.|2022|p=83}}
+
+Timuri zhvilloi luftëra kundër shteteve të tjera me qëllim pushtimi dhe plaçkitjeje. Kundërshtarët e tij kryesorë ishin shtete myslimane. Sundimtarët dhe teologët islamikë të këtyre shteteve padyshim ia mbanin këtë kundër Timurit, duke e akuzuar për mosbesim ose duke e paraqitur si një tiran më të keq se vetë të pafetë. Kronikat ruse përfshijnë "Përrallën e Temir-Aksakut", në të cilën Timuri karakterizohet si një pagan i lig. Ky informacion mund të ketë origjinën nga nomadët e Hordhës së Artë. Çështja e fetarisë së Timurit u trajtua gjithashtu në korrespondencën e tij me sundimtarin osman Bajazitin I. Osmanët shkruanin për Timurin dhe ushtrinë e tij se ishin "më të këqij se të pafetë". Në veprën e tij ''Mbi varrimin e Timurit'', [[Vasilij Bartold]], duke u mbështetur në shkrimet e Sherefudin Ali Jazdiut, përshkruan si, pas varrimit të Timurit, gratë e tij dhe gra të tjera fisnike kryen rituale zie sipas zakoneve nomade: zbuluan kokat dhe gërvishtën fytyrat, i nxinë fytyrat, shqyen flokët, u hodhën në tokë dhe mbuluan kokat me pluhur, dhe mbështollën qafat me shajak.{{sfn|Mirgaleev et al.|2022|p=80}} Gjatë "zakonit nomad" pas vdekjes së Timurit, "madje edhe përfaqësues të Islamit, si shejh el-Islam Abd al-Avali dhe Isam al-Din, u detyruan të vishnin rroba zie".{{sfn|Mirgaleev et al.|2022|pp=78-79}} Ka gjasa që imazhi i Timurit të jetë islamizuar shumë nga pasardhësit e tij, mbi të gjitha nga Shah Rukhu.{{sfn|Mirgaleev et al.|2022|pp=79-80}}
+
+== Personaliteti ==
+Timuri konsiderohet një gjeni ushtarak dhe një taktik i shkëlqyer, me një aftësi të jashtëzakonshme për të vepruar brenda një strukture politike shumë të lëngshme për të fituar dhe mbajtur ndjekjen besnike të nomadëve gjatë sundimit të tij në Azinë Qendrore. Konsiderohej gjithashtu jashtëzakonisht inteligjent — jo vetëm intuitivisht, por edhe intelektualisht.{{sfn|Manz|1999|p=16}} Në Samarkand dhe udhëtimet e tij të shumta, Timuri, nën udhëzimin e dijetarëve të shquar, arriti të mësonte persishten, mongolishten dhe gjuhët turke{{sfn|Marozzi|2004|p=9}} (sipas Ibn Arabshahut, Timuri nuk fliste arabisht). Megjithatë, Timuri e vlerësonte veçanërisht persishten, pasi ishte jo vetëm gjuha e oborrit të tij, por edhe e kancelarisë.
+
+[[Skeda:Timur leading his troops at the 1401 Siege of Baghdad. Near-contemporary manuscript commissioned by his grandson Ibrahim Sultan in 1424–28. Published in 1435-36.jpg|parapamje|Timuri duke i udhëhequr trupat e tij në Rrethimin e Bagdadit (1401). Portret afërsisht bashkëkohor në ''Zafarnama'', porositur nga nipi i tij, Ibrahim Sultani, në 1424–28. Botuar 1435–36.]]
+Sipas John Joseph Saundersit, Timuri ishte "produkt i një shoqërie të islamizuar dhe iranizuar" më shumë sesa një nomad stepe.<ref name="Saunders2001">{{Cite book|last=Saunders |first=J. J. |title=The History of the Mongol Conquests |year=2001 |publisher=University of Pennsylvania Press |isbn=978-0812217667|pages=173 |language=en}}</ref> Më e rëndësishme, Timuri karakterizohet si oportunist. Duke shfrytëzuar trashëgiminë e tij turko-mongole, Timuri përdorte shpesh ose Islamin, [[Sheriati|sheriatin]], [[Fikhu|fikhun]], ose traditat e Perandorisë Mongole për të arritur qëllimet e tij ushtarake apo synimet e brendshme politike.{{sfn|Marozzi|2004}} Timuri ishte një mbret i mësuar dhe kënaqej me shoqërinë e dijetarëve; ishte tolerant dhe bujar me ta. Ishte bashkëkohës i poetit persian [[Hafizi]], dhe një histori mbi takimin e tyre shpjegon se Timuri e thirri Hafizin, i cili kishte shkruar një gazel me vargun e mëposhtëm:
+
+:Për nishanin e zi mbi faqen tënde
+:Do t'i jepja qytetet e Samarkandit dhe Bukharasë.
+
+Timuri e qortoi për këtë varg dhe tha: "Me goditjet e shpatës sime të mirëfortë kam pushtuar pjesën më të madhe të botës për të zgjeruar Samarkandin dhe Bukharanë, kryeqytetet dhe rezidencat e mia; e ti, krijesë e mjerë, do t'i shkëmbeje këto dy qytete për një nishan." Hafizi, i patrembur, u përgjigj: "Është pikërisht prej një bujarie të ngjashme që unë jam reduktuar, siç e sheh, në gjendjen time të tanishme të varfërisë." Raportohet se Timuri u kënaq nga përgjigjja e mprehtë, dhe poeti u largua me dhurata madhështore.
+
+Ekziston një pikëpamje e përhapur se motivi i vërtetë i Timurit për fushatat e tij ishte ambicia perandorake, e shprehur në deklaratën e tij: "I gjithë shtrirja e pjesës së banuar të botës nuk është aq e madhe sa të ketë dy mbretër." Megjithatë, ndërsa Timuri përdori një strukturë administrative të centralizuar në territoret e tij thelbësore të Azisë Qendrore dhe Iranit, e cila kombinonte traditat nomade turko-mongole me një aparat burokratik persian, përtej Iranit, Timuri plaçkiti shtetet që pushtoi për të pasuruar Samarkandin e tij të lindjes dhe neglizhoi zonat e pushtuara, çka mund të ketë kontribuar në copëtimin e perandorisë pas vdekjes së tij.<ref>{{Cite book |last=Beatrice Forbes Manz |title=The rise and rule of Tamerlane |date=1999 |publisher=Cambridge University Press |isbn=978-0-521-63384-0 |language=en}}</ref>
+
+Timuri përdorte shpesh shprehje persiane në bisedat e tij, dhe motoja e tij ishte fjala e urtë persiane ''rāstī rustī'', që do të thotë "e vërteta është siguri". I atribuohet edhe shpikja e variantit të shahut Tamerlan, luajtur në një fushë 10×11.<ref name="C&K">Cazaux, Jean-Louis dhe Knowlton, Rick (2017). ''A World of Chess'', f. 31. McFarland. (anglisht)</ref>
+
+== Shkëmbimet me Evropën ==
+[[Skeda:Letter of Tamerlane to Charles VI 1402.jpg|parapamje|Letra e Timurit drejtuar Karlit VI të Francës, 1402, dëshmi e marrëdhënieve timuride me Evropën. Arkivat Kombëtare, Paris.]]
+Timuri pati shumë shkëmbime epistolare e diplomatike me shtete të ndryshme evropiane, sidomos me Spanjën dhe Francën. Marrëdhëniet mes oborrit të [[Enrik III i Kastiljes|Enrikut III të Kastiljes]] dhe atij të Timurit luajtën një rol të rëndësishëm në diplomacinë mesjetare kastiliane. Në 1402, në kohën e Betejës së Ankarasë, dy ambasadorë spanjollë ishin tashmë me Timurin: Pelajo de Sotomajor dhe Fernando de Palazuelos. Më vonë, Timuri i dërgoi oborrit të Mbretërisë së Leonit dhe Kastiljes një ambasador çagatai, të quajtur Haxhi Muhamed el-Kazi, me letra e dhurata.
+
+Në përgjigje, Enriku III i Kastiljes dërgoi një ambasadë të njohur në oborrin e Timurit në Samarkand, në 1403–06, e udhëhequr nga Ruy González de Klavihoja, me dy ambasadorë të tjerë, Alfonso Paez dhe Gomez de Salazar. Në kthim, Timuri pohoi se e konsideronte mbretin e Kastiljes "si djalin e tij të vërtetë".
+
+Sipas Klavihos, trajtimi i mirë i Timurit ndaj delegacionit spanjoll kontrastonte me përbuzjen që tregoi ndaj të dërguarve të "zotit të Katajt" (pra, Perandorit Yongle), sundimtarit kinez. Vizita e Klavihos në Samarkand i mundësoi t'i raportonte audiencës evropiane lajme nga Kataji (Kina), të cilën pak evropianë kishin mundur ta vizitonin drejtpërdrejt në shekullin që kishte kaluar që nga udhëtimet e [[Marko Polo]]s.
+
+Arkivat franceze ruajnë:
+* Një letër e datës 30 korrik 1402, nga Timuri drejtuar Karlit VI të Francës, që sugjeronte t'u dërgonte tregtarë Azisë. Është shkruar në persisht.
+* Një letër e majit 1403. Kjo është një transkriptim latin i një letre nga Timuri drejtuar Karlit VI, dhe një tjetër nga Miran Shahu, i biri, drejtuar princave të krishterë, duke shpallur fitoren e tyre ndaj Bajazitit I në Smirnë.
+
+Është ruajtur edhe një kopje e përgjigjes së Karlit VI drejtuar Timurit, e datës 15 qershor 1403.
+
+Përveç kësaj, bizantini [[Jani VII Paleologu]], i cili ishte regjent gjatë mungesës së xhaxhait të tij në Perëndim, dërgoi një fretën dominikan në gusht 1401 tek Timuri, për t'i shprehur respekt dhe për t'i propozuar pagesën e taksës në vend të turqve, sapo t'i mundte këta të fundit.{{sfn|Nicol|1993|p=314}}
+
+== Trashëgimia ==
+Trashëgimia e Timurit është e përzier. Ndërsa Azia Qendrore lulëzoi nën sundimin e tij, vende të tjera, si Bagdadi, Damasku, Delhi dhe qytete të tjera arabe, gjeorgjiane, persiane dhe indiane, u plaçkitën e u shkatërruan, ndërsa popullsitë e tyre u masakruan. Kështu, ndërsa Timuri ende gëzon një imazh pozitiv në Azinë Qendrore myslimane, ai denigrohet nga shumë njerëz në Arabi, Irak, Persi dhe Indi, ku u kryen disa nga mizoritë e tij më të mëdha. Megjithatë, Ibn Halduni e lavdëron Timurin për bashkimin e pjesës më të madhe të botës myslimane, kur pushtues të tjerë të kohës nuk mundën.{{sfn|Mirgaleev et al.|2022|p=77}} Pushtuesi i madh i ardhshëm i Lindjes së Mesme, Nadir Shahu, u ndikua fuqishëm nga Timuri dhe pothuajse ripërsëriti pushtimet dhe strategjitë e tij të betejave në fushatat e veta. Ashtu si Timuri, Nadir Shahu pushtoi pjesën më të madhe të Kaukazisë, Persisë dhe Azisë Qendrore, bashkë me plaçkitjen e Delhiut.
+
+Perandoria e shkurtër e Timurit shkriu gjithashtu traditën turko-persiane në Transoksiana, dhe në pjesën më të madhe të territoreve që përfshiu në zotërimin e tij, persishtja u bë gjuha kryesore e administratës dhe kulturës letrare (''divani''), pavarësisht nga etnia.{{sfn|Manz|1999|p=109}} Përveç kësaj, gjatë sundimit të tij, u shkruan disa kontribute për letërsinë turke, ndërsa ndikimi kulturor turk u zgjerua e lulëzoi si rezultat. Një formë letrare e çagataishtes turke hyri në përdorim krahas persishtes, si gjuhë kulturore dhe zyrtare njëkohësisht.
+
+Në Uzbekistan, Timuri quhet "Themelues i kombit uzbek", ndonëse i përkiste një fisi rival që i urrente uzbekët.{{sfn|Foltz|2019|p=179}} Monumenti i tij në Tashkent zë sot vendin ku dikur qëndronte statuja e [[Karl Marks]]it. [[Muzeu Amir Timur]] në Tashkent përqendrohet te gjenealogjia dhe jeta e tij.
+
+Një teolog e historian tatar, [[Shihabudin Merxhani]], argumentoi se dobësimi i Kazanit dhe i Bolgarit, si dhe zhdukja dhe copëtimi i tyre i mëvonshëm, u shkaktuan nga pushtimet dhe plaçkitjet e Timurit. Në mbështetje të kësaj pikëpamjeje, ai citoi fjalët e mësuesit të tij: "Kemi dëgjuar shpesh kadiun Ebu Said el-Samarkandi, Zoti e mëshiroftë, të thoshte se Timuri i shkaktoi Islamit dëme shumë herë më të mëdha se të pafetë Xhingis Hani, Çagataj dhe Hulagu".{{sfn|Mirgaleev et al.|2022|pp=78-79}}
+
+Tamerlani thuajse e shfarosi [[Kisha e Lindjes]], e cila më parë kishte qenë një degë e madhe e krishterimit, por më pas u kufizua kryesisht në një zonë të vogël të njohur sot si Trekëndëshi Asirian.<ref name="nestoriangenocide">{{cite web |title=Nestorianism |url=https://www.britannica.com/topic/Nestorianism |website=www.britannica.com |language=en}}</ref>
+
+=== Burimet historike ===
+[[Skeda:Autograph of Ahmad ibn Arabshah.png|parapamje|djathtas|Vepra e Ahmed ibn Arabshahut mbi "Jetën e Timurit"]]
+Historia më e hershme e njohur e sundimit të tij ishte ''Zafarnama'' e Nizamudin Shami-t, shkruar gjatë jetës së Timurit. Mes 1424 dhe 1428, Sherefudin Ali Jazdiu shkroi një ''Zafarnama'' të dytë, duke u mbështetur shumë në veprën e mëparshme të Shamit. Ahmed ibn Arabshahu shkroi një histori shumë më pak të favorshme, në arabisht. Historia e Arabshahut u përkthye në latinisht nga orientalisti holandez Jacobus Golius në 1636.
+
+Si histori të porositura nga vetë timuridët, dy ''Zafarnama''-t paraqesin një pamje dramatikisht të ndryshme nga kronika e Arabshahut. William Jones vuri në dukje se e para e paraqiste Timurin si "princ liberal, bamirës dhe të shquar", ndërsa e dyta e pikturonte si "të shformuar e të paperëndishëm, me lindje të ulët e parime të urryera".{{sfn|Goldsmid|1911|p=994}}
+
+==== ''Malfuzat-i Timuri'' ====
+''Malfuzat-i Timuri'' dhe ''Tuzuk-i Timuri'' e bashkangjitur, gjoja autobiografia e vetë Timurit, janë pothuajse me siguri falsifikime të shekullit XVII. Studiuesi Ebu Talib Hosajni ia paraqiti tekstet perandorit mogul [[Shah Xhahan]], një pasardhës i largët i Timurit, në 1637–1638, gjoja pasi i kishte zbuluar origjinalet në gjuhën çagatai në bibliotekën e një sundimtari jemenit. Për shkak të distancës mes Jemenit dhe bazës së Timurit në Transoksiana dhe mungesës së çdo dëshmie tjetër për origjinalet, shumica e historianëve e konsiderojnë historinë tepër të pabesueshme, dhe dyshojnë se Hosajni shpiku vetë si tekstin ashtu edhe historinë e origjinës së tij.
+
+=== Pikëpamjet evropiane ===
+Timuri pati me sa duket një ndikim të rëndësishëm në kulturën e Rilindjes dhe Evropën e hershme moderne. Pikëpamjet evropiane për Timurin ishin të përziera gjatë shekullit XV, me disa vende evropiane që e quanin aleat, të tjerë që e shihnin si kërcënim për Evropën për shkak të zgjerimit të tij të shpejtë dhe brutalitetit.
+
+Kur Timuri e zuri rob sulltanin osman Bajazitin në Ankara, ai shpesh u lavdërua dhe u pa si aleat i besuar nga sundimtarët evropianë, si Karli VI i Francës dhe Henriku IV i Anglisë, sepse besonin se po e shpëtonte krishterimin nga Perandoria Turke në Lindjen e Mesme. Këta dy mbretër e lavdëruan gjithashtu sepse fitorja e tij në Ankara u mundësoi tregtarëve të krishterë të mbeteshin në Lindjen e Mesme dhe të ktheheshin të sigurt në shtëpi, në Francë dhe Angli. Timuri u lavdërua gjithashtu sepse besohej se ndihmoi në rivendosjen e së drejtës së kalimit për pelegrinët e krishterë drejt Tokës së Shenjtë.
+
+Evropianë të tjerë e shihnin Timurin si armik barbar që përbënte kërcënim si për kulturën evropiane, ashtu edhe për fenë e krishterimit. Ngritja e tij në pushtet i shtyu shumë udhëheqës, si Enrikun III të Kastiljes, të dërgonin ambasada në Samarkand për ta studiuar Timurin, për të mësuar mbi popullin e tij, për të bërë aleanca me të dhe për të tentuar ta bindin të konvertohej në krishterim, në mënyrë që të shmangej lufta.
+
+Në 1794, [[Sake Dean Mahomed]] botoi librin e tij të udhëtimit, ''The Travels of Dean Mahomet''. Libri fillon me lavdërimin e Xhingis Hanit, Timurit, e sidomos të perandorit të parë mogul, [[Baburi]]t. Jep gjithashtu detaje të rëndësishme mbi perandorin mogul të asaj kohe, [[Shah Alam II]].
+
+Poema "[[Tamerlan (poemë)|Tamerlan]]" nga [[Edgar Allan Poe]] ndjek një version të trilluar të jetës së Timurit.
+
+Në hyrjen e një përkthimi të vitit 1723 të ''Zafarnama''-s së Jazdiut, përkthyesi shkruante: "[François Pétis de la Croix] na thotë se ka shpifje e mashtrime, të cilat janë botuar nga autorë romancash, dhe shkrimtarë turq që ishin armiqtë e tij dhe kishin zili lavdinë e tij: mes tyre është Ahmed Bin Arabshah... Meqë Timur-Beku kishte pushtuar turqit dhe arabët e Sirisë, dhe madje kishte zënë rob sulltan Bajazitin, nuk është çudi që është keqpërfaqësuar nga historianët e atyre kombeve, të cilët, përkundër së vërtetës e kundër dinjitetit të historisë, kanë rënë në tepri të mëdha mbi këtë temë."
+
+=== Zhvarrimi dhe mallkimi i pretenduar ===
+[[Skeda:Tomb of Timur, Gur-e-Amir.jpg|parapamje|Varri i Timurit në Gur-e-Amir, Samarkand]]
+Trupi i Timurit u nxor nga varri më 19 qershor 1941, dhe mbetjet e tij u ekzaminuan nga antropologët sovjetikë Mihail M. Gerasimov, Lev V. Oshanini dhe V. Ja. Zezenkova. Gerasimovi rindërtoi ngjashmërinë e Timurit nga kafka e tij dhe zbuloi se karakteristikat e fytyrës tregonin "tipare tipike mongoloide", pra aziatiko-lindore në terma modernë. Një studim antropologjik i kafkës së Timurit tregon se ai i përkiste kryesisht "tipit mongoloid siberian jugor". Me lartësi rreth 1,73 m, Timuri ishte i gjatë për epokën e tij. Ekzaminimet konfirmuan se Timuri ishte i çalë dhe kishte një krah të djathtë të tharë për shkak të plagëve. Kocka e kofshës së djathtë ishte bashkuar me kockën e gjurit, dhe konfigurimi i nyjes së gjurit sugjeron se e mbante këmbën përkulur vazhdimisht dhe kështu do të kishte pasur një çalim të theksuar. Duket se kishte gjoks të gjerë dhe flokë e mjekër të kuqe.
+
+Thuhet se varri i Timurit ishte gdhendur me fjalët: "Kur të ringjallem, bota do të dridhet". Thuhet gjithashtu se kur Gerasimovi zhvarroi trupin, u gjet një mbishkrim shtesë brenda arkivolit, që thoshte: "Kushdo qoftë ai që hap varrin tim, do të lëshojë një pushtues më të tmerrshëm se unë." Edhe pse njerëz të afërt me Gerasimovin pohojnë se kjo histori është një trillim, ajo u bë e njohur si Mallkimi i Timurit. Sido që të jetë, tri ditë pasi Gerasimovi filloi zhvarrimin, Gjermania Naziste pushtoi Bashkimin Sovjetik, çka rezultoi në një nga pushtimet më vdekjeprurëse në historinë njerëzore. Timuri u rivarros me ritual të plotë islam në nëntor 1942, pak para fitores sovjetike në Betejën e Stalingradit.{{sfn|Marozzi|2004}}
+
+=== Në artet ===
+* ''Tamburlaine the Great, Parts I and II'' (anglisht, 1563–1594): dramë nga [[Christopher Marlowe]]
+* ''Tamerlan ou la mort de Bajazet'' [Tamerlani ose vdekja e Bajazitit] (1675): dramë nga [[Jacques Pradon]]
+* ''[[Tamerlane (play)|Tamerlane]]'' (1701): dramë nga [[Nicholas Rowe (writer)|Nicholas Rowe]] (anglisht)
+* ''[[Tamerlano]]'' (1724): opera nga [[George Frideric Handel]], në italisht, bazuar në dramën e Pradonit të 1675-s
+* ''[[Bajazet (opera e Vivaldit)|Bajazet]]'' (1735): opera nga [[Antonio Vivaldi]], portretizon zënien rob të Bajazitit I nga Timuri
+* ''Il gran Tamerlano'' (1772): opera nga [[Josef Myslivecek]], që gjithashtu portretizon zënien rob të Bajazitit I nga Timuri
+* ''Timour the Tartar'' (1811): dramë kaluarie nga [[Matthew Lewis (writer)|Matthew Lewis]]
+* "[[Tamerlane (poemë)|Tamerlan]]" (botuar 1827): poema e parë e botuar e Edgar Allan Poe-s
+* ''[[Turandot]]'' (1924): opera nga [[Giacomo Puccini]] (libreto nga [[Giuseppe Adami]] dhe [[Renato Simoni]]), ku Timuri është mbreti i rrëzuar dhe i verbër i mëparshëm i Tartarisë dhe babai i protagonistit Kalaf
+* ''Lord of Samarkand'' (The Lame Man; botuar 1932): tregim nga [[Robert E. Howard]] ku shfaqet Timuri
+* ''Nesimi'' (1973): film azerbajxhanas ku Timuri portretizohet nga Jusif Velijev
+* ''Tamerlan'' (2003): roman spanjishtfolës nga shkrimtari kolumbian Enrique Serrano
+* ''Day Watch'' (2006): film rus ku Tamerlani në rini portretizohet nga Emir Bajgazin, e në pjekuri nga Gani Kulzhanov
+* ''Age of Empires II: Definitive Edition'' (2019): lojë video me një fushatë gjashtëkapitullëshe të titulluar "Tamerlane"
+* ''Tamerlane: Rise of the Last Conqueror'' (2026): film anglishtfolës që përshkruan jetën e hershme të Timurit deri te vdekjet e Iljas Hoxhës dhe Amir Husajnit
+== Gratë dhe konkubinat ==
+Timuri pati dyzet e tri gra e konkubina, të gjitha të konsideruara bashkëshorte të tij. Timuri i bëri dhjetëra gra bashkëshorte e konkubina të tij ndërkohë që pushtonte tokat e etërve apo bashkëshortëve të mëparshëm të tyre.<ref>{{Cite web|last=Szczepanski|first=Kallie|date=21 korrik 2019|url=https://www.thoughtco.com/timur-or-tamerlane-195675|title=Biography of Tamerlane, 14th Century Conqueror of Asia|website=ThoughtCo|language=en}}</ref>
+[[Skeda:Timur's Empress, Saray Mulk Khanum in 1387, visiting Timur in camp. Zafarnama of 1435-36.jpg|upright=.8|parapamje|Perandoresha e Timurit, Saray Mulk Khanum, ish-grua e Amir Husajnit, në vizitë te Timuri në kamp, 1387. ''Zafarnama'' e 1435–36.]]
+* Turmish Agha, nëna e Jahangir Mirzait, Jahanshah Mirzait dhe Aka Begiut;
+* Oljaj Turkhan Agha (m. 1357/58), bija e Amir Mashlahut dhe mbesa e Amir Qazaganit;
+* Saray Mulk Khanum (m. 1367), e veja e Amir Husajnit dhe bija e Kazan Hanit;
+* Islam Agha (m. 1367), e veja e Amir Husajnit dhe bija e Amir Bajan Salduzit;
+* Ulus Agha (m. 1367), e veja e Amir Husajnit dhe bija e Amir Hizr Jasuriut;
+* Dilshad Agha (m. 1374), bija e Shams ed-Dinit dhe gruas së tij, Bujan Agha;
+* Touman Agha (m. 1377), bija e Amir Musait dhe gruas së tij, Arzu Mulk Agha, bija e Amir Bajazit Xhelajirit;
+* Chulpan Mulk Agha, bija e Haxhi Begut të Xhetahut;
+* Tukal Khanum (m. 1397), bija e hanit mongol Hizr Havaxha Oglan;
+* Tolun Agha, konkubinë, nëna e Umar Shaikh Mirzait I;
+* Mengli Agha, konkubinë, nëna e Miran Shahut;
+* Toghay Turkhan Agha, zonjë nga Kara Khitai, e veja e Amir Husajnit dhe nëna e Shah Rukhut;
+* Tughdi Bey Agha, bija e Aq Sufi Kongiratit;
+* Sultan Aray Agha, zonjë nga fisi Nukuz;
+* Malikanshah Agha, zonjë filuni;
+* Khand Malik Agha, nëna e Ibrahim Mirzait;
+* Sultan Agha, nëna e një djali që vdiq foshnjë;
+
+Gratë dhe konkubinat e tjera të tij përfshinin: Dawlat Tarkan Agha, Burhan Agha, Jani Beg Agha, Tini Beg Agha, Durr Sultan Agha, Munduz Agha, Bakht Sultan Agha, Nowruz Agha, Jahan Bakht Agha, Nigar Agha, Ruhparwar Agha, Dil Beg Agha, Dilshad Agha, Murad Beg Agha, Piruzbakht Agha, Khoshkeldi Agha, Dilkhosh Agha, Barat Bey Agha, Sevinch Malik Agha, Arzu Bey Agha, Yadgar Sultan Agha, Khudadad Agha, Bakht Nigar Agha, Qutlu Bey Agha, dhe një tjetër Nigar Agha.<ref>{{Cite book |last=Nogueira |first=Adeilson |title=Timur |date=28 mars 2020 |publisher=Clube de Autores |pages=9–10 |language=en}}</ref>
+
+== Pasardhësit ==
+
+=== Djemtë e Timurit ===
+* [[Umar Shaikh Mirza I]] – me Tolun Aghën
+* [[Jahangir Mirza (princ timurid)|Jahangir Mirza]] – me Turmish Aghën
+* [[Miran Shah|Miran Shah Mirza]] – me Mengli Aghën
+* [[Shah Rukh|Shah Rukh Mirza]] – me Toghay Turkhan Aghën
+
+=== Bijat e Timurit ===
+* Aka Begi (vdiq 1382) – nga Turmish Agha. E martuar me Muhamed Begun, djalin e Amir Musait Tajiçiud
+** Sulltan Husajn Tajiçiudi
+* Sulltan Bakht Begum (vdiq 1429/30) – nga Oljaj Turkhan Agha. E martuar së pari me Muhamed Mirke Apardin, dhe e dyta, në 1389/90, me Sulejman Shah Dughlatin
+* Sa'adat Sulltan – nga Dilshad Agha
+* Bikijan – nga Mengli Agha
+* Kutlug Sulltan Agha – nga Toghay Turkhan Agha
+
+=== Djemtë e Umar Shaikh Mirzait I ===
+* [[Pir Muhamed (djali i Umar Shajkhut)|Pir Muhamed]]
+* Iskandari
+* Rustami
+* Bajkara Mirza I
+** Mansuri
+*** Sulltan Husajn Bajkarai
+**** Bediu ez-Zaman
+***** Muhamed Mu'mini
+***** Muhamed Zaman Mirza
+**** Muzafer Husajni
+**** Ibrahim Husajni
+
+=== Djemtë e Jahangirit ===
+* Muhamed Sulltan Mirza
+* Pir Muhamed (djali i Jahangirit)
+
+=== Djemtë e Miran Shahut ===
+* [[Khalil Sultan]]
+* Ebu Bekri
+* Umari (djali i Miran Shahut)
+* Muhamed Mirza
+** Ebu Said Mirza
+*** Umar Shaikh Mirza II
+**** [[Baburi|Zahirudin Muhamed Babur]]
+***** [[Mogulët]]
+**** Jahangir Mirza II
+
+=== Djemtë e Shah Rukh Mirzait ===
+* [[Ulug Begu|Mirza Muhamed Taraghaj]] – i njohur më mirë si "Ulug Begu"
+** Abdulatifi
+* Gijasudin Bajsungari
+** Ala ed-Devle Mirza
+*** Ibrahim Mirza
+** Sulltan Muhamed
+*** Jadigar Muhamed
+** Ebul-Kasim Babur Mirza
+* Sulltan Ibrahim Mirza
+** Abdullah Mirza
+* Mirza Sojurgatmish Han
+* Muhamed Xhuki
+
+== Shiko edhe ==
+* {{ill|Lista e perandorive më të mëdha|en|List of largest empires}}
+* {{ill|Lista e luftërave sipas numrit të viktimave|en|List of wars by death toll}}
+* {{ill|Pushtimet myslimane në nënkontinentin indian|en|Muslim conquests in the Indian subcontinent}}
+* {{ill|Timuri (fis)|en|Timuri|lt=Timuri (fis afgan)}}
+* {{ill|Timurlengia|en|Timurlengia}}
+
+== Shënime ==
+{{Notelist}}
+
+== Referime ==
+{{Reflist}}
+
+=== Burimet ===
+{{Refbegin|30em}}
+* {{cite book |last1=Crummey |first1=Robert O. |title=The Formation of Muscovy 1300 - 1613 |date=6 qershor 2014 |publisher=Routledge |isbn=978-1-317-87200-9 |language=en}}
+* {{cite book |last=Foltz |first=Richard |title=A History of the Tajiks: Iranians of the East |publisher=Bloomsbury Publishing |year=2019 |isbn=978-1784539559 |language=en}}
+* {{cite book |last1=Galeotti |first1=Mark |title=Forged in War: A Military History of Russia from Its Beginnings to Today |date=5 nëntor 2024 |publisher=Bloomsbury USA |isbn=978-1-4728-6251-8 |language=en}}
+* {{cite journal |last=Lee |first=Joo-Yup |title=The Timurid View of the Mongols: An Examination of the Mongol Identity of the Timurids |journal=Iran Namag |volume=6 |issue=3–4 |year=2021 |pages=200–216 |language=en}}
+* {{Cite book |last=Manz |first=Beatrice Forbes |title=The Rise and Rule of Tamerlane |publisher=Cambridge University Press |year=1999 |isbn=978-0521633840 |language=en}}
+* {{Cite book |last=Marozzi |first=Justin |title=Tamerlane: Sword of Islam, Conqueror of the World |place=Londër, Angli |publisher=HarperCollins |year=2004 |isbn=9780306815430 |language=en}}
+* {{cite journal |last1=Mirgaleev |first1=Ilnur |last2=Adygamov |first2=Ramil |last3=Abdurrahman |first3=Husam |title=The Personality of Tamerlane in the Works of Medieval Theologians |journal=Golden Horde Review |year=2022 |issue=1 |pages=77–88 |language=ru |ref={{harvid|Mirgaleev et al.|2022}}}}
+* {{cite book |last=Melville |first=Charles |title=The Timurid Century: The Idea of Iran, Volume IX |publisher=Bloomsbury Publishing |year=2020 |isbn=978-1838606152 |doi=10.5040/9781838606169 |location=Universiteti i Kembrixhit, Kembrixh, Angli |language=en}}
+* {{cite book |last=Nicol |first=Donald M. |title=The Last Centuries of Byzantium, 1261–1453 |publisher=Cambridge University Press |year=1993 |isbn=978-0521439916 |language=en}}
+* {{cite book |last1=Riasanovsky |first1=Nicholas Valentine |last2=Steinberg |first2=Mark D. |title=A History of Russia |date=2005 |publisher=Oxford University Press |isbn=978-0-19-515394-1 |language=en}}
+* {{cite book |last=Tsai |first=Shih-Shan Henry |title=Perpetual Happiness: the Ming Emperor Yongle |publisher=University of Washington Press |location=Seattle, Washington |year=2002 |isbn=978-0295981246 |language=en}}
+* {{EB1911 |wstitle=Timūr |volume=26 |pages=994–995 |first=Frederic John |last=Goldsmid}}
+{{Refend}}
+
+== Literaturë shtesë ==
+{{Refbegin}}
+* {{Cite book |last=Abazov |first=Rafis |title=The Palgrave Concise Historical Atlas of Central Asia |year=2008 |pages=56–57 |chapter=Timur (Tamerlane) and the Timurid Empire in Central Asia |doi=10.1057/9780230610903 |isbn=978-1-4039-7542-3 |language=en}}
+* Forbes, Andrew, & Henley, David: "Timur's Legacy: The Architecture of Bukhara and Samarkand" (CPA Media). (anglisht)
+* González de Clavijo, Ruy; ''Embassy to Tamerlane, 1403–1406'', përkth. Guy Le Strange, me hyrje të re nga Caroline Stone (Hardinge Simpole, 2009). ISBN 978-1843821984. (anglisht)
+* {{Cite journal |last=Knobler |first=Adam |title=Timur the (Terrible/Tartar) Trope: a Case of Repositioning in Popular Literature and History |journal=Medieval Encounters |volume=7 |issue=1 |pages=101–112 |year=2001 |doi=10.1163/157006701X00102 |language=en}}
+* {{cite book |last=Lamb |first=Harold |title=Tamerlane: The Earth Shaker |location=Londër, Angli |publisher=Thorndon Butterworth |date=1929 |language=en}}
+* Marlowe, Christopher. ''Tamburlaine the Great''. Red. J. S. Cunningham. Manchester University Press, Manchester 1981. (anglisht)
+* {{Cite journal |last=Manz |first=Beatrice Forbes |date=1998 |title=Temür and the Problem of a Conqueror's Legacy |journal=Journal of the Royal Asiatic Society |volume=8 |issue=1 |pages=21–41 |doi=10.1017/S1356186300016412 |language=en}}
+* Marozzi, Justin. "Tamerlane", në: ''The Art of War: great commanders of the ancient and medieval world'', red. Andrew Roberts, Londër, Angli: Quercus Military History, 2008. ISBN 978-1847242594. (anglisht)
+* {{cite journal |last=May |first=Timothy |title=Timur ("the Lame") (1336–1405) |journal=The Encyclopedia of War |language=en}}
+* {{Cite journal |last=Novosel'tsev |first=A. P. |date=1973 |title=On the Historical Evaluation of Tamerlane |journal=Soviet Studies in History |volume=12 |issue=3 |pages=37–70 |doi=10.2753/RSH1061-1983120337 |language=en}}
+* Paksoy, H. B. "Nationality or Religion: Views of Central Asian Islam". (anglisht)
+* Shterenshis, Michael V. "Approach to Tamerlane: Tradition and Innovation." Central Asia and the Caucasus 2 (2000). (anglisht)
+* {{Cite journal |last=Sykes |first=P. M. |date=1915 |title=Tamerlane |journal=Journal of the Royal Central Asian Society |volume=2 |issue=1 |pages=17–33 |doi=10.1080/03068371508724717 |language=en}}
+* Yüksel, Musa Şamil. "Timur'un Yükselişi ve Batı'nın Diplomatik Cevabı, 1390–1405." ''Selçuk Üniversitesi Türkiyat Araştırmaları Dergisi'' 1.18 (2005): 231–243. (turqisht)
+{{Refend}}
+
+== Lidhje të jashtme ==
+* {{Commons category-inline|Timur}}
+
+[[Kategoria:Lindje në vitet 1320]]
+[[Kategoria:Vdekje 1405]]
+[[Kategoria:Monarkë themelues në Azi]]
+[[Kategoria:Monarkë myslimanë]]
+[[Kategoria:Fisnikëri me aftësi të kufizuara]]
+[[Kategoria:Samarkand]]
+[[Kategoria:Monarkë timuridë]]
+[[Kategoria:Dinasti myslimane]]
+[[Kategoria:Azi Qendrore]]
+[[Kategoria:Perandorë]]
+[[Kategoria:Historia e Azisë]]
+[[Kategoria:Lordë lufte]]
+
+<!--
+NUK ËSHTË PJESË E ARTIKULLIT — mos e kopjo këtë bllok në faqen kryesore.
+
+== Për faqen e diskutimit (Talk) ==
+{{Përkthyer nga|en|Timur|25 gusht 2026|1371187317}}
+
+== Përmbledhja e redaktimit ==
+Përkthyer nga anglishtja, sipas artikullit en:Timur, versioni i datës 25 gusht 2026 (revizioni 1371187317)
+-->
