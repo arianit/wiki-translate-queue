@@ -606,7 +606,8 @@ https://en.wikipedia.org/wiki/Feminism	DONE	gpt-6-luna@codex	review=gpt-6-luna@c
 https://en.wikipedia.org/wiki/Globalization	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Human_rights	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Poverty	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Slavery	CLAIMED	pop-os:356386:codex	2026-11-01T22:18:56.705201+01:00
+https://en.wikipedia.org/wiki/Slavery	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 # Vital articles: Language and literature (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/Language	
 https://en.wikipedia.org/wiki/Arabic	
