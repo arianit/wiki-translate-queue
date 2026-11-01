@@ -602,7 +602,7 @@ https://en.wikipedia.org/wiki/Discrimination	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Racism	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Feminism	
+https://en.wikipedia.org/wiki/Feminism	CLAIMED	pop-os:356386:codex	2026-11-01T21:28:57.272926+01:00
 https://en.wikipedia.org/wiki/Globalization	
 https://en.wikipedia.org/wiki/Human_rights	
 https://en.wikipedia.org/wiki/Poverty	
