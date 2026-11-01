@@ -648,7 +648,8 @@ https://en.wikipedia.org/wiki/Turkish_language	FAILED	claude-sonnet-5-5@claude_c
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Linguistics	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Grammar	CLAIMED	pop-os:703051:codex	2026-11-01T23:43:44.902973+01:00
+https://en.wikipedia.org/wiki/Grammar	FAILED	claude-sonnet-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Word	
 https://en.wikipedia.org/wiki/Phoneme	
 https://en.wikipedia.org/wiki/Syllable	
