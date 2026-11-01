@@ -627,7 +627,7 @@ https://en.wikipedia.org/wiki/Hebrew_language	FAILED	claude-sonnet-5-5@claude_co
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Hindustani_language	CLAIMED	pop-os:640066:codex	2026-11-01T23:33:56.711521+01:00
 https://en.wikipedia.org/wiki/Korean_language	CLAIMED	pop-os:703051:codex	2026-11-01T23:34:12.742119+01:00
-https://en.wikipedia.org/wiki/Japanese_language	
+https://en.wikipedia.org/wiki/Japanese_language	CLAIMED	pop-os:640066:codex	2026-11-01T23:34:56.525317+01:00
 https://en.wikipedia.org/wiki/Latin	
 https://en.wikipedia.org/wiki/Persian_language	
 https://en.wikipedia.org/wiki/Portuguese_language	
