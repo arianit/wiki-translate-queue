@@ -639,7 +639,7 @@ https://en.wikipedia.org/wiki/Portuguese_language	FAILED	claude-sonnet-5-5@claud
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Russian_language	CLAIMED	pop-os:640066:codex	2026-11-01T23:37:25.989550+01:00
 https://en.wikipedia.org/wiki/Sanskrit	CLAIMED	pop-os:703051:codex	2026-11-01T23:38:35.876344+01:00
-https://en.wikipedia.org/wiki/Spanish_language	
+https://en.wikipedia.org/wiki/Spanish_language	CLAIMED	pop-os:640066:codex	2026-11-01T23:38:51.051708+01:00
 https://en.wikipedia.org/wiki/Swahili	
 https://en.wikipedia.org/wiki/Turkish_language	
 https://en.wikipedia.org/wiki/Linguistics	
