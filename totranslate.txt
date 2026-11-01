@@ -660,7 +660,7 @@ https://en.wikipedia.org/wiki/Writing_system	FAILED	claude-sonnet-5-5@claude_cod
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Arabic_script	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Chinese_characters	
+https://en.wikipedia.org/wiki/Chinese_characters	CLAIMED	pop-os:703051:codex	2026-11-01T23:47:37.519566+01:00
 https://en.wikipedia.org/wiki/Cyrillic_script	
 https://en.wikipedia.org/wiki/Greek_alphabet	
 https://en.wikipedia.org/wiki/Latin_script	
