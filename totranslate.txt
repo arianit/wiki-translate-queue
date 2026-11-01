@@ -664,7 +664,8 @@ https://en.wikipedia.org/wiki/Chinese_characters	FAILED	claude-sonnet-5-5@claude
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Cyrillic_script	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Greek_alphabet	CLAIMED	pop-os:703051:codex	2026-11-01T23:49:43.156384+01:00
+https://en.wikipedia.org/wiki/Greek_alphabet	FAILED	claude-sonnet-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Latin_script	
 https://en.wikipedia.org/wiki/Literacy	
 https://en.wikipedia.org/wiki/Translation	
