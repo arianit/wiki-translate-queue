@@ -604,7 +604,7 @@ https://en.wikipedia.org/wiki/Racism	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Feminism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Globalization	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Human_rights	
+https://en.wikipedia.org/wiki/Human_rights	CLAIMED	pop-os:356386:codex	2026-11-01T21:55:47.801655+01:00
 https://en.wikipedia.org/wiki/Poverty	
 https://en.wikipedia.org/wiki/Slavery	
 # Vital articles: Language and literature (List of articles every Wikipedia should have)
