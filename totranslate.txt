@@ -656,7 +656,8 @@ https://en.wikipedia.org/wiki/Phoneme	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Syllable	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Writing_system	CLAIMED	pop-os:703051:codex	2026-11-01T23:45:57.286443+01:00
+https://en.wikipedia.org/wiki/Writing_system	FAILED	claude-sonnet-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Arabic_script	
 https://en.wikipedia.org/wiki/Chinese_characters	
 https://en.wikipedia.org/wiki/Cyrillic_script	
