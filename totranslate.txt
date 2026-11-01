@@ -658,7 +658,7 @@ https://en.wikipedia.org/wiki/Syllable	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Writing_system	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Arabic_script	
+https://en.wikipedia.org/wiki/Arabic_script	CLAIMED	pop-os:703051:codex	2026-11-01T23:46:31.513668+01:00
 https://en.wikipedia.org/wiki/Chinese_characters	
 https://en.wikipedia.org/wiki/Cyrillic_script	
 https://en.wikipedia.org/wiki/Greek_alphabet	
