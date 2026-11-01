@@ -672,7 +672,8 @@ https://en.wikipedia.org/wiki/Literacy	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Translation	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Literature	CLAIMED	pop-os:703051:codex	2026-11-01T23:54:00.149459+01:00
+https://en.wikipedia.org/wiki/Literature	FAILED	claude-sonnet-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Prose	
 https://en.wikipedia.org/wiki/The_Art_of_War	
 https://en.wikipedia.org/wiki/Fiction	
