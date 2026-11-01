@@ -619,7 +619,7 @@ https://en.wikipedia.org/wiki/Chinese_language	FAILED	claude-sonnet-5-5@claude_c
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/French_language	CLAIMED	pop-os:640066:codex	2026-11-01T23:31:18.524603+01:00
 https://en.wikipedia.org/wiki/German_language	CLAIMED	pop-os:703051:codex	2026-11-01T23:31:31.406351+01:00
-https://en.wikipedia.org/wiki/Greek_language	
+https://en.wikipedia.org/wiki/Greek_language	CLAIMED	pop-os:640066:codex	2026-11-01T23:32:55.485993+01:00
 https://en.wikipedia.org/wiki/Hebrew_language	
 https://en.wikipedia.org/wiki/Hindustani_language	
 https://en.wikipedia.org/wiki/Korean_language	
