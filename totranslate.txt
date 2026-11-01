@@ -650,7 +650,7 @@ https://en.wikipedia.org/wiki/Linguistics	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Grammar	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Word	
+https://en.wikipedia.org/wiki/Word	CLAIMED	pop-os:703051:codex	2026-11-01T23:44:15.268340+01:00
 https://en.wikipedia.org/wiki/Phoneme	
 https://en.wikipedia.org/wiki/Syllable	
 https://en.wikipedia.org/wiki/Writing_system	
