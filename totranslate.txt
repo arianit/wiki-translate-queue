@@ -617,7 +617,7 @@ https://en.wikipedia.org/wiki/Bengali_language	FAILED	claude-sonnet-5-5@claude_c
 # reason: rate/spend limit (HTTP 429): You've hit your 5-hour limit · resets 1:10am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261101T223126Z-claude-sonnet-5-5-6488dd89.log)
 https://en.wikipedia.org/wiki/Chinese_language	CLAIMED	pop-os:703051:codex	2026-11-01T23:20:32.763519+01:00
 https://en.wikipedia.org/wiki/French_language	CLAIMED	pop-os:640066:codex	2026-11-01T23:31:18.524603+01:00
-https://en.wikipedia.org/wiki/German_language	
+https://en.wikipedia.org/wiki/German_language	CLAIMED	pop-os:703051:codex	2026-11-01T23:31:31.406351+01:00
 https://en.wikipedia.org/wiki/Greek_language	
 https://en.wikipedia.org/wiki/Hebrew_language	
 https://en.wikipedia.org/wiki/Hindustani_language	
