@@ -680,7 +680,8 @@ https://en.wikipedia.org/wiki/The_Art_of_War	FAILED	claude-sonnet-5-5@claude_cod
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Fiction	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights	CLAIMED	pop-os:703051:codex	2026-11-01T23:56:19.375213+01:00
+https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights	FAILED	claude-sonnet-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Novel	
 https://en.wikipedia.org/wiki/The_Tale_of_Genji	
 https://en.wikipedia.org/wiki/Poetry	
