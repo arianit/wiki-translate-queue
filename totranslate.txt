@@ -613,7 +613,7 @@ https://en.wikipedia.org/wiki/Language	DONE	gpt-6-luna@codex	review=gpt-6-luna@c
 https://en.wikipedia.org/wiki/Arabic	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Bengali_language	CLAIMED	pop-os:640066:codex	2026-11-01T23:17:08.294942+01:00
-https://en.wikipedia.org/wiki/Chinese_language	
+https://en.wikipedia.org/wiki/Chinese_language	CLAIMED	pop-os:703051:codex	2026-11-01T23:20:32.763519+01:00
 https://en.wikipedia.org/wiki/French_language	
 https://en.wikipedia.org/wiki/German_language	
 https://en.wikipedia.org/wiki/Greek_language	
