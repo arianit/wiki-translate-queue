@@ -609,7 +609,7 @@ https://en.wikipedia.org/wiki/Poverty	DONE	gpt-6-luna@codex	review=gpt-6-luna@co
 https://en.wikipedia.org/wiki/Slavery	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 # Vital articles: Language and literature (List of articles every Wikipedia should have)
-https://en.wikipedia.org/wiki/Language	
+https://en.wikipedia.org/wiki/Language	CLAIMED	pop-os:356386:codex	2026-11-01T22:30:15.169170+01:00
 https://en.wikipedia.org/wiki/Arabic	
 https://en.wikipedia.org/wiki/Bengali_language	
 https://en.wikipedia.org/wiki/Chinese_language	
