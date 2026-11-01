@@ -611,7 +611,7 @@ https://en.wikipedia.org/wiki/Slavery	FAILED	gpt-6-luna@codex
 # Vital articles: Language and literature (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/Language	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Arabic	CLAIMED	pop-os:703051:codex	2026-11-01T23:13:06.366778+01:00
-https://en.wikipedia.org/wiki/Bengali_language	
+https://en.wikipedia.org/wiki/Bengali_language	CLAIMED	pop-os:640066:codex	2026-11-01T23:17:08.294942+01:00
 https://en.wikipedia.org/wiki/Chinese_language	
 https://en.wikipedia.org/wiki/French_language	
 https://en.wikipedia.org/wiki/German_language	
