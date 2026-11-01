@@ -633,7 +633,7 @@ https://en.wikipedia.org/wiki/Japanese_language	FAILED	claude-sonnet-5-5@claude_
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Latin	CLAIMED	pop-os:703051:codex	2026-11-01T23:35:45.013873+01:00
 https://en.wikipedia.org/wiki/Persian_language	CLAIMED	pop-os:640066:codex	2026-11-01T23:36:04.707803+01:00
-https://en.wikipedia.org/wiki/Portuguese_language	
+https://en.wikipedia.org/wiki/Portuguese_language	CLAIMED	pop-os:703051:codex	2026-11-01T23:36:57.870360+01:00
 https://en.wikipedia.org/wiki/Russian_language	
 https://en.wikipedia.org/wiki/Sanskrit	
 https://en.wikipedia.org/wiki/Spanish_language	
