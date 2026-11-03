@@ -702,7 +702,7 @@ https://en.wikipedia.org/wiki/Blindness	DONE	gpt-6-luna@codex	review=gpt-6-luna@
 https://en.wikipedia.org/wiki/Gastroenteritis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Malnutrition	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Stroke
+https://en.wikipedia.org/wiki/Stroke	CLAIMED	pop-os:1957442:codex	2026-11-04T00:41:28.642240+01:00
 https://en.wikipedia.org/wiki/Global warming
 https://en.wikipedia.org/wiki/Electromagnetic interaction
 https://en.wikipedia.org/wiki/Pottery
