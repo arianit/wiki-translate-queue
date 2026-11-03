@@ -697,7 +697,7 @@ https://en.wikipedia.org/wiki/military	DONE	gpt-6-luna@codex	review=gpt-6-luna@c
 https://en.wikipedia.org/wiki/Abortion	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Rrespiration	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Sex
+https://en.wikipedia.org/wiki/Sex	CLAIMED	pop-os:1516469:codex	2026-11-03T22:43:19.177406+01:00
 https://en.wikipedia.org/wiki/Blindness
 https://en.wikipedia.org/wiki/Gastroenteritis
 https://en.wikipedia.org/wiki/Malnutrition
