@@ -698,7 +698,7 @@ https://en.wikipedia.org/wiki/Abortion	DONE	gpt-6-luna@codex	review=gpt-6-luna@c
 https://en.wikipedia.org/wiki/Rrespiration	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Sex	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Blindness
+https://en.wikipedia.org/wiki/Blindness	CLAIMED	pop-os:1957442:codex	2026-11-04T00:19:15.032388+01:00
 https://en.wikipedia.org/wiki/Gastroenteritis
 https://en.wikipedia.org/wiki/Malnutrition
 https://en.wikipedia.org/wiki/Stroke
