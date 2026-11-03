@@ -682,7 +682,7 @@ https://en.wikipedia.org/wiki/Fiction	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Novel	
+https://en.wikipedia.org/wiki/Novel	CLAIMED	pop-os:1516469:codex	2026-11-03T20:09:52.179670+01:00
 https://en.wikipedia.org/wiki/The_Tale_of_Genji	
 https://en.wikipedia.org/wiki/Poetry	
 https://en.wikipedia.org/wiki/Epic_of_Gilgamesh	
