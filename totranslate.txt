@@ -691,7 +691,7 @@ https://en.wikipedia.org/wiki/Shahnameh	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Bible	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Mahabharata	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/military
+https://en.wikipedia.org/wiki/military	CLAIMED	pop-os:1516469:codex	2026-11-03T22:26:52.805333+01:00
 
 
 https://en.wikipedia.org/wiki/Abortion	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
