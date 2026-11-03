@@ -687,7 +687,8 @@ https://en.wikipedia.org/wiki/The_Tale_of_Genji	DONE	gpt-6-luna@codex	review=gpt
 https://en.wikipedia.org/wiki/Poetry	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Epic_of_Gilgamesh	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Shahnameh	CLAIMED	pop-os:1516469:codex	2026-11-03T20:53:32.342589+01:00
+https://en.wikipedia.org/wiki/Shahnameh	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Bible	
 https://en.wikipedia.org/wiki/Mahabharata	
 https://en.wikipedia.org/wiki/military
