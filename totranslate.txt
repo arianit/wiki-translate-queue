@@ -705,7 +705,7 @@ https://en.wikipedia.org/wiki/Malnutrition	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Stroke	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Global warming	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Electromagnetic interaction	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Pottery
+https://en.wikipedia.org/wiki/Pottery	CLAIMED	pop-os:1957442:codex	2026-11-04T01:28:51.447067+01:00
 https://en.wikipedia.org/wiki/Angkor Wat
 https://en.wikipedia.org/wiki/Three Gorges Dam
 https://en.wikipedia.org/wiki/United Kingdom
