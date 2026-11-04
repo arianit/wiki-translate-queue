@@ -6,6 +6,12 @@
 # line whose timestamp is stale is treated as abandoned and reclaimed).
 # Shared across machines via git — see README.md.
 
+#HEALTH
+https://en.wikipedia.org/wiki/Vaccine	CLAIMED	pop-os:2454783:codex	2026-11-05T00:30:17.680531+01:00
+https://en.wikipedia.org/wiki/MMR_vaccine
+https://en.wikipedia.org/wiki/Smallpox_vaccine
+https://en.wikipedia.org/wiki/Influenza_vaccine
+
 # MORE ARBERESHE ARTICLES
 https://it.wikipedia.org/wiki/Villa_Badessa	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://it.wikipedia.org/wiki/Farneta_(Castroregio)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
