@@ -713,7 +713,7 @@ https://en.wikipedia.org/wiki/Three Gorges Dam	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/United Kingdom	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Jesus Christ	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Tin
+https://en.wikipedia.org/wiki/Tin	CLAIMED	pop-os:1957442:codex	2026-11-04T02:47:51.773655+01:00
 https://en.wikipedia.org/wiki/Science
 https://en.wikipedia.org/wiki/Africa
 https://en.wikipedia.org/wiki/God
