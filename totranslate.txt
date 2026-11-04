@@ -708,7 +708,8 @@ https://en.wikipedia.org/wiki/Electromagnetic interaction	DONE	gpt-6-luna@codex	
 https://en.wikipedia.org/wiki/Pottery	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Angkor Wat	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Three Gorges Dam	CLAIMED	pop-os:1957442:codex	2026-11-04T02:02:32.226789+01:00
+https://en.wikipedia.org/wiki/Three Gorges Dam	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/United Kingdom
 https://en.wikipedia.org/wiki/Jesus Christ
 https://en.wikipedia.org/wiki/Tin
