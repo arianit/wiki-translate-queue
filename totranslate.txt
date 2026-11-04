@@ -714,7 +714,7 @@ https://en.wikipedia.org/wiki/United Kingdom	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Jesus Christ	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Tin	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Science
+https://en.wikipedia.org/wiki/Science	CLAIMED	pop-os:1957442:codex	2026-11-04T03:03:50.919727+01:00
 https://en.wikipedia.org/wiki/Africa
 https://en.wikipedia.org/wiki/God
 https://en.wikipedia.org/wiki/Russia
