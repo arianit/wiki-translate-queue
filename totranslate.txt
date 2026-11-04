@@ -718,7 +718,7 @@ https://en.wikipedia.org/wiki/Science	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Africa	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/God	CLAIMED	pop-os:1957442:codex	2026-11-04T04:07:20.314752+01:00
+https://en.wikipedia.org/wiki/God	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Russia
 https://en.wikipedia.org/wiki/Society
 https://en.wikipedia.org/wiki/Global warming
