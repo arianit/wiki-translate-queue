@@ -722,7 +722,7 @@ https://en.wikipedia.org/wiki/God	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Russia	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Society	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Global warming	CLAIMED	pop-os:1957442:codex	2026-11-04T06:20:47.339139+01:00
+https://en.wikipedia.org/wiki/Global warming	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Switzerland
 https://en.wikipedia.org/wiki/Hydrocephalus
 https://en.wikipedia.org/wiki/Ketamine
