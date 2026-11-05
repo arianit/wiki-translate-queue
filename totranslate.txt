@@ -10,7 +10,7 @@
 https://en.wikipedia.org/wiki/Vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/MMR_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Smallpox_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Influenza_vaccine	CLAIMED	pop-os:2454783:codex	2026-11-05T01:40:02.883783+01:00
+https://en.wikipedia.org/wiki/Influenza_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 
 # MORE ARBERESHE ARTICLES
 https://it.wikipedia.org/wiki/Villa_Badessa	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
