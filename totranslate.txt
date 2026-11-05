@@ -742,7 +742,7 @@ https://en.wikipedia.org/wiki/Melanoma	DONE	gpt-6-luna@codex	review=gpt-6-luna@c
 https://en.wikipedia.org/wiki/Hodgkin_lymphoma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Scurvy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Hemorrhoid	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Osteoarthritis
+https://en.wikipedia.org/wiki/Osteoarthritis	CLAIMED	pop-os:2454783:codex	2026-11-05T06:06:12.139399+01:00
 https://en.wikipedia.org/wiki/Esophageal_cancer
 https://en.wikipedia.org/wiki/Myocarditis
 https://en.wikipedia.org/wiki/Asthma
