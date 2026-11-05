@@ -749,7 +749,7 @@ https://en.wikipedia.org/wiki/Asthma	DONE	gpt-6-luna@codex	review=gpt-6-luna@cod
 https://en.wikipedia.org/wiki/Breast_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Colorectal_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Stomach_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Liver_cancer	CLAIMED	pop-os:3048088:codex	2026-11-05T20:35:55.998373+01:00
+https://en.wikipedia.org/wiki/Liver_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Thyroid_cancer
 https://en.wikipedia.org/wiki/Leukemia
 
