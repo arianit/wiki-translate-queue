@@ -9,7 +9,7 @@
 #HEALTH
 https://en.wikipedia.org/wiki/Vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/MMR_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Smallpox_vaccine	CLAIMED	pop-os:2454783:codex	2026-11-05T01:05:55.217732+01:00
+https://en.wikipedia.org/wiki/Smallpox_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Influenza_vaccine
 
 # MORE ARBERESHE ARTICLES
