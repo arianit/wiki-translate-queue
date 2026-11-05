@@ -740,7 +740,7 @@ https://en.wikipedia.org/wiki/Stroke	DONE	gpt-6-luna@codex	review=gpt-6-luna@cod
 https://en.wikipedia.org/wiki/Chickenpox	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Melanoma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Hodgkin_lymphoma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Scurvy
+https://en.wikipedia.org/wiki/Scurvy	CLAIMED	pop-os:2454783:codex	2026-11-05T05:40:49.295603+01:00
 https://en.wikipedia.org/wiki/Hemorrhoid
 https://en.wikipedia.org/wiki/Osteoarthritis
 https://en.wikipedia.org/wiki/Esophageal_cancer
