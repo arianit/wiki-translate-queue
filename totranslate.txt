@@ -754,7 +754,8 @@ https://en.wikipedia.org/wiki/Thyroid_cancer	DONE	gpt-6-luna@codex	review=gpt-6-
 https://en.wikipedia.org/wiki/Leukemia	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 
 #STATES
-https://en.wikipedia.org/wiki/Germany	CLAIMED	pop-os:3048088:codex	2026-11-05T21:21:30.508906+01:00
+https://en.wikipedia.org/wiki/Germany	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/France
 https://en.wikipedia.org/wiki/Switzerland
 https://en.wikipedia.org/wiki/Turkey
