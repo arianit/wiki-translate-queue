@@ -744,7 +744,7 @@ https://en.wikipedia.org/wiki/Scurvy	DONE	gpt-6-luna@codex	review=gpt-6-luna@cod
 https://en.wikipedia.org/wiki/Hemorrhoid	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Osteoarthritis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Esophageal_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Myocarditis	CLAIMED	pop-os:2454783:codex	2026-11-05T07:01:06.047474+01:00
+https://en.wikipedia.org/wiki/Myocarditis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Asthma
 https://en.wikipedia.org/wiki/Breast_cancer
 https://en.wikipedia.org/wiki/Colorectal_cancer
