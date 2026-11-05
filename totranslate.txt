@@ -736,7 +736,7 @@ https://en.wikipedia.org/wiki/Ketamine	DONE	gpt-6-luna@codex	review=gpt-6-luna@c
 https://en.wikipedia.org/wiki/ALS	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Agoraphobia	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Shingles	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Stroke	CLAIMED	pop-os:2454783:codex	2026-11-05T04:30:52.556430+01:00
+https://en.wikipedia.org/wiki/Stroke	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Chickenpox
 https://en.wikipedia.org/wiki/Melanoma
 https://en.wikipedia.org/wiki/Hodgkin_lymphoma
