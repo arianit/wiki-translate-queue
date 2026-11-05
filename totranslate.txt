@@ -735,7 +735,7 @@ https://en.wikipedia.org/wiki/Hydrocephalus	DONE	gpt-6-luna@codex	review=gpt-6-l
 https://en.wikipedia.org/wiki/Ketamine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/ALS	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Agoraphobia	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Shingles
+https://en.wikipedia.org/wiki/Shingles	CLAIMED	pop-os:2454783:codex	2026-11-05T04:05:33.173321+01:00
 https://en.wikipedia.org/wiki/Stroke
 https://en.wikipedia.org/wiki/Chickenpox
 https://en.wikipedia.org/wiki/Melanoma
