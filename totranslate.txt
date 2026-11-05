@@ -734,7 +734,7 @@ https://en.wikipedia.org/wiki/Switzerland	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Hydrocephalus	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Ketamine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/ALS	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Agoraphobia
+https://en.wikipedia.org/wiki/Agoraphobia	CLAIMED	pop-os:2454783:codex	2026-11-05T03:54:20.779117+01:00
 https://en.wikipedia.org/wiki/Shingles
 https://en.wikipedia.org/wiki/Stroke
 https://en.wikipedia.org/wiki/Chickenpox
