@@ -747,7 +747,7 @@ https://en.wikipedia.org/wiki/Esophageal_cancer	DONE	gpt-6-luna@codex	review=gpt
 https://en.wikipedia.org/wiki/Myocarditis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Asthma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Breast_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Colorectal_cancer	CLAIMED	pop-os:3048088:codex	2026-11-05T19:15:20.479647+01:00
+https://en.wikipedia.org/wiki/Colorectal_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Stomach_cancer
 https://en.wikipedia.org/wiki/Liver_cancer
 https://en.wikipedia.org/wiki/Thyroid_cancer
