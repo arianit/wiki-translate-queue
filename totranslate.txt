@@ -741,7 +741,7 @@ https://en.wikipedia.org/wiki/Chickenpox	DONE	gpt-6-luna@codex	review=gpt-6-luna
 https://en.wikipedia.org/wiki/Melanoma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Hodgkin_lymphoma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Scurvy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Hemorrhoid
+https://en.wikipedia.org/wiki/Hemorrhoid	CLAIMED	pop-os:2454783:codex	2026-11-05T05:57:44.345185+01:00
 https://en.wikipedia.org/wiki/Osteoarthritis
 https://en.wikipedia.org/wiki/Esophageal_cancer
 https://en.wikipedia.org/wiki/Myocarditis
