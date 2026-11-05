@@ -760,7 +760,7 @@ https://en.wikipedia.org/wiki/France	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Switzerland	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Turkey	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/United_Kingdom
+https://en.wikipedia.org/wiki/United_Kingdom	CLAIMED	pop-os:3048088:codex	2026-11-05T23:52:03.740620+01:00
 https://en.wikipedia.org/wiki/United_States
 https://en.wikipedia.org/wiki/Austria
 https://en.wikipedia.org/wiki/Italy
