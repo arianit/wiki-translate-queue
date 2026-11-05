@@ -732,7 +732,7 @@ https://en.wikipedia.org/wiki/Global warming	DONE	gpt-6-luna@codex	review=gpt-6-
 https://en.wikipedia.org/wiki/Switzerland	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Hydrocephalus	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Ketamine	CLAIMED	pop-os:2454783:codex	2026-11-05T02:29:14.177446+01:00
+https://en.wikipedia.org/wiki/Ketamine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/ALS
 https://en.wikipedia.org/wiki/Agoraphobia
 https://en.wikipedia.org/wiki/Shingles
