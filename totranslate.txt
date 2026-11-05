@@ -756,7 +756,8 @@ https://en.wikipedia.org/wiki/Leukemia	DONE	gpt-6-luna@codex	review=gpt-6-luna@c
 #STATES
 https://en.wikipedia.org/wiki/Germany	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/France	CLAIMED	pop-os:3048088:codex	2026-11-05T21:49:53.252064+01:00
+https://en.wikipedia.org/wiki/France	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Switzerland
 https://en.wikipedia.org/wiki/Turkey
 https://en.wikipedia.org/wiki/United_Kingdom
