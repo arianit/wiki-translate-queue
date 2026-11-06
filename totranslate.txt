@@ -767,7 +767,7 @@ https://en.wikipedia.org/wiki/Austria	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Italy	CLAIMED	pop-os:3048088:codex	2026-11-06T02:32:13.330212+01:00
 https://en.wikipedia.org/wiki/Belgium	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Sweden
+https://en.wikipedia.org/wiki/Sweden	CLAIMED	pop-os:3048088:codex	2026-11-06T03:09:20.397480+01:00
 https://en.wikipedia.org/wiki/Greece
 https://en.wikipedia.org/wiki/Slovenia
 https://en.wikipedia.org/wiki/Croatia
