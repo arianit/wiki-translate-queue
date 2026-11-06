@@ -73,7 +73,7 @@ https://en.wikipedia.org/wiki/Moses	DONE
 https://en.wikipedia.org/wiki/Nagarjuna	DONE
 https://en.wikipedia.org/wiki/Ashoka	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Otto_von_Bismarck	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Winston_Churchill
+https://en.wikipedia.org/wiki/Winston_Churchill	CLAIMED	pop-os:3660705:codex	2026-11-06T23:18:16.233270+01:00
 https://en.wikipedia.org/wiki/Cyrus_the_Great	DONE
 https://en.wikipedia.org/wiki/Rosa_Luxemburg
 https://en.wikipedia.org/wiki/Nelson_Mandela	DONE
