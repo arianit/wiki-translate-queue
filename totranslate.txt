@@ -770,6 +770,6 @@ https://en.wikipedia.org/wiki/Belgium	DONE	gpt-6-luna@codex	review=gpt-6-luna@co
 https://en.wikipedia.org/wiki/Sweden	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Greece	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Slovenia	CLAIMED	pop-os:3048088:codex	2026-11-06T03:53:15.861980+01:00
+https://en.wikipedia.org/wiki/Slovenia	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Croatia
 
