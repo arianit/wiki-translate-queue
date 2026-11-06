@@ -72,7 +72,7 @@ https://en.wikipedia.org/wiki/Max_Weber	DONE
 https://en.wikipedia.org/wiki/Moses	DONE
 https://en.wikipedia.org/wiki/Nagarjuna	DONE
 https://en.wikipedia.org/wiki/Ashoka	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Otto_von_Bismarck
+https://en.wikipedia.org/wiki/Otto_von_Bismarck	CLAIMED	pop-os:3660705:codex	2026-11-06T22:39:04.058265+01:00
 https://en.wikipedia.org/wiki/Winston_Churchill
 https://en.wikipedia.org/wiki/Cyrus_the_Great	DONE
 https://en.wikipedia.org/wiki/Rosa_Luxemburg
