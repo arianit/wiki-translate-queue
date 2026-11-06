@@ -19,26 +19,11 @@ https://it.wikipedia.org/wiki/Cavallerizzo	DONE	gpt-6-luna@codex	review=gpt-6-lu
 https://it.wikipedia.org/wiki/Zangarona	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://it.wikipedia.org/wiki/Carfizzi	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://it.wikipedia.org/wiki/San_Nicola_dell%27Alto	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/Pallagorio	FAILED	gpt-6-luna@codex
-# reason: claude CLI call failed after 6 attempts: [claude-code:unrecognized_model] {"model":"sonnet-5.5","query_source":"sdk"}
- (raw output logged to logs/claude-cli-error-20261025T082641Z-sonnet-5.5-c4364751.	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://it.wikipedia.org/wiki/Santa_Sofia_d%27Epiro	FAILED	gpt-6-luna@codex
-# reason: claude CLI call failed after 6 attempts: [claude-code:unrecognized_model] {"model":"sonnet-5.5","query_source":"sdk"}
- (raw output logged to logs/claude-cli-error-20261025T082902Z-sonnet-5.5-d341daca.	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://it.wikipedia.org/wiki/Mezzojuso	FAILED	gpt-6-luna@codex
-# reason: claude CLI call failed after 6 attempts: [claude-code:unrecognized_model] {"model":"sonnet-5.5","query_source":"sdk"}
- (raw output logged to logs/claude-cli-error-20261025T083156Z-sonnet-5.5-dd9c0a49.	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://it.wikipedia.org/wiki/San_Martino_di_Finita	FAILED	gpt-6-luna@codex
-# reason: claude CLI call failed after 6 attempts: [claude-code:unrecognized_model] {"model":"sonnet-5.5","query_source":"sdk"}
- (raw output logged to logs/claude-cli-error-20261025T083424Z-sonnet-5.5-88db3ca0.	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://it.wikipedia.org/wiki/Santa_Caterina_Albanese	FAILED	gpt-6-luna@codex
-# reason: claude CLI call failed after 6 attempts: [claude-code:unrecognized_model] {"model":"sonnet-5.5","query_source":"sdk"}
- (raw output logged to logs/claude-cli-error-20261025T083606Z-sonnet-5.5-39f73b4d.	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://it.wikipedia.org/wiki/Pallagorio	CLAIMED	pop-os:3660705:codex	2026-11-06T21:23:19.945814+01:00
+https://it.wikipedia.org/wiki/Santa_Sofia_d%27Epiro
+https://it.wikipedia.org/wiki/Mezzojuso
+https://it.wikipedia.org/wiki/San_Martino_di_Finita
+https://it.wikipedia.org/wiki/Santa_Caterina_Albanese
 https://it.wikipedia.org/wiki/Vaccarizzo_Albanese	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/San_Giorgio_Albanese	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Civita_(Italia)	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
@@ -86,206 +71,132 @@ https://en.wikipedia.org/wiki/Adam_Smith	DONE
 https://en.wikipedia.org/wiki/Max_Weber	DONE
 https://en.wikipedia.org/wiki/Moses	DONE
 https://en.wikipedia.org/wiki/Nagarjuna	DONE
-https://en.wikipedia.org/wiki/Ashoka	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Otto_von_Bismarck	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Winston_Churchill	FAILED
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Ashoka
+https://en.wikipedia.org/wiki/Otto_von_Bismarck
+https://en.wikipedia.org/wiki/Winston_Churchill
 https://en.wikipedia.org/wiki/Cyrus_the_Great	DONE
-https://en.wikipedia.org/wiki/Rosa_Luxemburg	FAILED
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Rosa_Luxemburg
 https://en.wikipedia.org/wiki/Nelson_Mandela	DONE
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Mao_Zedong	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Jawaharlal_Nehru	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Kwame_Nkrumah	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Qin_Shi_Huang	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Sun_Yat-sen	FAILED
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Mao_Zedong
+https://en.wikipedia.org/wiki/Jawaharlal_Nehru
+https://en.wikipedia.org/wiki/Kwame_Nkrumah
+https://en.wikipedia.org/wiki/Qin_Shi_Huang
+https://en.wikipedia.org/wiki/Sun_Yat-sen
 https://en.wikipedia.org/wiki/Timur	DONE
 https://en.wikipedia.org/wiki/Tim_Berners-Lee	DONE
-https://en.wikipedia.org/wiki/Brahmagupta	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Henry_Ford\tDONE	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Galen\tDONE	FAILED
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Brahmagupta
+https://en.wikipedia.org/wiki/Henry_Ford\tDONE
+https://en.wikipedia.org/wiki/Galen\tDONE
 https://en.wikipedia.org/wiki/David_Hilbert	DONE
 https://en.wikipedia.org/wiki/James_Prescott_Joule	DONE
 # reason: translation engine rate limit exceeded (Claude Code weekly limit), fallback translation failed
 https://en.wikipedia.org/wiki/Johannes_Kepler	DONE
 https://en.wikipedia.org/wiki/Al-Khwarizmi	DONE
-https://en.wikipedia.org/wiki/Carl_Linnaeus	FAILED
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Carl_Linnaeus
 https://en.wikipedia.org/wiki/James_Clerk_Maxwell	DONE
 https://en.wikipedia.org/wiki/Max_Planck	DONE
 https://en.wikipedia.org/wiki/Ernest_Rutherford	DONE
-https://en.wikipedia.org/wiki/Francisco_Goya	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Hokusai	FAILED
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Francisco_Goya
+https://en.wikipedia.org/wiki/Hokusai
 https://en.wikipedia.org/wiki/Rembrandt	DONE
-https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Andy_Warhol	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Frank_Lloyd_Wright	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Louis_Armstrong	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/The_Beatles	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Gustav_Mahler	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Giacomo_Puccini	FAILED
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez
+https://en.wikipedia.org/wiki/Andy_Warhol
+https://en.wikipedia.org/wiki/Frank_Lloyd_Wright
+https://en.wikipedia.org/wiki/Louis_Armstrong
+https://en.wikipedia.org/wiki/The_Beatles
+https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin
+https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k
+https://en.wikipedia.org/wiki/Gustav_Mahler
+https://en.wikipedia.org/wiki/Giacomo_Puccini
 https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky	DONE
-https://en.wikipedia.org/wiki/Richard_Wagner	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Sergei_Eisenstein	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Akira_Kurosawa	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Marilyn_Monroe	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Satyajit_Ray	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Geoffrey_Chaucer	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/James_Joyce	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Naguib_Mahfouz	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Marcel_Proust	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Alexander_Pushkin	FAILED
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Richard_Wagner
+https://en.wikipedia.org/wiki/Sergei_Eisenstein
+https://en.wikipedia.org/wiki/Akira_Kurosawa
+https://en.wikipedia.org/wiki/Marilyn_Monroe
+https://en.wikipedia.org/wiki/Satyajit_Ray
+https://en.wikipedia.org/wiki/Geoffrey_Chaucer
+https://en.wikipedia.org/wiki/James_Joyce
+https://en.wikipedia.org/wiki/Naguib_Mahfouz
+https://en.wikipedia.org/wiki/Marcel_Proust
+https://en.wikipedia.org/wiki/Alexander_Pushkin
 https://en.wikipedia.org/wiki/Sophocles	DONE
-https://en.wikipedia.org/wiki/Rabindranath_Tagore	FAILED
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Rabindranath_Tagore
 https://en.wikipedia.org/wiki/Virgil	DONE
-https://en.wikipedia.org/wiki/Jacques_Cartier	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/James_Cook	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Zheng_He	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Dialectic	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Epistemology	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Free_will	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Logic	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Materialism	FAILED
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Jacques_Cartier
+https://en.wikipedia.org/wiki/James_Cook
+https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s
+https://en.wikipedia.org/wiki/Zheng_He
+https://en.wikipedia.org/wiki/Dialectic
+https://en.wikipedia.org/wiki/Epistemology
+https://en.wikipedia.org/wiki/Free_will
+https://en.wikipedia.org/wiki/Logic
+https://en.wikipedia.org/wiki/Materialism
 https://en.wikipedia.org/wiki/Reality	DONE
 https://en.wikipedia.org/wiki/Truth	DONE
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Monotheism	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Polytheism	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Soul	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Jainism	FAILED
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Monotheism
+https://en.wikipedia.org/wiki/Polytheism
+https://en.wikipedia.org/wiki/Soul
+https://en.wikipedia.org/wiki/Jainism
 https://en.wikipedia.org/wiki/Judaism	PENDING
 https://en.wikipedia.org/wiki/Behavior	DONE
 https://en.wikipedia.org/wiki/Mind	DONE
 https://en.wikipedia.org/wiki/Man	DONE
 https://en.wikipedia.org/wiki/Woman	DONE
 https://en.wikipedia.org/wiki/Politics	DONE
-https://en.wikipedia.org/wiki/Colonialism	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Dictatorship	FAILED
-# reason: translation did not complete (see run.log for this article)	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Ideology	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Anarchism	FAILED
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Colonialism
+https://en.wikipedia.org/wiki/Dictatorship
+https://en.wikipedia.org/wiki/Ideology
+https://en.wikipedia.org/wiki/Anarchism
 https://en.wikipedia.org/wiki/Conservatism	DONE	claude-sonnet-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 # reason: translation did not complete (see run.log for this article)
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Marxism	FAILED
-# reason: translation did not complete (see run.log for this article)	FAILED
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Marxism
 https://en.wikipedia.org/wiki/Imperialism	DONE
 https://en.wikipedia.org/wiki/Political_party	DONE	claude-sonnet-5@claude_code
-https://en.wikipedia.org/wiki/Propaganda	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Capital_(economics)	FAILED
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Currency	FAILED
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Propaganda
+https://en.wikipedia.org/wiki/Capital_(economics)
+https://en.wikipedia.org/wiki/Currency
 https://en.wikipedia.org/wiki/Tax	DONE	claude-sonnet-5@claude_code
 https://en.wikipedia.org/wiki/African_Union	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
-https://en.wikipedia.org/wiki/Arab_League	FAILED	claude-sonnet-5@claude_code
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Arab_League
 https://en.wikipedia.org/wiki/ASEAN	DONE	deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement	DONE	deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/Nobel_Prize	DONE
 https://en.wikipedia.org/wiki/International_Court_of_Justice	DONE	deepseek-v4.1-flash@opencode_go
-https://en.wikipedia.org/wiki/UNESCO	FAILED	opencode/space-bunny-free@opencode_go
-# reason: needs human review -- orphaned named ref "intellectualcooperation" (see output/UNESCO.review.md)
-https://en.wikipedia.org/wiki/World_Bank	FAILED	claude-sonnet-5@claude_code
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/UNESCO
+https://en.wikipedia.org/wiki/World_Bank
 https://en.wikipedia.org/wiki/World_Trade_Organization	DONE	opencode/space-bunny-free@opencode_go
 https://en.wikipedia.org/wiki/Military	DONE
 # engine: provider=opencode_go, model=opencode-go/qwen3.8-flash (wiki-translation-harness); first translation, no prior sqwiki article
 https://en.wikipedia.org/wiki/Peace	DONE
 # engine: provider=opencode_go, model=opencode-go/deepseek-v4.1-flash (completed here after opencode-go/qwen3.8-flash repeatedly timed out); sqwiki already has "Paqja" - fresh rewrite, not a first translation
-https://en.wikipedia.org/wiki/War	FAILED	claude-sonnet-5@claude_code
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/War
 https://en.wikipedia.org/wiki/Civil_war	DONE
 # engine: provider=opencode_go, model=opencode-go/deepseek-v4.1-flash (completed here after opencode-go/qwen3.8-flash repeatedly timed out); sqwiki already has "Lufta civile" - fresh rewrite, not a first translation
 https://en.wikipedia.org/wiki/Christianity	DONE
 https://en.wikipedia.org/wiki/Islam	DONE
 https://en.wikipedia.org/wiki/Physics	DONE
 https://en.wikipedia.org/wiki/Biology	DONE
-https://en.wikipedia.org/wiki/United_States	FAILED	claude-sonnet-5@claude_code
-# reason: Could not read SKILL.md at ref 'HEAD' in /home/arianit/code/enwiki-sqwiki-translation-skills (path wikiterms/SKILL.md within the repo): git command failed (git -C /home/arianit/code/enwiki-sqwiki-tran
+https://en.wikipedia.org/wiki/United_States
 https://en.wikipedia.org/wiki/Michael_Jackson	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
-https://en.wikipedia.org/wiki/Argentina	FAILED	opencode-go/deepseek-v4.1-flash@opencode_go
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Argentina
 https://en.wikipedia.org/wiki/Iliad	DONE
 https://en.wikipedia.org/wiki/Homer	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/World_War_II	DONE
 https://en.wikipedia.org/wiki/United_Kingdom	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
-https://en.wikipedia.org/wiki/India	FAILED	claude-sonnet-5@claude_code
-# reason: Could not read SKILL.md at ref 'HEAD' in /home/arianit/code/enwiki-sqwiki-translation-skills (path wikiterms/SKILL.md within the repo): git command failed (git -C /home/arianit/code/enwiki-sqwiki-tran
-https://en.wikipedia.org/wiki/George_Washington	FAILED	claude-sonnet-5@claude_code
-# reason: Could not read SKILL.md at ref 'HEAD' in /home/arianit/code/enwiki-sqwiki-translation-skills (path wikiterms/SKILL.md within the repo): git command failed (git -C /home/arianit/code/enwiki-sqwiki-tran
-https://en.wikipedia.org/wiki/Spain	FAILED	claude-sonnet-5@claude_code
-# reason: Could not read SKILL.md at ref 'HEAD' in /home/arianit/code/enwiki-sqwiki-translation-skills (path wikiterms/SKILL.md within the repo): git command failed (git -C /home/arianit/code/enwiki-sqwiki-tran
-https://en.wikipedia.org/wiki/Australia	FAILED	claude-sonnet-5@claude_code
-# reason: Could not read SKILL.md at ref 'HEAD' in /home/arianit/code/enwiki-sqwiki-translation-skills (path wikiterms/SKILL.md within the repo): git command failed (git -C /home/arianit/code/enwiki-sqwiki-tran
-https://en.wikipedia.org/wiki/Adolf_Hitler	FAILED	claude-sonnet-5@claude_code
-# reason: Could not read SKILL.md at ref 'HEAD' in /home/arianit/code/enwiki-sqwiki-translation-skills (path wikiterms/SKILL.md within the repo): git command failed (git -C /home/arianit/code/enwiki-sqwiki-tran
-https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo	FAILED	claude-sonnet-5@claude_code
-# reason: Could not read SKILL.md at ref 'HEAD' in /home/arianit/code/enwiki-sqwiki-translation-skills (path wikiterms/SKILL.md within the repo): git command failed (git -C /home/arianit/code/enwiki-sqwiki-tran
-https://en.wikipedia.org/wiki/Germany	FAILED	claude-sonnet-5@claude_code
-# reason: Could not read SKILL.md at ref 'HEAD' in /home/arianit/code/enwiki-sqwiki-translation-skills (path wikiterms/SKILL.md within the repo): git command failed (git -C /home/arianit/code/enwiki-sqwiki-tran
-https://en.wikipedia.org/wiki/Canada	FAILED	claude-sonnet-5@claude_code
-# reason: Could not read SKILL.md at ref 'HEAD' in /home/arianit/code/enwiki-sqwiki-translation-skills (path wikiterms/SKILL.md within the repo): git command failed (git -C /home/arianit/code/enwiki-sqwiki-tran
-https://en.wikipedia.org/wiki/China	FAILED	claude-sonnet-5@claude_code
-# reason: Could not read SKILL.md at ref 'HEAD' in /home/arianit/code/enwiki-sqwiki-translation-skills (path wikiterms/SKILL.md within the repo): git command failed (git -C /home/arianit/code/enwiki-sqwiki-tran
-https://en.wikipedia.org/wiki/New_York_City	FAILED	claude-sonnet-5@claude_code
-# reason: Could not read SKILL.md at ref 'HEAD' in /home/arianit/code/enwiki-sqwiki-translation-skills (path wikiterms/SKILL.md within the repo): git command failed (git -C /home/arianit/code/enwiki-sqwiki-tran
+https://en.wikipedia.org/wiki/India
+https://en.wikipedia.org/wiki/George_Washington
+https://en.wikipedia.org/wiki/Spain
+https://en.wikipedia.org/wiki/Australia
+https://en.wikipedia.org/wiki/Adolf_Hitler
+https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo
+https://en.wikipedia.org/wiki/Germany
+https://en.wikipedia.org/wiki/Canada
+https://en.wikipedia.org/wiki/China
+https://en.wikipedia.org/wiki/New_York_City
 https://en.wikipedia.org/wiki/Franklin_D._Roosevelt	DONE
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Brazil	DONE	claude-sonnet-5@claude_code
@@ -298,34 +209,26 @@ https://en.wikipedia.org/wiki/World_War_I	DONE
 https://en.wikipedia.org/wiki/Japan	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/Napoleon	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Abraham_Lincoln	DONE
-https://en.wikipedia.org/wiki/Iran	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Iran
 https://en.wikipedia.org/wiki/Israel	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Association_football	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Albert_Einstein	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Turkey	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Alexander_the_Great	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Albert_Einstein
+https://en.wikipedia.org/wiki/Turkey
+https://en.wikipedia.org/wiki/Alexander_the_Great
 https://en.wikipedia.org/wiki/Weather	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Portugal	DONE	gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Netherlands	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Mexico	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Netherlands
+https://en.wikipedia.org/wiki/Mexico
 https://en.wikipedia.org/wiki/Switzerland	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Che_Guevara	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Elizabeth_I	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Indonesia	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Vietnam_War	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Soviet_Union	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Soviet_Union
 https://en.wikipedia.org/wiki/William_Shakespeare	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Colombia	DONE	gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Joseph_Stalin	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Joseph_Stalin
 https://en.wikipedia.org/wiki/English_language	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Pakistan	DONE	codex@codex	repaired=assembly+review
 # reason: translation did not complete (see run.log for this article)
@@ -335,78 +238,57 @@ https://en.wikipedia.org/wiki/Philippines	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Earth	DONE
 https://en.wikipedia.org/wiki/Mercury_(planet)	DONE
 https://en.wikipedia.org/wiki/Venus	DONE	gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Mars	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Mars
 https://en.wikipedia.org/wiki/Jupiter	DONE
 https://en.wikipedia.org/wiki/Saturn	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Uranus	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Uranus
 https://en.wikipedia.org/wiki/Neptune	DONE
 https://en.wikipedia.org/wiki/Cat	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/South_Africa	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Egypt	FAILED	gpt-6-luna@codex
-# reason: rate/spend limit (HTTP 429): You've hit your weekly limit · resets 10pm (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261010T113101Z-claude-sonnet-5-5-b1d3d01a.log)
+https://en.wikipedia.org/wiki/Egypt
 https://en.wikipedia.org/wiki/The_Holocaust	DONE	claude-sonnet-5-5@claude_code	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Italy	DONE	codex@codex	repaired=assembly+review
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/American_Civil_War	DONE	claude-sonnet-5-5@claude_code	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Jesus	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Jesus
 https://en.wikipedia.org/wiki/Saudi_Arabia	DONE	codex@codex	repaired=assembly+review
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/London	FAILED	claude-sonnet-5-5@claude_code
-# reason: rate/spend limit (HTTP 429): You've hit your session limit · resets 5:50am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261012T003502Z-claude-sonnet-5-5-92874730.log)
-https://en.wikipedia.org/wiki/Algeria	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Hong_Kong	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Periodic_table	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Muhammad	FAILED	opencode-go/deepseek-v4.1-flash@opencode_go
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/London
+https://en.wikipedia.org/wiki/Algeria
+https://en.wikipedia.org/wiki/Hong_Kong
+https://en.wikipedia.org/wiki/Periodic_table
+https://en.wikipedia.org/wiki/Muhammad
 https://en.wikipedia.org/wiki/Poland	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Mahatma_Gandhi	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Bangladesh	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Mahatma_Gandhi
+https://en.wikipedia.org/wiki/Bangladesh
 https://en.wikipedia.org/wiki/Los_Angeles	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Roman_Empire	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Afghanistan	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Julius_Caesar	FAILED	opencode-go/deepseek-v4.1-flash@opencode_go
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Charlie_Chaplin	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Afghanistan
+https://en.wikipedia.org/wiki/Julius_Caesar
+https://en.wikipedia.org/wiki/Charlie_Chaplin
 https://en.wikipedia.org/wiki/Washington,_D.C.	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Ukraine	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Vietnam	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Ukraine
+https://en.wikipedia.org/wiki/Vietnam
 https://en.wikipedia.org/wiki/Sun	DONE	claude-sonnet-5-5@claude_code	hand-repaired
 https://en.wikipedia.org/wiki/South_Korea	DONE	codex@codex	repaired=assembly+review
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Nazi_Germany	FAILED	opencode-go/deepseek-v4.1-flash@opencode_go
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Nazi_Germany
 https://en.wikipedia.org/wiki/Joan_of_Arc	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=opencode-go/deepseek-v4-pro@opencode_go
 https://en.wikipedia.org/wiki/Nikola_Tesla	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Black_hole	FAILED	claude-sonnet-5-5@claude_code
-# reason: rate/spend limit (HTTP 429): You've hit your session limit · resets 12am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261016T173839Z-claude-sonnet-5-5-e352b5a7.log)
+https://en.wikipedia.org/wiki/Black_hole
 https://en.wikipedia.org/wiki/Europe	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)	FAILED	claude-sonnet-5-5@claude_code
 # reason: rate/spend limit (HTTP 429): You've hit your session limit · resets 12am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261016T173920Z-claude-sonnet-5-5-40c63573.log)
 https://en.wikipedia.org/wiki/Mexico_City	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=opencode-go/deepseek-v4-pro@opencode_go
-https://en.wikipedia.org/wiki/Stanley_Kubrick	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Frida_Kahlo	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Stanley_Kubrick
+https://en.wikipedia.org/wiki/Frida_Kahlo
 https://en.wikipedia.org/wiki/Nigeria	DONE	gpt-6-luna@codex
 # reason: rate/spend limit (HTTP 429): You've hit your session limit · resets 12am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261016T182221Z-claude-sonnet-5-5-4afa153b.log)
-https://en.wikipedia.org/wiki/Christopher_Columbus	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Christopher_Columbus
 https://en.wikipedia.org/wiki/Mount_Everest	DONE	gpt-6-luna@codex
 # reason: opencode_go 5-hour usage limit hit mid-article; fallback model claude-sonnet-5-5 is not a valid opencode model id
 https://en.wikipedia.org/wiki/Fyodor_Dostoevsky	DONE	codex@codex	repaired=assembly+review
@@ -416,18 +298,14 @@ https://en.wikipedia.org/wiki/Thailand	DONE	codex@codex	repaired=assembly+review
 https://en.wikipedia.org/wiki/Karl_Marx	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Vladimir_Lenin	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Paris	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Paris
 https://en.wikipedia.org/wiki/World_Wide_Web	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Holy_Roman_Empire	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Byzantine_Empire	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Holy_Roman_Empire
+https://en.wikipedia.org/wiki/Byzantine_Empire
 https://en.wikipedia.org/wiki/North_America	DONE
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Human    DONE	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Human    DONE
 https://en.wikipedia.org/wiki/Austria	DONE	codex@codex	repaired=assembly+review
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Augustus	DONE	codex@codex	repaired=assembly+review
@@ -504,14 +382,10 @@ https://it.wikipedia.org/wiki/Curinga	DONE
 https://it.wikipedia.org/wiki/Gizzeria	DONE
 https://it.wikipedia.org/wiki/Marcedusa	DONE
 https://it.wikipedia.org/wiki/Mongrassano	DONE
-https://it.wikipedia.org/wiki/San_Lorenzo_del_Vallo	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://it.wikipedia.org/wiki/Rota_Greca	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://it.wikipedia.org/wiki/Serra_d%27Aiello	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://it.wikipedia.org/wiki/Zagarise	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
+https://it.wikipedia.org/wiki/San_Lorenzo_del_Vallo
+https://it.wikipedia.org/wiki/Rota_Greca
+https://it.wikipedia.org/wiki/Serra_d%27Aiello
+https://it.wikipedia.org/wiki/Zagarise
 
 
 
@@ -529,32 +403,24 @@ https://en.wikipedia.org/wiki/Ethics	DONE	opencode-go/deepseek-v4.1-flash@openco
 https://en.wikipedia.org/wiki/Knowledge	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Philosophy	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 # Vital articles: Religion (List of articles every Wikipedia should have)
-https://en.wikipedia.org/wiki/Fundamentalism	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/God	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Fundamentalism
+https://en.wikipedia.org/wiki/God
 https://en.wikipedia.org/wiki/Mythology	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Reincarnation	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Religion	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Buddhism	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Catholic_Church	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Protestantism	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Hinduism	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Buddhism
+https://en.wikipedia.org/wiki/Catholic_Church
+https://en.wikipedia.org/wiki/Protestantism
+https://en.wikipedia.org/wiki/Hinduism
 https://en.wikipedia.org/wiki/Shia_Islam	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sunni_Islam	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Shinto	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sikhism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Taoism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Zoroastrianism	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Zoroastrianism
 # Vital articles: Social sciences (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/Society	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Civilization	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Civilization
 https://en.wikipedia.org/wiki/Education	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Emotion	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Love	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
@@ -571,17 +437,13 @@ https://en.wikipedia.org/wiki/Republic	DONE	gpt-6-luna@codex	review=gpt-6-luna@c
 https://en.wikipedia.org/wiki/Capitalism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Communism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Fascism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Liberalism	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Liberalism
 https://en.wikipedia.org/wiki/Nationalism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Socialism	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/State_(polity)	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Socialism
+https://en.wikipedia.org/wiki/State_(polity)
 https://en.wikipedia.org/wiki/Economics	CLAIMED	pop-os:3637481:codex	2026-11-06T19:42:14.661868+01:00
 https://en.wikipedia.org/wiki/Euro	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/United_States_dollar	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/United_States_dollar
 https://en.wikipedia.org/wiki/Industry_(manufacturing)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Money	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Trade	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -594,143 +456,90 @@ https://en.wikipedia.org/wiki/OPEC	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/United_Nations	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/International_Monetary_Fund	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/International_Monetary_Fund
 https://en.wikipedia.org/wiki/World_Health_Organization	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Terrorism	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Terrorism
 https://en.wikipedia.org/wiki/Abortion	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Capital_punishment	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Discrimination	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Racism	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Capital_punishment
+https://en.wikipedia.org/wiki/Discrimination
+https://en.wikipedia.org/wiki/Racism
 https://en.wikipedia.org/wiki/Feminism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Globalization	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Human_rights	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Poverty	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Slavery	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Slavery
 # Vital articles: Language and literature (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/Language	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Arabic	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)	FAILED	claude-sonnet-5-5@claude_code
-# reason: rate/spend limit (HTTP 429): You've hit your 5-hour limit · resets 1:10am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261101T223113Z-claude-sonnet-5-5-4c5f0ab9.log)
-https://en.wikipedia.org/wiki/Bengali_language	FAILED	claude-sonnet-5-5@claude_code
-# reason: rate/spend limit (HTTP 429): You've hit your 5-hour limit · resets 1:10am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261101T223126Z-claude-sonnet-5-5-6488dd89.log)
-https://en.wikipedia.org/wiki/Chinese_language	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/French_language	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/German_language	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Greek_language	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Hebrew_language	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Hindustani_language	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Korean_language	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Japanese_language	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Latin	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Persian_language	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Portuguese_language	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Russian_language	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Arabic
+https://en.wikipedia.org/wiki/Bengali_language
+https://en.wikipedia.org/wiki/Chinese_language
+https://en.wikipedia.org/wiki/French_language
+https://en.wikipedia.org/wiki/German_language
+https://en.wikipedia.org/wiki/Greek_language
+https://en.wikipedia.org/wiki/Hebrew_language
+https://en.wikipedia.org/wiki/Hindustani_language
+https://en.wikipedia.org/wiki/Korean_language
+https://en.wikipedia.org/wiki/Japanese_language
+https://en.wikipedia.org/wiki/Latin
+https://en.wikipedia.org/wiki/Persian_language
+https://en.wikipedia.org/wiki/Portuguese_language
+https://en.wikipedia.org/wiki/Russian_language
 https://en.wikipedia.org/wiki/Sanskrit	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Spanish_language	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Swahili	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Turkish_language	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Linguistics	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Grammar	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Word	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Phoneme	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Syllable	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Writing_system	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Arabic_script	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Chinese_characters	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Cyrillic_script	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Greek_alphabet	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Latin_script	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Literacy	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Translation	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Literature	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Prose	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/The_Art_of_War	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Fiction	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights	FAILED	claude-sonnet-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Spanish_language
+https://en.wikipedia.org/wiki/Swahili
+https://en.wikipedia.org/wiki/Turkish_language
+https://en.wikipedia.org/wiki/Linguistics
+https://en.wikipedia.org/wiki/Grammar
+https://en.wikipedia.org/wiki/Word
+https://en.wikipedia.org/wiki/Phoneme
+https://en.wikipedia.org/wiki/Syllable
+https://en.wikipedia.org/wiki/Writing_system
+https://en.wikipedia.org/wiki/Arabic_script
+https://en.wikipedia.org/wiki/Chinese_characters
+https://en.wikipedia.org/wiki/Cyrillic_script
+https://en.wikipedia.org/wiki/Greek_alphabet
+https://en.wikipedia.org/wiki/Latin_script
+https://en.wikipedia.org/wiki/Literacy
+https://en.wikipedia.org/wiki/Translation
+https://en.wikipedia.org/wiki/Literature
+https://en.wikipedia.org/wiki/Prose
+https://en.wikipedia.org/wiki/The_Art_of_War
+https://en.wikipedia.org/wiki/Fiction
+https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights
 https://en.wikipedia.org/wiki/Novel	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/The_Tale_of_Genji	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Poetry	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Poetry
 https://en.wikipedia.org/wiki/Epic_of_Gilgamesh	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Shahnameh	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Shahnameh
 https://en.wikipedia.org/wiki/Bible	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Mahabharata	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/military	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 
 
 https://en.wikipedia.org/wiki/Abortion	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Rrespiration	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Rrespiration
 https://en.wikipedia.org/wiki/Sex	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Blindness	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Gastroenteritis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Malnutrition	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Malnutrition
 https://en.wikipedia.org/wiki/Stroke	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Global warming	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Electromagnetic interaction	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Pottery	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Angkor Wat	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Three Gorges Dam	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/United Kingdom	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Angkor Wat
+https://en.wikipedia.org/wiki/Three Gorges Dam
+https://en.wikipedia.org/wiki/United Kingdom
 https://en.wikipedia.org/wiki/Jesus Christ	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Tin	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Science	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Africa	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Science
+https://en.wikipedia.org/wiki/Africa
 https://en.wikipedia.org/wiki/God	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Russia	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Russia
 https://en.wikipedia.org/wiki/Society	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Global warming	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Switzerland	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Switzerland
 https://en.wikipedia.org/wiki/Hydrocephalus	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Ketamine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/ALS	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -754,22 +563,318 @@ https://en.wikipedia.org/wiki/Thyroid_cancer	DONE	gpt-6-luna@codex	review=gpt-6-
 https://en.wikipedia.org/wiki/Leukemia	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 
 #STATES
-https://en.wikipedia.org/wiki/Germany	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/France	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Germany
+https://en.wikipedia.org/wiki/France
 https://en.wikipedia.org/wiki/Switzerland	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Turkey	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/United_Kingdom	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/United_Kingdom
 https://en.wikipedia.org/wiki/United_States	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Austria	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Austria
 https://en.wikipedia.org/wiki/Italy	CLAIMED	pop-os:3637481:codex	2026-11-06T19:42:23.435481+01:00
 https://en.wikipedia.org/wiki/Belgium	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sweden	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Greece	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Greece
 https://en.wikipedia.org/wiki/Slovenia	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Croatia	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+
+# Vital articles: History (List of articles every Wikipedia should have)
+https://en.wikipedia.org/wiki/History
+https://en.wikipedia.org/wiki/Ancient_Egypt
+https://en.wikipedia.org/wiki/Bronze_Age
+https://en.wikipedia.org/wiki/Gupta_Empire
+https://en.wikipedia.org/wiki/Han_dynasty
+https://en.wikipedia.org/wiki/Iron_Age
+https://en.wikipedia.org/wiki/Maya_civilization
+https://en.wikipedia.org/wiki/Mesopotamia
+https://en.wikipedia.org/wiki/Prehistory
+https://en.wikipedia.org/wiki/Sumer
+https://en.wikipedia.org/wiki/Stone_Age
+https://en.wikipedia.org/wiki/Tang_dynasty
+https://en.wikipedia.org/wiki/Aztecs
+https://en.wikipedia.org/wiki/Crusades
+https://en.wikipedia.org/wiki/Inca_Empire
+https://en.wikipedia.org/wiki/Mali_Empire
+https://en.wikipedia.org/wiki/Middle_Ages
+https://en.wikipedia.org/wiki/Ming_dynasty
+https://en.wikipedia.org/wiki/Renaissance
+https://en.wikipedia.org/wiki/Vikings
+https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_conflict
+https://en.wikipedia.org/wiki/Apartheid
+https://en.wikipedia.org/wiki/British_Empire
+https://en.wikipedia.org/wiki/Cold_War
+https://en.wikipedia.org/wiki/French_Revolution
+https://en.wikipedia.org/wiki/Great_Depression
+https://en.wikipedia.org/wiki/Industrial_Revolution
+https://en.wikipedia.org/wiki/Meiji_Restoration
+https://en.wikipedia.org/wiki/Reformation
+https://en.wikipedia.org/wiki/Russian_Revolution
+https://en.wikipedia.org/wiki/Qing_dynasty
+
+# Vital articles: Geography (List of articles every Wikipedia should have)
+https://en.wikipedia.org/wiki/City
+https://en.wikipedia.org/wiki/Continent
+https://en.wikipedia.org/wiki/Forest
+https://en.wikipedia.org/wiki/Mountain
+https://en.wikipedia.org/wiki/Desert
+https://en.wikipedia.org/wiki/North_Pole
+https://en.wikipedia.org/wiki/Ocean
+https://en.wikipedia.org/wiki/River
+https://en.wikipedia.org/wiki/Sea
+https://en.wikipedia.org/wiki/South_Pole
+https://en.wikipedia.org/wiki/Antarctica
+https://en.wikipedia.org/wiki/Asia
+https://en.wikipedia.org/wiki/Middle_East
+https://en.wikipedia.org/wiki/Oceania
+https://en.wikipedia.org/wiki/South_America
+https://en.wikipedia.org/wiki/Ethiopia
+https://en.wikipedia.org/wiki/Sudan
+https://en.wikipedia.org/wiki/Tanzania
+https://en.wikipedia.org/wiki/Iraq
+https://en.wikipedia.org/wiki/Vatican_City
+https://en.wikipedia.org/wiki/Cuba
+https://en.wikipedia.org/wiki/Cairo
+https://en.wikipedia.org/wiki/Cape_Town
+https://en.wikipedia.org/wiki/Kinshasa
+https://en.wikipedia.org/wiki/Lagos
+https://en.wikipedia.org/wiki/Nairobi
+https://en.wikipedia.org/wiki/Baghdad
+https://en.wikipedia.org/wiki/Bangkok
+https://en.wikipedia.org/wiki/Beijing
+https://en.wikipedia.org/wiki/Damascus
+https://en.wikipedia.org/wiki/Delhi
+https://en.wikipedia.org/wiki/Dhaka
+https://en.wikipedia.org/wiki/Dubai
+https://en.wikipedia.org/wiki/Jakarta
+https://en.wikipedia.org/wiki/Jerusalem
+https://en.wikipedia.org/wiki/Karachi
+https://en.wikipedia.org/wiki/Kolkata
+https://en.wikipedia.org/wiki/Mecca
+https://en.wikipedia.org/wiki/Mumbai
+https://en.wikipedia.org/wiki/Seoul
+https://en.wikipedia.org/wiki/Shanghai
+https://en.wikipedia.org/wiki/Tehran
+https://en.wikipedia.org/wiki/Tokyo
+https://en.wikipedia.org/wiki/Amsterdam
+https://en.wikipedia.org/wiki/Athens
+https://en.wikipedia.org/wiki/Berlin
+https://en.wikipedia.org/wiki/City_of_Brussels
+https://en.wikipedia.org/wiki/Istanbul
+https://en.wikipedia.org/wiki/Madrid
+https://en.wikipedia.org/wiki/Moscow
+https://en.wikipedia.org/wiki/Rome
+https://en.wikipedia.org/wiki/Saint_Petersburg
+https://en.wikipedia.org/wiki/Vienna
+https://en.wikipedia.org/wiki/Bogot%C3%A1
+https://en.wikipedia.org/wiki/Buenos_Aires
+https://en.wikipedia.org/wiki/Rio_de_Janeiro
+https://en.wikipedia.org/wiki/S%C3%A3o_Paulo
+https://en.wikipedia.org/wiki/Sydney
+https://en.wikipedia.org/wiki/Amazon_River
+https://en.wikipedia.org/wiki/Arctic_Ocean
+https://en.wikipedia.org/wiki/Atlantic_Ocean
+https://en.wikipedia.org/wiki/Baltic_Sea
+https://en.wikipedia.org/wiki/Black_Sea
+https://en.wikipedia.org/wiki/Caribbean_Sea
+https://en.wikipedia.org/wiki/Caspian_Sea
+https://en.wikipedia.org/wiki/Congo_River
+https://en.wikipedia.org/wiki/Ganges
+https://en.wikipedia.org/wiki/Great_Barrier_Reef
+https://en.wikipedia.org/wiki/Great_Lakes
+https://en.wikipedia.org/wiki/Indian_Ocean
+https://en.wikipedia.org/wiki/Indus_River
+https://en.wikipedia.org/wiki/Lake_Baikal
+https://en.wikipedia.org/wiki/Lake_Victoria
+https://en.wikipedia.org/wiki/Mississippi_River
+https://en.wikipedia.org/wiki/Niger_River
+https://en.wikipedia.org/wiki/Nile
+https://en.wikipedia.org/wiki/North_Sea
+https://en.wikipedia.org/wiki/Pacific_Ocean
+https://en.wikipedia.org/wiki/Panama_Canal
+https://en.wikipedia.org/wiki/Rhine
+https://en.wikipedia.org/wiki/South_China_Sea
+https://en.wikipedia.org/wiki/Suez_Canal
+https://en.wikipedia.org/wiki/Southern_Ocean
+https://en.wikipedia.org/wiki/Volga
+https://en.wikipedia.org/wiki/Yangtze
+https://en.wikipedia.org/wiki/Yellow_River
+https://en.wikipedia.org/wiki/Alps
+https://en.wikipedia.org/wiki/Andes
+https://en.wikipedia.org/wiki/Himalayas
+https://en.wikipedia.org/wiki/Mount_Kilimanjaro
+https://en.wikipedia.org/wiki/Rocky_Mountains
+https://en.wikipedia.org/wiki/Sahara
+
+# Vital articles: Science (List of articles every Wikipedia should have)
+https://en.wikipedia.org/wiki/Nature
+https://en.wikipedia.org/wiki/Astronomy
+https://en.wikipedia.org/wiki/Asteroid
+https://en.wikipedia.org/wiki/Big_Bang
+https://en.wikipedia.org/wiki/Comet
+https://en.wikipedia.org/wiki/Galaxy
+https://en.wikipedia.org/wiki/Moon
+https://en.wikipedia.org/wiki/Solar_System
+https://en.wikipedia.org/wiki/Spaceflight
+https://en.wikipedia.org/wiki/Star
+https://en.wikipedia.org/wiki/Universe
+https://en.wikipedia.org/wiki/Botany
+https://en.wikipedia.org/wiki/Death
+https://en.wikipedia.org/wiki/Ecology
+https://en.wikipedia.org/wiki/Life
+https://en.wikipedia.org/wiki/Biological_classification
+https://en.wikipedia.org/wiki/Metabolism
+https://en.wikipedia.org/wiki/Evolution
+https://en.wikipedia.org/wiki/Reproduction
+https://en.wikipedia.org/wiki/Organism
+https://en.wikipedia.org/wiki/Animal
+https://en.wikipedia.org/wiki/Algae
+https://en.wikipedia.org/wiki/Archaea
+https://en.wikipedia.org/wiki/Bacteria
+https://en.wikipedia.org/wiki/Fungus
+https://en.wikipedia.org/wiki/Plant
+https://en.wikipedia.org/wiki/Protist
+https://en.wikipedia.org/wiki/Anatomy
+https://en.wikipedia.org/wiki/Cell_(biology)
+https://en.wikipedia.org/wiki/Circulatory_system
+https://en.wikipedia.org/wiki/Endocrine_system
+https://en.wikipedia.org/wiki/Human_digestive_system
+https://en.wikipedia.org/wiki/Muscle
+https://en.wikipedia.org/wiki/Nervous_system
+https://en.wikipedia.org/wiki/Reproductive_system
+https://en.wikipedia.org/wiki/Respiratory_system
+https://en.wikipedia.org/wiki/Skeleton
+https://en.wikipedia.org/wiki/Skin
+https://en.wikipedia.org/wiki/Medicine
+https://en.wikipedia.org/wiki/Dentistry
+https://en.wikipedia.org/wiki/Disease
+https://en.wikipedia.org/wiki/Medication
+https://en.wikipedia.org/wiki/Health
+https://en.wikipedia.org/wiki/Immune_system
+https://en.wikipedia.org/wiki/Menstruation
+https://en.wikipedia.org/wiki/Pandemic
+https://en.wikipedia.org/wiki/Virus
+https://en.wikipedia.org/wiki/Addiction
+https://en.wikipedia.org/wiki/Alzheimer's_disease
+https://en.wikipedia.org/wiki/Cancer
+https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease
+https://en.wikipedia.org/wiki/Common_cold
+https://en.wikipedia.org/wiki/Disability
+https://en.wikipedia.org/wiki/Mental_disorder
+https://en.wikipedia.org/wiki/Epilepsy
+https://en.wikipedia.org/wiki/Headache
+https://en.wikipedia.org/wiki/Myocardial_infarction
+https://en.wikipedia.org/wiki/Influenza
+https://en.wikipedia.org/wiki/Malaria
+https://en.wikipedia.org/wiki/Obesity
+https://en.wikipedia.org/wiki/Pneumonia
+https://en.wikipedia.org/wiki/Polio
+https://en.wikipedia.org/wiki/Sexually_transmitted_infection
+https://en.wikipedia.org/wiki/Smallpox
+https://en.wikipedia.org/wiki/Tuberculosis
+https://en.wikipedia.org/wiki/Diabetes
+https://en.wikipedia.org/wiki/Inorganic_chemistry
+https://en.wikipedia.org/wiki/Biochemistry
+https://en.wikipedia.org/wiki/Chemical_compound
+https://en.wikipedia.org/wiki/Chemical_element
+https://en.wikipedia.org/wiki/Organic_chemistry
+https://en.wikipedia.org/wiki/Molecule
+https://en.wikipedia.org/wiki/Analytical_chemistry
+https://en.wikipedia.org/wiki/Physical_chemistry
+https://en.wikipedia.org/wiki/Climate
+https://en.wikipedia.org/wiki/Water_cycle
+https://en.wikipedia.org/wiki/El_Ni%C3%B1o
+https://en.wikipedia.org/wiki/Earthquake
+https://en.wikipedia.org/wiki/Geology
+https://en.wikipedia.org/wiki/Natural_disaster
+https://en.wikipedia.org/wiki/Volcano
+https://en.wikipedia.org/wiki/Acceleration
+https://en.wikipedia.org/wiki/Atom
+https://en.wikipedia.org/wiki/Energy
+https://en.wikipedia.org/wiki/Electromagnetic_radiation
+https://en.wikipedia.org/wiki/Classical_mechanics
+https://en.wikipedia.org/wiki/Force
+https://en.wikipedia.org/wiki/Magnet
+https://en.wikipedia.org/wiki/Mass
+https://en.wikipedia.org/wiki/Metal
+https://en.wikipedia.org/wiki/Nuclear_fission
+https://en.wikipedia.org/wiki/State_of_matter
+https://en.wikipedia.org/wiki/Quantum_mechanics
+https://en.wikipedia.org/wiki/Radioactivity
+https://en.wikipedia.org/wiki/General_relativity
+https://en.wikipedia.org/wiki/Special_relativity
+https://en.wikipedia.org/wiki/Semiconductor
+https://en.wikipedia.org/wiki/Sound
+https://en.wikipedia.org/wiki/Velocity
+https://en.wikipedia.org/wiki/Temperature
+https://en.wikipedia.org/wiki/Time
+https://en.wikipedia.org/wiki/Thermodynamics
+https://en.wikipedia.org/wiki/Vacuum
+https://en.wikipedia.org/wiki/Mathematics
+https://en.wikipedia.org/wiki/Arithmetic
+https://en.wikipedia.org/wiki/Algebra
+https://en.wikipedia.org/wiki/Geometry
+https://en.wikipedia.org/wiki/Mathematical_analysis
+
+# Vital articles: Technology (List of articles every Wikipedia should have)
+https://en.wikipedia.org/wiki/Technology
+https://en.wikipedia.org/wiki/Biotechnology
+https://en.wikipedia.org/wiki/Clothing
+https://en.wikipedia.org/wiki/Engineering
+https://en.wikipedia.org/wiki/Metallurgy
+https://en.wikipedia.org/wiki/Nanotechnology
+https://en.wikipedia.org/wiki/Communication
+https://en.wikipedia.org/wiki/Information
+https://en.wikipedia.org/wiki/Journalism
+https://en.wikipedia.org/wiki/Library
+https://en.wikipedia.org/wiki/Printing
+https://en.wikipedia.org/wiki/Telephone
+https://en.wikipedia.org/wiki/Electronics
+https://en.wikipedia.org/wiki/Computer
+https://en.wikipedia.org/wiki/Information_technology
+https://en.wikipedia.org/wiki/Internet
+https://en.wikipedia.org/wiki/Operating_system
+https://en.wikipedia.org/wiki/Programming_language
+https://en.wikipedia.org/wiki/Software
+https://en.wikipedia.org/wiki/Renewable_energy
+https://en.wikipedia.org/wiki/Electricity
+https://en.wikipedia.org/wiki/Fossil_fuel
+https://en.wikipedia.org/wiki/Fire
+https://en.wikipedia.org/wiki/Glass
+https://en.wikipedia.org/wiki/Paper
+https://en.wikipedia.org/wiki/Plastic
+https://en.wikipedia.org/wiki/Wood
+https://en.wikipedia.org/wiki/Transport
+https://en.wikipedia.org/wiki/Aircraft
+https://en.wikipedia.org/wiki/Bicycle
+https://en.wikipedia.org/wiki/Car
+https://en.wikipedia.org/wiki/Submarine
+https://en.wikipedia.org/wiki/Ship
+https://en.wikipedia.org/wiki/Train
+https://en.wikipedia.org/wiki/Weapon
+https://en.wikipedia.org/wiki/Tank
+https://en.wikipedia.org/wiki/Explosive
+
+# Vital articles: The arts and recreation (List of articles every Wikipedia should have)
+https://en.wikipedia.org/wiki/Art
+https://en.wikipedia.org/wiki/Dance
+https://en.wikipedia.org/wiki/Fashion
+https://en.wikipedia.org/wiki/Theatre
+https://en.wikipedia.org/wiki/Calligraphy
+https://en.wikipedia.org/wiki/Arch
+https://en.wikipedia.org/wiki/Bridge
+https://en.wikipedia.org/wiki/Canal
+https://en.wikipedia.org/wiki/Dam
+https://en.wikipedia.org/wiki/Dome
+https://en.wikipedia.org/wiki/House
+https://en.wikipedia.org/wiki/Pyramid
+https://en.wikipedia.org/wiki/Tower
+https://en.wikipedia.org/wiki/Radio
+https://en.wikipedia.org/wiki/Television
+https://en.wikipedia.org/wiki/Music
+https://en.wikipedia.org/wiki/Song
+https://en.wikipedia.org/wiki/Game
+https://en.wikipedia.org/wiki/Gambling
+https://en.wikipedia.org/wiki/Martial_arts
+https://en.wikipedia.org/wiki/Olympic_Games
+https://en.wikipedia.org/wiki/Sport
+https://en.wikipedia.org/wiki/Toy
 
