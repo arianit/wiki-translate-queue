@@ -75,7 +75,7 @@ https://en.wikipedia.org/wiki/Ashoka	DONE	gpt-6-luna@codex	review=gpt-6-luna@cod
 https://en.wikipedia.org/wiki/Otto_von_Bismarck	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Winston_Churchill	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Cyrus_the_Great	DONE
-https://en.wikipedia.org/wiki/Rosa_Luxemburg	CLAIMED	pop-os:3660705:codex	2026-11-07T00:09:23.511626+01:00
+https://en.wikipedia.org/wiki/Rosa_Luxemburg	CLAIMED	pop-os:22507:codex	2026-11-07T09:59:03.129469+01:00
 https://en.wikipedia.org/wiki/Nelson_Mandela	DONE
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Mao_Zedong	CLAIMED	pop-os:3660705:codex	2026-11-07T00:09:45.833734+01:00
