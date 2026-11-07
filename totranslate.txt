@@ -121,7 +121,7 @@ https://en.wikipedia.org/wiki/Satyajit_Ray	DONE	gpt-6-luna@codex	review=gpt-6-lu
 https://en.wikipedia.org/wiki/Geoffrey_Chaucer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/James_Joyce	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Naguib_Mahfouz	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Marcel_Proust	CLAIMED	pop-os:22507:codex	2026-11-07T14:12:12.411738+01:00
+https://en.wikipedia.org/wiki/Marcel_Proust	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Alexander_Pushkin
 https://en.wikipedia.org/wiki/Sophocles	DONE
 https://en.wikipedia.org/wiki/Rabindranath_Tagore
