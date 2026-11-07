@@ -138,7 +138,7 @@ https://en.wikipedia.org/wiki/Epistemology	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Free_will	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Logic
+https://en.wikipedia.org/wiki/Logic	CLAIMED	pop-os:22507:codex	2026-11-07T21:41:42.217185+01:00
 https://en.wikipedia.org/wiki/Materialism
 https://en.wikipedia.org/wiki/Reality	DONE
 https://en.wikipedia.org/wiki/Truth	DONE
