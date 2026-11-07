@@ -79,7 +79,7 @@ https://en.wikipedia.org/wiki/Rosa_Luxemburg	CLAIMED	pop-os:3660705:codex	2026-1
 https://en.wikipedia.org/wiki/Nelson_Mandela	DONE
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Mao_Zedong	CLAIMED	pop-os:3660705:codex	2026-11-07T00:09:45.833734+01:00
-https://en.wikipedia.org/wiki/Jawaharlal_Nehru	CLAIMED	pop-os:3660705:codex	2026-11-07T00:09:52.183426+01:00
+https://en.wikipedia.org/wiki/Jawaharlal_Nehru	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Kwame_Nkrumah
 https://en.wikipedia.org/wiki/Qin_Shi_Huang
 https://en.wikipedia.org/wiki/Sun_Yat-sen
