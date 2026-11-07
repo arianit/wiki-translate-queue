@@ -114,7 +114,7 @@ https://en.wikipedia.org/wiki/Gustav_Mahler	DONE	gpt-6-luna@codex	review=gpt-6-l
 https://en.wikipedia.org/wiki/Giacomo_Puccini	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky	DONE
 https://en.wikipedia.org/wiki/Richard_Wagner	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Sergei_Eisenstein
+https://en.wikipedia.org/wiki/Sergei_Eisenstein	CLAIMED	pop-os:22507:codex	2026-11-07T11:10:25.675205+01:00
 https://en.wikipedia.org/wiki/Akira_Kurosawa
 https://en.wikipedia.org/wiki/Marilyn_Monroe
 https://en.wikipedia.org/wiki/Satyajit_Ray
