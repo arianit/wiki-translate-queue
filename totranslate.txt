@@ -81,7 +81,7 @@ https://en.wikipedia.org/wiki/Nelson_Mandela	DONE
 https://en.wikipedia.org/wiki/Mao_Zedong	CLAIMED	pop-os:3660705:codex	2026-11-07T00:09:45.833734+01:00
 https://en.wikipedia.org/wiki/Jawaharlal_Nehru	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Kwame_Nkrumah	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Qin_Shi_Huang
+https://en.wikipedia.org/wiki/Qin_Shi_Huang	CLAIMED	pop-os:3660705:codex	2026-11-07T01:41:42.165039+01:00
 https://en.wikipedia.org/wiki/Sun_Yat-sen
 https://en.wikipedia.org/wiki/Timur	DONE
 https://en.wikipedia.org/wiki/Tim_Berners-Lee	DONE
