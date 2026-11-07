@@ -131,7 +131,7 @@ https://en.wikipedia.org/wiki/Jacques_Cartier	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/James_Cook	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Zheng_He
+https://en.wikipedia.org/wiki/Zheng_He	CLAIMED	pop-os:22507:codex	2026-11-07T18:41:41.061770+01:00
 https://en.wikipedia.org/wiki/Dialectic
 https://en.wikipedia.org/wiki/Epistemology
 https://en.wikipedia.org/wiki/Free_will
