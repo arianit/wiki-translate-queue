@@ -110,7 +110,7 @@ https://en.wikipedia.org/wiki/The_Beatles	DONE	gpt-6-luna@codex	review=gpt-6-lun
 https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Gustav_Mahler	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Giacomo_Puccini	CLAIMED	pop-os:3660705:codex	2026-11-07T08:33:02.481428+01:00
+https://en.wikipedia.org/wiki/Giacomo_Puccini	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky	DONE
 https://en.wikipedia.org/wiki/Richard_Wagner
 https://en.wikipedia.org/wiki/Sergei_Eisenstein
