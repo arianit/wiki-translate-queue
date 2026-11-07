@@ -85,7 +85,7 @@ https://en.wikipedia.org/wiki/Qin_Shi_Huang	DONE	gpt-6-luna@codex	review=gpt-6-l
 https://en.wikipedia.org/wiki/Sun_Yat-sen	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Timur	DONE
 https://en.wikipedia.org/wiki/Tim_Berners-Lee	DONE
-https://en.wikipedia.org/wiki/Brahmagupta	CLAIMED	pop-os:3660705:codex	2026-11-07T02:54:56.511549+01:00
+https://en.wikipedia.org/wiki/Brahmagupta	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Henry_Ford\tDONE
 https://en.wikipedia.org/wiki/Galen\tDONE
 https://en.wikipedia.org/wiki/David_Hilbert	DONE
