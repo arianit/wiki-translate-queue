@@ -147,7 +147,7 @@ https://en.wikipedia.org/wiki/Truth	DONE
 https://en.wikipedia.org/wiki/Monotheism	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Polytheism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Soul
+https://en.wikipedia.org/wiki/Soul	CLAIMED	pop-os:22507:codex	2026-11-08T00:24:30.171412+01:00
 https://en.wikipedia.org/wiki/Jainism
 https://en.wikipedia.org/wiki/Judaism	PENDING
 https://en.wikipedia.org/wiki/Behavior	DONE
