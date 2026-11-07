@@ -126,7 +126,7 @@ https://en.wikipedia.org/wiki/Alexander_Pushkin	DONE	gpt-6-luna@codex	review=gpt
 https://en.wikipedia.org/wiki/Sophocles	DONE
 https://en.wikipedia.org/wiki/Rabindranath_Tagore	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Virgil	DONE
-https://en.wikipedia.org/wiki/Jacques_Cartier
+https://en.wikipedia.org/wiki/Jacques_Cartier	CLAIMED	pop-os:22507:codex	2026-11-07T15:08:30.652053+01:00
 https://en.wikipedia.org/wiki/James_Cook
 https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s
 https://en.wikipedia.org/wiki/Zheng_He
