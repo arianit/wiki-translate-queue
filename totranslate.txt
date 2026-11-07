@@ -124,7 +124,7 @@ https://en.wikipedia.org/wiki/Naguib_Mahfouz	DONE	gpt-6-luna@codex	review=gpt-6-
 https://en.wikipedia.org/wiki/Marcel_Proust	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Alexander_Pushkin	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sophocles	DONE
-https://en.wikipedia.org/wiki/Rabindranath_Tagore
+https://en.wikipedia.org/wiki/Rabindranath_Tagore	CLAIMED	pop-os:22507:codex	2026-11-07T14:32:59.364018+01:00
 https://en.wikipedia.org/wiki/Virgil	DONE
 https://en.wikipedia.org/wiki/Jacques_Cartier
 https://en.wikipedia.org/wiki/James_Cook
