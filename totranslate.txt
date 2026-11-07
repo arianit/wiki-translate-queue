@@ -136,7 +136,7 @@ https://en.wikipedia.org/wiki/Zheng_He	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Dialectic	CLAIMED	pop-os:22507:codex	2026-11-07T19:42:11.342896+01:00
 https://en.wikipedia.org/wiki/Epistemology	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Free_will
+https://en.wikipedia.org/wiki/Free_will	CLAIMED	pop-os:22507:codex	2026-11-07T20:43:01.314392+01:00
 https://en.wikipedia.org/wiki/Logic
 https://en.wikipedia.org/wiki/Materialism
 https://en.wikipedia.org/wiki/Reality	DONE
