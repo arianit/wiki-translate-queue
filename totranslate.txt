@@ -103,7 +103,7 @@ https://en.wikipedia.org/wiki/Francisco_Goya	DONE	gpt-6-luna@codex	review=gpt-6-
 https://en.wikipedia.org/wiki/Hokusai	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Rembrandt	DONE
 https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Andy_Warhol
+https://en.wikipedia.org/wiki/Andy_Warhol	CLAIMED	pop-os:3660705:codex	2026-11-07T04:10:32.328742+01:00
 https://en.wikipedia.org/wiki/Frank_Lloyd_Wright
 https://en.wikipedia.org/wiki/Louis_Armstrong
 https://en.wikipedia.org/wiki/The_Beatles
