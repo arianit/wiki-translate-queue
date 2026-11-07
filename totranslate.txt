@@ -102,7 +102,7 @@ https://en.wikipedia.org/wiki/Ernest_Rutherford	DONE
 https://en.wikipedia.org/wiki/Francisco_Goya	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Hokusai	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Rembrandt	DONE
-https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez
+https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez	CLAIMED	pop-os:3660705:codex	2026-11-07T03:48:30.973125+01:00
 https://en.wikipedia.org/wiki/Andy_Warhol
 https://en.wikipedia.org/wiki/Frank_Lloyd_Wright
 https://en.wikipedia.org/wiki/Louis_Armstrong
