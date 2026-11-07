@@ -119,7 +119,7 @@ https://en.wikipedia.org/wiki/Akira_Kurosawa	DONE	gpt-6-luna@codex	review=gpt-6-
 https://en.wikipedia.org/wiki/Marilyn_Monroe	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Satyajit_Ray	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Geoffrey_Chaucer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/James_Joyce
+https://en.wikipedia.org/wiki/James_Joyce	CLAIMED	pop-os:22507:codex	2026-11-07T13:18:28.547631+01:00
 https://en.wikipedia.org/wiki/Naguib_Mahfouz
 https://en.wikipedia.org/wiki/Marcel_Proust
 https://en.wikipedia.org/wiki/Alexander_Pushkin
