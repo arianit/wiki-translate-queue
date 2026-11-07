@@ -116,7 +116,7 @@ https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky	DONE
 https://en.wikipedia.org/wiki/Richard_Wagner	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sergei_Eisenstein	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Akira_Kurosawa	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Marilyn_Monroe	CLAIMED	pop-os:22507:codex	2026-11-07T11:43:46.238859+01:00
+https://en.wikipedia.org/wiki/Marilyn_Monroe	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Satyajit_Ray
 https://en.wikipedia.org/wiki/Geoffrey_Chaucer
 https://en.wikipedia.org/wiki/James_Joyce
