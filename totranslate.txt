@@ -133,7 +133,7 @@ https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Zheng_He	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Dialectic
+https://en.wikipedia.org/wiki/Dialectic	CLAIMED	pop-os:22507:codex	2026-11-07T19:42:11.342896+01:00
 https://en.wikipedia.org/wiki/Epistemology
 https://en.wikipedia.org/wiki/Free_will
 https://en.wikipedia.org/wiki/Logic
