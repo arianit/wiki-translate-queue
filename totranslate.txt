@@ -122,7 +122,7 @@ https://en.wikipedia.org/wiki/Geoffrey_Chaucer	DONE	gpt-6-luna@codex	review=gpt-
 https://en.wikipedia.org/wiki/James_Joyce	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Naguib_Mahfouz	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Marcel_Proust	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Alexander_Pushkin	CLAIMED	pop-os:22507:codex	2026-11-07T14:20:57.181663+01:00
+https://en.wikipedia.org/wiki/Alexander_Pushkin	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sophocles	DONE
 https://en.wikipedia.org/wiki/Rabindranath_Tagore
 https://en.wikipedia.org/wiki/Virgil	DONE
