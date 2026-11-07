@@ -144,7 +144,8 @@ https://en.wikipedia.org/wiki/Materialism	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Reality	DONE
 https://en.wikipedia.org/wiki/Truth	DONE
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Monotheism	CLAIMED	pop-os:22507:codex	2026-11-07T23:08:12.915526+01:00
+https://en.wikipedia.org/wiki/Monotheism	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Polytheism
 https://en.wikipedia.org/wiki/Soul
 https://en.wikipedia.org/wiki/Jainism
