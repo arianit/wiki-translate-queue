@@ -95,7 +95,7 @@ https://en.wikipedia.org/wiki/James_Prescott_Joule	DONE
 # reason: translation engine rate limit exceeded (Claude Code weekly limit), fallback translation failed
 https://en.wikipedia.org/wiki/Johannes_Kepler	DONE
 https://en.wikipedia.org/wiki/Al-Khwarizmi	DONE
-https://en.wikipedia.org/wiki/Carl_Linnaeus	CLAIMED	pop-os:3660705:codex	2026-11-07T03:05:31.196545+01:00
+https://en.wikipedia.org/wiki/Carl_Linnaeus	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/James_Clerk_Maxwell	DONE
 https://en.wikipedia.org/wiki/Max_Planck	DONE
 https://en.wikipedia.org/wiki/Ernest_Rutherford	DONE
