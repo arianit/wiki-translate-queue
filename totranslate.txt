@@ -173,7 +173,7 @@ https://en.wikipedia.org/wiki/Capital_(economics)	DONE	gpt-6-luna@codex	review=g
 https://en.wikipedia.org/wiki/Currency	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Tax	DONE	claude-sonnet-5@claude_code
 https://en.wikipedia.org/wiki/African_Union	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
-https://en.wikipedia.org/wiki/Arab_League	CLAIMED	pop-os:547066:codex	2026-11-08T13:19:55.633948+01:00
+https://en.wikipedia.org/wiki/Arab_League	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/ASEAN	DONE	deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement	DONE	deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/Nobel_Prize	DONE
