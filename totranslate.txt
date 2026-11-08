@@ -157,7 +157,7 @@ https://en.wikipedia.org/wiki/Mind	DONE
 https://en.wikipedia.org/wiki/Man	DONE
 https://en.wikipedia.org/wiki/Woman	DONE
 https://en.wikipedia.org/wiki/Politics	DONE
-https://en.wikipedia.org/wiki/Colonialism	CLAIMED	pop-os:22507:codex	2026-11-08T02:25:46.457014+01:00
+https://en.wikipedia.org/wiki/Colonialism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Dictatorship
 https://en.wikipedia.org/wiki/Ideology
 https://en.wikipedia.org/wiki/Anarchism
