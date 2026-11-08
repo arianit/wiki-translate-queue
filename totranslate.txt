@@ -168,7 +168,7 @@ https://en.wikipedia.org/wiki/Conservatism	DONE	claude-sonnet-5@claude_code
 https://en.wikipedia.org/wiki/Marxism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Imperialism	DONE
 https://en.wikipedia.org/wiki/Political_party	DONE	claude-sonnet-5@claude_code
-https://en.wikipedia.org/wiki/Propaganda
+https://en.wikipedia.org/wiki/Propaganda	CLAIMED	pop-os:547066:codex	2026-11-08T12:33:44.579791+01:00
 https://en.wikipedia.org/wiki/Capital_(economics)
 https://en.wikipedia.org/wiki/Currency
 https://en.wikipedia.org/wiki/Tax	DONE	claude-sonnet-5@claude_code
