@@ -178,7 +178,8 @@ https://en.wikipedia.org/wiki/ASEAN	DONE	deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement	DONE	deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/Nobel_Prize	DONE
 https://en.wikipedia.org/wiki/International_Court_of_Justice	DONE	deepseek-v4.1-flash@opencode_go
-https://en.wikipedia.org/wiki/UNESCO	CLAIMED	pop-os:547066:codex	2026-11-08T13:37:58.420248+01:00
+https://en.wikipedia.org/wiki/UNESCO	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/World_Bank
 https://en.wikipedia.org/wiki/World_Trade_Organization	DONE	opencode/space-bunny-free@opencode_go
 https://en.wikipedia.org/wiki/Military	DONE
