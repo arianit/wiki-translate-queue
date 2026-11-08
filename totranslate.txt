@@ -196,7 +196,7 @@ https://en.wikipedia.org/wiki/Physics	DONE
 https://en.wikipedia.org/wiki/Biology	DONE
 https://en.wikipedia.org/wiki/United_States	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Michael_Jackson	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
-https://en.wikipedia.org/wiki/Argentina
+https://en.wikipedia.org/wiki/Argentina	CLAIMED	pop-os:784415:codex	2026-11-09T00:28:05.451502+01:00
 https://en.wikipedia.org/wiki/Iliad	DONE
 https://en.wikipedia.org/wiki/Homer	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/World_War_II	DONE
