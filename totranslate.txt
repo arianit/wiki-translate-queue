@@ -170,7 +170,7 @@ https://en.wikipedia.org/wiki/Imperialism	DONE
 https://en.wikipedia.org/wiki/Political_party	DONE	claude-sonnet-5@claude_code
 https://en.wikipedia.org/wiki/Propaganda	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Capital_(economics)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Currency
+https://en.wikipedia.org/wiki/Currency	CLAIMED	pop-os:547066:codex	2026-11-08T13:10:12.154654+01:00
 https://en.wikipedia.org/wiki/Tax	DONE	claude-sonnet-5@claude_code
 https://en.wikipedia.org/wiki/African_Union	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/Arab_League
