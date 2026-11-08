@@ -778,7 +778,7 @@ https://en.wikipedia.org/wiki/Influenza
 https://en.wikipedia.org/wiki/Malaria
 https://en.wikipedia.org/wiki/Obesity
 https://en.wikipedia.org/wiki/Pneumonia
-https://en.wikipedia.org/wiki/Polio
+https://en.wikipedia.org/wiki/Polio	DONE	claude-sonnet-5-5@claude_code	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Sexually_transmitted_infection
 https://en.wikipedia.org/wiki/Smallpox
 https://en.wikipedia.org/wiki/Tuberculosis
