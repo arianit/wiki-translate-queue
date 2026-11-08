@@ -194,7 +194,7 @@ https://en.wikipedia.org/wiki/Christianity	DONE
 https://en.wikipedia.org/wiki/Islam	DONE
 https://en.wikipedia.org/wiki/Physics	DONE
 https://en.wikipedia.org/wiki/Biology	DONE
-https://en.wikipedia.org/wiki/United_States
+https://en.wikipedia.org/wiki/United_States	CLAIMED	pop-os:547066:codex	2026-11-08T14:01:18.442435+01:00
 https://en.wikipedia.org/wiki/Michael_Jackson	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/Argentina
 https://en.wikipedia.org/wiki/Iliad	DONE
