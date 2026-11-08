@@ -165,7 +165,7 @@ https://en.wikipedia.org/wiki/Conservatism	DONE	claude-sonnet-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 # reason: translation did not complete (see run.log for this article)
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Marxism
+https://en.wikipedia.org/wiki/Marxism	CLAIMED	pop-os:22507:codex	2026-11-08T04:10:20.652305+01:00
 https://en.wikipedia.org/wiki/Imperialism	DONE
 https://en.wikipedia.org/wiki/Political_party	DONE	claude-sonnet-5@claude_code
 https://en.wikipedia.org/wiki/Propaganda
