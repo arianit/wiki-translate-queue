@@ -205,7 +205,7 @@ https://en.wikipedia.org/wiki/United_Kingdom	DONE	opencode-go/deepseek-v4.1-flas
 https://en.wikipedia.org/wiki/India	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/George_Washington	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Spain
+https://en.wikipedia.org/wiki/Spain	CLAIMED	pop-os:784415:codex	2026-11-09T03:40:14.188226+01:00
 https://en.wikipedia.org/wiki/Australia
 https://en.wikipedia.org/wiki/Adolf_Hitler
 https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo
