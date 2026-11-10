@@ -20,7 +20,7 @@ https://en.wikipedia.org/wiki/Headache	DONE	gpt-6-luna@codex	review=gpt-6-luna@c
 https://en.wikipedia.org/wiki/Low_back_pain	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Hypertension	CLAIMED	pop-os:2189310:codex	2026-11-10T22:53:18.853752+01:00
 https://en.wikipedia.org/wiki/Allergic_rhinitis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Migraine
+https://en.wikipedia.org/wiki/Migraine	CLAIMED	pop-os:2189310:codex	2026-11-10T23:22:13.204969+01:00
 https://en.wikipedia.org/wiki/COVID-19_vaccine
 https://en.wikipedia.org/wiki/Gastroesophageal_reflux_disease
 https://en.wikipedia.org/wiki/Gastroenteritis
