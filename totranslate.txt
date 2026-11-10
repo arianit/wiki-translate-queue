@@ -13,7 +13,8 @@ https://en.wikipedia.org/wiki/Smallpox_vaccine	DONE	gpt-6-luna@codex	review=gpt-
 https://en.wikipedia.org/wiki/Influenza_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Influenza	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Common_cold	CLAIMED	pop-os:2189310:codex	2026-11-10T20:46:52.751107+01:00
-https://en.wikipedia.org/wiki/Coronary_artery_disease	CLAIMED	pop-os:2189310:codex	2026-11-10T20:47:07.009068+01:00
+https://en.wikipedia.org/wiki/Coronary_artery_disease	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Gingivitis
 https://en.wikipedia.org/wiki/Headache
 https://en.wikipedia.org/wiki/Low_back_pain
