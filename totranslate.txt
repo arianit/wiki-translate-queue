@@ -216,7 +216,8 @@ https://en.wikipedia.org/wiki/Germany	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Canada	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/China	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/New_York_City	CLAIMED	pop-os:1358515:codex	2026-11-10T06:00:18.905113+01:00
+https://en.wikipedia.org/wiki/New_York_City	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Franklin_D._Roosevelt	DONE
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Brazil	DONE	claude-sonnet-5@claude_code
