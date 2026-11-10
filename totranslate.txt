@@ -16,7 +16,7 @@ https://en.wikipedia.org/wiki/Common_cold	CLAIMED	pop-os:2189310:codex	2026-11-1
 https://en.wikipedia.org/wiki/Coronary_artery_disease	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Gingivitis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Headache
+https://en.wikipedia.org/wiki/Headache	CLAIMED	pop-os:2189310:codex	2026-11-10T21:13:19.179786+01:00
 https://en.wikipedia.org/wiki/Low_back_pain
 https://en.wikipedia.org/wiki/Hypertension
 https://en.wikipedia.org/wiki/Allergic_rhinitis
