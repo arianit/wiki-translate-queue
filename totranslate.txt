@@ -214,7 +214,7 @@ https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo	FAILED	gpt-6-luna
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Germany	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Canada
+https://en.wikipedia.org/wiki/Canada	CLAIMED	pop-os:1358515:codex	2026-11-10T01:55:07.897364+01:00
 https://en.wikipedia.org/wiki/China
 https://en.wikipedia.org/wiki/New_York_City
 https://en.wikipedia.org/wiki/Franklin_D._Roosevelt	DONE
