@@ -24,7 +24,7 @@ https://en.wikipedia.org/wiki/Migraine	DONE	gpt-6-luna@codex	review=gpt-6-luna@c
 https://en.wikipedia.org/wiki/COVID-19_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Gastroesophageal_reflux_disease	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Gastroenteritis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Iron-deficiency_anemia	CLAIMED	pop-os:2189310:codex	2026-11-11T03:30:21.816324+01:00
+https://en.wikipedia.org/wiki/Iron-deficiency_anemia	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Urinary_tract_infection
 https://en.wikipedia.org/wiki/Type_2_diabetes
 https://en.wikipedia.org/wiki/Anxiety_disorder
