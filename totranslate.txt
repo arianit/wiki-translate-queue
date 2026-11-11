@@ -30,7 +30,7 @@ https://en.wikipedia.org/wiki/Type_2_diabetes	DONE	gpt-6-luna@codex	review=gpt-6
 https://en.wikipedia.org/wiki/Anxiety_disorder	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Major_depressive_disorder	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Asthma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease
+https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease	CLAIMED	pop-os:2743355:codex	2026-11-12T00:04:17.984230+01:00
 https://en.wikipedia.org/wiki/Pregnancy
 https://en.wikipedia.org/wiki/Sexually_transmitted_infection
 https://en.wikipedia.org/wiki/Childbirth
