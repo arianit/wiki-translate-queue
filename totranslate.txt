@@ -28,7 +28,7 @@ https://en.wikipedia.org/wiki/Iron-deficiency_anemia	DONE	gpt-6-luna@codex	revie
 https://en.wikipedia.org/wiki/Urinary_tract_infection	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Type_2_diabetes	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Anxiety_disorder	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Major_depressive_disorder	CLAIMED	pop-os:2743355:codex	2026-11-11T21:28:01.310731+01:00
+https://en.wikipedia.org/wiki/Major_depressive_disorder	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Asthma
 https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease
 https://en.wikipedia.org/wiki/Pregnancy
