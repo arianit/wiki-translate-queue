@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/MMR_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-lun
 https://en.wikipedia.org/wiki/Smallpox_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Influenza_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Influenza	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Common_cold	CLAIMED	pop-os:2189310:codex	2026-11-10T20:46:52.751107+01:00
+https://en.wikipedia.org/wiki/Common_cold	CLAIMED	pop-os:2743355:codex	2026-11-11T20:51:27.037713+01:00
 https://en.wikipedia.org/wiki/Coronary_artery_disease	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Gingivitis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -33,7 +33,12 @@ https://en.wikipedia.org/wiki/Asthma
 https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease
 https://en.wikipedia.org/wiki/Pregnancy
 https://en.wikipedia.org/wiki/Sexually_transmitted_infection
-
+https://en.wikipedia.org/wiki/Childbirth
+https://en.wikipedia.org/wiki/Birth_control
+https://en.wikipedia.org/wiki/Ovarian_cancer
+https://en.wikipedia.org/wiki/Myocardial_infarction
+https://en.wikipedia.org/wiki/Epilepsy
+https://en.wikipedia.org/wiki/Down_syndrome
 
 # MORE ARBERESHE ARTICLES
 https://it.wikipedia.org/wiki/Villa_Badessa	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
