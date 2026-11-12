@@ -31,7 +31,7 @@ https://en.wikipedia.org/wiki/Anxiety_disorder	DONE	gpt-6-luna@codex	review=gpt-
 https://en.wikipedia.org/wiki/Major_depressive_disorder	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Asthma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Pregnancy
+https://en.wikipedia.org/wiki/Pregnancy	CLAIMED	pop-os:2743355:codex	2026-11-12T01:52:21.068221+01:00
 https://en.wikipedia.org/wiki/Sexually_transmitted_infection
 https://en.wikipedia.org/wiki/Childbirth
 https://en.wikipedia.org/wiki/Birth_control
