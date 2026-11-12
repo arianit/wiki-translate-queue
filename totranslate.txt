@@ -34,7 +34,7 @@ https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease	DONE	gpt-6-l
 https://en.wikipedia.org/wiki/Pregnancy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sexually_transmitted_infection	CLAIMED	pop-os:2743355:codex	2026-11-12T03:17:33.904112+01:00
 https://en.wikipedia.org/wiki/Childbirth	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Birth_control
+https://en.wikipedia.org/wiki/Birth_control	CLAIMED	pop-os:2743355:codex	2026-11-12T04:51:48.596783+01:00
 https://en.wikipedia.org/wiki/Ovarian_cancer
 https://en.wikipedia.org/wiki/Myocardial_infarction
 https://en.wikipedia.org/wiki/Epilepsy
