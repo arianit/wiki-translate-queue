@@ -18,7 +18,7 @@ https://en.wikipedia.org/wiki/Coronary_artery_disease	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Gingivitis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Headache	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Low_back_pain	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Hypertension	CLAIMED	pop-os:2743355:codex	2026-11-11T20:51:34.758838+01:00
+https://en.wikipedia.org/wiki/Hypertension	CLAIMED	pop-os:3250207:codex	2026-11-12T19:22:44.489381+01:00
 https://en.wikipedia.org/wiki/Allergic_rhinitis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Migraine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/COVID-19_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
