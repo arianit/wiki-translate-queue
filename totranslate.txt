@@ -32,7 +32,7 @@ https://en.wikipedia.org/wiki/Major_depressive_disorder	DONE	gpt-6-luna@codex	re
 https://en.wikipedia.org/wiki/Asthma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Pregnancy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Sexually_transmitted_infection	CLAIMED	pop-os:2743355:codex	2026-11-12T03:17:33.904112+01:00
+https://en.wikipedia.org/wiki/Sexually_transmitted_infection	CLAIMED	pop-os:3250207:codex	2026-11-12T19:22:53.536499+01:00
 https://en.wikipedia.org/wiki/Childbirth	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Birth_control	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Ovarian_cancer	CLAIMED	pop-os:2743355:codex	2026-11-12T06:04:38.612823+01:00
