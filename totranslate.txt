@@ -37,7 +37,7 @@ https://en.wikipedia.org/wiki/Childbirth	DONE	gpt-6-luna@codex	review=gpt-6-luna
 https://en.wikipedia.org/wiki/Birth_control	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Ovarian_cancer	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Myocardial_infarction	CLAIMED	pop-os:3250207:codex	2026-11-12T19:59:10.730358+01:00
+https://en.wikipedia.org/wiki/Myocardial_infarction	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Epilepsy
 https://en.wikipedia.org/wiki/Down_syndrome
 https://en.wikipedia.org/wiki/Cardiovascular_disease
