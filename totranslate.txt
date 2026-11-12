@@ -39,7 +39,7 @@ https://en.wikipedia.org/wiki/Ovarian_cancer	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Myocardial_infarction	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Epilepsy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Down_syndrome
+https://en.wikipedia.org/wiki/Down_syndrome	CLAIMED	pop-os:3250207:codex	2026-11-12T22:29:08.411662+01:00
 https://en.wikipedia.org/wiki/Cardiovascular_disease
 https://en.wikipedia.org/wiki/Diabetes
 https://en.wikipedia.org/wiki/Skin_cancer
