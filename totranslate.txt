@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/MMR_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-lun
 https://en.wikipedia.org/wiki/Smallpox_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Influenza_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Influenza	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Common_cold	CLAIMED	pop-os:2743355:codex	2026-11-11T20:51:27.037713+01:00
+https://en.wikipedia.org/wiki/Common_cold	CLAIMED	pop-os:3250207:codex	2026-11-12T19:22:36.760645+01:00
 https://en.wikipedia.org/wiki/Coronary_artery_disease	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Gingivitis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -39,6 +39,19 @@ https://en.wikipedia.org/wiki/Ovarian_cancer	CLAIMED	pop-os:2743355:codex	2026-1
 https://en.wikipedia.org/wiki/Myocardial_infarction
 https://en.wikipedia.org/wiki/Epilepsy
 https://en.wikipedia.org/wiki/Down_syndrome
+https://en.wikipedia.org/wiki/Cardiovascular_disease
+https://en.wikipedia.org/wiki/Diabetes
+https://en.wikipedia.org/wiki/Skin_cancer
+https://en.wikipedia.org/wiki/Tobacco_smoking
+https://en.wikipedia.org/wiki/Health_effects_of_smoking_tobacco
+https://en.wikipedia.org/wiki/Chemotherapy
+https://en.wikipedia.org/wiki/Electronic_cigarette
+https://en.wikipedia.org/wiki/Cholesterol
+https://en.wikipedia.org/wiki/Brain_tumor
+https://en.wikipedia.org/wiki/Bronchitis
+https://en.wikipedia.org/wiki/Pneumonia
+https://en.wikipedia.org/wiki/Autism
+
 
 # MORE ARBERESHE ARTICLES
 https://it.wikipedia.org/wiki/Villa_Badessa	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -262,7 +275,6 @@ https://en.wikipedia.org/wiki/Iran	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Israel	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Association_football	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Albert_Einstein	CLAIMED	pop-os:1358515:codex	2026-11-10T07:19:51.092233+01:00
-https://en.wikipedia.org/wiki/Turkey
 https://en.wikipedia.org/wiki/Alexander_the_Great
 https://en.wikipedia.org/wiki/Weather	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Portugal	DONE	gpt-6-luna@codex
@@ -387,7 +399,6 @@ https://en.wikipedia.org/wiki/M%C3%B4nica_Kabregu	DONE
 # reason: already exists as sq:Mónica Kabregú (Wikidata Q42389750 sitelink) -- not translated here
 https://en.wikipedia.org/wiki/Salvatore_Frega	DONE
 https://it.wikipedia.org/wiki/Francesco_Cuccia	DONE
-https://it.wikipedia.org/wiki/Francesco_Cuccia	DONE
 https://it.wikipedia.org/wiki/Frascineto	DONE
 https://it.wikipedia.org/wiki/Lungro	DONE
 https://it.wikipedia.org/wiki/Barile	DONE
@@ -453,7 +464,6 @@ https://en.wikipedia.org/wiki/Knowledge	DONE	opencode-go/deepseek-v4.1-flash@ope
 https://en.wikipedia.org/wiki/Philosophy	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 # Vital articles: Religion (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/Fundamentalism
-https://en.wikipedia.org/wiki/God
 https://en.wikipedia.org/wiki/Mythology	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Reincarnation	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Religion	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -509,7 +519,6 @@ https://en.wikipedia.org/wiki/International_Monetary_Fund
 https://en.wikipedia.org/wiki/World_Health_Organization	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Terrorism
-https://en.wikipedia.org/wiki/Abortion	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Capital_punishment
 https://en.wikipedia.org/wiki/Discrimination
@@ -567,34 +576,25 @@ https://en.wikipedia.org/wiki/Mahabharata	DONE	gpt-6-luna@codex	review=gpt-6-lun
 https://en.wikipedia.org/wiki/military	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 
 
-https://en.wikipedia.org/wiki/Abortion	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Rrespiration
 https://en.wikipedia.org/wiki/Sex	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Blindness	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Gastroenteritis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Malnutrition
 https://en.wikipedia.org/wiki/Stroke	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Global warming	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Electromagnetic interaction	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Pottery	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Angkor Wat
 https://en.wikipedia.org/wiki/Three Gorges Dam
-https://en.wikipedia.org/wiki/United Kingdom
 https://en.wikipedia.org/wiki/Jesus Christ	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Tin	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Science
 https://en.wikipedia.org/wiki/Africa
 https://en.wikipedia.org/wiki/God	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Russia
-https://en.wikipedia.org/wiki/Society	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Global warming	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Switzerland
 https://en.wikipedia.org/wiki/Hydrocephalus	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Ketamine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/ALS	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Agoraphobia	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Shingles	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Stroke	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Chickenpox	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Melanoma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Hodgkin_lymphoma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -603,7 +603,6 @@ https://en.wikipedia.org/wiki/Hemorrhoid	DONE	gpt-6-luna@codex	review=gpt-6-luna
 https://en.wikipedia.org/wiki/Osteoarthritis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Esophageal_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Myocarditis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Asthma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Breast_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Colorectal_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Stomach_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -612,14 +611,7 @@ https://en.wikipedia.org/wiki/Thyroid_cancer	DONE	gpt-6-luna@codex	review=gpt-6-
 https://en.wikipedia.org/wiki/Leukemia	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 
 #STATES
-https://en.wikipedia.org/wiki/Germany
-https://en.wikipedia.org/wiki/France
-https://en.wikipedia.org/wiki/Switzerland	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Turkey	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/United_Kingdom
-https://en.wikipedia.org/wiki/United_States	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Austria
-https://en.wikipedia.org/wiki/Italy	CLAIMED	pop-os:3637481:codex	2026-11-06T19:42:23.435481+01:00
 https://en.wikipedia.org/wiki/Belgium	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sweden	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Greece
@@ -804,22 +796,12 @@ https://en.wikipedia.org/wiki/Virus
 https://en.wikipedia.org/wiki/Addiction
 https://en.wikipedia.org/wiki/Alzheimer's_disease
 https://en.wikipedia.org/wiki/Cancer
-https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease
-https://en.wikipedia.org/wiki/Common_cold
 https://en.wikipedia.org/wiki/Disability
 https://en.wikipedia.org/wiki/Mental_disorder
-https://en.wikipedia.org/wiki/Epilepsy
-https://en.wikipedia.org/wiki/Headache
-https://en.wikipedia.org/wiki/Myocardial_infarction
-https://en.wikipedia.org/wiki/Influenza
 https://en.wikipedia.org/wiki/Malaria
 https://en.wikipedia.org/wiki/Obesity
-https://en.wikipedia.org/wiki/Pneumonia
 https://en.wikipedia.org/wiki/Polio	DONE	claude-sonnet-5-5@claude_code	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Sexually_transmitted_infection
 https://en.wikipedia.org/wiki/Smallpox
-https://en.wikipedia.org/wiki/Tuberculosis
-https://en.wikipedia.org/wiki/Diabetes
 https://en.wikipedia.org/wiki/Inorganic_chemistry
 https://en.wikipedia.org/wiki/Biochemistry
 https://en.wikipedia.org/wiki/Chemical_compound
