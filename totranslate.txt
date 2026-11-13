@@ -45,7 +45,7 @@ https://en.wikipedia.org/wiki/Diabetes	DONE	gpt-6-luna@codex	review=gpt-6-luna@c
 https://en.wikipedia.org/wiki/Skin_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Tobacco_smoking	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Health_effects_of_smoking_tobacco	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Chemotherapy	CLAIMED	pop-os:3250207:codex	2026-11-13T05:50:15.988155+01:00
+https://en.wikipedia.org/wiki/Chemotherapy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Electronic_cigarette
 https://en.wikipedia.org/wiki/Cholesterol
 https://en.wikipedia.org/wiki/Brain_tumor
