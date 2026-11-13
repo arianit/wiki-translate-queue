@@ -44,7 +44,7 @@ https://en.wikipedia.org/wiki/Cardiovascular_disease	DONE	gpt-6-luna@codex	revie
 https://en.wikipedia.org/wiki/Diabetes	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Skin_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Tobacco_smoking	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Health_effects_of_smoking_tobacco
+https://en.wikipedia.org/wiki/Health_effects_of_smoking_tobacco	CLAIMED	pop-os:3250207:codex	2026-11-13T04:16:07.417330+01:00
 https://en.wikipedia.org/wiki/Chemotherapy
 https://en.wikipedia.org/wiki/Electronic_cigarette
 https://en.wikipedia.org/wiki/Cholesterol
