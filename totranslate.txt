@@ -7,26 +7,26 @@
 # Shared across machines via git — see README.md.
 
 #HEALTH
-https://en.wikipedia.org/wiki/Vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Vaccine	POSTED
 https://en.wikipedia.org/wiki/MMR_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Smallpox_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Influenza_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Smallpox_vaccine	POSTED
+https://en.wikipedia.org/wiki/Influenza_vaccine	POSTED
 https://en.wikipedia.org/wiki/Influenza	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Common_cold	CLAIMED	pop-os:3250207:codex	2026-11-12T19:22:36.760645+01:00
 https://en.wikipedia.org/wiki/Coronary_artery_disease	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Gingivitis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Headache	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Low_back_pain	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Hypertension	CLAIMED	pop-os:3250207:codex	2026-11-12T19:22:44.489381+01:00
+https://en.wikipedia.org/wiki/Headache	POSTED
+https://en.wikipedia.org/wiki/Low_back_pain	POSTED
+https://en.wikipedia.org/wiki/Hypertension	POSTED
 https://en.wikipedia.org/wiki/Allergic_rhinitis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Migraine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Migraine	POSTED
 https://en.wikipedia.org/wiki/COVID-19_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Gastroesophageal_reflux_disease	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Gastroenteritis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Iron-deficiency_anemia	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Urinary_tract_infection	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Type_2_diabetes	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Gastroenteritis	POSTED
+https://en.wikipedia.org/wiki/Iron-deficiency_anemia	POSTED
+https://en.wikipedia.org/wiki/Urinary_tract_infection	POSTED
+https://en.wikipedia.org/wiki/Type_2_diabetes	POSTED
 https://en.wikipedia.org/wiki/Anxiety_disorder	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Major_depressive_disorder	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Asthma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -51,8 +51,8 @@ https://en.wikipedia.org/wiki/Cholesterol	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Brain_tumor	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Bronchitis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Pneumonia	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Autism	CLAIMED	pop-os:3250207:codex	2026-11-13T22:16:43.536154+01:00
+https://en.wikipedia.org/wiki/Pneumonia	CLAIMED	pop-os:3250207:codex	2026-11-13T21:11:25.641344+01:00
+https://en.wikipedia.org/wiki/Autism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 
 
 # MORE ARBERESHE ARTICLES
@@ -72,7 +72,7 @@ https://it.wikipedia.org/wiki/San_Giorgio_Albanese	DONE	gpt-6-luna@codex	review=
 https://it.wikipedia.org/wiki/Civita_(Italia)	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Andali	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Maschito	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Comuni_dell%27Arb%C3%ABria	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://it.wikipedia.org/wiki/Comuni_dell%27Arb%C3%ABria	POSTED
 https://it.wikipedia.org/wiki/Eianina	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Cantinella	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://it.wikipedia.org/wiki/Maida	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
@@ -95,7 +95,7 @@ https://it.wikipedia.org/wiki/Chiesa_di_San_Niccol%C3%B2_dei_Greci	DONE	gpt-6-lu
 
 
 https://it.wikipedia.org/wiki/San_Benedetto_Ullano	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Prostate_cancer	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Prostate_cancer	POSTED
 https://en.wikipedia.org/wiki/Albania_under_the_Hohenstaufen	DONE
 https://en.wikipedia.org/wiki/Muzaka-Serbian_Conflict	DONE
 https://en.wikipedia.org/wiki/Geography	DONE
@@ -105,22 +105,22 @@ https://en.wikipedia.org/wiki/Chemistry	DONE
 https://en.wikipedia.org/wiki/European_Union	DONE
 https://en.wikipedia.org/wiki/Climate_change	DONE
 https://en.wikipedia.org/wiki/Relief	DONE
-https://en.wikipedia.org/wiki/Architecture	DONE
+https://en.wikipedia.org/wiki/Architecture	POSTED
 https://en.wikipedia.org/wiki/Plato	DONE
 https://en.wikipedia.org/wiki/Mongol Empire	DONE
 https://en.wikipedia.org/wiki/Infection	DONE
 https://en.wikipedia.org/wiki/Vaccine-preventable_disease	DONE
-https://en.wikipedia.org/wiki/Adam_Smith	DONE
-https://en.wikipedia.org/wiki/Max_Weber	DONE
+https://en.wikipedia.org/wiki/Adam_Smith	POSTED
+https://en.wikipedia.org/wiki/Max_Weber	POSTED
 https://en.wikipedia.org/wiki/Moses	DONE
 https://en.wikipedia.org/wiki/Nagarjuna	DONE
 https://en.wikipedia.org/wiki/Ashoka	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Otto_von_Bismarck	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Winston_Churchill	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Cyrus_the_Great	DONE
+https://en.wikipedia.org/wiki/Cyrus_the_Great	POSTED
 https://en.wikipedia.org/wiki/Rosa_Luxemburg	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Nelson_Mandela	DONE
+https://en.wikipedia.org/wiki/Nelson_Mandela	POSTED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Mao_Zedong	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Jawaharlal_Nehru	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -134,10 +134,10 @@ https://en.wikipedia.org/wiki/Henry_Ford\tDONE	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Galen\tDONE	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/David_Hilbert	DONE
-https://en.wikipedia.org/wiki/James_Prescott_Joule	DONE
+https://en.wikipedia.org/wiki/David_Hilbert	POSTED
+https://en.wikipedia.org/wiki/James_Prescott_Joule	POSTED
 # reason: translation engine rate limit exceeded (Claude Code weekly limit), fallback translation failed
-https://en.wikipedia.org/wiki/Johannes_Kepler	DONE
+https://en.wikipedia.org/wiki/Johannes_Kepler	POSTED
 https://en.wikipedia.org/wiki/Al-Khwarizmi	DONE
 https://en.wikipedia.org/wiki/Carl_Linnaeus	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/James_Clerk_Maxwell	DONE
@@ -155,7 +155,7 @@ https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin	DONE	gpt-6-luna@codex	re
 https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Gustav_Mahler	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Giacomo_Puccini	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky	DONE
+https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky	POSTED
 https://en.wikipedia.org/wiki/Richard_Wagner	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sergei_Eisenstein	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Akira_Kurosawa	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -167,11 +167,11 @@ https://en.wikipedia.org/wiki/Naguib_Mahfouz	DONE	gpt-6-luna@codex	review=gpt-6-
 https://en.wikipedia.org/wiki/Marcel_Proust	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Alexander_Pushkin	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sophocles	DONE
-https://en.wikipedia.org/wiki/Rabindranath_Tagore	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Rabindranath_Tagore	POSTED
 https://en.wikipedia.org/wiki/Virgil	DONE
 https://en.wikipedia.org/wiki/Jacques_Cartier	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/James_Cook	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/James_Cook	POSTED
 https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Zheng_He	FAILED	gpt-6-luna@codex
@@ -181,10 +181,10 @@ https://en.wikipedia.org/wiki/Epistemology	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Free_will	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Logic	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Logic	POSTED
 https://en.wikipedia.org/wiki/Materialism	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Reality	DONE
+https://en.wikipedia.org/wiki/Reality	POSTED
 https://en.wikipedia.org/wiki/Truth	DONE
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Monotheism	FAILED	gpt-6-luna@codex
@@ -201,14 +201,14 @@ https://en.wikipedia.org/wiki/Man	DONE
 https://en.wikipedia.org/wiki/Woman	DONE
 https://en.wikipedia.org/wiki/Politics	DONE
 https://en.wikipedia.org/wiki/Colonialism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Dictatorship	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Ideology	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Anarchism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Conservatism	DONE	claude-sonnet-5@claude_code
+https://en.wikipedia.org/wiki/Dictatorship	POSTED
+https://en.wikipedia.org/wiki/Ideology	POSTED
+https://en.wikipedia.org/wiki/Anarchism	POSTED
+https://en.wikipedia.org/wiki/Conservatism	POSTED
 # reason: translation did not complete (see run.log for this article)
 # reason: translation did not complete (see run.log for this article)
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Marxism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Marxism	POSTED
 https://en.wikipedia.org/wiki/Imperialism	DONE
 https://en.wikipedia.org/wiki/Political_party	DONE	claude-sonnet-5@claude_code
 https://en.wikipedia.org/wiki/Propaganda	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -242,7 +242,7 @@ https://en.wikipedia.org/wiki/Michael_Jackson	DONE	opencode-go/deepseek-v4.1-fla
 https://en.wikipedia.org/wiki/Argentina	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Iliad	DONE
-https://en.wikipedia.org/wiki/Homer	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
+https://en.wikipedia.org/wiki/Homer	POSTED
 https://en.wikipedia.org/wiki/World_War_II	DONE
 https://en.wikipedia.org/wiki/United_Kingdom	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/India	FAILED	gpt-6-luna@codex
@@ -257,8 +257,8 @@ https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo	FAILED	gpt-6-luna
 https://en.wikipedia.org/wiki/Germany	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Canada	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/China	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/New_York_City	FAILED	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/China	POSTED
+https://en.wikipedia.org/wiki/New_York_City	POSTED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Franklin_D._Roosevelt	DONE
 # reason: translation did not complete (see run.log for this article)
@@ -277,7 +277,7 @@ https://en.wikipedia.org/wiki/Iran	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Israel	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Association_football	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Albert_Einstein	CLAIMED	pop-os:1358515:codex	2026-11-10T07:19:51.092233+01:00
-https://en.wikipedia.org/wiki/Alexander_the_Great
+https://en.wikipedia.org/wiki/Alexander_the_Great	POSTED
 https://en.wikipedia.org/wiki/Weather	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Portugal	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Netherlands
@@ -288,10 +288,10 @@ https://en.wikipedia.org/wiki/Elizabeth_I	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Indonesia	DONE	claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Vietnam_War	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Soviet_Union
+https://en.wikipedia.org/wiki/Soviet_Union	POSTED
 https://en.wikipedia.org/wiki/William_Shakespeare	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Colombia	DONE	gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Joseph_Stalin
+https://en.wikipedia.org/wiki/Joseph_Stalin	POSTED
 https://en.wikipedia.org/wiki/English_language	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Pakistan	DONE	codex@codex	repaired=assembly+review
 # reason: translation did not complete (see run.log for this article)
@@ -301,16 +301,16 @@ https://en.wikipedia.org/wiki/Philippines	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Earth	DONE
 https://en.wikipedia.org/wiki/Mercury_(planet)	DONE
 https://en.wikipedia.org/wiki/Venus	DONE	gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Mars
+https://en.wikipedia.org/wiki/Mars	POSTED
 https://en.wikipedia.org/wiki/Jupiter	DONE
 https://en.wikipedia.org/wiki/Saturn	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Uranus
+https://en.wikipedia.org/wiki/Uranus	POSTED
 https://en.wikipedia.org/wiki/Neptune	DONE
 https://en.wikipedia.org/wiki/Cat	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/South_Africa	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Egypt
 https://en.wikipedia.org/wiki/The_Holocaust	DONE	claude-sonnet-5-5@claude_code	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Italy	DONE	codex@codex	repaired=assembly+review
+https://en.wikipedia.org/wiki/Italy	POSTED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/American_Civil_War	DONE	claude-sonnet-5-5@claude_code	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Jesus
@@ -319,7 +319,7 @@ https://en.wikipedia.org/wiki/Saudi_Arabia	DONE	codex@codex	repaired=assembly+re
 https://en.wikipedia.org/wiki/London
 https://en.wikipedia.org/wiki/Algeria
 https://en.wikipedia.org/wiki/Hong_Kong
-https://en.wikipedia.org/wiki/Periodic_table
+https://en.wikipedia.org/wiki/Periodic_table	POSTED
 https://en.wikipedia.org/wiki/Muhammad
 https://en.wikipedia.org/wiki/Poland	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
@@ -330,23 +330,23 @@ https://en.wikipedia.org/wiki/Los_Angeles	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Roman_Empire	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Afghanistan
-https://en.wikipedia.org/wiki/Julius_Caesar
-https://en.wikipedia.org/wiki/Charlie_Chaplin
+https://en.wikipedia.org/wiki/Julius_Caesar	POSTED
+https://en.wikipedia.org/wiki/Charlie_Chaplin	POSTED
 https://en.wikipedia.org/wiki/Washington,_D.C.	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Ukraine
 https://en.wikipedia.org/wiki/Vietnam
-https://en.wikipedia.org/wiki/Sun	DONE	claude-sonnet-5-5@claude_code	hand-repaired
+https://en.wikipedia.org/wiki/Sun	POSTED
 https://en.wikipedia.org/wiki/South_Korea	DONE	codex@codex	repaired=assembly+review
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Nazi_Germany
 https://en.wikipedia.org/wiki/Joan_of_Arc	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=opencode-go/deepseek-v4-pro@opencode_go
 https://en.wikipedia.org/wiki/Nikola_Tesla	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Black_hole
-https://en.wikipedia.org/wiki/Europe	DONE	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Europe	POSTED
 # reason: translation did not complete (see run.log for this article)	FAILED	claude-sonnet-5-5@claude_code
 # reason: rate/spend limit (HTTP 429): You've hit your session limit · resets 12am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261016T173920Z-claude-sonnet-5-5-40c63573.log)
-https://en.wikipedia.org/wiki/Mexico_City	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=opencode-go/deepseek-v4-pro@opencode_go
+https://en.wikipedia.org/wiki/Mexico_City	POSTED
 https://en.wikipedia.org/wiki/Stanley_Kubrick
 https://en.wikipedia.org/wiki/Frida_Kahlo
 https://en.wikipedia.org/wiki/Nigeria	DONE	gpt-6-luna@codex
@@ -358,20 +358,20 @@ https://en.wikipedia.org/wiki/Fyodor_Dostoevsky	DONE	codex@codex	repaired=assemb
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Thailand	DONE	codex@codex	repaired=assembly+review
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Karl_Marx	DONE	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Karl_Marx	POSTED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Vladimir_Lenin	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Paris
+https://en.wikipedia.org/wiki/Paris	POSTED
 https://en.wikipedia.org/wiki/World_Wide_Web	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Holy_Roman_Empire
-https://en.wikipedia.org/wiki/Byzantine_Empire
-https://en.wikipedia.org/wiki/North_America	DONE
+https://en.wikipedia.org/wiki/Byzantine_Empire	POSTED
+https://en.wikipedia.org/wiki/North_America	POSTED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Human    DONE
 https://en.wikipedia.org/wiki/Austria	DONE	codex@codex	repaired=assembly+review
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Augustus	DONE	codex@codex	repaired=assembly+review
+https://en.wikipedia.org/wiki/Augustus	POSTED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Danube	DONE
 https://en.wikipedia.org/wiki/Mediterranean_Sea	DONE
@@ -381,7 +381,7 @@ https://en.wikipedia.org/wiki/Culture	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Colosseum	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Film	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Planet	DONE
-https://en.wikipedia.org/wiki/Ferdinand_Castriota	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Ferdinand_Castriota	POSTED
 
 
 # Added 2026-09-10 from the Wiki Loves Arbëreshë Worklist
@@ -390,7 +390,7 @@ https://en.wikipedia.org/wiki/Ferdinand_Castriota	DONE	gpt-6-luna@codex	review=g
 # (verified against sq.wikipedia directly, not just the worklist table).
 https://it.wikipedia.org/wiki/Strage_di_Portella_della_Ginestra	DONE
 https://it.wikipedia.org/wiki/Eparchia_di_Lungro	DONE
-https://en.wikipedia.org/wiki/Italo-Albanian_Catholic_Church	DONE
+https://en.wikipedia.org/wiki/Italo-Albanian_Catholic_Church	POSTED
 # engine: provider=claude_code, model=claude-sonnet-5 (wiki-translation-harness); note: sqwiki already has "Kisha Bizantine Italo-Arbëreshe" — output is a fresh rewrite, not a first translation
 https://it.wikipedia.org/wiki/Settimana_santa_dell%27Eparchia_di_Lungro	DONE
 https://it.wikipedia.org/wiki/Abbazia_territoriale_di_Santa_Maria_di_Grottaferrata	DONE
@@ -399,22 +399,22 @@ https://en.wikipedia.org/wiki/Giuseppe_Schir%C3%B2_Di_Maggio	DONE
 # reason: already exists as sq:Zef Skiro Di Maxho (Wikidata Q1619529 sitelink); stale CLAIMED line, never finished -- not translated here
 https://en.wikipedia.org/wiki/M%C3%B4nica_Kabregu	DONE
 # reason: already exists as sq:Mónica Kabregú (Wikidata Q42389750 sitelink) -- not translated here
-https://en.wikipedia.org/wiki/Salvatore_Frega	DONE
+https://en.wikipedia.org/wiki/Salvatore_Frega	POSTED
 https://it.wikipedia.org/wiki/Francesco_Cuccia	DONE
 https://it.wikipedia.org/wiki/Frascineto	DONE
-https://it.wikipedia.org/wiki/Lungro	DONE
+https://it.wikipedia.org/wiki/Lungro	POSTED
 https://it.wikipedia.org/wiki/Barile	DONE
 https://it.wikipedia.org/wiki/San_Paolo_Albanese	DONE
 https://it.wikipedia.org/wiki/San_Costantino_Albanese	DONE
 https://it.wikipedia.org/wiki/Falconara_Albanese	DONE
 https://it.wikipedia.org/wiki/Castroregio	DONE
 https://it.wikipedia.org/wiki/Plataci	DONE
-https://it.wikipedia.org/wiki/Greci_(Italia)	DONE
+https://it.wikipedia.org/wiki/Greci_(Italia)	POSTED
 https://it.wikipedia.org/wiki/Acquaformosa	DONE
 # reason: already exists as sq:Firmoza -- a fresh rewrite draft was produced and is saved at output/Acquaformosa.wiki/.report.md for comparison, but was never merged into the live article
 https://it.wikipedia.org/wiki/San_Basile	DONE
 https://it.wikipedia.org/wiki/Bronte	DONE
-https://it.wikipedia.org/wiki/Biancavilla	DONE
+https://it.wikipedia.org/wiki/Biancavilla	POSTED
 https://it.wikipedia.org/wiki/Rionero_in_Vulture	DONE
 https://it.wikipedia.org/wiki/Sant%27Angelo_Muxaro	DONE
 https://it.wikipedia.org/wiki/Caraffa_di_Catanzaro	DONE
@@ -425,10 +425,10 @@ https://it.wikipedia.org/wiki/Anselmo_Lorecchio	DONE
 # reason: already exists as sq:Anselmo Lorekio (Wikidata Q16909175 sitelink) -- not translated here
 https://it.wikipedia.org/wiki/Licia_Albanese	DONE
 # reason: already exists as sq:Licia Albanese (Wikidata Q239886 sitelink) -- not translated here
-https://it.wikipedia.org/wiki/Demetrio_Capuzzimati	DONE
+https://it.wikipedia.org/wiki/Demetrio_Capuzzimati	POSTED
 https://it.wikipedia.org/wiki/Enrico_Cuccia	DONE
 # reason: already exists as sq:Enrico Cuccia (Wikidata Q327192 sitelink) -- not translated here
-https://it.wikipedia.org/wiki/Donato_Oliverio	DONE	deepseek-v4.1-flash@opencode_go
+https://it.wikipedia.org/wiki/Donato_Oliverio	POSTED
 https://it.wikipedia.org/wiki/Giovanni_Battista_Albanese	DONE
 # reason: already exists as sq:Giovanni Battista Albanese (Wikidata Q3766550 sitelink) -- not translated here
 https://sq.wikipedia.org/wiki/Fran%C3%A7esko_Krispi	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -439,15 +439,15 @@ https://sq.wikipedia.org/wiki/Fran%C3%A7esko_Krispi	DONE	gpt-6-luna@codex	review
 https://it.wikipedia.org/wiki/Brindisi_Montagna	DONE
 https://it.wikipedia.org/wiki/San_Chirico_Nuovo	DONE
 https://it.wikipedia.org/wiki/Belvedere_di_Spinello	DONE
-https://it.wikipedia.org/wiki/Cervicati	DONE
-https://it.wikipedia.org/wiki/Curinga	DONE
-https://it.wikipedia.org/wiki/Gizzeria	DONE
-https://it.wikipedia.org/wiki/Marcedusa	DONE
-https://it.wikipedia.org/wiki/Mongrassano	DONE
-https://it.wikipedia.org/wiki/San_Lorenzo_del_Vallo
-https://it.wikipedia.org/wiki/Rota_Greca
-https://it.wikipedia.org/wiki/Serra_d%27Aiello
-https://it.wikipedia.org/wiki/Zagarise
+https://it.wikipedia.org/wiki/Cervicati	POSTED
+https://it.wikipedia.org/wiki/Curinga	POSTED
+https://it.wikipedia.org/wiki/Gizzeria	POSTED
+https://it.wikipedia.org/wiki/Marcedusa	POSTED
+https://it.wikipedia.org/wiki/Mongrassano	POSTED
+https://it.wikipedia.org/wiki/San_Lorenzo_del_Vallo	POSTED
+https://it.wikipedia.org/wiki/Rota_Greca	POSTED
+https://it.wikipedia.org/wiki/Serra_d%27Aiello	POSTED
+https://it.wikipedia.org/wiki/Zagarise	POSTED
 
 
 
@@ -459,13 +459,13 @@ https://en.wikipedia.org/wiki/Open_science	DONE	opencode-go/deepseek-v4.1-flash@
 https://en.wikipedia.org/wiki/OpenRocket	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 # Vital articles: Philosophy (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/Atheism	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Beauty	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Beauty	POSTED
 https://en.wikipedia.org/wiki/Confucianism	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Ethics	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Knowledge	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Ethics	POSTED
+https://en.wikipedia.org/wiki/Knowledge	POSTED
 https://en.wikipedia.org/wiki/Philosophy	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 # Vital articles: Religion (List of articles every Wikipedia should have)
-https://en.wikipedia.org/wiki/Fundamentalism
+https://en.wikipedia.org/wiki/Fundamentalism	POSTED
 https://en.wikipedia.org/wiki/Mythology	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Reincarnation	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Religion	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -481,21 +481,21 @@ https://en.wikipedia.org/wiki/Taoism	DONE	gpt-6-luna@codex	review=gpt-6-luna@cod
 https://en.wikipedia.org/wiki/Zoroastrianism
 # Vital articles: Social sciences (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/Society	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Civilization
+https://en.wikipedia.org/wiki/Civilization	POSTED
 https://en.wikipedia.org/wiki/Education	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Emotion	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Love	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Psychology	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Thought	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Family	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Child	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Love	POSTED
+https://en.wikipedia.org/wiki/Psychology	POSTED
+https://en.wikipedia.org/wiki/Thought	POSTED
+https://en.wikipedia.org/wiki/Family	POSTED
+https://en.wikipedia.org/wiki/Child	POSTED
 https://en.wikipedia.org/wiki/Marriage	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Diplomacy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Government	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Diplomacy	POSTED
+https://en.wikipedia.org/wiki/Government	POSTED
 https://en.wikipedia.org/wiki/Democracy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Monarchy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Republic	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Capitalism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Monarchy	POSTED
+https://en.wikipedia.org/wiki/Republic	POSTED
+https://en.wikipedia.org/wiki/Capitalism	POSTED
 https://en.wikipedia.org/wiki/Communism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Fascism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Liberalism
@@ -509,16 +509,16 @@ https://en.wikipedia.org/wiki/Industry_(manufacturing)	DONE	gpt-6-luna@codex	rev
 https://en.wikipedia.org/wiki/Money	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Trade	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Law	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Constitution	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Constitution	POSTED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Commonwealth_of_Nations	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/NATO	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/OPEC	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/OPEC	POSTED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/United_Nations	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/United_Nations	POSTED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/International_Monetary_Fund
-https://en.wikipedia.org/wiki/World_Health_Organization	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/World_Health_Organization	POSTED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Terrorism
 # reason: translation did not complete (see run.log for this article)
@@ -526,22 +526,22 @@ https://en.wikipedia.org/wiki/Capital_punishment
 https://en.wikipedia.org/wiki/Discrimination
 https://en.wikipedia.org/wiki/Racism
 https://en.wikipedia.org/wiki/Feminism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Globalization	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Globalization	POSTED
 https://en.wikipedia.org/wiki/Human_rights	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Poverty	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Poverty	POSTED
 https://en.wikipedia.org/wiki/Slavery
 # Vital articles: Language and literature (List of articles every Wikipedia should have)
-https://en.wikipedia.org/wiki/Language	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Language	POSTED
 https://en.wikipedia.org/wiki/Arabic
 https://en.wikipedia.org/wiki/Bengali_language
-https://en.wikipedia.org/wiki/Chinese_language
+https://en.wikipedia.org/wiki/Chinese_language	POSTED
 https://en.wikipedia.org/wiki/French_language
-https://en.wikipedia.org/wiki/German_language
+https://en.wikipedia.org/wiki/German_language	POSTED
 https://en.wikipedia.org/wiki/Greek_language
-https://en.wikipedia.org/wiki/Hebrew_language
+https://en.wikipedia.org/wiki/Hebrew_language	POSTED
 https://en.wikipedia.org/wiki/Hindustani_language
 https://en.wikipedia.org/wiki/Korean_language
-https://en.wikipedia.org/wiki/Japanese_language
+https://en.wikipedia.org/wiki/Japanese_language	POSTED
 https://en.wikipedia.org/wiki/Latin
 https://en.wikipedia.org/wiki/Persian_language
 https://en.wikipedia.org/wiki/Portuguese_language
@@ -552,7 +552,7 @@ https://en.wikipedia.org/wiki/Swahili
 https://en.wikipedia.org/wiki/Turkish_language
 https://en.wikipedia.org/wiki/Linguistics
 https://en.wikipedia.org/wiki/Grammar
-https://en.wikipedia.org/wiki/Word
+https://en.wikipedia.org/wiki/Word	POSTED
 https://en.wikipedia.org/wiki/Phoneme
 https://en.wikipedia.org/wiki/Syllable
 https://en.wikipedia.org/wiki/Writing_system
@@ -565,13 +565,13 @@ https://en.wikipedia.org/wiki/Literacy
 https://en.wikipedia.org/wiki/Translation
 https://en.wikipedia.org/wiki/Literature
 https://en.wikipedia.org/wiki/Prose
-https://en.wikipedia.org/wiki/The_Art_of_War
+https://en.wikipedia.org/wiki/The_Art_of_War	POSTED
 https://en.wikipedia.org/wiki/Fiction
 https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights
 https://en.wikipedia.org/wiki/Novel	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/The_Tale_of_Genji	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Poetry
-https://en.wikipedia.org/wiki/Epic_of_Gilgamesh	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Epic_of_Gilgamesh	POSTED
 https://en.wikipedia.org/wiki/Shahnameh
 https://en.wikipedia.org/wiki/Bible	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Mahabharata	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -589,28 +589,28 @@ https://en.wikipedia.org/wiki/Angkor Wat
 https://en.wikipedia.org/wiki/Three Gorges Dam
 https://en.wikipedia.org/wiki/Jesus Christ	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Tin	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Science
+https://en.wikipedia.org/wiki/Science	POSTED
 https://en.wikipedia.org/wiki/Africa
 https://en.wikipedia.org/wiki/God	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Hydrocephalus	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Ketamine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/ALS	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/ALS	POSTED
 https://en.wikipedia.org/wiki/Agoraphobia	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Shingles	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Chickenpox	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Melanoma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Chickenpox	POSTED
+https://en.wikipedia.org/wiki/Melanoma	POSTED
 https://en.wikipedia.org/wiki/Hodgkin_lymphoma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Scurvy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Hemorrhoid	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Osteoarthritis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Hemorrhoid	POSTED
+https://en.wikipedia.org/wiki/Osteoarthritis	POSTED
 https://en.wikipedia.org/wiki/Esophageal_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Myocarditis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Breast_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Colorectal_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Stomach_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Liver_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Thyroid_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Leukemia	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Breast_cancer	POSTED
+https://en.wikipedia.org/wiki/Colorectal_cancer	POSTED
+https://en.wikipedia.org/wiki/Stomach_cancer	POSTED
+https://en.wikipedia.org/wiki/Liver_cancer	POSTED
+https://en.wikipedia.org/wiki/Thyroid_cancer	POSTED
+https://en.wikipedia.org/wiki/Leukemia	POSTED
 
 #STATES
 https://en.wikipedia.org/wiki/Turkey	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -802,7 +802,7 @@ https://en.wikipedia.org/wiki/Disability
 https://en.wikipedia.org/wiki/Mental_disorder
 https://en.wikipedia.org/wiki/Malaria
 https://en.wikipedia.org/wiki/Obesity
-https://en.wikipedia.org/wiki/Polio	DONE	claude-sonnet-5-5@claude_code	review=claude-sonnet-5-5@claude_code
+https://en.wikipedia.org/wiki/Polio	POSTED
 https://en.wikipedia.org/wiki/Smallpox
 https://en.wikipedia.org/wiki/Inorganic_chemistry
 https://en.wikipedia.org/wiki/Biochemistry
