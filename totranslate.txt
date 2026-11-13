@@ -49,7 +49,7 @@ https://en.wikipedia.org/wiki/Chemotherapy	DONE	gpt-6-luna@codex	review=gpt-6-lu
 https://en.wikipedia.org/wiki/Electronic_cigarette	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Cholesterol	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Brain_tumor	CLAIMED	pop-os:3250207:codex	2026-11-13T19:56:49.092499+01:00
+https://en.wikipedia.org/wiki/Brain_tumor	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Bronchitis
 https://en.wikipedia.org/wiki/Pneumonia
 https://en.wikipedia.org/wiki/Autism
