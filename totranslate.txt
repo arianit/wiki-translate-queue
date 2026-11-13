@@ -43,7 +43,7 @@ https://en.wikipedia.org/wiki/Down_syndrome	DONE	gpt-6-luna@codex	review=gpt-6-l
 https://en.wikipedia.org/wiki/Cardiovascular_disease	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Diabetes	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Skin_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Tobacco_smoking
+https://en.wikipedia.org/wiki/Tobacco_smoking	CLAIMED	pop-os:3250207:codex	2026-11-13T02:56:39.209726+01:00
 https://en.wikipedia.org/wiki/Health_effects_of_smoking_tobacco
 https://en.wikipedia.org/wiki/Chemotherapy
 https://en.wikipedia.org/wiki/Electronic_cigarette
