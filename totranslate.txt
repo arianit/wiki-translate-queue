@@ -93,7 +93,7 @@ https://en.wikipedia.org/wiki/Disease	DONE	gpt-6-luna@codex	review=gpt-6-luna@co
 https://en.wikipedia.org/wiki/Medication	CLAIMED	pop-os:152728:codex	2026-11-16T20:28:41.791776+01:00
 https://en.wikipedia.org/wiki/Health	CLAIMED	pop-os:152728:codex	2026-11-16T20:28:55.468823+01:00
 https://en.wikipedia.org/wiki/Immune_system	CLAIMED	pop-os:152728:codex	2026-11-16T20:29:04.575843+01:00
-https://en.wikipedia.org/wiki/Menstruation
+https://en.wikipedia.org/wiki/Menstruation	CLAIMED	pop-os:152728:codex	2026-11-16T20:29:20.461295+01:00
 https://en.wikipedia.org/wiki/Pandemic
 https://en.wikipedia.org/wiki/Virus
 https://en.wikipedia.org/wiki/Addiction
