@@ -97,7 +97,7 @@ https://en.wikipedia.org/wiki/Menstruation	CLAIMED	pop-os:152728:codex	2026-11-1
 https://en.wikipedia.org/wiki/Pandemic	CLAIMED	pop-os:152728:codex	2026-11-16T20:29:29.560186+01:00
 https://en.wikipedia.org/wiki/Virus	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Addiction	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Alzheimer's_disease
+https://en.wikipedia.org/wiki/Alzheimer's_disease	CLAIMED	pop-os:152728:codex	2026-11-16T22:43:45.317256+01:00
 https://en.wikipedia.org/wiki/Cancer
 https://en.wikipedia.org/wiki/Disability
 https://en.wikipedia.org/wiki/Mental_disorder
