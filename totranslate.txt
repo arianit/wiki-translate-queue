@@ -96,7 +96,7 @@ https://en.wikipedia.org/wiki/Immune_system	CLAIMED	pop-os:152728:codex	2026-11-
 https://en.wikipedia.org/wiki/Menstruation	CLAIMED	pop-os:152728:codex	2026-11-16T20:29:20.461295+01:00
 https://en.wikipedia.org/wiki/Pandemic	CLAIMED	pop-os:152728:codex	2026-11-16T20:29:29.560186+01:00
 https://en.wikipedia.org/wiki/Virus	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Addiction
+https://en.wikipedia.org/wiki/Addiction	CLAIMED	pop-os:152728:codex	2026-11-16T21:49:30.285956+01:00
 https://en.wikipedia.org/wiki/Alzheimer's_disease
 https://en.wikipedia.org/wiki/Cancer
 https://en.wikipedia.org/wiki/Disability
