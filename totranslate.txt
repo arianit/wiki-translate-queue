@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/MMR_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-lun
 https://en.wikipedia.org/wiki/Smallpox_vaccine	POSTED
 https://en.wikipedia.org/wiki/Influenza_vaccine	POSTED
 https://en.wikipedia.org/wiki/Influenza	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Common_cold	CLAIMED	pop-os:3250207:codex	2026-11-12T19:22:36.760645+01:00
+https://en.wikipedia.org/wiki/Common_cold	CLAIMED	pop-os:152728:codex	2026-11-16T16:20:07.107605+01:00
 https://en.wikipedia.org/wiki/Coronary_artery_disease	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Gingivitis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -27,75 +27,169 @@ https://en.wikipedia.org/wiki/Gastroenteritis	POSTED
 https://en.wikipedia.org/wiki/Iron-deficiency_anemia	POSTED
 https://en.wikipedia.org/wiki/Urinary_tract_infection	POSTED
 https://en.wikipedia.org/wiki/Type_2_diabetes	POSTED
-https://en.wikipedia.org/wiki/Anxiety_disorder	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Major_depressive_disorder	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Asthma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Pregnancy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Anxiety_disorder	POSTED
+https://en.wikipedia.org/wiki/Major_depressive_disorder	POSTED
+https://en.wikipedia.org/wiki/Asthma	POSTED
+https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease	POSTED
+https://en.wikipedia.org/wiki/Pregnancy	POSTED
 https://en.wikipedia.org/wiki/Sexually_transmitted_infection	CLAIMED	pop-os:3250207:codex	2026-11-12T19:22:53.536499+01:00
-https://en.wikipedia.org/wiki/Childbirth	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Birth_control	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Ovarian_cancer	FAILED	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Childbirth	POSTED
+https://en.wikipedia.org/wiki/Birth_control	POSTED
+https://en.wikipedia.org/wiki/Ovarian_cancer	POSTED gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Myocardial_infarction	POSTED
+https://en.wikipedia.org/wiki/Epilepsy	POSTED
+https://en.wikipedia.org/wiki/Down_syndrome	POSTED
+https://en.wikipedia.org/wiki/Cardiovascular_disease	DONE	 gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Diabetes	POSTED
+https://en.wikipedia.org/wiki/Skin_cancer	POSTED
+https://en.wikipedia.org/wiki/Tobacco_smoking	POSTED
+https://en.wikipedia.org/wiki/Health_effects_of_smoking_tobacco	POSTED
+https://en.wikipedia.org/wiki/Chemotherapy	POSTED
+https://en.wikipedia.org/wiki/Electronic_cigarette	POSTED
+https://en.wikipedia.org/wiki/Cholesterol	POSTED DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Myocardial_infarction	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Epilepsy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Down_syndrome	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Cardiovascular_disease	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Diabetes	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Skin_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Tobacco_smoking	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Health_effects_of_smoking_tobacco	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Chemotherapy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Electronic_cigarette	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Cholesterol	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Brain_tumor	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Bronchitis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Pneumonia	CLAIMED	pop-os:3250207:codex	2026-11-13T21:11:25.641344+01:00
-https://en.wikipedia.org/wiki/Autism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Brain_tumor	POSTED
+https://en.wikipedia.org/wiki/Bronchitis	POSTED
+https://en.wikipedia.org/wiki/Pneumonia	POSTED DONE
+https://en.wikipedia.org/wiki/Autism	POSTED
+https://en.wikipedia.org/wiki/Prostate_cancer	POSTED 
+
+https://en.wikipedia.org/wiki/Hydrocephalus	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Ketamine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/ALS	POSTED
+https://en.wikipedia.org/wiki/Agoraphobia	POSTED
+https://en.wikipedia.org/wiki/Shingles	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Chickenpox	POSTED
+https://en.wikipedia.org/wiki/Melanoma	POSTED
+https://en.wikipedia.org/wiki/Hodgkin_lymphoma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Scurvy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Hemorrhoid	POSTED
+https://en.wikipedia.org/wiki/Osteoarthritis	POSTED
+https://en.wikipedia.org/wiki/Esophageal_cancer POSTED	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Myocarditis	POED DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Breast_cancer	POSTED
+https://en.wikipedia.org/wiki/Colorectal_cancer	POSTED
+https://en.wikipedia.org/wiki/Stomach_cancer	POSTED
+https://en.wikipedia.org/wiki/Liver_cancer	POSTED
+https://en.wikipedia.org/wiki/Thyroid_cancer	POSTED
+https://en.wikipedia.org/wiki/Leukemia	POSTED
+https://en.wikipedia.org/wiki/Sex ??	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Blindness	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Malnutrition
+https://en.wikipedia.org/wiki/Stroke	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Infection POSTED	DONE
+https://en.wikipedia.org/wiki/Vaccine-preventable_disease	DONE
 
 
-# MORE ARBERESHE ARTICLES
-https://it.wikipedia.org/wiki/Villa_Badessa	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/Farneta_(Castroregio)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/Cavallerizzo	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/Zangarona	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/Carfizzi	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/San_Nicola_dell%27Alto	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/Pallagorio	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/Santa_Sofia_d%27Epiro	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/Mezzojuso	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/San_Martino_di_Finita	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/Santa_Caterina_Albanese	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/Vaccarizzo_Albanese	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/San_Giorgio_Albanese	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Civita_(Italia)	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Andali	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Maschito	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Comuni_dell%27Arb%C3%ABria	POSTED
-https://it.wikipedia.org/wiki/Eianina	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Cantinella	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Maida	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Marri	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Rosciano	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Spezzano_Albanese	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Santa_Cristina_Gela	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/San_Demetrio_Corone	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Portocannone	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Campomarino	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Palazzo_Adriano	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Contessa_Entellina	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Casalvecchio_di_Puglia	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://it.wikipedia.org/wiki/Chieuti	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/Ginestra_(Italia)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/Chiesa_di_Maria_Santissima_Assunta_(Palazzo_Adriano)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/Chiesa_di_Maria_Santissima_del_Lume_(Palazzo_Adriano)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://it.wikipedia.org/wiki/Chiesa_di_San_Niccol%C3%B2_dei_Greci	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+# Vital articles: Science (List of articles every Wikipedia should have)
+https://en.wikipedia.org/wiki/Sex	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Blindness	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Malnutrition
+https://en.wikipedia.org/wiki/Stroke	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Medicine
+https://en.wikipedia.org/wiki/Dentistry
+https://en.wikipedia.org/wiki/Disease
+https://en.wikipedia.org/wiki/Medication
+https://en.wikipedia.org/wiki/Health
+https://en.wikipedia.org/wiki/Immune_system
+https://en.wikipedia.org/wiki/Menstruation
+https://en.wikipedia.org/wiki/Pandemic
+https://en.wikipedia.org/wiki/Virus
+https://en.wikipedia.org/wiki/Addiction
+https://en.wikipedia.org/wiki/Alzheimer's_disease
+https://en.wikipedia.org/wiki/Cancer
+https://en.wikipedia.org/wiki/Disability
+https://en.wikipedia.org/wiki/Mental_disorder
+https://en.wikipedia.org/wiki/Malaria
+https://en.wikipedia.org/wiki/Obesity
+https://en.wikipedia.org/wiki/Polio	POSTED
+https://en.wikipedia.org/wiki/Smallpox
+https://en.wikipedia.org/wiki/Circulatory_system
+https://en.wikipedia.org/wiki/Endocrine_system
+https://en.wikipedia.org/wiki/Human_digestive_system
+https://en.wikipedia.org/wiki/Muscle
+https://en.wikipedia.org/wiki/Nervous_system
+https://en.wikipedia.org/wiki/Reproductive_system
+https://en.wikipedia.org/wiki/Respiratory_system
+https://en.wikipedia.org/wiki/Skeleton
+https://en.wikipedia.org/wiki/Skin
+https://en.wikipedia.org/wiki/Rrespiration
+
+
+https://en.wikipedia.org/wiki/Nature
+https://en.wikipedia.org/wiki/Astronomy
+https://en.wikipedia.org/wiki/Asteroid
+https://en.wikipedia.org/wiki/Big_Bang
+https://en.wikipedia.org/wiki/Comet
+https://en.wikipedia.org/wiki/Galaxy
+https://en.wikipedia.org/wiki/Moon
+https://en.wikipedia.org/wiki/Solar_System
+https://en.wikipedia.org/wiki/Spaceflight
+https://en.wikipedia.org/wiki/Star
+https://en.wikipedia.org/wiki/Universe
+https://en.wikipedia.org/wiki/Botany
+https://en.wikipedia.org/wiki/Death
+https://en.wikipedia.org/wiki/Ecology
+https://en.wikipedia.org/wiki/Life
+https://en.wikipedia.org/wiki/Biological_classification
+https://en.wikipedia.org/wiki/Metabolism
+https://en.wikipedia.org/wiki/Evolution
+https://en.wikipedia.org/wiki/Reproduction
+https://en.wikipedia.org/wiki/Organism
+https://en.wikipedia.org/wiki/Animal
+https://en.wikipedia.org/wiki/Algae
+https://en.wikipedia.org/wiki/Archaea
+https://en.wikipedia.org/wiki/Bacteria
+https://en.wikipedia.org/wiki/Fungus
+https://en.wikipedia.org/wiki/Plant
+https://en.wikipedia.org/wiki/Protist
+https://en.wikipedia.org/wiki/Anatomy
+https://en.wikipedia.org/wiki/Cell_(biology)
+https://en.wikipedia.org/wiki/Inorganic_chemistry
+https://en.wikipedia.org/wiki/Biochemistry
+https://en.wikipedia.org/wiki/Chemical_compound
+https://en.wikipedia.org/wiki/Chemical_element
+https://en.wikipedia.org/wiki/Organic_chemistry
+https://en.wikipedia.org/wiki/Molecule
+https://en.wikipedia.org/wiki/Analytical_chemistry
+https://en.wikipedia.org/wiki/Physical_chemistry
+https://en.wikipedia.org/wiki/Climate
+https://en.wikipedia.org/wiki/Water_cycle
+https://en.wikipedia.org/wiki/El_Ni%C3%B1o
+https://en.wikipedia.org/wiki/Earthquake
+https://en.wikipedia.org/wiki/Geology
+https://en.wikipedia.org/wiki/Natural_disaster
+https://en.wikipedia.org/wiki/Volcano
+https://en.wikipedia.org/wiki/Acceleration
+https://en.wikipedia.org/wiki/Atom
+https://en.wikipedia.org/wiki/Energy
+https://en.wikipedia.org/wiki/Electromagnetic_radiation
+https://en.wikipedia.org/wiki/Classical_mechanics
+https://en.wikipedia.org/wiki/Force
+https://en.wikipedia.org/wiki/Magnet
+https://en.wikipedia.org/wiki/Mass
+https://en.wikipedia.org/wiki/Metal
+https://en.wikipedia.org/wiki/Nuclear_fission
+https://en.wikipedia.org/wiki/State_of_matter
+https://en.wikipedia.org/wiki/Quantum_mechanics
+https://en.wikipedia.org/wiki/Radioactivity
+https://en.wikipedia.org/wiki/General_relativity
+https://en.wikipedia.org/wiki/Special_relativity
+https://en.wikipedia.org/wiki/Semiconductor
+https://en.wikipedia.org/wiki/Sound
+https://en.wikipedia.org/wiki/Velocity
+https://en.wikipedia.org/wiki/Temperature
+https://en.wikipedia.org/wiki/Time
+https://en.wikipedia.org/wiki/Thermodynamics
+https://en.wikipedia.org/wiki/Vacuum
+https://en.wikipedia.org/wiki/Mathematics
+https://en.wikipedia.org/wiki/Arithmetic
+https://en.wikipedia.org/wiki/Algebra
+https://en.wikipedia.org/wiki/Geometry
+https://en.wikipedia.org/wiki/Mathematical_analysis
 
 
 
-https://it.wikipedia.org/wiki/San_Benedetto_Ullano	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Prostate_cancer	POSTED
 https://en.wikipedia.org/wiki/Albania_under_the_Hohenstaufen	DONE
 https://en.wikipedia.org/wiki/Muzaka-Serbian_Conflict	DONE
 https://en.wikipedia.org/wiki/Geography	DONE
@@ -108,8 +202,6 @@ https://en.wikipedia.org/wiki/Relief	DONE
 https://en.wikipedia.org/wiki/Architecture	POSTED
 https://en.wikipedia.org/wiki/Plato	DONE
 https://en.wikipedia.org/wiki/Mongol Empire	DONE
-https://en.wikipedia.org/wiki/Infection	DONE
-https://en.wikipedia.org/wiki/Vaccine-preventable_disease	DONE
 https://en.wikipedia.org/wiki/Adam_Smith	POSTED
 https://en.wikipedia.org/wiki/Max_Weber	POSTED
 https://en.wikipedia.org/wiki/Moses	DONE
@@ -384,73 +476,6 @@ https://en.wikipedia.org/wiki/Planet	DONE
 https://en.wikipedia.org/wiki/Ferdinand_Castriota	POSTED
 
 
-# Added 2026-09-10 from the Wiki Loves Arbëreshë Worklist
-# (https://meta.wikimedia.org/wiki/Wiki_Loves_Arb%C3%ABresh%C3%AB/Worklist):
-# articles with an existing enwiki source but no sq.wikipedia article yet
-# (verified against sq.wikipedia directly, not just the worklist table).
-https://it.wikipedia.org/wiki/Strage_di_Portella_della_Ginestra	DONE
-https://it.wikipedia.org/wiki/Eparchia_di_Lungro	DONE
-https://en.wikipedia.org/wiki/Italo-Albanian_Catholic_Church	POSTED
-# engine: provider=claude_code, model=claude-sonnet-5 (wiki-translation-harness); note: sqwiki already has "Kisha Bizantine Italo-Arbëreshe" — output is a fresh rewrite, not a first translation
-https://it.wikipedia.org/wiki/Settimana_santa_dell%27Eparchia_di_Lungro	DONE
-https://it.wikipedia.org/wiki/Abbazia_territoriale_di_Santa_Maria_di_Grottaferrata	DONE
-# reason: already exists as sq:Manastiri i Grotaferratës -- a fresh rewrite draft was produced and is saved at output/Abbazia_territoriale_di_Santa_Maria_di_Grottaferrata.wiki/.report.md/.review.md for comparison, but was never merged into the live article
-https://en.wikipedia.org/wiki/Giuseppe_Schir%C3%B2_Di_Maggio	DONE
-# reason: already exists as sq:Zef Skiro Di Maxho (Wikidata Q1619529 sitelink); stale CLAIMED line, never finished -- not translated here
-https://en.wikipedia.org/wiki/M%C3%B4nica_Kabregu	DONE
-# reason: already exists as sq:Mónica Kabregú (Wikidata Q42389750 sitelink) -- not translated here
-https://en.wikipedia.org/wiki/Salvatore_Frega	POSTED
-https://it.wikipedia.org/wiki/Francesco_Cuccia	DONE
-https://it.wikipedia.org/wiki/Frascineto	DONE
-https://it.wikipedia.org/wiki/Lungro	POSTED
-https://it.wikipedia.org/wiki/Barile	DONE
-https://it.wikipedia.org/wiki/San_Paolo_Albanese	DONE
-https://it.wikipedia.org/wiki/San_Costantino_Albanese	DONE
-https://it.wikipedia.org/wiki/Falconara_Albanese	DONE
-https://it.wikipedia.org/wiki/Castroregio	DONE
-https://it.wikipedia.org/wiki/Plataci	DONE
-https://it.wikipedia.org/wiki/Greci_(Italia)	POSTED
-https://it.wikipedia.org/wiki/Acquaformosa	DONE
-# reason: already exists as sq:Firmoza -- a fresh rewrite draft was produced and is saved at output/Acquaformosa.wiki/.report.md for comparison, but was never merged into the live article
-https://it.wikipedia.org/wiki/San_Basile	DONE
-https://it.wikipedia.org/wiki/Bronte	DONE
-https://it.wikipedia.org/wiki/Biancavilla	POSTED
-https://it.wikipedia.org/wiki/Rionero_in_Vulture	DONE
-https://it.wikipedia.org/wiki/Sant%27Angelo_Muxaro	DONE
-https://it.wikipedia.org/wiki/Caraffa_di_Catanzaro	DONE
-https://it.wikipedia.org/wiki/Cerzeto	DONE
-https://it.wikipedia.org/wiki/La_Nazione_Albanese	DONE
-# reason: already exists as sq:La Nazione Albanese (Wikidata Q18737147 sitelink) -- not translated here
-https://it.wikipedia.org/wiki/Anselmo_Lorecchio	DONE
-# reason: already exists as sq:Anselmo Lorekio (Wikidata Q16909175 sitelink) -- not translated here
-https://it.wikipedia.org/wiki/Licia_Albanese	DONE
-# reason: already exists as sq:Licia Albanese (Wikidata Q239886 sitelink) -- not translated here
-https://it.wikipedia.org/wiki/Demetrio_Capuzzimati	POSTED
-https://it.wikipedia.org/wiki/Enrico_Cuccia	DONE
-# reason: already exists as sq:Enrico Cuccia (Wikidata Q327192 sitelink) -- not translated here
-https://it.wikipedia.org/wiki/Donato_Oliverio	POSTED
-https://it.wikipedia.org/wiki/Giovanni_Battista_Albanese	DONE
-# reason: already exists as sq:Giovanni Battista Albanese (Wikidata Q3766550 sitelink) -- not translated here
-https://sq.wikipedia.org/wiki/Fran%C3%A7esko_Krispi	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-# Added 2026-09-23 from the Wiki Loves Arbëreshë Worklist, Calabria/Basilicata
-# settlements section (verified against Wikidata sitelinks, not just the
-# worklist table -- Firmo/Civita/Amato/San Giacomo/Farneta excluded, they
-# resolve to disambiguation pages or an already-existing sqwiki article):
-https://it.wikipedia.org/wiki/Brindisi_Montagna	DONE
-https://it.wikipedia.org/wiki/San_Chirico_Nuovo	DONE
-https://it.wikipedia.org/wiki/Belvedere_di_Spinello	DONE
-https://it.wikipedia.org/wiki/Cervicati	POSTED
-https://it.wikipedia.org/wiki/Curinga	POSTED
-https://it.wikipedia.org/wiki/Gizzeria	POSTED
-https://it.wikipedia.org/wiki/Marcedusa	POSTED
-https://it.wikipedia.org/wiki/Mongrassano	POSTED
-https://it.wikipedia.org/wiki/San_Lorenzo_del_Vallo	POSTED
-https://it.wikipedia.org/wiki/Rota_Greca	POSTED
-https://it.wikipedia.org/wiki/Serra_d%27Aiello	POSTED
-https://it.wikipedia.org/wiki/Zagarise	POSTED
-
-
-
 
 https://en.wikipedia.org/wiki/Cluj-Napoca	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
@@ -578,39 +603,16 @@ https://en.wikipedia.org/wiki/Mahabharata	DONE	gpt-6-luna@codex	review=gpt-6-lun
 https://en.wikipedia.org/wiki/military	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 
 
-https://en.wikipedia.org/wiki/Rrespiration
-https://en.wikipedia.org/wiki/Sex	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Blindness	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Malnutrition
-https://en.wikipedia.org/wiki/Stroke	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Electromagnetic interaction	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Pottery	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Angkor Wat
-https://en.wikipedia.org/wiki/Three Gorges Dam
+https://en.wikipedia.org/wiki/Three Gorges Dam POSTED
 https://en.wikipedia.org/wiki/Jesus Christ	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Tin	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Science	POSTED
 https://en.wikipedia.org/wiki/Africa
 https://en.wikipedia.org/wiki/God	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Hydrocephalus	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Ketamine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/ALS	POSTED
-https://en.wikipedia.org/wiki/Agoraphobia	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Shingles	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Chickenpox	POSTED
-https://en.wikipedia.org/wiki/Melanoma	POSTED
-https://en.wikipedia.org/wiki/Hodgkin_lymphoma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Scurvy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Hemorrhoid	POSTED
-https://en.wikipedia.org/wiki/Osteoarthritis	POSTED
-https://en.wikipedia.org/wiki/Esophageal_cancer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Myocarditis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Breast_cancer	POSTED
-https://en.wikipedia.org/wiki/Colorectal_cancer	POSTED
-https://en.wikipedia.org/wiki/Stomach_cancer	POSTED
-https://en.wikipedia.org/wiki/Liver_cancer	POSTED
-https://en.wikipedia.org/wiki/Thyroid_cancer	POSTED
-https://en.wikipedia.org/wiki/Leukemia	POSTED
+
 
 #STATES
 https://en.wikipedia.org/wiki/Turkey	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -747,105 +749,6 @@ https://en.wikipedia.org/wiki/Mount_Kilimanjaro
 https://en.wikipedia.org/wiki/Rocky_Mountains
 https://en.wikipedia.org/wiki/Sahara
 
-# Vital articles: Science (List of articles every Wikipedia should have)
-https://en.wikipedia.org/wiki/Nature
-https://en.wikipedia.org/wiki/Astronomy
-https://en.wikipedia.org/wiki/Asteroid
-https://en.wikipedia.org/wiki/Big_Bang
-https://en.wikipedia.org/wiki/Comet
-https://en.wikipedia.org/wiki/Galaxy
-https://en.wikipedia.org/wiki/Moon
-https://en.wikipedia.org/wiki/Solar_System
-https://en.wikipedia.org/wiki/Spaceflight
-https://en.wikipedia.org/wiki/Star
-https://en.wikipedia.org/wiki/Universe
-https://en.wikipedia.org/wiki/Botany
-https://en.wikipedia.org/wiki/Death
-https://en.wikipedia.org/wiki/Ecology
-https://en.wikipedia.org/wiki/Life
-https://en.wikipedia.org/wiki/Biological_classification
-https://en.wikipedia.org/wiki/Metabolism
-https://en.wikipedia.org/wiki/Evolution
-https://en.wikipedia.org/wiki/Reproduction
-https://en.wikipedia.org/wiki/Organism
-https://en.wikipedia.org/wiki/Animal
-https://en.wikipedia.org/wiki/Algae
-https://en.wikipedia.org/wiki/Archaea
-https://en.wikipedia.org/wiki/Bacteria
-https://en.wikipedia.org/wiki/Fungus
-https://en.wikipedia.org/wiki/Plant
-https://en.wikipedia.org/wiki/Protist
-https://en.wikipedia.org/wiki/Anatomy
-https://en.wikipedia.org/wiki/Cell_(biology)
-https://en.wikipedia.org/wiki/Circulatory_system
-https://en.wikipedia.org/wiki/Endocrine_system
-https://en.wikipedia.org/wiki/Human_digestive_system
-https://en.wikipedia.org/wiki/Muscle
-https://en.wikipedia.org/wiki/Nervous_system
-https://en.wikipedia.org/wiki/Reproductive_system
-https://en.wikipedia.org/wiki/Respiratory_system
-https://en.wikipedia.org/wiki/Skeleton
-https://en.wikipedia.org/wiki/Skin
-https://en.wikipedia.org/wiki/Medicine
-https://en.wikipedia.org/wiki/Dentistry
-https://en.wikipedia.org/wiki/Disease
-https://en.wikipedia.org/wiki/Medication
-https://en.wikipedia.org/wiki/Health
-https://en.wikipedia.org/wiki/Immune_system
-https://en.wikipedia.org/wiki/Menstruation
-https://en.wikipedia.org/wiki/Pandemic
-https://en.wikipedia.org/wiki/Virus
-https://en.wikipedia.org/wiki/Addiction
-https://en.wikipedia.org/wiki/Alzheimer's_disease
-https://en.wikipedia.org/wiki/Cancer
-https://en.wikipedia.org/wiki/Disability
-https://en.wikipedia.org/wiki/Mental_disorder
-https://en.wikipedia.org/wiki/Malaria
-https://en.wikipedia.org/wiki/Obesity
-https://en.wikipedia.org/wiki/Polio	POSTED
-https://en.wikipedia.org/wiki/Smallpox
-https://en.wikipedia.org/wiki/Inorganic_chemistry
-https://en.wikipedia.org/wiki/Biochemistry
-https://en.wikipedia.org/wiki/Chemical_compound
-https://en.wikipedia.org/wiki/Chemical_element
-https://en.wikipedia.org/wiki/Organic_chemistry
-https://en.wikipedia.org/wiki/Molecule
-https://en.wikipedia.org/wiki/Analytical_chemistry
-https://en.wikipedia.org/wiki/Physical_chemistry
-https://en.wikipedia.org/wiki/Climate
-https://en.wikipedia.org/wiki/Water_cycle
-https://en.wikipedia.org/wiki/El_Ni%C3%B1o
-https://en.wikipedia.org/wiki/Earthquake
-https://en.wikipedia.org/wiki/Geology
-https://en.wikipedia.org/wiki/Natural_disaster
-https://en.wikipedia.org/wiki/Volcano
-https://en.wikipedia.org/wiki/Acceleration
-https://en.wikipedia.org/wiki/Atom
-https://en.wikipedia.org/wiki/Energy
-https://en.wikipedia.org/wiki/Electromagnetic_radiation
-https://en.wikipedia.org/wiki/Classical_mechanics
-https://en.wikipedia.org/wiki/Force
-https://en.wikipedia.org/wiki/Magnet
-https://en.wikipedia.org/wiki/Mass
-https://en.wikipedia.org/wiki/Metal
-https://en.wikipedia.org/wiki/Nuclear_fission
-https://en.wikipedia.org/wiki/State_of_matter
-https://en.wikipedia.org/wiki/Quantum_mechanics
-https://en.wikipedia.org/wiki/Radioactivity
-https://en.wikipedia.org/wiki/General_relativity
-https://en.wikipedia.org/wiki/Special_relativity
-https://en.wikipedia.org/wiki/Semiconductor
-https://en.wikipedia.org/wiki/Sound
-https://en.wikipedia.org/wiki/Velocity
-https://en.wikipedia.org/wiki/Temperature
-https://en.wikipedia.org/wiki/Time
-https://en.wikipedia.org/wiki/Thermodynamics
-https://en.wikipedia.org/wiki/Vacuum
-https://en.wikipedia.org/wiki/Mathematics
-https://en.wikipedia.org/wiki/Arithmetic
-https://en.wikipedia.org/wiki/Algebra
-https://en.wikipedia.org/wiki/Geometry
-https://en.wikipedia.org/wiki/Mathematical_analysis
 
 # Vital articles: Technology (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/Technology
@@ -910,4 +813,108 @@ https://en.wikipedia.org/wiki/Martial_arts
 https://en.wikipedia.org/wiki/Olympic_Games
 https://en.wikipedia.org/wiki/Sport
 https://en.wikipedia.org/wiki/Toy
+
+
+# Added 2026-09-10 from the Wiki Loves Arbëreshë Worklist
+# (https://meta.wikimedia.org/wiki/Wiki_Loves_Arb%C3%ABresh%C3%AB/Worklist):
+# articles with an existing enwiki source but no sq.wikipedia article yet
+# (verified against sq.wikipedia directly, not just the worklist table).
+https://it.wikipedia.org/wiki/Strage_di_Portella_della_Ginestra	DONE
+https://it.wikipedia.org/wiki/Eparchia_di_Lungro	DONE
+https://en.wikipedia.org/wiki/Italo-Albanian_Catholic_Church	POSTED
+# engine: provider=claude_code, model=claude-sonnet-5 (wiki-translation-harness); note: sqwiki already has "Kisha Bizantine Italo-Arbëreshe" — output is a fresh rewrite, not a first translation
+https://it.wikipedia.org/wiki/Settimana_santa_dell%27Eparchia_di_Lungro	DONE
+https://it.wikipedia.org/wiki/Abbazia_territoriale_di_Santa_Maria_di_Grottaferrata	DONE
+# reason: already exists as sq:Manastiri i Grotaferratës -- a fresh rewrite draft was produced and is saved at output/Abbazia_territoriale_di_Santa_Maria_di_Grottaferrata.wiki/.report.md/.review.md for comparison, but was never merged into the live article
+https://en.wikipedia.org/wiki/Giuseppe_Schir%C3%B2_Di_Maggio	DONE
+# reason: already exists as sq:Zef Skiro Di Maxho (Wikidata Q1619529 sitelink); stale CLAIMED line, never finished -- not translated here
+https://en.wikipedia.org/wiki/M%C3%B4nica_Kabregu	DONE
+# reason: already exists as sq:Mónica Kabregú (Wikidata Q42389750 sitelink) -- not translated here
+https://en.wikipedia.org/wiki/Salvatore_Frega	POSTED
+https://it.wikipedia.org/wiki/Francesco_Cuccia	DONE
+https://it.wikipedia.org/wiki/Frascineto	DONE
+https://it.wikipedia.org/wiki/Lungro	POSTED
+https://it.wikipedia.org/wiki/Barile	DONE
+https://it.wikipedia.org/wiki/San_Paolo_Albanese	DONE
+https://it.wikipedia.org/wiki/San_Costantino_Albanese	DONE
+https://it.wikipedia.org/wiki/Falconara_Albanese	DONE
+https://it.wikipedia.org/wiki/Castroregio	DONE
+https://it.wikipedia.org/wiki/Plataci	DONE
+https://it.wikipedia.org/wiki/Greci_(Italia)	POSTED
+https://it.wikipedia.org/wiki/Acquaformosa	DONE
+# reason: already exists as sq:Firmoza -- a fresh rewrite draft was produced and is saved at output/Acquaformosa.wiki/.report.md for comparison, but was never merged into the live article
+https://it.wikipedia.org/wiki/San_Basile	DONE
+https://it.wikipedia.org/wiki/Bronte	DONE
+https://it.wikipedia.org/wiki/Biancavilla	POSTED
+https://it.wikipedia.org/wiki/Rionero_in_Vulture	DONE
+https://it.wikipedia.org/wiki/Sant%27Angelo_Muxaro	DONE
+https://it.wikipedia.org/wiki/Caraffa_di_Catanzaro	DONE
+https://it.wikipedia.org/wiki/Cerzeto	DONE
+https://it.wikipedia.org/wiki/La_Nazione_Albanese	DONE
+# reason: already exists as sq:La Nazione Albanese (Wikidata Q18737147 sitelink) -- not translated here
+https://it.wikipedia.org/wiki/Anselmo_Lorecchio	DONE
+# reason: already exists as sq:Anselmo Lorekio (Wikidata Q16909175 sitelink) -- not translated here
+https://it.wikipedia.org/wiki/Licia_Albanese	DONE
+# reason: already exists as sq:Licia Albanese (Wikidata Q239886 sitelink) -- not translated here
+https://it.wikipedia.org/wiki/Demetrio_Capuzzimati	POSTED
+https://it.wikipedia.org/wiki/Enrico_Cuccia	DONE
+# reason: already exists as sq:Enrico Cuccia (Wikidata Q327192 sitelink) -- not translated here
+https://it.wikipedia.org/wiki/Donato_Oliverio	POSTED
+https://it.wikipedia.org/wiki/Giovanni_Battista_Albanese	DONE
+# reason: already exists as sq:Giovanni Battista Albanese (Wikidata Q3766550 sitelink) -- not translated here
+https://sq.wikipedia.org/wiki/Fran%C3%A7esko_Krispi	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+# Added 2026-09-23 from the Wiki Loves Arbëreshë Worklist, Calabria/Basilicata
+# settlements section (verified against Wikidata sitelinks, not just the
+# worklist table -- Firmo/Civita/Amato/San Giacomo/Farneta excluded, they
+# resolve to disambiguation pages or an already-existing sqwiki article):
+https://it.wikipedia.org/wiki/Brindisi_Montagna	DONE
+https://it.wikipedia.org/wiki/San_Chirico_Nuovo	DONE
+https://it.wikipedia.org/wiki/Belvedere_di_Spinello	DONE
+https://it.wikipedia.org/wiki/Cervicati	POSTED
+https://it.wikipedia.org/wiki/Curinga	POSTED
+https://it.wikipedia.org/wiki/Gizzeria	POSTED
+https://it.wikipedia.org/wiki/Marcedusa	POSTED
+https://it.wikipedia.org/wiki/Mongrassano	POSTED
+https://it.wikipedia.org/wiki/San_Lorenzo_del_Vallo	POSTED
+https://it.wikipedia.org/wiki/Rota_Greca	POSTED
+https://it.wikipedia.org/wiki/Serra_d%27Aiello	POSTED
+https://it.wikipedia.org/wiki/Zagarise	POSTED
+
+# MORE ARBERESHE ARTICLES
+https://it.wikipedia.org/wiki/Villa_Badessa	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://it.wikipedia.org/wiki/Farneta_(Castroregio)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://it.wikipedia.org/wiki/Cavallerizzo	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://it.wikipedia.org/wiki/Zangarona	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://it.wikipedia.org/wiki/Carfizzi	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://it.wikipedia.org/wiki/San_Nicola_dell%27Alto	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://it.wikipedia.org/wiki/Pallagorio	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://it.wikipedia.org/wiki/Santa_Sofia_d%27Epiro	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://it.wikipedia.org/wiki/Mezzojuso	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://it.wikipedia.org/wiki/San_Martino_di_Finita	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://it.wikipedia.org/wiki/Santa_Caterina_Albanese	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://it.wikipedia.org/wiki/Vaccarizzo_Albanese	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/San_Giorgio_Albanese	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/Civita_(Italia)	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/Andali	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/Maschito	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/Comuni_dell%27Arb%C3%ABria	POSTED
+https://it.wikipedia.org/wiki/Eianina	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/Cantinella	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/Maida	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/Marri	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/Rosciano	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/Spezzano_Albanese	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/Santa_Cristina_Gela	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/San_Demetrio_Corone	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/Portocannone	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/Campomarino	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/Palazzo_Adriano	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/Contessa_Entellina	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/Casalvecchio_di_Puglia	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
+https://it.wikipedia.org/wiki/Chieuti	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://it.wikipedia.org/wiki/Ginestra_(Italia)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://it.wikipedia.org/wiki/Chiesa_di_Maria_Santissima_Assunta_(Palazzo_Adriano)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://it.wikipedia.org/wiki/Chiesa_di_Maria_Santissima_del_Lume_(Palazzo_Adriano)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://it.wikipedia.org/wiki/Chiesa_di_San_Niccol%C3%B2_dei_Greci	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://it.wikipedia.org/wiki/San_Benedetto_Ullano	DONE	 opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 
