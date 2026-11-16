@@ -88,7 +88,7 @@ https://en.wikipedia.org/wiki/Blindness	DONE	gpt-6-luna@codex	review=gpt-6-luna@
 https://en.wikipedia.org/wiki/Malnutrition	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Stroke	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Medicine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Dentistry
+https://en.wikipedia.org/wiki/Dentistry	CLAIMED	pop-os:152728:codex	2026-11-16T19:12:10.873974+01:00
 https://en.wikipedia.org/wiki/Disease
 https://en.wikipedia.org/wiki/Medication
 https://en.wikipedia.org/wiki/Health
