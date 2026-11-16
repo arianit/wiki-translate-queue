@@ -98,7 +98,7 @@ https://en.wikipedia.org/wiki/Pandemic	CLAIMED	pop-os:152728:codex	2026-11-16T20
 https://en.wikipedia.org/wiki/Virus	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Addiction	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Alzheimer's_disease	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Cancer
+https://en.wikipedia.org/wiki/Cancer	CLAIMED	pop-os:152728:codex	2026-11-17T00:31:50.413791+01:00
 https://en.wikipedia.org/wiki/Disability
 https://en.wikipedia.org/wiki/Mental_disorder
 https://en.wikipedia.org/wiki/Malaria
