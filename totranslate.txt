@@ -94,7 +94,7 @@ https://en.wikipedia.org/wiki/Medication	CLAIMED	pop-os:1041231:codex	2026-11-17
 https://en.wikipedia.org/wiki/Health	CLAIMED	pop-os:1041231:codex	2026-11-17T23:29:56.975618+01:00
 https://en.wikipedia.org/wiki/Immune_system	CLAIMED	pop-os:1041231:codex	2026-11-17T23:30:04.109161+01:00
 https://en.wikipedia.org/wiki/Menstruation	CLAIMED	pop-os:1041231:codex	2026-11-17T23:30:12.145599+01:00
-https://en.wikipedia.org/wiki/Pandemic	CLAIMED	pop-os:935745:codex	2026-11-17T20:00:23.922438+01:00
+https://en.wikipedia.org/wiki/Pandemic	CLAIMED	pop-os:1041231:codex	2026-11-17T23:30:19.074316+01:00
 https://en.wikipedia.org/wiki/Virus	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Addiction	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Alzheimer's_disease	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
