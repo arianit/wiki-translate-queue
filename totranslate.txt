@@ -103,7 +103,7 @@ https://en.wikipedia.org/wiki/Cancer	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Disability	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Mental_disorder	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Malaria	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Obesity	CLAIMED	pop-os:935745:codex	2026-11-17T20:00:31.586834+01:00
+https://en.wikipedia.org/wiki/Obesity	CLAIMED	pop-os:1041231:codex	2026-11-17T23:30:26.524155+01:00
 https://en.wikipedia.org/wiki/Polio	POSTED
 https://en.wikipedia.org/wiki/Smallpox	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Circulatory_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
