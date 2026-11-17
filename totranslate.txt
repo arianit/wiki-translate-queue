@@ -101,7 +101,7 @@ https://en.wikipedia.org/wiki/Alzheimer's_disease	DONE	gpt-6-luna@codex	review=g
 https://en.wikipedia.org/wiki/Cancer	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Disability	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Mental_disorder
+https://en.wikipedia.org/wiki/Mental_disorder	CLAIMED	pop-os:152728:codex	2026-11-17T02:44:29.664429+01:00
 https://en.wikipedia.org/wiki/Malaria
 https://en.wikipedia.org/wiki/Obesity
 https://en.wikipedia.org/wiki/Polio	POSTED
