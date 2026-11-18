@@ -113,7 +113,7 @@ https://en.wikipedia.org/wiki/Muscle	CLAIMED	pop-os:1041231:codex	2026-11-18T01:
 https://en.wikipedia.org/wiki/Nervous_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Reproductive_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Respiratory_system	CLAIMED	pop-os:1041231:codex	2026-11-18T02:51:41.822257+01:00
-https://en.wikipedia.org/wiki/Skeleton	CLAIMED	pop-os:1041231:codex	2026-11-18T02:51:53.884500+01:00
+https://en.wikipedia.org/wiki/Skeleton	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Skin
 https://en.wikipedia.org/wiki/Rrespiration
 
