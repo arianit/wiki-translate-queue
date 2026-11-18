@@ -131,7 +131,7 @@ https://en.wikipedia.org/wiki/Solar_System	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Spaceflight	CLAIMED	pop-os:1445537:codex	2026-11-18T20:29:58.974480+01:00
 https://en.wikipedia.org/wiki/Star	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Universe
+https://en.wikipedia.org/wiki/Universe	CLAIMED	pop-os:1445537:codex	2026-11-18T21:31:36.451464+01:00
 https://en.wikipedia.org/wiki/Botany
 https://en.wikipedia.org/wiki/Death
 https://en.wikipedia.org/wiki/Ecology
