@@ -107,7 +107,7 @@ https://en.wikipedia.org/wiki/Obesity	DONE	gpt-6-luna@codex	review=gpt-6-luna@co
 https://en.wikipedia.org/wiki/Polio	POSTED
 https://en.wikipedia.org/wiki/Smallpox	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Circulatory_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Endocrine_system	CLAIMED	pop-os:1041231:codex	2026-11-18T00:48:41.976513+01:00
+https://en.wikipedia.org/wiki/Endocrine_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Human_digestive_system
 https://en.wikipedia.org/wiki/Muscle
 https://en.wikipedia.org/wiki/Nervous_system
