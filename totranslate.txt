@@ -129,7 +129,8 @@ https://en.wikipedia.org/wiki/Moon	CLAIMED	pop-os:1453885:codex	2026-11-18T19:17
 https://en.wikipedia.org/wiki/Solar_System	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Spaceflight	CLAIMED	pop-os:1445537:codex	2026-11-18T20:29:58.974480+01:00
-https://en.wikipedia.org/wiki/Star	CLAIMED	pop-os:1445537:codex	2026-11-18T20:30:17.665429+01:00
+https://en.wikipedia.org/wiki/Star	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Universe
 https://en.wikipedia.org/wiki/Botany
 https://en.wikipedia.org/wiki/Death
