@@ -120,7 +120,7 @@ https://en.wikipedia.org/wiki/Rrespiration	FAILED	gpt-6-luna@codex
 
 
 https://en.wikipedia.org/wiki/Nature	POSTED
-https://en.wikipedia.org/wiki/Astronomy	CLAIMED	pop-os:1041231:codex	2026-11-18T03:36:32.651274+01:00
+https://en.wikipedia.org/wiki/Astronomy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Asteroid
 https://en.wikipedia.org/wiki/Big_Bang
 https://en.wikipedia.org/wiki/Comet
