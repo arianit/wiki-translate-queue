@@ -90,7 +90,7 @@ https://en.wikipedia.org/wiki/Stroke	DONE	gpt-6-luna@codex	review=gpt-6-luna@cod
 https://en.wikipedia.org/wiki/Medicine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Dentistry	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Disease	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Medication	CLAIMED	pop-os:1041231:codex	2026-11-17T23:29:48.890675+01:00
+https://en.wikipedia.org/wiki/Medication	CLAIMED	pop-os:1453885:codex	2026-11-18T18:22:53.164640+01:00
 https://en.wikipedia.org/wiki/Health	CLAIMED	pop-os:1041231:codex	2026-11-17T23:29:56.975618+01:00
 https://en.wikipedia.org/wiki/Immune_system	CLAIMED	pop-os:1041231:codex	2026-11-17T23:30:04.109161+01:00
 https://en.wikipedia.org/wiki/Menstruation	CLAIMED	pop-os:1041231:codex	2026-11-17T23:30:12.145599+01:00
