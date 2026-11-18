@@ -115,7 +115,8 @@ https://en.wikipedia.org/wiki/Reproductive_system	DONE	gpt-6-luna@codex	review=g
 https://en.wikipedia.org/wiki/Respiratory_system	CLAIMED	pop-os:1041231:codex	2026-11-18T02:51:41.822257+01:00
 https://en.wikipedia.org/wiki/Skeleton	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Skin	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Rrespiration	CLAIMED	pop-os:1041231:codex	2026-11-18T03:36:24.765953+01:00
+https://en.wikipedia.org/wiki/Rrespiration	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 
 
 https://en.wikipedia.org/wiki/Nature	POSTED
