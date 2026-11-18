@@ -128,7 +128,7 @@ https://en.wikipedia.org/wiki/Galaxy	DONE	gpt-6-luna@codex	review=claude-sonnet-
 https://en.wikipedia.org/wiki/Moon	CLAIMED	pop-os:1453885:codex	2026-11-18T19:17:38.033629+01:00
 https://en.wikipedia.org/wiki/Solar_System	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Spaceflight
+https://en.wikipedia.org/wiki/Spaceflight	CLAIMED	pop-os:1445537:codex	2026-11-18T20:29:58.974480+01:00
 https://en.wikipedia.org/wiki/Star
 https://en.wikipedia.org/wiki/Universe
 https://en.wikipedia.org/wiki/Botany
