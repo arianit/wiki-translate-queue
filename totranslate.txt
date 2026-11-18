@@ -110,7 +110,7 @@ https://en.wikipedia.org/wiki/Circulatory_system	DONE	gpt-6-luna@codex	review=gp
 https://en.wikipedia.org/wiki/Endocrine_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Human_digestive_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Muscle	CLAIMED	pop-os:1041231:codex	2026-11-18T01:53:10.148771+01:00
-https://en.wikipedia.org/wiki/Nervous_system
+https://en.wikipedia.org/wiki/Nervous_system	CLAIMED	pop-os:1041231:codex	2026-11-18T01:53:18.896514+01:00
 https://en.wikipedia.org/wiki/Reproductive_system
 https://en.wikipedia.org/wiki/Respiratory_system
 https://en.wikipedia.org/wiki/Skeleton
