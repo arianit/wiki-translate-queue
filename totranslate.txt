@@ -152,7 +152,7 @@ https://en.wikipedia.org/wiki/Bacteria	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Fungus	CLAIMED	pop-os:2288674:claude_code	2026-11-19T22:22:44.959619+01:00
 https://en.wikipedia.org/wiki/Plant	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Protist
+https://en.wikipedia.org/wiki/Protist	CLAIMED	pop-os:2288674:claude_code	2026-11-19T22:49:52.976435+01:00
 https://en.wikipedia.org/wiki/Anatomy
 https://en.wikipedia.org/wiki/Cell_(biology)
 https://en.wikipedia.org/wiki/Inorganic_chemistry
