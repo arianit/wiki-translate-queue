@@ -145,7 +145,7 @@ https://en.wikipedia.org/wiki/Evolution	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Reproduction	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Organism	CLAIMED	pop-os:1453885:codex	2026-11-19T04:50:50.190317+01:00
-https://en.wikipedia.org/wiki/Animal	CLAIMED	pop-os:1445537:codex	2026-11-19T04:59:21.616709+01:00
+https://en.wikipedia.org/wiki/Animal	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Algae	CLAIMED	pop-os:1453885:codex	2026-11-19T05:00:47.819160+01:00
 https://en.wikipedia.org/wiki/Archaea	CLAIMED	pop-os:1453885:codex	2026-11-19T05:01:01.537248+01:00
 https://en.wikipedia.org/wiki/Bacteria
