@@ -150,7 +150,7 @@ https://en.wikipedia.org/wiki/Algae	CLAIMED	pop-os:2288674:claude_code	2026-11-1
 https://en.wikipedia.org/wiki/Archaea	CLAIMED	pop-os:2288674:claude_code	2026-11-19T22:22:39.981949+01:00
 https://en.wikipedia.org/wiki/Bacteria	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Fungus	CLAIMED	pop-os:1445537:codex	2026-11-19T07:11:15.773693+01:00
+https://en.wikipedia.org/wiki/Fungus	CLAIMED	pop-os:2288674:claude_code	2026-11-19T22:22:44.959619+01:00
 https://en.wikipedia.org/wiki/Plant
 https://en.wikipedia.org/wiki/Protist
 https://en.wikipedia.org/wiki/Anatomy
