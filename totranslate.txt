@@ -143,7 +143,7 @@ https://en.wikipedia.org/wiki/Metabolism	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Evolution	CLAIMED	pop-os:1445537:codex	2026-11-19T03:28:09.001284+01:00
 https://en.wikipedia.org/wiki/Reproduction	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Organism
+https://en.wikipedia.org/wiki/Organism	CLAIMED	pop-os:1453885:codex	2026-11-19T04:50:50.190317+01:00
 https://en.wikipedia.org/wiki/Animal
 https://en.wikipedia.org/wiki/Algae
 https://en.wikipedia.org/wiki/Archaea
