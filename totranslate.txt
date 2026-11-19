@@ -139,7 +139,7 @@ https://en.wikipedia.org/wiki/Ecology	CLAIMED	pop-os:1453885:codex	2026-11-18T23
 https://en.wikipedia.org/wiki/Life	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Biological_classification	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Metabolism
+https://en.wikipedia.org/wiki/Metabolism	CLAIMED	pop-os:1445537:codex	2026-11-19T02:27:36.477235+01:00
 https://en.wikipedia.org/wiki/Evolution
 https://en.wikipedia.org/wiki/Reproduction
 https://en.wikipedia.org/wiki/Organism
