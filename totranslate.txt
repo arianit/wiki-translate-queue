@@ -123,7 +123,7 @@ https://en.wikipedia.org/wiki/Nature	POSTED
 https://en.wikipedia.org/wiki/Astronomy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Asteroid	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Big_Bang	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Comet	CLAIMED	pop-os:1453885:codex	2026-11-18T18:23:46.290442+01:00
+https://en.wikipedia.org/wiki/Comet	CLAIMED	pop-os:2288439:claude_code	2026-11-19T22:12:24.330125+01:00
 https://en.wikipedia.org/wiki/Galaxy	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Moon	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Solar_System	FAILED	gpt-6-luna@codex
