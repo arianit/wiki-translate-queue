@@ -147,7 +147,7 @@ https://en.wikipedia.org/wiki/Reproduction	DONE	gpt-6-luna@codex	review=claude-s
 https://en.wikipedia.org/wiki/Organism	CLAIMED	pop-os:1453885:codex	2026-11-19T04:50:50.190317+01:00
 https://en.wikipedia.org/wiki/Animal	CLAIMED	pop-os:1445537:codex	2026-11-19T04:59:21.616709+01:00
 https://en.wikipedia.org/wiki/Algae	CLAIMED	pop-os:1453885:codex	2026-11-19T05:00:47.819160+01:00
-https://en.wikipedia.org/wiki/Archaea
+https://en.wikipedia.org/wiki/Archaea	CLAIMED	pop-os:1453885:codex	2026-11-19T05:01:01.537248+01:00
 https://en.wikipedia.org/wiki/Bacteria
 https://en.wikipedia.org/wiki/Fungus
 https://en.wikipedia.org/wiki/Plant
