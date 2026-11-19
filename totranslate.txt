@@ -137,7 +137,7 @@ https://en.wikipedia.org/wiki/Botany	DONE	gpt-6-luna@codex	review=gpt-6-luna@cod
 https://en.wikipedia.org/wiki/Death	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Ecology	CLAIMED	pop-os:1453885:codex	2026-11-18T23:54:36.132560+01:00
 https://en.wikipedia.org/wiki/Life	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Biological_classification
+https://en.wikipedia.org/wiki/Biological_classification	CLAIMED	pop-os:1445537:codex	2026-11-19T01:27:27.424160+01:00
 https://en.wikipedia.org/wiki/Metabolism
 https://en.wikipedia.org/wiki/Evolution
 https://en.wikipedia.org/wiki/Reproduction
