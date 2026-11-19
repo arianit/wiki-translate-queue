@@ -154,7 +154,7 @@ https://en.wikipedia.org/wiki/Fungus	CLAIMED	pop-os:2288674:claude_code	2026-11-
 https://en.wikipedia.org/wiki/Plant	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Protist	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Anatomy
+https://en.wikipedia.org/wiki/Anatomy	CLAIMED	pop-os:2288674:claude_code	2026-11-19T23:08:47.697423+01:00
 https://en.wikipedia.org/wiki/Cell_(biology)
 https://en.wikipedia.org/wiki/Inorganic_chemistry
 https://en.wikipedia.org/wiki/Biochemistry
