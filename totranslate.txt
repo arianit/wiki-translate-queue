@@ -158,7 +158,7 @@ https://en.wikipedia.org/wiki/Anatomy	DONE	claude-haiku-5-5@claude_code	review=c
 https://en.wikipedia.org/wiki/Cell_(biology)	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Inorganic_chemistry	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Biochemistry	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Chemical_compound
+https://en.wikipedia.org/wiki/Chemical_compound	CLAIMED	pop-os:2288674:claude_code	2026-11-20T00:29:13.119382+01:00
 https://en.wikipedia.org/wiki/Chemical_element
 https://en.wikipedia.org/wiki/Organic_chemistry
 https://en.wikipedia.org/wiki/Molecule
