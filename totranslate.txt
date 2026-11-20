@@ -174,7 +174,7 @@ https://en.wikipedia.org/wiki/Geology	DONE	gpt-6-luna@codex	review=gpt-6-luna@co
 https://en.wikipedia.org/wiki/Natural_disaster	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Volcano	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Acceleration	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Atom	CLAIMED	pop-os:2049574:codex	2026-11-20T18:45:02.784282+01:00
+https://en.wikipedia.org/wiki/Atom	CLAIMED	pop-os:2848850:codex	2026-11-20T22:10:58.754047+01:00
 https://en.wikipedia.org/wiki/Energy	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Electromagnetic_radiation	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Classical_mechanics	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
