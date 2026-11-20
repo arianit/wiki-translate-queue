@@ -177,7 +177,7 @@ https://en.wikipedia.org/wiki/Acceleration	DONE	gpt-6-luna@codex	review=gpt-6-lu
 https://en.wikipedia.org/wiki/Atom	CLAIMED	pop-os:2049574:codex	2026-11-20T18:45:02.784282+01:00
 https://en.wikipedia.org/wiki/Energy	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Electromagnetic_radiation	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Classical_mechanics
+https://en.wikipedia.org/wiki/Classical_mechanics	CLAIMED	pop-os:2728452:claude_code	2026-11-20T19:34:00.461184+01:00
 https://en.wikipedia.org/wiki/Force
 https://en.wikipedia.org/wiki/Magnet
 https://en.wikipedia.org/wiki/Mass
