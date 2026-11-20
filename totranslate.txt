@@ -171,7 +171,7 @@ https://en.wikipedia.org/wiki/Water_cycle	DONE	claude-haiku-5-5@claude_code	revi
 https://en.wikipedia.org/wiki/El_Ni%C3%B1o	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Earthquake	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Geology	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Natural_disaster	CLAIMED	pop-os:2049574:codex	2026-11-20T12:57:07.793029+01:00
+https://en.wikipedia.org/wiki/Natural_disaster	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Volcano	CLAIMED	pop-os:2728452:claude_code	2026-11-20T18:19:23.506404+01:00
 https://en.wikipedia.org/wiki/Acceleration
 https://en.wikipedia.org/wiki/Atom
