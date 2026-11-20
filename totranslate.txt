@@ -190,7 +190,7 @@ https://en.wikipedia.org/wiki/Quantum_mechanics	FAILED	claude-haiku-5-5@claude_c
 https://en.wikipedia.org/wiki/Radioactivity	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/General_relativity	CLAIMED	pop-os:2728452:claude_code	2026-11-20T21:07:31.771754+01:00
 https://en.wikipedia.org/wiki/Special_relativity	CLAIMED	pop-os:2728452:claude_code	2026-11-20T21:07:45.987030+01:00
-https://en.wikipedia.org/wiki/Semiconductor
+https://en.wikipedia.org/wiki/Semiconductor	CLAIMED	pop-os:2848850:codex	2026-11-20T21:42:55.614398+01:00
 https://en.wikipedia.org/wiki/Sound
 https://en.wikipedia.org/wiki/Velocity
 https://en.wikipedia.org/wiki/Temperature
