@@ -160,7 +160,7 @@ https://en.wikipedia.org/wiki/Inorganic_chemistry	DONE	claude-haiku-5-5@claude_c
 https://en.wikipedia.org/wiki/Biochemistry	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Chemical_compound	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Chemical_element	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Organic_chemistry	CLAIMED	pop-os:2288674:claude_code	2026-11-20T01:07:51.812703+01:00
+https://en.wikipedia.org/wiki/Organic_chemistry	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Molecule
 https://en.wikipedia.org/wiki/Analytical_chemistry
 https://en.wikipedia.org/wiki/Physical_chemistry
