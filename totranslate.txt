@@ -195,7 +195,7 @@ https://en.wikipedia.org/wiki/Sound	DONE	gpt-6-luna@codex	review=gpt-6-luna@code
 https://en.wikipedia.org/wiki/Velocity	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Temperature	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Time	CLAIMED	pop-os:2848850:codex	2026-11-21T00:03:46.572041+01:00
-https://en.wikipedia.org/wiki/Thermodynamics	CLAIMED	pop-os:2728452:claude_code	2026-11-21T00:20:05.185195+01:00
+https://en.wikipedia.org/wiki/Thermodynamics	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Vacuum
 https://en.wikipedia.org/wiki/Mathematics	POSTED
 https://en.wikipedia.org/wiki/Arithmetic
