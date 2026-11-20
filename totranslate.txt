@@ -180,7 +180,7 @@ https://en.wikipedia.org/wiki/Electromagnetic_radiation	DONE	claude-haiku-5-5@cl
 https://en.wikipedia.org/wiki/Classical_mechanics	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Force	CLAIMED	pop-os:2728452:claude_code	2026-11-20T19:52:01.764999+01:00
 https://en.wikipedia.org/wiki/Magnet	CLAIMED	pop-os:2728452:claude_code	2026-11-20T19:52:13.206420+01:00
-https://en.wikipedia.org/wiki/Mass
+https://en.wikipedia.org/wiki/Mass	CLAIMED	pop-os:2728452:claude_code	2026-11-20T19:52:23.517515+01:00
 https://en.wikipedia.org/wiki/Metal
 https://en.wikipedia.org/wiki/Nuclear_fission
 https://en.wikipedia.org/wiki/State_of_matter
