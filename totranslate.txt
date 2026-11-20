@@ -109,7 +109,7 @@ https://en.wikipedia.org/wiki/Smallpox	DONE	gpt-6-luna@codex	review=gpt-6-luna@c
 https://en.wikipedia.org/wiki/Circulatory_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Endocrine_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Human_digestive_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Muscle	CLAIMED	pop-os:2286770:claude_code	2026-11-19T22:11:03.531499+01:00
+https://en.wikipedia.org/wiki/Muscle	CLAIMED	pop-os:2288674:claude_code	2026-11-20T01:22:10.169480+01:00
 https://en.wikipedia.org/wiki/Nervous_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Reproductive_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Respiratory_system	CLAIMED	pop-os:2286770:claude_code	2026-11-19T22:11:09.826002+01:00
