@@ -187,7 +187,7 @@ https://en.wikipedia.org/wiki/Nuclear_fission	DONE	claude-haiku-5-5@claude_code	
 https://en.wikipedia.org/wiki/State_of_matter	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Quantum_mechanics	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Radioactivity
+https://en.wikipedia.org/wiki/Radioactivity	CLAIMED	pop-os:2728452:claude_code	2026-11-20T21:06:34.606524+01:00
 https://en.wikipedia.org/wiki/General_relativity
 https://en.wikipedia.org/wiki/Special_relativity
 https://en.wikipedia.org/wiki/Semiconductor
