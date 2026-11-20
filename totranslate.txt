@@ -88,21 +88,21 @@ https://en.wikipedia.org/wiki/Blindness	DONE	gpt-6-luna@codex	review=gpt-6-luna@
 https://en.wikipedia.org/wiki/Malnutrition	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Stroke	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Medicine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Dentistry	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Disease	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Dentistry	POSTED
+https://en.wikipedia.org/wiki/Disease	POSTED
 https://en.wikipedia.org/wiki/Medication	CLAIMED	pop-os:2728452:claude_code	2026-11-20T19:50:43.445565+01:00
 https://en.wikipedia.org/wiki/Health	CLAIMED	pop-os:2728452:claude_code	2026-11-20T19:50:51.445247+01:00
 https://en.wikipedia.org/wiki/Immune_system	CLAIMED	pop-os:2728452:claude_code	2026-11-20T19:50:58.709690+01:00
 https://en.wikipedia.org/wiki/Menstruation	CLAIMED	pop-os:2728452:claude_code	2026-11-20T19:51:06.411964+01:00
 https://en.wikipedia.org/wiki/Pandemic	CLAIMED	pop-os:2728452:claude_code	2026-11-20T19:51:14.098345+01:00
-https://en.wikipedia.org/wiki/Virus	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Addiction	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Alzheimer's_disease	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Virus	POSTED
+https://en.wikipedia.org/wiki/Addiction	POSTED
+https://en.wikipedia.org/wiki/Alzheimer's_disease	POSTED
 https://en.wikipedia.org/wiki/Cancer	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Disability	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Mental_disorder	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Malaria	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Disability	POSTED
+https://en.wikipedia.org/wiki/Mental_disorder	POSTED
+https://en.wikipedia.org/wiki/Malaria	POSTED
 https://en.wikipedia.org/wiki/Obesity	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Polio	POSTED
 https://en.wikipedia.org/wiki/Smallpox	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -190,7 +190,7 @@ https://en.wikipedia.org/wiki/Quantum_mechanics	FAILED	claude-haiku-5-5@claude_c
 https://en.wikipedia.org/wiki/Radioactivity	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/General_relativity	CLAIMED	pop-os:2728452:claude_code	2026-11-20T21:07:31.771754+01:00
 https://en.wikipedia.org/wiki/Special_relativity	CLAIMED	pop-os:2728452:claude_code	2026-11-20T21:07:45.987030+01:00
-https://en.wikipedia.org/wiki/Semiconductor	CLAIMED	pop-os:2848850:codex	2026-11-20T21:42:55.614398+01:00
+https://en.wikipedia.org/wiki/Semiconductor	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sound
 https://en.wikipedia.org/wiki/Velocity
 https://en.wikipedia.org/wiki/Temperature
@@ -306,7 +306,7 @@ https://en.wikipedia.org/wiki/Behavior	DONE
 https://en.wikipedia.org/wiki/Mind	DONE
 https://en.wikipedia.org/wiki/Man	DONE
 https://en.wikipedia.org/wiki/Woman	DONE
-https://en.wikipedia.org/wiki/Politics	DONE
+https://en.wikipedia.org/wiki/Politics	POSTED
 https://en.wikipedia.org/wiki/Colonialism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Dictatorship	POSTED
 https://en.wikipedia.org/wiki/Ideology	POSTED
