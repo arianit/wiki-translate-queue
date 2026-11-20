@@ -182,7 +182,7 @@ https://en.wikipedia.org/wiki/Force	CLAIMED	pop-os:2728452:claude_code	2026-11-2
 https://en.wikipedia.org/wiki/Magnet	CLAIMED	pop-os:2728452:claude_code	2026-11-20T19:52:13.206420+01:00
 https://en.wikipedia.org/wiki/Mass	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Metal	CLAIMED	pop-os:2728452:claude_code	2026-11-20T19:55:47.968771+01:00
+https://en.wikipedia.org/wiki/Metal	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Nuclear_fission
 https://en.wikipedia.org/wiki/State_of_matter
 https://en.wikipedia.org/wiki/Quantum_mechanics
