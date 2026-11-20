@@ -169,7 +169,7 @@ https://en.wikipedia.org/wiki/Physical_chemistry	CLAIMED	pop-os:2288674:claude_c
 https://en.wikipedia.org/wiki/Climate	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Water_cycle	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/El_Ni%C3%B1o	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Earthquake	CLAIMED	pop-os:2049574:codex	2026-11-20T05:30:15.309879+01:00
+https://en.wikipedia.org/wiki/Earthquake	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Geology
 https://en.wikipedia.org/wiki/Natural_disaster
 https://en.wikipedia.org/wiki/Volcano
