@@ -80,7 +80,7 @@ https://en.wikipedia.org/wiki/Visual_impairment	CLAIMED	pop-os:3488436:claude_co
 https://en.wikipedia.org/wiki/Malnutrition	POSTED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Stroke	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Infection POSTED	
+https://en.wikipedia.org/wiki/Infection POSTED	CLAIMED	pop-os:3351439:codex	2026-11-21T19:20:35.571584+01:00
 https://en.wikipedia.org/wiki/Vaccine-preventable_disease	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 
 
