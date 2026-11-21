@@ -93,7 +93,7 @@ https://en.wikipedia.org/wiki/Blindness	DONE	gpt-6-luna@codex	review=gpt-6-luna@
 https://en.wikipedia.org/wiki/Medicine	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Dentistry	POSTED
 https://en.wikipedia.org/wiki/Disease	POSTED
-https://en.wikipedia.org/wiki/Medication	CLAIMED	pop-os:3351439:codex	2026-11-21T14:32:03.159947+01:00
+https://en.wikipedia.org/wiki/Medication	CLAIMED	pop-os:3784018:codex	2026-11-21T22:52:23.254604+01:00
 https://en.wikipedia.org/wiki/Health	CLAIMED	pop-os:3351439:codex	2026-11-21T14:32:10.460291+01:00
 https://en.wikipedia.org/wiki/Immune_system	CLAIMED	pop-os:3351439:codex	2026-11-21T14:32:17.245388+01:00
 https://en.wikipedia.org/wiki/Menstruation	CLAIMED	pop-os:3351439:codex	2026-11-21T14:32:24.694349+01:00
