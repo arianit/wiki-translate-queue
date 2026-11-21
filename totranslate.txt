@@ -421,7 +421,7 @@ https://en.wikipedia.org/wiki/Uranus	POSTED
 https://en.wikipedia.org/wiki/Neptune	DONE
 https://en.wikipedia.org/wiki/Cat	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/South_Africa	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Egypt	CLAIMED	pop-os:2848850:codex	2026-11-21T04:48:06.590470+01:00
+https://en.wikipedia.org/wiki/Egypt	CLAIMED	pop-os:3318296:codex	2026-11-21T10:16:31.606427+01:00
 https://en.wikipedia.org/wiki/The_Holocaust	DONE	claude-sonnet-5-5@claude_code	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Italy	POSTED
 # reason: translation did not complete (see run.log for this article)
