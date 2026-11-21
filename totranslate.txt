@@ -116,7 +116,7 @@ https://en.wikipedia.org/wiki/Reproductive_system	POSTED 	gpt-6-luna@codex	revie
 https://en.wikipedia.org/wiki/Respiratory_system	CLAIMED	pop-os:3351439:codex	2026-11-21T14:32:46.288019+01:00
 https://en.wikipedia.org/wiki/Skeleton	POSTED gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Skin	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Respiration_(physiology)
+https://en.wikipedia.org/wiki/Respiration_(physiology)	CLAIMED	pop-os:3351439:codex	2026-11-21T19:20:48.014234+01:00
 
 
 https://en.wikipedia.org/wiki/Nature	POSTED
