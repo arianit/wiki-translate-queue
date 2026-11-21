@@ -54,15 +54,15 @@ https://en.wikipedia.org/wiki/Pneumonia	POSTED DONE
 https://en.wikipedia.org/wiki/Autism	POSTED
 https://en.wikipedia.org/wiki/Prostate_cancer	POSTED 
 
-https://en.wikipedia.org/wiki/Hydrocephalus	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Ketamine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Hydrocephalus	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Ketamine	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/ALS	POSTED
 https://en.wikipedia.org/wiki/Agoraphobia	POSTED
 https://en.wikipedia.org/wiki/Shingles	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Chickenpox	POSTED
 https://en.wikipedia.org/wiki/Melanoma	POSTED
-https://en.wikipedia.org/wiki/Hodgkin_lymphoma	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Scurvy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Hodgkin_lymphoma	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Scurvy	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Hemorrhoid	POSTED
 https://en.wikipedia.org/wiki/Osteoarthritis	POSTED
 https://en.wikipedia.org/wiki/Esophageal_cancer POSTED	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -75,19 +75,17 @@ https://en.wikipedia.org/wiki/Thyroid_cancer	POSTED
 https://en.wikipedia.org/wiki/Leukemia	POSTED
 https://en.wikipedia.org/wiki/Sex ??	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Blindness	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Malnutrition	FAILED	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Malnutrition	POSTED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Stroke	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Stroke	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Infection POSTED	DONE
-https://en.wikipedia.org/wiki/Vaccine-preventable_disease	DONE
+https://en.wikipedia.org/wiki/Vaccine-preventable_disease	
 
 
 # Vital articles: Science (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/Sex	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Blindness	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Malnutrition	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Stroke	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Medicine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Medicine	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Dentistry	POSTED
 https://en.wikipedia.org/wiki/Disease	POSTED
 https://en.wikipedia.org/wiki/Medication	CLAIMED	pop-os:3351439:codex	2026-11-21T14:32:03.159947+01:00
@@ -98,38 +96,38 @@ https://en.wikipedia.org/wiki/Pandemic	CLAIMED	pop-os:3351439:codex	2026-11-21T1
 https://en.wikipedia.org/wiki/Virus	POSTED
 https://en.wikipedia.org/wiki/Addiction	POSTED
 https://en.wikipedia.org/wiki/Alzheimer's_disease	POSTED
-https://en.wikipedia.org/wiki/Cancer	FAILED	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Cancer	POSTED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Disability	POSTED
 https://en.wikipedia.org/wiki/Mental_disorder	POSTED
 https://en.wikipedia.org/wiki/Malaria	POSTED
-https://en.wikipedia.org/wiki/Obesity	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Obesity	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Polio	POSTED
-https://en.wikipedia.org/wiki/Smallpox	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Circulatory_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Endocrine_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Human_digestive_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Smallpox	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Circulatory_system	DONE 	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Endocrine_system	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Human_digestive_system	DONE 	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Muscle	CLAIMED	pop-os:3351439:codex	2026-11-21T14:32:39.490466+01:00
 https://en.wikipedia.org/wiki/Nervous_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Reproductive_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Reproductive_system	posted 	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Respiratory_system	CLAIMED	pop-os:3351439:codex	2026-11-21T14:32:46.288019+01:00
-https://en.wikipedia.org/wiki/Skeleton	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Skin	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Skeleton	POSTED gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Skin	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Rrespiration	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 
 
 https://en.wikipedia.org/wiki/Nature	POSTED
-https://en.wikipedia.org/wiki/Astronomy	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Astronomy	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Asteroid	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Big_Bang	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Comet	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
+https://en.wikipedia.org/wiki/Big_Bang	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Comet	POSTED	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Galaxy	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Moon	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Solar_System	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Spaceflight	CLAIMED	pop-os:3351439:codex	2026-11-21T14:32:53.415644+01:00
-https://en.wikipedia.org/wiki/Star	FAILED	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Star	POSTED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Universe	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
@@ -163,7 +161,7 @@ https://en.wikipedia.org/wiki/Biochemistry	DONE	claude-haiku-5-5@claude_code	rev
 https://en.wikipedia.org/wiki/Chemical_compound	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Chemical_element	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Organic_chemistry	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Molecule	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
+https://en.wikipedia.org/wiki/Molecule	POSTED	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Analytical_chemistry	CLAIMED	pop-os:3351439:codex	2026-11-21T14:33:08.208939+01:00
 https://en.wikipedia.org/wiki/Physical_chemistry	CLAIMED	pop-os:3351439:codex	2026-11-21T14:33:14.544613+01:00
 https://en.wikipedia.org/wiki/Climate	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
@@ -429,7 +427,7 @@ https://en.wikipedia.org/wiki/Italy	POSTED
 https://en.wikipedia.org/wiki/American_Civil_War	DONE	claude-sonnet-5-5@claude_code	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Jesus	CLAIMED	pop-os:3351439:codex	2026-11-21T14:33:52.441137+01:00
 https://en.wikipedia.org/wiki/Saudi_Arabia	DONE	codex@codex	repaired=assembly+review
-# reason: translation did not complete (see run.log for this article)
+# reason: translation did not complete (see run.log for this article)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/London
 https://en.wikipedia.org/wiki/Algeria
 https://en.wikipedia.org/wiki/Hong_Kong
