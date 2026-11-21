@@ -12,17 +12,17 @@ https://en.wikipedia.org/wiki/MMR_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-lun
 https://en.wikipedia.org/wiki/Smallpox_vaccine	POSTED
 https://en.wikipedia.org/wiki/Influenza_vaccine	POSTED
 https://en.wikipedia.org/wiki/Influenza	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Common_cold	CLAIMED	pop-os:3488436:claude_code	2026-11-21T22:30:30.388690+01:00
+https://en.wikipedia.org/wiki/Common_cold	CLAIMED	pop-os:3784018:codex	2026-11-21T22:52:01.833450+01:00
 https://en.wikipedia.org/wiki/Coronary_artery_disease	POSTED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Gingivitis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Headache	POSTED
 https://en.wikipedia.org/wiki/Low_back_pain	POSTED
 https://en.wikipedia.org/wiki/Hypertension	POSTED
-https://en.wikipedia.org/wiki/Allergic_rhinitis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Allergic_rhinitis	DONE	   gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Migraine	POSTED
-https://en.wikipedia.org/wiki/COVID-19_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Gastroesophageal_reflux_disease	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/COVID-19_vaccine	POSTED	   gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Gastroesophageal_reflux_disease	POSTED	   gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Gastroenteritis	POSTED
 https://en.wikipedia.org/wiki/Iron-deficiency_anemia	POSTED
 https://en.wikipedia.org/wiki/Urinary_tract_infection	POSTED
@@ -32,7 +32,7 @@ https://en.wikipedia.org/wiki/Major_depressive_disorder	POSTED
 https://en.wikipedia.org/wiki/Asthma	POSTED
 https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease	POSTED
 https://en.wikipedia.org/wiki/Pregnancy	POSTED
-https://en.wikipedia.org/wiki/Sexually_transmitted_infection	CLAIMED	pop-os:3488436:claude_code	2026-11-21T22:30:37.224472+01:00
+https://en.wikipedia.org/wiki/Sexually_transmitted_infection	CLAIMED	pop-os:3351439:codex	2026-11-21T14:31:55.492154+01:00
 https://en.wikipedia.org/wiki/Childbirth	POSTED
 https://en.wikipedia.org/wiki/Birth_control	POSTED
 https://en.wikipedia.org/wiki/Ovarian_cancer	POSTED gpt-6-luna@codex
@@ -50,7 +50,7 @@ https://en.wikipedia.org/wiki/Cholesterol	POSTED DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Brain_tumor	POSTED
 https://en.wikipedia.org/wiki/Bronchitis	POSTED
-https://en.wikipedia.org/wiki/Pneumonia	POSTED DONE
+https://en.wikipedia.org/wiki/Pneumonia	POSTED 
 https://en.wikipedia.org/wiki/Autism	POSTED
 https://en.wikipedia.org/wiki/Prostate_cancer	POSTED 
 https://en.wikipedia.org/wiki/Hydrocephalus	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -82,7 +82,7 @@ https://en.wikipedia.org/wiki/Stroke	POSTED	gpt-6-luna@codex	review=gpt-6-luna@c
 https://en.wikipedia.org/wiki/Infection POSTED	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Vaccine-preventable_disease	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/HIV/AIDS	CLAIMED	pop-os:3488436:claude_code	2026-11-21T22:30:44.550907+01:00
+https://en.wikipedia.org/wiki/HIV/AIDS CLAIMED
 
 
 
@@ -440,7 +440,7 @@ https://en.wikipedia.org/wiki/Poland	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Mahatma_Gandhi	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Bangladesh	CLAIMED	pop-os:3488436:claude_code	2026-11-21T21:29:02.489333+01:00
-https://en.wikipedia.org/wiki/Los_Angeles	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
+https://en.wikipedia.org/wiki/Los_Angeles	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Roman_Empire	POSTED
 # reason: translation did not complete (see run.log for this article)
