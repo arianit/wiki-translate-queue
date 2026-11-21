@@ -179,7 +179,7 @@ https://en.wikipedia.org/wiki/Energy	DONE	claude-haiku-5-5@claude_code	review=cl
 https://en.wikipedia.org/wiki/Electromagnetic_radiation	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Classical_mechanics	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Force	CLAIMED	pop-os:3351439:codex	2026-11-21T14:33:20.670548+01:00
-https://en.wikipedia.org/wiki/Magnet	CLAIMED	pop-os:3318296:codex	2026-11-21T10:16:08.123955+01:00
+https://en.wikipedia.org/wiki/Magnet	CLAIMED	pop-os:3351439:codex	2026-11-21T14:33:28.410852+01:00
 https://en.wikipedia.org/wiki/Mass	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Metal	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
