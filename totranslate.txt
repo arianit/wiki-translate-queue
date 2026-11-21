@@ -115,7 +115,7 @@ https://en.wikipedia.org/wiki/Human_digestive_system	POSTED 	gpt-6-luna@codex	re
 https://en.wikipedia.org/wiki/Muscle	CLAIMED	pop-os:3784018:codex	2026-11-21T22:52:57.579948+01:00
 https://en.wikipedia.org/wiki/Nervous_system	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Reproductive_system	POSTED 	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Respiratory_system	CLAIMED	pop-os:3351439:codex	2026-11-21T14:32:46.288019+01:00
+https://en.wikipedia.org/wiki/Respiratory_system	CLAIMED	pop-os:3784018:codex	2026-11-21T22:53:03.389273+01:00
 https://en.wikipedia.org/wiki/Skeleton	POSTED gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Skin	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Respiration_(physiology)	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
