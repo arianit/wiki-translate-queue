@@ -74,7 +74,7 @@ https://en.wikipedia.org/wiki/Liver_cancer	POSTED
 https://en.wikipedia.org/wiki/Thyroid_cancer	POSTED
 https://en.wikipedia.org/wiki/Leukemia	POSTED
 https://en.wikipedia.org/wiki/Sex ??	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Reproduction
+https://en.wikipedia.org/wiki/Reproduction	CLAIMED	pop-os:3351439:codex	2026-11-21T18:58:39.097417+01:00
 https://en.wikipedia.org/wiki/Blindness	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Visual_impairment
 https://en.wikipedia.org/wiki/Malnutrition	POSTED	gpt-6-luna@codex
