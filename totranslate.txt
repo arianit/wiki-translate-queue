@@ -165,7 +165,7 @@ https://en.wikipedia.org/wiki/Chemical_element	DONE	claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Organic_chemistry	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Molecule	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Analytical_chemistry	CLAIMED	pop-os:3318296:codex	2026-11-21T10:15:47.829843+01:00
-https://en.wikipedia.org/wiki/Physical_chemistry	CLAIMED	pop-os:2848850:codex	2026-11-21T01:35:25.752617+01:00
+https://en.wikipedia.org/wiki/Physical_chemistry	CLAIMED	pop-os:3318296:codex	2026-11-21T10:15:54.295785+01:00
 https://en.wikipedia.org/wiki/Climate	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Water_cycle	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/El_Ni%C3%B1o	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
