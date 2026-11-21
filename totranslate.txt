@@ -53,7 +53,6 @@ https://en.wikipedia.org/wiki/Bronchitis	POSTED
 https://en.wikipedia.org/wiki/Pneumonia	POSTED DONE
 https://en.wikipedia.org/wiki/Autism	POSTED
 https://en.wikipedia.org/wiki/Prostate_cancer	POSTED 
-
 https://en.wikipedia.org/wiki/Hydrocephalus	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Ketamine	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/ALS	POSTED
@@ -83,6 +82,8 @@ https://en.wikipedia.org/wiki/Stroke	POSTED	gpt-6-luna@codex	review=gpt-6-luna@c
 https://en.wikipedia.org/wiki/Infection POSTED	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Vaccine-preventable_disease	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/HIV/AIDS
+
 
 
 # Vital articles: Science (List of articles every Wikipedia should have)
@@ -117,8 +118,6 @@ https://en.wikipedia.org/wiki/Respiratory_system	CLAIMED	pop-os:3351439:codex	20
 https://en.wikipedia.org/wiki/Skeleton	POSTED gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Skin	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Respiration_(physiology)	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
-
-
 https://en.wikipedia.org/wiki/Nature	POSTED
 https://en.wikipedia.org/wiki/Astronomy	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Asteroid	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -189,7 +188,7 @@ https://en.wikipedia.org/wiki/Quantum_mechanics	FAILED	claude-haiku-5-5@claude_c
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Radioactivity	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/General_relativity	CLAIMED	pop-os:3351439:codex	2026-11-21T14:33:35.206232+01:00
-https://en.wikipedia.org/wiki/Special_relativity	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
+https://en.wikipedia.org/wiki/Special_relativity	DONE    	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Semiconductor	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sound	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Velocity	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -432,7 +431,7 @@ https://en.wikipedia.org/wiki/Saudi_Arabia	DONE	codex@codex	repaired=assembly+re
 # reason: translation did not complete (see run.log for this article)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/London	CLAIMED	pop-os:3351439:codex	2026-11-21T17:10:06.235139+01:00
 https://en.wikipedia.org/wiki/Algeria	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Hong_Kong	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Hong_Kong	CLAIMED	pop-os:3351439:codex	2026-11-21T19:28:42.853584+01:00
 https://en.wikipedia.org/wiki/Periodic_table	POSTED
 https://en.wikipedia.org/wiki/Muhammad	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
@@ -441,7 +440,7 @@ https://en.wikipedia.org/wiki/Poland	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Mahatma_Gandhi	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Bangladesh	CLAIMED	pop-os:3488436:claude_code	2026-11-21T21:29:02.489333+01:00
-https://en.wikipedia.org/wiki/Los_Angeles	DONE	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Los_Angeles	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Roman_Empire	POSTED
 # reason: translation did not complete (see run.log for this article)
@@ -498,7 +497,6 @@ https://en.wikipedia.org/wiki/Colosseum	DONE	gpt-6-luna@codex	review=gpt-6-luna@
 https://en.wikipedia.org/wiki/Film	DONE	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Planet	DONE
 https://en.wikipedia.org/wiki/Ferdinand_Castriota	POSTED
-
 
 
 https://en.wikipedia.org/wiki/Cluj-Napoca	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -839,7 +837,7 @@ https://en.wikipedia.org/wiki/Sport
 https://en.wikipedia.org/wiki/Toy
 
 
-# Added 2026-09-10 from the Wiki Loves Arbëreshë Worklist
+# Added 2026-09-10 from the Wiki Loves ARBERESHE Worklist
 # (https://meta.wikimedia.org/wiki/Wiki_Loves_Arb%C3%ABresh%C3%AB/Worklist):
 # articles with an existing enwiki source but no sq.wikipedia article yet
 # (verified against sq.wikipedia directly, not just the worklist table).
@@ -903,7 +901,6 @@ https://it.wikipedia.org/wiki/San_Lorenzo_del_Vallo	POSTED
 https://it.wikipedia.org/wiki/Rota_Greca	POSTED
 https://it.wikipedia.org/wiki/Serra_d%27Aiello	POSTED
 https://it.wikipedia.org/wiki/Zagarise	POSTED
-
 # MORE ARBERESHE ARTICLES
 https://it.wikipedia.org/wiki/Villa_Badessa	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://it.wikipedia.org/wiki/Farneta_(Castroregio)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -942,3 +939,18 @@ https://it.wikipedia.org/wiki/Chiesa_di_Maria_Santissima_del_Lume_(Palazzo_Adria
 https://it.wikipedia.org/wiki/Chiesa_di_San_Niccol%C3%B2_dei_Greci	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://it.wikipedia.org/wiki/San_Benedetto_Ullano	DONE	 opencode-go/deepseek-v4.1-flash@opencode_go	review=gpt-6-luna@codex
 
+#FOOTBALL
+https://en.wikipedia.org/wiki/FIFA
+https://en.wikipedia.org/wiki/UEFA
+https://en.wikipedia.org/wiki/Association_football
+https://en.wikipedia.org/wiki/FIFA_World_Cup
+https://en.wikipedia.org/wiki/FIFA_Women's_World_Cup
+https://en.wikipedia.org/wiki/UEFA_Champions_League
+https://en.wikipedia.org/wiki/UEFA_Europa_League
+https://en.wikipedia.org/wiki/UEFA_Conference_League
+https://en.wikipedia.org/wiki/UEFA_European_Championship
+https://en.wikipedia.org/wiki/UEFA_Nations_League
+https://en.wikipedia.org/wiki/Judo
+https://en.wikipedia.org/wiki/Basketball
+https://en.wikipedia.org/wiki/Volleyball
+https://en.wikipedia.org/wiki/Handball
