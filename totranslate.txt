@@ -79,7 +79,7 @@ https://en.wikipedia.org/wiki/Malnutrition	POSTED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Stroke	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Infection POSTED	DONE
-https://en.wikipedia.org/wiki/Vaccine-preventable_disease	
+https://en.wikipedia.org/wiki/Vaccine-preventable_disease	CLAIMED	pop-os:3351439:codex	2026-11-21T17:01:03.669334+01:00
 
 
 # Vital articles: Science (List of articles every Wikipedia should have)
