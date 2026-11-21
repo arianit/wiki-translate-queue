@@ -79,7 +79,7 @@ https://en.wikipedia.org/wiki/Malnutrition	POSTED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Stroke	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Infection POSTED	DONE
-https://en.wikipedia.org/wiki/Vaccine-preventable_disease	CLAIMED	pop-os:3351439:codex	2026-11-21T17:01:03.669334+01:00
+https://en.wikipedia.org/wiki/Vaccine-preventable_disease	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 
 
 # Vital articles: Science (List of articles every Wikipedia should have)
@@ -106,10 +106,10 @@ https://en.wikipedia.org/wiki/Polio	POSTED
 https://en.wikipedia.org/wiki/Smallpox	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Circulatory_system	DONE 	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Endocrine_system	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Human_digestive_system	DONE 	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Human_digestive_system	POSTED 	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Muscle	CLAIMED	pop-os:3351439:codex	2026-11-21T14:32:39.490466+01:00
-https://en.wikipedia.org/wiki/Nervous_system	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Reproductive_system	posted 	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Nervous_system	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Reproductive_system	POSTED 	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Respiratory_system	CLAIMED	pop-os:3351439:codex	2026-11-21T14:32:46.288019+01:00
 https://en.wikipedia.org/wiki/Skeleton	POSTED gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Skin	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -427,7 +427,7 @@ https://en.wikipedia.org/wiki/Italy	POSTED
 https://en.wikipedia.org/wiki/American_Civil_War	DONE	claude-sonnet-5-5@claude_code	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Jesus	CLAIMED	pop-os:3351439:codex	2026-11-21T14:33:52.441137+01:00
 https://en.wikipedia.org/wiki/Saudi_Arabia	DONE	codex@codex	repaired=assembly+review
-# reason: translation did not complete (see run.log for this article)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/London
 https://en.wikipedia.org/wiki/Algeria
 https://en.wikipedia.org/wiki/Hong_Kong
