@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/MMR_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-lun
 https://en.wikipedia.org/wiki/Smallpox_vaccine	POSTED
 https://en.wikipedia.org/wiki/Influenza_vaccine	POSTED
 https://en.wikipedia.org/wiki/Influenza	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Common_cold	CLAIMED	pop-os:2728452:claude_code	2026-11-20T19:50:28.975054+01:00
+https://en.wikipedia.org/wiki/Common_cold	CLAIMED	pop-os:2848850:codex	2026-11-21T01:33:57.994110+01:00
 https://en.wikipedia.org/wiki/Coronary_artery_disease	POSTED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Gingivitis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
