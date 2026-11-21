@@ -194,7 +194,7 @@ https://en.wikipedia.org/wiki/Semiconductor	DONE	gpt-6-luna@codex	review=gpt-6-l
 https://en.wikipedia.org/wiki/Sound	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Velocity	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Temperature	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Time	CLAIMED	pop-os:2848850:codex	2026-11-21T00:03:46.572041+01:00
+https://en.wikipedia.org/wiki/Time	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Thermodynamics	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Vacuum	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
