@@ -74,12 +74,14 @@ https://en.wikipedia.org/wiki/Liver_cancer	POSTED
 https://en.wikipedia.org/wiki/Thyroid_cancer	POSTED
 https://en.wikipedia.org/wiki/Leukemia	POSTED
 https://en.wikipedia.org/wiki/Sex ??	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Reproduction
 https://en.wikipedia.org/wiki/Blindness	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Visual_impairment
 https://en.wikipedia.org/wiki/Malnutrition	POSTED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Stroke	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Infection POSTED	DONE
-https://en.wikipedia.org/wiki/Vaccine-preventable_disease	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Infection POSTED	
+https://en.wikipedia.org/wiki/Vaccine-preventable_disease	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 
 
 # Vital articles: Science (List of articles every Wikipedia should have)
@@ -113,8 +115,7 @@ https://en.wikipedia.org/wiki/Reproductive_system	POSTED 	gpt-6-luna@codex	revie
 https://en.wikipedia.org/wiki/Respiratory_system	CLAIMED	pop-os:3351439:codex	2026-11-21T14:32:46.288019+01:00
 https://en.wikipedia.org/wiki/Skeleton	POSTED gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Skin	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Rrespiration	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+https://en.wikipedia.org/wiki/Respiration_(physiology)
 
 
 https://en.wikipedia.org/wiki/Nature	POSTED
@@ -174,8 +175,8 @@ https://en.wikipedia.org/wiki/Volcano	DONE	claude-haiku-5-5@claude_code	review=c
 https://en.wikipedia.org/wiki/Acceleration	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Atom	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Energy	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Electromagnetic_radiation	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Classical_mechanics	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
+https://en.wikipedia.org/wiki/Electromagnetic_radiation	DONE	 claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
+https://en.wikipedia.org/wiki/Classical_mechanics	DONE	 claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Force	CLAIMED	pop-os:3351439:codex	2026-11-21T14:33:20.670548+01:00
 https://en.wikipedia.org/wiki/Magnet	CLAIMED	pop-os:3351439:codex	2026-11-21T14:33:28.410852+01:00
 https://en.wikipedia.org/wiki/Mass	FAILED	claude-haiku-5-5@claude_code
@@ -427,7 +428,7 @@ https://en.wikipedia.org/wiki/Italy	POSTED
 https://en.wikipedia.org/wiki/American_Civil_War	DONE	claude-sonnet-5-5@claude_code	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Jesus	CLAIMED	pop-os:3351439:codex	2026-11-21T14:33:52.441137+01:00
 https://en.wikipedia.org/wiki/Saudi_Arabia	DONE	codex@codex	repaired=assembly+review
-# reason: translation did not complete (see run.log for this article)
+# reason: translation did not complete (see run.log for this article)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/London	CLAIMED	pop-os:3351439:codex	2026-11-21T17:10:06.235139+01:00
 https://en.wikipedia.org/wiki/Algeria
 https://en.wikipedia.org/wiki/Hong_Kong
