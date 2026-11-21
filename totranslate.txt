@@ -205,7 +205,8 @@ https://en.wikipedia.org/wiki/Algebra	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Geometry	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Mathematical_analysis	CLAIMED	pop-os:2848850:codex	2026-11-21T01:58:28.469567+01:00
+https://en.wikipedia.org/wiki/Mathematical_analysis	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 
 
 
