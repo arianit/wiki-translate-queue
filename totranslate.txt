@@ -76,7 +76,7 @@ https://en.wikipedia.org/wiki/Leukemia	POSTED
 https://en.wikipedia.org/wiki/Sex ??	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Reproduction	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Blindness	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Visual_impairment	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
+https://en.wikipedia.org/wiki/Visual_impairment	POSTED	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Malnutrition	POSTED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Stroke	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -116,7 +116,7 @@ https://en.wikipedia.org/wiki/Reproductive_system	POSTED 	gpt-6-luna@codex	revie
 https://en.wikipedia.org/wiki/Respiratory_system	CLAIMED	pop-os:3351439:codex	2026-11-21T14:32:46.288019+01:00
 https://en.wikipedia.org/wiki/Skeleton	POSTED gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Skin	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Respiration_(physiology)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Respiration_(physiology)	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 
 
 https://en.wikipedia.org/wiki/Nature	POSTED
@@ -431,7 +431,7 @@ https://en.wikipedia.org/wiki/Jesus	CLAIMED	pop-os:3351439:codex	2026-11-21T14:3
 https://en.wikipedia.org/wiki/Saudi_Arabia	DONE	codex@codex	repaired=assembly+review
 # reason: translation did not complete (see run.log for this article)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/London	CLAIMED	pop-os:3351439:codex	2026-11-21T17:10:06.235139+01:00
-https://en.wikipedia.org/wiki/Algeria	CLAIMED	pop-os:3488436:claude_code	2026-11-21T19:28:00.431680+01:00
+https://en.wikipedia.org/wiki/Algeria	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Hong_Kong	CLAIMED	pop-os:3351439:codex	2026-11-21T19:28:42.853584+01:00
 https://en.wikipedia.org/wiki/Periodic_table	POSTED
 https://en.wikipedia.org/wiki/Muhammad
