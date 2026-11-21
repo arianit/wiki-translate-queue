@@ -82,7 +82,7 @@ https://en.wikipedia.org/wiki/Stroke	POSTED	gpt-6-luna@codex	review=gpt-6-luna@c
 https://en.wikipedia.org/wiki/Infection POSTED	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Vaccine-preventable_disease	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/HIV/AIDS CLAIMED
+https://en.wikipedia.org/wiki/HIV/AIDS CLAIMED	CLAIMED	pop-os:3784018:codex	2026-11-21T22:52:15.550637+01:00
 
 
 
