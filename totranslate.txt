@@ -94,7 +94,7 @@ https://en.wikipedia.org/wiki/Medication	CLAIMED	pop-os:3318296:codex	2026-11-21
 https://en.wikipedia.org/wiki/Health	CLAIMED	pop-os:3318296:codex	2026-11-21T10:14:50.628742+01:00
 https://en.wikipedia.org/wiki/Immune_system	CLAIMED	pop-os:3318296:codex	2026-11-21T10:14:57.614366+01:00
 https://en.wikipedia.org/wiki/Menstruation	CLAIMED	pop-os:3318296:codex	2026-11-21T10:15:05.072904+01:00
-https://en.wikipedia.org/wiki/Pandemic	CLAIMED	pop-os:2848850:codex	2026-11-21T01:34:42.026174+01:00
+https://en.wikipedia.org/wiki/Pandemic	CLAIMED	pop-os:3318296:codex	2026-11-21T10:15:11.831877+01:00
 https://en.wikipedia.org/wiki/Virus	POSTED
 https://en.wikipedia.org/wiki/Addiction	POSTED
 https://en.wikipedia.org/wiki/Alzheimer's_disease	POSTED
