@@ -90,11 +90,7 @@ https://en.wikipedia.org/wiki/Blindness	DONE	gpt-6-luna@codex	review=gpt-6-luna@
 https://en.wikipedia.org/wiki/Medicine	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Dentistry	POSTED
 https://en.wikipedia.org/wiki/Disease	POSTED
-https://en.wikipedia.org/wiki/Medication	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Health	FAILED	gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Immune_system	FAILED	gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Menstruation	FAILED	gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Pandemic	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Virus	POSTED
 https://en.wikipedia.org/wiki/Addiction	POSTED
 https://en.wikipedia.org/wiki/Alzheimer's_disease	POSTED
@@ -112,7 +108,6 @@ https://en.wikipedia.org/wiki/Human_digestive_system	POSTED 	gpt-6-luna@codex	re
 https://en.wikipedia.org/wiki/Muscle	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Nervous_system	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Reproductive_system	POSTED 	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Respiratory_system	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Skeleton	POSTED gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Skin	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Respiration_(physiology)	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -143,7 +138,7 @@ https://en.wikipedia.org/wiki/Metabolism	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Evolution	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Reproduction	POSTED	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
-https://en.wikipedia.org/wiki/Biological_sex	CLAIMED	pop-os:3784018:codex	2026-11-22T09:01:27.609313+01:00
+https://en.wikipedia.org/wiki/Biological_sex
 https://en.wikipedia.org/wiki/Organism	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Animal	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Algae	CLAIMED	pop-os:3784018:codex	2026-11-21T22:53:17.537734+01:00
@@ -553,14 +548,14 @@ https://en.wikipedia.org/wiki/Republic	POSTED
 https://en.wikipedia.org/wiki/Capitalism	POSTED
 https://en.wikipedia.org/wiki/Communism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Fascism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Liberalism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Liberalism	CLAIMED	pop-os:3784018:codex	2026-11-22T07:38:25.277135+01:00
 https://en.wikipedia.org/wiki/Nationalism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Socialism
 https://en.wikipedia.org/wiki/State_(polity)
 https://en.wikipedia.org/wiki/Economics	CLAIMED	pop-os:3637481:codex	2026-11-06T19:42:14.661868+01:00
 https://en.wikipedia.org/wiki/Euro	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/United_States_dollar
-https://en.wikipedia.org/wiki/Industry_(manufacturing)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Industry_(manufacturing)	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Money	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Trade	POSTED
 https://en.wikipedia.org/wiki/Law	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
