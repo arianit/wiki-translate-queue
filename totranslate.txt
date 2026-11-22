@@ -597,7 +597,7 @@ https://en.wikipedia.org/wiki/Hebrew_language	POSTED
 https://en.wikipedia.org/wiki/Hindustani_language	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Korean_language	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Japanese_language	POSTED
-https://en.wikipedia.org/wiki/Latin	CLAIMED	pop-os:3784018:codex	2026-11-22T19:38:09.813664+01:00
+https://en.wikipedia.org/wiki/Latin	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Persian_language
 https://en.wikipedia.org/wiki/Portuguese_language
 https://en.wikipedia.org/wiki/Russian_language
