@@ -553,7 +553,7 @@ https://en.wikipedia.org/wiki/Republic	POSTED
 https://en.wikipedia.org/wiki/Capitalism	POSTED
 https://en.wikipedia.org/wiki/Communism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Fascism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Liberalism
+https://en.wikipedia.org/wiki/Liberalism	CLAIMED	pop-os:3784018:codex	2026-11-22T07:38:25.277135+01:00
 https://en.wikipedia.org/wiki/Nationalism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Socialism
 https://en.wikipedia.org/wiki/State_(polity)
