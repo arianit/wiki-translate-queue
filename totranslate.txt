@@ -84,7 +84,7 @@ https://en.wikipedia.org/wiki/Infection POSTED	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Vaccine-preventable_disease	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/HIV/AIDS CLAIMED	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Multiple_sclerosis
+https://en.wikipedia.org/wiki/Multiple_sclerosis	CLAIMED	pop-os:728321:claude_code	2026-11-22T21:51:32.175640+01:00
 
 # Vital articles: SCIENCE (List of articles every Wikipedia should have)
 
