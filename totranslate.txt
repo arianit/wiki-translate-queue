@@ -575,7 +575,7 @@ https://en.wikipedia.org/wiki/World_Health_Organization	POSTED
 https://en.wikipedia.org/wiki/Terrorism	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Capital_punishment
+https://en.wikipedia.org/wiki/Capital_punishment	CLAIMED	pop-os:3488436:claude_code	2026-11-22T11:39:11.588305+01:00
 https://en.wikipedia.org/wiki/Discrimination
 https://en.wikipedia.org/wiki/Racism
 https://en.wikipedia.org/wiki/Feminism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
