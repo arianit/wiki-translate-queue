@@ -464,7 +464,7 @@ https://en.wikipedia.org/wiki/Europe	POSTED
 # reason: translation did not complete (see run.log for this article)	FAILED	claude-sonnet-5-5@claude_code
 # reason: rate/spend limit (HTTP 429): You've hit your session limit · resets 12am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261016T173920Z-claude-sonnet-5-5-40c63573.log)
 https://en.wikipedia.org/wiki/Mexico_City	POSTED
-https://en.wikipedia.org/wiki/Stanley_Kubrick	CLAIMED	pop-os:3488436:claude_code	2026-11-22T03:35:05.005512+01:00
+https://en.wikipedia.org/wiki/Stanley_Kubrick	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Frida_Kahlo	CLAIMED	pop-os:3784018:codex	2026-11-22T03:41:25.772476+01:00
 https://en.wikipedia.org/wiki/Nigeria	DONE	gpt-6-luna@codex
 # reason: rate/spend limit (HTTP 429): You've hit your session limit · resets 12am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261016T182221Z-claude-sonnet-5-5-4afa153b.log)
