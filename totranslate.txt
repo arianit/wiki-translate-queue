@@ -578,7 +578,7 @@ https://en.wikipedia.org/wiki/Terrorism	FAILED	claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Capital_punishment	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Discrimination	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Racism
+https://en.wikipedia.org/wiki/Racism	CLAIMED	pop-os:3488436:claude_code	2026-11-22T12:20:12.271624+01:00
 https://en.wikipedia.org/wiki/Feminism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Globalization	POSTED
 https://en.wikipedia.org/wiki/Human_rights	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
