@@ -583,7 +583,7 @@ https://en.wikipedia.org/wiki/Feminism	DONE	gpt-6-luna@codex	review=gpt-6-luna@c
 https://en.wikipedia.org/wiki/Globalization	POSTED
 https://en.wikipedia.org/wiki/Human_rights	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Poverty	POSTED
-https://en.wikipedia.org/wiki/Slavery
+https://en.wikipedia.org/wiki/Slavery	CLAIMED	pop-os:3784018:codex	2026-11-22T12:20:27.517750+01:00
 # Vital articles: Language and literature (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/Language	POSTED
 https://en.wikipedia.org/wiki/Arabic
