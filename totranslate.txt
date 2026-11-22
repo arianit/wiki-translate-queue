@@ -481,6 +481,7 @@ https://en.wikipedia.org/wiki/Karl_Marx	POSTED
 https://en.wikipedia.org/wiki/Vladimir_Lenin	POSTED
 https://en.wikipedia.org/wiki/Paris	POSTED
 https://en.wikipedia.org/wiki/World_Wide_Web	POSTED
+# reason: translation did not complete (see run.log for this article)	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Holy_Roman_Empire	CLAIMED	pop-os:3784018:codex	2026-11-22T05:08:00.787136+01:00
 https://en.wikipedia.org/wiki/Byzantine_Empire	POSTED
