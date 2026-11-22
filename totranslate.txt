@@ -520,7 +520,7 @@ https://en.wikipedia.org/wiki/Fundamentalism	POSTED
 https://en.wikipedia.org/wiki/Mythology	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Reincarnation	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Religion	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Buddhism
+https://en.wikipedia.org/wiki/Buddhism	CLAIMED	pop-os:3488436:claude_code	2026-11-22T05:17:01.812349+01:00
 https://en.wikipedia.org/wiki/Catholic_Church
 https://en.wikipedia.org/wiki/Protestantism
 https://en.wikipedia.org/wiki/Hinduism
