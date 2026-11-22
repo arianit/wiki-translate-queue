@@ -572,7 +572,7 @@ https://en.wikipedia.org/wiki/United_Nations	POSTED
 https://en.wikipedia.org/wiki/International_Monetary_Fund	CLAIMED	pop-os:3784018:codex	2026-11-22T10:47:55.235278+01:00
 https://en.wikipedia.org/wiki/World_Health_Organization	POSTED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Terrorism
+https://en.wikipedia.org/wiki/Terrorism	CLAIMED	pop-os:3488436:claude_code	2026-11-22T11:24:42.656157+01:00
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Capital_punishment
 https://en.wikipedia.org/wiki/Discrimination
