@@ -446,7 +446,7 @@ https://en.wikipedia.org/wiki/Los_Angeles	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Roman_Empire	POSTED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Afghanistan	CLAIMED	pop-os:3784018:codex	2026-11-22T00:41:41.783368+01:00
+https://en.wikipedia.org/wiki/Afghanistan	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Julius_Caesar	POSTED
 https://en.wikipedia.org/wiki/Charlie_Chaplin	POSTED
 https://en.wikipedia.org/wiki/Washington,_D.C.	DONE	gpt-6-luna@codex
