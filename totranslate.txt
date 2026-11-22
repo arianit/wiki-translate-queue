@@ -532,7 +532,8 @@ https://en.wikipedia.org/wiki/Sunni_Islam	DONE	gpt-6-luna@codex	review=gpt-6-lun
 https://en.wikipedia.org/wiki/Shinto	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sikhism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Taoism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Zoroastrianism	CLAIMED	pop-os:3784018:codex	2026-11-22T07:05:39.968785+01:00
+https://en.wikipedia.org/wiki/Zoroastrianism	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 # Vital articles: Social sciences (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/Society	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Civilization	POSTED
