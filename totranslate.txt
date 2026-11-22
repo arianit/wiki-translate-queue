@@ -486,7 +486,8 @@ https://en.wikipedia.org/wiki/Holy_Roman_Empire	CLAIMED	pop-os:3784018:codex	202
 https://en.wikipedia.org/wiki/Byzantine_Empire	POSTED
 https://en.wikipedia.org/wiki/North_America	POSTED
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Human    DONE	CLAIMED	pop-os:3488436:claude_code	2026-11-22T05:16:52.786780+01:00
+https://en.wikipedia.org/wiki/Human    DONE	FAILED	claude-haiku-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Austria	DONE	codex@codex	repaired=assembly+review
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Augustus	POSTED
