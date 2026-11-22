@@ -85,19 +85,17 @@ https://en.wikipedia.org/wiki/Vaccine-preventable_disease	POSTED	gpt-6-luna@code
 https://en.wikipedia.org/wiki/HIV/AIDS CLAIMED	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 
-
-
-# Vital articles: Science (List of articles every Wikipedia should have)
+# Vital articles: SCIENCE (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/Sex	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Blindness	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Medicine	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Dentistry	POSTED
 https://en.wikipedia.org/wiki/Disease	POSTED
-https://en.wikipedia.org/wiki/Medication	CLAIMED	pop-os:3784018:codex	2026-11-21T22:52:23.254604+01:00
-https://en.wikipedia.org/wiki/Health	CLAIMED	pop-os:3784018:codex	2026-11-21T22:52:29.911761+01:00
-https://en.wikipedia.org/wiki/Immune_system	CLAIMED	pop-os:3784018:codex	2026-11-21T22:52:36.437182+01:00
-https://en.wikipedia.org/wiki/Menstruation	CLAIMED	pop-os:3784018:codex	2026-11-21T22:52:43.610414+01:00
-https://en.wikipedia.org/wiki/Pandemic	CLAIMED	pop-os:3784018:codex	2026-11-21T22:52:50.252208+01:00
+https://en.wikipedia.org/wiki/Medication	FAILED	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Health	FAILED	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Immune_system	FAILED	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Menstruation	FAILED	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Pandemic	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Virus	POSTED
 https://en.wikipedia.org/wiki/Addiction	POSTED
 https://en.wikipedia.org/wiki/Alzheimer's_disease	POSTED
@@ -109,13 +107,13 @@ https://en.wikipedia.org/wiki/Malaria	POSTED
 https://en.wikipedia.org/wiki/Obesity	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Polio	POSTED
 https://en.wikipedia.org/wiki/Smallpox	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Circulatory_system	DONE 	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Circulatory_system	POSTED 	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Endocrine_system	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Human_digestive_system	POSTED 	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Muscle	CLAIMED	pop-os:3784018:codex	2026-11-21T22:52:57.579948+01:00
+https://en.wikipedia.org/wiki/Muscle	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Nervous_system	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Reproductive_system	POSTED 	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Respiratory_system	CLAIMED	pop-os:3784018:codex	2026-11-21T22:53:03.389273+01:00
+https://en.wikipedia.org/wiki/Respiratory_system	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Skeleton	POSTED gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Skin	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Respiration_(physiology)	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -459,14 +457,14 @@ https://en.wikipedia.org/wiki/South_Korea	DONE	codex@codex	repaired=assembly+rev
 https://en.wikipedia.org/wiki/Nazi_Germany	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Joan_of_Arc	DONE	opencode-go/deepseek-v4.1-flash@opencode_go	review=opencode-go/deepseek-v4-pro@opencode_go
 https://en.wikipedia.org/wiki/Nikola_Tesla	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Black_hole	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
+https://en.wikipedia.org/wiki/Black_hole	POSTED	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Europe	POSTED
 # reason: translation did not complete (see run.log for this article)	FAILED	claude-sonnet-5-5@claude_code
 # reason: rate/spend limit (HTTP 429): You've hit your session limit · resets 12am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261016T173920Z-claude-sonnet-5-5-40c63573.log)
 https://en.wikipedia.org/wiki/Mexico_City	POSTED
 https://en.wikipedia.org/wiki/Stanley_Kubrick	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Frida_Kahlo	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Nigeria	DONE	gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Nigeria	POSTED	gpt-6-luna@codex
 # reason: rate/spend limit (HTTP 429): You've hit your session limit · resets 12am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261016T182221Z-claude-sonnet-5-5-4afa153b.log)
 https://en.wikipedia.org/wiki/Christopher_Columbus	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
@@ -525,7 +523,7 @@ https://en.wikipedia.org/wiki/Buddhism	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Catholic_Church	CLAIMED	pop-os:3488436:claude_code	2026-11-22T06:07:30.656254+01:00
 https://en.wikipedia.org/wiki/Protestantism	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Hinduism	CLAIMED	pop-os:3488436:claude_code	2026-11-22T07:02:17.923402+01:00
 https://en.wikipedia.org/wiki/Shia_Islam	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sunni_Islam	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -555,7 +553,7 @@ https://en.wikipedia.org/wiki/Communism	DONE	gpt-6-luna@codex	review=gpt-6-luna@
 https://en.wikipedia.org/wiki/Fascism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Liberalism	CLAIMED	pop-os:3784018:codex	2026-11-22T07:38:25.277135+01:00
 https://en.wikipedia.org/wiki/Nationalism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Socialism	CLAIMED	pop-os:3488436:claude_code	2026-11-22T08:12:26.062530+01:00
+https://en.wikipedia.org/wiki/Socialism
 https://en.wikipedia.org/wiki/State_(polity)
 https://en.wikipedia.org/wiki/Economics	CLAIMED	pop-os:3637481:codex	2026-11-06T19:42:14.661868+01:00
 https://en.wikipedia.org/wiki/Euro	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
