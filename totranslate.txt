@@ -603,7 +603,8 @@ https://en.wikipedia.org/wiki/Hindustani_language	DONE	gpt-6-luna@codex	review=g
 https://en.wikipedia.org/wiki/Korean_language	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Japanese_language	POSTED
 https://en.wikipedia.org/wiki/Latin	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Persian_language	CLAIMED	pop-os:728321:claude_code	2026-11-22T23:55:50.806066+01:00
+https://en.wikipedia.org/wiki/Persian_language	FAILED	claude-haiku-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Portuguese_language
 https://en.wikipedia.org/wiki/Russian_language
 https://en.wikipedia.org/wiki/Sanskrit	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
