@@ -595,7 +595,7 @@ https://en.wikipedia.org/wiki/Greek_language	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Hebrew_language	POSTED
 https://en.wikipedia.org/wiki/Hindustani_language	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Korean_language	CLAIMED	pop-os:3488436:claude_code	2026-11-22T19:09:07.557855+01:00
+https://en.wikipedia.org/wiki/Korean_language	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Japanese_language	POSTED
 https://en.wikipedia.org/wiki/Latin	CLAIMED	pop-os:3784018:codex	2026-11-22T19:38:09.813664+01:00
 https://en.wikipedia.org/wiki/Persian_language
