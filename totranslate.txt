@@ -452,7 +452,7 @@ https://en.wikipedia.org/wiki/Charlie_Chaplin	POSTED
 https://en.wikipedia.org/wiki/Washington,_D.C.	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Ukraine	POSTED
-https://en.wikipedia.org/wiki/Vietnam	CLAIMED	pop-os:3488436:claude_code	2026-11-22T01:11:20.988043+01:00
+https://en.wikipedia.org/wiki/Vietnam	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Sun	POSTED
 https://en.wikipedia.org/wiki/South_Korea	DONE	codex@codex	repaired=assembly+review
 # reason: translation did not complete (see run.log for this article)
