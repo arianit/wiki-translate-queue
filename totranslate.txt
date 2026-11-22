@@ -591,7 +591,7 @@ https://en.wikipedia.org/wiki/Slavery	CLAIMED	pop-os:729506:codex	2026-11-22T23:
 # Vital articles: Language and literature (List of articles every Wikipedia should have)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Language	POSTED
 https://en.wikipedia.org/wiki/Arabic	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Bengali_language	CLAIMED	pop-os:3488436:claude_code	2026-11-22T13:47:37.519220+01:00
+https://en.wikipedia.org/wiki/Bengali_language	CLAIMED	pop-os:728321:claude_code	2026-11-22T23:22:31.490605+01:00
 https://en.wikipedia.org/wiki/Chinese_language	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/French_language	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
