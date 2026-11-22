@@ -524,7 +524,7 @@ https://en.wikipedia.org/wiki/Religion	DONE	gpt-6-luna@codex	review=gpt-6-luna@c
 https://en.wikipedia.org/wiki/Buddhism	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Catholic_Church	CLAIMED	pop-os:3488436:claude_code	2026-11-22T06:07:30.656254+01:00
-https://en.wikipedia.org/wiki/Protestantism
+https://en.wikipedia.org/wiki/Protestantism	CLAIMED	pop-os:3784018:codex	2026-11-22T06:16:49.613961+01:00
 https://en.wikipedia.org/wiki/Hinduism
 https://en.wikipedia.org/wiki/Shia_Islam	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sunni_Islam	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
