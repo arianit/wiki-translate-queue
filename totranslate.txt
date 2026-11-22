@@ -594,7 +594,7 @@ https://en.wikipedia.org/wiki/German_language	POSTED
 https://en.wikipedia.org/wiki/Greek_language	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Hebrew_language	POSTED
-https://en.wikipedia.org/wiki/Hindustani_language
+https://en.wikipedia.org/wiki/Hindustani_language	CLAIMED	pop-os:3784018:codex	2026-11-22T15:54:28.746923+01:00
 https://en.wikipedia.org/wiki/Korean_language
 https://en.wikipedia.org/wiki/Japanese_language	POSTED
 https://en.wikipedia.org/wiki/Latin
