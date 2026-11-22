@@ -435,7 +435,7 @@ https://en.wikipedia.org/wiki/Poland	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Mahatma_Gandhi	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Bangladesh	CLAIMED	pop-os:3488436:claude_code	2026-11-21T21:29:02.489333+01:00
+https://en.wikipedia.org/wiki/Bangladesh	CLAIMED	pop-os:728321:claude_code	2026-11-22T21:33:28.662025+01:00
 https://en.wikipedia.org/wiki/Los_Angeles	DONE	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Roman_Empire	POSTED
