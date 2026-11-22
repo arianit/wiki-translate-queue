@@ -468,7 +468,8 @@ https://en.wikipedia.org/wiki/Stanley_Kubrick	DONE	claude-haiku-5-5@claude_code	
 https://en.wikipedia.org/wiki/Frida_Kahlo	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Nigeria	DONE	gpt-6-luna@codex
 # reason: rate/spend limit (HTTP 429): You've hit your session limit · resets 12am (Europe/Tirane) (raw output logged to logs/claude-cli-error-20261016T182221Z-claude-sonnet-5-5-4afa153b.log)
-https://en.wikipedia.org/wiki/Christopher_Columbus	CLAIMED	pop-os:3488436:claude_code	2026-11-22T04:16:26.451916+01:00
+https://en.wikipedia.org/wiki/Christopher_Columbus	FAILED	claude-haiku-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Mount_Everest	DONE	gpt-6-luna@codex
 # reason: opencode_go 5-hour usage limit hit mid-article; fallback model claude-sonnet-5-5 is not a valid opencode model id
 https://en.wikipedia.org/wiki/Fyodor_Dostoevsky	DONE	codex@codex	repaired=assembly+review
