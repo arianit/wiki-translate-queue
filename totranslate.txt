@@ -591,7 +591,7 @@ https://en.wikipedia.org/wiki/Chinese_language	FAILED	claude-haiku-5-5@claude_co
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/French_language	CLAIMED	pop-os:3488436:claude_code	2026-11-22T14:48:00.676435+01:00
 https://en.wikipedia.org/wiki/German_language	POSTED
-https://en.wikipedia.org/wiki/Greek_language
+https://en.wikipedia.org/wiki/Greek_language	CLAIMED	pop-os:3784018:codex	2026-11-22T14:53:49.350090+01:00
 https://en.wikipedia.org/wiki/Hebrew_language	POSTED
 https://en.wikipedia.org/wiki/Hindustani_language
 https://en.wikipedia.org/wiki/Korean_language
