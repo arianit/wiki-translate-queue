@@ -551,7 +551,7 @@ https://en.wikipedia.org/wiki/Fascism	DONE	gpt-6-luna@codex	review=gpt-6-luna@co
 https://en.wikipedia.org/wiki/Liberalism	CLAIMED	pop-os:3784018:codex	2026-11-22T07:38:25.277135+01:00
 https://en.wikipedia.org/wiki/Nationalism	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Socialism	CLAIMED	pop-os:3488436:claude_code	2026-11-22T09:08:30.037073+01:00
-https://en.wikipedia.org/wiki/State_(polity)
+https://en.wikipedia.org/wiki/State_(polity)	CLAIMED	pop-os:3784018:codex	2026-11-22T09:46:05.567522+01:00
 https://en.wikipedia.org/wiki/Economics	CLAIMED	pop-os:3637481:codex	2026-11-06T19:42:14.661868+01:00
 https://en.wikipedia.org/wiki/Euro	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/United_States_dollar
