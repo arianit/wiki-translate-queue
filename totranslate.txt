@@ -622,7 +622,8 @@ https://en.wikipedia.org/wiki/Phoneme	DONE	claude-haiku-5-5@claude_code	review=c
 https://en.wikipedia.org/wiki/Syllable	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Writing_system	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Arabic_script	CLAIMED	pop-os:1177328:claude_code	2026-11-23T22:57:46.731912+01:00
+https://en.wikipedia.org/wiki/Arabic_script	FAILED	claude-haiku-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Chinese_characters	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Cyrillic_script	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
