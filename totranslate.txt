@@ -647,7 +647,7 @@ https://en.wikipedia.org/wiki/Novel	DONE	gpt-6-luna@codex	review=gpt-6-luna@code
 https://en.wikipedia.org/wiki/The_Tale_of_Genji	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Poetry	CLAIMED	pop-os:1177328:claude_code	2026-11-23T23:54:10.991022+01:00
 https://en.wikipedia.org/wiki/Epic_of_Gilgamesh	POSTED
-https://en.wikipedia.org/wiki/Shahnameh
+https://en.wikipedia.org/wiki/Shahnameh	CLAIMED	pop-os:1177293:codex	2026-11-23T23:58:36.977497+01:00
 https://en.wikipedia.org/wiki/Bible	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Mahabharata	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/military	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
