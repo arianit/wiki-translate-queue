@@ -618,7 +618,8 @@ https://en.wikipedia.org/wiki/Linguistics	CLAIMED	pop-os:728321:claude_code	2026
 https://en.wikipedia.org/wiki/Grammar	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Word	POSTED
 https://en.wikipedia.org/wiki/Phoneme	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Syllable	CLAIMED	pop-os:729506:codex	2026-11-23T03:34:13.309676+01:00
+https://en.wikipedia.org/wiki/Syllable	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Writing_system	POSTED
 https://en.wikipedia.org/wiki/Arabic_script	CLAIMED	pop-os:728321:claude_code	2026-11-23T03:38:44.835614+01:00
 https://en.wikipedia.org/wiki/Chinese_characters
