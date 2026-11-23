@@ -615,7 +615,7 @@ https://en.wikipedia.org/wiki/Spanish_language	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Swahili	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Turkish_language	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Linguistics	CLAIMED	pop-os:1177328:claude_code	2026-11-23T22:41:13.336853+01:00
+https://en.wikipedia.org/wiki/Linguistics	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Grammar	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Word	POSTED
 https://en.wikipedia.org/wiki/Phoneme	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
