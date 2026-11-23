@@ -631,7 +631,7 @@ https://en.wikipedia.org/wiki/Greek_alphabet	FAILED	claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Latin_script	CLAIMED	pop-os:729506:codex	2026-11-23T05:04:29.437962+01:00
 https://en.wikipedia.org/wiki/Literacy	CLAIMED	pop-os:728321:claude_code	2026-11-23T05:19:50.246806+01:00
 https://en.wikipedia.org/wiki/Translation	POSTED
-https://en.wikipedia.org/wiki/Literature
+https://en.wikipedia.org/wiki/Literature	CLAIMED	pop-os:729506:codex	2026-11-23T06:04:55.425999+01:00
 https://en.wikipedia.org/wiki/Prose
 https://en.wikipedia.org/wiki/The_Art_of_War	POSTED
 https://en.wikipedia.org/wiki/Fiction
