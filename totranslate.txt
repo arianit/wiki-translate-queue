@@ -609,7 +609,7 @@ https://en.wikipedia.org/wiki/Portuguese_language	CLAIMED	pop-os:728321:claude_c
 https://en.wikipedia.org/wiki/Russian_language	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Sanskrit	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Spanish_language
+https://en.wikipedia.org/wiki/Spanish_language	CLAIMED	pop-os:729506:codex	2026-11-23T02:18:29.251275+01:00
 https://en.wikipedia.org/wiki/Swahili
 https://en.wikipedia.org/wiki/Turkish_language	POSTED
 https://en.wikipedia.org/wiki/Linguistics
