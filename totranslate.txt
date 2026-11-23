@@ -633,7 +633,7 @@ https://en.wikipedia.org/wiki/Literacy	CLAIMED	pop-os:728321:claude_code	2026-11
 https://en.wikipedia.org/wiki/Translation	POSTED
 https://en.wikipedia.org/wiki/Literature	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Prose
+https://en.wikipedia.org/wiki/Prose	CLAIMED	pop-os:729506:codex	2026-11-23T07:05:22.494543+01:00
 https://en.wikipedia.org/wiki/The_Art_of_War	POSTED
 https://en.wikipedia.org/wiki/Fiction
 https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights
