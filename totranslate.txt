@@ -159,7 +159,7 @@ https://en.wikipedia.org/wiki/Chemical_compound	DONE	claude-haiku-5-5@claude_cod
 https://en.wikipedia.org/wiki/Chemical_element	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Organic_chemistry	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Molecule	POSTED	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Analytical_chemistry	CLAIMED	pop-os:1690471:claude_code	2026-11-24T18:57:56.963631+01:00
+https://en.wikipedia.org/wiki/Analytical_chemistry	CLAIMED	pop-os:1810431:claude_code	2026-11-24T22:27:45.968850+01:00
 https://en.wikipedia.org/wiki/Physical_chemistry	CLAIMED	pop-os:1690471:claude_code	2026-11-24T18:58:04.078597+01:00
 https://en.wikipedia.org/wiki/Climate	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Water_cycle	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
