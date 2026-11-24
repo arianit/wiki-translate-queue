@@ -688,7 +688,7 @@ https://en.wikipedia.org/wiki/Iron_Age	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Maya_civilization	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Mesopotamia	CLAIMED	pop-os:1690471:claude_code	2026-11-24T18:27:01.674788+01:00
+https://en.wikipedia.org/wiki/Mesopotamia	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Prehistory	CLAIMED	pop-os:1177293:codex	2026-11-24T18:50:34.954912+01:00
 https://en.wikipedia.org/wiki/Sumer
 https://en.wikipedia.org/wiki/Stone_Age
