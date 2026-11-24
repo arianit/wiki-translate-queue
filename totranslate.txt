@@ -672,7 +672,8 @@ https://en.wikipedia.org/wiki/God	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Turkey	POSTED
 https://en.wikipedia.org/wiki/Belgium	POSTED
 https://en.wikipedia.org/wiki/Sweden	POSTED
-https://en.wikipedia.org/wiki/Greece	CLAIMED	pop-os:1177293:codex	2026-11-24T03:51:32.620559+01:00
+https://en.wikipedia.org/wiki/Greece	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Slovenia	POSTED
 https://en.wikipedia.org/wiki/Croatia	POSTED
 
