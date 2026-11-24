@@ -696,7 +696,8 @@ https://en.wikipedia.org/wiki/Tang_dynasty	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Aztecs	CLAIMED	pop-os:1800599:codex	2026-11-24T23:10:07.332930+01:00
 https://en.wikipedia.org/wiki/Crusades	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Inca_Empire	CLAIMED	pop-os:1810431:claude_code	2026-11-24T23:50:08.373784+01:00
+https://en.wikipedia.org/wiki/Inca_Empire	FAILED	claude-haiku-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Mali_Empire
 https://en.wikipedia.org/wiki/Middle_Ages
 https://en.wikipedia.org/wiki/Ming_dynasty
