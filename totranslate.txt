@@ -693,7 +693,7 @@ https://en.wikipedia.org/wiki/Prehistory	CLAIMED	pop-os:1800599:codex	2026-11-24
 https://en.wikipedia.org/wiki/Sumer	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Stone_Age	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Tang_dynasty	FAILED	claude-haiku-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
+# reason: translation did not complete (see run.log for this article)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Aztecs	CLAIMED	pop-os:1800599:codex	2026-11-24T23:10:07.332930+01:00
 https://en.wikipedia.org/wiki/Crusades	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Inca_Empire	FAILED	claude-haiku-5-5@claude_code
