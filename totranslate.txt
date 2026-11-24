@@ -682,7 +682,7 @@ https://en.wikipedia.org/wiki/History	DONE	gpt-6-luna@codex	review=gpt-6-luna@co
 https://en.wikipedia.org/wiki/Ancient_Egypt	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Bronze_Age	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Gupta_Empire	CLAIMED	pop-os:1177293:codex	2026-11-24T07:30:15.316518+01:00
+https://en.wikipedia.org/wiki/Gupta_Empire	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Han_dynasty
 https://en.wikipedia.org/wiki/Iron_Age
 https://en.wikipedia.org/wiki/Maya_civilization
