@@ -692,7 +692,7 @@ https://en.wikipedia.org/wiki/Mesopotamia	DONE	claude-haiku-5-5@claude_code	revi
 https://en.wikipedia.org/wiki/Prehistory	CLAIMED	pop-os:1800599:codex	2026-11-24T21:56:22.369356+01:00
 https://en.wikipedia.org/wiki/Sumer	CLAIMED	pop-os:1800599:codex	2026-11-24T21:56:31.600329+01:00
 https://en.wikipedia.org/wiki/Stone_Age	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Tang_dynasty
+https://en.wikipedia.org/wiki/Tang_dynasty	CLAIMED	pop-os:1810431:claude_code	2026-11-24T22:54:29.421708+01:00
 https://en.wikipedia.org/wiki/Aztecs
 https://en.wikipedia.org/wiki/Crusades
 https://en.wikipedia.org/wiki/Inca_Empire
