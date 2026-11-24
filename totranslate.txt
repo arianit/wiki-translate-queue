@@ -173,7 +173,7 @@ https://en.wikipedia.org/wiki/Atom	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Energy	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Electromagnetic_radiation	DONE	 claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Classical_mechanics	DONE	 claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Force	CLAIMED	pop-os:1690471:claude_code	2026-11-24T18:58:10.733733+01:00
+https://en.wikipedia.org/wiki/Force	CLAIMED	pop-os:1810431:claude_code	2026-11-24T22:27:59.437250+01:00
 https://en.wikipedia.org/wiki/Magnet	CLAIMED	pop-os:1690471:claude_code	2026-11-24T18:58:20.463096+01:00
 https://en.wikipedia.org/wiki/Mass	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
