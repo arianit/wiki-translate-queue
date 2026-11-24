@@ -481,7 +481,8 @@ https://en.wikipedia.org/wiki/World_Wide_Web	POSTED
 # reason: translation did not complete (see run.log for this article)	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 # reason: translation did not complete (see run.log for this article)	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Holy_Roman_Empire	CLAIMED	pop-os:1177293:codex	2026-11-24T00:51:51.993665+01:00
+https://en.wikipedia.org/wiki/Holy_Roman_Empire	FAILED	gpt-6-luna@codex
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Byzantine_Empire	POSTED
 https://en.wikipedia.org/wiki/North_America	POSTED
 # reason: translation did not complete (see run.log for this article)
