@@ -664,7 +664,7 @@ https://en.wikipedia.org/wiki/Three Gorges Dam POSTED	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Jesus Christ	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Tin	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Science	POSTED
-https://en.wikipedia.org/wiki/Africa	CLAIMED	pop-os:1177293:codex	2026-11-24T01:25:17.928356+01:00
+https://en.wikipedia.org/wiki/Africa	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/God	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 
 
