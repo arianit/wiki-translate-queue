@@ -680,7 +680,7 @@ https://en.wikipedia.org/wiki/Croatia	POSTED
 # Vital articles: History (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/History	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Ancient_Egypt	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Bronze_Age
+https://en.wikipedia.org/wiki/Bronze_Age	CLAIMED	pop-os:1177293:codex	2026-11-24T07:07:58.763772+01:00
 https://en.wikipedia.org/wiki/Gupta_Empire
 https://en.wikipedia.org/wiki/Han_dynasty
 https://en.wikipedia.org/wiki/Iron_Age
