@@ -709,7 +709,7 @@ https://en.wikipedia.org/wiki/Apartheid	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/British_Empire	CLAIMED	pop-os:1810431:claude_code	2026-11-25T03:18:47.561275+01:00
 https://en.wikipedia.org/wiki/Cold_War	FAILED	gpt-6-luna@codex
-# reason: translation did not complete (see run.log for this article)
+# reason: translation did not complete (see run.log for this article)	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/French_Revolution	CLAIMED	pop-os:1810431:claude_code	2026-11-25T04:04:18.446023+01:00
 https://en.wikipedia.org/wiki/Great_Depression	CLAIMED	pop-os:1800599:codex	2026-11-25T04:40:27.718551+01:00
 https://en.wikipedia.org/wiki/Industrial_Revolution
