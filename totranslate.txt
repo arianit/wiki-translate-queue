@@ -704,7 +704,7 @@ https://en.wikipedia.org/wiki/Ming_dynasty	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Renaissance	CLAIMED	pop-os:1800599:codex	2026-11-25T01:15:06.723484+01:00
 https://en.wikipedia.org/wiki/Vikings	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_conflict	CLAIMED	pop-os:1810431:claude_code	2026-11-25T01:16:20.778049+01:00
+https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_conflict	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Apartheid	CLAIMED	pop-os:1800599:codex	2026-11-25T03:04:18.763922+01:00
 https://en.wikipedia.org/wiki/British_Empire
 https://en.wikipedia.org/wiki/Cold_War
