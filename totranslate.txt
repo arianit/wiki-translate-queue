@@ -717,7 +717,8 @@ https://en.wikipedia.org/wiki/Industrial_Revolution	FAILED	claude-haiku-5-5@clau
 https://en.wikipedia.org/wiki/Meiji_Restoration	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Reformation	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Russian_Revolution	CLAIMED	pop-os:1810431:claude_code	2026-11-25T06:03:55.317414+01:00
+https://en.wikipedia.org/wiki/Russian_Revolution	FAILED	claude-haiku-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Qing_dynasty
 
 # Vital articles: Geography (List of articles every Wikipedia should have)
