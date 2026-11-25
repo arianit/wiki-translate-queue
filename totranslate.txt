@@ -714,7 +714,7 @@ https://en.wikipedia.org/wiki/French_Revolution	CLAIMED	pop-os:1810431:claude_co
 https://en.wikipedia.org/wiki/Great_Depression	CLAIMED	pop-os:1800599:codex	2026-11-25T04:40:27.718551+01:00
 https://en.wikipedia.org/wiki/Industrial_Revolution	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Meiji_Restoration	CLAIMED	pop-os:1810431:claude_code	2026-11-25T05:03:17.630492+01:00
+https://en.wikipedia.org/wiki/Meiji_Restoration	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Reformation
 https://en.wikipedia.org/wiki/Russian_Revolution
 https://en.wikipedia.org/wiki/Qing_dynasty
