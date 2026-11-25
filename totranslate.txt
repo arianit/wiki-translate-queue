@@ -183,7 +183,7 @@ https://en.wikipedia.org/wiki/State_of_matter	DONE	claude-haiku-5-5@claude_code	
 https://en.wikipedia.org/wiki/Quantum_mechanics	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Radioactivity	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/General_relativity	CLAIMED	pop-os:1810431:claude_code	2026-11-24T22:28:13.646107+01:00
+https://en.wikipedia.org/wiki/General_relativity	CLAIMED	pop-os:1800599:codex	2026-11-25T06:19:02.937463+01:00
 https://en.wikipedia.org/wiki/Special_relativity	DONE    	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Semiconductor	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Sound	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
