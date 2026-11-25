@@ -708,7 +708,7 @@ https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_conflict	DONE	claude-haiku-5-
 https://en.wikipedia.org/wiki/Apartheid	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/British_Empire	CLAIMED	pop-os:1810431:claude_code	2026-11-25T03:18:47.561275+01:00
-https://en.wikipedia.org/wiki/Cold_War
+https://en.wikipedia.org/wiki/Cold_War	CLAIMED	pop-os:1800599:codex	2026-11-25T03:38:23.325127+01:00
 https://en.wikipedia.org/wiki/French_Revolution
 https://en.wikipedia.org/wiki/Great_Depression
 https://en.wikipedia.org/wiki/Industrial_Revolution
