@@ -702,7 +702,7 @@ https://en.wikipedia.org/wiki/Mali_Empire	DONE	claude-haiku-5-5@claude_code	revi
 https://en.wikipedia.org/wiki/Middle_Ages	CLAIMED	pop-os:1810431:claude_code	2026-11-25T00:31:53.991670+01:00
 https://en.wikipedia.org/wiki/Ming_dynasty	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Renaissance
+https://en.wikipedia.org/wiki/Renaissance	CLAIMED	pop-os:1800599:codex	2026-11-25T01:15:06.723484+01:00
 https://en.wikipedia.org/wiki/Vikings
 https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_conflict
 https://en.wikipedia.org/wiki/Apartheid
