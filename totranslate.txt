@@ -32,7 +32,7 @@ https://en.wikipedia.org/wiki/Major_depressive_disorder	POSTED
 https://en.wikipedia.org/wiki/Asthma	POSTED
 https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease	POSTED
 https://en.wikipedia.org/wiki/Pregnancy	POSTED
-https://en.wikipedia.org/wiki/Sexually_transmitted_infection	CLAIMED	pop-os:1810431:claude_code	2026-11-24T22:27:23.629952+01:00
+https://en.wikipedia.org/wiki/Sexually_transmitted_infection	CLAIMED	pop-os:1800599:codex	2026-11-25T06:18:09.841998+01:00
 https://en.wikipedia.org/wiki/Childbirth	POSTED
 https://en.wikipedia.org/wiki/Birth_control	POSTED
 https://en.wikipedia.org/wiki/Ovarian_cancer	POSTED gpt-6-luna@codex
