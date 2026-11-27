@@ -730,7 +730,8 @@ https://en.wikipedia.org/wiki/Continent	CLAIMED	pop-os:2422901:codex	2026-11-27T
 https://en.wikipedia.org/wiki/Forest	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Mountain	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Desert	CLAIMED	pop-os:2422847:claude_code	2026-11-27T23:45:45.931623+01:00
+https://en.wikipedia.org/wiki/Desert	FAILED	claude-sonnet-5-5@claude_code
+# reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/North_Pole
 https://en.wikipedia.org/wiki/Ocean
 https://en.wikipedia.org/wiki/River
