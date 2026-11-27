@@ -725,7 +725,7 @@ https://en.wikipedia.org/wiki/Qing_dynasty	FAILED	gpt-6-luna@codex
 
 # Vital articles: Geography (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/City	FAILED	claude-haiku-5-5@claude_code
-# reason: translation did not complete (see run.log for this article)
+# reason: translation did not complete (see run.log for this article)	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Continent	CLAIMED	pop-os:2422901:codex	2026-11-27T22:18:15.880466+01:00
 https://en.wikipedia.org/wiki/Forest	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Mountain	FAILED	claude-haiku-5-5@claude_code
