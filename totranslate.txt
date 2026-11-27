@@ -343,7 +343,7 @@ https://en.wikipedia.org/wiki/Civil_war	DONE
 https://en.wikipedia.org/wiki/Christianity	DONE
 https://en.wikipedia.org/wiki/Islam	DONE
 https://en.wikipedia.org/wiki/Physics	DONE
-https://en.wikipedia.org/wiki/Biology	
+https://en.wikipedia.org/wiki/Biology	CLAIMED	pop-os:2422901:codex	2026-11-27T18:16:35.606613+01:00
 https://en.wikipedia.org/wiki/United_States	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Michael_Jackson	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/Argentina	FAILED	gpt-6-luna@codex
