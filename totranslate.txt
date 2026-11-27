@@ -734,7 +734,7 @@ https://en.wikipedia.org/wiki/Desert	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/North_Pole	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Ocean
+https://en.wikipedia.org/wiki/Ocean	CLAIMED	pop-os:2422847:claude_code	2026-11-27T23:51:29.315759+01:00
 https://en.wikipedia.org/wiki/River
 https://en.wikipedia.org/wiki/Sea
 https://en.wikipedia.org/wiki/South_Pole
