@@ -725,7 +725,7 @@ https://en.wikipedia.org/wiki/Qing_dynasty	FAILED	gpt-6-luna@codex
 
 # Vital articles: Geography (List of articles every Wikipedia should have)
 https://en.wikipedia.org/wiki/City	CLAIMED	pop-os:2422901:codex	2026-11-27T22:18:09.577159+01:00
-https://en.wikipedia.org/wiki/Continent
+https://en.wikipedia.org/wiki/Continent	CLAIMED	pop-os:2422901:codex	2026-11-27T22:18:15.880466+01:00
 https://en.wikipedia.org/wiki/Forest
 https://en.wikipedia.org/wiki/Mountain
 https://en.wikipedia.org/wiki/Desert
