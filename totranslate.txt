@@ -724,7 +724,7 @@ https://en.wikipedia.org/wiki/Qing_dynasty	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 
 # Vital articles: Geography (List of articles every Wikipedia should have)
-https://en.wikipedia.org/wiki/City
+https://en.wikipedia.org/wiki/City	CLAIMED	pop-os:2422847:claude_code	2026-11-27T20:38:45.284212+01:00
 https://en.wikipedia.org/wiki/Continent
 https://en.wikipedia.org/wiki/Forest
 https://en.wikipedia.org/wiki/Mountain
