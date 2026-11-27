@@ -748,7 +748,7 @@ https://en.wikipedia.org/wiki/Asia	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Middle_East	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Oceania
+https://en.wikipedia.org/wiki/Oceania	CLAIMED	pop-os:2422847:claude_code	2026-11-27T23:58:52.323000+01:00
 https://en.wikipedia.org/wiki/South_America
 https://en.wikipedia.org/wiki/Ethiopia
 https://en.wikipedia.org/wiki/Sudan
