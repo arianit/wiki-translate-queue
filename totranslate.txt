@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/MMR_vaccine	DONE	gpt-6-luna@codex	review=gpt-6-lun
 https://en.wikipedia.org/wiki/Smallpox_vaccine	POSTED
 https://en.wikipedia.org/wiki/Influenza_vaccine	POSTED
 https://en.wikipedia.org/wiki/Influenza	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-https://en.wikipedia.org/wiki/Common_cold	CLAIMED	pop-os:1800599:codex	2026-11-25T06:18:02.545991+01:00
+https://en.wikipedia.org/wiki/Common_cold	CLAIMED	pop-os:2422901:codex	2026-11-27T18:15:28.713072+01:00
 https://en.wikipedia.org/wiki/Coronary_artery_disease	POSTED
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Gingivitis	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -84,7 +84,7 @@ https://en.wikipedia.org/wiki/Infection POSTED	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Vaccine-preventable_disease	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/HIV/AIDS CLAIMED	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Multiple_sclerosis	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
+https://en.wikipedia.org/wiki/Multiple_sclerosis	DONE 	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 
 # Vital articles: SCIENCE (List of articles every Wikipedia should have)
 
@@ -127,7 +127,7 @@ https://en.wikipedia.org/wiki/Star	POSTED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Universe	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Botany	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
+https://en.wikipedia.org/wiki/Botany	POSTED	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Death	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Ecology	DONE	gpt-6-luna@codex	review=claude-sonnet-5-5@claude_code
 https://en.wikipedia.org/wiki/Life	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
@@ -152,9 +152,9 @@ https://en.wikipedia.org/wiki/Plant	DONE	claude-haiku-5-5@claude_code	review=cla
 https://en.wikipedia.org/wiki/Protist	FAILED	claude-haiku-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Anatomy	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Cell_(biology)	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
+https://en.wikipedia.org/wiki/Cell_(biology)	POSTED	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Inorganic_chemistry	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
-https://en.wikipedia.org/wiki/Biochemistry	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
+https://en.wikipedia.org/wiki/Biochemistry	POSTED	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Chemical_compound	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Chemical_element	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Organic_chemistry	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
@@ -343,7 +343,7 @@ https://en.wikipedia.org/wiki/Civil_war	DONE
 https://en.wikipedia.org/wiki/Christianity	DONE
 https://en.wikipedia.org/wiki/Islam	DONE
 https://en.wikipedia.org/wiki/Physics	DONE
-https://en.wikipedia.org/wiki/Biology	DONE
+https://en.wikipedia.org/wiki/Biology	
 https://en.wikipedia.org/wiki/United_States	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Michael_Jackson	DONE	opencode-go/deepseek-v4.1-flash@opencode_go
 https://en.wikipedia.org/wiki/Argentina	FAILED	gpt-6-luna@codex
@@ -654,7 +654,7 @@ https://en.wikipedia.org/wiki/Shahnameh	FAILED	gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Bible	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Mahabharata	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/military	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
-
+https://en.wikipedia.org/wiki/Earthquake POSTED
 
 https://en.wikipedia.org/wiki/Electromagnetic interaction	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Pottery	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
