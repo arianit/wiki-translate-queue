@@ -559,7 +559,7 @@ https://en.wikipedia.org/wiki/Nationalism	DONE	gpt-6-luna@codex	review=gpt-6-lun
 https://en.wikipedia.org/wiki/Socialism	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/State_(polity)	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Economics	CLAIMED	pop-os:1800599:codex	2026-11-24T21:11:08.689910+01:00
+https://en.wikipedia.org/wiki/Economics	CLAIMED	pop-os:2422901:codex	2026-11-27T18:40:31.261990+01:00
 https://en.wikipedia.org/wiki/Euro	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/United_States_dollar	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
