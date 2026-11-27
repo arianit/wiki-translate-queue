@@ -754,7 +754,7 @@ https://en.wikipedia.org/wiki/South_America	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Ethiopia	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Sudan
+https://en.wikipedia.org/wiki/Sudan	CLAIMED	pop-os:2422901:codex	2026-11-28T00:07:29.729088+01:00
 https://en.wikipedia.org/wiki/Tanzania
 https://en.wikipedia.org/wiki/Iraq
 https://en.wikipedia.org/wiki/Vatican_City
