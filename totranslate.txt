@@ -744,7 +744,7 @@ https://en.wikipedia.org/wiki/South_Pole	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
 https://en.wikipedia.org/wiki/Antarctica	FAILED	claude-sonnet-5-5@claude_code
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Asia
+https://en.wikipedia.org/wiki/Asia	CLAIMED	pop-os:2422847:claude_code	2026-11-27T23:56:49.835408+01:00
 https://en.wikipedia.org/wiki/Middle_East
 https://en.wikipedia.org/wiki/Oceania
 https://en.wikipedia.org/wiki/South_America
