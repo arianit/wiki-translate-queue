@@ -703,7 +703,7 @@ https://en.wikipedia.org/wiki/Mali_Empire	DONE	claude-haiku-5-5@claude_code	revi
 https://en.wikipedia.org/wiki/Middle_Ages	POSTED	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Ming_dynasty	FAILED	gpt-6-luna@codex
 # reason: translation did not complete (see run.log for this article)
-https://en.wikipedia.org/wiki/Renaissance	CLAIMED	pop-os:1800599:codex	2026-11-25T01:15:06.723484+01:00
+https://en.wikipedia.org/wiki/Renaissance	CLAIMED	pop-os:2422901:codex	2026-11-27T21:46:10.659459+01:00
 https://en.wikipedia.org/wiki/Vikings	DONE	gpt-6-luna@codex	review=gpt-6-luna@codex
 https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_conflict	DONE	claude-haiku-5-5@claude_code	review=claude-haiku-5-5@claude_code
 https://en.wikipedia.org/wiki/Apartheid	FAILED	gpt-6-luna@codex
